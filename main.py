@@ -3,7 +3,10 @@ import time
 from urllib.parse import urlparse
 from datetime import datetime
 
-driver = webdriver.Chrome(executable_path=r"C:\Users\Marvin\Desktop\chromedriver.exe")  # r = raw String
+# Driver settings
+driver = webdriver.Chrome(executable_path=r"C:\Users\Marvin\Desktop\chromedriver.exe")
+
+# Keywords
 gdpr_banner_keywords = ["Alle Akzeptieren", "Alle akzeptieren", "Auswahlmöglichkeiten anpassen",
                         "Weitere Informationen",
                         "Nur Essentielle Cookies akzeptieren", "Nur Essenzielle Cookies akzeptieren",
@@ -12,20 +15,22 @@ cookie_banner_keywords = ["Akzeptieren", "Verstanden", "Ablehnen"]
 positive_cookie_banner_buttons = ["Alle Akzeptieren", "Alle akzeptieren", "Akzeptieren", "Verstanden"]
 websites = ["https://www.unimals.de/", "https://www.evosportsfuel.de/", "https://www.ruehl24.de/de/",
             "https://www.saysorry.de/"]  # Note: Use www so that the website name can be shortened optimally
-single_website = ["https://www.evosportsfuel.de/"]
+single_website = ["https://www.unimals.de/"]
+
+# Essential Variables
 short_website_name = ""
 current_website_gdpr_compliant = False
 current_website_cookie_use = False
 current_website_unauthorized_use_of_cookies_at_beginning = False
+current_website_unauthorized_use_of_third_party_cookies_at_beginning = False
+current_website_authorized_use_of_third_party_cookies_after = False
 
 # Analysis
 a_cookies_before = []
 a_cookies_after = []
 cookie_difference = []
 
-
-
-# Unauthorized third-party cookies:
+# Keywords: Unauthorized third-party-cookies:
 # _fbp = Facebook Pixel
 # _pin_unauth = Pinterest Tag
 # _ga, _gat, _gid, _gcl_au = Google Analytics
@@ -35,20 +40,20 @@ third_party_cookies = ["_fbp", "_pin_unauth", "_ga", "_gat", "_gid", "_gcl_au"]
 def initialize_website_file_and_check_cookie_banner():
     global current_website_cookie_use
 
-    print("Überprüfe Cookie-Status für die Website: " + website + " (" + short_website_name + ")")
+    print("Check cookie status for the website: " + website + " (" + short_website_name + ")")
     for keyword in cookie_banner_keywords:
         if keyword in html_source:
             current_website_cookie_use = True
 
     if current_website_cookie_use:
-        print("Es ist ein Cookie-Banner vorhanden!")
+        print("There is a cookie banner available!")
     else:
-        print("Es ist KEIN Cookie-Banner vorhanden!")
+        print("There is NO cookie banner available!")
 
     with open("results/" + short_website_name + ".txt", "a") as website_file:
         dt_string = datetime.now().strftime("%d.%m.%Y %H:%M:%S")
         website_file.write("Website " + str((websites.index(website)) + 1) + ": " + website + " | Created: " + str(dt_string) + "\n")
-        website_file.write("Website uses a cookie banner: " + str(current_website_cookie_use) + "\n")
+        website_file.write("[Initial] Website uses a cookie banner: " + str(current_website_cookie_use) + "\n")
 
 
 def check_gdpr_cookie_status():
@@ -57,28 +62,28 @@ def check_gdpr_cookie_status():
     global short_website_name
 
     if current_website_cookie_use:
-        print("Überprüfe GDPR-Cookie-Banner-Status...")
+        print("Check GDPR cookie banner status...")
         for keyword in gdpr_banner_keywords:
             if keyword in html_source:
-                print("Rechtskonformität (erneut) bestätigt!")
-                print("Gefundenes Keyword: " + keyword)
+                print("Legal conformity confirmed (again)!")
+                print("Found Keyword: " + keyword)
                 current_website_gdpr_compliant = True
 
         if current_website_gdpr_compliant:
-            print("Fazit: Es handelt sich um einen rechtskonformen GDPR-Cookie-Banner")
+            print("Conclusion: It is a legally compliant GDPR cookie banner")
         else:
-            print("Keine passenden GDPR-Keywords gefunden!")
-            print("Fazit: Es handelt sich NICHT um einen rechtskonformen GDPR-Cookie-Banner!")
+            print("No matching GDPR keywords found!")
+            print("Conclusion: This is NOT a legally compliant GDPR cookie banner!")
 
     with open("results/" + short_website_name + ".txt", "a") as website_file:
-        website_file.write("Website uses a GDPR compliant cookie banner: " + str(current_website_gdpr_compliant) + "\n")
+        website_file.write("[Initial] Website uses a GDPR compliant cookie banner: " + str(current_website_gdpr_compliant) + "\n")
 
 
 def check_cookies_at_start():
     global short_website_name
 
     cookies = driver.get_cookies()
-    print("Anzahl der zu Beginn geladenen Cookies: " + str(cookies.__len__()))
+    print("Number of cookies loaded at the beginning: " + str(cookies.__len__()))
     print(cookies)
 
     with open("results/" + short_website_name + ".txt", "a") as website_file:
@@ -93,7 +98,7 @@ def check_cookies_at_start():
 
 def check_cookies_after_banner_accept():
     cookies = driver.get_cookies()
-    print("Anzahl der Cookies, nachdem der Cookie-Banner akzeptiert wurde: " + str(cookies.__len__()))
+    print("Number of cookies after the cookie banner has been accepted: " + str(cookies.__len__()))
     print(cookies)
 
     with open("results/" + short_website_name + ".txt", "a") as website_file:
@@ -115,7 +120,7 @@ def accept_cookie_banner():
             for btn in buttons:
                 if btn.is_enabled() and btn.is_displayed():
                     btn.click()
-                    print("Cookies Akzeptiert!")
+                    print("Cookies Accepted!")
 
 
 def create_short_website_name():
@@ -126,12 +131,16 @@ def create_short_website_name():
 
 
 def analyze_cookie_files():
-    global current_website_unauthorized_use_of_cookies_at_beginning, cookie_difference
+    global current_website_unauthorized_use_of_cookies_at_beginning
+    global current_website_unauthorized_use_of_third_party_cookies_at_beginning
+    global current_website_authorized_use_of_third_party_cookies_after
+    global cookie_difference
 
-    with open("results/" + short_website_name + ".txt") as cookies_before:
-        lines_before = cookies_before.readlines()
+    # Calculate the difference between the cookies that existed before and after the cookie-banner
+    with open("results/" + short_website_name + ".txt") as website_files:
+        lines = website_files.readlines()
 
-    for line in lines_before:
+    for line in lines:
         if "[Before] Cookie-Name" in line:
             a_cookies_before.append(line.split(": ")[1])
 
@@ -140,26 +149,41 @@ def analyze_cookie_files():
 
     cookie_difference = set(a_cookies_before) ^ set(a_cookies_after)
 
+    # Are there already disallowed cookies in the cookie list at the beginning?
+    for a_cookie_b in a_cookies_before:
+        updated_cookie_b = str(a_cookie_b).replace("\n", "")
+        if updated_cookie_b in third_party_cookies:
+            current_website_unauthorized_use_of_third_party_cookies_at_beginning = True
+
+    # Rate the new amount of cookies TODO: Kann man hier noch etwas verbessern?
+    if a_cookies_after.__len__() % a_cookies_before.__len__() > 10 or current_website_unauthorized_use_of_third_party_cookies_at_beginning:
+        current_website_unauthorized_use_of_cookies_at_beginning = True
+    else:
+        current_website_unauthorized_use_of_cookies_at_beginning = False
+
+    # Are third-party-cookies loaded after acceptance?
+    for a_cookie_a in a_cookies_after:
+        updated_cookie_a = str(a_cookie_a).replace("\n", "")
+        if updated_cookie_a in third_party_cookies and not current_website_unauthorized_use_of_cookies_at_beginning \
+                and not current_website_unauthorized_use_of_third_party_cookies_at_beginning:
+            current_website_authorized_use_of_third_party_cookies_after = True
+
+    # Write the information of the analysis into the respective website files
     with open("results/" + short_website_name + ".txt", "a") as website_file:
         website_file.write("\n" + "############################## Difference ##############################" + "\n")
-        website_file.write("[New] Cookies added: " + str(cookie_difference.__len__()) + "\n")
+        website_file.write("[Difference] Cookies added: " + str(cookie_difference.__len__()) + "\n")
 
         for cookie_dif in cookie_difference:
-            website_file.write("[New] Cookie-Name: " + str((list(cookie_difference).index(cookie_dif)) + 1) + ": " + str(cookie_dif))
+            website_file.write("[Difference] Cookie-Name: " + str((list(cookie_difference).index(cookie_dif)) + 1) + ": " + str(cookie_dif))
 
+        website_file.write("\n" + "############################## Analysis ##############################" + "\n")
+        website_file.write("[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the "
+                           "user: " + str(current_website_unauthorized_use_of_cookies_at_beginning) + "\n")
+        website_file.write("[Analysis] Website uses unauthorized third-party cookies at the beginning: "
+                           + str(current_website_unauthorized_use_of_third_party_cookies_at_beginning) + "\n")
+        website_file.write("[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: "
+                           + str(current_website_authorized_use_of_third_party_cookies_after) + "\n")
 
-
-
-    # for line in lines_before:
-    #     for t_p_c in third_party_cookies:
-    #         if t_p_c in line:
-    #             print("Es wurde ein third-party-cookie gefunden! " + "-> " + t_p_c)
-    #             current_website_unauthorized_use_of_cookies_at_beginning = True  # MUSS SPÄTER IN EINE FINALE DATEI GESCHRIEBEN WERDEN!
-
-
-    # 2. Wieviele Cookies hat eine Seite vor und danach gehabt?
-    # Ist der Unterschied zwischen den beiden Werten nicht zu groß und der erste Wert ist größer als 5,
-    # Speicher diese Information in einer neuen Variablen
 
 if __name__ == '__main__':
     for website in websites:
@@ -168,6 +192,8 @@ if __name__ == '__main__':
         current_website_gdpr_compliant = False
         current_website_cookie_use = False
         current_website_unauthorized_use_of_cookies_at_beginning = False
+        current_website_unauthorized_use_of_third_party_cookies_at_beginning = False
+        current_website_authorized_use_of_third_party_cookies_after = False
         a_cookies_before.clear()
         a_cookies_after.clear()
         cookie_difference.clear()
@@ -175,19 +201,19 @@ if __name__ == '__main__':
 
         html_source = driver.page_source  # Get HTML-source-code
 
-        initialize_website_file_and_check_cookie_banner()  # Generiere eine Website-File. Ist überhaupt ein Cookie-Banner vorhanden?
+        initialize_website_file_and_check_cookie_banner()  # Generate a website file. Is there a cookie banner at all?
         time.sleep(1)
-        check_gdpr_cookie_status()  # Ist der vorhandene Cookie-Banner GDPR-Konform?
+        check_gdpr_cookie_status()  # Is the existing cookie banner GDPR compliant?
         time.sleep(1)
-        check_cookies_at_start()  # Welche Cookies existieren bereits nach dem Laden der Seite?
+        check_cookies_at_start()  # Which cookies already exist after loading the page?
         time.sleep(1)
-        accept_cookie_banner()  # Akzeptiere den angezeigten Cookie-Banner
+        accept_cookie_banner()  # Accept the cookie banner displayed
         time.sleep(1)
-        check_cookies_after_banner_accept()  # Welche Cookies existieren auf der Seite, nachdem der entsprechende Cookie-Banner akzeptiert wurde?
+        check_cookies_after_banner_accept()  # What cookies exist on the site after accepting the corresponding cookie banner?
         time.sleep(1)
-        analyze_cookie_files()
+        analyze_cookie_files()  # Analyze the generated website files
 
-    print("Durchlauf beendet, schließe driver...")
+    print("Website analysis finished, close driver...")
     driver.close()
 
     # facebook, instgram, pinterest cookies? Wann werden diese gesetzt? Bevor oder nach
@@ -195,5 +221,6 @@ if __name__ == '__main__':
     # Gibt es eine Möglichkeit abzulehnen?
     # Pre-selected boxes?
     # Cookies setzen obwohl abgelehnt
-
+    # Nebenläufigkeit implementieren
+    # Herausfinden, was für phrasen auf anderen Seiten verwendet werden (englisch und deutsch)
     # Den gesamten Log einer Seite in die Seiten-File dazu schreiben
