@@ -1,24 +1,31 @@
 from selenium import webdriver
-import time
 from urllib.parse import urlparse
+from selenium.common.exceptions import WebDriverException
 from datetime import datetime
-
+import time
 # Driver settings
 driver = webdriver.Chrome(executable_path=r"C:\Users\Marvin\Desktop\chromedriver.exe")
 
-# Keywords
+# Keywords and phrases
 gdpr_banner_keywords = ["Alle Akzeptieren", "Alle akzeptieren", "Auswahlmöglichkeiten anpassen",
                         "Weitere Informationen",
                         "Nur Essentielle Cookies akzeptieren", "Nur Essenzielle Cookies akzeptieren",
-                        "Manage options", "Nicht-essentielle ablehnen"]
-cookie_banner_keywords = ["Akzeptieren", "Verstanden", "Ablehnen"]
+                        "Manage options", "Nicht-essentielle ablehnen", "Cookie Richtlinien", "Alle zulassen", "Alle Zulassen",
+                        "Meine Auswahl bestätigen", "Meine Auswahl Bestätigen"]
+cookie_banner_keywords = ["Akzeptieren", "Verstanden", "Ablehnen", "Zustimmen", "Alle akzeptieren", "ok", "Ok", "OK", "Alles klar", "Alles klar!",
+                          "I accept", "Accept", "Ich habe verstanden.", "Einverstanden", "Alle Cookies akzeptieren", "Alle Cookies Akzeptieren",
+                          "Zustimmen!", "Got it!", "Annehmen", "Ich stimme zu"]
 positive_cookie_banner_buttons = ["Alle Akzeptieren", "Alle akzeptieren", "Akzeptieren", "Verstanden"]
-websites = ["https://www.unimals.de/", "https://www.evosportsfuel.de/", "https://www.ruehl24.de/de/",
+websites = ["https://www.unimals.de/", "https://www.evosportsfuel.de/", "http://www.kilenzo.de/", "https://www.ruehl24.de/de/",
             "https://www.saysorry.de/"]  # Note: Use www so that the website name can be shortened optimally
 single_website = ["https://www.unimals.de/"]
+all_websites = "src/websites.txt"
+website_warning = "Only one step left!"
+website_warning_2 = "is currently unavailable."
 
 # Essential Variables
 short_website_name = ""
+website_index = 0
 current_website_gdpr_compliant = False
 current_website_cookie_use = False
 current_website_unauthorized_use_of_cookies_at_beginning = False
@@ -39,6 +46,7 @@ third_party_cookies = ["_fbp", "_pin_unauth", "_ga", "_gat", "_gid", "_gcl_au"]
 
 def initialize_website_file_and_check_cookie_banner():
     global current_website_cookie_use
+    global website_index
 
     print("Check cookie status for the website: " + website + " (" + short_website_name + ")")
     for keyword in cookie_banner_keywords:
@@ -52,7 +60,7 @@ def initialize_website_file_and_check_cookie_banner():
 
     with open("results/" + short_website_name + ".txt", "a") as website_file:
         dt_string = datetime.now().strftime("%d.%m.%Y %H:%M:%S")
-        website_file.write("Website " + str((websites.index(website)) + 1) + ": " + website + " | Created: " + str(dt_string) + "\n")
+        website_file.write("Website " + str(website_index) + ": " + website + " | Created: " + str(dt_string) + "\n")
         website_file.write("[Initial] Website uses a cookie banner: " + str(current_website_cookie_use) + "\n")
 
 
@@ -184,43 +192,52 @@ def analyze_cookie_files():
         website_file.write("[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: "
                            + str(current_website_authorized_use_of_third_party_cookies_after) + "\n")
 
+        if current_website_gdpr_compliant and current_website_authorized_use_of_third_party_cookies_after:
+            website_file.write("\n" + "[Analysis] Website is GDPR compliant!" + "\n")
+        else:
+            website_file.write("\n" + "[Analysis] Website is NOT GDPR compliant!" + "\n")
+
 
 if __name__ == '__main__':
-    for website in websites:
-        create_short_website_name()
-        driver.get(website)
-        current_website_gdpr_compliant = False
-        current_website_cookie_use = False
-        current_website_unauthorized_use_of_cookies_at_beginning = False
-        current_website_unauthorized_use_of_third_party_cookies_at_beginning = False
-        current_website_authorized_use_of_third_party_cookies_after = False
-        a_cookies_before.clear()
-        a_cookies_after.clear()
-        cookie_difference.clear()
-        time.sleep(3)  # Wait for the website to load
+    with open(all_websites) as websites_all:
+        lines_websites = websites_all.readlines()
 
-        html_source = driver.page_source  # Get HTML-source-code
+    for website in lines_websites:
+        try:
+            website = str(website).replace("\n", "")
+            create_short_website_name()
+            driver.get(website)
+            current_website_gdpr_compliant = False
+            current_website_cookie_use = False
+            current_website_unauthorized_use_of_cookies_at_beginning = False
+            current_website_unauthorized_use_of_third_party_cookies_at_beginning = False
+            current_website_authorized_use_of_third_party_cookies_after = False
+            website_index += 1
+            a_cookies_before.clear()
+            a_cookies_after.clear()
+            cookie_difference.clear()
+            time.sleep(3)  # Wait for the website to load
 
-        initialize_website_file_and_check_cookie_banner()  # Generate a website file. Is there a cookie banner at all?
-        time.sleep(1)
-        check_gdpr_cookie_status()  # Is the existing cookie banner GDPR compliant?
-        time.sleep(1)
-        check_cookies_at_start()  # Which cookies already exist after loading the page?
-        time.sleep(1)
-        accept_cookie_banner()  # Accept the cookie banner displayed
-        time.sleep(1)
-        check_cookies_after_banner_accept()  # What cookies exist on the site after accepting the corresponding cookie banner?
-        time.sleep(1)
-        analyze_cookie_files()  # Analyze the generated website files
+            html_source = driver.page_source  # Get HTML-source-code
 
-    print("Website analysis finished, close driver...")
+            # Check if website is still available
+            if website_warning in html_source or website_warning_2 in html_source:
+                print("Website not available! Skip website...")
+                continue
+
+            initialize_website_file_and_check_cookie_banner()  # Generate a website file. Is there a cookie banner at all?
+            time.sleep(1)
+            check_gdpr_cookie_status()  # Is the existing cookie banner GDPR compliant?
+            time.sleep(1)
+            check_cookies_at_start()  # Which cookies already exist after loading the page?
+            time.sleep(1)
+            accept_cookie_banner()  # Accept the cookie banner displayed
+            time.sleep(1)
+            check_cookies_after_banner_accept()  # What cookies exist on the site after accepting the corresponding cookie banner?
+            time.sleep(1)
+            analyze_cookie_files()  # Analyze the generated website files
+        except WebDriverException:
+            print("Exception: Page most likely unavailable or offline!")
+
+    print("Analysis finished, close driver...")
     driver.close()
-
-    # facebook, instgram, pinterest cookies? Wann werden diese gesetzt? Bevor oder nach
-    # Check: Setzt die website schon vor der Abfrage cookies?
-    # Gibt es eine Möglichkeit abzulehnen?
-    # Pre-selected boxes?
-    # Cookies setzen obwohl abgelehnt
-    # Nebenläufigkeit implementieren
-    # Herausfinden, was für phrasen auf anderen Seiten verwendet werden (englisch und deutsch)
-    # Den gesamten Log einer Seite in die Seiten-File dazu schreiben
