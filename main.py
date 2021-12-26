@@ -7,7 +7,7 @@ import time
 
 # Driver settings / Headless-mode settings
 # Headless-mode: Should the scanning process be displayed visually? Performance is being saved by this mode.
-use_headless_mode = True
+use_headless_mode = False
 if use_headless_mode:
     options = Options()
     options.add_argument("--headless")
@@ -35,7 +35,7 @@ positive_cookie_banner_buttons = ["Alle Akzeptieren", "Alle akzeptieren", "Akzep
 # Note: Use www so that the website name can be shortened optimally
 websites = ["https://www.unimals.de/", "https://www.evosportsfuel.de/", "http://www.kilenzo.de/", "https://www.ruehl24.de/de/",
             "https://www.saysorry.de/"]  # Debug
-single_website = ["http://www.pumpkin-organics.de/"]  # Debug
+single_website = ["http://www.uwaldu.de/"]  # Debug
 all_websites = "src/websites.txt"
 
 # Warnings
@@ -45,6 +45,7 @@ website_warning_2 = "is currently unavailable."
 # Essential Variables
 short_website_name = ""
 website_index = 0
+screen_shot_index = 1
 current_website_gdpr_compliant = False
 current_website_cookie_use = False
 current_website_unauthorized_use_of_cookies_at_beginning = False
@@ -149,6 +150,16 @@ def check_cookies_after_banner_accept():
         for cookie in cookies:
             print("Cookie-Name: " + cookie['name'])
             website_file.write("[After] Cookie-Name " + str((cookies.index(cookie)) + 1) + ": " + cookie['name'] + "\n")
+
+
+def randomly_generate_screenshot():
+    global screen_shot_index
+
+    body_part = driver.find_element_by_tag_name('body')
+    body_part.screenshot("screenshots/image_" + str(screen_shot_index) + ".png")
+    screen_shot_index += 1
+
+    print("A screenshot was created!")
 
 
 def accept_cookie_banner():
@@ -274,7 +285,9 @@ if __name__ == '__main__':
             check_gdpr_cookie_status()  # Is the existing cookie banner GDPR compliant?
             time.sleep(1)
             check_cookies_at_start()  # Which cookies already exist after loading the page?
-            time.sleep(5)
+            time.sleep(1)
+            randomly_generate_screenshot()  # Randomly generate a screenshot showing the cookie-banner status of the current page
+            time.sleep(1)  # 5
             accept_cookie_banner()  # Accept the cookie banner displayed
             time.sleep(1)
             check_cookies_after_banner_accept()  # What cookies exist on the site after accepting the corresponding cookie banner?
