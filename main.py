@@ -3,7 +3,9 @@ from urllib.parse import urlparse
 from selenium.common.exceptions import WebDriverException
 from datetime import datetime
 from selenium.webdriver.chrome.options import Options
+from random import randrange
 import time
+import re
 
 # Driver settings / Headless-mode settings
 # Headless-mode: Should the scanning process be displayed visually? Performance is being saved by this mode.
@@ -12,31 +14,41 @@ if use_headless_mode:
     options = Options()
     options.add_argument("--headless")
     options.add_argument("--window-size=1920,1200")
+    options.add_argument('--disable-blink-features=AutomationControlled')
     driver = webdriver.Chrome(options=options)
 else:
-    driver = webdriver.Chrome(executable_path=r"chromedriver.exe")
+    options = Options()
+    options.add_argument('--disable-blink-features=AutomationControlled')
+    driver = webdriver.Chrome(executable_path=r"chromedriver.exe", options=options)
 
 # Keywords and phrases
 # Typical keywords for GDPR compliant cookie banner
 gdpr_banner_keywords = ["Alle Akzeptieren", "Alle akzeptieren", "Auswahlmöglichkeiten anpassen",
                         "Weitere Informationen", "Nur Essentielle Cookies akzeptieren", "Nur Essenzielle Cookies akzeptieren",
                         "Manage options", "Nicht-essentielle ablehnen", "Cookie Richtlinien", "Alle zulassen", "Alle Zulassen",
-                        "Meine Auswahl bestätigen", "Meine Auswahl Bestätigen", "Einstellungen"]
+                        "Meine Auswahl bestätigen", "Meine Auswahl Bestätigen", "Einstellungen", "Preferences", "Auswahl"]
 
 # General typical keywords for cookie banner
-cookie_banner_keywords = ["Akzeptieren", "Verstanden", "Ablehnen", "Zustimmen", "Alle akzeptieren", " ok ", " Ok ", " OK ", "Alles klar",
+cookie_banner_keywords = ["Akzeptieren", "Verstanden", "Ablehnen", "Zustimmen", "Alle akzeptieren", "Alles klar",
                           "Alles klar!", "I accept", "Accept", "Ich habe verstanden.", "Einverstanden", "Alle Cookies akzeptieren",
-                          "Alle Cookies Akzeptieren", "Zustimmen!", "Got it!", "Annehmen", "Ich stimme zu"]
+                          "Alle Cookies Akzeptieren", "Zustimmen!", "Got it!", "Annehmen", "Ich stimme zu", "ok", "Ok", "OK", " ok ", " Ok ", " OK "]
 
 # General Keywords to confirm cookie banner
-positive_cookie_banner_buttons = ["Alle Akzeptieren", "Alle akzeptieren", "Akzeptieren", "Verstanden", "ZUSTIMMEN", "Zustimmen"]
+positive_cookie_banner_buttons = ["Alle Akzeptieren", "Alle akzeptieren", "Akzeptieren", "Verstanden", "ZUSTIMMEN", "Zustimmen",
+                                  "Alles klar!", "Alles klar", "I accept", "Accept", "Ich habe verstanden.", "Einverstanden",
+                                  "Alle Cookies akzeptieren", "Alle Cookies Akzeptieren", "Zustimmen!", "Got it!", "Annehmen", "Ich stimme zu",
+                                  "Ok", "OK", "ok", " ok ", " Ok ", " OK "]
+
+# General Keywords to decline cookie banner
+negative_cookie_banner_buttons = ["Ablehnen", "Alle ablehnen", "Nur Essentielle Cookies akzeptieren", "No Thanks"]
 
 # Sources
 # Note: Use www so that the website name can be shortened optimally
 websites = ["https://www.unimals.de/", "https://www.evosportsfuel.de/", "http://www.kilenzo.de/", "https://www.ruehl24.de/de/",
             "https://www.saysorry.de/"]  # Debug
-single_website = ["http://www.uwaldu.de/"]  # Debug
 all_websites = "src/websites.txt"
+single_website = ["http://www.abbottlyon.de/"]  # Debug
+
 
 # Warnings
 website_warning = "Only one step left!"
@@ -46,8 +58,12 @@ website_warning_2 = "is currently unavailable."
 short_website_name = ""
 website_index = 0
 screen_shot_index = 1
+offline_websites_amount = 0
+able_to_accept_cookies = False
 current_website_gdpr_compliant = False
 current_website_cookie_use = False
+current_website_accept_button_use = False
+current_website_decline_button_use = False
 current_website_unauthorized_use_of_cookies_at_beginning = False
 current_website_unauthorized_use_of_third_party_cookies_at_beginning = False
 current_website_authorized_use_of_third_party_cookies_after = False
@@ -74,23 +90,51 @@ t_p_c_pairs = [("_fbp", "Facebook Pixel"), ("_pin_unauth", "Pinterest Tag"), ("_
 def initialize_website_file_and_check_cookie_banner():
     global current_website_cookie_use
     global website_index
+    global short_website_name
+    global current_website_accept_button_use
+    global current_website_decline_button_use
 
+    # Check if a cookie-banner is present at all
     print("Check cookie status for the website: " + website + " (" + short_website_name + ")")
+
     for keyword in cookie_banner_keywords:
-        if keyword in html_source:
+        # Special case for "ok" buttons: These can be confusing with normal text, e.g: "look" -> ok
+        if re.search(r'\b' + keyword + r'\b', html_source):
             current_website_cookie_use = True
 
     if current_website_cookie_use:
         print("There is a cookie banner available!")
+
+        # Check if accept button exists
+        for keyword in positive_cookie_banner_buttons:
+            buttons = driver.find_elements_by_xpath("//*[contains(text(),'" + keyword + "')]")
+
+            if buttons.__len__() > 0:
+                print("Keyword is identical with an existing "'"Accept"'"-Button!")
+                current_website_accept_button_use = True
+            else:
+                print("Keyword is not identical with an existing "'"Accept"'"-Button!")
+
+        # Check if decline button exists
+        for keyword in negative_cookie_banner_buttons:
+            buttons = driver.find_elements_by_xpath("//*[contains(text(),'" + keyword + "')]")
+
+            if buttons.__len__() > 0:
+                print("Keyword is identical with an existing "'"Reject"'"-Button!")
+                current_website_decline_button_use = True
+            else:
+                print("Keyword is not identical with an existing "'"Reject"'"-Button!")
     else:
         print("There is NO cookie banner available!")
 
     with open("results/" + short_website_name + ".txt", "a") as website_file:
         dt_string = datetime.now().strftime("%d.%m.%Y %H:%M:%S")
+
         if use_headless_mode:
             website_file.write("Website " + str(website_index) + ": " + website + " | Created: " + str(dt_string) + " | HEADLESS-MODE: ON" + "\n")
         else:
             website_file.write("Website " + str(website_index) + ": " + website + " | Created: " + str(dt_string) + " | HEADLESS-MODE: OFF" + "\n")
+
         website_file.write("[Initial] Website uses a cookie banner: " + str(current_website_cookie_use) + "\n")
 
 
@@ -98,11 +142,13 @@ def check_gdpr_cookie_status():
     global current_website_gdpr_compliant
     global current_website_cookie_use
     global short_website_name
+    global current_website_accept_button_use
+    global current_website_decline_button_use
 
     if current_website_cookie_use:
         print("Check GDPR cookie banner status...")
         for keyword in gdpr_banner_keywords:
-            if keyword in html_source:
+            if re.search(r'\b' + keyword + r'\b', html_source):
                 print("Legal conformity confirmed (again)!")
                 print("Found Keyword: " + keyword)
                 current_website_gdpr_compliant = True
@@ -115,6 +161,14 @@ def check_gdpr_cookie_status():
 
     with open("results/" + short_website_name + ".txt", "a") as website_file:
         website_file.write("[Initial] Website uses a GDPR compliant cookie banner: " + str(current_website_gdpr_compliant) + "\n")
+        website_file.write("[Initial] Website uses a "'"Accept"'"-Button: " + str(current_website_accept_button_use) + "\n")
+
+        if current_website_gdpr_compliant:
+            website_file.write("[Initial] Website uses a "'"Decline"'"-Button (GDPR-Banner): " + str(current_website_decline_button_use) + "\n")
+            website_file.write("[Initial] -> GDPR-Banner often use settings buttons. " + "\n")
+
+        else:
+            website_file.write("[Initial] Website uses a "'"Decline"'"-Button: " + str(current_website_decline_button_use) + "\n")
 
 
 def check_cookies_at_start():
@@ -139,7 +193,7 @@ def check_cookies_after_banner_accept():
 
     cookies = driver.get_cookies()
 
-    print("Number of cookies after the cookie banner has been accepted (or not): " + str(cookies.__len__()))
+    print("Number of cookies after the cookie banner has been accepted: " + str(cookies.__len__()))
     print(cookies)
 
     with open("results/" + short_website_name + ".txt", "a") as website_file:
@@ -155,15 +209,17 @@ def check_cookies_after_banner_accept():
 def randomly_generate_screenshot():
     global screen_shot_index
 
-    body_part = driver.find_element_by_tag_name('body')
-    body_part.screenshot("screenshots/image_" + str(screen_shot_index) + ".png")
-    screen_shot_index += 1
+    if randrange(10) == 4:
+        body_part = driver.find_element_by_tag_name('body')
+        body_part.screenshot("screenshots/image_" + str(screen_shot_index) + ".png")
+        screen_shot_index += 1
 
-    print("A screenshot was created!")
+        print("A screenshot was created!")
 
 
 def accept_cookie_banner():
     global current_website_cookie_use
+    global able_to_accept_cookies
 
     if current_website_cookie_use:
         for keyword in positive_cookie_banner_buttons:
@@ -172,6 +228,14 @@ def accept_cookie_banner():
                 if btn.is_enabled() and btn.is_displayed():
                     btn.click()
                     print("Cookies Accepted!")
+                    able_to_accept_cookies = True
+                    break  # After accepting the cookies, cancel the search for more buttons to accept cookies
+            else:
+                continue  # Only executed if the inner loop did NOT break
+            break  # Only executed if the inner loop DID break
+
+        if not able_to_accept_cookies:
+            print("This website has characteristics for a cookie banner, but it is not displayed to the user")
 
 
 def create_short_website_name():
@@ -187,6 +251,10 @@ def analyze_cookie_files():
     global current_website_authorized_use_of_third_party_cookies_after
     global cookie_difference
     global t_p_c_name
+    global current_website_cookie_use
+    global current_website_accept_button_use
+    global current_website_decline_button_use
+    global able_to_accept_cookies
 
     # Calculate the difference between the cookies that existed before and after the cookie-banner
     with open("results/" + short_website_name + ".txt") as website_files:
@@ -215,7 +283,7 @@ def analyze_cookie_files():
                 t_p_c_name = [y for (x, y) in t_p_c_pairs if x == updated_cookie_b]
                 website_file.write("[Used] Cookie-Name: " + updated_cookie_b + " (" + str(t_p_c_name[0]) + ")" + "\n")
 
-    # Rate the new amount of cookies TODO: Kann man hier noch etwas verbessern?
+    # Rate the new amount of cookies
     if a_cookies_after.__len__() % a_cookies_before.__len__() > 10 or current_website_unauthorized_use_of_third_party_cookies_at_beginning:
         current_website_unauthorized_use_of_cookies_at_beginning = True
     else:
@@ -239,7 +307,27 @@ def analyze_cookie_files():
         for cookie_dif in cookie_difference:
             website_file.write("[Difference] Cookie-Name: " + str((list(cookie_difference).index(cookie_dif)) + 1) + ": " + str(cookie_dif))
 
+        if current_website_cookie_use and not able_to_accept_cookies:
+            website_file.write("\n" + "############################## Special Characteristics ##############################" + "\n")
+
+            website_file.write("[Special] Website has characteristics for a cookie banner, but it is not displayed to the user" + "\n")
+
         website_file.write("\n" + "############################## Analysis ##############################" + "\n")
+
+        if able_to_accept_cookies:
+            if current_website_accept_button_use and current_website_decline_button_use:
+                website_file.write("[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: "
+                                   + "True" + "\n")
+            else:
+                if current_website_gdpr_compliant:
+                    website_file.write("[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it "
+                                       "(GDPR): " + "False" + "\n")
+                else:
+                    website_file.write("[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to "
+                                       "reject it: " + "False" + "\n")
+        else:
+            website_file.write("[Analysis] No corresponding buttons available, because cookie banner is not displayed" + "\n")
+
         website_file.write("[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the "
                            "user: " + str(current_website_unauthorized_use_of_cookies_at_beginning) + "\n")
         website_file.write("[Analysis] Website uses unauthorized third-party cookies at the beginning: "
@@ -247,9 +335,20 @@ def analyze_cookie_files():
         website_file.write("[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: "
                            + str(current_website_authorized_use_of_third_party_cookies_after) + "\n")
 
+        # GDPR-compliant:
+        # 1. Use of a GDPR-compliant banner
+        # 2. Respecting third party cookie choice of user
+        # 3. "Accept" and "Decline"-Button must be available
         if current_website_gdpr_compliant and current_website_authorized_use_of_third_party_cookies_after:
-            website_file.write("\n" + "[Analysis] Website is GDPR compliant!" + "\n")
-        else:
+            website_file.write("\n" + "[Analysis] Website is GDPR compliant! 1" + "\n")
+        elif not current_website_gdpr_compliant and current_website_authorized_use_of_third_party_cookies_after:
+            if current_website_accept_button_use and current_website_decline_button_use:
+                website_file.write("\n" + "[Analysis] Website is GDPR compliant! 2" + "\n")
+            else:
+                website_file.write("\n" + "[Analysis] Website is NOT GDPR compliant!" + "\n")
+        elif not current_website_gdpr_compliant and not current_website_authorized_use_of_third_party_cookies_after:
+            website_file.write("\n" + "[Analysis] Website is NOT GDPR compliant!" + "\n")
+        elif current_website_gdpr_compliant and not current_website_authorized_use_of_third_party_cookies_after:
             website_file.write("\n" + "[Analysis] Website is NOT GDPR compliant!" + "\n")
 
 
@@ -262,22 +361,26 @@ if __name__ == '__main__':
             website = str(website).replace("\n", "")
             create_short_website_name()
             driver.get(website)
+            able_to_accept_cookies = False
             current_website_gdpr_compliant = False
             current_website_cookie_use = False
             current_website_unauthorized_use_of_cookies_at_beginning = False
             current_website_unauthorized_use_of_third_party_cookies_at_beginning = False
             current_website_authorized_use_of_third_party_cookies_after = False
+            current_website_accept_button_use = False
+            current_website_decline_button_use = False
             website_index += 1
             a_cookies_before.clear()
             a_cookies_after.clear()
             cookie_difference.clear()
-            time.sleep(3)  # Wait for the website to load
+            time.sleep(5)  # Wait for the website to load
 
             html_source = driver.page_source  # Get HTML-source-code
 
             # Check if website is still available
             if website_warning in html_source or website_warning_2 in html_source:
                 print("Website not available! Skip website...")
+                offline_websites_amount += 1
                 continue
 
             initialize_website_file_and_check_cookie_banner()  # Generate a website file. Is there a cookie banner at all?
@@ -287,7 +390,7 @@ if __name__ == '__main__':
             check_cookies_at_start()  # Which cookies already exist after loading the page?
             time.sleep(1)
             randomly_generate_screenshot()  # Randomly generate a screenshot showing the cookie-banner status of the current page
-            time.sleep(1)  # 5
+            time.sleep(5)  # 5
             accept_cookie_banner()  # Accept the cookie banner displayed
             time.sleep(1)
             check_cookies_after_banner_accept()  # What cookies exist on the site after accepting the corresponding cookie banner?
