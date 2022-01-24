@@ -25,7 +25,6 @@ http://www.speichenshop24.de/
 http://www.abbottlyon.de/
 http://www.bumbleride.com.de/
 http://www.thaibbq.de/
-http://www.tschul.de/
 http://www.biohacks-shop.de/
 http://www.luminox.de/
 http://www.meinekette.de/
@@ -36,7 +35,6 @@ http://www.lights4fun.de/
 http://www.hochzeits-countdown-kalender.de/
 http://www.mein-weinhandel.de/
 http://www.brooklyn-shop.de/
-http://www.nickassfalg.de/
 http://www.mondaine.de/
 http://www.clipit.de/
 http://www.youdesign24.de/
@@ -45,7 +43,6 @@ http://www.formart-kunstdrucke.de/
 http://www.albumart.de/
 http://www.projekt-samsen.de/
 http://www.furnica.de/
-http://www.prettyvol.de/
 http://www.hch.de/
 http://www.vonfreude.de/
 http://www.drag-hill.de/
@@ -57,12 +54,10 @@ http://www.kuechenkompane.de/
 http://www.zaunmichl.de/
 http://www.catering-nimmersatt.de/
 http://www.easytolive24.de/
-http://www.nanozahnbuerste.de/
 http://www.everydaywigs.de/
 http://www.belifu.de/
 http://www.details-produkte.de/
 http://www.wavepatrol.de/
-http://www.morotai.de/
 http://www.mein-persönlicher-schmuck.de/
 http://www.mein-eigener-kaffee.de/
 http://www.kiddykiste.de/
@@ -72,7 +67,6 @@ http://www.p4e.de/
 http://www.gluecks-bilder.de/
 http://www.behawelt.de/
 http://www.nebularx.de/
-http://www.kumeyo.de/
 http://www.hira-fashion.de/
 http://www.earlybird-coffee.de/
 http://www.hofgut-reiter-shop.de/
@@ -82,7 +76,6 @@ http://www.hairties.de/
 http://www.bermbach-handcrafted.de/
 http://www.creality3dshop.de/
 http://www.samplerobot.de/
-http://www.doona-shop.de/
 http://www.ketofaktur.de/
 http://www.awn.de/
 http://www.styleserver.de/
@@ -118,7 +111,6 @@ http://www.wikinger-welten.de/
 http://www.koerbchenliebe.de/
 http://www.viafortis.de/
 http://www.seenontvdeal.de/
-http://www.plein-elektro.de/
 http://www.thenewyou.de/
 http://www.funplastik.de/
 http://www.holdeweiblichkeit.de/
@@ -267,6 +259,7 @@ http://www.etre-belle.de/
 http://www.thomasipunkt.de/
 http://www.blackmountainheritage.de/
 http://www.realcooldeal.de/
+http://www.morotai.de/
 http://www.swidany.de/
 http://www.bouffeecloud.de/
 http://www.designbubbles.de/
