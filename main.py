@@ -28,21 +28,22 @@ gdpr_banner_keywords = ["Alle Akzeptieren", "Alle akzeptieren", "Auswahlmöglich
                         "Weitere Informationen", "Nur Essentielle Cookies akzeptieren", "Nur Essenzielle Cookies akzeptieren",
                         "Manage options", "Nicht-essentielle ablehnen", "Cookie Richtlinien", "Alle zulassen", "Alle Zulassen",
                         "Meine Auswahl bestätigen", "Meine Auswahl Bestätigen", "Einstellungen", "Preferences", "Auswahl", "Cookie-Einstellungen",
-                        "Präferenzen", "Alle Cookies zulassen", "Alle cookies zulassen"]
+                        "Präferenzen", "Alle Cookies zulassen", "Alle cookies zulassen", "Einstellungen verwalten"]
 
-# General typical keywords for cookie banner TODO: Remove
-# cookie_banner_keywords = ["Akzeptieren", "Verstanden", "Verstanden!", "Ablehnen", "Zustimmen", "Alle akzeptieren", "Alles klar",
-#                           "Alles klar!", "I accept", "Accept", "Ich habe verstanden.", "Einverstanden", "Alle Cookies akzeptieren",
-#                           "Alle Cookies Akzeptieren", "Zustimmen!", "Got it!", "Got it", "Annehmen", "Ich stimme zu", "Ich stimme zu.",
-#                           "Alles akzeptieren", "Alles Akzeptieren", "ok", "Ok", "OK", " ok ", " Ok ", " OK "]
-
-# General Keywords to confirm cookie banner TODO: Rename
+# General Keywords to confirm cookie banner
 positive_cookie_banner_buttons = ["Alle Akzeptieren", "Alles akzeptieren", "Alles Akzeptieren", "Alle akzeptieren", "Akzeptieren", "Verstanden",
                                   "Verstanden!", "ZUSTIMMEN", "Zustimmen", "Alles klar!", "Alles klar", "I accept", "Accept", "Ich habe verstanden.",
                                   "Einverstanden", "Got it", "Alle Cookies akzeptieren", "Alle Cookies Akzeptieren", "Alle Cookies akzeptieren",
-                                  "Zustimmen!", "Got it!", "Annehmen", "Ich stimme zu", "Ich stimme zu.", "Geht klar", "Geht klar!",
-                                  "Akzeptiere alle", "Akzeptiere Alle", "Alle Cookies zulassen", "Alle cookies zulassen", "Ok", "OK", "ok", " ok ",
-                                  " Ok ", " OK ", "ja", "Ja", "JA", " ja ", " Ja ", " JA "]
+                                  "Zustimmen!", "Got it!", "Annehmen", "Ich stimme zu", "Ich stimme zu.", "Geht klar", "Geht klar!", "Geht klar."
+                                  "Akzeptiere alle", "Akzeptiere Alle", "Alle Cookies zulassen", "Alle cookies zulassen", "Accept all", "Accept All",
+                                  "Alle cookies erlauben", "Alle Cookies erlauben", "Stimme zu", "Ich stimme zu", "Got it !", "Alle akzeptieren!",
+                                  "Agree to cookies", "Alle zulassen", "Cookies zulassen", "Stimme zu.", "Stimme Zu", "Ja, ich stimme zu",
+                                  "Alle akzeptieren !", "Bestätigen", "Bitte bestätigen", "Alles klar", "Einverstanden!", "Voll.", "Ich verstehe",
+                                  "Ich habs!", "Okay", "OKAY", "Cookies Zulassen", "Akzeptieren & weiter", "Akzeptiere cookies", "Alles Klar!",
+                                  "Ok, Ich stimme zu.", "Ok, ich stimme zu", "Akzeptieren und schließen", "Akzeptieren & schließen", "Ermöglichen",
+                                  "Fortsetzen", "Ich akzeptiere", "Ok, verstanden", "Allow all cookies", "Akzeptieren Sie", "Alles klar.",
+                                  "I agree to use cookies.", "I agree to use cookies", "Accept all cookies", "Ok", "OK", "ok", " ok "," Ok ", " OK ",
+                                  "ok!", "Ok!", "OK!", "ja", "Ja", "JA", " ja ", " Ja ", " JA "]
 
 # General Keywords to decline cookie banner
 negative_cookie_banner_buttons = ["Ablehnen", "Alle ablehnen", "Nur Essentielle Cookies akzeptieren", "No Thanks", "Nur notwendige Cookies",
@@ -50,17 +51,20 @@ negative_cookie_banner_buttons = ["Ablehnen", "Alle ablehnen", "Nur Essentielle 
 
 # Sources
 # Note: Use www so that the website name can be shortened optimally
-websites = ["https://www.unimals.de/", "https://www.evosportsfuel.de/", "http://www.kilenzo.de/", "https://www.ruehl24.de/de/",
-            "https://www.saysorry.de/"]  # Debug
-all_websites = "src/websites.txt"  # Debug
+all_websites = "src/backup/websites.txt"  # Debug
 # Use different files with max 400 websites to avoid crashing
 all_websites_f1 = "src/websites_1.txt"  # 400 websites
 all_websites_f2 = "src/websites_2.txt"  # 400 websites
 all_websites_f3 = "src/websites_3.txt"  # 400 websites
-all_websites_f4 = "src/websites_4.txt"  # 94 websites TODO: Add more websites?
+all_websites_f4 = "src/websites_4.txt"  # 400 websites
+all_websites_f5 = "src/websites_5.txt"  # 400 websites
+all_websites_f6 = "src/websites_6.txt"  # 400 websites
+all_websites_f7 = "src/websites_7.txt"  # 400 websites
+all_websites_f8 = "src/websites_8.txt"  # 278 websites
 
-single_website = ["http://www.iputz.de/"]  # Debug
-
+# Debug (For test purposes, use custom websites)
+single_website = ["http://www.google.de/"]
+websites = ["http://www.google.de/", "http://www.youtube.de/", "http://www.facebook.de/"]
 
 # Warnings (Captured in a German browser)
 website_warning = "Only one step left!"
@@ -365,12 +369,11 @@ def analyze_cookie_files():
         # 1. Use of a GDPR-compliant banner
         # 2. Respecting third party cookie choice of user
         # 3. "Accept" and "Decline"-Button must be available
-        # TODO: Remove numbers (1&2)
         if current_website_gdpr_compliant and current_website_authorized_use_of_third_party_cookies_after:
-            website_file.write("\n" + "[Analysis] Website is GDPR compliant! 1" + "\n")
+            website_file.write("\n" + "[Analysis] Website is GDPR compliant!" + "\n")
         elif not current_website_gdpr_compliant and current_website_authorized_use_of_third_party_cookies_after:
             if current_website_accept_button_use and current_website_decline_button_use:
-                website_file.write("\n" + "[Analysis] Website is GDPR compliant! 2" + "\n")
+                website_file.write("\n" + "[Analysis] Website is GDPR compliant!" + "\n")
             else:
                 website_file.write("\n" + "[Analysis] Website is NOT GDPR compliant!" + "\n")
         elif not current_website_gdpr_compliant and not current_website_authorized_use_of_third_party_cookies_after:
@@ -380,31 +383,30 @@ def analyze_cookie_files():
 
 
 if __name__ == '__main__':
-    with open(all_websites_f2) as websites_all:  # File-options: all_websites_f1, all_websites_f2, all_websites_f3, all_websites_f4
+    with open(all_websites_f1) as websites_all:  # File-options: all_websites_f[1-8]
         lines_websites = websites_all.readlines()
 
     for website in lines_websites:  # lines_websites
         try:
             website = str(website).replace("\n", "")
-            #create_short_website_name()
+            create_short_website_name()
             driver.get(website)
-            # able_to_accept_cookies = False
-            # current_website_gdpr_compliant = False
-            # current_website_cookie_use = False
-            # current_website_unauthorized_use_of_cookies_at_beginning = False
-            # current_website_unauthorized_use_of_third_party_cookies_at_beginning = False
-            # current_website_authorized_use_of_third_party_cookies_after = False
-            # current_website_accept_button_use = False
-            # current_website_decline_button_use = False
+            able_to_accept_cookies = False
+            current_website_gdpr_compliant = False
+            current_website_cookie_use = False
+            current_website_unauthorized_use_of_cookies_at_beginning = False
+            current_website_unauthorized_use_of_third_party_cookies_at_beginning = False
+            current_website_authorized_use_of_third_party_cookies_after = False
+            current_website_accept_button_use = False
+            current_website_decline_button_use = False
             website_index += 1
-            # a_cookies_before.clear()
-            # a_cookies_after.clear()
-            # cookie_difference.clear()
+            a_cookies_before.clear()
+            a_cookies_after.clear()
+            cookie_difference.clear()
             time.sleep(1)  # Wait for the website to load 15
 
             html_source = driver.page_source  # Get HTML-source-code
 
-            print("Website: " + str(website_index))
             # Check if website is still available
             if website_warning in html_source or \
                     website_warning_2 in html_source or \
@@ -416,23 +418,23 @@ if __name__ == '__main__':
                 offline_websites_amount += 1
                 continue
 
-            # initialize_website_file_and_check_cookie_banner()  # Generate a website file. Is there a cookie banner at all?
-            # time.sleep(1)
-            # check_gdpr_cookie_status()  # Is the existing cookie banner GDPR compliant?
-            # time.sleep(1)
-            # check_cookies_at_start()  # Which cookies already exist after loading the page?
-            # time.sleep(1)
-            # generate_screenshot("randomly")  # Randomly generate a screenshot showing the cookie-banner status of the current page
-            # time.sleep(1)  # 5
-            # accept_cookie_banner()  # Accept the cookie banner displayed
-            # time.sleep(1)
-            # check_cookies_after_banner_accept()  # What cookies exist on the site after accepting the corresponding cookie banner?
-            # time.sleep(1)
-            # analyze_cookie_files()  # Analyze the generated website files
-            #driver.delete_all_cookies()  # Debug
+            initialize_website_file_and_check_cookie_banner()  # Generate a website file. Is there a cookie banner at all?
+            time.sleep(1)
+            check_gdpr_cookie_status()  # Is the existing cookie banner GDPR compliant?
+            time.sleep(1)
+            check_cookies_at_start()  # Which cookies already exist after loading the page?
+            time.sleep(1)
+            generate_screenshot("randomly")  # Randomly generate a screenshot showing the cookie-banner status of the current page
+            time.sleep(2)
+            accept_cookie_banner()  # Accept the cookie banner displayed
+            time.sleep(1)
+            check_cookies_after_banner_accept()  # What cookies exist on the site after accepting the corresponding cookie banner?
+            time.sleep(1)
+            analyze_cookie_files()  # Analyze the generated website files
+            driver.delete_all_cookies()  # Remove loaded cookies after each iteration to increase performance
         except WebDriverException:
             print("\nException: Page most likely unavailable or offline!")
-            #os.remove("results/" + short_website_name + ".txt")
+            os.remove("results/" + short_website_name + ".txt")
             print("Skip website...")
             continue
 
