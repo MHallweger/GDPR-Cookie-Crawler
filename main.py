@@ -99,12 +99,24 @@ t_p_c_name = ""
 # _pin_unauth = Pinterest Tag
 # _ga, _gat, _gid = Google Analytics
 # _gcl_au = Google Adsense
-# _hjAbsoluteSessionInProgress, _hjFirstSeen, _hjIncludedInSessionSample = Hotjar
+# _hjAbsoluteSessionInProgress, _hjFirstSeen, _hjIncludedInSessionSample, _hjIncludedInPageviewSample = Hotjar (User experience tool)
+# __hssc, hubspotutk = HubSpot (CRM-System)
+# __kla_id = Klaviyo (E-Mail-Marketing)
+# _lfa = Leadfeeder (B2B Spy-tool)
+# _clsk, _clck = Microsoft Clarity (User experience tool)
+# __lotl, _lo_v, _lorid, _lo_uid = Lucky Orange (User experience tool)
 third_party_cookies = ["_fbp", "_pin_unauth", "_ga", "_gat", "_gid", "_gcl_au",
-                       "_hjAbsoluteSessionInProgress", "_hjFirstSeen", "_hjIncludedInSessionSample"]
+                       "_hjAbsoluteSessionInProgress", "_hjFirstSeen", "_hjIncludedInSessionSample", "_hjIncludedInPageviewSample", "__hssc",
+                       "hubspotutk", "__kla_id", "_lfa", "_clsk", "_clck", "__lotl", "_lo_v", "_lorid", "_lo_uid"]
 t_p_c_pairs = [("_fbp", "Facebook Pixel"), ("_pin_unauth", "Pinterest Tag"), ("_ga", "Google Analytics"),
                ("_gat", "Google Analytics"), ("_gid", "Google Analytics"), ("_gcl_au", "Google Adsense"),
-               ("_hjAbsoluteSessionInProgress", "Hotjar"), ("_hjFirstSeen", "Hotjar"), ("_hjIncludedInSessionSample", "Hotjar")]
+               ("_hjAbsoluteSessionInProgress", "Hotjar (User experience tool)"), ("_hjFirstSeen", "Hotjar (User experience tool)"),
+               ("_hjIncludedInSessionSample", "Hotjar (User experience tool)"), ("_hjIncludedInPageviewSample", "Hotjar (User experience tool)"),
+               ("__hssc", "HubSpot (CRM-System)"), ("hubspotutk", "HubSpot (CRM-System)"), ("__kla_id", "Klaviyo (E-Mail-Marketing)"),
+               ("_lfa", "Leadfeeder (B2B Spy-tool)"), ("_clsk", "Microsoft Clarity (User experience tool)"),
+               ("_clck", "Microsoft Clarity (User experience tool)"), ("__lotl", "Lucky Orange (User experience tool)"),
+               ("_lo_v", "Lucky Orange (User experience tool)"), ("_lorid", "Lucky Orange (User experience tool)"),
+               ("_lo_uid", "Lucky Orange (User experience tool)")]
 
 
 def initialize_website_file_and_check_cookie_banner():
