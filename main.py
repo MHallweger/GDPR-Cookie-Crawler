@@ -42,7 +42,7 @@ positive_cookie_banner_buttons = ["Alle Akzeptieren", "Alles akzeptieren", "Alle
                                   "Ich habs!", "Okay", "OKAY", "Cookies Zulassen", "Akzeptieren & weiter", "Akzeptiere cookies", "Alles Klar!",
                                   "Ok, Ich stimme zu.", "Ok, ich stimme zu", "Akzeptieren und schließen", "Akzeptieren & schließen", "Ermöglichen",
                                   "Fortsetzen", "Ich akzeptiere", "Ok, verstanden", "Allow all cookies", "Akzeptieren Sie", "Alles klar.",
-                                  "I agree to use cookies.", "I agree to use cookies", "Accept all cookies", "Ok", "OK", "ok", " ok "," Ok ", " OK ",
+                                  "I agree to use cookies.", "I agree to use cookies", "Accept all cookies", "Ok", "OK", "ok", " ok ", " Ok ", " OK ",
                                   "ok!", "Ok!", "OK!", "ja", "Ja", "JA", " ja ", " Ja ", " JA "]
 
 # General Keywords to decline cookie banner
@@ -95,10 +95,10 @@ cookie_difference = []
 t_p_c_name = ""
 
 # Keywords: Unauthorized third-party-cookies:
-# _fbp = Facebook Pixel
-# _pin_unauth = Pinterest Tag
-# _ga, _gat, _gid = Google Analytics
-# _gcl_au = Google Adsense
+# _fbp = Facebook Pixel (Facebook)
+# _pin_unauth = Pinterest Tag (Pinterest)
+# _ga, _gat, _gid = Google Analytics (Google)
+# _gcl_au = Google Adsense (Google)
 # _hjAbsoluteSessionInProgress, _hjFirstSeen, _hjIncludedInSessionSample, _hjIncludedInPageviewSample = Hotjar (User experience tool)
 # __hssc, hubspotutk = HubSpot (CRM-System)
 # __kla_id = Klaviyo (E-Mail-Marketing)
@@ -128,6 +128,7 @@ def initialize_website_file_and_check_cookie_banner():
 
     # Check if a cookie-banner is present at all
     print("Check cookie status for the website: " + website + " (" + short_website_name + ")")
+    print("Website Index: " + str(website_index))
     for keyword in positive_cookie_banner_buttons:
         # Special case for "ok" buttons: These can be confusing with normal text, e.g: "look" -> ok
         if re.search(r"\b" + keyword + r"\b", html_source):
@@ -398,7 +399,7 @@ if __name__ == '__main__':
     with open(all_websites_f1) as websites_all:  # File-options: all_websites_f[1-8]
         lines_websites = websites_all.readlines()
 
-    for website in lines_websites:  # lines_websites
+    for website in lines_websites:
         try:
             website = str(website).replace("\n", "")
             create_short_website_name()
@@ -415,7 +416,7 @@ if __name__ == '__main__':
             a_cookies_before.clear()
             a_cookies_after.clear()
             cookie_difference.clear()
-            time.sleep(1)  # Wait for the website to load 15
+            time.sleep(7.5)  # Wait for the website to load
 
             html_source = driver.page_source  # Get HTML-source-code
 
