@@ -16,7 +16,7 @@ if use_headless_mode:
     options.add_argument("--headless")
     options.add_argument("--window-size=1920,1200")
     options.add_argument('--disable-blink-features=AutomationControlled')
-    driver = webdriver.Chrome(options=options)
+    driver = webdriver.Chrome(executable_path=r"chromedriver.exe", options=options)
 else:
     options = Options()
     options.add_argument('--disable-blink-features=AutomationControlled')
@@ -72,6 +72,7 @@ website_warning_2 = "is currently unavailable."
 website_warning_3 = "Dies ist keine sichere Verbindung"
 website_warning_4 = "Domain erwerben"
 website_warning_5 = "Be the first to know when we launch"
+website_warning_6 = "Die Website ist nicht erreichbar"
 
 # Essential Variables
 short_website_name = ""
@@ -324,12 +325,16 @@ def analyze_cookie_files():
 
             with open("results/" + short_website_name + ".txt", "a") as website_file:
                 t_p_c_name = [y for (x, y) in t_p_c_pairs if x == updated_cookie_b]
-                website_file.write("[Used] Cookie-Name: " + updated_cookie_b + " (" + str(t_p_c_name[0]) + ")" + "\n")
+                website_file.write("[Used before] Cookie-Name: " + updated_cookie_b + " (" + str(t_p_c_name[0]) + ")" + "\n")
 
     # Rate the new amount of cookies
-    if a_cookies_after.__len__() % a_cookies_before.__len__() > 10 or current_website_unauthorized_use_of_third_party_cookies_at_beginning:
-        current_website_unauthorized_use_of_cookies_at_beginning = True
-    else:
+    try:
+        if a_cookies_after.__len__() % a_cookies_before.__len__() > 10 or current_website_unauthorized_use_of_third_party_cookies_at_beginning:
+            current_website_unauthorized_use_of_cookies_at_beginning = True
+        else:
+            current_website_unauthorized_use_of_cookies_at_beginning = False
+    except ZeroDivisionError:
+        print("Cookie length analysis error")
         current_website_unauthorized_use_of_cookies_at_beginning = False
 
     # Are third-party-cookies loaded after acceptance?
@@ -425,7 +430,8 @@ if __name__ == '__main__':
                     website_warning_2 in html_source or \
                     website_warning_3 in html_source or \
                     website_warning_4 in html_source or \
-                    website_warning_5 in html_source:
+                    website_warning_5 in html_source or \
+                    website_warning_6 in html_source:
                 print("Website not available!")
                 print("Skip website...")
                 offline_websites_amount += 1
@@ -447,7 +453,12 @@ if __name__ == '__main__':
             driver.delete_all_cookies()  # Remove loaded cookies after each iteration to increase performance
         except WebDriverException:
             print("\nException: Page most likely unavailable or offline!")
-            os.remove("results/" + short_website_name + ".txt")
+
+            try:
+                os.remove("results/" + short_website_name + ".txt")
+            except FileNotFoundError:
+                print("File could not be deleted because it was not found")
+
             print("Skip website...")
             continue
 
