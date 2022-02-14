@@ -1,0 +1,76 @@
+Website 250: http://www.bioloka.de/ | Created: 10.02.2022 18:34:47 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 18
+[Before] Website-Cookies: [{'domain': '.bioloka.de', 'expiry': 1678678478, 'httpOnly': False, 'name': 'cto_bundle', 'path': '/', 'secure': False, 'value': '8zTKFl9rdll0TzE3S0tsJTJCTmF3Y0N4WlhTRGZ4Vngza3E4Z0UwcmFIdyUyQmYzOGhFZFpQMGVHYnpOQ3EwZEpGU3RveW03YXpvTzFjZDlERjBvNW1IRWNQaHY2M3doTGNhVEJac2VpMVNNc2ZITTBKMms0RUlSOVlNa0NrUGg5NDFKY2FkS3VlRU95ejFuV09xbno0U09HRkJJSUNRJTNEJTNE'}, {'domain': '.bioloka.de', 'expiry': 1644600877, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': 'b7fa50208a9711ecb97fc7b71bd54253'}, {'domain': '.bioloka.de', 'expiry': 1678642478, 'httpOnly': False, 'name': 'cjConsent', 'path': '/', 'secure': True, 'value': 'MHxZfDB8Tnww'}, {'domain': '.bioloka.de', 'expiry': 1652290477, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644514477275.397871052'}, {'domain': '.bioloka.de', 'expiry': 1644514537, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.bioloka.de', 'expiry': 1676050477, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU56Vm1OR1JqWWprdE1ESTBPQzAwTkRVekxUbGlaVEF0TVdZellUWm1ZelV6TXpGbQ'}, {'domain': '.bioloka.de', 'expiry': 1707586477, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.946897822.1644514477'}, {'domain': '.bioloka.de', 'expiry': 1644516277, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A34%3A37.072Z'}, {'domain': '.bioloka.de', 'expiry': 1644600877, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.186667137.1644514477'}, {'domain': '.bioloka.de', 'expiry': 1676050478, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '55da079b-c40b-4852-86c3-78233c3d0210'}, {'domain': '.bioloka.de', 'expiry': 1644516278, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '546b5fa6-ecd5-4930-8477-0ed312524493'}, {'domain': '.bioloka.de', 'expiry': 1644516277, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.bioloka.de', 'expiry': 1678210477, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': 'b7fa93f08a9711ecb1565b2cef91e0f0'}, {'domain': '.bioloka.de', 'expiry': 1644516278, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '546b5fa6-ecd5-4930-8477-0ed312524493'}, {'domain': '.bioloka.de', 'expiry': 1676050478, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '55da079b-c40b-4852-86c3-78233c3d0210'}, {'domain': '.bioloka.de', 'expiry': 1645724076, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.bioloka.de', 'expiry': 1645724076, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.bioloka.de', 'expiry': 1676050478, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: cto_bundle
+[Before] Cookie-Name 2: _uetsid
+[Before] Cookie-Name 3: cjConsent
+[Before] Cookie-Name 4: _fbp
+[Before] Cookie-Name 5: _gat
+[Before] Cookie-Name 6: _pin_unauth
+[Before] Cookie-Name 7: _ga
+[Before] Cookie-Name 8: _shopify_sa_t
+[Before] Cookie-Name 9: _gid
+[Before] Cookie-Name 10: _y
+[Before] Cookie-Name 11: _shopify_s
+[Before] Cookie-Name 12: _shopify_sa_p
+[Before] Cookie-Name 13: _uetvid
+[Before] Cookie-Name 14: _s
+[Before] Cookie-Name 15: _shopify_y
+[Before] Cookie-Name 16: _landing_page
+[Before] Cookie-Name 17: _orig_referrer
+[Before] Cookie-Name 18: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 22
+[After] Website-Cookies: [{'domain': 'www.bioloka.de', 'expiry': 1676050493, 'httpOnly': False, 'name': '_y2', 'path': '/', 'secure': False, 'value': '1%3AeyJjIjp7Im8iOi0xNDczOTg0MDAwfX0%3D%3ALTE0NzEzNjMxNjg%3D%3A99'}, {'domain': '.bioloka.de', 'expiry': 1652290492, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.21588121.1644514493'}, {'domain': 'www.bioloka.de', 'expiry': 1676050492, 'httpOnly': False, 'name': 'CookieConsent', 'path': '/', 'secure': True, 'value': '{stamp:%27mMM1LQo3xs58txFjNCEdUz5LfWIQrXknpFF489zP/RtC46WbgA196A==%27%2Cnecessary:true%2Cpreferences:true%2Cstatistics:true%2Cmarketing:true%2Cver:1%2Cutc:1644514492575%2Cregion:%27de%27}'}, {'domain': '.bioloka.de', 'expiry': 1678678478, 'httpOnly': False, 'name': 'cto_bundle', 'path': '/', 'secure': False, 'value': '8zTKFl9rdll0TzE3S0tsJTJCTmF3Y0N4WlhTRGZ4Vngza3E4Z0UwcmFIdyUyQmYzOGhFZFpQMGVHYnpOQ3EwZEpGU3RveW03YXpvTzFjZDlERjBvNW1IRWNQaHY2M3doTGNhVEJac2VpMVNNc2ZITTBKMms0RUlSOVlNa0NrUGg5NDFKY2FkS3VlRU95ejFuV09xbno0U09HRkJJSUNRJTNEJTNE'}, {'domain': '.bioloka.de', 'expiry': 1644600877, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': 'b7fa50208a9711ecb97fc7b71bd54253'}, {'domain': '.bioloka.de', 'expiry': 1678642478, 'httpOnly': False, 'name': 'cjConsent', 'path': '/', 'secure': True, 'value': 'MHxZfDB8Tnww'}, {'domain': '.bioloka.de', 'expiry': 1652290492, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644514477275.397871052'}, {'domain': '.bioloka.de', 'expiry': 1644514537, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.bioloka.de', 'expiry': 1676050477, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU56Vm1OR1JqWWprdE1ESTBPQzAwTkRVekxUbGlaVEF0TVdZellUWm1ZelV6TXpGbQ'}, {'domain': '.bioloka.de', 'expiry': 1707586477, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.946897822.1644514477'}, {'domain': '.bioloka.de', 'expiry': 1644516277, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A34%3A37.072Z'}, {'domain': '.bioloka.de', 'expiry': 1644600877, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.186667137.1644514477'}, {'domain': '.bioloka.de', 'expiry': 1676050478, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '55da079b-c40b-4852-86c3-78233c3d0210'}, {'domain': '.bioloka.de', 'expiry': 1644516278, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '546b5fa6-ecd5-4930-8477-0ed312524493'}, {'domain': '.bioloka.de', 'expiry': 1644516277, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.bioloka.de', 'expiry': 1678210477, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': 'b7fa93f08a9711ecb1565b2cef91e0f0'}, {'domain': '.bioloka.de', 'expiry': 1644516278, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '546b5fa6-ecd5-4930-8477-0ed312524493'}, {'domain': '.bioloka.de', 'expiry': 1676050478, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '55da079b-c40b-4852-86c3-78233c3d0210'}, {'domain': '.bioloka.de', 'expiry': 1645724076, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.bioloka.de', 'expiry': 1645724076, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.bioloka.de', 'expiry': 1676050495, 'httpOnly': False, 'name': '_yi', 'path': '/', 'secure': False, 'value': '1%3AeyJsaSI6bnVsbCwic2UiOnsiYyI6MSwiZWMiOjgsImxhIjoxNjQ0NTE0NDk1Mzg0LCJwIjoxLCJzYyI6Mn0sInUiOnsiaWQiOiIyMWYzNjIyMy1mM2ZhLTRlODMtOTljOC02MmUwYzZhOTlmOGYiLCJmbCI6IjAifX0%3D%3ALTE4MDY5MDc0ODg%3D%3A99'}, {'domain': 'www.bioloka.de', 'expiry': 1676050478, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _y2
+[After] Cookie-Name 2: _gcl_au
+[After] Cookie-Name 3: CookieConsent
+[After] Cookie-Name 4: cto_bundle
+[After] Cookie-Name 5: _uetsid
+[After] Cookie-Name 6: cjConsent
+[After] Cookie-Name 7: _fbp
+[After] Cookie-Name 8: _gat
+[After] Cookie-Name 9: _pin_unauth
+[After] Cookie-Name 10: _ga
+[After] Cookie-Name 11: _shopify_sa_t
+[After] Cookie-Name 12: _gid
+[After] Cookie-Name 13: _y
+[After] Cookie-Name 14: _shopify_s
+[After] Cookie-Name 15: _shopify_sa_p
+[After] Cookie-Name 16: _uetvid
+[After] Cookie-Name 17: _s
+[After] Cookie-Name 18: _shopify_y
+[After] Cookie-Name 19: _landing_page
+[After] Cookie-Name 20: _orig_referrer
+[After] Cookie-Name 21: _yi
+[After] Cookie-Name 22: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 4
+[Difference] Cookie-Name: 1: _gcl_au
+[Difference] Cookie-Name: 2: _yi
+[Difference] Cookie-Name: 3: CookieConsent
+[Difference] Cookie-Name: 4: _y2
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

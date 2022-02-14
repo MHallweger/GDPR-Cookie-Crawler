@@ -1,0 +1,76 @@
+Website 36: http://www.discountmaxx.de/ | Created: 10.02.2022 17:29:31 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 22
+[Before] Website-Cookies: [{'domain': 'homeflixx.de', 'expiry': 1645720162, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '93f8fdb2f77c887206745645e79af6ee'}, {'domain': 'homeflixx.de', 'expiry': 1676046562, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': ''}, {'domain': 'homeflixx.de', 'expiry': 1644514157, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.homeflixx.de', 'expiry': 1707582557, 'httpOnly': False, 'name': '_ga_8GTWYTQDJC', 'path': '/', 'secure': False, 'value': 'GS1.1.1644510557.1.0.1644510557.0'}, {'domain': 'homeflixx.de', 'expiry': 1645720162, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2aed29abde21a1111c6f46148f8b1a1f'}, {'domain': 'homeflixx.de', 'expiry': 1645720162, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644510562'}, {'domain': '.homeflixx.de', 'expiry': 1644512357, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T16%3A29%3A17.573Z'}, {'domain': '.homeflixx.de', 'expiry': 1707582557, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1044484709.1644510558'}, {'domain': '.homeflixx.de', 'expiry': 1676046562, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bdb1cc03-7977-43a5-9c58-b5c6e92f1d47'}, {'domain': '.homeflixx.de', 'expiry': 1644596957, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1901709521.1644510558'}, {'domain': 'homeflixx.de', 'expiry': 1645720162, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': '.homeflixx.de', 'expiry': 1644512362, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6282a477-ea91-411a-b8f3-94b2209e31d0'}, {'domain': '.homeflixx.de', 'expiry': 1644510617, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.homeflixx.de', 'expiry': 1676046562, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bdb1cc03-7977-43a5-9c58-b5c6e92f1d47'}, {'domain': 'homeflixx.de', 'expiry': 1645720162, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.homeflixx.de', 'expiry': 1644512362, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6282a477-ea91-411a-b8f3-94b2209e31d0'}, {'domain': '.homeflixx.de', 'expiry': 1644512357, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'homeflixx.de', 'expiry': 1676046562, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.homeflixx.de', 'expiry': 1645720157, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.homeflixx.de', 'expiry': 1645720157, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.homeflixx.de', 'expiry': 1644510617, 'httpOnly': False, 'name': '_gat_gtag_UA_180182281_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'homeflixx.de', 'expiry': 1645720162, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[Before] Cookie-Name 1: cart
+[Before] Cookie-Name 2: cookieconsent_preferences_disabled
+[Before] Cookie-Name 3: shopify_pay_redirect
+[Before] Cookie-Name 4: _ga_8GTWYTQDJC
+[Before] Cookie-Name 5: cart_sig
+[Before] Cookie-Name 6: cart_ts
+[Before] Cookie-Name 7: _shopify_sa_t
+[Before] Cookie-Name 8: _ga
+[Before] Cookie-Name 9: _shopify_y
+[Before] Cookie-Name 10: _gid
+[Before] Cookie-Name 11: cart_ver
+[Before] Cookie-Name 12: _shopify_s
+[Before] Cookie-Name 13: _gat
+[Before] Cookie-Name 14: _y
+[Before] Cookie-Name 15: cart_currency
+[Before] Cookie-Name 16: _s
+[Before] Cookie-Name 17: _shopify_sa_p
+[Before] Cookie-Name 18: secure_customer_sig
+[Before] Cookie-Name 19: _landing_page
+[Before] Cookie-Name 20: _orig_referrer
+[Before] Cookie-Name 21: _gat_gtag_UA_180182281_1
+[Before] Cookie-Name 22: localization
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 23
+[After] Website-Cookies: [{'domain': 'homeflixx.de', 'expiry': 1676046576, 'httpOnly': False, 'name': 'cookieconsent_status', 'path': '/', 'secure': False, 'value': 'allow'}, {'domain': 'homeflixx.de', 'expiry': 1645720162, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '93f8fdb2f77c887206745645e79af6ee'}, {'domain': 'homeflixx.de', 'expiry': 1676046576, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': ''}, {'domain': 'homeflixx.de', 'expiry': 1644514157, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.homeflixx.de', 'expiry': 1707582557, 'httpOnly': False, 'name': '_ga_8GTWYTQDJC', 'path': '/', 'secure': False, 'value': 'GS1.1.1644510557.1.0.1644510557.0'}, {'domain': 'homeflixx.de', 'expiry': 1645720162, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2aed29abde21a1111c6f46148f8b1a1f'}, {'domain': 'homeflixx.de', 'expiry': 1645720162, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644510562'}, {'domain': '.homeflixx.de', 'expiry': 1644512357, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T16%3A29%3A17.573Z'}, {'domain': '.homeflixx.de', 'expiry': 1707582557, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1044484709.1644510558'}, {'domain': '.homeflixx.de', 'expiry': 1676046562, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bdb1cc03-7977-43a5-9c58-b5c6e92f1d47'}, {'domain': '.homeflixx.de', 'expiry': 1644596957, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1901709521.1644510558'}, {'domain': 'homeflixx.de', 'expiry': 1645720162, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': '.homeflixx.de', 'expiry': 1644512362, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6282a477-ea91-411a-b8f3-94b2209e31d0'}, {'domain': '.homeflixx.de', 'expiry': 1644510617, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.homeflixx.de', 'expiry': 1676046562, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bdb1cc03-7977-43a5-9c58-b5c6e92f1d47'}, {'domain': 'homeflixx.de', 'expiry': 1645720162, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.homeflixx.de', 'expiry': 1644512362, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6282a477-ea91-411a-b8f3-94b2209e31d0'}, {'domain': '.homeflixx.de', 'expiry': 1644512357, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'homeflixx.de', 'expiry': 1676046562, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.homeflixx.de', 'expiry': 1645720157, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.homeflixx.de', 'expiry': 1645720157, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.homeflixx.de', 'expiry': 1644510617, 'httpOnly': False, 'name': '_gat_gtag_UA_180182281_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'homeflixx.de', 'expiry': 1645720162, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[After] Cookie-Name 1: cookieconsent_status
+[After] Cookie-Name 2: cart
+[After] Cookie-Name 3: cookieconsent_preferences_disabled
+[After] Cookie-Name 4: shopify_pay_redirect
+[After] Cookie-Name 5: _ga_8GTWYTQDJC
+[After] Cookie-Name 6: cart_sig
+[After] Cookie-Name 7: cart_ts
+[After] Cookie-Name 8: _shopify_sa_t
+[After] Cookie-Name 9: _ga
+[After] Cookie-Name 10: _shopify_y
+[After] Cookie-Name 11: _gid
+[After] Cookie-Name 12: cart_ver
+[After] Cookie-Name 13: _shopify_s
+[After] Cookie-Name 14: _gat
+[After] Cookie-Name 15: _y
+[After] Cookie-Name 16: cart_currency
+[After] Cookie-Name 17: _s
+[After] Cookie-Name 18: _shopify_sa_p
+[After] Cookie-Name 19: secure_customer_sig
+[After] Cookie-Name 20: _landing_page
+[After] Cookie-Name 21: _orig_referrer
+[After] Cookie-Name 22: _gat_gtag_UA_180182281_1
+[After] Cookie-Name 23: localization
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _gat (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: cookieconsent_status
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

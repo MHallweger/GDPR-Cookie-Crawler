@@ -1,0 +1,81 @@
+Website 171: http://www.leestafford.de/ | Created: 09.02.2022 14:34:02 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 21
+[Before] Website-Cookies: [{'domain': '.leestafford.de', 'expiry': 1675949632, 'httpOnly': False, 'name': 'cookieyes-functional', 'path': '/', 'sameSite': 'Strict', 'secure': False, 'value': 'no'}, {'domain': '.leestafford.de', 'expiry': 1675949632, 'httpOnly': False, 'name': 'cookieyes-other', 'path': '/', 'sameSite': 'Strict', 'secure': False, 'value': 'no'}, {'domain': '.leestafford.de', 'expiry': 1675949632, 'httpOnly': False, 'name': 'cookieyes-necessary', 'path': '/', 'sameSite': 'Strict', 'secure': False, 'value': 'yes'}, {'domain': '.leestafford.de', 'expiry': 1675949632, 'httpOnly': False, 'name': 'cky-consent', 'path': '/', 'sameSite': 'Strict', 'secure': False, 'value': 'no'}, {'domain': '.leestafford.de', 'expiry': 1675949632, 'httpOnly': False, 'name': 'cookieyesID', 'path': '/', 'sameSite': 'Strict', 'secure': False, 'value': 'Nm1xODlyaUxQV1RPRDZFbWRDZ2djSnN3VzI0SlpyclE='}, {'domain': '.leestafford.de', 'expiry': 1675949632, 'httpOnly': False, 'name': 'cookieyes-analytics', 'path': '/', 'sameSite': 'Strict', 'secure': False, 'value': 'no'}, {'domain': 'www.leestafford.de', 'expiry': 1645623232, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.leestafford.de', 'expiry': 1644500031, 'httpOnly': False, 'name': 'cky-active-check', 'path': '/', 'sameSite': 'Strict', 'secure': False, 'value': 'yes'}, {'domain': '.leestafford.de', 'expiry': 1675949632, 'httpOnly': False, 'name': 'cookieyes-performance', 'path': '/', 'sameSite': 'Strict', 'secure': False, 'value': 'no'}, {'domain': 'www.leestafford.de', 'expiry': 1675949632, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.leestafford.de', 'expiry': 1644415432, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '11bf73b7-6fec-4854-8c74-baaa7e1cf508'}, {'domain': '.leestafford.de', 'expiry': 1645623230, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.leestafford.de', 'expiry': 1675949632, 'httpOnly': False, 'name': 'cookieyes-advertisement', 'path': '/', 'sameSite': 'Strict', 'secure': False, 'value': 'no'}, {'domain': '.leestafford.de', 'expiry': 1644415431, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.leestafford.de', 'expiry': 1675949632, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f4af3df2-3fbf-46ca-9fb9-7dc0b83bbe4f'}, {'domain': '.leestafford.de', 'expiry': 1645623230, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.leestafford.de', 'expiry': 1675949632, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f4af3df2-3fbf-46ca-9fb9-7dc0b83bbe4f'}, {'domain': 'www.leestafford.de', 'expiry': 1645623232, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.leestafford.de', 'expiry': 1644415432, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '11bf73b7-6fec-4854-8c74-baaa7e1cf508'}, {'domain': 'www.leestafford.de', 'expiry': 1644415430, 'httpOnly': False, 'name': '_shopify_country', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'Germany'}, {'domain': '.leestafford.de', 'expiry': 1644415431, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A33%3A51.083Z'}]
+[Before] Cookie-Name 1: cookieyes-functional
+[Before] Cookie-Name 2: cookieyes-other
+[Before] Cookie-Name 3: cookieyes-necessary
+[Before] Cookie-Name 4: cky-consent
+[Before] Cookie-Name 5: cookieyesID
+[Before] Cookie-Name 6: cookieyes-analytics
+[Before] Cookie-Name 7: localization
+[Before] Cookie-Name 8: cky-active-check
+[Before] Cookie-Name 9: cookieyes-performance
+[Before] Cookie-Name 10: secure_customer_sig
+[Before] Cookie-Name 11: _s
+[Before] Cookie-Name 12: _landing_page
+[Before] Cookie-Name 13: cookieyes-advertisement
+[Before] Cookie-Name 14: _shopify_sa_p
+[Before] Cookie-Name 15: _y
+[Before] Cookie-Name 16: _orig_referrer
+[Before] Cookie-Name 17: _shopify_y
+[Before] Cookie-Name 18: cart_currency
+[Before] Cookie-Name 19: _shopify_s
+[Before] Cookie-Name 20: _shopify_country
+[Before] Cookie-Name 21: _shopify_sa_t
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 27
+[After] Website-Cookies: [{'domain': '.leestafford.de', 'expiry': 1644413708, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.leestafford.de', 'expiry': 1707485648, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.217417631.1644413648'}, {'domain': '.leestafford.de', 'expiry': 1644415448, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A34%3A08.044Z'}, {'domain': '.leestafford.de', 'expiry': 1652189647, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.901695456.1644413648'}, {'domain': '.leestafford.de', 'expiry': 1675949647, 'httpOnly': False, 'name': 'cookieyes-functional', 'path': '/', 'sameSite': 'Strict', 'secure': False, 'value': 'yes'}, {'domain': '.leestafford.de', 'expiry': 1675949647, 'httpOnly': False, 'name': 'cky-action', 'path': '/', 'sameSite': 'Strict', 'secure': False, 'value': 'yes'}, {'domain': '.leestafford.de', 'expiry': 1675949647, 'httpOnly': False, 'name': 'cky-consent', 'path': '/', 'sameSite': 'Strict', 'secure': False, 'value': 'yes'}, {'domain': '.leestafford.de', 'expiry': 1644500048, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.923097975.1644413648'}, {'domain': '.leestafford.de', 'expiry': 1675949647, 'httpOnly': False, 'name': 'cookieyes-other', 'path': '/', 'sameSite': 'Strict', 'secure': False, 'value': 'yes'}, {'domain': '.leestafford.de', 'expiry': 1675949647, 'httpOnly': False, 'name': 'cookieyes-necessary', 'path': '/', 'sameSite': 'Strict', 'secure': False, 'value': 'yes'}, {'domain': '.leestafford.de', 'expiry': 1675949632, 'httpOnly': False, 'name': 'cookieyesID', 'path': '/', 'sameSite': 'Strict', 'secure': False, 'value': 'Nm1xODlyaUxQV1RPRDZFbWRDZ2djSnN3VzI0SlpyclE='}, {'domain': '.leestafford.de', 'expiry': 1675949648, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f4af3df2-3fbf-46ca-9fb9-7dc0b83bbe4f'}, {'domain': '.leestafford.de', 'expiry': 1675949647, 'httpOnly': False, 'name': 'cookieyes-analytics', 'path': '/', 'sameSite': 'Strict', 'secure': False, 'value': 'yes'}, {'domain': 'www.leestafford.de', 'expiry': 1645623248, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.leestafford.de', 'expiry': 1644500031, 'httpOnly': False, 'name': 'cky-active-check', 'path': '/', 'sameSite': 'Strict', 'secure': False, 'value': 'yes'}, {'domain': '.leestafford.de', 'expiry': 1675949647, 'httpOnly': False, 'name': 'cookieyes-performance', 'path': '/', 'sameSite': 'Strict', 'secure': False, 'value': 'yes'}, {'domain': 'www.leestafford.de', 'expiry': 1675949648, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.leestafford.de', 'expiry': 1644415448, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '11bf73b7-6fec-4854-8c74-baaa7e1cf508'}, {'domain': '.leestafford.de', 'expiry': 1645623230, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.leestafford.de', 'expiry': 1675949647, 'httpOnly': False, 'name': 'cookieyes-advertisement', 'path': '/', 'sameSite': 'Strict', 'secure': False, 'value': 'yes'}, {'domain': '.leestafford.de', 'expiry': 1644415448, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.leestafford.de', 'expiry': 1645623230, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.leestafford.de', 'expiry': 1675949648, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f4af3df2-3fbf-46ca-9fb9-7dc0b83bbe4f'}, {'domain': 'www.leestafford.de', 'expiry': 1645623248, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.leestafford.de', 'expiry': 1644413708, 'httpOnly': False, 'name': '_gat_gtag_UA_165268608_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.leestafford.de', 'expiry': 1644415448, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '11bf73b7-6fec-4854-8c74-baaa7e1cf508'}, {'domain': 'www.leestafford.de', 'expiry': 1644415430, 'httpOnly': False, 'name': '_shopify_country', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'Germany'}]
+[After] Cookie-Name 1: _gat
+[After] Cookie-Name 2: _ga
+[After] Cookie-Name 3: _shopify_sa_t
+[After] Cookie-Name 4: _gcl_au
+[After] Cookie-Name 5: cookieyes-functional
+[After] Cookie-Name 6: cky-action
+[After] Cookie-Name 7: cky-consent
+[After] Cookie-Name 8: _gid
+[After] Cookie-Name 9: cookieyes-other
+[After] Cookie-Name 10: cookieyes-necessary
+[After] Cookie-Name 11: cookieyesID
+[After] Cookie-Name 12: _y
+[After] Cookie-Name 13: cookieyes-analytics
+[After] Cookie-Name 14: localization
+[After] Cookie-Name 15: cky-active-check
+[After] Cookie-Name 16: cookieyes-performance
+[After] Cookie-Name 17: secure_customer_sig
+[After] Cookie-Name 18: _s
+[After] Cookie-Name 19: _landing_page
+[After] Cookie-Name 20: cookieyes-advertisement
+[After] Cookie-Name 21: _shopify_sa_p
+[After] Cookie-Name 22: _orig_referrer
+[After] Cookie-Name 23: _shopify_y
+[After] Cookie-Name 24: cart_currency
+[After] Cookie-Name 25: _gat_gtag_UA_165268608_1
+[After] Cookie-Name 26: _shopify_s
+[After] Cookie-Name 27: _shopify_country
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 6
+[Difference] Cookie-Name: 1: cky-action
+[Difference] Cookie-Name: 2: _gid
+[Difference] Cookie-Name: 3: _gat_gtag_UA_165268608_1
+[Difference] Cookie-Name: 4: _gat
+[Difference] Cookie-Name: 5: _ga
+[Difference] Cookie-Name: 6: _gcl_au
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

@@ -1,0 +1,95 @@
+Website 135: http://www.livefastdieyoung.de/ | Created: 10.02.2022 17:59:50 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 24
+[Before] Website-Cookies: [{'domain': '.livefastdieyoung.com', 'expiry': 1676048383, 'httpOnly': False, 'name': '__zlcmid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '18TkhFt6nPNcQVc'}, {'domain': '.livefastdieyoung.com', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'livefastdieyoung.com', 'httpOnly': False, 'name': 'locale_bar_accepted', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'livefastdieyoung.com', 'expiry': 1676048382, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.livefastdieyoung.com', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3d79467d-db79-4837-b428-6d6b3951d0f0'}, {'domain': '.livefastdieyoung.com', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T16%3A59%3A40.717Z'}, {'domain': 'livefastdieyoung.com', 'expiry': 1645721979, 'httpOnly': True, 'name': 'keep_alive', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3d79467d-db79-4837-b428-6d6b3951d0f0'}, {'domain': '.livefastdieyoung.com', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.livefastdieyoung.com', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3d79467d-db79-4837-b428-6d6b3951d0f0'}, {'domain': '.livefastdieyoung.com', 'expiry': 1644598782, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': '1gvaoqb|1644512382226|1|1|f.clarity.ms/collect'}, {'domain': '.livefastdieyoung.com', 'expiry': 1644514182, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'livefastdieyoung.com', 'expiry': 1676048382, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': 'analytics%2Cfunctionality%2Cmarketing'}, {'domain': '.livefastdieyoung.com', 'expiry': 1676048380, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%7D'}, {'domain': '.livefastdieyoung.com', 'expiry': 1676048380, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.livefastdieyoung.com', 'expiry': 1645721980, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.livefastdieyoung.com', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'livefastdieyoung.com', 'expiry': 1645721982, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.livefastdieyoung.com', 'expiry': 1644598781, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': 'd6aa44708a9211ecacc1697b879e5de6'}, {'domain': 'livefastdieyoung.com', 'expiry': 1645721982, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.livefastdieyoung.com', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c7350939-ff38-4dcb-927a-3dcbbb04222a'}, {'domain': '.livefastdieyoung.com', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.livefastdieyoung.com', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c7350939-ff38-4dcb-927a-3dcbbb04222a'}, {'domain': '.livefastdieyoung.com', 'expiry': 1676048382, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': '1ovnkob|1|eyv|0'}, {'domain': '.livefastdieyoung.com', 'expiry': 1678208381, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': 'd6aa3d808a9211ec956717dfb9b8c8ca'}]
+[Before] Cookie-Name 1: __zlcmid
+[Before] Cookie-Name 2: _shopify_sa_p
+[Before] Cookie-Name 3: locale_bar_accepted
+[Before] Cookie-Name 4: secure_customer_sig
+[Before] Cookie-Name 5: _shopify_s
+[Before] Cookie-Name 6: _shopify_sa_t
+[Before] Cookie-Name 7: keep_alive
+[Before] Cookie-Name 8: _shopify_evids
+[Before] Cookie-Name 9: _s
+[Before] Cookie-Name 10: _clsk
+[Before] Cookie-Name 11: _shopify_tm
+[Before] Cookie-Name 12: cookieconsent_preferences_disabled
+[Before] Cookie-Name 13: _tracking_consent
+[Before] Cookie-Name 14: _shopify_m
+[Before] Cookie-Name 15: _shopify_tw
+[Before] Cookie-Name 16: _landing_page
+[Before] Cookie-Name 17: cart_currency
+[Before] Cookie-Name 18: _uetsid
+[Before] Cookie-Name 19: localization
+[Before] Cookie-Name 20: _y
+[Before] Cookie-Name 21: _orig_referrer
+[Before] Cookie-Name 22: _shopify_y
+[Before] Cookie-Name 23: _clck
+[Before] Cookie-Name 24: _uetvid
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 33
+[After] Website-Cookies: [{'domain': '.livefastdieyoung.com', 'expiry': 1644512456, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.livefastdieyoung.com', 'expiry': 1644598796, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.279459690.1644512397'}, {'domain': '.livefastdieyoung.com', 'expiry': 1707584396, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1396583117.1644512397'}, {'domain': 'livefastdieyoung.com', 'expiry': 1645721996, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '458d57a864e6ea7677daa1bfef65c1d9'}, {'domain': '.livefastdieyoung.com', 'expiry': 1676048396, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': 'livefastdieyoung.com', 'expiry': 1645721996, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': '.livefastdieyoung.com', 'expiry': 1652288397, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644512396897.512574609'}, {'domain': 'livefastdieyoung.com', 'expiry': 1645721996, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c68e8c4af8337c3e15caa68c20f6a87e'}, {'domain': 'livefastdieyoung.com', 'expiry': 1645721996, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644512396'}, {'domain': '.livefastdieyoung.com', 'expiry': 1644514196, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'livefastdieyoung.com', 'httpOnly': False, 'name': 'locale_bar_accepted', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'livefastdieyoung.com', 'expiry': 1676048396, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.livefastdieyoung.com', 'expiry': 1644514196, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3d79467d-db79-4837-b428-6d6b3951d0f0'}, {'domain': '.livefastdieyoung.com', 'expiry': 1644514196, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T16%3A59%3A40.717Z'}, {'domain': 'livefastdieyoung.com', 'expiry': 1645721979, 'httpOnly': True, 'name': 'keep_alive', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3d79467d-db79-4837-b428-6d6b3951d0f0'}, {'domain': '.livefastdieyoung.com', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.livefastdieyoung.com', 'expiry': 1644514196, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3d79467d-db79-4837-b428-6d6b3951d0f0'}, {'domain': '.livefastdieyoung.com', 'expiry': 1676048382, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': '1ovnkob|1|eyv|0'}, {'domain': 'livefastdieyoung.com', 'expiry': 1676048396, 'httpOnly': False, 'name': 'cookieconsent_status', 'path': '/', 'secure': False, 'value': 'allow'}, {'domain': '.livefastdieyoung.com', 'expiry': 1678208381, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': 'd6aa3d808a9211ec956717dfb9b8c8ca'}, {'domain': '.livefastdieyoung.com', 'expiry': 1676048383, 'httpOnly': False, 'name': '__zlcmid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '18TkhFt6nPNcQVc'}, {'domain': '.livefastdieyoung.com', 'expiry': 1644598782, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': '1gvaoqb|1644512382226|1|1|f.clarity.ms/collect'}, {'domain': '.livefastdieyoung.com', 'expiry': 1645721980, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.livefastdieyoung.com', 'expiry': 1676048396, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%221%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%7D'}, {'domain': '.livefastdieyoung.com', 'expiry': 1644514196, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'livefastdieyoung.com', 'expiry': 1676048396, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': 'analytics%2Cfunctionality%2Cmarketing'}, {'domain': 'livefastdieyoung.com', 'expiry': 1645721996, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.livefastdieyoung.com', 'expiry': 1645721996, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.livefastdieyoung.com', 'expiry': 1676048396, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c7350939-ff38-4dcb-927a-3dcbbb04222a'}, {'domain': '.livefastdieyoung.com', 'expiry': 1644598781, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': 'd6aa44708a9211ecacc1697b879e5de6'}, {'domain': 'livefastdieyoung.com', 'expiry': 1645721996, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.livefastdieyoung.com', 'expiry': 1676048396, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c7350939-ff38-4dcb-927a-3dcbbb04222a'}, {'domain': '.livefastdieyoung.com', 'expiry': 1645721996, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: _gat
+[After] Cookie-Name 2: _gid
+[After] Cookie-Name 3: _ga
+[After] Cookie-Name 4: cart
+[After] Cookie-Name 5: _shopify_m
+[After] Cookie-Name 6: cart_ver
+[After] Cookie-Name 7: _fbp
+[After] Cookie-Name 8: cart_sig
+[After] Cookie-Name 9: cart_ts
+[After] Cookie-Name 10: _shopify_sa_p
+[After] Cookie-Name 11: locale_bar_accepted
+[After] Cookie-Name 12: secure_customer_sig
+[After] Cookie-Name 13: _shopify_s
+[After] Cookie-Name 14: _shopify_sa_t
+[After] Cookie-Name 15: keep_alive
+[After] Cookie-Name 16: _shopify_evids
+[After] Cookie-Name 17: _s
+[After] Cookie-Name 18: _clck
+[After] Cookie-Name 19: cookieconsent_status
+[After] Cookie-Name 20: _uetvid
+[After] Cookie-Name 21: __zlcmid
+[After] Cookie-Name 22: _clsk
+[After] Cookie-Name 23: _shopify_tw
+[After] Cookie-Name 24: _tracking_consent
+[After] Cookie-Name 25: _shopify_tm
+[After] Cookie-Name 26: cookieconsent_preferences_disabled
+[After] Cookie-Name 27: cart_currency
+[After] Cookie-Name 28: _landing_page
+[After] Cookie-Name 29: _shopify_y
+[After] Cookie-Name 30: _uetsid
+[After] Cookie-Name 31: localization
+[After] Cookie-Name 32: _y
+[After] Cookie-Name 33: _orig_referrer
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _clsk (Microsoft Clarity (User experience tool))
+[Used before] Cookie-Name: _clck (Microsoft Clarity (User experience tool))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 9
+[Difference] Cookie-Name: 1: cookieconsent_status
+[Difference] Cookie-Name: 2: cart
+[Difference] Cookie-Name: 3: cart_sig
+[Difference] Cookie-Name: 4: cart_ts
+[Difference] Cookie-Name: 5: _ga
+[Difference] Cookie-Name: 6: cart_ver
+[Difference] Cookie-Name: 7: _gat
+[Difference] Cookie-Name: 8: _fbp
+[Difference] Cookie-Name: 9: _gid
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

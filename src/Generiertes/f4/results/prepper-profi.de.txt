@@ -1,0 +1,77 @@
+Website 293: http://www.prepper-profi.de/ | Created: 09.02.2022 18:39:36 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 22
+[Before] Website-Cookies: [{'domain': 'prepper-profi.de', 'expiry': 1644514768, 'httpOnly': False, 'name': '_growthhero_uid', 'path': '/', 'secure': False, 'value': 'c71c9b9a-876f-4a24-a9a4-7ab1ac49f10f'}, {'domain': 'prepper-profi.de', 'expiry': 1645637967, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': 'prepper-profi.de', 'expiry': 1645637967, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c8b674dbe83ba1228f8e56908135ed71'}, {'domain': 'prepper-profi.de', 'expiry': 1675964368, 'httpOnly': False, 'name': '_growthhero_last_visit', 'path': '/', 'secure': False, 'value': 'Wed, 09 Feb 2022 17:39:28 GMT'}, {'domain': 'prepper-profi.de', 'expiry': 1645637967, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644428367'}, {'domain': '.prepper-profi.de', 'expiry': 1644430165, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.prepper-profi.de', 'expiry': 1644430165, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A39%3A25.134Z'}, {'domain': 'prepper-profi.de', 'expiry': 1644431965, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.prepper-profi.de', 'expiry': 1644428424, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.prepper-profi.de', 'expiry': 1675964367, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0a89c782-4d4e-4970-b24a-e4a8c0f47067'}, {'domain': '.prepper-profi.de', 'expiry': 1645637964, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.prepper-profi.de', 'expiry': 1645637964, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.prepper-profi.de', 'expiry': 1644430167, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5276f4b8-0d98-4872-9616-e7fec3df06e5'}, {'domain': 'prepper-profi.de', 'expiry': 1645637967, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b74df5e2230c94eeac759e70465b1b56'}, {'domain': '.prepper-profi.de', 'expiry': 1644514764, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.141974644.1644428365'}, {'domain': '.prepper-profi.de', 'expiry': 1707500364, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.568110673.1644428365'}, {'domain': 'prepper-profi.de', 'expiry': 1645637967, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.prepper-profi.de', 'expiry': 1644430167, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5276f4b8-0d98-4872-9616-e7fec3df06e5'}, {'domain': 'prepper-profi.de', 'expiry': 1645637967, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.prepper-profi.de', 'expiry': 1675964367, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0a89c782-4d4e-4970-b24a-e4a8c0f47067'}, {'domain': '.prepper-profi.de', 'expiry': 1652204366, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644428365565.1913250157'}, {'domain': 'prepper-profi.de', 'expiry': 1675964367, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _growthhero_uid
+[Before] Cookie-Name 2: cart_ver
+[Before] Cookie-Name 3: cart_sig
+[Before] Cookie-Name 4: _growthhero_last_visit
+[Before] Cookie-Name 5: cart_ts
+[Before] Cookie-Name 6: _shopify_sa_p
+[Before] Cookie-Name 7: _shopify_sa_t
+[Before] Cookie-Name 8: shopify_pay_redirect
+[Before] Cookie-Name 9: _gat
+[Before] Cookie-Name 10: _shopify_y
+[Before] Cookie-Name 11: _landing_page
+[Before] Cookie-Name 12: _orig_referrer
+[Before] Cookie-Name 13: _shopify_s
+[Before] Cookie-Name 14: cart
+[Before] Cookie-Name 15: _gid
+[Before] Cookie-Name 16: _ga
+[Before] Cookie-Name 17: cart_currency
+[Before] Cookie-Name 18: _s
+[Before] Cookie-Name 19: localization
+[Before] Cookie-Name 20: _y
+[Before] Cookie-Name 21: _fbp
+[Before] Cookie-Name 22: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 22
+[After] Website-Cookies: [{'domain': 'prepper-profi.de', 'expiry': 1644514768, 'httpOnly': False, 'name': '_growthhero_uid', 'path': '/', 'secure': False, 'value': 'c71c9b9a-876f-4a24-a9a4-7ab1ac49f10f'}, {'domain': 'prepper-profi.de', 'expiry': 1645637967, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': 'prepper-profi.de', 'expiry': 1645637967, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c8b674dbe83ba1228f8e56908135ed71'}, {'domain': 'prepper-profi.de', 'expiry': 1675964368, 'httpOnly': False, 'name': '_growthhero_last_visit', 'path': '/', 'secure': False, 'value': 'Wed, 09 Feb 2022 17:39:28 GMT'}, {'domain': 'prepper-profi.de', 'expiry': 1645637967, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644428367'}, {'domain': '.prepper-profi.de', 'expiry': 1644430165, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.prepper-profi.de', 'expiry': 1644430165, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A39%3A25.134Z'}, {'domain': 'prepper-profi.de', 'expiry': 1644431965, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.prepper-profi.de', 'expiry': 1644428424, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.prepper-profi.de', 'expiry': 1675964367, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0a89c782-4d4e-4970-b24a-e4a8c0f47067'}, {'domain': '.prepper-profi.de', 'expiry': 1645637964, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.prepper-profi.de', 'expiry': 1645637964, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.prepper-profi.de', 'expiry': 1644430167, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5276f4b8-0d98-4872-9616-e7fec3df06e5'}, {'domain': 'prepper-profi.de', 'expiry': 1645637967, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b74df5e2230c94eeac759e70465b1b56'}, {'domain': '.prepper-profi.de', 'expiry': 1644514764, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.141974644.1644428365'}, {'domain': '.prepper-profi.de', 'expiry': 1707500364, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.568110673.1644428365'}, {'domain': 'prepper-profi.de', 'expiry': 1645637967, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.prepper-profi.de', 'expiry': 1644430167, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5276f4b8-0d98-4872-9616-e7fec3df06e5'}, {'domain': 'prepper-profi.de', 'expiry': 1645637967, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.prepper-profi.de', 'expiry': 1675964367, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0a89c782-4d4e-4970-b24a-e4a8c0f47067'}, {'domain': '.prepper-profi.de', 'expiry': 1652204366, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644428365565.1913250157'}, {'domain': 'prepper-profi.de', 'expiry': 1675964367, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _growthhero_uid
+[After] Cookie-Name 2: cart_ver
+[After] Cookie-Name 3: cart_sig
+[After] Cookie-Name 4: _growthhero_last_visit
+[After] Cookie-Name 5: cart_ts
+[After] Cookie-Name 6: _shopify_sa_p
+[After] Cookie-Name 7: _shopify_sa_t
+[After] Cookie-Name 8: shopify_pay_redirect
+[After] Cookie-Name 9: _gat
+[After] Cookie-Name 10: _shopify_y
+[After] Cookie-Name 11: _landing_page
+[After] Cookie-Name 12: _orig_referrer
+[After] Cookie-Name 13: _shopify_s
+[After] Cookie-Name 14: cart
+[After] Cookie-Name 15: _gid
+[After] Cookie-Name 16: _ga
+[After] Cookie-Name 17: cart_currency
+[After] Cookie-Name 18: _s
+[After] Cookie-Name 19: localization
+[After] Cookie-Name 20: _y
+[After] Cookie-Name 21: _fbp
+[After] Cookie-Name 22: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

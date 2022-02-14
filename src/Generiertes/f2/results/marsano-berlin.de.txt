@@ -1,0 +1,75 @@
+Website 72: http://www.marsano-berlin.de/ | Created: 09.02.2022 11:08:10 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 12
+[Before] Website-Cookies: [{'domain': 'marsano-berlin.de', 'expiry': 1645610881, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A2'}, {'domain': '.marsano-berlin.de', 'expiry': 1675937280, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.marsano-berlin.de', 'expiry': 1645610880, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.marsano-berlin.de', 'expiry': 1644403081, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.marsano-berlin.de', 'expiry': 1675937280, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%7D'}, {'domain': 'marsano-berlin.de', 'expiry': 1645610881, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '18b7cea5760326b12bf15d3c0b3258b4'}, {'domain': 'marsano-berlin.de', 'expiry': 1645610881, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '18a59b64311f804c9afd6f55abae7bb7'}, {'domain': 'marsano-berlin.de', 'expiry': 1645610881, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644401281'}, {'domain': 'marsano-berlin.de', 'expiry': 1645610881, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.marsano-berlin.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.marsano-berlin.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'marsano-berlin.de', 'expiry': 1675937281, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: cart_ver
+[Before] Cookie-Name 2: _shopify_m
+[Before] Cookie-Name 3: _shopify_tw
+[Before] Cookie-Name 4: _shopify_tm
+[Before] Cookie-Name 5: _tracking_consent
+[Before] Cookie-Name 6: cart_sig
+[Before] Cookie-Name 7: cart
+[Before] Cookie-Name 8: cart_ts
+[Before] Cookie-Name 9: cart_currency
+[Before] Cookie-Name 10: _landing_page
+[Before] Cookie-Name 11: _orig_referrer
+[Before] Cookie-Name 12: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 27
+[After] Website-Cookies: [{'domain': '.marsano-berlin.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ee504062-8942-43a0-a7fd-2b90045a29f5'}, {'domain': '.marsano-berlin.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cbda51f3-a2b3-4f06-a5c9-bb36025128a0'}, {'domain': 'marsano-berlin.de', 'expiry': 1646993295, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0NDAxMjk1NjkyLCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjowfX0='}, {'domain': 'marsano-berlin.de', 'expiry': 1645610895, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'marsano-berlin.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'marsano-berlin.de', 'expiry': 1644403095, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A08%3A01.283Z'}, {'domain': 'marsano-berlin.de', 'expiry': 1675937295, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ee504062-8942-43a0-a7fd-2b90045a29f5'}, {'domain': 'marsano-berlin.de', 'expiry': 1645610895, 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A08%3A01.181Z'}, {'domain': 'marsano-berlin.de', 'expiry': 1644403095, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cbda51f3-a2b3-4f06-a5c9-bb36025128a0'}, {'domain': '.marsano-berlin.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A08%3A01.283Z'}, {'domain': '.marsano-berlin.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ee504062-8942-43a0-a7fd-2b90045a29f5'}, {'domain': 'marsano-berlin.de', 'expiry': 1644403095, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cbda51f3-a2b3-4f06-a5c9-bb36025128a0'}, {'domain': 'marsano-berlin.de', 'expiry': 1675937295, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'marsano-berlin.de', 'expiry': 1645610895, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.marsano-berlin.de', 'expiry': 1645610880, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.marsano-berlin.de', 'expiry': 1644403096, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'marsano-berlin.de', 'expiry': 1675937295, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ee504062-8942-43a0-a7fd-2b90045a29f5'}, {'domain': '.marsano-berlin.de', 'expiry': 1675937296, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%2C%22CCPA%22%3A%221%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%7D'}, {'domain': 'marsano-berlin.de', 'expiry': 1645610895, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '18b7cea5760326b12bf15d3c0b3258b4'}, {'domain': 'marsano-berlin.de', 'expiry': 1645610881, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '18a59b64311f804c9afd6f55abae7bb7'}, {'domain': '.marsano-berlin.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'marsano-berlin.de', 'expiry': 1645610881, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644401281'}, {'domain': '.marsano-berlin.de', 'expiry': 1645610895, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.marsano-berlin.de', 'expiry': 1645610895, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.marsano-berlin.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cbda51f3-a2b3-4f06-a5c9-bb36025128a0'}, {'domain': '.marsano-berlin.de', 'expiry': 1675937295, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': 'marsano-berlin.de', 'expiry': 1645610881, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A2'}]
+[After] Cookie-Name 1: _shopify_y
+[After] Cookie-Name 2: _shopify_s
+[After] Cookie-Name 3: _bc_c_set
+[After] Cookie-Name 4: localization
+[After] Cookie-Name 5: _shopify_evids
+[After] Cookie-Name 6: _shopify_sa_t
+[After] Cookie-Name 7: _y
+[After] Cookie-Name 8: _shopify_d
+[After] Cookie-Name 9: _shopify_s
+[After] Cookie-Name 10: _shopify_sa_t
+[After] Cookie-Name 11: _y
+[After] Cookie-Name 12: _s
+[After] Cookie-Name 13: secure_customer_sig
+[After] Cookie-Name 14: cart_currency
+[After] Cookie-Name 15: _shopify_tw
+[After] Cookie-Name 16: _shopify_tm
+[After] Cookie-Name 17: _shopify_y
+[After] Cookie-Name 18: _tracking_consent
+[After] Cookie-Name 19: cart_sig
+[After] Cookie-Name 20: cart
+[After] Cookie-Name 21: _shopify_evids
+[After] Cookie-Name 22: cart_ts
+[After] Cookie-Name 23: _landing_page
+[After] Cookie-Name 24: _orig_referrer
+[After] Cookie-Name 25: _s
+[After] Cookie-Name 26: _shopify_m
+[After] Cookie-Name 27: cart_ver
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 9
+[Difference] Cookie-Name: 1: localization
+[Difference] Cookie-Name: 2: _shopify_y
+[Difference] Cookie-Name: 3: _shopify_s
+[Difference] Cookie-Name: 4: _shopify_sa_t
+[Difference] Cookie-Name: 5: _shopify_d
+[Difference] Cookie-Name: 6: _bc_c_set
+[Difference] Cookie-Name: 7: _shopify_evids
+[Difference] Cookie-Name: 8: _s
+[Difference] Cookie-Name: 9: _y
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

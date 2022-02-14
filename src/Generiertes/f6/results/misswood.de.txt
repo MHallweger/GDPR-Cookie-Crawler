@@ -1,0 +1,94 @@
+Website 198: http://www.misswood.de/ | Created: 10.02.2022 13:11:06 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 28
+[Before] Website-Cookies: [{'domain': 'misswood.eu', 'expiry': 1644498667, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'misswood.eu', 'expiry': 1645704657, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A2'}, {'domain': 'misswood.eu', 'expiry': 1645704657, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644495057'}, {'domain': 'misswood.eu', 'expiry': 1645704657, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'baf571b757ffe3eb4b3b73db5b54db4e'}, {'domain': '.misswood.eu', 'expiry': 1644581457, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1235804063.1644495058'}, {'domain': 'misswood.eu', 'expiry': 1644495177, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.misswood.eu', 'expiry': 1644496857, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.misswood.eu', 'expiry': 1644496857, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.misswood.eu', 'expiry': 1652271057, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1589757015.1644495058'}, {'domain': '.misswood.eu', 'expiry': 1707567057, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1189402434.1644495058'}, {'domain': '.misswood.eu', 'expiry': 1644496857, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T12%3A10%3A57.463Z'}, {'domain': 'misswood.eu', 'expiry': 1645704657, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5f6323cbc91fe383244b489ef68502c8'}, {'domain': '.misswood.eu', 'expiry': 1676031057, 'httpOnly': False, 'name': '_hjSessionUser_1899691', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjY0NzA1MmIwLThkYWEtNThjZi1hNGE5LTVhNzc4OWJlMDBiMyIsImNyZWF0ZWQiOjE2NDQ0OTUwNTcxMzcsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.misswood.eu', 'expiry': 1676031059, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '27914c3c-a7fe-4797-ac0c-2f0fbddb6391'}, {'domain': 'misswood.eu', 'expiry': 1645704657, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.misswood.eu', 'expiry': 1644496859, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e36c09c6-dfaf-41d2-a08e-23f57e25beb9'}, {'domain': 'misswood.eu', 'expiry': 1645704655, 'httpOnly': True, 'name': 'keep_alive', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e36c09c6-dfaf-41d2-a08e-23f57e25beb9'}, {'domain': '.misswood.eu', 'expiry': 1652271058, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644495057695.305470736'}, {'domain': '.misswood.eu', 'expiry': 1645704655, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.misswood.eu', 'expiry': 1676031057, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVpqUXdaRGd3Wm1RdFpqUTJOQzAwWmpkaUxXRXhaakF0Wmpkak5EZGtPVEEwWkRVdw'}, {'domain': '.misswood.eu', 'expiry': 1644496859, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e36c09c6-dfaf-41d2-a08e-23f57e25beb9'}, {'domain': '.misswood.eu', 'expiry': 1676031059, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '27914c3c-a7fe-4797-ac0c-2f0fbddb6391'}, {'domain': '.misswood.eu', 'expiry': 1644495117, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.misswood.eu', 'expiry': 1645704655, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.misswood.eu', 'expiry': 1644496857, 'httpOnly': False, 'name': '_hjSession_1899691', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjQ5ZjlhODZmLWI3ZTEtNDI1ZS05ZTYzLTNiMTFhZTdhMWJhMiIsImNyZWF0ZWQiOjE2NDQ0OTUwNTcxNzIsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': 'misswood.eu', 'expiry': 1645704659, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ES'}, {'domain': '.misswood.eu', 'expiry': 1644496857, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'misswood.eu', 'expiry': 1676031059, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: shopify_pay_redirect
+[Before] Cookie-Name 2: cart_ver
+[Before] Cookie-Name 3: cart_ts
+[Before] Cookie-Name 4: cart
+[Before] Cookie-Name 5: _gid
+[Before] Cookie-Name 6: _hjIncludedInSessionSample
+[Before] Cookie-Name 7: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 8: _hjFirstSeen
+[Before] Cookie-Name 9: _gcl_au
+[Before] Cookie-Name 10: _ga
+[Before] Cookie-Name 11: _shopify_sa_t
+[Before] Cookie-Name 12: cart_sig
+[Before] Cookie-Name 13: _hjSessionUser_1899691
+[Before] Cookie-Name 14: _shopify_y
+[Before] Cookie-Name 15: cart_currency
+[Before] Cookie-Name 16: _s
+[Before] Cookie-Name 17: keep_alive
+[Before] Cookie-Name 18: _fbp
+[Before] Cookie-Name 19: _landing_page
+[Before] Cookie-Name 20: _pin_unauth
+[Before] Cookie-Name 21: _shopify_s
+[Before] Cookie-Name 22: _y
+[Before] Cookie-Name 23: _gat
+[Before] Cookie-Name 24: _orig_referrer
+[Before] Cookie-Name 25: _hjSession_1899691
+[Before] Cookie-Name 26: localization
+[Before] Cookie-Name 27: _shopify_sa_p
+[Before] Cookie-Name 28: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 28
+[After] Website-Cookies: [{'domain': 'misswood.eu', 'expiry': 1644498667, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'misswood.eu', 'expiry': 1645704657, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A2'}, {'domain': 'misswood.eu', 'expiry': 1645704657, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644495057'}, {'domain': 'misswood.eu', 'expiry': 1645704657, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'baf571b757ffe3eb4b3b73db5b54db4e'}, {'domain': '.misswood.eu', 'expiry': 1644581457, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1235804063.1644495058'}, {'domain': 'misswood.eu', 'expiry': 1644495177, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.misswood.eu', 'expiry': 1644496857, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.misswood.eu', 'expiry': 1644496857, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.misswood.eu', 'expiry': 1652271057, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1589757015.1644495058'}, {'domain': '.misswood.eu', 'expiry': 1707567057, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1189402434.1644495058'}, {'domain': '.misswood.eu', 'expiry': 1644496857, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T12%3A10%3A57.463Z'}, {'domain': 'misswood.eu', 'expiry': 1645704657, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5f6323cbc91fe383244b489ef68502c8'}, {'domain': '.misswood.eu', 'expiry': 1676031057, 'httpOnly': False, 'name': '_hjSessionUser_1899691', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjY0NzA1MmIwLThkYWEtNThjZi1hNGE5LTVhNzc4OWJlMDBiMyIsImNyZWF0ZWQiOjE2NDQ0OTUwNTcxMzcsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.misswood.eu', 'expiry': 1676031059, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '27914c3c-a7fe-4797-ac0c-2f0fbddb6391'}, {'domain': 'misswood.eu', 'expiry': 1645704657, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.misswood.eu', 'expiry': 1644496859, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e36c09c6-dfaf-41d2-a08e-23f57e25beb9'}, {'domain': 'misswood.eu', 'expiry': 1645704655, 'httpOnly': True, 'name': 'keep_alive', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e36c09c6-dfaf-41d2-a08e-23f57e25beb9'}, {'domain': '.misswood.eu', 'expiry': 1652271058, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644495057695.305470736'}, {'domain': '.misswood.eu', 'expiry': 1645704655, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.misswood.eu', 'expiry': 1676031057, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVpqUXdaRGd3Wm1RdFpqUTJOQzAwWmpkaUxXRXhaakF0Wmpkak5EZGtPVEEwWkRVdw'}, {'domain': '.misswood.eu', 'expiry': 1644496859, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e36c09c6-dfaf-41d2-a08e-23f57e25beb9'}, {'domain': '.misswood.eu', 'expiry': 1676031059, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '27914c3c-a7fe-4797-ac0c-2f0fbddb6391'}, {'domain': '.misswood.eu', 'expiry': 1644495117, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.misswood.eu', 'expiry': 1645704655, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.misswood.eu', 'expiry': 1644496857, 'httpOnly': False, 'name': '_hjSession_1899691', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjQ5ZjlhODZmLWI3ZTEtNDI1ZS05ZTYzLTNiMTFhZTdhMWJhMiIsImNyZWF0ZWQiOjE2NDQ0OTUwNTcxNzIsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': 'misswood.eu', 'expiry': 1645704659, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ES'}, {'domain': '.misswood.eu', 'expiry': 1644496857, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'misswood.eu', 'expiry': 1676031059, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: shopify_pay_redirect
+[After] Cookie-Name 2: cart_ver
+[After] Cookie-Name 3: cart_ts
+[After] Cookie-Name 4: cart
+[After] Cookie-Name 5: _gid
+[After] Cookie-Name 6: _hjIncludedInSessionSample
+[After] Cookie-Name 7: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 8: _hjFirstSeen
+[After] Cookie-Name 9: _gcl_au
+[After] Cookie-Name 10: _ga
+[After] Cookie-Name 11: _shopify_sa_t
+[After] Cookie-Name 12: cart_sig
+[After] Cookie-Name 13: _hjSessionUser_1899691
+[After] Cookie-Name 14: _shopify_y
+[After] Cookie-Name 15: cart_currency
+[After] Cookie-Name 16: _s
+[After] Cookie-Name 17: keep_alive
+[After] Cookie-Name 18: _fbp
+[After] Cookie-Name 19: _landing_page
+[After] Cookie-Name 20: _pin_unauth
+[After] Cookie-Name 21: _shopify_s
+[After] Cookie-Name 22: _y
+[After] Cookie-Name 23: _gat
+[After] Cookie-Name 24: _orig_referrer
+[After] Cookie-Name 25: _hjSession_1899691
+[After] Cookie-Name 26: localization
+[After] Cookie-Name 27: _shopify_sa_p
+[After] Cookie-Name 28: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _hjIncludedInSessionSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _gat (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

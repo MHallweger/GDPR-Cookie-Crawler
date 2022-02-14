@@ -1,0 +1,47 @@
+Website 124: http://www.meyer-dichtstoffe.de/ | Created: 09.02.2022 11:23:44 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 9
+[Before] Website-Cookies: [{'domain': '.meyer-dichtstoffe.de', 'expiry': 1644404015, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.meyer-dichtstoffe.de', 'expiry': 1644404015, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A23%3A35.627Z'}, {'domain': '.meyer-dichtstoffe.de', 'expiry': 1675938215, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3ee7ee4c-e27f-4f52-9331-648c5bac6166'}, {'domain': 'www.meyer-dichtstoffe.de', 'expiry': 1675938215, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.meyer-dichtstoffe.de', 'expiry': 1645611815, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.meyer-dichtstoffe.de', 'expiry': 1644404015, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9fd9f565-0949-43ba-a27e-b4610aa7c513'}, {'domain': '.meyer-dichtstoffe.de', 'expiry': 1644404015, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9fd9f565-0949-43ba-a27e-b4610aa7c513'}, {'domain': '.meyer-dichtstoffe.de', 'expiry': 1675938215, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3ee7ee4c-e27f-4f52-9331-648c5bac6166'}, {'domain': '.meyer-dichtstoffe.de', 'expiry': 1645611815, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}]
+[Before] Cookie-Name 1: _shopify_sa_p
+[Before] Cookie-Name 2: _shopify_sa_t
+[Before] Cookie-Name 3: _shopify_y
+[Before] Cookie-Name 4: secure_customer_sig
+[Before] Cookie-Name 5: _orig_referrer
+[Before] Cookie-Name 6: _s
+[Before] Cookie-Name 7: _shopify_s
+[Before] Cookie-Name 8: _y
+[Before] Cookie-Name 9: _landing_page
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 9
+[After] Website-Cookies: [{'domain': '.meyer-dichtstoffe.de', 'expiry': 1644404015, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.meyer-dichtstoffe.de', 'expiry': 1644404015, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A23%3A35.627Z'}, {'domain': '.meyer-dichtstoffe.de', 'expiry': 1675938215, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3ee7ee4c-e27f-4f52-9331-648c5bac6166'}, {'domain': 'www.meyer-dichtstoffe.de', 'expiry': 1675938215, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.meyer-dichtstoffe.de', 'expiry': 1645611815, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.meyer-dichtstoffe.de', 'expiry': 1644404015, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9fd9f565-0949-43ba-a27e-b4610aa7c513'}, {'domain': '.meyer-dichtstoffe.de', 'expiry': 1644404015, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9fd9f565-0949-43ba-a27e-b4610aa7c513'}, {'domain': '.meyer-dichtstoffe.de', 'expiry': 1675938215, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3ee7ee4c-e27f-4f52-9331-648c5bac6166'}, {'domain': '.meyer-dichtstoffe.de', 'expiry': 1645611815, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}]
+[After] Cookie-Name 1: _shopify_sa_p
+[After] Cookie-Name 2: _shopify_sa_t
+[After] Cookie-Name 3: _shopify_y
+[After] Cookie-Name 4: secure_customer_sig
+[After] Cookie-Name 5: _orig_referrer
+[After] Cookie-Name 6: _s
+[After] Cookie-Name 7: _shopify_s
+[After] Cookie-Name 8: _y
+[After] Cookie-Name 9: _landing_page
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is NOT GDPR compliant!

@@ -1,0 +1,117 @@
+Website 129: http://www.feelbelt.de/ | Created: 09.02.2022 14:21:13 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 39
+[Before] Website-Cookies: [{'domain': 'www.feelbelt.de', 'expiry': 1675948875, 'httpOnly': False, 'name': '_pandectes_gdpr', 'path': '/', 'secure': True, 'value': 'eyJzdGF0dXMiOiIiLCJ0aW1lc3RhbXAiOm51bGwsInByZWZlcmVuY2VzIjpudWxsfQ=='}, {'domain': '.feelbelt.de', 'expiry': 1707484875, 'httpOnly': False, 'name': '_ga_S8VXCC5E20', 'path': '/', 'secure': False, 'value': 'GS1.1.1eed4d12-bb6c-4571-96bd-2594c445942f.1.0.1644412875.0'}, {'domain': '.feelbelt.de', 'expiry': 1644414674, 'httpOnly': False, 'name': '__hssc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '38232380.1.1644412874509'}, {'domain': '.feelbelt.de', 'httpOnly': False, 'name': '__hssrc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.feelbelt.de', 'expiry': 1678108874, 'httpOnly': False, 'name': 'hubspotutk', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2d39b765304e24e3025b41bfff2aba50'}, {'domain': '.feelbelt.de', 'expiry': 1678108874, 'httpOnly': False, 'name': '__hstc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '38232380.2d39b765304e24e3025b41bfff2aba50.1644412874509.1644412874509.1644412874509.1'}, {'domain': 'www.feelbelt.de', 'expiry': 1707484874, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MTI4NzQsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LmZlZWxiZWx0LmRlLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDQxMjg3NCwidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly93d3cuZmVlbGJlbHQuZGUvIn19'}, {'domain': 'www.feelbelt.de', 'expiry': 1644416473, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'www.feelbelt.de', 'expiry': 1707484865, 'httpOnly': False, 'name': '__pf_user', 'path': '/', 'secure': False, 'value': '540e8b35-8bfe-44b9-9413-c947324dc0f9'}, {'domain': '.feelbelt.de', 'expiry': 1644414664, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': 'www.feelbelt.de', 'expiry': 1644412984, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.feelbelt.de', 'expiry': 1644414664, 'httpOnly': False, 'name': '_hjSession_2124427', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6Ijg4NTAyMTc3LTE0YmEtNGUyOC1iNzNiLWEwMTlmMjQ5YjVjMSIsImNyZWF0ZWQiOjE2NDQ0MTI4NjQzNTQsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': 'www.feelbelt.de', 'expiry': 1644412984, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.feelbelt.de', 'expiry': 1644412923, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.feelbelt.de', 'expiry': 1675948864, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVptTTFOVEprWVRRdE1qSXdaQzAwTXpNNUxUbGxNemd0TVRNME9UZzRaalk0TkRRMA'}, {'domain': 'www.feelbelt.de', 'expiry': 1644414665, 'httpOnly': False, 'name': 'dynamic_checkout_shown_on_cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.feelbelt.de', 'expiry': 1644499263, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.103584198.1644412864'}, {'domain': '.feelbelt.de', 'expiry': 1644414663, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.feelbelt.de', 'expiry': 1652188863, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1452510083.1644412864'}, {'domain': 'www.feelbelt.de', 'expiry': 1645622475, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.feelbelt.de', 'expiry': 1707484875, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.1.1116264860.1644412864'}, {'domain': '.feelbelt.de', 'expiry': 1644414675, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eb836ae5-9ec0-4b6c-837c-6c4276673e85'}, {'domain': '.feelbelt.de', 'expiry': 1645622462, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.feelbelt.de', 'httpOnly': False, 'name': 'epb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.feelbelt.de', 'expiry': 1644414664, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.feelbelt.de', 'expiry': 1645622462, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.feelbelt.de', 'expiry': 1707484874, 'httpOnly': False, 'name': '_ama', 'path': '/', 'secure': False, 'value': '1116264860.1644412864'}, {'domain': '.feelbelt.de', 'expiry': 1675948875, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5932da79-ba2d-4bc2-8838-5c0b7e629519'}, {'domain': 'www.feelbelt.de', 'expiry': 1645622475, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.feelbelt.de', 'expiry': 1652188876, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644412864012.20744290'}, {'domain': '.feelbelt.de', 'expiry': 1644414663, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A21%3A03.776Z'}, {'domain': '.feelbelt.de', 'expiry': 1644414675, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eb836ae5-9ec0-4b6c-837c-6c4276673e85'}, {'domain': '.feelbelt.de', 'expiry': 1675948864, 'httpOnly': False, 'name': '_hjSessionUser_2124427', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjA0MmUzM2RmLWJlMTYtNTc5ZC04NjU4LTkxYzhlOGMxNWJkYyIsImNyZWF0ZWQiOjE2NDQ0MTI4NjQyNDUsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.feelbelt.de', 'expiry': 1675948875, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5932da79-ba2d-4bc2-8838-5c0b7e629519'}, {'domain': 'www.feelbelt.de', 'httpOnly': False, 'name': 'usb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': 'www.feelbelt.de', 'expiry': 1645622462, 'httpOnly': True, 'name': 'keep_alive', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eb836ae5-9ec0-4b6c-837c-6c4276673e85'}, {'domain': 'www.feelbelt.de', 'expiry': 1644413765, 'httpOnly': False, 'name': '__pf_session', 'path': '/', 'secure': False, 'value': '82540e8b-358b-4e94-b994-13c947324dc0'}, {'domain': '.feelbelt.de', 'expiry': 1652188864, 'httpOnly': False, 'name': '_rdt_uuid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': '1644412864044.a78a186b-1d23-4f6f-9b9e-4873566b2535'}, {'domain': 'www.feelbelt.de', 'expiry': 1675948875, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _pandectes_gdpr
+[Before] Cookie-Name 2: _ga_S8VXCC5E20
+[Before] Cookie-Name 3: __hssc
+[Before] Cookie-Name 4: __hssrc
+[Before] Cookie-Name 5: hubspotutk
+[Before] Cookie-Name 6: __hstc
+[Before] Cookie-Name 7: __kla_id
+[Before] Cookie-Name 8: shopify_pay_redirect
+[Before] Cookie-Name 9: __pf_user
+[Before] Cookie-Name 10: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 11: _hjIncludedInPageviewSample
+[Before] Cookie-Name 12: _hjSession_2124427
+[Before] Cookie-Name 13: _hjIncludedInSessionSample
+[Before] Cookie-Name 14: _gat
+[Before] Cookie-Name 15: _pin_unauth
+[Before] Cookie-Name 16: dynamic_checkout_shown_on_cart
+[Before] Cookie-Name 17: _gid
+[Before] Cookie-Name 18: _shopify_sa_p
+[Before] Cookie-Name 19: _gcl_au
+[Before] Cookie-Name 20: cart_currency
+[Before] Cookie-Name 21: _ga
+[Before] Cookie-Name 22: _shopify_s
+[Before] Cookie-Name 23: _landing_page
+[Before] Cookie-Name 24: epb_previous_pathname
+[Before] Cookie-Name 25: _hjFirstSeen
+[Before] Cookie-Name 26: _orig_referrer
+[Before] Cookie-Name 27: _ama
+[Before] Cookie-Name 28: _shopify_y
+[Before] Cookie-Name 29: localization
+[Before] Cookie-Name 30: _fbp
+[Before] Cookie-Name 31: _shopify_sa_t
+[Before] Cookie-Name 32: _s
+[Before] Cookie-Name 33: _hjSessionUser_2124427
+[Before] Cookie-Name 34: _y
+[Before] Cookie-Name 35: usb_previous_pathname
+[Before] Cookie-Name 36: keep_alive
+[Before] Cookie-Name 37: __pf_session
+[Before] Cookie-Name 38: _rdt_uuid
+[Before] Cookie-Name 39: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 39
+[After] Website-Cookies: [{'domain': 'www.feelbelt.de', 'expiry': 1675948880, 'httpOnly': False, 'name': '_pandectes_gdpr', 'path': '/', 'secure': True, 'value': 'eyJzdGF0dXMiOiJkaXNtaXNzIiwidGltZXN0YW1wIjoxNjQ0NDEyODgwLCJwcmVmZXJlbmNlcyI6MH0='}, {'domain': '.feelbelt.de', 'expiry': 1707484875, 'httpOnly': False, 'name': '_ga_S8VXCC5E20', 'path': '/', 'secure': False, 'value': 'GS1.1.1eed4d12-bb6c-4571-96bd-2594c445942f.1.0.1644412875.0'}, {'domain': '.feelbelt.de', 'expiry': 1644414674, 'httpOnly': False, 'name': '__hssc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '38232380.1.1644412874509'}, {'domain': '.feelbelt.de', 'expiry': 1678108874, 'httpOnly': False, 'name': 'hubspotutk', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2d39b765304e24e3025b41bfff2aba50'}, {'domain': '.feelbelt.de', 'httpOnly': False, 'name': '__hssrc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.feelbelt.de', 'expiry': 1678108874, 'httpOnly': False, 'name': '__hstc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '38232380.2d39b765304e24e3025b41bfff2aba50.1644412874509.1644412874509.1644412874509.1'}, {'domain': 'www.feelbelt.de', 'expiry': 1707484874, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MTI4NzQsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LmZlZWxiZWx0LmRlLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDQxMjg3NCwidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly93d3cuZmVlbGJlbHQuZGUvIn19'}, {'domain': 'www.feelbelt.de', 'expiry': 1644416473, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'www.feelbelt.de', 'expiry': 1707484865, 'httpOnly': False, 'name': '__pf_user', 'path': '/', 'secure': False, 'value': '540e8b35-8bfe-44b9-9413-c947324dc0f9'}, {'domain': '.feelbelt.de', 'expiry': 1644414664, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': 'www.feelbelt.de', 'expiry': 1644412984, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.feelbelt.de', 'expiry': 1644414664, 'httpOnly': False, 'name': '_hjSession_2124427', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6Ijg4NTAyMTc3LTE0YmEtNGUyOC1iNzNiLWEwMTlmMjQ5YjVjMSIsImNyZWF0ZWQiOjE2NDQ0MTI4NjQzNTQsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': 'www.feelbelt.de', 'expiry': 1644412984, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.feelbelt.de', 'expiry': 1644412923, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.feelbelt.de', 'expiry': 1675948864, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVptTTFOVEprWVRRdE1qSXdaQzAwTXpNNUxUbGxNemd0TVRNME9UZzRaalk0TkRRMA'}, {'domain': 'www.feelbelt.de', 'expiry': 1644414665, 'httpOnly': False, 'name': 'dynamic_checkout_shown_on_cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.feelbelt.de', 'expiry': 1644499263, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.103584198.1644412864'}, {'domain': '.feelbelt.de', 'expiry': 1644414663, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.feelbelt.de', 'expiry': 1652188863, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1452510083.1644412864'}, {'domain': 'www.feelbelt.de', 'expiry': 1645622475, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.feelbelt.de', 'expiry': 1707484875, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.1.1116264860.1644412864'}, {'domain': '.feelbelt.de', 'expiry': 1644414675, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eb836ae5-9ec0-4b6c-837c-6c4276673e85'}, {'domain': '.feelbelt.de', 'expiry': 1645622462, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.feelbelt.de', 'httpOnly': False, 'name': 'epb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.feelbelt.de', 'expiry': 1644414664, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.feelbelt.de', 'expiry': 1645622462, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.feelbelt.de', 'expiry': 1707484874, 'httpOnly': False, 'name': '_ama', 'path': '/', 'secure': False, 'value': '1116264860.1644412864'}, {'domain': '.feelbelt.de', 'expiry': 1675948875, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5932da79-ba2d-4bc2-8838-5c0b7e629519'}, {'domain': 'www.feelbelt.de', 'expiry': 1645622475, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.feelbelt.de', 'expiry': 1652188880, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644412864012.20744290'}, {'domain': '.feelbelt.de', 'expiry': 1644414663, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A21%3A03.776Z'}, {'domain': '.feelbelt.de', 'expiry': 1644414675, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eb836ae5-9ec0-4b6c-837c-6c4276673e85'}, {'domain': '.feelbelt.de', 'expiry': 1675948864, 'httpOnly': False, 'name': '_hjSessionUser_2124427', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjA0MmUzM2RmLWJlMTYtNTc5ZC04NjU4LTkxYzhlOGMxNWJkYyIsImNyZWF0ZWQiOjE2NDQ0MTI4NjQyNDUsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.feelbelt.de', 'expiry': 1675948875, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5932da79-ba2d-4bc2-8838-5c0b7e629519'}, {'domain': 'www.feelbelt.de', 'httpOnly': False, 'name': 'usb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': 'www.feelbelt.de', 'expiry': 1645622462, 'httpOnly': True, 'name': 'keep_alive', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eb836ae5-9ec0-4b6c-837c-6c4276673e85'}, {'domain': 'www.feelbelt.de', 'expiry': 1644413765, 'httpOnly': False, 'name': '__pf_session', 'path': '/', 'secure': False, 'value': '82540e8b-358b-4e94-b994-13c947324dc0'}, {'domain': '.feelbelt.de', 'expiry': 1652188864, 'httpOnly': False, 'name': '_rdt_uuid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': '1644412864044.a78a186b-1d23-4f6f-9b9e-4873566b2535'}, {'domain': 'www.feelbelt.de', 'expiry': 1675948875, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _pandectes_gdpr
+[After] Cookie-Name 2: _ga_S8VXCC5E20
+[After] Cookie-Name 3: __hssc
+[After] Cookie-Name 4: hubspotutk
+[After] Cookie-Name 5: __hssrc
+[After] Cookie-Name 6: __hstc
+[After] Cookie-Name 7: __kla_id
+[After] Cookie-Name 8: shopify_pay_redirect
+[After] Cookie-Name 9: __pf_user
+[After] Cookie-Name 10: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 11: _hjIncludedInPageviewSample
+[After] Cookie-Name 12: _hjSession_2124427
+[After] Cookie-Name 13: _hjIncludedInSessionSample
+[After] Cookie-Name 14: _gat
+[After] Cookie-Name 15: _pin_unauth
+[After] Cookie-Name 16: dynamic_checkout_shown_on_cart
+[After] Cookie-Name 17: _gid
+[After] Cookie-Name 18: _shopify_sa_p
+[After] Cookie-Name 19: _gcl_au
+[After] Cookie-Name 20: cart_currency
+[After] Cookie-Name 21: _ga
+[After] Cookie-Name 22: _shopify_s
+[After] Cookie-Name 23: _landing_page
+[After] Cookie-Name 24: epb_previous_pathname
+[After] Cookie-Name 25: _hjFirstSeen
+[After] Cookie-Name 26: _orig_referrer
+[After] Cookie-Name 27: _ama
+[After] Cookie-Name 28: _shopify_y
+[After] Cookie-Name 29: localization
+[After] Cookie-Name 30: _fbp
+[After] Cookie-Name 31: _shopify_sa_t
+[After] Cookie-Name 32: _s
+[After] Cookie-Name 33: _hjSessionUser_2124427
+[After] Cookie-Name 34: _y
+[After] Cookie-Name 35: usb_previous_pathname
+[After] Cookie-Name 36: keep_alive
+[After] Cookie-Name 37: __pf_session
+[After] Cookie-Name 38: _rdt_uuid
+[After] Cookie-Name 39: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: __hssc (HubSpot (CRM-System))
+[Used before] Cookie-Name: hubspotutk (HubSpot (CRM-System))
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjIncludedInPageviewSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjIncludedInSessionSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

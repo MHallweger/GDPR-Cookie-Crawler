@@ -1,0 +1,84 @@
+Website 113: http://www.biomagnet24.de/ | Created: 10.02.2022 17:52:41 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 25
+[Before] Website-Cookies: [{'domain': '.biomagnet24.de', 'expiry': 1644512012, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'biomagnet24.de', 'expiry': 1644513752, 'httpOnly': False, 'name': 'baMet_visit', 'path': '/', 'secure': False, 'value': '01ba90a5d2df435aa55a5d21856451d11644511952618'}, {'domain': 'biomagnet24.de', 'expiry': 1644515552, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.biomagnet24.de', 'expiry': 1644513752, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'biomagnet24.de', 'expiry': 1644515553, 'httpOnly': False, 'name': 'scapp_next', 'path': '/', 'secure': False, 'value': '3'}, {'domain': '.biomagnet24.de', 'expiry': 1652287953, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644511953186.479328131'}, {'domain': '.biomagnet24.de', 'expiry': 1644513752, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T16%3A52%3A32.674Z'}, {'domain': '.biomagnet24.de', 'expiry': 1707583952, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.233491316.1644511952'}, {'domain': 'biomagnet24.de', 'expiry': 1645721551, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '26f35c236f99427781949270b22e7851'}, {'domain': '.biomagnet24.de', 'expiry': 1645721550, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.biomagnet24.de', 'expiry': 1652287951, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.2065580534.1644511952'}, {'domain': 'biomagnet24.de', 'expiry': 1645721551, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644511951'}, {'domain': '.biomagnet24.de', 'expiry': 1676047953, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0693cb2d-49de-45d9-9599-9f114a461a57'}, {'domain': 'biomagnet24.de', 'expiry': 1645721551, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9323e0485b0fb0f43bc7f9f604e0cde0'}, {'domain': '.biomagnet24.de', 'expiry': 1644513753, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '66c2c642-0305-4241-9c90-345608715b97'}, {'domain': '.biomagnet24.de', 'expiry': 1644512011, 'httpOnly': False, 'name': '_gat_gtag_UA_158041440_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.biomagnet24.de', 'expiry': 1644513753, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '66c2c642-0305-4241-9c90-345608715b97'}, {'domain': 'biomagnet24.de', 'expiry': 1676047953, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.biomagnet24.de', 'expiry': 1676047953, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0693cb2d-49de-45d9-9599-9f114a461a57'}, {'domain': 'biomagnet24.de', 'expiry': 1645721551, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': 'biomagnet24.de', 'expiry': 1644515552, 'httpOnly': False, 'name': 'scapp_now', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.biomagnet24.de', 'expiry': 1644598352, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.107017688.1644511952'}, {'domain': '.biomagnet24.de', 'expiry': 1645721550, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'biomagnet24.de', 'expiry': 1645721553, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'biomagnet24.de', 'expiry': 1645721553, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}]
+[Before] Cookie-Name 1: _gat
+[Before] Cookie-Name 2: baMet_visit
+[Before] Cookie-Name 3: shopify_pay_redirect
+[Before] Cookie-Name 4: _shopify_sa_p
+[Before] Cookie-Name 5: scapp_next
+[Before] Cookie-Name 6: _fbp
+[Before] Cookie-Name 7: _shopify_sa_t
+[Before] Cookie-Name 8: _ga
+[Before] Cookie-Name 9: cart_sig
+[Before] Cookie-Name 10: _landing_page
+[Before] Cookie-Name 11: _gcl_au
+[Before] Cookie-Name 12: cart_ts
+[Before] Cookie-Name 13: _shopify_y
+[Before] Cookie-Name 14: cart
+[Before] Cookie-Name 15: _shopify_s
+[Before] Cookie-Name 16: _gat_gtag_UA_158041440_1
+[Before] Cookie-Name 17: _s
+[Before] Cookie-Name 18: secure_customer_sig
+[Before] Cookie-Name 19: _y
+[Before] Cookie-Name 20: cart_ver
+[Before] Cookie-Name 21: scapp_now
+[Before] Cookie-Name 22: _gid
+[Before] Cookie-Name 23: _orig_referrer
+[Before] Cookie-Name 24: localization
+[Before] Cookie-Name 25: cart_currency
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 23
+[After] Website-Cookies: [{'domain': '.biomagnet24.de', 'expiry': 1644512012, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'biomagnet24.de', 'expiry': 1644515552, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.biomagnet24.de', 'expiry': 1644513752, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.biomagnet24.de', 'expiry': 1644513752, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T16%3A52%3A32.674Z'}, {'domain': '.biomagnet24.de', 'expiry': 1707583952, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.233491316.1644511952'}, {'domain': 'biomagnet24.de', 'expiry': 1645721551, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '26f35c236f99427781949270b22e7851'}, {'domain': '.biomagnet24.de', 'expiry': 1652287951, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.2065580534.1644511952'}, {'domain': 'biomagnet24.de', 'expiry': 1645721551, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644511951'}, {'domain': 'biomagnet24.de', 'expiry': 1645721551, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9323e0485b0fb0f43bc7f9f604e0cde0'}, {'domain': '.biomagnet24.de', 'expiry': 1644513753, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '66c2c642-0305-4241-9c90-345608715b97'}, {'domain': 'biomagnet24.de', 'expiry': 1676047966, 'httpOnly': False, 'name': 'CookieConsent', 'path': '/', 'secure': True, 'value': '{stamp:%27vuKpWGnVC4Zflkkgi+3GgdEeSnY+S04vmIVAniBW1sL9WBjNiI8qUw==%27%2Cnecessary:true%2Cpreferences:true%2Cstatistics:true%2Cmarketing:true%2Cver:1%2Cutc:1644511966190%2Cregion:%27de%27}'}, {'domain': '.biomagnet24.de', 'expiry': 1644512011, 'httpOnly': False, 'name': '_gat_gtag_UA_158041440_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.biomagnet24.de', 'expiry': 1676047953, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0693cb2d-49de-45d9-9599-9f114a461a57'}, {'domain': '.biomagnet24.de', 'expiry': 1644513753, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '66c2c642-0305-4241-9c90-345608715b97'}, {'domain': 'biomagnet24.de', 'expiry': 1676047953, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.biomagnet24.de', 'expiry': 1676047953, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0693cb2d-49de-45d9-9599-9f114a461a57'}, {'domain': 'biomagnet24.de', 'expiry': 1645721551, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': '.biomagnet24.de', 'expiry': 1645721550, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.biomagnet24.de', 'expiry': 1644598352, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.107017688.1644511952'}, {'domain': '.biomagnet24.de', 'expiry': 1645721550, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'biomagnet24.de', 'expiry': 1645721553, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.biomagnet24.de', 'expiry': 1652287966, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644511953186.479328131'}, {'domain': 'biomagnet24.de', 'expiry': 1645721553, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}]
+[After] Cookie-Name 1: _gat
+[After] Cookie-Name 2: shopify_pay_redirect
+[After] Cookie-Name 3: _shopify_sa_p
+[After] Cookie-Name 4: _shopify_sa_t
+[After] Cookie-Name 5: _ga
+[After] Cookie-Name 6: cart_sig
+[After] Cookie-Name 7: _gcl_au
+[After] Cookie-Name 8: cart_ts
+[After] Cookie-Name 9: cart
+[After] Cookie-Name 10: _shopify_s
+[After] Cookie-Name 11: CookieConsent
+[After] Cookie-Name 12: _gat_gtag_UA_158041440_1
+[After] Cookie-Name 13: _shopify_y
+[After] Cookie-Name 14: _s
+[After] Cookie-Name 15: secure_customer_sig
+[After] Cookie-Name 16: _y
+[After] Cookie-Name 17: cart_ver
+[After] Cookie-Name 18: _landing_page
+[After] Cookie-Name 19: _gid
+[After] Cookie-Name 20: _orig_referrer
+[After] Cookie-Name 21: localization
+[After] Cookie-Name 22: _fbp
+[After] Cookie-Name 23: cart_currency
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _gid (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 4
+[Difference] Cookie-Name: 1: scapp_next
+[Difference] Cookie-Name: 2: scapp_now
+[Difference] Cookie-Name: 3: CookieConsent
+[Difference] Cookie-Name: 4: baMet_visit
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

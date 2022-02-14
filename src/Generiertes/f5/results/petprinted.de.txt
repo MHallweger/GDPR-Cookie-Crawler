@@ -1,0 +1,95 @@
+Website 250: http://www.petprinted.de/ | Created: 09.02.2022 20:53:09 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 5
+[Before] Website-Cookies: [{'domain': '.petprinted.de', 'expiry': 1645645978, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'petprinted.de', 'expiry': 1645645980, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.petprinted.de', 'expiry': 1645645978, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'petprinted.de', 'expiry': 1644438177, 'httpOnly': False, 'name': '_shopify_country', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'Germany'}, {'domain': 'petprinted.de', 'expiry': 1675972380, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _landing_page
+[Before] Cookie-Name 2: cart_currency
+[Before] Cookie-Name 3: _orig_referrer
+[Before] Cookie-Name 4: _shopify_country
+[Before] Cookie-Name 5: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 34
+[After] Website-Cookies: [{'domain': 'petprinted.de', 'expiry': 1647028394, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0NDM2Mzk0NzcwLCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjoxfX0='}, {'domain': 'petprinted.de', 'httpOnly': False, 'name': '_ks_scriptVersionChecked', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'true'}, {'domain': 'petprinted.de', 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ecb215ee-a069-4c0e-96f1-475f38deb8e3'}, {'domain': 'petprinted.de', 'httpOnly': False, 'name': '_ks_scriptVersion', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '308'}, {'domain': 'petprinted.de', 'httpOnly': False, 'name': '_hjSessionUser_2321594', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjFlYWJhN2M5LWNlNTctNWI3YS1iOTE4LTBmMTA0OTEzYTVkNCIsImNyZWF0ZWQiOjE2NDQ0MzYzNzkzMDEsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': 'petprinted.de', 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MzYzODAsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vcGV0cHJpbnRlZC5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQ0MzYzODAsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vcGV0cHJpbnRlZC5kZS8ifX0='}, {'domain': 'petprinted.de', 'expiry': 1644438194, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A52%3A59.200Z'}, {'domain': 'petprinted.de', 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1.1.1775421447.1644436379'}, {'domain': 'petprinted.de', 'expiry': 1675972380, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'petprinted.de', 'httpOnly': False, 'name': '_clck', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1fkxmy|1|eyu|0'}, {'domain': 'petprinted.de', 'httpOnly': False, 'name': '_clsk', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1wdk3xr|1644436379985|1|1|e.clarity.ms/collect'}, {'domain': 'petprinted.de', 'httpOnly': False, 'name': '_hjSession_2321594', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImY5OTc0ZDMxLWQ1NGMtNGFkOC1iNWJiLTYxNzVjNWMzMTg5OSIsImNyZWF0ZWQiOjE2NDQ0MzYzODA0MDIsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': 'petprinted.de', 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e28b87e089e111ecacd28fd02885da45'}, {'domain': 'petprinted.de', 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '772a671d-86f7-4b4e-b3ff-1924fd32f500'}, {'domain': 'petprinted.de', 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'pending'}, {'domain': 'petprinted.de', 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'dWlkPU1XVmpNamN3WXpBdE1HRm1ZUzAwTkdVMUxXRTNaVGd0T1dKak9UaGpaamswT0RaaA'}, {'domain': 'petprinted.de', 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'petprinted.de', 'expiry': 1644438194, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4a567332-bd2a-4800-94ee-c86d1c3d04eb'}, {'domain': 'petprinted.de', 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': 'petprinted.de', 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e28b9ff089e111ecaeb51b65ce97c5fb'}, {'domain': 'petprinted.de', 'httpOnly': False, 'name': '_gat', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'petprinted.de', 'httpOnly': False, 'name': '_gid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'GA1.2.2085745766.1644436379'}, {'domain': 'petprinted.de', 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644436394744.483152707'}, {'domain': 'petprinted.de', 'expiry': 1644438194, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4a567332-bd2a-4800-94ee-c86d1c3d04eb'}, {'domain': 'petprinted.de', 'expiry': 1675972394, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f8ec21fb-b6a6-4757-a0bb-dfb1b01ab19c'}, {'domain': 'petprinted.de', 'httpOnly': False, 'name': '_ga', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'GA1.2.726364864.1644436379'}, {'domain': 'petprinted.de', 'expiry': 1644438177, 'httpOnly': False, 'name': '_shopify_country', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'Germany'}, {'domain': 'petprinted.de', 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.petprinted.de', 'expiry': 1645645978, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'petprinted.de', 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'petprinted.de', 'expiry': 1645645980, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'petprinted.de', 'expiry': 1675972394, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f8ec21fb-b6a6-4757-a0bb-dfb1b01ab19c'}, {'domain': 'petprinted.de', 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.petprinted.de', 'expiry': 1645645978, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: _bc_c_set
+[After] Cookie-Name 2: _ks_scriptVersionChecked
+[After] Cookie-Name 3: _shg_user_id
+[After] Cookie-Name 4: _ks_scriptVersion
+[After] Cookie-Name 5: _hjSessionUser_2321594
+[After] Cookie-Name 6: __kla_id
+[After] Cookie-Name 7: _shopify_sa_t
+[After] Cookie-Name 8: _gcl_au
+[After] Cookie-Name 9: secure_customer_sig
+[After] Cookie-Name 10: _clck
+[After] Cookie-Name 11: _clsk
+[After] Cookie-Name 12: _hjSession_2321594
+[After] Cookie-Name 13: _uetsid
+[After] Cookie-Name 14: _shg_session_id
+[After] Cookie-Name 15: shopify_pay_redirect
+[After] Cookie-Name 16: _pin_unauth
+[After] Cookie-Name 17: localization
+[After] Cookie-Name 18: _s
+[After] Cookie-Name 19: _hjIncludedInSessionSample
+[After] Cookie-Name 20: _uetvid
+[After] Cookie-Name 21: _gat
+[After] Cookie-Name 22: _gid
+[After] Cookie-Name 23: _fbp
+[After] Cookie-Name 24: _shopify_s
+[After] Cookie-Name 25: _y
+[After] Cookie-Name 26: _ga
+[After] Cookie-Name 27: _shopify_country
+[After] Cookie-Name 28: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 29: _landing_page
+[After] Cookie-Name 30: _hjFirstSeen
+[After] Cookie-Name 31: cart_currency
+[After] Cookie-Name 32: _shopify_y
+[After] Cookie-Name 33: _hjIncludedInPageviewSample
+[After] Cookie-Name 34: _orig_referrer
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 29
+[Difference] Cookie-Name: 1: _y
+[Difference] Cookie-Name: 2: _uetvid
+[Difference] Cookie-Name: 3: _shopify_s
+[Difference] Cookie-Name: 4: _shopify_y
+[Difference] Cookie-Name: 5: _ks_scriptVersionChecked
+[Difference] Cookie-Name: 6: _gid
+[Difference] Cookie-Name: 7: _hjIncludedInPageviewSample
+[Difference] Cookie-Name: 8: _bc_c_set
+[Difference] Cookie-Name: 9: __kla_id
+[Difference] Cookie-Name: 10: _hjFirstSeen
+[Difference] Cookie-Name: 11: _shg_session_id
+[Difference] Cookie-Name: 12: _gcl_au
+[Difference] Cookie-Name: 13: _ks_scriptVersion
+[Difference] Cookie-Name: 14: _hjIncludedInSessionSample
+[Difference] Cookie-Name: 15: _shg_user_id
+[Difference] Cookie-Name: 16: _s
+[Difference] Cookie-Name: 17: _hjSessionUser_2321594
+[Difference] Cookie-Name: 18: localization
+[Difference] Cookie-Name: 19: _clck
+[Difference] Cookie-Name: 20: _hjSession_2321594
+[Difference] Cookie-Name: 21: _fbp
+[Difference] Cookie-Name: 22: _shopify_sa_t
+[Difference] Cookie-Name: 23: _hjAbsoluteSessionInProgress
+[Difference] Cookie-Name: 24: _ga
+[Difference] Cookie-Name: 25: _pin_unauth
+[Difference] Cookie-Name: 26: _uetsid
+[Difference] Cookie-Name: 27: _clsk
+[Difference] Cookie-Name: 28: _gat
+[Difference] Cookie-Name: 29: shopify_pay_redirect
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

@@ -1,0 +1,64 @@
+Website 210: http://www.ungodly.design/ | Created: 10.02.2022 18:22:44 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 16
+[Before] Website-Cookies: [{'domain': 'ungodly.design', 'expiry': 1644517356, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'ungodly.design', 'httpOnly': False, 'name': 'rmc_logged_in_at', 'path': '/', 'secure': False, 'value': 'null'}, {'domain': '.ungodly.design', 'expiry': 1644515555, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.ungodly.design', 'expiry': 1644515555, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A22%3A35.834Z'}, {'domain': '.ungodly.design', 'expiry': 1644513815, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.ungodly.design', 'expiry': 1707585755, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.844083917.1644513756'}, {'domain': '.ungodly.design', 'expiry': 1676049755, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9277e74f-a0bc-4b90-a68c-9feb149dd3ac'}, {'domain': '.ungodly.design', 'expiry': 1645723355, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.ungodly.design', 'expiry': 1644515555, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3ead1cbf-9295-4865-b8e0-27cae93341eb'}, {'domain': '.ungodly.design', 'expiry': 1676049755, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9277e74f-a0bc-4b90-a68c-9feb149dd3ac'}, {'domain': '.ungodly.design', 'expiry': 1644600155, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.861307178.1644513756'}, {'domain': '.ungodly.design', 'expiry': 1645723355, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.ungodly.design', 'expiry': 1644515555, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3ead1cbf-9295-4865-b8e0-27cae93341eb'}, {'domain': 'ungodly.design', 'expiry': 1645723355, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'USD'}, {'domain': 'ungodly.design', 'expiry': 1645723355, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'US'}, {'domain': 'ungodly.design', 'expiry': 1676049755, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: shopify_pay_redirect
+[Before] Cookie-Name 2: rmc_logged_in_at
+[Before] Cookie-Name 3: _shopify_sa_p
+[Before] Cookie-Name 4: _shopify_sa_t
+[Before] Cookie-Name 5: _gat
+[Before] Cookie-Name 6: _ga
+[Before] Cookie-Name 7: _shopify_y
+[Before] Cookie-Name 8: _landing_page
+[Before] Cookie-Name 9: _s
+[Before] Cookie-Name 10: _y
+[Before] Cookie-Name 11: _gid
+[Before] Cookie-Name 12: _orig_referrer
+[Before] Cookie-Name 13: _shopify_s
+[Before] Cookie-Name 14: cart_currency
+[Before] Cookie-Name 15: localization
+[Before] Cookie-Name 16: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 16
+[After] Website-Cookies: [{'domain': 'ungodly.design', 'expiry': 1644517356, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'ungodly.design', 'httpOnly': False, 'name': 'rmc_logged_in_at', 'path': '/', 'secure': False, 'value': 'null'}, {'domain': '.ungodly.design', 'expiry': 1644515555, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.ungodly.design', 'expiry': 1644515555, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A22%3A35.834Z'}, {'domain': '.ungodly.design', 'expiry': 1644513815, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.ungodly.design', 'expiry': 1707585755, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.844083917.1644513756'}, {'domain': '.ungodly.design', 'expiry': 1676049755, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9277e74f-a0bc-4b90-a68c-9feb149dd3ac'}, {'domain': '.ungodly.design', 'expiry': 1645723355, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.ungodly.design', 'expiry': 1644515555, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3ead1cbf-9295-4865-b8e0-27cae93341eb'}, {'domain': '.ungodly.design', 'expiry': 1676049755, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9277e74f-a0bc-4b90-a68c-9feb149dd3ac'}, {'domain': '.ungodly.design', 'expiry': 1644600155, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.861307178.1644513756'}, {'domain': '.ungodly.design', 'expiry': 1645723355, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.ungodly.design', 'expiry': 1644515555, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3ead1cbf-9295-4865-b8e0-27cae93341eb'}, {'domain': 'ungodly.design', 'expiry': 1645723355, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'USD'}, {'domain': 'ungodly.design', 'expiry': 1645723355, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'US'}, {'domain': 'ungodly.design', 'expiry': 1676049755, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: shopify_pay_redirect
+[After] Cookie-Name 2: rmc_logged_in_at
+[After] Cookie-Name 3: _shopify_sa_p
+[After] Cookie-Name 4: _shopify_sa_t
+[After] Cookie-Name 5: _gat
+[After] Cookie-Name 6: _ga
+[After] Cookie-Name 7: _shopify_y
+[After] Cookie-Name 8: _landing_page
+[After] Cookie-Name 9: _s
+[After] Cookie-Name 10: _y
+[After] Cookie-Name 11: _gid
+[After] Cookie-Name 12: _orig_referrer
+[After] Cookie-Name 13: _shopify_s
+[After] Cookie-Name 14: cart_currency
+[After] Cookie-Name 15: localization
+[After] Cookie-Name 16: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

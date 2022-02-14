@@ -1,0 +1,105 @@
+Website 137: http://www.nanozahnbuerste.de/ | Created: 08.02.2022 22:21:20 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 33
+[Before] Website-Cookies: [{'domain': 'www.nanozahnbuerste.de', 'httpOnly': False, 'name': 'locale_bar_accepted', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.nanozahnbuerste.de', 'expiry': 1675891271, 'httpOnly': False, 'name': 'optiMonkClientId', 'path': '/', 'secure': False, 'value': '184826f3-d226-8356-a3b5-8b4e983aacb1'}, {'domain': '.nanozahnbuerste.de', 'expiry': 1761549671, 'httpOnly': False, 'name': 'rptkn', 'path': '/', 'secure': False, 'value': 'nano7271'}, {'domain': '.nanozahnbuerste.de', 'expiry': 1644376871, 'httpOnly': False, 'name': 'rpsid', 'path': '/', 'secure': False, 'value': '6477f606-1d16-4a7e-bc2a-57c02d2f8d7f'}, {'domain': 'www.nanozahnbuerste.de', 'expiry': 1644355303, 'httpOnly': False, 'name': 'rp_lastName', 'path': '/', 'secure': False, 'value': ''}, {'domain': 'www.nanozahnbuerste.de', 'expiry': 1644355303, 'httpOnly': False, 'name': 'rp_customer_id', 'path': '/', 'secure': False, 'value': ''}, {'domain': '.nanozahnbuerste.de', 'expiry': 1644357071, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3ec76337-62ef-4b91-adda-bf979211ec1c'}, {'domain': 'www.nanozahnbuerste.de', 'expiry': 1675891271, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'www.nanozahnbuerste.de', 'expiry': 1644355569, 'httpOnly': False, 'name': 'outbrain_cid_fetch', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': 'www.nanozahnbuerste.de', 'expiry': 1644355303, 'httpOnly': False, 'name': 'rp_email', 'path': '/', 'secure': False, 'value': ''}, {'domain': 'www.nanozahnbuerste.de', 'expiry': 1707427271, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQzNTUyNzEsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3Lm5hbm96YWhuYnVlcnN0ZS5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQzNTUyNzEsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3Lm5hbm96YWhuYnVlcnN0ZS5kZS8ifX0='}, {'domain': '.nanozahnbuerste.de', 'expiry': 1652131270, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644355269568.92966146'}, {'domain': '.nanozahnbuerste.de', 'expiry': 1761549671, 'httpOnly': False, 'name': 'rpdid', 'path': '/', 'secure': False, 'value': 'a89c7cc6-f01a-4932-b306-f08f2652f0ce'}, {'domain': '.nanozahnbuerste.de', 'expiry': 1644357069, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.nanozahnbuerste.de', 'expiry': 1644357069, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A21%3A09.319Z'}, {'domain': 'www.nanozahnbuerste.de', 'expiry': 1644355303, 'httpOnly': False, 'name': 'rp_firstName', 'path': '/', 'secure': False, 'value': ''}, {'domain': '.nanozahnbuerste.de', 'expiry': 1644357069, 'httpOnly': False, 'name': '_hjSession_2085738', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6Ijg5MGQ1MTJkLWU0N2MtNGUyYi1hMWM4LTYzMzhkODAwYTZjZSIsImNyZWF0ZWQiOjE2NDQzNTUyNjkyNDcsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': '.nanozahnbuerste.de', 'expiry': 1675891269, 'httpOnly': False, 'name': '_hjSessionUser_2085738', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjJjM2E1ZGQzLTVmNGEtNTUwNy05MGI1LTExOGRjOGI4NGNmOSIsImNyZWF0ZWQiOjE2NDQzNTUyNjkyMTQsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.nanozahnbuerste.de', 'expiry': 1644355329, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.nanozahnbuerste.de', 'expiry': 1644357069, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.nanozahnbuerste.de', 'expiry': 1707427269, 'httpOnly': False, 'name': '_ga_V4G2YTK4EE', 'path': '/', 'secure': False, 'value': 'GS1.1.1644355268.1.0.1644355268.60'}, {'domain': '.nanozahnbuerste.de', 'expiry': 1645564868, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.nanozahnbuerste.de', 'expiry': 1644357071, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3ec76337-62ef-4b91-adda-bf979211ec1c'}, {'domain': '.nanozahnbuerste.de', 'expiry': 1675891269, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVptUTJZekkwTlRFdFpEZ3dOaTAwWkRrd0xXSTVObVl0TTJNMFptSTJPRGRtTkRCbQ'}, {'domain': 'www.nanozahnbuerste.de', 'expiry': 1645564871, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.nanozahnbuerste.de', 'expiry': 1675891271, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c0040e0f-c921-4221-99d2-3824f4f3bda0'}, {'domain': '.nanozahnbuerste.de', 'expiry': 1644441669, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.335180089.1644355269'}, {'domain': '.nanozahnbuerste.de', 'expiry': 1675891271, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c0040e0f-c921-4221-99d2-3824f4f3bda0'}, {'domain': '.nanozahnbuerste.de', 'expiry': 1645564868, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.nanozahnbuerste.de', 'expiry': 1644357069, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.nanozahnbuerste.de', 'expiry': 1707427269, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.49132309.1644355269'}, {'domain': 'www.nanozahnbuerste.de', 'expiry': 1645564871, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'www.nanozahnbuerste.de', 'expiry': 1644355389, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}]
+[Before] Cookie-Name 1: locale_bar_accepted
+[Before] Cookie-Name 2: optiMonkClientId
+[Before] Cookie-Name 3: rptkn
+[Before] Cookie-Name 4: rpsid
+[Before] Cookie-Name 5: rp_lastName
+[Before] Cookie-Name 6: rp_customer_id
+[Before] Cookie-Name 7: _shopify_s
+[Before] Cookie-Name 8: secure_customer_sig
+[Before] Cookie-Name 9: outbrain_cid_fetch
+[Before] Cookie-Name 10: rp_email
+[Before] Cookie-Name 11: __kla_id
+[Before] Cookie-Name 12: _fbp
+[Before] Cookie-Name 13: rpdid
+[Before] Cookie-Name 14: _shopify_sa_p
+[Before] Cookie-Name 15: _shopify_sa_t
+[Before] Cookie-Name 16: rp_firstName
+[Before] Cookie-Name 17: _hjSession_2085738
+[Before] Cookie-Name 18: _hjSessionUser_2085738
+[Before] Cookie-Name 19: _gat
+[Before] Cookie-Name 20: _hjFirstSeen
+[Before] Cookie-Name 21: _ga_V4G2YTK4EE
+[Before] Cookie-Name 22: _orig_referrer
+[Before] Cookie-Name 23: _s
+[Before] Cookie-Name 24: _pin_unauth
+[Before] Cookie-Name 25: cart_currency
+[Before] Cookie-Name 26: _shopify_y
+[Before] Cookie-Name 27: _gid
+[Before] Cookie-Name 28: _y
+[Before] Cookie-Name 29: _landing_page
+[Before] Cookie-Name 30: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 31: _ga
+[Before] Cookie-Name 32: localization
+[Before] Cookie-Name 33: _hjIncludedInSessionSample
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 33
+[After] Website-Cookies: [{'domain': 'www.nanozahnbuerste.de', 'httpOnly': False, 'name': 'locale_bar_accepted', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.nanozahnbuerste.de', 'expiry': 1675891271, 'httpOnly': False, 'name': 'optiMonkClientId', 'path': '/', 'secure': False, 'value': '184826f3-d226-8356-a3b5-8b4e983aacb1'}, {'domain': '.nanozahnbuerste.de', 'expiry': 1761549671, 'httpOnly': False, 'name': 'rptkn', 'path': '/', 'secure': False, 'value': 'nano7271'}, {'domain': '.nanozahnbuerste.de', 'expiry': 1644376871, 'httpOnly': False, 'name': 'rpsid', 'path': '/', 'secure': False, 'value': '6477f606-1d16-4a7e-bc2a-57c02d2f8d7f'}, {'domain': 'www.nanozahnbuerste.de', 'expiry': 1644355303, 'httpOnly': False, 'name': 'rp_lastName', 'path': '/', 'secure': False, 'value': ''}, {'domain': 'www.nanozahnbuerste.de', 'expiry': 1644355303, 'httpOnly': False, 'name': 'rp_customer_id', 'path': '/', 'secure': False, 'value': ''}, {'domain': '.nanozahnbuerste.de', 'expiry': 1644357071, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3ec76337-62ef-4b91-adda-bf979211ec1c'}, {'domain': 'www.nanozahnbuerste.de', 'expiry': 1675891271, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'www.nanozahnbuerste.de', 'expiry': 1644355569, 'httpOnly': False, 'name': 'outbrain_cid_fetch', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': 'www.nanozahnbuerste.de', 'expiry': 1644355303, 'httpOnly': False, 'name': 'rp_email', 'path': '/', 'secure': False, 'value': ''}, {'domain': 'www.nanozahnbuerste.de', 'expiry': 1707427271, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQzNTUyNzEsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3Lm5hbm96YWhuYnVlcnN0ZS5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQzNTUyNzEsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3Lm5hbm96YWhuYnVlcnN0ZS5kZS8ifX0='}, {'domain': '.nanozahnbuerste.de', 'expiry': 1652131270, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644355269568.92966146'}, {'domain': '.nanozahnbuerste.de', 'expiry': 1761549671, 'httpOnly': False, 'name': 'rpdid', 'path': '/', 'secure': False, 'value': 'a89c7cc6-f01a-4932-b306-f08f2652f0ce'}, {'domain': '.nanozahnbuerste.de', 'expiry': 1644357069, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.nanozahnbuerste.de', 'expiry': 1644357069, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A21%3A09.319Z'}, {'domain': 'www.nanozahnbuerste.de', 'expiry': 1644355303, 'httpOnly': False, 'name': 'rp_firstName', 'path': '/', 'secure': False, 'value': ''}, {'domain': '.nanozahnbuerste.de', 'expiry': 1644357069, 'httpOnly': False, 'name': '_hjSession_2085738', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6Ijg5MGQ1MTJkLWU0N2MtNGUyYi1hMWM4LTYzMzhkODAwYTZjZSIsImNyZWF0ZWQiOjE2NDQzNTUyNjkyNDcsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': '.nanozahnbuerste.de', 'expiry': 1675891269, 'httpOnly': False, 'name': '_hjSessionUser_2085738', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjJjM2E1ZGQzLTVmNGEtNTUwNy05MGI1LTExOGRjOGI4NGNmOSIsImNyZWF0ZWQiOjE2NDQzNTUyNjkyMTQsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.nanozahnbuerste.de', 'expiry': 1644355329, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.nanozahnbuerste.de', 'expiry': 1644357069, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.nanozahnbuerste.de', 'expiry': 1707427269, 'httpOnly': False, 'name': '_ga_V4G2YTK4EE', 'path': '/', 'secure': False, 'value': 'GS1.1.1644355268.1.0.1644355268.60'}, {'domain': '.nanozahnbuerste.de', 'expiry': 1645564868, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.nanozahnbuerste.de', 'expiry': 1644357071, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3ec76337-62ef-4b91-adda-bf979211ec1c'}, {'domain': '.nanozahnbuerste.de', 'expiry': 1675891269, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVptUTJZekkwTlRFdFpEZ3dOaTAwWkRrd0xXSTVObVl0TTJNMFptSTJPRGRtTkRCbQ'}, {'domain': 'www.nanozahnbuerste.de', 'expiry': 1645564871, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.nanozahnbuerste.de', 'expiry': 1675891271, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c0040e0f-c921-4221-99d2-3824f4f3bda0'}, {'domain': '.nanozahnbuerste.de', 'expiry': 1644441669, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.335180089.1644355269'}, {'domain': '.nanozahnbuerste.de', 'expiry': 1675891271, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c0040e0f-c921-4221-99d2-3824f4f3bda0'}, {'domain': '.nanozahnbuerste.de', 'expiry': 1645564868, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.nanozahnbuerste.de', 'expiry': 1644357069, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.nanozahnbuerste.de', 'expiry': 1707427269, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.49132309.1644355269'}, {'domain': 'www.nanozahnbuerste.de', 'expiry': 1645564871, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'www.nanozahnbuerste.de', 'expiry': 1644355389, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}]
+[After] Cookie-Name 1: locale_bar_accepted
+[After] Cookie-Name 2: optiMonkClientId
+[After] Cookie-Name 3: rptkn
+[After] Cookie-Name 4: rpsid
+[After] Cookie-Name 5: rp_lastName
+[After] Cookie-Name 6: rp_customer_id
+[After] Cookie-Name 7: _shopify_s
+[After] Cookie-Name 8: secure_customer_sig
+[After] Cookie-Name 9: outbrain_cid_fetch
+[After] Cookie-Name 10: rp_email
+[After] Cookie-Name 11: __kla_id
+[After] Cookie-Name 12: _fbp
+[After] Cookie-Name 13: rpdid
+[After] Cookie-Name 14: _shopify_sa_p
+[After] Cookie-Name 15: _shopify_sa_t
+[After] Cookie-Name 16: rp_firstName
+[After] Cookie-Name 17: _hjSession_2085738
+[After] Cookie-Name 18: _hjSessionUser_2085738
+[After] Cookie-Name 19: _gat
+[After] Cookie-Name 20: _hjFirstSeen
+[After] Cookie-Name 21: _ga_V4G2YTK4EE
+[After] Cookie-Name 22: _orig_referrer
+[After] Cookie-Name 23: _s
+[After] Cookie-Name 24: _pin_unauth
+[After] Cookie-Name 25: cart_currency
+[After] Cookie-Name 26: _shopify_y
+[After] Cookie-Name 27: _gid
+[After] Cookie-Name 28: _y
+[After] Cookie-Name 29: _landing_page
+[After] Cookie-Name 30: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 31: _ga
+[After] Cookie-Name 32: localization
+[After] Cookie-Name 33: _hjIncludedInSessionSample
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _hjIncludedInSessionSample (Hotjar (User experience tool))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

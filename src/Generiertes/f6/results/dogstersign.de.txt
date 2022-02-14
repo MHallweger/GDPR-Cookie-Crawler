@@ -1,0 +1,43 @@
+Website 79: http://www.dogstersign.de/ | Created: 10.02.2022 12:36:03 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 7
+[Before] Website-Cookies: [{'domain': 'dogstersign.de', 'expiry': 1645702554, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': 'dogstersign.de', 'expiry': 1645702554, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '20e51389eed595cbcfffd8be3c21573c'}, {'domain': '.dogstersign.de', 'expiry': 1645702554, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2Fpassword'}, {'domain': 'dogstersign.de', 'expiry': 1645702554, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644492954'}, {'domain': '.dogstersign.de', 'expiry': 1645702554, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'dogstersign.de', 'expiry': 1645702556, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'dogstersign.de', 'expiry': 1676028956, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: cart_ver
+[Before] Cookie-Name 2: cart
+[Before] Cookie-Name 3: _landing_page
+[Before] Cookie-Name 4: cart_ts
+[Before] Cookie-Name 5: _orig_referrer
+[Before] Cookie-Name 6: cart_currency
+[Before] Cookie-Name 7: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 7
+[After] Website-Cookies: [{'domain': 'dogstersign.de', 'expiry': 1645702554, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': 'dogstersign.de', 'expiry': 1645702554, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '20e51389eed595cbcfffd8be3c21573c'}, {'domain': '.dogstersign.de', 'expiry': 1645702554, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2Fpassword'}, {'domain': 'dogstersign.de', 'expiry': 1645702554, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644492954'}, {'domain': '.dogstersign.de', 'expiry': 1645702554, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'dogstersign.de', 'expiry': 1645702556, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'dogstersign.de', 'expiry': 1676028956, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: cart_ver
+[After] Cookie-Name 2: cart
+[After] Cookie-Name 3: _landing_page
+[After] Cookie-Name 4: cart_ts
+[After] Cookie-Name 5: _orig_referrer
+[After] Cookie-Name 6: cart_currency
+[After] Cookie-Name 7: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is NOT GDPR compliant!

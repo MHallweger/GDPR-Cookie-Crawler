@@ -1,0 +1,68 @@
+Website 71: http://www.puremoi.de/ | Created: 10.02.2022 17:40:36 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 17
+[Before] Website-Cookies: [{'domain': '.puremoi.de', 'expiry': 1652287227, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644511227372.880256639'}, {'domain': 'www.puremoi.de', 'expiry': 1644514827, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.puremoi.de', 'expiry': 1644513027, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T16%3A40%3A27.144Z'}, {'domain': '.puremoi.de', 'expiry': 1644511287, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.puremoi.de', 'expiry': 1645720826, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.puremoi.de', 'expiry': 1644597627, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1311740700.1644511227'}, {'domain': '.puremoi.de', 'expiry': 1644513027, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.puremoi.de', 'expiry': 1676047228, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '02081044-d2f7-4ddd-9521-57f764480084'}, {'domain': '.puremoi.de', 'expiry': 1644513028, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '85d19284-451b-4892-8d69-014f1ba74836'}, {'domain': '.puremoi.de', 'expiry': 1707583227, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1188264321.1644511227'}, {'domain': 'www.puremoi.de', 'expiry': 1645720828, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.puremoi.de', 'expiry': 1645720826, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.puremoi.de', 'expiry': 1644513028, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '85d19284-451b-4892-8d69-014f1ba74836'}, {'domain': '.puremoi.de', 'expiry': 1676047228, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '02081044-d2f7-4ddd-9521-57f764480084'}, {'domain': 'www.puremoi.de', 'expiry': 1645720828, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.puremoi.de', 'expiry': 1652287227, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1473982306.1644511227'}, {'domain': 'www.puremoi.de', 'expiry': 1676047228, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _fbp
+[Before] Cookie-Name 2: shopify_pay_redirect
+[Before] Cookie-Name 3: _shopify_sa_t
+[Before] Cookie-Name 4: _gat
+[Before] Cookie-Name 5: _landing_page
+[Before] Cookie-Name 6: _gid
+[Before] Cookie-Name 7: _shopify_sa_p
+[Before] Cookie-Name 8: _shopify_y
+[Before] Cookie-Name 9: _s
+[Before] Cookie-Name 10: _ga
+[Before] Cookie-Name 11: cart_currency
+[Before] Cookie-Name 12: _orig_referrer
+[Before] Cookie-Name 13: _shopify_s
+[Before] Cookie-Name 14: _y
+[Before] Cookie-Name 15: localization
+[Before] Cookie-Name 16: _gcl_au
+[Before] Cookie-Name 17: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 18
+[After] Website-Cookies: [{'domain': 'www.puremoi.de', 'expiry': 1676047241, 'httpOnly': False, 'name': 'cookieconsent_status', 'path': '/', 'secure': False, 'value': 'dismiss'}, {'domain': '.puremoi.de', 'expiry': 1652287241, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644511227372.880256639'}, {'domain': 'www.puremoi.de', 'expiry': 1644514827, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.puremoi.de', 'expiry': 1644513027, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T16%3A40%3A27.144Z'}, {'domain': '.puremoi.de', 'expiry': 1644511287, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.puremoi.de', 'expiry': 1645720826, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.puremoi.de', 'expiry': 1644597627, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1311740700.1644511227'}, {'domain': '.puremoi.de', 'expiry': 1644513027, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.puremoi.de', 'expiry': 1676047228, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '02081044-d2f7-4ddd-9521-57f764480084'}, {'domain': '.puremoi.de', 'expiry': 1644513028, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '85d19284-451b-4892-8d69-014f1ba74836'}, {'domain': '.puremoi.de', 'expiry': 1707583227, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1188264321.1644511227'}, {'domain': 'www.puremoi.de', 'expiry': 1645720828, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.puremoi.de', 'expiry': 1645720826, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.puremoi.de', 'expiry': 1644513028, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '85d19284-451b-4892-8d69-014f1ba74836'}, {'domain': '.puremoi.de', 'expiry': 1676047228, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '02081044-d2f7-4ddd-9521-57f764480084'}, {'domain': 'www.puremoi.de', 'expiry': 1645720828, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.puremoi.de', 'expiry': 1652287227, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1473982306.1644511227'}, {'domain': 'www.puremoi.de', 'expiry': 1676047228, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: cookieconsent_status
+[After] Cookie-Name 2: _fbp
+[After] Cookie-Name 3: shopify_pay_redirect
+[After] Cookie-Name 4: _shopify_sa_t
+[After] Cookie-Name 5: _gat
+[After] Cookie-Name 6: _landing_page
+[After] Cookie-Name 7: _gid
+[After] Cookie-Name 8: _shopify_sa_p
+[After] Cookie-Name 9: _shopify_y
+[After] Cookie-Name 10: _s
+[After] Cookie-Name 11: _ga
+[After] Cookie-Name 12: cart_currency
+[After] Cookie-Name 13: _orig_referrer
+[After] Cookie-Name 14: _shopify_s
+[After] Cookie-Name 15: _y
+[After] Cookie-Name 16: localization
+[After] Cookie-Name 17: _gcl_au
+[After] Cookie-Name 18: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: cookieconsent_status
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

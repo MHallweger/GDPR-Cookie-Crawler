@@ -1,0 +1,61 @@
+Website 139: http://www.zanio.de/ | Created: 09.02.2022 17:47:57 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 4
+[Before] Website-Cookies: [{'domain': '.zanio.de', 'expiry': 1645634865, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.zanio.de', 'expiry': 1645634865, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'zanio.de', 'expiry': 1645634869, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'zanio.de', 'expiry': 1675961269, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _landing_page
+[Before] Cookie-Name 2: _orig_referrer
+[Before] Cookie-Name 3: cart_currency
+[Before] Cookie-Name 4: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 17
+[After] Website-Cookies: [{'domain': '.zanio.de', 'expiry': 1652201284, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644425283571.2018917683'}, {'domain': 'zanio.de', 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MjUyNjksInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vemFuaW8uZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NDI1MjY5LCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL3phbmlvLmRlLyJ9fQ=='}, {'domain': 'zanio.de', 'httpOnly': False, 'name': '__brLastSetCartToken', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'zanio.de', 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'zanio.de', 'expiry': 1644511683, 'httpOnly': False, 'name': '_gid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'GA1.2.78197448.1644425266'}, {'domain': 'zanio.de', 'expiry': 1707497283, 'httpOnly': False, 'name': '_ga', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'GA1.2.477473687.1644425266'}, {'domain': 'zanio.de', 'expiry': 1644511683, 'httpOnly': False, 'name': '_gat', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'zanio.de', 'expiry': 1647017283, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0NDI1MjgzMzA3LCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjoxfX0='}, {'domain': '.zanio.de', 'expiry': 1645634865, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'zanio.de', 'expiry': 1644427083, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f22f27da-c5f6-4c2a-9e53-2b889b0f2715'}, {'domain': 'zanio.de', 'expiry': 1675961283, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1b59d2e3-81dc-47cc-98d8-82b60abe2781'}, {'domain': 'zanio.de', 'expiry': 1675961283, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1b59d2e3-81dc-47cc-98d8-82b60abe2781'}, {'domain': 'zanio.de', 'expiry': 1644427083, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f22f27da-c5f6-4c2a-9e53-2b889b0f2715'}, {'domain': 'zanio.de', 'expiry': 1645634869, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'zanio.de', 'expiry': 1644427083, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T16%3A47%3A47.455Z'}, {'domain': '.zanio.de', 'expiry': 1645634865, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'zanio.de', 'expiry': 1675961269, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _fbp
+[After] Cookie-Name 2: __kla_id
+[After] Cookie-Name 3: __brLastSetCartToken
+[After] Cookie-Name 4: localization
+[After] Cookie-Name 5: _gid
+[After] Cookie-Name 6: _ga
+[After] Cookie-Name 7: _gat
+[After] Cookie-Name 8: _bc_c_set
+[After] Cookie-Name 9: _landing_page
+[After] Cookie-Name 10: _shopify_s
+[After] Cookie-Name 11: _shopify_y
+[After] Cookie-Name 12: _y
+[After] Cookie-Name 13: _s
+[After] Cookie-Name 14: cart_currency
+[After] Cookie-Name 15: _shopify_sa_t
+[After] Cookie-Name 16: _orig_referrer
+[After] Cookie-Name 17: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 13
+[Difference] Cookie-Name: 1: __kla_id
+[Difference] Cookie-Name: 2: localization
+[Difference] Cookie-Name: 3: _gid
+[Difference] Cookie-Name: 4: _gat
+[Difference] Cookie-Name: 5: _shopify_y
+[Difference] Cookie-Name: 6: _fbp
+[Difference] Cookie-Name: 7: _s
+[Difference] Cookie-Name: 8: _shopify_s
+[Difference] Cookie-Name: 9: _ga
+[Difference] Cookie-Name: 10: __brLastSetCartToken
+[Difference] Cookie-Name: 11: _y
+[Difference] Cookie-Name: 12: _shopify_sa_t
+[Difference] Cookie-Name: 13: _bc_c_set
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

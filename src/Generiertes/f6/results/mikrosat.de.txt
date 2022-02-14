@@ -1,0 +1,65 @@
+Website 31: http://www.mikrosat.de/ | Created: 10.02.2022 12:21:59 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 15
+[Before] Website-Cookies: [{'domain': '.mikrosat.eu', 'expiry': 1644493908, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.mikrosat.eu', 'expiry': 1644493908, 'httpOnly': False, 'name': '_hjSession_1285944', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjliMWM2YTUzLWJlODgtNGU4MC04MGI0LWFjOWVkNmU3YjliYSIsImNyZWF0ZWQiOjE2NDQ0OTIxMDg2ODgsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': '.mikrosat.eu', 'expiry': 1644493908, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.mikrosat.eu', 'expiry': 1644578508, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.383828364.1644492108'}, {'domain': '.mikrosat.eu', 'expiry': 1707564108, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.850926349.1644492108'}, {'domain': 'www.mikrosat.eu', 'expiry': 1676028108, 'httpOnly': False, 'name': 'optiMonkClientId', 'path': '/', 'secure': False, 'value': '94138bd6-2123-57fa-44c3-42a22fb1a864'}, {'domain': '.mikrosat.eu', 'expiry': 1707564108, 'httpOnly': False, 'name': '_ga_7L6R13N237', 'path': '/', 'secure': False, 'value': 'GS1.1.1644492108.1.0.1644492108.0'}, {'domain': '.mikrosat.eu', 'expiry': 1652268108, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644492108353.2007730892'}, {'domain': '.mikrosat.eu', 'expiry': 1652268108, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.17511675.1644492108'}, {'domain': '.mikrosat.eu', 'expiry': 1644492168, 'httpOnly': False, 'name': '_gat_gtag_UA_3388087_3', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.www.mikrosat.eu', 'expiry': 1660170108, 'httpOnly': False, 'name': 'sib_cuid', 'path': '/', 'secure': False, 'value': '135d765c-fcdc-4c3e-aeaf-e71c586472df'}, {'domain': '.www.mikrosat.eu', 'expiry': 1647084107, 'httpOnly': False, 'name': 'UN_exitpopup_visit_all', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.www.mikrosat.eu', 'httpOnly': False, 'name': 'UnasServiceProxyID', 'path': '/', 'secure': True, 'value': 's56~ProxyOK'}, {'domain': '.mikrosat.eu', 'expiry': 1676028108, 'httpOnly': False, 'name': '_hjSessionUser_1285944', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImJmMzk4NDg0LWU1YTctNWQ4OC05YTI2LTY5YTIyMTgyMzdjOCIsImNyZWF0ZWQiOjE2NDQ0OTIxMDg2NzMsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.mikrosat.eu', 'httpOnly': False, 'name': 'UnasID', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8211580db26ef7317a728a57f651d610'}]
+[Before] Cookie-Name 1: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 2: _hjSession_1285944
+[Before] Cookie-Name 3: _hjFirstSeen
+[Before] Cookie-Name 4: _gid
+[Before] Cookie-Name 5: _ga
+[Before] Cookie-Name 6: optiMonkClientId
+[Before] Cookie-Name 7: _ga_7L6R13N237
+[Before] Cookie-Name 8: _fbp
+[Before] Cookie-Name 9: _gcl_au
+[Before] Cookie-Name 10: _gat_gtag_UA_3388087_3
+[Before] Cookie-Name 11: sib_cuid
+[Before] Cookie-Name 12: UN_exitpopup_visit_all
+[Before] Cookie-Name 13: UnasServiceProxyID
+[Before] Cookie-Name 14: _hjSessionUser_1285944
+[Before] Cookie-Name 15: UnasID
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 15
+[After] Website-Cookies: [{'domain': '.mikrosat.eu', 'expiry': 1644493908, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.mikrosat.eu', 'expiry': 1644493908, 'httpOnly': False, 'name': '_hjSession_1285944', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjliMWM2YTUzLWJlODgtNGU4MC04MGI0LWFjOWVkNmU3YjliYSIsImNyZWF0ZWQiOjE2NDQ0OTIxMDg2ODgsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': '.mikrosat.eu', 'expiry': 1644493908, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.mikrosat.eu', 'expiry': 1644578508, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.383828364.1644492108'}, {'domain': '.mikrosat.eu', 'expiry': 1707564108, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.850926349.1644492108'}, {'domain': 'www.mikrosat.eu', 'expiry': 1676028108, 'httpOnly': False, 'name': 'optiMonkClientId', 'path': '/', 'secure': False, 'value': '94138bd6-2123-57fa-44c3-42a22fb1a864'}, {'domain': '.mikrosat.eu', 'expiry': 1707564108, 'httpOnly': False, 'name': '_ga_7L6R13N237', 'path': '/', 'secure': False, 'value': 'GS1.1.1644492108.1.0.1644492108.0'}, {'domain': '.mikrosat.eu', 'expiry': 1652268108, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644492108353.2007730892'}, {'domain': '.mikrosat.eu', 'expiry': 1652268108, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.17511675.1644492108'}, {'domain': '.mikrosat.eu', 'expiry': 1644492168, 'httpOnly': False, 'name': '_gat_gtag_UA_3388087_3', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.www.mikrosat.eu', 'expiry': 1660170108, 'httpOnly': False, 'name': 'sib_cuid', 'path': '/', 'secure': False, 'value': '135d765c-fcdc-4c3e-aeaf-e71c586472df'}, {'domain': '.www.mikrosat.eu', 'expiry': 1647084107, 'httpOnly': False, 'name': 'UN_exitpopup_visit_all', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.www.mikrosat.eu', 'httpOnly': False, 'name': 'UnasServiceProxyID', 'path': '/', 'secure': True, 'value': 's56~ProxyOK'}, {'domain': '.mikrosat.eu', 'expiry': 1676028108, 'httpOnly': False, 'name': '_hjSessionUser_1285944', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImJmMzk4NDg0LWU1YTctNWQ4OC05YTI2LTY5YTIyMTgyMzdjOCIsImNyZWF0ZWQiOjE2NDQ0OTIxMDg2NzMsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.mikrosat.eu', 'httpOnly': False, 'name': 'UnasID', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8211580db26ef7317a728a57f651d610'}]
+[After] Cookie-Name 1: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 2: _hjSession_1285944
+[After] Cookie-Name 3: _hjFirstSeen
+[After] Cookie-Name 4: _gid
+[After] Cookie-Name 5: _ga
+[After] Cookie-Name 6: optiMonkClientId
+[After] Cookie-Name 7: _ga_7L6R13N237
+[After] Cookie-Name 8: _fbp
+[After] Cookie-Name 9: _gcl_au
+[After] Cookie-Name 10: _gat_gtag_UA_3388087_3
+[After] Cookie-Name 11: sib_cuid
+[After] Cookie-Name 12: UN_exitpopup_visit_all
+[After] Cookie-Name 13: UnasServiceProxyID
+[After] Cookie-Name 14: _hjSessionUser_1285944
+[After] Cookie-Name 15: UnasID
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

@@ -1,0 +1,71 @@
+Website 70: http://www.alphalfa.de/ | Created: 09.02.2022 17:27:10 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 18
+[Before] Website-Cookies: [{'domain': '.alphalfa.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T16%3A27%3A00.727Z'}, {'domain': 'alphalfa.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.alphalfa.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T16%3A27%3A00.720Z'}, {'domain': '.alphalfa.de', 'expiry': 1644425820, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.alphalfa.de', 'expiry': 1675960020, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': '.alphalfa.de', 'expiry': 1675960020, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.alphalfa.de', 'expiry': 1645633620, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.alphalfa.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6ec1f0e9-1532-46de-9224-aff08b35a9e4'}, {'domain': '.alphalfa.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6ec1f0e9-1532-46de-9224-aff08b35a9e4'}, {'domain': '.alphalfa.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '61560b2b-e71e-4a2f-8443-09fb747be7aa'}, {'domain': '.alphalfa.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.alphalfa.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.alphalfa.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '61560b2b-e71e-4a2f-8443-09fb747be7aa'}, {'domain': '.alphalfa.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'alphalfa.de', 'expiry': 1645633620, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'alphalfa.de', 'expiry': 1645633620, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.alphalfa.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'alphalfa.de', 'expiry': 1675960020, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _shopify_sa_t
+[Before] Cookie-Name 2: _shopify_evids
+[Before] Cookie-Name 3: _shopify_d
+[Before] Cookie-Name 4: _shopify_tm
+[Before] Cookie-Name 5: _tracking_consent
+[Before] Cookie-Name 6: _shopify_m
+[Before] Cookie-Name 7: _shopify_tw
+[Before] Cookie-Name 8: _shopify_s
+[Before] Cookie-Name 9: _s
+[Before] Cookie-Name 10: _shopify_y
+[Before] Cookie-Name 11: _landing_page
+[Before] Cookie-Name 12: _orig_referrer
+[Before] Cookie-Name 13: _y
+[Before] Cookie-Name 14: _shopify_sa_p
+[Before] Cookie-Name 15: cart_currency
+[Before] Cookie-Name 16: localization
+[Before] Cookie-Name 17: _shopify_evids
+[Before] Cookie-Name 18: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 22
+[After] Website-Cookies: [{'domain': '.alphalfa.de', 'expiry': 1675960036, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22lim%22%3A%5B%22GDPR%22%5D%2C%22con%22%3A%7B%22GDPR%22%3A%221%22%7D%2C%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%7D'}, {'domain': 'alphalfa.de', 'expiry': 1645633636, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644424036'}, {'domain': 'alphalfa.de', 'expiry': 1645633636, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3401a77d8508ecb4719ab87238b0f8cc'}, {'domain': 'alphalfa.de', 'expiry': 1645633636, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1d4c42a4ae543bfe1cbcee5bc2f304f8'}, {'domain': '.alphalfa.de', 'expiry': 1644425836, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T16%3A27%3A00.727Z'}, {'domain': 'alphalfa.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.alphalfa.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T16%3A27%3A00.720Z'}, {'domain': '.alphalfa.de', 'expiry': 1675960036, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': '.alphalfa.de', 'expiry': 1644425836, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6ec1f0e9-1532-46de-9224-aff08b35a9e4'}, {'domain': '.alphalfa.de', 'expiry': 1645633620, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.alphalfa.de', 'expiry': 1644425836, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.alphalfa.de', 'expiry': 1644425836, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6ec1f0e9-1532-46de-9224-aff08b35a9e4'}, {'domain': '.alphalfa.de', 'expiry': 1675960036, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '61560b2b-e71e-4a2f-8443-09fb747be7aa'}, {'domain': '.alphalfa.de', 'expiry': 1645633636, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.alphalfa.de', 'expiry': 1645633636, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.alphalfa.de', 'expiry': 1675960036, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '61560b2b-e71e-4a2f-8443-09fb747be7aa'}, {'domain': '.alphalfa.de', 'expiry': 1644425836, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'alphalfa.de', 'expiry': 1645633636, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'alphalfa.de', 'expiry': 1645633636, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'alphalfa.de', 'expiry': 1645633636, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': '.alphalfa.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'alphalfa.de', 'expiry': 1675960036, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _tracking_consent
+[After] Cookie-Name 2: cart_ts
+[After] Cookie-Name 3: cart
+[After] Cookie-Name 4: cart_sig
+[After] Cookie-Name 5: _shopify_sa_t
+[After] Cookie-Name 6: _shopify_evids
+[After] Cookie-Name 7: _shopify_d
+[After] Cookie-Name 8: _shopify_m
+[After] Cookie-Name 9: _shopify_s
+[After] Cookie-Name 10: _shopify_tw
+[After] Cookie-Name 11: _shopify_tm
+[After] Cookie-Name 12: _s
+[After] Cookie-Name 13: _shopify_y
+[After] Cookie-Name 14: _landing_page
+[After] Cookie-Name 15: _orig_referrer
+[After] Cookie-Name 16: _y
+[After] Cookie-Name 17: _shopify_sa_p
+[After] Cookie-Name 18: cart_currency
+[After] Cookie-Name 19: localization
+[After] Cookie-Name 20: cart_ver
+[After] Cookie-Name 21: _shopify_evids
+[After] Cookie-Name 22: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 4
+[Difference] Cookie-Name: 1: cart_sig
+[Difference] Cookie-Name: 2: cart_ts
+[Difference] Cookie-Name: 3: cart_ver
+[Difference] Cookie-Name: 4: cart
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

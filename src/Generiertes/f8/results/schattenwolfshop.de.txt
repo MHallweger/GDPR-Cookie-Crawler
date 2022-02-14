@@ -1,0 +1,75 @@
+Website 244: http://www.schattenwolfshop.de/ | Created: 10.02.2022 21:10:28 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 18
+[Before] Website-Cookies: [{'domain': 'schattenwolfshop.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.schattenwolfshop.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T20%3A10%3A19.394Z'}, {'domain': '.schattenwolfshop.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '87f0edc4-4e89-4024-880c-77e90231ef83'}, {'domain': '.schattenwolfshop.de', 'expiry': 1644525619, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.schattenwolfshop.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T20%3A10%3A19.403Z'}, {'domain': '.schattenwolfshop.de', 'expiry': 1676059819, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': '.schattenwolfshop.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.schattenwolfshop.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '87f0edc4-4e89-4024-880c-77e90231ef83'}, {'domain': '.schattenwolfshop.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '605e40fa-43c0-4640-a210-6070b4aad398'}, {'domain': '.schattenwolfshop.de', 'expiry': 1676059819, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': 'schattenwolfshop.de', 'expiry': 1645733419, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.schattenwolfshop.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '605e40fa-43c0-4640-a210-6070b4aad398'}, {'domain': '.schattenwolfshop.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.schattenwolfshop.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'schattenwolfshop.de', 'expiry': 1676059819, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.schattenwolfshop.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.schattenwolfshop.de', 'expiry': 1645733419, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'schattenwolfshop.de', 'expiry': 1645733419, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[Before] Cookie-Name 1: _shopify_evids
+[Before] Cookie-Name 2: _shopify_d
+[Before] Cookie-Name 3: _shopify_s
+[Before] Cookie-Name 4: _shopify_tm
+[Before] Cookie-Name 5: _shopify_sa_t
+[Before] Cookie-Name 6: _tracking_consent
+[Before] Cookie-Name 7: _shopify_evids
+[Before] Cookie-Name 8: _s
+[Before] Cookie-Name 9: _shopify_y
+[Before] Cookie-Name 10: _shopify_m
+[Before] Cookie-Name 11: cart_currency
+[Before] Cookie-Name 12: _y
+[Before] Cookie-Name 13: _landing_page
+[Before] Cookie-Name 14: _shopify_sa_p
+[Before] Cookie-Name 15: secure_customer_sig
+[Before] Cookie-Name 16: _orig_referrer
+[Before] Cookie-Name 17: _shopify_tw
+[Before] Cookie-Name 18: localization
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 24
+[After] Website-Cookies: [{'domain': '.schattenwolfshop.de', 'expiry': 1652299835, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644523835261.978939319'}, {'domain': 'schattenwolfshop.de', 'expiry': 1645733435, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8d93a1c2e4e8ee710fd81970dfb390ec'}, {'domain': 'schattenwolfshop.de', 'expiry': 1645733435, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': 'schattenwolfshop.de', 'expiry': 1645733435, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644523834'}, {'domain': 'schattenwolfshop.de', 'expiry': 1649704234, 'httpOnly': False, 'name': 'cookiesNotification', 'path': '/', 'secure': False, 'value': '[{"savedAt":"2022-02-10T20:10:34.621Z"},{"savedAt":"2022-02-10T20:10:34.659Z"}]'}, {'domain': '.schattenwolfshop.de', 'expiry': 1676059835, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%221%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': '.schattenwolfshop.de', 'expiry': 1645733435, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.schattenwolfshop.de', 'expiry': 1644525635, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T20%3A10%3A19.403Z'}, {'domain': '.schattenwolfshop.de', 'expiry': 1676059835, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '605e40fa-43c0-4640-a210-6070b4aad398'}, {'domain': 'schattenwolfshop.de', 'expiry': 1645733435, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'schattenwolfshop.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.schattenwolfshop.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T20%3A10%3A19.394Z'}, {'domain': 'schattenwolfshop.de', 'expiry': 1645733435, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3e4a51180f0713865b654420af7d822e'}, {'domain': '.schattenwolfshop.de', 'expiry': 1644525635, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '87f0edc4-4e89-4024-880c-77e90231ef83'}, {'domain': '.schattenwolfshop.de', 'expiry': 1644525635, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.schattenwolfshop.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.schattenwolfshop.de', 'expiry': 1644525635, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '87f0edc4-4e89-4024-880c-77e90231ef83'}, {'domain': '.schattenwolfshop.de', 'expiry': 1645733419, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.schattenwolfshop.de', 'expiry': 1676059835, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': 'schattenwolfshop.de', 'expiry': 1645733435, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.schattenwolfshop.de', 'expiry': 1676059835, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '605e40fa-43c0-4640-a210-6070b4aad398'}, {'domain': '.schattenwolfshop.de', 'expiry': 1644525635, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'schattenwolfshop.de', 'expiry': 1676059835, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.schattenwolfshop.de', 'expiry': 1645733435, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: _fbp
+[After] Cookie-Name 2: cart
+[After] Cookie-Name 3: cart_ver
+[After] Cookie-Name 4: cart_ts
+[After] Cookie-Name 5: cookiesNotification
+[After] Cookie-Name 6: _tracking_consent
+[After] Cookie-Name 7: _landing_page
+[After] Cookie-Name 8: _shopify_sa_t
+[After] Cookie-Name 9: _shopify_y
+[After] Cookie-Name 10: localization
+[After] Cookie-Name 11: _shopify_evids
+[After] Cookie-Name 12: _shopify_d
+[After] Cookie-Name 13: cart_sig
+[After] Cookie-Name 14: _shopify_s
+[After] Cookie-Name 15: _shopify_tm
+[After] Cookie-Name 16: _shopify_evids
+[After] Cookie-Name 17: _s
+[After] Cookie-Name 18: _shopify_tw
+[After] Cookie-Name 19: _shopify_m
+[After] Cookie-Name 20: cart_currency
+[After] Cookie-Name 21: _y
+[After] Cookie-Name 22: _shopify_sa_p
+[After] Cookie-Name 23: secure_customer_sig
+[After] Cookie-Name 24: _orig_referrer
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 6
+[Difference] Cookie-Name: 1: cart
+[Difference] Cookie-Name: 2: _fbp
+[Difference] Cookie-Name: 3: cart_sig
+[Difference] Cookie-Name: 4: cart_ts
+[Difference] Cookie-Name: 5: cart_ver
+[Difference] Cookie-Name: 6: cookiesNotification
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

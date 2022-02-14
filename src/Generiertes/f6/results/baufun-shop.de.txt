@@ -1,0 +1,107 @@
+Website 48: http://www.baufun-shop.de/ | Created: 10.02.2022 12:26:56 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 30
+[Before] Website-Cookies: [{'domain': 'baufun.shop', 'expiry': 1676028407, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': ''}, {'domain': '.baufun.shop', 'expiry': 1644494206, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': 'baufun.shop', 'expiry': 1644492526, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'baufun.shop', 'expiry': 1644492526, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.baufun.shop', 'expiry': 1707564405, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1992941639.1644492406'}, {'domain': 'baufun.shop', 'expiry': 1707564406, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0OTI0MDcsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vYmF1ZnVuLnNob3AvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NDkyNDA3LCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL2JhdWZ1bi5zaG9wLyJ9fQ=='}, {'domain': '.baufun.shop', 'expiry': 1644578805, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1749206519.1644492406'}, {'domain': '.baufun.shop', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'baufun.shop', 'expiry': 1645702016, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.baufun.shop', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.baufun.shop', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '322d01f9-5189-49b8-8210-724e4b5f20b0'}, {'domain': '.baufun.shop', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T11%3A26%3A45.876Z'}, {'domain': 'baufun.shop', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.baufun.shop', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T11%3A26%3A45.824Z'}, {'domain': 'baufun.shop', 'expiry': 1676028407, 'httpOnly': False, 'name': 'optiMonkClientId', 'path': '/', 'secure': False, 'value': 'ddcd3d50-ffd6-1c29-f641-d94019ad1eda'}, {'domain': '.baufun.shop', 'expiry': 1644494206, 'httpOnly': False, 'name': '_hjSession_2689059', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImIwZDY4MjQzLTUyMjMtNGM5MS1hM2FjLWUyZjRhMjAyYzdjZSIsImNyZWF0ZWQiOjE2NDQ0OTI0MDY4MDAsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': '.baufun.shop', 'expiry': 1676028405, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.baufun.shop', 'expiry': 1676028406, 'httpOnly': False, 'name': '_hjSessionUser_2689059', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjI2MTNiYzdlLTQ0ZDMtNTU0ZC04YmFjLWY1YTJmODE1N2VhZiIsImNyZWF0ZWQiOjE2NDQ0OTI0MDYwMDEsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.baufun.shop', 'expiry': 1676028405, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%7D'}, {'domain': 'baufun.shop', 'expiry': 1645702016, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.baufun.shop', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '44eec0bd-1f04-4840-b18c-7cfa649bf605'}, {'domain': '.baufun.shop', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '44eec0bd-1f04-4840-b18c-7cfa649bf605'}, {'domain': '.baufun.shop', 'expiry': 1644492465, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.baufun.shop', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.baufun.shop', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.baufun.shop', 'expiry': 1644494216, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.baufun.shop', 'expiry': 1645702005, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.baufun.shop', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '322d01f9-5189-49b8-8210-724e4b5f20b0'}, {'domain': '.baufun.shop', 'expiry': 1644494206, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'baufun.shop', 'expiry': 1676028416, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: cookieconsent_preferences_disabled
+[Before] Cookie-Name 2: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 3: _hjIncludedInPageviewSample
+[Before] Cookie-Name 4: _hjIncludedInSessionSample
+[Before] Cookie-Name 5: _ga
+[Before] Cookie-Name 6: __kla_id
+[Before] Cookie-Name 7: _gid
+[Before] Cookie-Name 8: _shopify_sa_p
+[Before] Cookie-Name 9: localization
+[Before] Cookie-Name 10: _shopify_evids
+[Before] Cookie-Name 11: _shopify_s
+[Before] Cookie-Name 12: _shopify_sa_t
+[Before] Cookie-Name 13: _shopify_evids
+[Before] Cookie-Name 14: _shopify_d
+[Before] Cookie-Name 15: optiMonkClientId
+[Before] Cookie-Name 16: _hjSession_2689059
+[Before] Cookie-Name 17: _shopify_m
+[Before] Cookie-Name 18: _hjSessionUser_2689059
+[Before] Cookie-Name 19: _tracking_consent
+[Before] Cookie-Name 20: cart_currency
+[Before] Cookie-Name 21: _shopify_y
+[Before] Cookie-Name 22: _y
+[Before] Cookie-Name 23: _gat
+[Before] Cookie-Name 24: _landing_page
+[Before] Cookie-Name 25: _orig_referrer
+[Before] Cookie-Name 26: _shopify_tm
+[Before] Cookie-Name 27: _shopify_tw
+[Before] Cookie-Name 28: _s
+[Before] Cookie-Name 29: _hjFirstSeen
+[Before] Cookie-Name 30: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 36
+[After] Website-Cookies: [{'domain': '.baufun.shop', 'expiry': 1676028422, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%221%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%7D'}, {'domain': 'baufun.shop', 'expiry': 1645702022, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': 'baufun.shop', 'expiry': 1645702022, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3ecdd4fd8415dacc68ed6767fdcb85bf'}, {'domain': 'baufun.shop', 'expiry': 1645702022, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a0575aeb91ddab215aecbc57164ec068'}, {'domain': 'baufun.shop', 'expiry': 1645702022, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644492421'}, {'domain': 'baufun.shop', 'expiry': 1676028421, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': ''}, {'domain': '.baufun.shop', 'expiry': 1644494206, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': 'baufun.shop', 'expiry': 1644492526, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.baufun.shop', 'expiry': 1676028422, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': 'baufun.shop', 'expiry': 1676028407, 'httpOnly': False, 'name': 'optiMonkClientId', 'path': '/', 'secure': False, 'value': 'ddcd3d50-ffd6-1c29-f641-d94019ad1eda'}, {'domain': '.baufun.shop', 'expiry': 1644494206, 'httpOnly': False, 'name': '_hjSession_2689059', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImIwZDY4MjQzLTUyMjMtNGM5MS1hM2FjLWUyZjRhMjAyYzdjZSIsImNyZWF0ZWQiOjE2NDQ0OTI0MDY4MDAsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': '.baufun.shop', 'expiry': 1676028406, 'httpOnly': False, 'name': '_hjSessionUser_2689059', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjI2MTNiYzdlLTQ0ZDMtNTU0ZC04YmFjLWY1YTJmODE1N2VhZiIsImNyZWF0ZWQiOjE2NDQ0OTI0MDYwMDEsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': 'baufun.shop', 'expiry': 1644492526, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.baufun.shop', 'expiry': 1707564405, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1992941639.1644492406'}, {'domain': 'baufun.shop', 'expiry': 1707564406, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0OTI0MDcsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vYmF1ZnVuLnNob3AvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NDkyNDA3LCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL2JhdWZ1bi5zaG9wLyJ9fQ=='}, {'domain': '.baufun.shop', 'expiry': 1644578805, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1749206519.1644492406'}, {'domain': 'baufun.shop', 'expiry': 1676028421, 'httpOnly': False, 'name': 'cookieconsent_status', 'path': '/', 'secure': False, 'value': 'allow'}, {'domain': '.baufun.shop', 'expiry': 1644494222, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.baufun.shop', 'expiry': 1676028422, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVpqUXdaRGd3Wm1RdFpqUTJOQzAwWmpkaUxXRXhaakF0Wmpkak5EZGtPVEEwWkRVdw'}, {'domain': 'baufun.shop', 'expiry': 1645702022, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.baufun.shop', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.baufun.shop', 'expiry': 1644494222, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '322d01f9-5189-49b8-8210-724e4b5f20b0'}, {'domain': '.baufun.shop', 'expiry': 1644494222, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T11%3A26%3A45.876Z'}, {'domain': 'baufun.shop', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.baufun.shop', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T11%3A26%3A45.824Z'}, {'domain': 'baufun.shop', 'expiry': 1645702022, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.baufun.shop', 'expiry': 1676028422, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '44eec0bd-1f04-4840-b18c-7cfa649bf605'}, {'domain': '.baufun.shop', 'expiry': 1676028422, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '44eec0bd-1f04-4840-b18c-7cfa649bf605'}, {'domain': '.baufun.shop', 'expiry': 1644492465, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.baufun.shop', 'expiry': 1645702022, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'baufun.shop', 'expiry': 1676028422, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.baufun.shop', 'expiry': 1644494206, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.baufun.shop', 'expiry': 1645702022, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.baufun.shop', 'expiry': 1644494222, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '322d01f9-5189-49b8-8210-724e4b5f20b0'}, {'domain': '.baufun.shop', 'expiry': 1645702005, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.baufun.shop', 'expiry': 1644494222, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: _tracking_consent
+[After] Cookie-Name 2: cart_ver
+[After] Cookie-Name 3: cart_sig
+[After] Cookie-Name 4: cart
+[After] Cookie-Name 5: cart_ts
+[After] Cookie-Name 6: cookieconsent_preferences_disabled
+[After] Cookie-Name 7: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 8: _hjIncludedInPageviewSample
+[After] Cookie-Name 9: _shopify_m
+[After] Cookie-Name 10: optiMonkClientId
+[After] Cookie-Name 11: _hjSession_2689059
+[After] Cookie-Name 12: _hjSessionUser_2689059
+[After] Cookie-Name 13: _hjIncludedInSessionSample
+[After] Cookie-Name 14: _ga
+[After] Cookie-Name 15: __kla_id
+[After] Cookie-Name 16: _gid
+[After] Cookie-Name 17: cookieconsent_status
+[After] Cookie-Name 18: _shopify_sa_p
+[After] Cookie-Name 19: _pin_unauth
+[After] Cookie-Name 20: localization
+[After] Cookie-Name 21: _shopify_evids
+[After] Cookie-Name 22: _shopify_s
+[After] Cookie-Name 23: _shopify_sa_t
+[After] Cookie-Name 24: _shopify_evids
+[After] Cookie-Name 25: _shopify_d
+[After] Cookie-Name 26: cart_currency
+[After] Cookie-Name 27: _shopify_y
+[After] Cookie-Name 28: _y
+[After] Cookie-Name 29: _gat
+[After] Cookie-Name 30: _landing_page
+[After] Cookie-Name 31: secure_customer_sig
+[After] Cookie-Name 32: _hjFirstSeen
+[After] Cookie-Name 33: _orig_referrer
+[After] Cookie-Name 34: _s
+[After] Cookie-Name 35: _shopify_tw
+[After] Cookie-Name 36: _shopify_tm
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjIncludedInPageviewSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjIncludedInSessionSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 6
+[Difference] Cookie-Name: 1: cookieconsent_status
+[Difference] Cookie-Name: 2: _pin_unauth
+[Difference] Cookie-Name: 3: cart
+[Difference] Cookie-Name: 4: cart_ts
+[Difference] Cookie-Name: 5: cart_sig
+[Difference] Cookie-Name: 6: cart_ver
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

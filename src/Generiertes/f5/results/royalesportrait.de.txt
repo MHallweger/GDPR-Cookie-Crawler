@@ -1,0 +1,97 @@
+Website 39: http://www.royalesportrait.de/ | Created: 09.02.2022 19:44:07 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 28
+[Before] Website-Cookies: [{'domain': '.royalesportrait.de', 'expiry': 1644518638, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': '1w7iu5h|1644432238506|1|1|e.clarity.ms/collect'}, {'domain': '.royalesportrait.de', 'expiry': 1644434038, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.royalesportrait.de', 'expiry': 1644434038, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T18%3A43%3A58.294Z'}, {'domain': '.royalesportrait.de', 'expiry': 1644434037, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.royalesportrait.de', 'expiry': 1675968237, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU1XVmpNamN3WXpBdE1HRm1ZUzAwTkdVMUxXRTNaVGd0T1dKak9UaGpaamswT0RaaA'}, {'domain': '.royalesportrait.de', 'expiry': 1644518636, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': '3cc0ad7089d811ec9242bbc1396d4b3d'}, {'domain': 'royalesportrait.de', 'expiry': 1644432357, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'royalesportrait.de', 'expiry': 1645641834, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': '.royalesportrait.de', 'expiry': 1675968237, 'httpOnly': False, 'name': '_hjSessionUser_2609536', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjZkZTVkNmUwLTI3OWUtNTg4OS1hZDUyLThjYWI5OTdmYmM1ZCIsImNyZWF0ZWQiOjE2NDQ0MzIyMzY5MTMsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.royalesportrait.de', 'expiry': 1675968238, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': 'ieztau|1|eyu|0'}, {'domain': 'royalesportrait.de', 'expiry': 1644435837, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.royalesportrait.de', 'expiry': 1652208236, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1386675209.1644432237'}, {'domain': '.royalesportrait.de', 'expiry': 1675968235, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f7346834-7bde-41e5-9455-232e9e894986'}, {'domain': '.royalesportrait.de', 'expiry': 1644432296, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'royalesportrait.de', 'expiry': 1675968234, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.royalesportrait.de', 'expiry': 1644434038, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '29f98432-476e-4175-8b8c-c5556bd4d723'}, {'domain': '.royalesportrait.de', 'expiry': 1644434037, 'httpOnly': False, 'name': '_hjSession_2609536', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImQ4YjMwYzNjLTVkN2ItNDU5OS1iMjgxLWE4Y2U3ZGMyYmQyMCIsImNyZWF0ZWQiOjE2NDQ0MzIyMzcwMDQsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': '.royalesportrait.de', 'expiry': 1652208238, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644432237079.851925863'}, {'domain': 'royalesportrait.de', 'expiry': 1644432357, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.royalesportrait.de', 'expiry': 1645641835, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.royalesportrait.de', 'expiry': 1675968235, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f7346834-7bde-41e5-9455-232e9e894986'}, {'domain': '.royalesportrait.de', 'expiry': 1678128236, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '3cc0e99089d811eca3c667f066afe04e'}, {'domain': '.royalesportrait.de', 'expiry': 1645641835, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.royalesportrait.de', 'expiry': 1644434038, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '29f98432-476e-4175-8b8c-c5556bd4d723'}, {'domain': '.royalesportrait.de', 'expiry': 1644518636, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1483102892.1644432237'}, {'domain': 'royalesportrait.de', 'expiry': 1645641834, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.royalesportrait.de', 'expiry': 1644434037, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.royalesportrait.de', 'expiry': 1707504236, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.242005744.1644432237'}]
+[Before] Cookie-Name 1: _clsk
+[Before] Cookie-Name 2: _shopify_sa_p
+[Before] Cookie-Name 3: _shopify_sa_t
+[Before] Cookie-Name 4: _hjFirstSeen
+[Before] Cookie-Name 5: _pin_unauth
+[Before] Cookie-Name 6: _uetsid
+[Before] Cookie-Name 7: _hjIncludedInSessionSample
+[Before] Cookie-Name 8: localization
+[Before] Cookie-Name 9: _hjSessionUser_2609536
+[Before] Cookie-Name 10: _clck
+[Before] Cookie-Name 11: shopify_pay_redirect
+[Before] Cookie-Name 12: _gcl_au
+[Before] Cookie-Name 13: _y
+[Before] Cookie-Name 14: _gat
+[Before] Cookie-Name 15: secure_customer_sig
+[Before] Cookie-Name 16: _shopify_s
+[Before] Cookie-Name 17: _hjSession_2609536
+[Before] Cookie-Name 18: _fbp
+[Before] Cookie-Name 19: _hjIncludedInPageviewSample
+[Before] Cookie-Name 20: _landing_page
+[Before] Cookie-Name 21: _shopify_y
+[Before] Cookie-Name 22: _uetvid
+[Before] Cookie-Name 23: _orig_referrer
+[Before] Cookie-Name 24: _s
+[Before] Cookie-Name 25: _gid
+[Before] Cookie-Name 26: cart_currency
+[Before] Cookie-Name 27: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 28: _ga
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 29
+[After] Website-Cookies: [{'domain': '.royalesportrait.de', 'expiry': 1644518638, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': '1w7iu5h|1644432238506|1|1|e.clarity.ms/collect'}, {'domain': '.royalesportrait.de', 'expiry': 1644434038, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.royalesportrait.de', 'expiry': 1644434038, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T18%3A43%3A58.294Z'}, {'domain': '.royalesportrait.de', 'expiry': 1644434037, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.royalesportrait.de', 'expiry': 1675968237, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU1XVmpNamN3WXpBdE1HRm1ZUzAwTkdVMUxXRTNaVGd0T1dKak9UaGpaamswT0RaaA'}, {'domain': 'royalesportrait.de', 'expiry': 1675968253, 'httpOnly': False, 'name': 'eg_cookieconsent_status', 'path': '/', 'secure': False, 'value': 'dismiss'}, {'domain': '.royalesportrait.de', 'expiry': 1644518636, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': '3cc0ad7089d811ec9242bbc1396d4b3d'}, {'domain': 'royalesportrait.de', 'expiry': 1644432357, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'royalesportrait.de', 'expiry': 1645641834, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': '.royalesportrait.de', 'expiry': 1675968237, 'httpOnly': False, 'name': '_hjSessionUser_2609536', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjZkZTVkNmUwLTI3OWUtNTg4OS1hZDUyLThjYWI5OTdmYmM1ZCIsImNyZWF0ZWQiOjE2NDQ0MzIyMzY5MTMsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.royalesportrait.de', 'expiry': 1675968238, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': 'ieztau|1|eyu|0'}, {'domain': 'royalesportrait.de', 'expiry': 1644435837, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.royalesportrait.de', 'expiry': 1652208236, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1386675209.1644432237'}, {'domain': '.royalesportrait.de', 'expiry': 1675968235, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f7346834-7bde-41e5-9455-232e9e894986'}, {'domain': '.royalesportrait.de', 'expiry': 1644432296, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'royalesportrait.de', 'expiry': 1675968234, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.royalesportrait.de', 'expiry': 1644434038, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '29f98432-476e-4175-8b8c-c5556bd4d723'}, {'domain': '.royalesportrait.de', 'expiry': 1644434037, 'httpOnly': False, 'name': '_hjSession_2609536', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImQ4YjMwYzNjLTVkN2ItNDU5OS1iMjgxLWE4Y2U3ZGMyYmQyMCIsImNyZWF0ZWQiOjE2NDQ0MzIyMzcwMDQsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': '.royalesportrait.de', 'expiry': 1652208253, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644432237079.851925863'}, {'domain': 'royalesportrait.de', 'expiry': 1644432357, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.royalesportrait.de', 'expiry': 1645641835, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.royalesportrait.de', 'expiry': 1675968235, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f7346834-7bde-41e5-9455-232e9e894986'}, {'domain': '.royalesportrait.de', 'expiry': 1678128236, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '3cc0e99089d811eca3c667f066afe04e'}, {'domain': '.royalesportrait.de', 'expiry': 1645641835, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.royalesportrait.de', 'expiry': 1644434038, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '29f98432-476e-4175-8b8c-c5556bd4d723'}, {'domain': '.royalesportrait.de', 'expiry': 1644518636, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1483102892.1644432237'}, {'domain': 'royalesportrait.de', 'expiry': 1645641834, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.royalesportrait.de', 'expiry': 1644434037, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.royalesportrait.de', 'expiry': 1707504236, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.242005744.1644432237'}]
+[After] Cookie-Name 1: _clsk
+[After] Cookie-Name 2: _shopify_sa_p
+[After] Cookie-Name 3: _shopify_sa_t
+[After] Cookie-Name 4: _hjFirstSeen
+[After] Cookie-Name 5: _pin_unauth
+[After] Cookie-Name 6: eg_cookieconsent_status
+[After] Cookie-Name 7: _uetsid
+[After] Cookie-Name 8: _hjIncludedInSessionSample
+[After] Cookie-Name 9: localization
+[After] Cookie-Name 10: _hjSessionUser_2609536
+[After] Cookie-Name 11: _clck
+[After] Cookie-Name 12: shopify_pay_redirect
+[After] Cookie-Name 13: _gcl_au
+[After] Cookie-Name 14: _y
+[After] Cookie-Name 15: _gat
+[After] Cookie-Name 16: secure_customer_sig
+[After] Cookie-Name 17: _shopify_s
+[After] Cookie-Name 18: _hjSession_2609536
+[After] Cookie-Name 19: _fbp
+[After] Cookie-Name 20: _hjIncludedInPageviewSample
+[After] Cookie-Name 21: _landing_page
+[After] Cookie-Name 22: _shopify_y
+[After] Cookie-Name 23: _uetvid
+[After] Cookie-Name 24: _orig_referrer
+[After] Cookie-Name 25: _s
+[After] Cookie-Name 26: _gid
+[After] Cookie-Name 27: cart_currency
+[After] Cookie-Name 28: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 29: _ga
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _clsk (Microsoft Clarity (User experience tool))
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _hjIncludedInSessionSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _clck (Microsoft Clarity (User experience tool))
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _hjIncludedInPageviewSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: eg_cookieconsent_status
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

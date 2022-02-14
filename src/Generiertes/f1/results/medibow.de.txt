@@ -1,0 +1,53 @@
+Website 377: http://www.medibow.de/ | Created: 08.02.2022 23:34:25 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 12
+[Before] Website-Cookies: [{'domain': '.medibow.de', 'expiry': 1644361457, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T22%3A34%3A17.181Z'}, {'domain': '.medibow.de', 'expiry': 1652135657, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644359657365.1917065333'}, {'domain': '.medibow.de', 'expiry': 1644361457, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b70c3e97-bb8f-48df-be93-4e7c7d6bab62'}, {'domain': '.medibow.de', 'expiry': 1644361457, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b70c3e97-bb8f-48df-be93-4e7c7d6bab62'}, {'domain': '.medibow.de', 'expiry': 1675895656, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7685b1d1-9da1-4e3e-81e0-ed9f9500c1c4'}, {'domain': '.medibow.de', 'expiry': 1675895656, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7685b1d1-9da1-4e3e-81e0-ed9f9500c1c4'}, {'domain': '.medibow.de', 'expiry': 1645569256, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'medibow.de', 'expiry': 1645569256, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.medibow.de', 'expiry': 1644361457, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'medibow.de', 'expiry': 1675895656, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.medibow.de', 'expiry': 1645569256, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'medibow.de', 'expiry': 1645569256, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}]
+[Before] Cookie-Name 1: _shopify_sa_t
+[Before] Cookie-Name 2: _fbp
+[Before] Cookie-Name 3: _shopify_s
+[Before] Cookie-Name 4: _s
+[Before] Cookie-Name 5: _y
+[Before] Cookie-Name 6: _shopify_y
+[Before] Cookie-Name 7: _landing_page
+[Before] Cookie-Name 8: cart_currency
+[Before] Cookie-Name 9: _shopify_sa_p
+[Before] Cookie-Name 10: secure_customer_sig
+[Before] Cookie-Name 11: _orig_referrer
+[Before] Cookie-Name 12: localization
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 13
+[After] Website-Cookies: [{'domain': '.medibow.de', 'expiry': 1644361457, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T22%3A34%3A17.181Z'}, {'domain': '.medibow.de', 'expiry': 1652135657, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644359657365.1917065333'}, {'domain': '.medibow.de', 'expiry': 1644361457, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b70c3e97-bb8f-48df-be93-4e7c7d6bab62'}, {'domain': '.medibow.de', 'expiry': 1644361457, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b70c3e97-bb8f-48df-be93-4e7c7d6bab62'}, {'domain': '.medibow.de', 'expiry': 1675895656, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7685b1d1-9da1-4e3e-81e0-ed9f9500c1c4'}, {'domain': '.medibow.de', 'expiry': 1675895656, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7685b1d1-9da1-4e3e-81e0-ed9f9500c1c4'}, {'domain': '.medibow.de', 'expiry': 1645569256, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'medibow.de', 'expiry': 1645569256, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.medibow.de', 'expiry': 1644361457, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'medibow.de', 'expiry': 2508273271, 'httpOnly': False, 'name': 'cookies_accepted', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': 'medibow.de', 'expiry': 1675895656, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.medibow.de', 'expiry': 1645569256, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'medibow.de', 'expiry': 1645569256, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}]
+[After] Cookie-Name 1: _shopify_sa_t
+[After] Cookie-Name 2: _fbp
+[After] Cookie-Name 3: _shopify_s
+[After] Cookie-Name 4: _s
+[After] Cookie-Name 5: _y
+[After] Cookie-Name 6: _shopify_y
+[After] Cookie-Name 7: _landing_page
+[After] Cookie-Name 8: cart_currency
+[After] Cookie-Name 9: _shopify_sa_p
+[After] Cookie-Name 10: cookies_accepted
+[After] Cookie-Name 11: secure_customer_sig
+[After] Cookie-Name 12: _orig_referrer
+[After] Cookie-Name 13: localization
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: cookies_accepted
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

@@ -1,0 +1,123 @@
+Website 251: http://www.glas-star.de/ | Created: 08.02.2022 22:56:11 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 39
+[Before] Website-Cookies: [{'domain': 'www.glas-star.de', 'expiry': 1644897363, 'httpOnly': False, 'name': 'cbuid_meta', 'path': '/', 'secure': False, 'value': '{"referrer":"","href":"https://www.glas-star.de/"}'}, {'domain': 'www.glas-star.de', 'expiry': 1802037362, 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'secure': True, 'value': '81b4f6d0-7f19-42eb-a648-9792e35bb1e1'}, {'domain': '.glas-star.de', 'expiry': 1675893362, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': 'ds8r88|1|eyt|0'}, {'domain': 'www.glas-star.de', 'httpOnly': False, 'name': 'lsSema-nickassfalg.de', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': ''}, {'domain': 'www.glas-star.de', 'expiry': 1645566962, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644357362'}, {'domain': '.glas-star.de', 'expiry': 1644359161, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': 'www.glas-star.de', 'expiry': 1645566962, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a42896d76d992c88aa2ebdef05b2e3df'}, {'domain': '.glas-star.de', 'expiry': 1652133362, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644357361809.1544214367'}, {'domain': '.glas-star.de', 'expiry': 1644359161, 'httpOnly': False, 'name': '_hjSession_2255944', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6Ijg3YzNkM2I5LThmYjYtNDM3OS1iN2EyLWM2ODhhYWNiYjBmZSIsImNyZWF0ZWQiOjE2NDQzNTczNjE3ODgsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': 'www.glas-star.de', 'expiry': 1644357481, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.glas-star.de', 'expiry': 1644359161, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.glas-star.de', 'expiry': 1644360961, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.glas-star.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3a4c9c3f-56da-493a-9ea1-452d930f0a5d'}, {'domain': '.glas-star.de', 'expiry': 1652133361, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.875255585.1644357362'}, {'domain': 'www.glas-star.de', 'expiry': 1644357481, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.glas-star.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.glas-star.de', 'expiry': 1675893361, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.glas-star.de', 'expiry': 1645566961, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.glas-star.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A56%3A01.644Z'}, {'domain': '.glas-star.de', 'expiry': 1675893361, 'httpOnly': False, 'name': '_hjSessionUser_2255944', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjkyMDFiMjJjLTMwMjQtNWM3Mi04YzY2LTViNDAzMWQyNmNiNyIsImNyZWF0ZWQiOjE2NDQzNTczNjE3NDIsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.glas-star.de', 'expiry': 1644359162, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.glas-star.de', 'expiry': 1675893361, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': 'www.glas-star.de', 'expiry': 1645566962, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A2'}, {'domain': '.glas-star.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.glas-star.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.glas-star.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.glas-star.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b90ffc1c-8a90-4e59-a5cf-323c568a2e6e'}, {'domain': 'www.glas-star.de', 'expiry': 1644359162, 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'secure': True, 'value': 'f9cc05a8-f608-417a-93f2-1d362142a1bb'}, {'domain': 'www.glas-star.de', 'expiry': 1675893362, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.www.glas-star.de', 'expiry': 1659999363, 'httpOnly': False, 'name': 'sib_cuid', 'path': '/', 'secure': False, 'value': '22224325-3468-4021-aac2-7886c26f84df'}, {'domain': '.glas-star.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3a4c9c3f-56da-493a-9ea1-452d930f0a5d'}, {'domain': '.glas-star.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.glas-star.de', 'httpOnly': False, 'name': 'lsContextID', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'vM_cXmwS3keE-1NNoPSilw'}, {'domain': '.glas-star.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b90ffc1c-8a90-4e59-a5cf-323c568a2e6e'}, {'domain': '.glas-star.de', 'expiry': 1644443762, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': '187u5wv|1644357362821|1|1|a.clarity.ms/collect'}, {'domain': 'www.glas-star.de', 'expiry': 1645566962, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.glas-star.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A56%3A01.656Z'}, {'domain': 'www.glas-star.de', 'expiry': 1645566962, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3150505648e61c5fb87c297557c27d4e'}, {'domain': 'www.glas-star.de', 'expiry': 1645566962, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[Before] Cookie-Name 1: cbuid_meta
+[Before] Cookie-Name 2: _shg_user_id
+[Before] Cookie-Name 3: _clck
+[Before] Cookie-Name 4: lsSema-nickassfalg.de
+[Before] Cookie-Name 5: cart_ts
+[Before] Cookie-Name 6: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 7: cart_sig
+[Before] Cookie-Name 8: _fbp
+[Before] Cookie-Name 9: _hjSession_2255944
+[Before] Cookie-Name 10: _hjIncludedInSessionSample
+[Before] Cookie-Name 11: _hjFirstSeen
+[Before] Cookie-Name 12: shopify_pay_redirect
+[Before] Cookie-Name 13: _shopify_y
+[Before] Cookie-Name 14: _gcl_au
+[Before] Cookie-Name 15: _hjIncludedInPageviewSample
+[Before] Cookie-Name 16: _shopify_evids
+[Before] Cookie-Name 17: _shopify_m
+[Before] Cookie-Name 18: _shopify_tw
+[Before] Cookie-Name 19: _shopify_d
+[Before] Cookie-Name 20: _hjSessionUser_2255944
+[Before] Cookie-Name 21: _shopify_tm
+[Before] Cookie-Name 22: _tracking_consent
+[Before] Cookie-Name 23: cart_ver
+[Before] Cookie-Name 24: _landing_page
+[Before] Cookie-Name 25: _shopify_sa_p
+[Before] Cookie-Name 26: _shopify_evids
+[Before] Cookie-Name 27: _shopify_s
+[Before] Cookie-Name 28: _shg_session_id
+[Before] Cookie-Name 29: secure_customer_sig
+[Before] Cookie-Name 30: sib_cuid
+[Before] Cookie-Name 31: _y
+[Before] Cookie-Name 32: _orig_referrer
+[Before] Cookie-Name 33: lsContextID
+[Before] Cookie-Name 34: _s
+[Before] Cookie-Name 35: _clsk
+[Before] Cookie-Name 36: cart_currency
+[Before] Cookie-Name 37: _shopify_sa_t
+[Before] Cookie-Name 38: cart
+[Before] Cookie-Name 39: localization
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 44
+[After] Website-Cookies: [{'domain': '.glas-star.de', 'expiry': 1644357437, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.glas-star.de', 'expiry': 1675893377, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVptUTJZekkwTlRFdFpEZ3dOaTAwWkRrd0xXSTVObVl0TTJNMFptSTJPRGRtTkRCbQ'}, {'domain': '.glas-star.de', 'expiry': 1644443777, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1110919595.1644357377'}, {'domain': '.glas-star.de', 'expiry': 1707429377, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.2021550846.1644357377'}, {'domain': '.glas-star.de', 'expiry': 1675893377, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%221%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%7D'}, {'domain': 'www.glas-star.de', 'expiry': 1644897363, 'httpOnly': False, 'name': 'cbuid_meta', 'path': '/', 'secure': False, 'value': '{"referrer":"","href":"https://www.glas-star.de/"}'}, {'domain': 'www.glas-star.de', 'expiry': 1802037362, 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'secure': True, 'value': '81b4f6d0-7f19-42eb-a648-9792e35bb1e1'}, {'domain': '.glas-star.de', 'expiry': 1675893362, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': 'ds8r88|1|eyt|0'}, {'domain': 'www.glas-star.de', 'httpOnly': False, 'name': 'lsSema-nickassfalg.de', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': ''}, {'domain': 'www.glas-star.de', 'expiry': 1645566962, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644357362'}, {'domain': '.glas-star.de', 'expiry': 1644359161, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': 'www.glas-star.de', 'expiry': 1645566977, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a42896d76d992c88aa2ebdef05b2e3df'}, {'domain': '.glas-star.de', 'expiry': 1652133377, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644357361809.1544214367'}, {'domain': '.glas-star.de', 'expiry': 1644359161, 'httpOnly': False, 'name': '_hjSession_2255944', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6Ijg3YzNkM2I5LThmYjYtNDM3OS1iN2EyLWM2ODhhYWNiYjBmZSIsImNyZWF0ZWQiOjE2NDQzNTczNjE3ODgsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': '.glas-star.de', 'expiry': 1675893377, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': '.glas-star.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.glas-star.de', 'expiry': 1644357481, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.glas-star.de', 'expiry': 1644357481, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.glas-star.de', 'expiry': 1644359161, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.glas-star.de', 'expiry': 1644360961, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.glas-star.de', 'expiry': 1675893377, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3a4c9c3f-56da-493a-9ea1-452d930f0a5d'}, {'domain': '.glas-star.de', 'expiry': 1652133361, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.875255585.1644357362'}, {'domain': '.glas-star.de', 'expiry': 1645566961, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.glas-star.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A56%3A01.644Z'}, {'domain': '.glas-star.de', 'expiry': 1644359177, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.glas-star.de', 'expiry': 1675893361, 'httpOnly': False, 'name': '_hjSessionUser_2255944', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjkyMDFiMjJjLTMwMjQtNWM3Mi04YzY2LTViNDAzMWQyNmNiNyIsImNyZWF0ZWQiOjE2NDQzNTczNjE3NDIsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': 'www.glas-star.de', 'expiry': 1645566962, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A2'}, {'domain': '.glas-star.de', 'expiry': 1645566977, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.glas-star.de', 'expiry': 1644359177, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.glas-star.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.glas-star.de', 'expiry': 1644359177, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b90ffc1c-8a90-4e59-a5cf-323c568a2e6e'}, {'domain': 'www.glas-star.de', 'expiry': 1644443777, 'httpOnly': False, 'name': 'DisableBanner', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'info_allow_cookie_btn'}, {'domain': 'www.glas-star.de', 'expiry': 1644359162, 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'secure': True, 'value': 'f9cc05a8-f608-417a-93f2-1d362142a1bb'}, {'domain': 'www.glas-star.de', 'expiry': 1675893377, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.www.glas-star.de', 'expiry': 1659999363, 'httpOnly': False, 'name': 'sib_cuid', 'path': '/', 'secure': False, 'value': '22224325-3468-4021-aac2-7886c26f84df'}, {'domain': '.glas-star.de', 'expiry': 1675893377, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3a4c9c3f-56da-493a-9ea1-452d930f0a5d'}, {'domain': '.glas-star.de', 'expiry': 1645566977, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.glas-star.de', 'httpOnly': False, 'name': 'lsContextID', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'vM_cXmwS3keE-1NNoPSilw'}, {'domain': '.glas-star.de', 'expiry': 1644359177, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b90ffc1c-8a90-4e59-a5cf-323c568a2e6e'}, {'domain': '.glas-star.de', 'expiry': 1644443762, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': '187u5wv|1644357362821|1|1|a.clarity.ms/collect'}, {'domain': 'www.glas-star.de', 'expiry': 1645566977, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.glas-star.de', 'expiry': 1644359177, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A56%3A01.656Z'}, {'domain': 'www.glas-star.de', 'expiry': 1645566962, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3150505648e61c5fb87c297557c27d4e'}, {'domain': 'www.glas-star.de', 'expiry': 1645566977, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[After] Cookie-Name 1: _gat
+[After] Cookie-Name 2: _pin_unauth
+[After] Cookie-Name 3: _gid
+[After] Cookie-Name 4: _ga
+[After] Cookie-Name 5: _tracking_consent
+[After] Cookie-Name 6: cbuid_meta
+[After] Cookie-Name 7: _shg_user_id
+[After] Cookie-Name 8: _clck
+[After] Cookie-Name 9: lsSema-nickassfalg.de
+[After] Cookie-Name 10: cart_ts
+[After] Cookie-Name 11: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 12: cart_sig
+[After] Cookie-Name 13: _fbp
+[After] Cookie-Name 14: _hjSession_2255944
+[After] Cookie-Name 15: _shopify_m
+[After] Cookie-Name 16: _shopify_evids
+[After] Cookie-Name 17: _hjIncludedInPageviewSample
+[After] Cookie-Name 18: _hjIncludedInSessionSample
+[After] Cookie-Name 19: _hjFirstSeen
+[After] Cookie-Name 20: shopify_pay_redirect
+[After] Cookie-Name 21: _shopify_y
+[After] Cookie-Name 22: _gcl_au
+[After] Cookie-Name 23: _shopify_tw
+[After] Cookie-Name 24: _shopify_d
+[After] Cookie-Name 25: _shopify_tm
+[After] Cookie-Name 26: _hjSessionUser_2255944
+[After] Cookie-Name 27: cart_ver
+[After] Cookie-Name 28: _landing_page
+[After] Cookie-Name 29: _shopify_sa_p
+[After] Cookie-Name 30: _shopify_evids
+[After] Cookie-Name 31: _shopify_s
+[After] Cookie-Name 32: DisableBanner
+[After] Cookie-Name 33: _shg_session_id
+[After] Cookie-Name 34: secure_customer_sig
+[After] Cookie-Name 35: sib_cuid
+[After] Cookie-Name 36: _y
+[After] Cookie-Name 37: _orig_referrer
+[After] Cookie-Name 38: lsContextID
+[After] Cookie-Name 39: _s
+[After] Cookie-Name 40: _clsk
+[After] Cookie-Name 41: cart_currency
+[After] Cookie-Name 42: _shopify_sa_t
+[After] Cookie-Name 43: cart
+[After] Cookie-Name 44: localization
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _clck (Microsoft Clarity (User experience tool))
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _hjIncludedInSessionSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _hjIncludedInPageviewSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _clsk (Microsoft Clarity (User experience tool))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 5
+[Difference] Cookie-Name: 1: _gid
+[Difference] Cookie-Name: 2: _pin_unauth
+[Difference] Cookie-Name: 3: DisableBanner
+[Difference] Cookie-Name: 4: _ga
+[Difference] Cookie-Name: 5: _gat
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

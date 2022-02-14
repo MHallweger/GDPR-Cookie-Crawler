@@ -1,0 +1,63 @@
+Website 288: http://www.alleliebenpremiumwasser.de/ | Created: 10.02.2022 18:45:16 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 15
+[Before] Website-Cookies: [{'domain': 'alleliebenpremiumwasser.de', 'expiry': 1644518706, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.alleliebenpremiumwasser.de', 'expiry': 1644515166, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.alleliebenpremiumwasser.de', 'expiry': 1644601506, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1843596659.1644515106'}, {'domain': '.alleliebenpremiumwasser.de', 'expiry': 1707587106, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1211724637.1644515106'}, {'domain': '.alleliebenpremiumwasser.de', 'expiry': 1645724705, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.alleliebenpremiumwasser.de', 'expiry': 1644516905, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.alleliebenpremiumwasser.de', 'expiry': 1676051107, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0139d9e5-78f7-4555-8884-517658aeb72a'}, {'domain': 'alleliebenpremiumwasser.de', 'expiry': 1645724707, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.alleliebenpremiumwasser.de', 'expiry': 1644516905, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A45%3A05.742Z'}, {'domain': '.alleliebenpremiumwasser.de', 'expiry': 1644516907, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c1c6a81c-f9d3-41b4-94d3-a4bb111da0ad'}, {'domain': 'alleliebenpremiumwasser.de', 'expiry': 1676051107, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.alleliebenpremiumwasser.de', 'expiry': 1644516907, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c1c6a81c-f9d3-41b4-94d3-a4bb111da0ad'}, {'domain': 'alleliebenpremiumwasser.de', 'expiry': 1645724707, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.alleliebenpremiumwasser.de', 'expiry': 1676051107, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0139d9e5-78f7-4555-8884-517658aeb72a'}, {'domain': '.alleliebenpremiumwasser.de', 'expiry': 1645724705, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[Before] Cookie-Name 1: shopify_pay_redirect
+[Before] Cookie-Name 2: _gat
+[Before] Cookie-Name 3: _gid
+[Before] Cookie-Name 4: _ga
+[Before] Cookie-Name 5: _landing_page
+[Before] Cookie-Name 6: _shopify_sa_p
+[Before] Cookie-Name 7: _y
+[Before] Cookie-Name 8: cart_currency
+[Before] Cookie-Name 9: _shopify_sa_t
+[Before] Cookie-Name 10: _shopify_s
+[Before] Cookie-Name 11: secure_customer_sig
+[Before] Cookie-Name 12: _s
+[Before] Cookie-Name 13: localization
+[Before] Cookie-Name 14: _shopify_y
+[Before] Cookie-Name 15: _orig_referrer
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 15
+[After] Website-Cookies: [{'domain': 'alleliebenpremiumwasser.de', 'expiry': 1644518706, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.alleliebenpremiumwasser.de', 'expiry': 1644515166, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.alleliebenpremiumwasser.de', 'expiry': 1644601506, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1843596659.1644515106'}, {'domain': '.alleliebenpremiumwasser.de', 'expiry': 1707587106, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1211724637.1644515106'}, {'domain': '.alleliebenpremiumwasser.de', 'expiry': 1645724705, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.alleliebenpremiumwasser.de', 'expiry': 1644516905, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.alleliebenpremiumwasser.de', 'expiry': 1676051107, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0139d9e5-78f7-4555-8884-517658aeb72a'}, {'domain': 'alleliebenpremiumwasser.de', 'expiry': 1645724707, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.alleliebenpremiumwasser.de', 'expiry': 1644516905, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A45%3A05.742Z'}, {'domain': '.alleliebenpremiumwasser.de', 'expiry': 1644516907, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c1c6a81c-f9d3-41b4-94d3-a4bb111da0ad'}, {'domain': 'alleliebenpremiumwasser.de', 'expiry': 1676051107, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.alleliebenpremiumwasser.de', 'expiry': 1644516907, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c1c6a81c-f9d3-41b4-94d3-a4bb111da0ad'}, {'domain': 'alleliebenpremiumwasser.de', 'expiry': 1645724707, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.alleliebenpremiumwasser.de', 'expiry': 1676051107, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0139d9e5-78f7-4555-8884-517658aeb72a'}, {'domain': '.alleliebenpremiumwasser.de', 'expiry': 1645724705, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: shopify_pay_redirect
+[After] Cookie-Name 2: _gat
+[After] Cookie-Name 3: _gid
+[After] Cookie-Name 4: _ga
+[After] Cookie-Name 5: _landing_page
+[After] Cookie-Name 6: _shopify_sa_p
+[After] Cookie-Name 7: _y
+[After] Cookie-Name 8: cart_currency
+[After] Cookie-Name 9: _shopify_sa_t
+[After] Cookie-Name 10: _shopify_s
+[After] Cookie-Name 11: secure_customer_sig
+[After] Cookie-Name 12: _s
+[After] Cookie-Name 13: localization
+[After] Cookie-Name 14: _shopify_y
+[After] Cookie-Name 15: _orig_referrer
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

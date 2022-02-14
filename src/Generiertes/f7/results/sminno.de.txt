@@ -1,0 +1,115 @@
+Website 231: http://www.sminno.de/ | Created: 10.02.2022 18:29:02 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 37
+[Before] Website-Cookies: [{'domain': '.sminno.de', 'expiry': 1660066134, 'httpOnly': False, 'name': '__tawkuuid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e::sminno.de::Eysn8asjzvAEdRMbmbn5j7l2X1YtDDlSCQVirGzEaiA4u5OytD/9WyNzGIIgW2e0::2'}, {'domain': '.sminno.de', 'expiry': 1707586134, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.1.1704183933.1644514134'}, {'domain': '.sminno.de', 'expiry': 1644514193, 'httpOnly': False, 'name': '_gat_gtag_UA_133190064_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.sminno.de', 'expiry': 1644514193, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.sminno.de', 'expiry': 1644600533, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.606820051.1644514134'}, {'domain': 'www.sminno.de', 'httpOnly': False, 'name': 'bc_tgm_aw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.sminno.de', 'httpOnly': False, 'name': 'bc_tgm_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.sminno.de', 'expiry': 1676050132, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': 't8z6hj|1|eyv|0'}, {'domain': '.sminno.de', 'expiry': 1644515931, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': 'www.sminno.de', 'expiry': 1644514251, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.sminno.de', 'expiry': 1644515931, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.sminno.de', 'expiry': 1707586133, 'httpOnly': False, 'name': '_ama', 'path': '/', 'secure': False, 'value': '1704183933.1644514134'}, {'domain': 'www.sminno.de', 'httpOnly': False, 'name': 'epb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': 'www.sminno.de', 'expiry': 1644517731, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.sminno.de', 'expiry': 1678210130, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': 'e99020108a9611ecacf72bcb0bf9d70c'}, {'domain': '.sminno.de', 'expiry': 1707586134, 'httpOnly': False, 'name': '_ga_S8VXCC5E20', 'path': '/', 'secure': False, 'value': 'GS1.1.f6fc2eec-4afd-4596-b443-81c42f558d63.1.0.1644514134.0'}, {'domain': '.sminno.de', 'expiry': 1644515930, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.sminno.de', 'expiry': 1644515930, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A28%3A50.945Z'}, {'domain': '.sminno.de', 'expiry': 1676050131, 'httpOnly': False, 'name': '_hjSessionUser_2123639', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjgyYTRhMDcyLTU4MzctNWUxMS1iM2M1LWE4N2MzYjM1N2Y3ZCIsImNyZWF0ZWQiOjE2NDQ1MTQxMzEwNjQsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': 'www.sminno.de', 'expiry': 1676050133, 'httpOnly': False, 'name': 'po_visitor', 'path': '/', 'secure': False, 'value': 'KZJUkMPIi2Ly'}, {'domain': '.sminno.de', 'expiry': 1676050139, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2ae053a7-dd0d-4d61-adfc-2310072824b4'}, {'domain': '.sminno.de', 'expiry': 1645723730, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.sminno.de', 'expiry': 1676050139, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2ae053a7-dd0d-4d61-adfc-2310072824b4'}, {'domain': 'www.sminno.de', 'httpOnly': False, 'name': 'bc_tgm_ua', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.sminno.de', 'expiry': 1644514251, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.sminno.de', 'httpOnly': False, 'name': 'bc_tgm_gtm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.sminno.de', 'expiry': 1645723730, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.sminno.de', 'expiry': 1644600533, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': 'dco2s|1644514133024|1|1|j.clarity.ms/collect'}, {'domain': '.sminno.de', 'expiry': 1644515939, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0cc764f0-d80f-4063-b193-3908c70117d1'}, {'domain': 'www.sminno.de', 'expiry': 1645723734, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.sminno.de', 'expiry': 1644515931, 'httpOnly': False, 'name': '_hjSession_2123639', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImU0NjVkZGI4LTY0ZWQtNDkwZi05ODQ0LTg1ZmQ2MGRhY2U1NiIsImNyZWF0ZWQiOjE2NDQ1MTQxMzExMDIsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': '.sminno.de', 'expiry': 1644600530, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': 'e98fe6608a9611ec8571bfbebe4bd444'}, {'domain': 'www.sminno.de', 'httpOnly': False, 'name': 'TawkConnectionTime', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.sminno.de', 'expiry': 1652290133, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.389951326.1644514134'}, {'domain': '.sminno.de', 'expiry': 1644515939, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0cc764f0-d80f-4063-b193-3908c70117d1'}, {'domain': 'www.sminno.de', 'expiry': 1645723739, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.sminno.de', 'expiry': 1676050139, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: __tawkuuid
+[Before] Cookie-Name 2: _ga
+[Before] Cookie-Name 3: _gat_gtag_UA_133190064_1
+[Before] Cookie-Name 4: _gat
+[Before] Cookie-Name 5: _gid
+[Before] Cookie-Name 6: bc_tgm_aw
+[Before] Cookie-Name 7: bc_tgm_fbp
+[Before] Cookie-Name 8: _clck
+[Before] Cookie-Name 9: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 10: _hjIncludedInSessionSample
+[Before] Cookie-Name 11: _hjFirstSeen
+[Before] Cookie-Name 12: _ama
+[Before] Cookie-Name 13: epb_previous_pathname
+[Before] Cookie-Name 14: shopify_pay_redirect
+[Before] Cookie-Name 15: _uetvid
+[Before] Cookie-Name 16: _ga_S8VXCC5E20
+[Before] Cookie-Name 17: _shopify_sa_p
+[Before] Cookie-Name 18: _shopify_sa_t
+[Before] Cookie-Name 19: _hjSessionUser_2123639
+[Before] Cookie-Name 20: po_visitor
+[Before] Cookie-Name 21: _shopify_y
+[Before] Cookie-Name 22: _orig_referrer
+[Before] Cookie-Name 23: _y
+[Before] Cookie-Name 24: bc_tgm_ua
+[Before] Cookie-Name 25: _hjIncludedInPageviewSample
+[Before] Cookie-Name 26: bc_tgm_gtm
+[Before] Cookie-Name 27: _landing_page
+[Before] Cookie-Name 28: _clsk
+[Before] Cookie-Name 29: _shopify_s
+[Before] Cookie-Name 30: cart_currency
+[Before] Cookie-Name 31: _hjSession_2123639
+[Before] Cookie-Name 32: _uetsid
+[Before] Cookie-Name 33: TawkConnectionTime
+[Before] Cookie-Name 34: _gcl_au
+[Before] Cookie-Name 35: _s
+[Before] Cookie-Name 36: localization
+[Before] Cookie-Name 37: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 39
+[After] Website-Cookies: [{'domain': '.sminno.de', 'expiry': 1652290149, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644514148821.156324528'}, {'domain': '.sminno.de', 'expiry': 1660066134, 'httpOnly': False, 'name': '__tawkuuid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e::sminno.de::Eysn8asjzvAEdRMbmbn5j7l2X1YtDDlSCQVirGzEaiA4u5OytD/9WyNzGIIgW2e0::2'}, {'domain': '.sminno.de', 'expiry': 1707586134, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.1.1704183933.1644514134'}, {'domain': '.sminno.de', 'expiry': 1644514193, 'httpOnly': False, 'name': '_gat_gtag_UA_133190064_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.sminno.de', 'expiry': 1644514193, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.sminno.de', 'expiry': 1644600533, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.606820051.1644514134'}, {'domain': 'www.sminno.de', 'httpOnly': False, 'name': 'bc_tgm_aw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.sminno.de', 'httpOnly': False, 'name': 'bc_tgm_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.sminno.de', 'expiry': 1676050132, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': 't8z6hj|1|eyv|0'}, {'domain': '.sminno.de', 'expiry': 1644515931, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': 'www.sminno.de', 'expiry': 1644514251, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.sminno.de', 'expiry': 1644515931, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.sminno.de', 'expiry': 1707586133, 'httpOnly': False, 'name': '_ama', 'path': '/', 'secure': False, 'value': '1704183933.1644514134'}, {'domain': 'www.sminno.de', 'httpOnly': False, 'name': 'epb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': 'www.sminno.de', 'expiry': 1644517731, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.sminno.de', 'expiry': 1678210130, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': 'e99020108a9611ecacf72bcb0bf9d70c'}, {'domain': '.sminno.de', 'expiry': 1707586134, 'httpOnly': False, 'name': '_ga_S8VXCC5E20', 'path': '/', 'secure': False, 'value': 'GS1.1.f6fc2eec-4afd-4596-b443-81c42f558d63.1.0.1644514134.0'}, {'domain': '.sminno.de', 'expiry': 1644515930, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.sminno.de', 'expiry': 1644515930, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A28%3A50.945Z'}, {'domain': '.sminno.de', 'expiry': 1676050131, 'httpOnly': False, 'name': '_hjSessionUser_2123639', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjgyYTRhMDcyLTU4MzctNWUxMS1iM2M1LWE4N2MzYjM1N2Y3ZCIsImNyZWF0ZWQiOjE2NDQ1MTQxMzEwNjQsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': 'www.sminno.de', 'expiry': 1676050133, 'httpOnly': False, 'name': 'po_visitor', 'path': '/', 'secure': False, 'value': 'KZJUkMPIi2Ly'}, {'domain': '.sminno.de', 'expiry': 1676050139, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2ae053a7-dd0d-4d61-adfc-2310072824b4'}, {'domain': '.sminno.de', 'expiry': 1645723730, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.sminno.de', 'expiry': 1676050139, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2ae053a7-dd0d-4d61-adfc-2310072824b4'}, {'domain': 'www.sminno.de', 'expiry': 1647106148, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0NTE0MTQ4NTYxLCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjowfX0='}, {'domain': 'www.sminno.de', 'httpOnly': False, 'name': 'bc_tgm_ua', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.sminno.de', 'expiry': 1644514251, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.sminno.de', 'httpOnly': False, 'name': 'bc_tgm_gtm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.sminno.de', 'expiry': 1645723730, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.sminno.de', 'expiry': 1644600533, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': 'dco2s|1644514133024|1|1|j.clarity.ms/collect'}, {'domain': '.sminno.de', 'expiry': 1644515939, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0cc764f0-d80f-4063-b193-3908c70117d1'}, {'domain': 'www.sminno.de', 'expiry': 1645723734, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.sminno.de', 'expiry': 1644515931, 'httpOnly': False, 'name': '_hjSession_2123639', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImU0NjVkZGI4LTY0ZWQtNDkwZi05ODQ0LTg1ZmQ2MGRhY2U1NiIsImNyZWF0ZWQiOjE2NDQ1MTQxMzExMDIsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': '.sminno.de', 'expiry': 1644600530, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': 'e98fe6608a9611ec8571bfbebe4bd444'}, {'domain': 'www.sminno.de', 'httpOnly': False, 'name': 'TawkConnectionTime', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.sminno.de', 'expiry': 1652290133, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.389951326.1644514134'}, {'domain': '.sminno.de', 'expiry': 1644515939, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0cc764f0-d80f-4063-b193-3908c70117d1'}, {'domain': 'www.sminno.de', 'expiry': 1645723739, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.sminno.de', 'expiry': 1676050139, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _fbp
+[After] Cookie-Name 2: __tawkuuid
+[After] Cookie-Name 3: _ga
+[After] Cookie-Name 4: _gat_gtag_UA_133190064_1
+[After] Cookie-Name 5: _gat
+[After] Cookie-Name 6: _gid
+[After] Cookie-Name 7: bc_tgm_aw
+[After] Cookie-Name 8: bc_tgm_fbp
+[After] Cookie-Name 9: _clck
+[After] Cookie-Name 10: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 11: _hjIncludedInSessionSample
+[After] Cookie-Name 12: _hjFirstSeen
+[After] Cookie-Name 13: _ama
+[After] Cookie-Name 14: epb_previous_pathname
+[After] Cookie-Name 15: shopify_pay_redirect
+[After] Cookie-Name 16: _uetvid
+[After] Cookie-Name 17: _ga_S8VXCC5E20
+[After] Cookie-Name 18: _shopify_sa_p
+[After] Cookie-Name 19: _shopify_sa_t
+[After] Cookie-Name 20: _hjSessionUser_2123639
+[After] Cookie-Name 21: po_visitor
+[After] Cookie-Name 22: _shopify_y
+[After] Cookie-Name 23: _orig_referrer
+[After] Cookie-Name 24: _y
+[After] Cookie-Name 25: _bc_c_set
+[After] Cookie-Name 26: bc_tgm_ua
+[After] Cookie-Name 27: _hjIncludedInPageviewSample
+[After] Cookie-Name 28: bc_tgm_gtm
+[After] Cookie-Name 29: _landing_page
+[After] Cookie-Name 30: _clsk
+[After] Cookie-Name 31: _shopify_s
+[After] Cookie-Name 32: cart_currency
+[After] Cookie-Name 33: _hjSession_2123639
+[After] Cookie-Name 34: _uetsid
+[After] Cookie-Name 35: TawkConnectionTime
+[After] Cookie-Name 36: _gcl_au
+[After] Cookie-Name 37: _s
+[After] Cookie-Name 38: localization
+[After] Cookie-Name 39: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _clck (Microsoft Clarity (User experience tool))
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjIncludedInSessionSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjIncludedInPageviewSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _clsk (Microsoft Clarity (User experience tool))
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 2
+[Difference] Cookie-Name: 1: _bc_c_set
+[Difference] Cookie-Name: 2: _fbp
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

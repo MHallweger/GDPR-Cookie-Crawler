@@ -1,0 +1,79 @@
+Website 236: http://www.winewings.de/ | Created: 09.02.2022 14:52:47 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 12
+[Before] Website-Cookies: [{'domain': 'www.winewings.de', 'expiry': 1645624358, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': 'www.winewings.de', 'expiry': 1645624358, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '75e05e772c47fe96db5ef0beaaf529a5'}, {'domain': '.winewings.de', 'expiry': 1675950757, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': 'www.winewings.de', 'expiry': 1645624358, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644414758'}, {'domain': '.winewings.de', 'expiry': 1645624357, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.winewings.de', 'expiry': 1644416558, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.winewings.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.winewings.de', 'expiry': 1645624358, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e6e7137afd9116a7d4a1eba8ea8a127a'}, {'domain': '.winewings.de', 'expiry': 1675950757, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': '.winewings.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.winewings.de', 'expiry': 1645624358, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.winewings.de', 'expiry': 1675950758, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: cart_ver
+[Before] Cookie-Name 2: cart_sig
+[Before] Cookie-Name 3: _shopify_m
+[Before] Cookie-Name 4: cart_ts
+[Before] Cookie-Name 5: _shopify_tw
+[Before] Cookie-Name 6: _shopify_tm
+[Before] Cookie-Name 7: _orig_referrer
+[Before] Cookie-Name 8: cart
+[Before] Cookie-Name 9: _tracking_consent
+[Before] Cookie-Name 10: _landing_page
+[Before] Cookie-Name 11: cart_currency
+[Before] Cookie-Name 12: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 29
+[After] Website-Cookies: [{'domain': '.winewings.de', 'expiry': 1652190773, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1729735593.1644414773'}, {'domain': '.winewings.de', 'expiry': 1675950773, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': '.winewings.de', 'expiry': 1675950773, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%221%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': '.winewings.de', 'expiry': 1644416573, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A52%3A37.532Z'}, {'domain': 'www.winewings.de', 'expiry': 1647006772, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0NDE0NzcyODU5LCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjowfX0='}, {'domain': 'www.winewings.de', 'expiry': 1645624358, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': 'www.winewings.de', 'expiry': 1645624373, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.winewings.de', 'expiry': 1644416573, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c6b67577-9d09-450a-977f-c5556364c3c2'}, {'domain': 'www.winewings.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.winewings.de', 'expiry': 1645624372, 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A52%3A37.524Z'}, {'domain': 'www.winewings.de', 'expiry': 1644416572, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A52%3A37.532Z'}, {'domain': 'www.winewings.de', 'expiry': 1644416572, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '79351c62-9977-4072-8b1d-f2d614e8710c'}, {'domain': '.winewings.de', 'expiry': 1644416573, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c6b67577-9d09-450a-977f-c5556364c3c2'}, {'domain': 'www.winewings.de', 'expiry': 1644416572, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '79351c62-9977-4072-8b1d-f2d614e8710c'}, {'domain': 'www.winewings.de', 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'pending'}, {'domain': 'www.winewings.de', 'expiry': 1675950772, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b28ec01d-67f0-479a-a864-875edd1a4d03'}, {'domain': 'www.winewings.de', 'expiry': 1645624373, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '75e05e772c47fe96db5ef0beaaf529a5'}, {'domain': 'www.winewings.de', 'expiry': 1675950772, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b28ec01d-67f0-479a-a864-875edd1a4d03'}, {'domain': 'www.winewings.de', 'expiry': 1645624358, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644414758'}, {'domain': 'www.winewings.de', 'expiry': 1675950773, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.winewings.de', 'expiry': 1645624357, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.winewings.de', 'expiry': 1645624373, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.winewings.de', 'expiry': 1645624358, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e6e7137afd9116a7d4a1eba8ea8a127a'}, {'domain': '.winewings.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.winewings.de', 'expiry': 1645624373, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.winewings.de', 'expiry': 1675950773, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9a1be47c-cf65-4438-bb43-88adfbf4c3c5'}, {'domain': 'www.winewings.de', 'expiry': 1645624373, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.winewings.de', 'expiry': 1644416573, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.winewings.de', 'expiry': 1675950773, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9a1be47c-cf65-4438-bb43-88adfbf4c3c5'}]
+[After] Cookie-Name 1: _gcl_au
+[After] Cookie-Name 2: _shopify_m
+[After] Cookie-Name 3: _tracking_consent
+[After] Cookie-Name 4: _shopify_sa_t
+[After] Cookie-Name 5: _bc_c_set
+[After] Cookie-Name 6: cart_ver
+[After] Cookie-Name 7: localization
+[After] Cookie-Name 8: _shopify_s
+[After] Cookie-Name 9: _shopify_evids
+[After] Cookie-Name 10: _shopify_d
+[After] Cookie-Name 11: _shopify_sa_t
+[After] Cookie-Name 12: _shopify_s
+[After] Cookie-Name 13: _s
+[After] Cookie-Name 14: _s
+[After] Cookie-Name 15: shopify_pay_redirect
+[After] Cookie-Name 16: _y
+[After] Cookie-Name 17: cart_sig
+[After] Cookie-Name 18: _shopify_y
+[After] Cookie-Name 19: cart_ts
+[After] Cookie-Name 20: secure_customer_sig
+[After] Cookie-Name 21: _shopify_tw
+[After] Cookie-Name 22: _orig_referrer
+[After] Cookie-Name 23: cart
+[After] Cookie-Name 24: _shopify_evids
+[After] Cookie-Name 25: _landing_page
+[After] Cookie-Name 26: _shopify_y
+[After] Cookie-Name 27: cart_currency
+[After] Cookie-Name 28: _shopify_tm
+[After] Cookie-Name 29: _y
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 11
+[Difference] Cookie-Name: 1: _bc_c_set
+[Difference] Cookie-Name: 2: _y
+[Difference] Cookie-Name: 3: _shopify_d
+[Difference] Cookie-Name: 4: shopify_pay_redirect
+[Difference] Cookie-Name: 5: _shopify_s
+[Difference] Cookie-Name: 6: localization
+[Difference] Cookie-Name: 7: _shopify_sa_t
+[Difference] Cookie-Name: 8: _s
+[Difference] Cookie-Name: 9: _shopify_y
+[Difference] Cookie-Name: 10: _shopify_evids
+[Difference] Cookie-Name: 11: _gcl_au
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

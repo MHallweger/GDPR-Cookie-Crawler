@@ -1,0 +1,80 @@
+Website 369: http://www.mami-countdown-kalender.de/ | Created: 10.02.2022 19:09:27 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 24
+[Before] Website-Cookies: [{'domain': 'mami-countdown-kalender.de', 'httpOnly': True, 'name': 'wrapin_session', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'eyJpdiI6IlNsZmdvRUU4RTc5ZjZtM0huTUtQMVE9PSIsInZhbHVlIjoiK3VsWncrTmUvZkRhSHFqWFliUXZPdXI3VDZROFpGZjVuRG5DaHdERmcwWksyUkJud25wdTc5aUFjcVJHOU9MbDZoc0J5eEg0bWtjOFJKZXM0M3FxUFRuUzgyaHRONTZBcllpRGJkSjZEelcyK29ObDBqb1UwMEwrV1VMaFVWb2giLCJtYWMiOiJjNDk0M2M5NGUyZjM1NjljY2U0YTQzOGQ2MmMwZTZkOTc3MGZhNDMwMjRkZDlkMDI1Y2UwOTQ4NzI5MmUzOTAwIn0%3D'}, {'domain': 'mami-countdown-kalender.de', 'expiry': 1647108557, 'httpOnly': False, 'name': 'Fera.Api.ServerNum', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1'}, {'domain': '.mami-countdown-kalender.de', 'expiry': 1645726156, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.mami-countdown-kalender.de', 'expiry': 1644602956, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1777651036.1644516557'}, {'domain': 'mami-countdown-kalender.de', 'httpOnly': False, 'name': 'optiMonkSession', 'path': '/', 'secure': False, 'value': '1644516558'}, {'domain': 'mami-countdown-kalender.de', 'expiry': 1644523758, 'httpOnly': False, 'name': 'XSRF-TOKEN', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'eyJpdiI6IlBmYXRVTWdvNFdxVXUvS25ncWY2UUE9PSIsInZhbHVlIjoib09jR0lpeDlMb0NxRUZhOEpGVjJCVERwekE3bHhLVFQ2TVducTZpSHcwUjZVSWNIRTRCdGl4a1VPRENHWldWN2hxWEJjVEZUMHA5REJhZGRjT2lka3EzeDBQcjliS0JxbG1uN2Vvb2dGZ0ZQTXQvL0JKVSs4U1NlTUpwWFd1cnEiLCJtYWMiOiIwNzhhYWQxOWU2MTk5NTRkM2ZhNWI3NzM0MjdiYzdjOTk0NGZjYjliYzcwZmNiZjhlZTQyYzNhYTJhNDQ1MGEyIn0%3D'}, {'domain': '.mami-countdown-kalender.de', 'expiry': 1707588556, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.630343866.1644516557'}, {'domain': '.mami-countdown-kalender.de', 'expiry': 1644518356, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.mami-countdown-kalender.de', 'expiry': 1644518358, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0bcd59a0-cbac-43a6-838a-6a8f80ef454a'}, {'domain': 'mami-countdown-kalender.de', 'expiry': 1802196557, 'httpOnly': False, 'name': 'banana_stand_visitor_id', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '7fe2883a-26f8-4efd-9a00-5652027e3c6d'}, {'domain': 'mami-countdown-kalender.de', 'expiry': 1676052559, 'httpOnly': False, 'name': '_pandectes_gdpr', 'path': '/', 'secure': True, 'value': 'eyJjb3VudHJ5Ijp7ImNvZGUiOiJERSIsInN0YXRlIjoiTlciLCJkZXRlY3RlZCI6MTY0NDUxNjU1OX0sInN0YXR1cyI6IiIsInRpbWVzdGFtcCI6bnVsbCwicHJlZmVyZW5jZXMiOm51bGx9'}, {'domain': '.mami-countdown-kalender.de', 'expiry': 1676052558, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e1d5deae-8dc5-4e59-9a11-0e01689bbb43'}, {'domain': '.mami-countdown-kalender.de', 'expiry': 1644518356, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T18%3A09%3A16.820Z'}, {'domain': 'mami-countdown-kalender.de', 'expiry': 1676052558, 'httpOnly': False, 'name': 'optiMonkClientId', 'path': '/', 'secure': False, 'value': 'edb300f5-b9f6-5d5c-4ead-df649f9f7c60'}, {'domain': '.mami-countdown-kalender.de', 'expiry': 1676052558, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e1d5deae-8dc5-4e59-9a11-0e01689bbb43'}, {'domain': 'mami-countdown-kalender.de', 'expiry': 1676052558, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.mami-countdown-kalender.de', 'expiry': 1645726156, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.mami-countdown-kalender.de', 'expiry': 1652292557, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644516556739.1747603416'}, {'domain': 'mami-countdown-kalender.de', 'expiry': 1676052558, 'httpOnly': False, 'name': 'optiMonkClient', 'path': '/', 'secure': False, 'value': 'N4IgjAzBCsAssgFygMYEMmgpkaUBckAGAGlwAdziyUAnJEANiOgCYjYAOaRgI2l6sApkSJg80IRHggyAOwD2AE2ogAzgwCWczYQC+ZBMlwFVaSqroNm0GGi4B2CKwBmvJaPGsIDokoTyyqoaiCDauiAGTDh4hIikFFTxNPShNrCMPkIonGBKaC6eAJycsC4QLi6yIIoqyepaOvpkYGAxpvXmSQlWaX7w5RAorGho/p4oQ5yMKEXVtcGNEVFgrO1xCV2WqUz9TiiwRRC8YDOeQmhFV0qc80H1IWFNkVEuAG5Ip/DQp9DQnGQADYfRBfWA/Rh/AE1BTkEFgPR6IA=='}, {'domain': 'mami-countdown-kalender.de', 'expiry': 1645726158, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.mami-countdown-kalender.de', 'expiry': 1676052557, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU56Vm1OR1JqWWprdE1ESTBPQzAwTkRVekxUbGlaVEF0TVdZellUWm1ZelV6TXpGbQ'}, {'domain': '.mami-countdown-kalender.de', 'expiry': 1644518358, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0bcd59a0-cbac-43a6-838a-6a8f80ef454a'}, {'domain': '.mami-countdown-kalender.de', 'expiry': 1644516616, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'mami-countdown-kalender.de', 'expiry': 1645726158, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[Before] Cookie-Name 1: wrapin_session
+[Before] Cookie-Name 2: Fera.Api.ServerNum
+[Before] Cookie-Name 3: _orig_referrer
+[Before] Cookie-Name 4: _gid
+[Before] Cookie-Name 5: optiMonkSession
+[Before] Cookie-Name 6: XSRF-TOKEN
+[Before] Cookie-Name 7: _ga
+[Before] Cookie-Name 8: _shopify_sa_p
+[Before] Cookie-Name 9: _shopify_s
+[Before] Cookie-Name 10: banana_stand_visitor_id
+[Before] Cookie-Name 11: _pandectes_gdpr
+[Before] Cookie-Name 12: _shopify_y
+[Before] Cookie-Name 13: _shopify_sa_t
+[Before] Cookie-Name 14: optiMonkClientId
+[Before] Cookie-Name 15: _y
+[Before] Cookie-Name 16: secure_customer_sig
+[Before] Cookie-Name 17: _landing_page
+[Before] Cookie-Name 18: _fbp
+[Before] Cookie-Name 19: optiMonkClient
+[Before] Cookie-Name 20: cart_currency
+[Before] Cookie-Name 21: _pin_unauth
+[Before] Cookie-Name 22: _s
+[Before] Cookie-Name 23: _gat
+[Before] Cookie-Name 24: localization
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 24
+[After] Website-Cookies: [{'domain': 'mami-countdown-kalender.de', 'httpOnly': True, 'name': 'wrapin_session', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'eyJpdiI6IlNsZmdvRUU4RTc5ZjZtM0huTUtQMVE9PSIsInZhbHVlIjoiK3VsWncrTmUvZkRhSHFqWFliUXZPdXI3VDZROFpGZjVuRG5DaHdERmcwWksyUkJud25wdTc5aUFjcVJHOU9MbDZoc0J5eEg0bWtjOFJKZXM0M3FxUFRuUzgyaHRONTZBcllpRGJkSjZEelcyK29ObDBqb1UwMEwrV1VMaFVWb2giLCJtYWMiOiJjNDk0M2M5NGUyZjM1NjljY2U0YTQzOGQ2MmMwZTZkOTc3MGZhNDMwMjRkZDlkMDI1Y2UwOTQ4NzI5MmUzOTAwIn0%3D'}, {'domain': 'mami-countdown-kalender.de', 'expiry': 1647108557, 'httpOnly': False, 'name': 'Fera.Api.ServerNum', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1'}, {'domain': '.mami-countdown-kalender.de', 'expiry': 1645726156, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.mami-countdown-kalender.de', 'expiry': 1644602956, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1777651036.1644516557'}, {'domain': 'mami-countdown-kalender.de', 'httpOnly': False, 'name': 'optiMonkSession', 'path': '/', 'secure': False, 'value': '1644516558'}, {'domain': 'mami-countdown-kalender.de', 'expiry': 1644523758, 'httpOnly': False, 'name': 'XSRF-TOKEN', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'eyJpdiI6IlBmYXRVTWdvNFdxVXUvS25ncWY2UUE9PSIsInZhbHVlIjoib09jR0lpeDlMb0NxRUZhOEpGVjJCVERwekE3bHhLVFQ2TVducTZpSHcwUjZVSWNIRTRCdGl4a1VPRENHWldWN2hxWEJjVEZUMHA5REJhZGRjT2lka3EzeDBQcjliS0JxbG1uN2Vvb2dGZ0ZQTXQvL0JKVSs4U1NlTUpwWFd1cnEiLCJtYWMiOiIwNzhhYWQxOWU2MTk5NTRkM2ZhNWI3NzM0MjdiYzdjOTk0NGZjYjliYzcwZmNiZjhlZTQyYzNhYTJhNDQ1MGEyIn0%3D'}, {'domain': '.mami-countdown-kalender.de', 'expiry': 1707588556, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.630343866.1644516557'}, {'domain': '.mami-countdown-kalender.de', 'expiry': 1644518356, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.mami-countdown-kalender.de', 'expiry': 1644518358, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0bcd59a0-cbac-43a6-838a-6a8f80ef454a'}, {'domain': 'mami-countdown-kalender.de', 'expiry': 1802196557, 'httpOnly': False, 'name': 'banana_stand_visitor_id', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '7fe2883a-26f8-4efd-9a00-5652027e3c6d'}, {'domain': 'mami-countdown-kalender.de', 'expiry': 1676052573, 'httpOnly': False, 'name': '_pandectes_gdpr', 'path': '/', 'secure': True, 'value': 'eyJjb3VudHJ5Ijp7ImNvZGUiOiJERSIsInN0YXRlIjoiTlciLCJkZXRlY3RlZCI6MTY0NDUxNjU1OX0sInN0YXR1cyI6ImFsbG93IiwidGltZXN0YW1wIjoxNjQ0NTE2NTczLCJwcmVmZXJlbmNlcyI6MH0='}, {'domain': '.mami-countdown-kalender.de', 'expiry': 1676052558, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e1d5deae-8dc5-4e59-9a11-0e01689bbb43'}, {'domain': '.mami-countdown-kalender.de', 'expiry': 1644518356, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T18%3A09%3A16.820Z'}, {'domain': 'mami-countdown-kalender.de', 'expiry': 1676052558, 'httpOnly': False, 'name': 'optiMonkClientId', 'path': '/', 'secure': False, 'value': 'edb300f5-b9f6-5d5c-4ead-df649f9f7c60'}, {'domain': '.mami-countdown-kalender.de', 'expiry': 1676052558, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e1d5deae-8dc5-4e59-9a11-0e01689bbb43'}, {'domain': 'mami-countdown-kalender.de', 'expiry': 1676052558, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.mami-countdown-kalender.de', 'expiry': 1645726156, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.mami-countdown-kalender.de', 'expiry': 1652292573, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644516556739.1747603416'}, {'domain': 'mami-countdown-kalender.de', 'expiry': 1676052558, 'httpOnly': False, 'name': 'optiMonkClient', 'path': '/', 'secure': False, 'value': 'N4IgjAzBCsAssgFygMYEMmgpkaUBckAGAGlwAdziyUAnJEANiOgCYjYAOaRgI2l6sApkSJg80IRHggyAOwD2AE2ogAzgwCWczYQC+ZBMlwFVaSqroNm0GGi4B2CKwBmvJaPGsIDokoTyyqoaiCDauiAGTDh4hIikFFTxNPShNrCMPkIonGBKaC6eAJycsC4QLi6yIIoqyepaOvpkYGAxpvXmSQlWaX7w5RAorGho/p4oQ5yMKEXVtcGNEVFgrO1xCV2WqUz9TiiwRRC8YDOeQmhFV0qc80H1IWFNkVEuAG5Ip/DQp9DQnGQADYfRBfWA/Rh/AE1BTkEFgPR6IA=='}, {'domain': 'mami-countdown-kalender.de', 'expiry': 1645726158, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.mami-countdown-kalender.de', 'expiry': 1676052557, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU56Vm1OR1JqWWprdE1ESTBPQzAwTkRVekxUbGlaVEF0TVdZellUWm1ZelV6TXpGbQ'}, {'domain': '.mami-countdown-kalender.de', 'expiry': 1644518358, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0bcd59a0-cbac-43a6-838a-6a8f80ef454a'}, {'domain': '.mami-countdown-kalender.de', 'expiry': 1644516616, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'mami-countdown-kalender.de', 'expiry': 1645726158, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[After] Cookie-Name 1: wrapin_session
+[After] Cookie-Name 2: Fera.Api.ServerNum
+[After] Cookie-Name 3: _orig_referrer
+[After] Cookie-Name 4: _gid
+[After] Cookie-Name 5: optiMonkSession
+[After] Cookie-Name 6: XSRF-TOKEN
+[After] Cookie-Name 7: _ga
+[After] Cookie-Name 8: _shopify_sa_p
+[After] Cookie-Name 9: _shopify_s
+[After] Cookie-Name 10: banana_stand_visitor_id
+[After] Cookie-Name 11: _pandectes_gdpr
+[After] Cookie-Name 12: _shopify_y
+[After] Cookie-Name 13: _shopify_sa_t
+[After] Cookie-Name 14: optiMonkClientId
+[After] Cookie-Name 15: _y
+[After] Cookie-Name 16: secure_customer_sig
+[After] Cookie-Name 17: _landing_page
+[After] Cookie-Name 18: _fbp
+[After] Cookie-Name 19: optiMonkClient
+[After] Cookie-Name 20: cart_currency
+[After] Cookie-Name 21: _pin_unauth
+[After] Cookie-Name 22: _s
+[After] Cookie-Name 23: _gat
+[After] Cookie-Name 24: localization
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _gat (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

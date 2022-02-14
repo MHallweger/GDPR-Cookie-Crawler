@@ -1,0 +1,82 @@
+Website 301: http://www.anthonicrown.de/ | Created: 09.02.2022 15:12:23 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 19
+[Before] Website-Cookies: [{'domain': '.anthonicrown.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T14%3A12%3A15.491Z'}, {'domain': '.anthonicrown.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.anthonicrown.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T14%3A12%3A15.484Z'}, {'domain': '.anthonicrown.de', 'expiry': 1644415995, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.anthonicrown.de', 'expiry': 1675951935, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%7D'}, {'domain': 'www.anthonicrown.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.anthonicrown.de', 'expiry': 1644417735, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.anthonicrown.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.anthonicrown.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6b4bdc64-cf10-4ca9-ac22-58226fcd6e6d'}, {'domain': '.anthonicrown.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.anthonicrown.de', 'expiry': 1675951935, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.anthonicrown.de', 'expiry': 1645625535, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.anthonicrown.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fe84976c-bdb1-490e-9036-94f5a71785c7'}, {'domain': '.anthonicrown.de', 'expiry': 1644502335, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.835759105.1644415935'}, {'domain': '.anthonicrown.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6b4bdc64-cf10-4ca9-ac22-58226fcd6e6d'}, {'domain': '.anthonicrown.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.anthonicrown.de', 'expiry': 1707487935, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.975676725.1644415935'}, {'domain': '.anthonicrown.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fe84976c-bdb1-490e-9036-94f5a71785c7'}, {'domain': 'www.anthonicrown.de', 'expiry': 1675951935, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _shopify_sa_t
+[Before] Cookie-Name 2: _shopify_evids
+[Before] Cookie-Name 3: _shopify_d
+[Before] Cookie-Name 4: _gat
+[Before] Cookie-Name 5: _tracking_consent
+[Before] Cookie-Name 6: _shopify_evids
+[Before] Cookie-Name 7: _shopify_tm
+[Before] Cookie-Name 8: _landing_page
+[Before] Cookie-Name 9: _s
+[Before] Cookie-Name 10: _shopify_sa_p
+[Before] Cookie-Name 11: _shopify_m
+[Before] Cookie-Name 12: _shopify_tw
+[Before] Cookie-Name 13: _y
+[Before] Cookie-Name 14: _gid
+[Before] Cookie-Name 15: _shopify_s
+[Before] Cookie-Name 16: _orig_referrer
+[Before] Cookie-Name 17: _ga
+[Before] Cookie-Name 18: _shopify_y
+[Before] Cookie-Name 19: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 26
+[After] Website-Cookies: [{'domain': '.anthonicrown.de', 'expiry': 1675951949, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%221%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%7D'}, {'domain': 'www.anthonicrown.de', 'expiry': 1645625549, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': 'www.anthonicrown.de', 'expiry': 1645625549, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.anthonicrown.de', 'expiry': 1675951949, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': 'www.anthonicrown.de', 'expiry': 1645625549, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9ac10789064d9a0bd04a80b4c96acddb'}, {'domain': 'www.anthonicrown.de', 'expiry': 1675951949, 'httpOnly': False, 'name': 'eg_cookieconsent_status', 'path': '/', 'secure': False, 'value': 'dismiss'}, {'domain': 'www.anthonicrown.de', 'expiry': 1645625549, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644415949'}, {'domain': '.anthonicrown.de', 'expiry': 1644417749, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.anthonicrown.de', 'expiry': 1675951949, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.anthonicrown.de', 'expiry': 1644417749, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T14%3A12%3A15.491Z'}, {'domain': '.anthonicrown.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.anthonicrown.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T14%3A12%3A15.484Z'}, {'domain': '.anthonicrown.de', 'expiry': 1644415995, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.anthonicrown.de', 'expiry': 1645625549, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.anthonicrown.de', 'expiry': 1675951949, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fe84976c-bdb1-490e-9036-94f5a71785c7'}, {'domain': '.anthonicrown.de', 'expiry': 1707487935, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.975676725.1644415935'}, {'domain': '.anthonicrown.de', 'expiry': 1645625549, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.anthonicrown.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.anthonicrown.de', 'expiry': 1644417749, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.anthonicrown.de', 'expiry': 1644417749, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6b4bdc64-cf10-4ca9-ac22-58226fcd6e6d'}, {'domain': '.anthonicrown.de', 'expiry': 1645625535, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.anthonicrown.de', 'expiry': 1675951949, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fe84976c-bdb1-490e-9036-94f5a71785c7'}, {'domain': '.anthonicrown.de', 'expiry': 1644502335, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.835759105.1644415935'}, {'domain': '.anthonicrown.de', 'expiry': 1644417749, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6b4bdc64-cf10-4ca9-ac22-58226fcd6e6d'}, {'domain': 'www.anthonicrown.de', 'expiry': 1645625549, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd2e73e284bc3aa7f153f2799af45da3d'}, {'domain': 'www.anthonicrown.de', 'expiry': 1645625549, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}]
+[After] Cookie-Name 1: _tracking_consent
+[After] Cookie-Name 2: cart_ver
+[After] Cookie-Name 3: localization
+[After] Cookie-Name 4: _shopify_m
+[After] Cookie-Name 5: cart
+[After] Cookie-Name 6: eg_cookieconsent_status
+[After] Cookie-Name 7: cart_ts
+[After] Cookie-Name 8: _shopify_sa_p
+[After] Cookie-Name 9: secure_customer_sig
+[After] Cookie-Name 10: _shopify_sa_t
+[After] Cookie-Name 11: _shopify_evids
+[After] Cookie-Name 12: _shopify_d
+[After] Cookie-Name 13: _gat
+[After] Cookie-Name 14: _orig_referrer
+[After] Cookie-Name 15: _shopify_y
+[After] Cookie-Name 16: _ga
+[After] Cookie-Name 17: _landing_page
+[After] Cookie-Name 18: _shopify_evids
+[After] Cookie-Name 19: _shopify_tm
+[After] Cookie-Name 20: _s
+[After] Cookie-Name 21: _shopify_tw
+[After] Cookie-Name 22: _y
+[After] Cookie-Name 23: _gid
+[After] Cookie-Name 24: _shopify_s
+[After] Cookie-Name 25: cart_sig
+[After] Cookie-Name 26: cart_currency
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 7
+[Difference] Cookie-Name: 1: cart_currency
+[Difference] Cookie-Name: 2: cart_ver
+[Difference] Cookie-Name: 3: localization
+[Difference] Cookie-Name: 4: cart_sig
+[Difference] Cookie-Name: 5: cart
+[Difference] Cookie-Name: 6: eg_cookieconsent_status
+[Difference] Cookie-Name: 7: cart_ts
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

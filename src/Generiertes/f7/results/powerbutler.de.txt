@@ -1,0 +1,71 @@
+Website 37: http://www.powerbutler.de/ | Created: 10.02.2022 17:29:50 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 8
+[Before] Website-Cookies: [{'domain': 'powerbutler.de', 'expiry': 1645720182, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5821db815b1d234518c2083d929ca8b0'}, {'domain': 'powerbutler.de', 'expiry': 1645720182, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': 'powerbutler.de', 'expiry': 1645720182, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd657614cd5e97f303a90963041bf3b66'}, {'domain': '.powerbutler.de', 'expiry': 1645720180, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.powerbutler.de', 'expiry': 1645720180, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'powerbutler.de', 'expiry': 1676046583, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'powerbutler.de', 'expiry': 1645720182, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644510581'}, {'domain': 'powerbutler.de', 'expiry': 1645720183, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}]
+[Before] Cookie-Name 1: cart_sig
+[Before] Cookie-Name 2: cart_ver
+[Before] Cookie-Name 3: cart
+[Before] Cookie-Name 4: _landing_page
+[Before] Cookie-Name 5: _orig_referrer
+[Before] Cookie-Name 6: secure_customer_sig
+[Before] Cookie-Name 7: cart_ts
+[Before] Cookie-Name 8: cart_currency
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 22
+[After] Website-Cookies: [{'domain': 'powerbutler.de', 'expiry': 1647102595, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0NTEwNTk1ODQ4LCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjoxfX0='}, {'domain': 'powerbutler.de', 'httpOnly': False, 'name': 'poptin_old_user', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'true'}, {'domain': 'powerbutler.de', 'httpOnly': False, 'name': 'poptin_user_id', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0.3b2dhagc44q'}, {'domain': 'powerbutler.de', 'httpOnly': False, 'name': 'poptin_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'https://powerbutler.de/'}, {'domain': 'powerbutler.de', 'httpOnly': False, 'name': 'ly-lang-detected', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'de'}, {'domain': 'powerbutler.de', 'expiry': 1707582595, 'httpOnly': False, 'name': '_ga', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'GA1.2.1468337026.1644510581'}, {'domain': 'powerbutler.de', 'expiry': 1644596995, 'httpOnly': False, 'name': '_gat', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'powerbutler.de', 'expiry': 1644512395, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T16%3A29%3A41.283Z'}, {'domain': 'powerbutler.de', 'expiry': 1644512395, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '65586d5f-9156-4a55-8d46-215e9b0a2cac'}, {'domain': 'powerbutler.de', 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'powerbutler.de', 'expiry': 1676046595, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '60790379-f999-436b-80a8-470a55ccc299'}, {'domain': 'powerbutler.de', 'expiry': 1645720182, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5821db815b1d234518c2083d929ca8b0'}, {'domain': 'powerbutler.de', 'expiry': 1676046583, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'powerbutler.de', 'expiry': 1645720182, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': 'powerbutler.de', 'expiry': 1644596995, 'httpOnly': False, 'name': '_gid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'GA1.2.1874798110.1644510581'}, {'domain': 'powerbutler.de', 'expiry': 1645720182, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd657614cd5e97f303a90963041bf3b66'}, {'domain': 'powerbutler.de', 'expiry': 1676046595, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '60790379-f999-436b-80a8-470a55ccc299'}, {'domain': 'powerbutler.de', 'expiry': 1644512395, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '65586d5f-9156-4a55-8d46-215e9b0a2cac'}, {'domain': '.powerbutler.de', 'expiry': 1645720180, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.powerbutler.de', 'expiry': 1645720180, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'powerbutler.de', 'expiry': 1645720182, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644510581'}, {'domain': 'powerbutler.de', 'expiry': 1645720183, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}]
+[After] Cookie-Name 1: _bc_c_set
+[After] Cookie-Name 2: poptin_old_user
+[After] Cookie-Name 3: poptin_user_id
+[After] Cookie-Name 4: poptin_referrer
+[After] Cookie-Name 5: ly-lang-detected
+[After] Cookie-Name 6: _ga
+[After] Cookie-Name 7: _gat
+[After] Cookie-Name 8: _shopify_sa_t
+[After] Cookie-Name 9: _shopify_s
+[After] Cookie-Name 10: localization
+[After] Cookie-Name 11: _y
+[After] Cookie-Name 12: cart_sig
+[After] Cookie-Name 13: secure_customer_sig
+[After] Cookie-Name 14: cart_ver
+[After] Cookie-Name 15: _gid
+[After] Cookie-Name 16: cart
+[After] Cookie-Name 17: _shopify_y
+[After] Cookie-Name 18: _s
+[After] Cookie-Name 19: _landing_page
+[After] Cookie-Name 20: _orig_referrer
+[After] Cookie-Name 21: cart_ts
+[After] Cookie-Name 22: cart_currency
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 14
+[Difference] Cookie-Name: 1: _ga
+[Difference] Cookie-Name: 2: poptin_old_user
+[Difference] Cookie-Name: 3: _bc_c_set
+[Difference] Cookie-Name: 4: ly-lang-detected
+[Difference] Cookie-Name: 5: poptin_user_id
+[Difference] Cookie-Name: 6: _shopify_s
+[Difference] Cookie-Name: 7: _shopify_sa_t
+[Difference] Cookie-Name: 8: _s
+[Difference] Cookie-Name: 9: _y
+[Difference] Cookie-Name: 10: poptin_referrer
+[Difference] Cookie-Name: 11: _shopify_y
+[Difference] Cookie-Name: 12: _gat
+[Difference] Cookie-Name: 13: _gid
+[Difference] Cookie-Name: 14: localization
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

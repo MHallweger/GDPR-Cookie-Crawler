@@ -1,0 +1,70 @@
+Website 249: http://www.vierbeiner-gravur.de/ | Created: 09.02.2022 14:56:39 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 18
+[Before] Website-Cookies: [{'domain': 'vierbeiner-gravur.de', 'expiry': 1647006991, 'httpOnly': False, 'name': 'Fera.Api.ServerNum', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '2'}, {'domain': 'vierbeiner-gravur.de', 'expiry': 1707486990, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MTQ5OTAsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vdmllcmJlaW5lci1ncmF2dXIuZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NDE0OTkwLCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL3ZpZXJiZWluZXItZ3JhdnVyLmRlLyJ9fQ=='}, {'domain': '.vierbeiner-gravur.de', 'expiry': 1652190990, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644414990088.1458137092'}, {'domain': '.vierbeiner-gravur.de', 'expiry': 1644501389, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.918791414.1644414990'}, {'domain': 'vierbeiner-gravur.de', 'expiry': 1802094991, 'httpOnly': False, 'name': 'banana_stand_visitor_id', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '943dbaa4-2bb5-4cf9-ac60-6b159b7cda33'}, {'domain': '.vierbeiner-gravur.de', 'expiry': 1644416794, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '545345d9-d627-44f9-aef4-111b13a8dea0'}, {'domain': '.vierbeiner-gravur.de', 'expiry': 1644416794, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '545345d9-d627-44f9-aef4-111b13a8dea0'}, {'domain': '.vierbeiner-gravur.de', 'expiry': 1644416789, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.vierbeiner-gravur.de', 'expiry': 1644416789, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A56%3A29.878Z'}, {'domain': '.vierbeiner-gravur.de', 'expiry': 1675950994, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '66bf92d7-334c-484b-9576-0248f7f6fe88'}, {'domain': 'vierbeiner-gravur.de', 'expiry': 1645624590, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.vierbeiner-gravur.de', 'expiry': 1644415049, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.vierbeiner-gravur.de', 'expiry': 1645624589, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.vierbeiner-gravur.de', 'expiry': 1675950994, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '66bf92d7-334c-484b-9576-0248f7f6fe88'}, {'domain': 'vierbeiner-gravur.de', 'expiry': 1645624590, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.vierbeiner-gravur.de', 'expiry': 1645624589, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.vierbeiner-gravur.de', 'expiry': 1707486989, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.68358198.1644414990'}, {'domain': 'vierbeiner-gravur.de', 'expiry': 1675950994, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: Fera.Api.ServerNum
+[Before] Cookie-Name 2: __kla_id
+[Before] Cookie-Name 3: _fbp
+[Before] Cookie-Name 4: _gid
+[Before] Cookie-Name 5: banana_stand_visitor_id
+[Before] Cookie-Name 6: _s
+[Before] Cookie-Name 7: _shopify_s
+[Before] Cookie-Name 8: _shopify_sa_p
+[Before] Cookie-Name 9: _shopify_sa_t
+[Before] Cookie-Name 10: _shopify_y
+[Before] Cookie-Name 11: localization
+[Before] Cookie-Name 12: _gat
+[Before] Cookie-Name 13: _landing_page
+[Before] Cookie-Name 14: _y
+[Before] Cookie-Name 15: cart_sig
+[Before] Cookie-Name 16: _orig_referrer
+[Before] Cookie-Name 17: _ga
+[Before] Cookie-Name 18: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 18
+[After] Website-Cookies: [{'domain': 'vierbeiner-gravur.de', 'expiry': 1647006991, 'httpOnly': False, 'name': 'Fera.Api.ServerNum', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '2'}, {'domain': 'vierbeiner-gravur.de', 'expiry': 1707486990, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MTQ5OTAsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vdmllcmJlaW5lci1ncmF2dXIuZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NDE0OTkwLCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL3ZpZXJiZWluZXItZ3JhdnVyLmRlLyJ9fQ=='}, {'domain': '.vierbeiner-gravur.de', 'expiry': 1652190990, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644414990088.1458137092'}, {'domain': '.vierbeiner-gravur.de', 'expiry': 1644501389, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.918791414.1644414990'}, {'domain': 'vierbeiner-gravur.de', 'expiry': 1802094991, 'httpOnly': False, 'name': 'banana_stand_visitor_id', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '943dbaa4-2bb5-4cf9-ac60-6b159b7cda33'}, {'domain': '.vierbeiner-gravur.de', 'expiry': 1644416794, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '545345d9-d627-44f9-aef4-111b13a8dea0'}, {'domain': '.vierbeiner-gravur.de', 'expiry': 1644416794, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '545345d9-d627-44f9-aef4-111b13a8dea0'}, {'domain': '.vierbeiner-gravur.de', 'expiry': 1644416789, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.vierbeiner-gravur.de', 'expiry': 1644416789, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A56%3A29.878Z'}, {'domain': '.vierbeiner-gravur.de', 'expiry': 1675950994, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '66bf92d7-334c-484b-9576-0248f7f6fe88'}, {'domain': 'vierbeiner-gravur.de', 'expiry': 1645624590, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.vierbeiner-gravur.de', 'expiry': 1644415049, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.vierbeiner-gravur.de', 'expiry': 1645624589, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.vierbeiner-gravur.de', 'expiry': 1675950994, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '66bf92d7-334c-484b-9576-0248f7f6fe88'}, {'domain': 'vierbeiner-gravur.de', 'expiry': 1645624590, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.vierbeiner-gravur.de', 'expiry': 1645624589, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.vierbeiner-gravur.de', 'expiry': 1707486989, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.68358198.1644414990'}, {'domain': 'vierbeiner-gravur.de', 'expiry': 1675950994, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: Fera.Api.ServerNum
+[After] Cookie-Name 2: __kla_id
+[After] Cookie-Name 3: _fbp
+[After] Cookie-Name 4: _gid
+[After] Cookie-Name 5: banana_stand_visitor_id
+[After] Cookie-Name 6: _s
+[After] Cookie-Name 7: _shopify_s
+[After] Cookie-Name 8: _shopify_sa_p
+[After] Cookie-Name 9: _shopify_sa_t
+[After] Cookie-Name 10: _shopify_y
+[After] Cookie-Name 11: localization
+[After] Cookie-Name 12: _gat
+[After] Cookie-Name 13: _landing_page
+[After] Cookie-Name 14: _y
+[After] Cookie-Name 15: cart_sig
+[After] Cookie-Name 16: _orig_referrer
+[After] Cookie-Name 17: _ga
+[After] Cookie-Name 18: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

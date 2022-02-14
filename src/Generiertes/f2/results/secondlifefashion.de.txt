@@ -1,0 +1,101 @@
+Website 32: http://www.secondlifefashion.de/ | Created: 09.02.2022 10:55:30 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 8
+[Before] Website-Cookies: [{'domain': '.secondlifefashion.de', 'expiry': 1675936519, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%7D'}, {'domain': '.secondlifefashion.de', 'expiry': 1675936519, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.secondlifefashion.de', 'expiry': 1645610119, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.secondlifefashion.de', 'expiry': 1644402321, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.secondlifefashion.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.secondlifefashion.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'secondlifefashion.de', 'expiry': 1645610121, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'secondlifefashion.de', 'expiry': 1675936521, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _tracking_consent
+[Before] Cookie-Name 2: _shopify_m
+[Before] Cookie-Name 3: _shopify_tw
+[Before] Cookie-Name 4: _shopify_tm
+[Before] Cookie-Name 5: _orig_referrer
+[Before] Cookie-Name 6: _landing_page
+[Before] Cookie-Name 7: cart_currency
+[Before] Cookie-Name 8: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 40
+[After] Website-Cookies: [{'domain': '.secondlifefashion.de', 'expiry': 1675936536, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': '.secondlifefashion.de', 'expiry': 1644400596, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'secondlifefashion.de', 'expiry': 1645610136, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0d1b24ee7953c0aa70a06cdeca43fbca'}, {'domain': '.secondlifefashion.de', 'expiry': 1675936536, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd8cb1be7-3e97-4c11-bbeb-fae66e0d3d2e'}, {'domain': '.secondlifefashion.de', 'expiry': 1675936536, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd8cb1be7-3e97-4c11-bbeb-fae66e0d3d2e'}, {'domain': '.secondlifefashion.de', 'expiry': 1644402336, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T09%3A55%3A20.081Z'}, {'domain': '.secondlifefashion.de', 'expiry': 1644486936, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1291301374.1644400536'}, {'domain': 'secondlifefashion.de', 'expiry': 1645610136, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': 'secondlifefashion.de', 'expiry': 1646992535, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0NDAwNTM1NTgzLCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjoxfX0='}, {'domain': '.secondlifefashion.de', 'expiry': 1652176536, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644400536469.447789866'}, {'domain': 'secondlifefashion.de', 'httpOnly': False, 'name': 'rp_customer_id', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'secondlifefashion.de', 'httpOnly': False, 'name': 'locale_bar_accepted', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.secondlifefashion.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.secondlifefashion.de', 'expiry': 1644402336, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ee2d541e-6203-48e3-9e24-de3f36842c70'}, {'domain': 'secondlifefashion.de', 'httpOnly': False, 'name': 'rp_firstName', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'secondlifefashion.de', 'expiry': 1675936536, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'secondlifefashion.de', 'expiry': 1645610136, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'secondlifefashion.de', 'httpOnly': False, 'name': 'rptkn', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'secondlifefashion2331'}, {'domain': 'secondlifefashion.de', 'httpOnly': False, 'name': 'rpsid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7e1a8d10-48a4-4121-baca-3c14ad2d6874'}, {'domain': '.secondlifefashion.de', 'expiry': 1644402336, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ee2d541e-6203-48e3-9e24-de3f36842c70'}, {'domain': 'secondlifefashion.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.secondlifefashion.de', 'expiry': 1675936536, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22con%22%3A%7B%22GDPR%22%3A%221%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%7D'}, {'domain': 'secondlifefashion.de', 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'pending'}, {'domain': 'secondlifefashion.de', 'httpOnly': False, 'name': 'rp_lastName', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'secondlifefashion.de', 'httpOnly': False, 'name': 'rpdid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4a665d26-8a47-4208-a294-79f720183305'}, {'domain': 'secondlifefashion.de', 'expiry': 1645610135, 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T09%3A55%3A20.057Z'}, {'domain': 'secondlifefashion.de', 'expiry': 1675936535, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd8cb1be7-3e97-4c11-bbeb-fae66e0d3d2e'}, {'domain': 'secondlifefashion.de', 'expiry': 1645610136, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '11fe454890c9c6c61832bb353240bd30'}, {'domain': 'secondlifefashion.de', 'expiry': 1645610136, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644400535'}, {'domain': 'secondlifefashion.de', 'expiry': 1644402335, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ee2d541e-6203-48e3-9e24-de3f36842c70'}, {'domain': 'secondlifefashion.de', 'expiry': 1644402335, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ee2d541e-6203-48e3-9e24-de3f36842c70'}, {'domain': 'secondlifefashion.de', 'expiry': 1675936535, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd8cb1be7-3e97-4c11-bbeb-fae66e0d3d2e'}, {'domain': '.secondlifefashion.de', 'expiry': 1707472536, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1170032691.1644400536'}, {'domain': '.secondlifefashion.de', 'expiry': 1645610119, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.secondlifefashion.de', 'expiry': 1644402336, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'secondlifefashion.de', 'expiry': 1644402335, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T09%3A55%3A20.081Z'}, {'domain': 'secondlifefashion.de', 'httpOnly': False, 'name': 'rp_email', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.secondlifefashion.de', 'expiry': 1645610136, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.secondlifefashion.de', 'expiry': 1645610136, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'secondlifefashion.de', 'expiry': 1645610136, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}]
+[After] Cookie-Name 1: _shopify_m
+[After] Cookie-Name 2: _gat
+[After] Cookie-Name 3: cart
+[After] Cookie-Name 4: _shopify_y
+[After] Cookie-Name 5: _y
+[After] Cookie-Name 6: _shopify_sa_t
+[After] Cookie-Name 7: _gid
+[After] Cookie-Name 8: cart_ver
+[After] Cookie-Name 9: _bc_c_set
+[After] Cookie-Name 10: _fbp
+[After] Cookie-Name 11: rp_customer_id
+[After] Cookie-Name 12: locale_bar_accepted
+[After] Cookie-Name 13: _shopify_evids
+[After] Cookie-Name 14: _s
+[After] Cookie-Name 15: rp_firstName
+[After] Cookie-Name 16: secure_customer_sig
+[After] Cookie-Name 17: localization
+[After] Cookie-Name 18: rptkn
+[After] Cookie-Name 19: rpsid
+[After] Cookie-Name 20: _shopify_s
+[After] Cookie-Name 21: _shopify_evids
+[After] Cookie-Name 22: _tracking_consent
+[After] Cookie-Name 23: shopify_pay_redirect
+[After] Cookie-Name 24: rp_lastName
+[After] Cookie-Name 25: rpdid
+[After] Cookie-Name 26: _shopify_d
+[After] Cookie-Name 27: _y
+[After] Cookie-Name 28: cart_sig
+[After] Cookie-Name 29: cart_ts
+[After] Cookie-Name 30: _shopify_s
+[After] Cookie-Name 31: _s
+[After] Cookie-Name 32: _shopify_y
+[After] Cookie-Name 33: _ga
+[After] Cookie-Name 34: _shopify_tw
+[After] Cookie-Name 35: _shopify_tm
+[After] Cookie-Name 36: _shopify_sa_t
+[After] Cookie-Name 37: rp_email
+[After] Cookie-Name 38: _orig_referrer
+[After] Cookie-Name 39: _landing_page
+[After] Cookie-Name 40: cart_currency
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 26
+[Difference] Cookie-Name: 1: rp_customer_id
+[Difference] Cookie-Name: 2: localization
+[Difference] Cookie-Name: 3: rp_firstName
+[Difference] Cookie-Name: 4: _ga
+[Difference] Cookie-Name: 5: cart_ts
+[Difference] Cookie-Name: 6: rp_lastName
+[Difference] Cookie-Name: 7: rpdid
+[Difference] Cookie-Name: 8: _shopify_sa_t
+[Difference] Cookie-Name: 9: cart_ver
+[Difference] Cookie-Name: 10: _fbp
+[Difference] Cookie-Name: 11: _shopify_d
+[Difference] Cookie-Name: 12: _s
+[Difference] Cookie-Name: 13: _gid
+[Difference] Cookie-Name: 14: cart
+[Difference] Cookie-Name: 15: _y
+[Difference] Cookie-Name: 16: rp_email
+[Difference] Cookie-Name: 17: locale_bar_accepted
+[Difference] Cookie-Name: 18: _shopify_y
+[Difference] Cookie-Name: 19: rptkn
+[Difference] Cookie-Name: 20: _shopify_s
+[Difference] Cookie-Name: 21: _bc_c_set
+[Difference] Cookie-Name: 22: _gat
+[Difference] Cookie-Name: 23: _shopify_evids
+[Difference] Cookie-Name: 24: shopify_pay_redirect
+[Difference] Cookie-Name: 25: cart_sig
+[Difference] Cookie-Name: 26: rpsid
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

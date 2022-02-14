@@ -1,0 +1,90 @@
+Website 375: http://www.xcoser.de/ | Created: 09.02.2022 21:31:06 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 28
+[Before] Website-Cookies: [{'domain': 'www.xcoser.de', 'expiry': 1645734656, 'httpOnly': False, 'name': 'BS_UNIQUE_USER_ID', 'path': '/', 'secure': False, 'value': '16444386565844EQM5orXPk'}, {'domain': 'www.xcoser.de', 'expiry': 1644525057, 'httpOnly': False, 'name': 'trustedsite_visit', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.www.xcoser.de', 'expiry': 1644440456, 'httpOnly': False, 'name': 'swym-session-id', 'path': '/', 'secure': False, 'value': '"b5kisa75heq6sguj5yuz68riapw65fkmwy7449w3p1gigj7kqllcr3aniy1mtmk7"'}, {'domain': 'www.xcoser.de', 'expiry': 1644525056, 'httpOnly': False, 'name': 'notifications', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '[]'}, {'domain': '.xcoser.de', 'expiry': 1644440455, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T20%3A30%3A55.413Z'}, {'domain': '.xcoser.de', 'expiry': 1644440455, 'httpOnly': False, 'name': '_hjSession_1515614', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjhkN2IyNjJkLTEwNDUtNGQzNS05YTg0LTU1NTlkY2E2ODI0OSIsImNyZWF0ZWQiOjE2NDQ0Mzg2NTU3NTcsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': '.xcoser.de', 'expiry': 1652214656, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644438655694.1223037485'}, {'domain': '.xcoser.de', 'expiry': 1644525055, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.44740047.1644438656'}, {'domain': 'www.xcoser.de', 'expiry': 1644438775, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.www.xcoser.de', 'expiry': 1675974656, 'httpOnly': False, 'name': 'swym-np_r', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': '.xcoser.de', 'expiry': 1652214655, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.792278089.1644438656'}, {'domain': '.xcoser.de', 'expiry': 1707510655, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1660795794.1644438656'}, {'domain': '.xcoser.de', 'expiry': 1959975055, 'httpOnly': False, 'name': 'refb', 'path': '/', 'secure': False, 'value': '32a44f61-e12a-440d-aff1-a97cb46f030c'}, {'domain': '.xcoser.de', 'expiry': 1644440455, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.xcoser.de', 'httpOnly': False, 'name': 'ssid', 'path': '/', 'secure': False, 'value': 'a8620aec-cc76-4286-a527-dc01991330dc'}, {'domain': '.xcoser.de', 'expiry': 1644440455, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.xcoser.de', 'expiry': 1644438715, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.xcoser.de', 'expiry': 1644438957, 'httpOnly': False, 'name': 'trustedsite_tm_float_seen', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.xcoser.de', 'expiry': 1644440455, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '18539914-0aac-4f28-be21-61d93bde94f9'}, {'domain': '.xcoser.de', 'expiry': 1644440455, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.xcoser.de', 'expiry': 1675974655, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ffc3bf2c-1d3a-4715-b49c-dd91582c6d9c'}, {'domain': '.xcoser.de', 'expiry': 1675974655, 'httpOnly': False, 'name': '_hjSessionUser_1515614', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImM1OWJkY2JlLWVjNWQtNWY3My1hMGI1LWE3ZGE1YjNhYzNiYSIsImNyZWF0ZWQiOjE2NDQ0Mzg2NTU2NjcsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.xcoser.de', 'expiry': 1644440455, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '18539914-0aac-4f28-be21-61d93bde94f9'}, {'domain': '.xcoser.de', 'expiry': 1645648253, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.xcoser.de', 'expiry': 1645648253, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.xcoser.de', 'expiry': 1675974655, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ffc3bf2c-1d3a-4715-b49c-dd91582c6d9c'}, {'domain': 'www.xcoser.de', 'httpOnly': False, 'name': 'rmc_logged_in_at', 'path': '/', 'secure': False, 'value': 'null'}, {'domain': 'www.xcoser.de', 'expiry': 1675974653, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: BS_UNIQUE_USER_ID
+[Before] Cookie-Name 2: trustedsite_visit
+[Before] Cookie-Name 3: swym-session-id
+[Before] Cookie-Name 4: notifications
+[Before] Cookie-Name 5: _shopify_sa_t
+[Before] Cookie-Name 6: _hjSession_1515614
+[Before] Cookie-Name 7: _fbp
+[Before] Cookie-Name 8: _gid
+[Before] Cookie-Name 9: _hjIncludedInPageviewSample
+[Before] Cookie-Name 10: swym-np_r
+[Before] Cookie-Name 11: _gcl_au
+[Before] Cookie-Name 12: _ga
+[Before] Cookie-Name 13: refb
+[Before] Cookie-Name 14: _shopify_sa_p
+[Before] Cookie-Name 15: ssid
+[Before] Cookie-Name 16: _hjFirstSeen
+[Before] Cookie-Name 17: _gat
+[Before] Cookie-Name 18: trustedsite_tm_float_seen
+[Before] Cookie-Name 19: _shopify_s
+[Before] Cookie-Name 20: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 21: _shopify_y
+[Before] Cookie-Name 22: _hjSessionUser_1515614
+[Before] Cookie-Name 23: _s
+[Before] Cookie-Name 24: _landing_page
+[Before] Cookie-Name 25: _orig_referrer
+[Before] Cookie-Name 26: _y
+[Before] Cookie-Name 27: rmc_logged_in_at
+[Before] Cookie-Name 28: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 28
+[After] Website-Cookies: [{'domain': 'www.xcoser.de', 'expiry': 1645734656, 'httpOnly': False, 'name': 'BS_UNIQUE_USER_ID', 'path': '/', 'secure': False, 'value': '16444386565844EQM5orXPk'}, {'domain': 'www.xcoser.de', 'expiry': 1644525057, 'httpOnly': False, 'name': 'trustedsite_visit', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.www.xcoser.de', 'expiry': 1644440456, 'httpOnly': False, 'name': 'swym-session-id', 'path': '/', 'secure': False, 'value': '"b5kisa75heq6sguj5yuz68riapw65fkmwy7449w3p1gigj7kqllcr3aniy1mtmk7"'}, {'domain': 'www.xcoser.de', 'expiry': 1644525056, 'httpOnly': False, 'name': 'notifications', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '[]'}, {'domain': '.xcoser.de', 'expiry': 1644440455, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T20%3A30%3A55.413Z'}, {'domain': '.xcoser.de', 'expiry': 1644440455, 'httpOnly': False, 'name': '_hjSession_1515614', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjhkN2IyNjJkLTEwNDUtNGQzNS05YTg0LTU1NTlkY2E2ODI0OSIsImNyZWF0ZWQiOjE2NDQ0Mzg2NTU3NTcsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': '.xcoser.de', 'expiry': 1652214656, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644438655694.1223037485'}, {'domain': '.xcoser.de', 'expiry': 1644525055, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.44740047.1644438656'}, {'domain': 'www.xcoser.de', 'expiry': 1644438775, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.www.xcoser.de', 'expiry': 1675974656, 'httpOnly': False, 'name': 'swym-np_r', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': '.xcoser.de', 'expiry': 1652214655, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.792278089.1644438656'}, {'domain': '.xcoser.de', 'expiry': 1707510655, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1660795794.1644438656'}, {'domain': '.xcoser.de', 'expiry': 1959975055, 'httpOnly': False, 'name': 'refb', 'path': '/', 'secure': False, 'value': '32a44f61-e12a-440d-aff1-a97cb46f030c'}, {'domain': '.xcoser.de', 'expiry': 1644440455, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.xcoser.de', 'httpOnly': False, 'name': 'ssid', 'path': '/', 'secure': False, 'value': 'a8620aec-cc76-4286-a527-dc01991330dc'}, {'domain': '.xcoser.de', 'expiry': 1644440455, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.xcoser.de', 'expiry': 1644438715, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.xcoser.de', 'expiry': 1644438957, 'httpOnly': False, 'name': 'trustedsite_tm_float_seen', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.xcoser.de', 'expiry': 1644440455, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '18539914-0aac-4f28-be21-61d93bde94f9'}, {'domain': '.xcoser.de', 'expiry': 1644440455, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.xcoser.de', 'expiry': 1675974655, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ffc3bf2c-1d3a-4715-b49c-dd91582c6d9c'}, {'domain': '.xcoser.de', 'expiry': 1675974655, 'httpOnly': False, 'name': '_hjSessionUser_1515614', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImM1OWJkY2JlLWVjNWQtNWY3My1hMGI1LWE3ZGE1YjNhYzNiYSIsImNyZWF0ZWQiOjE2NDQ0Mzg2NTU2NjcsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.xcoser.de', 'expiry': 1644440455, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '18539914-0aac-4f28-be21-61d93bde94f9'}, {'domain': '.xcoser.de', 'expiry': 1645648253, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.xcoser.de', 'expiry': 1645648253, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.xcoser.de', 'expiry': 1675974655, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ffc3bf2c-1d3a-4715-b49c-dd91582c6d9c'}, {'domain': 'www.xcoser.de', 'httpOnly': False, 'name': 'rmc_logged_in_at', 'path': '/', 'secure': False, 'value': 'null'}, {'domain': 'www.xcoser.de', 'expiry': 1675974653, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: BS_UNIQUE_USER_ID
+[After] Cookie-Name 2: trustedsite_visit
+[After] Cookie-Name 3: swym-session-id
+[After] Cookie-Name 4: notifications
+[After] Cookie-Name 5: _shopify_sa_t
+[After] Cookie-Name 6: _hjSession_1515614
+[After] Cookie-Name 7: _fbp
+[After] Cookie-Name 8: _gid
+[After] Cookie-Name 9: _hjIncludedInPageviewSample
+[After] Cookie-Name 10: swym-np_r
+[After] Cookie-Name 11: _gcl_au
+[After] Cookie-Name 12: _ga
+[After] Cookie-Name 13: refb
+[After] Cookie-Name 14: _shopify_sa_p
+[After] Cookie-Name 15: ssid
+[After] Cookie-Name 16: _hjFirstSeen
+[After] Cookie-Name 17: _gat
+[After] Cookie-Name 18: trustedsite_tm_float_seen
+[After] Cookie-Name 19: _shopify_s
+[After] Cookie-Name 20: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 21: _shopify_y
+[After] Cookie-Name 22: _hjSessionUser_1515614
+[After] Cookie-Name 23: _s
+[After] Cookie-Name 24: _landing_page
+[After] Cookie-Name 25: _orig_referrer
+[After] Cookie-Name 26: _y
+[After] Cookie-Name 27: rmc_logged_in_at
+[After] Cookie-Name 28: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _hjIncludedInPageviewSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

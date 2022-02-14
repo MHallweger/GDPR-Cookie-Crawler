@@ -1,0 +1,76 @@
+Website 108: http://www.batteryclerk.de/ | Created: 10.02.2022 12:44:35 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 20
+[Before] Website-Cookies: [{'domain': '.batteryclerk.de', 'expiry': 1676029467, 'httpOnly': False, 'name': '_fw_crm_v', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '25a9ef6c-4032-4024-f471-a891c471d4e3'}, {'domain': 'batteryclerk.de', 'httpOnly': False, 'name': 'qab_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.batteryclerk.de', 'expiry': 1644579867, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': '13y4ufm|1644493467334|1|1|f.clarity.ms/collect'}, {'domain': '.batteryclerk.de', 'expiry': 1678189466, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': 'cc7780508a6611ecb0644b18b0de0a5b'}, {'domain': '.batteryclerk.de', 'expiry': 1644579866, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': 'cc7763f08a6611eca0827d35949a8371'}, {'domain': '.batteryclerk.de', 'expiry': 1707565466, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.1.1325495574.1644493466'}, {'domain': '.batteryclerk.de', 'expiry': 1707565466, 'httpOnly': False, 'name': '_ga_CQB0NEQHVL', 'path': '/', 'secure': False, 'value': 'GS1.1.1644493466.1.0.1644493466.60'}, {'domain': '.batteryclerk.de', 'expiry': 1645703066, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.batteryclerk.de', 'expiry': 1644495266, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T11%3A44%3A26.239Z'}, {'domain': '.batteryclerk.de', 'expiry': 1644579866, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1379388533.1644493466'}, {'domain': '.batteryclerk.de', 'expiry': 1644495266, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.batteryclerk.de', 'expiry': 1676029466, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd5ee97f8-6d25-439d-9540-a0acd8f4fb2e'}, {'domain': '.batteryclerk.de', 'expiry': 1652269466, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.2068439251.1644493466'}, {'domain': '.batteryclerk.de', 'expiry': 1676029466, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': '3qdqz6|1|eyv|0'}, {'domain': '.batteryclerk.de', 'expiry': 1644495266, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4b4a05b0-7225-4e16-bce6-af4b05cd8399'}, {'domain': '.batteryclerk.de', 'expiry': 1644493526, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.batteryclerk.de', 'expiry': 1676029466, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd5ee97f8-6d25-439d-9540-a0acd8f4fb2e'}, {'domain': '.batteryclerk.de', 'expiry': 1644495266, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4b4a05b0-7225-4e16-bce6-af4b05cd8399'}, {'domain': '.batteryclerk.de', 'expiry': 1645703066, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'batteryclerk.de', 'expiry': 1676029466, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _fw_crm_v
+[Before] Cookie-Name 2: qab_previous_pathname
+[Before] Cookie-Name 3: _clsk
+[Before] Cookie-Name 4: _uetvid
+[Before] Cookie-Name 5: _uetsid
+[Before] Cookie-Name 6: _ga
+[Before] Cookie-Name 7: _ga_CQB0NEQHVL
+[Before] Cookie-Name 8: _orig_referrer
+[Before] Cookie-Name 9: _shopify_sa_t
+[Before] Cookie-Name 10: _gid
+[Before] Cookie-Name 11: _shopify_sa_p
+[Before] Cookie-Name 12: _shopify_y
+[Before] Cookie-Name 13: _gcl_au
+[Before] Cookie-Name 14: _clck
+[Before] Cookie-Name 15: _shopify_s
+[Before] Cookie-Name 16: _gat
+[Before] Cookie-Name 17: _y
+[Before] Cookie-Name 18: _s
+[Before] Cookie-Name 19: _landing_page
+[Before] Cookie-Name 20: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 20
+[After] Website-Cookies: [{'domain': '.batteryclerk.de', 'expiry': 1676029467, 'httpOnly': False, 'name': '_fw_crm_v', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '25a9ef6c-4032-4024-f471-a891c471d4e3'}, {'domain': 'batteryclerk.de', 'httpOnly': False, 'name': 'qab_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.batteryclerk.de', 'expiry': 1644579867, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': '13y4ufm|1644493467334|1|1|f.clarity.ms/collect'}, {'domain': '.batteryclerk.de', 'expiry': 1678189466, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': 'cc7780508a6611ecb0644b18b0de0a5b'}, {'domain': '.batteryclerk.de', 'expiry': 1644579866, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': 'cc7763f08a6611eca0827d35949a8371'}, {'domain': '.batteryclerk.de', 'expiry': 1707565466, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.1.1325495574.1644493466'}, {'domain': '.batteryclerk.de', 'expiry': 1707565466, 'httpOnly': False, 'name': '_ga_CQB0NEQHVL', 'path': '/', 'secure': False, 'value': 'GS1.1.1644493466.1.0.1644493466.60'}, {'domain': '.batteryclerk.de', 'expiry': 1645703066, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.batteryclerk.de', 'expiry': 1644495266, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T11%3A44%3A26.239Z'}, {'domain': '.batteryclerk.de', 'expiry': 1644579866, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1379388533.1644493466'}, {'domain': '.batteryclerk.de', 'expiry': 1644495266, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.batteryclerk.de', 'expiry': 1676029466, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd5ee97f8-6d25-439d-9540-a0acd8f4fb2e'}, {'domain': '.batteryclerk.de', 'expiry': 1652269466, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.2068439251.1644493466'}, {'domain': '.batteryclerk.de', 'expiry': 1676029466, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': '3qdqz6|1|eyv|0'}, {'domain': '.batteryclerk.de', 'expiry': 1644495266, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4b4a05b0-7225-4e16-bce6-af4b05cd8399'}, {'domain': '.batteryclerk.de', 'expiry': 1644493526, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.batteryclerk.de', 'expiry': 1676029466, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd5ee97f8-6d25-439d-9540-a0acd8f4fb2e'}, {'domain': '.batteryclerk.de', 'expiry': 1644495266, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4b4a05b0-7225-4e16-bce6-af4b05cd8399'}, {'domain': '.batteryclerk.de', 'expiry': 1645703066, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'batteryclerk.de', 'expiry': 1676029466, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _fw_crm_v
+[After] Cookie-Name 2: qab_previous_pathname
+[After] Cookie-Name 3: _clsk
+[After] Cookie-Name 4: _uetvid
+[After] Cookie-Name 5: _uetsid
+[After] Cookie-Name 6: _ga
+[After] Cookie-Name 7: _ga_CQB0NEQHVL
+[After] Cookie-Name 8: _orig_referrer
+[After] Cookie-Name 9: _shopify_sa_t
+[After] Cookie-Name 10: _gid
+[After] Cookie-Name 11: _shopify_sa_p
+[After] Cookie-Name 12: _shopify_y
+[After] Cookie-Name 13: _gcl_au
+[After] Cookie-Name 14: _clck
+[After] Cookie-Name 15: _shopify_s
+[After] Cookie-Name 16: _gat
+[After] Cookie-Name 17: _y
+[After] Cookie-Name 18: _s
+[After] Cookie-Name 19: _landing_page
+[After] Cookie-Name 20: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _clsk (Microsoft Clarity (User experience tool))
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _clck (Microsoft Clarity (User experience tool))
+[Used before] Cookie-Name: _gat (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

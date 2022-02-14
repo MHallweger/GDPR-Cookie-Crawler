@@ -1,0 +1,91 @@
+Website 17: http://www.airfield.de/ | Created: 08.02.2022 21:44:09 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 12
+[Before] Website-Cookies: [{'domain': 'www.airfield.de', 'expiry': 1645562640, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': '.airfield.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.airfield.de', 'expiry': 1675889039, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22lim%22%3A%5B%22GDPR%22%5D%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%7D'}, {'domain': 'www.airfield.de', 'expiry': 1645562640, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '254dbe56d3b1a6b3297ad6e6c04fc321'}, {'domain': 'www.airfield.de', 'expiry': 1645562640, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644353040'}, {'domain': 'www.airfield.de', 'expiry': 1645562640, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.airfield.de', 'expiry': 1675889039, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.airfield.de', 'expiry': 1645562639, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.airfield.de', 'expiry': 1645562640, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4e53b79fd9bda7d86892d60f197e7fb2'}, {'domain': '.airfield.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.airfield.de', 'expiry': 1644354840, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.airfield.de', 'expiry': 1675889040, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: cart_ver
+[Before] Cookie-Name 2: _orig_referrer
+[Before] Cookie-Name 3: _tracking_consent
+[Before] Cookie-Name 4: cart_sig
+[Before] Cookie-Name 5: cart_ts
+[Before] Cookie-Name 6: cart_currency
+[Before] Cookie-Name 7: _shopify_m
+[Before] Cookie-Name 8: _shopify_tw
+[Before] Cookie-Name 9: cart
+[Before] Cookie-Name 10: _landing_page
+[Before] Cookie-Name 11: _shopify_tm
+[Before] Cookie-Name 12: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 35
+[After] Website-Cookies: [{'domain': '.airfield.de', 'expiry': 1652129056, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644353055917.450105637'}, {'domain': '.airfield.de', 'expiry': 1644353115, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.airfield.de', 'expiry': 1644353115, 'httpOnly': False, 'name': '_gat_gtag_UA_20087090_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.airfield.de', 'expiry': 1675889055, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%2C%22CCPA%22%3A%221%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%7D'}, {'domain': '.airfield.de', 'expiry': 1644439455, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.817563981.1644353056'}, {'domain': '.airfield.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6c9595ed-5a39-49ce-8559-408ee4e26cf6'}, {'domain': '.airfield.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6c9595ed-5a39-49ce-8559-408ee4e26cf6'}, {'domain': '.airfield.de', 'expiry': 1675889055, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': '.airfield.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T20%3A44%3A00.047Z'}, {'domain': '.airfield.de', 'expiry': 1644354855, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.airfield.de', 'expiry': 1645562640, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4e53b79fd9bda7d86892d60f197e7fb2'}, {'domain': 'www.airfield.de', 'expiry': 1644354855, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '88aa2305-fc89-42c1-be5d-8dc8b3173721'}, {'domain': '.airfield.de', 'expiry': 1652129055, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1509164392.1644353056'}, {'domain': '.airfield.de', 'expiry': 1707425055, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1959599369.1644353056'}, {'domain': '.airfield.de', 'expiry': 1645562655, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.airfield.de', 'expiry': 1646945055, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0MzUzMDU1MjI2LCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjowfX0='}, {'domain': 'www.airfield.de', 'expiry': 1645562655, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.airfield.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.airfield.de', 'expiry': 1675889055, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6c9595ed-5a39-49ce-8559-408ee4e26cf6'}, {'domain': 'www.airfield.de', 'expiry': 1645562655, 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T20%3A43%3A59.980Z'}, {'domain': 'www.airfield.de', 'expiry': 1644354855, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '88aa2305-fc89-42c1-be5d-8dc8b3173721'}, {'domain': '.airfield.de', 'expiry': 1645562655, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.airfield.de', 'expiry': 1645562655, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '254dbe56d3b1a6b3297ad6e6c04fc321'}, {'domain': '.airfield.de', 'expiry': 1645562639, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.airfield.de', 'expiry': 1645562640, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': 'www.airfield.de', 'expiry': 1645562640, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644353040'}, {'domain': 'www.airfield.de', 'httpOnly': False, 'name': 'bc_tgm_aw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.airfield.de', 'httpOnly': False, 'name': 'bc_tgm_ua', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.airfield.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '88aa2305-fc89-42c1-be5d-8dc8b3173721'}, {'domain': 'www.airfield.de', 'expiry': 1644354855, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T20%3A44%3A00.047Z'}, {'domain': '.airfield.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '88aa2305-fc89-42c1-be5d-8dc8b3173721'}, {'domain': 'www.airfield.de', 'expiry': 1675889055, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'www.airfield.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.airfield.de', 'expiry': 1675889055, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6c9595ed-5a39-49ce-8559-408ee4e26cf6'}, {'domain': 'www.airfield.de', 'expiry': 1645562655, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}]
+[After] Cookie-Name 1: _fbp
+[After] Cookie-Name 2: _gat
+[After] Cookie-Name 3: _gat_gtag_UA_20087090_1
+[After] Cookie-Name 4: _tracking_consent
+[After] Cookie-Name 5: _gid
+[After] Cookie-Name 6: _shopify_y
+[After] Cookie-Name 7: _y
+[After] Cookie-Name 8: _shopify_m
+[After] Cookie-Name 9: _shopify_sa_t
+[After] Cookie-Name 10: _shopify_tm
+[After] Cookie-Name 11: cart
+[After] Cookie-Name 12: _shopify_s
+[After] Cookie-Name 13: _gcl_au
+[After] Cookie-Name 14: _ga
+[After] Cookie-Name 15: _landing_page
+[After] Cookie-Name 16: _bc_c_set
+[After] Cookie-Name 17: localization
+[After] Cookie-Name 18: _shopify_evids
+[After] Cookie-Name 19: _y
+[After] Cookie-Name 20: _shopify_d
+[After] Cookie-Name 21: _s
+[After] Cookie-Name 22: _orig_referrer
+[After] Cookie-Name 23: cart_sig
+[After] Cookie-Name 24: _shopify_tw
+[After] Cookie-Name 25: cart_ver
+[After] Cookie-Name 26: cart_ts
+[After] Cookie-Name 27: bc_tgm_aw
+[After] Cookie-Name 28: bc_tgm_ua
+[After] Cookie-Name 29: _s
+[After] Cookie-Name 30: _shopify_sa_t
+[After] Cookie-Name 31: _shopify_s
+[After] Cookie-Name 32: secure_customer_sig
+[After] Cookie-Name 33: _shopify_evids
+[After] Cookie-Name 34: _shopify_y
+[After] Cookie-Name 35: cart_currency
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 17
+[Difference] Cookie-Name: 1: _shopify_y
+[Difference] Cookie-Name: 2: _bc_c_set
+[Difference] Cookie-Name: 3: _gid
+[Difference] Cookie-Name: 4: _y
+[Difference] Cookie-Name: 5: _gat_gtag_UA_20087090_1
+[Difference] Cookie-Name: 6: _shopify_d
+[Difference] Cookie-Name: 7: _fbp
+[Difference] Cookie-Name: 8: bc_tgm_aw
+[Difference] Cookie-Name: 9: _ga
+[Difference] Cookie-Name: 10: _shopify_sa_t
+[Difference] Cookie-Name: 11: bc_tgm_ua
+[Difference] Cookie-Name: 12: _s
+[Difference] Cookie-Name: 13: localization
+[Difference] Cookie-Name: 14: _gcl_au
+[Difference] Cookie-Name: 15: _shopify_s
+[Difference] Cookie-Name: 16: _gat
+[Difference] Cookie-Name: 17: _shopify_evids
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

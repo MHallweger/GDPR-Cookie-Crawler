@@ -1,0 +1,60 @@
+Website 66: http://www.schaumstoff-fischer.de/ | Created: 09.02.2022 14:02:15 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 15
+[Before] Website-Cookies: [{'domain': 'schaumstoff-fischer.de', 'expiry': 1645621326, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fec6c8400e7eff0c88585e39eace0012'}, {'domain': '.schaumstoff-fischer.de', 'expiry': 1645621325, 'httpOnly': False, 'name': '__cmpcccu15924', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'aBPUJVEDAAAAwAXABgAA'}, {'domain': '.schaumstoff-fischer.de', 'expiry': 1644413524, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'schaumstoff-fischer.de', 'expiry': 1645621326, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.schaumstoff-fischer.de', 'expiry': 1675947726, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b030404a-7834-479b-aada-0175340bb404'}, {'domain': '.schaumstoff-fischer.de', 'expiry': 1644413526, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2aadcf85-c14d-461c-8930-1bdd79e07644'}, {'domain': '.schaumstoff-fischer.de', 'expiry': 1675947726, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b030404a-7834-479b-aada-0175340bb404'}, {'domain': '.schaumstoff-fischer.de', 'expiry': 1645621324, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.schaumstoff-fischer.de', 'expiry': 1644413524, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A02%3A04.760Z'}, {'domain': 'schaumstoff-fischer.de', 'expiry': 1644415325, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.schaumstoff-fischer.de', 'expiry': 1652187725, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644411724955.723129672'}, {'domain': 'schaumstoff-fischer.de', 'expiry': 1645621326, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.schaumstoff-fischer.de', 'expiry': 1644413526, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2aadcf85-c14d-461c-8930-1bdd79e07644'}, {'domain': '.schaumstoff-fischer.de', 'expiry': 1645621324, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'schaumstoff-fischer.de', 'expiry': 1675947726, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: cart_sig
+[Before] Cookie-Name 2: __cmpcccu15924
+[Before] Cookie-Name 3: _shopify_sa_p
+[Before] Cookie-Name 4: localization
+[Before] Cookie-Name 5: _shopify_y
+[Before] Cookie-Name 6: _s
+[Before] Cookie-Name 7: _y
+[Before] Cookie-Name 8: _orig_referrer
+[Before] Cookie-Name 9: _shopify_sa_t
+[Before] Cookie-Name 10: shopify_pay_redirect
+[Before] Cookie-Name 11: _fbp
+[Before] Cookie-Name 12: cart_currency
+[Before] Cookie-Name 13: _shopify_s
+[Before] Cookie-Name 14: _landing_page
+[Before] Cookie-Name 15: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 16
+[After] Website-Cookies: [{'domain': '.schaumstoff-fischer.de', 'expiry': 1675947740, 'httpOnly': False, 'name': '__cmpconsent15924', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'BPUJVGcPUJVGcAfQdBDEDXAAAAAAAA'}, {'domain': 'schaumstoff-fischer.de', 'expiry': 1645621326, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fec6c8400e7eff0c88585e39eace0012'}, {'domain': '.schaumstoff-fischer.de', 'expiry': 1675947740, 'httpOnly': False, 'name': '__cmpcccu15924', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'aBPUJVGcgAwAzADcBQAAIAB4ALgAwABoADwAKAAggBeAEOAaEBxIDywHogQcAiSBFACvgFgQLMgXDAAA'}, {'domain': '.schaumstoff-fischer.de', 'expiry': 1644413524, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'schaumstoff-fischer.de', 'expiry': 1645621326, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.schaumstoff-fischer.de', 'expiry': 1675947726, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b030404a-7834-479b-aada-0175340bb404'}, {'domain': '.schaumstoff-fischer.de', 'expiry': 1644413526, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2aadcf85-c14d-461c-8930-1bdd79e07644'}, {'domain': '.schaumstoff-fischer.de', 'expiry': 1675947726, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b030404a-7834-479b-aada-0175340bb404'}, {'domain': '.schaumstoff-fischer.de', 'expiry': 1645621324, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.schaumstoff-fischer.de', 'expiry': 1644413524, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A02%3A04.760Z'}, {'domain': 'schaumstoff-fischer.de', 'expiry': 1644415325, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.schaumstoff-fischer.de', 'expiry': 1652187740, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644411724955.723129672'}, {'domain': 'schaumstoff-fischer.de', 'expiry': 1645621326, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.schaumstoff-fischer.de', 'expiry': 1644413526, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2aadcf85-c14d-461c-8930-1bdd79e07644'}, {'domain': '.schaumstoff-fischer.de', 'expiry': 1645621324, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'schaumstoff-fischer.de', 'expiry': 1675947726, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: __cmpconsent15924
+[After] Cookie-Name 2: cart_sig
+[After] Cookie-Name 3: __cmpcccu15924
+[After] Cookie-Name 4: _shopify_sa_p
+[After] Cookie-Name 5: localization
+[After] Cookie-Name 6: _shopify_y
+[After] Cookie-Name 7: _s
+[After] Cookie-Name 8: _y
+[After] Cookie-Name 9: _orig_referrer
+[After] Cookie-Name 10: _shopify_sa_t
+[After] Cookie-Name 11: shopify_pay_redirect
+[After] Cookie-Name 12: _fbp
+[After] Cookie-Name 13: cart_currency
+[After] Cookie-Name 14: _shopify_s
+[After] Cookie-Name 15: _landing_page
+[After] Cookie-Name 16: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: __cmpconsent15924
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

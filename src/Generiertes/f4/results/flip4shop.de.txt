@@ -1,0 +1,94 @@
+Website 47: http://www.flip4shop.de/ | Created: 09.02.2022 17:20:00 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 28
+[Before] Website-Cookies: [{'domain': '.www.flip4shop.de', 'expiry': 1675959601, 'httpOnly': False, 'name': 'swym-cu_ct', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"deb231f4dad8508cb0bd1123a99ff659"'}, {'domain': '.www.flip4shop.de', 'expiry': 1675959592, 'httpOnly': False, 'name': 'swym-email', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'null'}, {'domain': '.www.flip4shop.de', 'expiry': 1644425392, 'httpOnly': False, 'name': 'swym-o_s', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'true'}, {'domain': '.flip4shop.de', 'expiry': 1644425401, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2c0a246b-d3ce-4a0d-beee-215497ba4289'}, {'domain': '.flip4shop.de', 'expiry': 1675959601, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '22bfb9ac-29d2-4aff-9070-4e61d6dd430d'}, {'domain': '.flip4shop.de', 'expiry': 1675959601, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '22bfb9ac-29d2-4aff-9070-4e61d6dd430d'}, {'domain': '.flip4shop.de', 'expiry': 1652199587, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1958579126.1644423588'}, {'domain': '.flip4shop.de', 'expiry': 1644425401, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2c0a246b-d3ce-4a0d-beee-215497ba4289'}, {'domain': '.flip4shop.de', 'expiry': 1678587592, 'httpOnly': False, 'name': 'cto_bundle', 'path': '/', 'secure': False, 'value': '-bn8919ubDdncjRTdkd3SVBKcXJtcnE2NWpvWWJKQ21zQU9nVTY1Z3R5VnlTMkdrWlRnUWNZZkpwVU0wMGlia2V6b0djWTBWaUg2bmFHWFlTS21mVUt6QlZoaFJSbmhZd0N3VjRZRnpsJTJCUWNOTEhBY0N0S284JTJGTCUyQmhMYWtvTUluYm9RTnklMkJ4aTkwREg5VyUyRkRUN0s4YnJxbnJnJTNEJTNE'}, {'domain': '.www.flip4shop.de', 'expiry': 1644425401, 'httpOnly': False, 'name': 'swym-session-id', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"bqgktsmonpi3jeissrakkw5pcon9wsjjx2sl827o6mvl1g41m1ohlo9j9psqkqpt"'}, {'domain': 'www.flip4shop.de', 'expiry': 1675959601, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'www.flip4shop.de', 'expiry': 1644509991, 'httpOnly': False, 'name': '_ks_scriptVersionChecked', 'path': '/', 'secure': True, 'value': 'true'}, {'domain': 'www.flip4shop.de', 'expiry': 1802103591, 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'secure': True, 'value': '34aae82c-2bdf-4449-8b24-c201ef136013'}, {'domain': 'www.flip4shop.de', 'expiry': 1644425391, 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'secure': True, 'value': '2cc2c741-e187-4e44-afed-1bfc75dfab7c'}, {'domain': '.flip4shop.de', 'expiry': 1645633187, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.flip4shop.de', 'expiry': 1675959591, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': 'analytics%2Cfunctionality%2Cmarketing'}, {'domain': 'www.flip4shop.de', 'expiry': 1644425389, 'httpOnly': False, 'name': '_tr_ses.4331.949f', 'path': '/', 'secure': False, 'value': '*'}, {'domain': 'www.flip4shop.de', 'expiry': 1678378789, 'httpOnly': False, 'name': '_tr_id.4331.949f', 'path': '/', 'secure': False, 'value': 'f110486ab5b5c14a.1644423589.1.1644423590.1644423589.'}, {'domain': 'www.flip4shop.de', 'expiry': 1675959591, 'httpOnly': False, 'name': '_ks_scriptVersion', 'path': '/', 'secure': True, 'value': '308'}, {'domain': '.flip4shop.de', 'expiry': 1644423649, 'httpOnly': False, 'name': '_gat_gtag_UA_133738968_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.flip4shop.de', 'expiry': 1675959588, 'httpOnly': False, 'name': 'kk_leadtag', 'path': '/', 'sameSite': 'Strict', 'secure': False, 'value': 'true'}, {'domain': 'www.flip4shop.de', 'expiry': 1644427188, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.flip4shop.de', 'expiry': 1644425389, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.flip4shop.de', 'expiry': 1645633201, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.flip4shop.de', 'expiry': 1645633201, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.www.flip4shop.de', 'expiry': 1675959592, 'httpOnly': False, 'name': 'swym-swymRegid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"cfT1qVAYaBsEiDrMmsw2lwarYGCrvgVv3XjHKV0es92wV9Tt8e_V2fER1lLGZC-EOLLYeDh7eWQmsMgxwcf7chFRegS2njVlmIY0y3edwwD5pPGIxyMGvJ4tceAj-MJF5ODc-tbZ5wwXB-Ja-UiN6yhMt7-Y0vGuMC4hmYz9Rec"'}, {'domain': '.www.flip4shop.de', 'expiry': 1675959591, 'httpOnly': False, 'name': 'swym-pid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"oRGCCzj0Orw0gSzzhA4nfwIGT5wlUcjtQ0y4KSVHbbo="'}, {'domain': '.flip4shop.de', 'expiry': 1645633187, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[Before] Cookie-Name 1: swym-cu_ct
+[Before] Cookie-Name 2: swym-email
+[Before] Cookie-Name 3: swym-o_s
+[Before] Cookie-Name 4: _shopify_s
+[Before] Cookie-Name 5: _shopify_y
+[Before] Cookie-Name 6: _y
+[Before] Cookie-Name 7: _gcl_au
+[Before] Cookie-Name 8: _s
+[Before] Cookie-Name 9: cto_bundle
+[Before] Cookie-Name 10: swym-session-id
+[Before] Cookie-Name 11: secure_customer_sig
+[Before] Cookie-Name 12: _ks_scriptVersionChecked
+[Before] Cookie-Name 13: _shg_user_id
+[Before] Cookie-Name 14: _shg_session_id
+[Before] Cookie-Name 15: _landing_page
+[Before] Cookie-Name 16: cookieconsent_preferences_disabled
+[Before] Cookie-Name 17: _tr_ses.4331.949f
+[Before] Cookie-Name 18: _tr_id.4331.949f
+[Before] Cookie-Name 19: _ks_scriptVersion
+[Before] Cookie-Name 20: _gat_gtag_UA_133738968_1
+[Before] Cookie-Name 21: kk_leadtag
+[Before] Cookie-Name 22: shopify_pay_redirect
+[Before] Cookie-Name 23: _shopify_sa_p
+[Before] Cookie-Name 24: localization
+[Before] Cookie-Name 25: cart_currency
+[Before] Cookie-Name 26: swym-swymRegid
+[Before] Cookie-Name 27: swym-pid
+[Before] Cookie-Name 28: _orig_referrer
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 33
+[After] Website-Cookies: [{'domain': 'www.flip4shop.de', 'httpOnly': False, 'name': '_tr_stop_recording', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.flip4shop.de', 'expiry': 1675959606, 'httpOnly': False, 'name': 'cookieconsent_status', 'path': '/', 'secure': False, 'value': 'allow'}, {'domain': 'www.flip4shop.de', 'expiry': 1647015606, 'httpOnly': False, 'name': '_tr_user', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.www.flip4shop.de', 'expiry': 1675959601, 'httpOnly': False, 'name': 'swym-cu_ct', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"deb231f4dad8508cb0bd1123a99ff659"'}, {'domain': '.www.flip4shop.de', 'expiry': 1675959592, 'httpOnly': False, 'name': 'swym-email', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'null'}, {'domain': '.www.flip4shop.de', 'expiry': 1644425392, 'httpOnly': False, 'name': 'swym-o_s', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'true'}, {'domain': '.flip4shop.de', 'expiry': 1644425401, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2c0a246b-d3ce-4a0d-beee-215497ba4289'}, {'domain': '.flip4shop.de', 'expiry': 1675959601, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '22bfb9ac-29d2-4aff-9070-4e61d6dd430d'}, {'domain': '.flip4shop.de', 'expiry': 1675959601, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '22bfb9ac-29d2-4aff-9070-4e61d6dd430d'}, {'domain': '.flip4shop.de', 'expiry': 1652199587, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1958579126.1644423588'}, {'domain': '.flip4shop.de', 'expiry': 1644425401, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2c0a246b-d3ce-4a0d-beee-215497ba4289'}, {'domain': 'www.flip4shop.de', 'httpOnly': False, 'name': '_tr_stop_collecting', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.flip4shop.de', 'expiry': 1678587592, 'httpOnly': False, 'name': 'cto_bundle', 'path': '/', 'secure': False, 'value': '-bn8919ubDdncjRTdkd3SVBKcXJtcnE2NWpvWWJKQ21zQU9nVTY1Z3R5VnlTMkdrWlRnUWNZZkpwVU0wMGlia2V6b0djWTBWaUg2bmFHWFlTS21mVUt6QlZoaFJSbmhZd0N3VjRZRnpsJTJCUWNOTEhBY0N0S284JTJGTCUyQmhMYWtvTUluYm9RTnklMkJ4aTkwREg5VyUyRkRUN0s4YnJxbnJnJTNEJTNE'}, {'domain': '.www.flip4shop.de', 'expiry': 1644425407, 'httpOnly': False, 'name': 'swym-session-id', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"bqgktsmonpi3jeissrakkw5pcon9wsjjx2sl827o6mvl1g41m1ohlo9j9psqkqpt"'}, {'domain': 'www.flip4shop.de', 'expiry': 1675959601, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'www.flip4shop.de', 'expiry': 1644509991, 'httpOnly': False, 'name': '_ks_scriptVersionChecked', 'path': '/', 'secure': True, 'value': 'true'}, {'domain': 'www.flip4shop.de', 'expiry': 1802103591, 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'secure': True, 'value': '34aae82c-2bdf-4449-8b24-c201ef136013'}, {'domain': 'www.flip4shop.de', 'expiry': 1644425391, 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'secure': True, 'value': '2cc2c741-e187-4e44-afed-1bfc75dfab7c'}, {'domain': '.flip4shop.de', 'expiry': 1645633187, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.flip4shop.de', 'expiry': 1675959606, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': 'analytics%2Cfunctionality%2Cmarketing'}, {'domain': 'www.flip4shop.de', 'expiry': 1644425389, 'httpOnly': False, 'name': '_tr_ses.4331.949f', 'path': '/', 'secure': False, 'value': '*'}, {'domain': 'www.flip4shop.de', 'expiry': 1678378789, 'httpOnly': False, 'name': '_tr_id.4331.949f', 'path': '/', 'secure': False, 'value': 'f110486ab5b5c14a.1644423589.1.1644423590.1644423589.'}, {'domain': 'www.flip4shop.de', 'expiry': 1675959591, 'httpOnly': False, 'name': '_ks_scriptVersion', 'path': '/', 'secure': True, 'value': '308'}, {'domain': '.flip4shop.de', 'expiry': 1644423649, 'httpOnly': False, 'name': '_gat_gtag_UA_133738968_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.flip4shop.de', 'expiry': 1652199606, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644423606078.942264987'}, {'domain': '.flip4shop.de', 'expiry': 1675959588, 'httpOnly': False, 'name': 'kk_leadtag', 'path': '/', 'sameSite': 'Strict', 'secure': False, 'value': 'true'}, {'domain': 'www.flip4shop.de', 'expiry': 1644427188, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.flip4shop.de', 'expiry': 1644425389, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.flip4shop.de', 'expiry': 1645633201, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.flip4shop.de', 'expiry': 1645633201, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.www.flip4shop.de', 'expiry': 1675959592, 'httpOnly': False, 'name': 'swym-swymRegid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"cfT1qVAYaBsEiDrMmsw2lwarYGCrvgVv3XjHKV0es92wV9Tt8e_V2fER1lLGZC-EOLLYeDh7eWQmsMgxwcf7chFRegS2njVlmIY0y3edwwD5pPGIxyMGvJ4tceAj-MJF5ODc-tbZ5wwXB-Ja-UiN6yhMt7-Y0vGuMC4hmYz9Rec"'}, {'domain': '.www.flip4shop.de', 'expiry': 1675959591, 'httpOnly': False, 'name': 'swym-pid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"oRGCCzj0Orw0gSzzhA4nfwIGT5wlUcjtQ0y4KSVHbbo="'}, {'domain': '.flip4shop.de', 'expiry': 1645633187, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: _tr_stop_recording
+[After] Cookie-Name 2: cookieconsent_status
+[After] Cookie-Name 3: _tr_user
+[After] Cookie-Name 4: swym-cu_ct
+[After] Cookie-Name 5: swym-email
+[After] Cookie-Name 6: swym-o_s
+[After] Cookie-Name 7: _shopify_s
+[After] Cookie-Name 8: _shopify_y
+[After] Cookie-Name 9: _y
+[After] Cookie-Name 10: _gcl_au
+[After] Cookie-Name 11: _s
+[After] Cookie-Name 12: _tr_stop_collecting
+[After] Cookie-Name 13: cto_bundle
+[After] Cookie-Name 14: swym-session-id
+[After] Cookie-Name 15: secure_customer_sig
+[After] Cookie-Name 16: _ks_scriptVersionChecked
+[After] Cookie-Name 17: _shg_user_id
+[After] Cookie-Name 18: _shg_session_id
+[After] Cookie-Name 19: _landing_page
+[After] Cookie-Name 20: cookieconsent_preferences_disabled
+[After] Cookie-Name 21: _tr_ses.4331.949f
+[After] Cookie-Name 22: _tr_id.4331.949f
+[After] Cookie-Name 23: _ks_scriptVersion
+[After] Cookie-Name 24: _gat_gtag_UA_133738968_1
+[After] Cookie-Name 25: _fbp
+[After] Cookie-Name 26: kk_leadtag
+[After] Cookie-Name 27: shopify_pay_redirect
+[After] Cookie-Name 28: _shopify_sa_p
+[After] Cookie-Name 29: localization
+[After] Cookie-Name 30: cart_currency
+[After] Cookie-Name 31: swym-swymRegid
+[After] Cookie-Name 32: swym-pid
+[After] Cookie-Name 33: _orig_referrer
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 5
+[Difference] Cookie-Name: 1: _tr_stop_collecting
+[Difference] Cookie-Name: 2: _tr_stop_recording
+[Difference] Cookie-Name: 3: _tr_user
+[Difference] Cookie-Name: 4: cookieconsent_status
+[Difference] Cookie-Name: 5: _fbp
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

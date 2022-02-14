@@ -1,0 +1,80 @@
+Website 55: http://www.weego.de/ | Created: 09.02.2022 17:22:49 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 23
+[Before] Website-Cookies: [{'domain': 'weego.de', 'expiry': 1645633359, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a7be8b122030ad10d16cdeff5052d6d5'}, {'domain': 'weego.de', 'expiry': 1644427359, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'weego.de', 'expiry': 1675959769, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'weego.de', 'expiry': 1675959760, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': 'marketing%2Canalytics'}, {'domain': 'weego.de', 'expiry': 1645633359, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644423760'}, {'domain': '.weego.de', 'expiry': 1652199759, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644423757728.942001381'}, {'domain': '.weego.de', 'expiry': 1644425558, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'weego.de', 'expiry': 1645633359, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A2'}, {'domain': '.weego.de', 'expiry': 1707495758, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.129741825.1644423756'}, {'domain': 'weego.de', 'expiry': 1645633369, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.weego.de', 'expiry': 1644425569, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '52c0e43a-3ad7-4d0f-ae6d-f978e09df040'}, {'domain': '.weego.de', 'expiry': 1644510158, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.161282504.1644423756'}, {'domain': 'weego.de', 'expiry': 1644510159, 'httpOnly': False, 'name': 'weegoeu-ipinfo-weego.de', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': '.weego.de', 'expiry': 1644425569, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '52c0e43a-3ad7-4d0f-ae6d-f978e09df040'}, {'domain': '.weego.de', 'expiry': 1645633355, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'weego.de', 'expiry': 1645633369, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.weego.de', 'expiry': 1675959769, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1db7cb4a-1c92-48c8-98ce-9307c101f2bb'}, {'domain': '.weego.de', 'expiry': 1652199756, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.424568377.1644423756'}, {'domain': '.weego.de', 'expiry': 1675959769, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1db7cb4a-1c92-48c8-98ce-9307c101f2bb'}, {'domain': 'weego.de', 'expiry': 1645633359, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '459e0d1eff19430c0fd01846ec6fce7c'}, {'domain': '.weego.de', 'expiry': 1644423816, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.weego.de', 'expiry': 1644425558, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T16%3A22%3A38.972Z'}, {'domain': '.weego.de', 'expiry': 1645633355, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[Before] Cookie-Name 1: cart
+[Before] Cookie-Name 2: shopify_pay_redirect
+[Before] Cookie-Name 3: secure_customer_sig
+[Before] Cookie-Name 4: cookieconsent_preferences_disabled
+[Before] Cookie-Name 5: cart_ts
+[Before] Cookie-Name 6: _fbp
+[Before] Cookie-Name 7: _shopify_sa_p
+[Before] Cookie-Name 8: cart_ver
+[Before] Cookie-Name 9: _ga
+[Before] Cookie-Name 10: localization
+[Before] Cookie-Name 11: _s
+[Before] Cookie-Name 12: _gid
+[Before] Cookie-Name 13: weegoeu-ipinfo-weego.de
+[Before] Cookie-Name 14: _shopify_s
+[Before] Cookie-Name 15: _landing_page
+[Before] Cookie-Name 16: cart_currency
+[Before] Cookie-Name 17: _y
+[Before] Cookie-Name 18: _gcl_au
+[Before] Cookie-Name 19: _shopify_y
+[Before] Cookie-Name 20: cart_sig
+[Before] Cookie-Name 21: _gat
+[Before] Cookie-Name 22: _shopify_sa_t
+[Before] Cookie-Name 23: _orig_referrer
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 24
+[After] Website-Cookies: [{'domain': 'weego.de', 'expiry': 1675959774, 'httpOnly': False, 'name': 'cookieconsent_status', 'path': '/', 'secure': False, 'value': 'allow'}, {'domain': 'weego.de', 'expiry': 1645633359, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a7be8b122030ad10d16cdeff5052d6d5'}, {'domain': 'weego.de', 'expiry': 1644427359, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'weego.de', 'expiry': 1645633359, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A2'}, {'domain': 'weego.de', 'expiry': 1675959774, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'weego.de', 'expiry': 1675959774, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': 'marketing%2Canalytics'}, {'domain': 'weego.de', 'expiry': 1645633359, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644423760'}, {'domain': 'weego.de', 'expiry': 1645633359, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '459e0d1eff19430c0fd01846ec6fce7c'}, {'domain': '.weego.de', 'expiry': 1675959774, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1db7cb4a-1c92-48c8-98ce-9307c101f2bb'}, {'domain': '.weego.de', 'expiry': 1644510158, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.161282504.1644423756'}, {'domain': '.weego.de', 'expiry': 1652199774, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644423757728.942001381'}, {'domain': '.weego.de', 'expiry': 1644425558, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.weego.de', 'expiry': 1707495758, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.129741825.1644423756'}, {'domain': 'weego.de', 'expiry': 1645633374, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.weego.de', 'expiry': 1644425558, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T16%3A22%3A38.972Z'}, {'domain': '.weego.de', 'expiry': 1675959774, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1db7cb4a-1c92-48c8-98ce-9307c101f2bb'}, {'domain': '.weego.de', 'expiry': 1644425574, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '52c0e43a-3ad7-4d0f-ae6d-f978e09df040'}, {'domain': 'weego.de', 'expiry': 1644510159, 'httpOnly': False, 'name': 'weegoeu-ipinfo-weego.de', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': '.weego.de', 'expiry': 1644425574, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '52c0e43a-3ad7-4d0f-ae6d-f978e09df040'}, {'domain': '.weego.de', 'expiry': 1645633355, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.weego.de', 'expiry': 1644423816, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'weego.de', 'expiry': 1645633374, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.weego.de', 'expiry': 1652199756, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.424568377.1644423756'}, {'domain': '.weego.de', 'expiry': 1645633355, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: cookieconsent_status
+[After] Cookie-Name 2: cart
+[After] Cookie-Name 3: shopify_pay_redirect
+[After] Cookie-Name 4: cart_ver
+[After] Cookie-Name 5: secure_customer_sig
+[After] Cookie-Name 6: cookieconsent_preferences_disabled
+[After] Cookie-Name 7: cart_ts
+[After] Cookie-Name 8: cart_sig
+[After] Cookie-Name 9: _y
+[After] Cookie-Name 10: _gid
+[After] Cookie-Name 11: _fbp
+[After] Cookie-Name 12: _shopify_sa_p
+[After] Cookie-Name 13: _ga
+[After] Cookie-Name 14: localization
+[After] Cookie-Name 15: _shopify_sa_t
+[After] Cookie-Name 16: _shopify_y
+[After] Cookie-Name 17: _s
+[After] Cookie-Name 18: weegoeu-ipinfo-weego.de
+[After] Cookie-Name 19: _shopify_s
+[After] Cookie-Name 20: _landing_page
+[After] Cookie-Name 21: _gat
+[After] Cookie-Name 22: cart_currency
+[After] Cookie-Name 23: _gcl_au
+[After] Cookie-Name 24: _orig_referrer
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _gat (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: cookieconsent_status
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

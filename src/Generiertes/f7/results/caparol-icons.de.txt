@@ -1,0 +1,75 @@
+Website 225: http://www.caparol-icons.de/ | Created: 10.02.2022 18:26:55 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 21
+[Before] Website-Cookies: [{'domain': '.caparol-icons.de', 'expiry': 1644515805, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'fjDeowBHeZ4SJe-20220210172645'}, {'domain': '.caparol-icons.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220210172645-uwEiw03aJp8Kpp5kkpJfzhRo1UuE6slUkkIuyuirvypVqvtAw'}, {'domain': '.caparol-icons.de', 'expiry': 1652290006, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644514005731.1198909579'}, {'domain': '.caparol-icons.de', 'expiry': 1644515805, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.caparol-icons.de', 'expiry': 1676050005, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': '8FEjBTn5asZ53G-20220210172645'}, {'domain': 'caparol-icons.de', 'expiry': 1644517597, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.caparol-icons.de', 'expiry': 1707585997, 'httpOnly': False, 'name': '_ga_EZ77BS9G35', 'path': '/', 'secure': False, 'value': 'GS1.1.1644513997.1.0.1644513997.0'}, {'domain': '.caparol-icons.de', 'expiry': 1645723597, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.caparol-icons.de', 'expiry': 1644515806, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c47f6ef4-6b57-4b2b-af6f-29c1b52d51ff'}, {'domain': '.caparol-icons.de', 'expiry': 1644514057, 'httpOnly': False, 'name': '_gat_UA-132761912-9', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'caparol-icons.de', 'expiry': 1676050006, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.caparol-icons.de', 'expiry': 1676050006, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '11d3a812-f8f2-4e9e-b154-34eb6cef6b9b'}, {'domain': '.caparol-icons.de', 'expiry': 1644515806, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c47f6ef4-6b57-4b2b-af6f-29c1b52d51ff'}, {'domain': '.caparol-icons.de', 'expiry': 1644514065, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.caparol-icons.de', 'expiry': 1645723597, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.caparol-icons.de', 'expiry': 1644515805, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A26%3A45.470Z'}, {'domain': '.caparol-icons.de', 'expiry': 1676050006, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '11d3a812-f8f2-4e9e-b154-34eb6cef6b9b'}, {'domain': '.caparol-icons.de', 'expiry': 1644600405, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.242278954.1644513998'}, {'domain': '.caparol-icons.de', 'expiry': 1707586005, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1594906872.1644513998'}, {'domain': 'caparol-icons.de', 'expiry': 1645723606, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': 'caparol-icons.de', 'expiry': 1645723606, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}]
+[Before] Cookie-Name 1: omnisendSessionID
+[Before] Cookie-Name 2: soundestID
+[Before] Cookie-Name 3: _fbp
+[Before] Cookie-Name 4: _shopify_sa_p
+[Before] Cookie-Name 5: omnisendAnonymousID
+[Before] Cookie-Name 6: shopify_pay_redirect
+[Before] Cookie-Name 7: _ga_EZ77BS9G35
+[Before] Cookie-Name 8: _orig_referrer
+[Before] Cookie-Name 9: _s
+[Before] Cookie-Name 10: _gat_UA-132761912-9
+[Before] Cookie-Name 11: secure_customer_sig
+[Before] Cookie-Name 12: _y
+[Before] Cookie-Name 13: _shopify_s
+[Before] Cookie-Name 14: _gat
+[Before] Cookie-Name 15: _landing_page
+[Before] Cookie-Name 16: _shopify_sa_t
+[Before] Cookie-Name 17: _shopify_y
+[Before] Cookie-Name 18: _gid
+[Before] Cookie-Name 19: _ga
+[Before] Cookie-Name 20: cart_currency
+[Before] Cookie-Name 21: localization
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 22
+[After] Website-Cookies: [{'domain': 'caparol-icons.de', 'expiry': 1675618021, 'httpOnly': False, 'name': 'cookiefirst-consent', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '%7B%22necessary%22%3Atrue%2C%22functional%22%3Atrue%2C%22performance%22%3Atrue%2C%22advertising%22%3Atrue%2C%22timestamp%22%3A1644514021%7D'}, {'domain': '.caparol-icons.de', 'expiry': 1644515805, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'fjDeowBHeZ4SJe-20220210172645'}, {'domain': '.caparol-icons.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220210172645-uwEiw03aJp8Kpp5kkpJfzhRo1UuE6slUkkIuyuirvypVqvtAw'}, {'domain': '.caparol-icons.de', 'expiry': 1652290021, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644514005731.1198909579'}, {'domain': '.caparol-icons.de', 'expiry': 1644515805, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.caparol-icons.de', 'expiry': 1676050005, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': '8FEjBTn5asZ53G-20220210172645'}, {'domain': 'caparol-icons.de', 'expiry': 1644517597, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.caparol-icons.de', 'expiry': 1707585997, 'httpOnly': False, 'name': '_ga_EZ77BS9G35', 'path': '/', 'secure': False, 'value': 'GS1.1.1644513997.1.0.1644513997.0'}, {'domain': '.caparol-icons.de', 'expiry': 1645723597, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.caparol-icons.de', 'expiry': 1644515806, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c47f6ef4-6b57-4b2b-af6f-29c1b52d51ff'}, {'domain': '.caparol-icons.de', 'expiry': 1644514057, 'httpOnly': False, 'name': '_gat_UA-132761912-9', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'caparol-icons.de', 'expiry': 1676050006, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.caparol-icons.de', 'expiry': 1676050006, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '11d3a812-f8f2-4e9e-b154-34eb6cef6b9b'}, {'domain': '.caparol-icons.de', 'expiry': 1644515806, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c47f6ef4-6b57-4b2b-af6f-29c1b52d51ff'}, {'domain': '.caparol-icons.de', 'expiry': 1644514065, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.caparol-icons.de', 'expiry': 1645723597, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.caparol-icons.de', 'expiry': 1644515805, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A26%3A45.470Z'}, {'domain': '.caparol-icons.de', 'expiry': 1676050006, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '11d3a812-f8f2-4e9e-b154-34eb6cef6b9b'}, {'domain': '.caparol-icons.de', 'expiry': 1644600405, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.242278954.1644513998'}, {'domain': '.caparol-icons.de', 'expiry': 1707586005, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1594906872.1644513998'}, {'domain': 'caparol-icons.de', 'expiry': 1645723606, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': 'caparol-icons.de', 'expiry': 1645723606, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}]
+[After] Cookie-Name 1: cookiefirst-consent
+[After] Cookie-Name 2: omnisendSessionID
+[After] Cookie-Name 3: soundestID
+[After] Cookie-Name 4: _fbp
+[After] Cookie-Name 5: _shopify_sa_p
+[After] Cookie-Name 6: omnisendAnonymousID
+[After] Cookie-Name 7: shopify_pay_redirect
+[After] Cookie-Name 8: _ga_EZ77BS9G35
+[After] Cookie-Name 9: _orig_referrer
+[After] Cookie-Name 10: _s
+[After] Cookie-Name 11: _gat_UA-132761912-9
+[After] Cookie-Name 12: secure_customer_sig
+[After] Cookie-Name 13: _y
+[After] Cookie-Name 14: _shopify_s
+[After] Cookie-Name 15: _gat
+[After] Cookie-Name 16: _landing_page
+[After] Cookie-Name 17: _shopify_sa_t
+[After] Cookie-Name 18: _shopify_y
+[After] Cookie-Name 19: _gid
+[After] Cookie-Name 20: _ga
+[After] Cookie-Name 21: cart_currency
+[After] Cookie-Name 22: localization
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: cookiefirst-consent
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

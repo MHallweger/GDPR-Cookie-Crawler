@@ -1,0 +1,78 @@
+Website 174: http://www.natural-self.de/ | Created: 10.02.2022 20:49:50 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 20
+[Before] Website-Cookies: [{'domain': '.natural-self.de', 'expiry': 1652298581, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644522581048.1753758624'}, {'domain': '.natural-self.de', 'expiry': 1644522640, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.natural-self.de', 'expiry': 1644608980, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1904123474.1644522581'}, {'domain': '.natural-self.de', 'expiry': 1707594580, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1090920653.1644522581'}, {'domain': '.natural-self.de', 'expiry': 1644608980, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': '960824a08aaa11ec85358db9c4a59c6b'}, {'domain': 'natural-self.de', 'expiry': 1644608981, 'httpOnly': False, 'name': '_shopify_scrts', 'path': '/', 'secure': False, 'value': 'natural-self.de'}, {'domain': '.natural-self.de', 'expiry': 1644524380, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.natural-self.de', 'expiry': 1644524380, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T19%3A49%3A40.700Z'}, {'domain': 'natural-self.de', 'expiry': 1644526180, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.natural-self.de', 'expiry': 1676058580, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '363dc4a7-cb7b-4fc4-8847-3e969c95d0ec'}, {'domain': '.natural-self.de', 'expiry': 1644524380, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9d23919a-69aa-4751-afd0-e8f0a6059d23'}, {'domain': '.natural-self.de', 'expiry': 1652298580, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1714978700.1644522581'}, {'domain': '.natural-self.de', 'expiry': 1676058580, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '363dc4a7-cb7b-4fc4-8847-3e969c95d0ec'}, {'domain': '.natural-self.de', 'expiry': 1644524380, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9d23919a-69aa-4751-afd0-e8f0a6059d23'}, {'domain': '.natural-self.de', 'expiry': 1645732180, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'natural-self.de', 'expiry': 1676058580, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.natural-self.de', 'expiry': 1645732180, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.natural-self.de', 'expiry': 1678218580, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '96085a008aaa11ec950f3722c0de8da0'}, {'domain': 'natural-self.de', 'expiry': 1645732180, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'natural-self.de', 'expiry': 1645732180, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[Before] Cookie-Name 1: _fbp
+[Before] Cookie-Name 2: _gat
+[Before] Cookie-Name 3: _gid
+[Before] Cookie-Name 4: _ga
+[Before] Cookie-Name 5: _uetsid
+[Before] Cookie-Name 6: _shopify_scrts
+[Before] Cookie-Name 7: _shopify_sa_p
+[Before] Cookie-Name 8: _shopify_sa_t
+[Before] Cookie-Name 9: shopify_pay_redirect
+[Before] Cookie-Name 10: _shopify_y
+[Before] Cookie-Name 11: _shopify_s
+[Before] Cookie-Name 12: _gcl_au
+[Before] Cookie-Name 13: _y
+[Before] Cookie-Name 14: _s
+[Before] Cookie-Name 15: _landing_page
+[Before] Cookie-Name 16: secure_customer_sig
+[Before] Cookie-Name 17: _orig_referrer
+[Before] Cookie-Name 18: _uetvid
+[Before] Cookie-Name 19: cart_currency
+[Before] Cookie-Name 20: localization
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 23
+[After] Website-Cookies: [{'domain': 'natural-self.de', 'httpOnly': False, 'name': 'ns-accept', 'path': '/', 'secure': False, 'value': 'all'}, {'domain': '.natural-self.de', 'expiry': 1652298581, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644522581048.1753758624'}, {'domain': '.natural-self.de', 'expiry': 1644522640, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.natural-self.de', 'expiry': 1644608980, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1904123474.1644522581'}, {'domain': '.natural-self.de', 'expiry': 1707594580, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1090920653.1644522581'}, {'domain': '.natural-self.de', 'expiry': 1644608980, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': '960824a08aaa11ec85358db9c4a59c6b'}, {'domain': 'natural-self.de', 'expiry': 1644608981, 'httpOnly': False, 'name': '_shopify_scrts', 'path': '/', 'secure': False, 'value': 'natural-self.de'}, {'domain': '.natural-self.de', 'expiry': 1644524380, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.natural-self.de', 'expiry': 1678481396, 'httpOnly': False, 'name': 'SL_C_23361dd035530_VID', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': 'no8JMH1uJw'}, {'domain': '.natural-self.de', 'expiry': 1644524380, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T19%3A49%3A40.700Z'}, {'domain': 'natural-self.de', 'expiry': 1644526180, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.natural-self.de', 'expiry': 1676058580, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '363dc4a7-cb7b-4fc4-8847-3e969c95d0ec'}, {'domain': '.natural-self.de', 'expiry': 1644524380, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9d23919a-69aa-4751-afd0-e8f0a6059d23'}, {'domain': '.natural-self.de', 'expiry': 1652298580, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1714978700.1644522581'}, {'domain': '.natural-self.de', 'expiry': 1676058580, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '363dc4a7-cb7b-4fc4-8847-3e969c95d0ec'}, {'domain': '.natural-self.de', 'expiry': 1644524380, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9d23919a-69aa-4751-afd0-e8f0a6059d23'}, {'domain': '.natural-self.de', 'expiry': 1645732180, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'natural-self.de', 'expiry': 1676058580, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.natural-self.de', 'expiry': 1645732180, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.natural-self.de', 'expiry': 1678218580, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '96085a008aaa11ec950f3722c0de8da0'}, {'domain': 'natural-self.de', 'expiry': 1645732180, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.natural-self.de', 'expiry': 1678481396, 'httpOnly': False, 'name': 'SL_C_23361dd035530_KEY', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': '12bbc3a65349b9c24bca13641a7132232b690847'}, {'domain': 'natural-self.de', 'expiry': 1645732180, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[After] Cookie-Name 1: ns-accept
+[After] Cookie-Name 2: _fbp
+[After] Cookie-Name 3: _gat
+[After] Cookie-Name 4: _gid
+[After] Cookie-Name 5: _ga
+[After] Cookie-Name 6: _uetsid
+[After] Cookie-Name 7: _shopify_scrts
+[After] Cookie-Name 8: _shopify_sa_p
+[After] Cookie-Name 9: SL_C_23361dd035530_VID
+[After] Cookie-Name 10: _shopify_sa_t
+[After] Cookie-Name 11: shopify_pay_redirect
+[After] Cookie-Name 12: _shopify_y
+[After] Cookie-Name 13: _shopify_s
+[After] Cookie-Name 14: _gcl_au
+[After] Cookie-Name 15: _y
+[After] Cookie-Name 16: _s
+[After] Cookie-Name 17: _landing_page
+[After] Cookie-Name 18: secure_customer_sig
+[After] Cookie-Name 19: _orig_referrer
+[After] Cookie-Name 20: _uetvid
+[After] Cookie-Name 21: cart_currency
+[After] Cookie-Name 22: SL_C_23361dd035530_KEY
+[After] Cookie-Name 23: localization
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 3
+[Difference] Cookie-Name: 1: SL_C_23361dd035530_VID
+[Difference] Cookie-Name: 2: ns-accept
+[Difference] Cookie-Name: 3: SL_C_23361dd035530_KEY
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

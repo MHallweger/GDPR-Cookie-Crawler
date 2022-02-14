@@ -1,0 +1,87 @@
+Website 347: http://www.durance.de/ | Created: 09.02.2022 21:23:02 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 25
+[Before] Website-Cookies: [{'domain': '.durance.de', 'expiry': 1675974175, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7eae8830-d0bd-4b34-a60d-cbfda819775a'}, {'domain': 'durance.de', 'expiry': 1645647774, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A2'}, {'domain': '.durance.de', 'expiry': 1644439975, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '068b05ce-1848-4bd1-9ab3-655650910c7c'}, {'domain': '.durance.de', 'expiry': 1645647773, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.durance.de', 'expiry': 1644524574, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': '1eu8jmi|1644438174729|1|1|b.clarity.ms/collect'}, {'domain': 'durance.de', 'expiry': 1675974174, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': 'marketing%2Canalytics'}, {'domain': 'durance.de', 'expiry': 1645647774, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '975ea681f7f2a7d01c9263933a725fab'}, {'domain': '.durance.de', 'expiry': 1644439975, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '068b05ce-1848-4bd1-9ab3-655650910c7c'}, {'domain': 'durance.de', 'expiry': 1645647774, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644438174'}, {'domain': '.durance.de', 'expiry': 1675974174, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': '16mawgi|1|eyu|0'}, {'domain': '.durance.de', 'expiry': 1678134173, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '0f70ba4089e611ec9177c34bfb8d2390'}, {'domain': '.durance.de', 'expiry': 1675974173, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU1XVmpNamN3WXpBdE1HRm1ZUzAwTkdVMUxXRTNaVGd0T1dKak9UaGpaamswT0RaaA'}, {'domain': '.durance.de', 'expiry': 1644524573, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.2064033309.1644438174'}, {'domain': '.durance.de', 'expiry': 1644439973, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.durance.de', 'expiry': 1645647773, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'durance.de', 'expiry': 1675974175, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'durance.de', 'expiry': 1644441773, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'durance.de', 'expiry': 1707510174, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MzgxNzQsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vZHVyYW5jZS5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQ0MzgxNzQsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vZHVyYW5jZS5kZS8ifX0='}, {'domain': '.durance.de', 'expiry': 1652214173, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1622624981.1644438174'}, {'domain': 'durance.de', 'expiry': 1645647774, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cc2aebadcae2fc979901faabae48565b'}, {'domain': '.durance.de', 'expiry': 1644524573, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': '0f70927089e611ecba23b916d0621f11'}, {'domain': 'durance.de', 'expiry': 1645647775, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'durance.de', 'expiry': 1645647775, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'durance.de', 'expiry': 1644438774, 'httpOnly': False, 'name': 'unique_interaction_id', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e641bc82-6991-4bec-b034-55c0da133593'}, {'domain': '.durance.de', 'expiry': 1675974175, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7eae8830-d0bd-4b34-a60d-cbfda819775a'}]
+[Before] Cookie-Name 1: _shopify_y
+[Before] Cookie-Name 2: cart_ver
+[Before] Cookie-Name 3: _s
+[Before] Cookie-Name 4: _landing_page
+[Before] Cookie-Name 5: _clsk
+[Before] Cookie-Name 6: cookieconsent_preferences_disabled
+[Before] Cookie-Name 7: cart
+[Before] Cookie-Name 8: _shopify_s
+[Before] Cookie-Name 9: cart_ts
+[Before] Cookie-Name 10: _clck
+[Before] Cookie-Name 11: _uetvid
+[Before] Cookie-Name 12: _pin_unauth
+[Before] Cookie-Name 13: _gid
+[Before] Cookie-Name 14: _shopify_sa_p
+[Before] Cookie-Name 15: _orig_referrer
+[Before] Cookie-Name 16: secure_customer_sig
+[Before] Cookie-Name 17: shopify_pay_redirect
+[Before] Cookie-Name 18: __kla_id
+[Before] Cookie-Name 19: _gcl_au
+[Before] Cookie-Name 20: cart_sig
+[Before] Cookie-Name 21: _uetsid
+[Before] Cookie-Name 22: cart_currency
+[Before] Cookie-Name 23: localization
+[Before] Cookie-Name 24: unique_interaction_id
+[Before] Cookie-Name 25: _y
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 27
+[After] Website-Cookies: [{'domain': 'durance.de', 'expiry': 1675974188, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': 'marketing%2Canalytics'}, {'domain': 'durance.de', 'expiry': 1675974188, 'httpOnly': False, 'name': 'cookieconsent_status', 'path': '/', 'secure': False, 'value': 'allow'}, {'domain': '.durance.de', 'expiry': 1675974175, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7eae8830-d0bd-4b34-a60d-cbfda819775a'}, {'domain': 'durance.de', 'expiry': 1645647774, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A2'}, {'domain': '.durance.de', 'expiry': 1644439975, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '068b05ce-1848-4bd1-9ab3-655650910c7c'}, {'domain': '.durance.de', 'expiry': 1645647773, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.durance.de', 'expiry': 1644524574, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': '1eu8jmi|1644438174729|1|1|b.clarity.ms/collect'}, {'domain': 'durance.de', 'expiry': 1645647774, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '975ea681f7f2a7d01c9263933a725fab'}, {'domain': '.durance.de', 'expiry': 1644439975, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '068b05ce-1848-4bd1-9ab3-655650910c7c'}, {'domain': 'durance.de', 'expiry': 1645647774, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644438174'}, {'domain': '.durance.de', 'expiry': 1675974174, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': '16mawgi|1|eyu|0'}, {'domain': '.durance.de', 'expiry': 1652214188, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644438188088.1933814214'}, {'domain': '.durance.de', 'expiry': 1678134173, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '0f70ba4089e611ec9177c34bfb8d2390'}, {'domain': '.durance.de', 'expiry': 1675974173, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU1XVmpNamN3WXpBdE1HRm1ZUzAwTkdVMUxXRTNaVGd0T1dKak9UaGpaamswT0RaaA'}, {'domain': '.durance.de', 'expiry': 1644524573, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.2064033309.1644438174'}, {'domain': '.durance.de', 'expiry': 1644439973, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.durance.de', 'expiry': 1645647773, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'durance.de', 'expiry': 1675974175, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'durance.de', 'expiry': 1644441773, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'durance.de', 'expiry': 1707510174, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MzgxNzQsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vZHVyYW5jZS5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQ0MzgxNzQsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vZHVyYW5jZS5kZS8ifX0='}, {'domain': '.durance.de', 'expiry': 1652214173, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1622624981.1644438174'}, {'domain': 'durance.de', 'expiry': 1645647774, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cc2aebadcae2fc979901faabae48565b'}, {'domain': '.durance.de', 'expiry': 1644524573, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': '0f70927089e611ecba23b916d0621f11'}, {'domain': 'durance.de', 'expiry': 1645647775, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'durance.de', 'expiry': 1645647775, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'durance.de', 'expiry': 1644438774, 'httpOnly': False, 'name': 'unique_interaction_id', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e641bc82-6991-4bec-b034-55c0da133593'}, {'domain': '.durance.de', 'expiry': 1675974175, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7eae8830-d0bd-4b34-a60d-cbfda819775a'}]
+[After] Cookie-Name 1: cookieconsent_preferences_disabled
+[After] Cookie-Name 2: cookieconsent_status
+[After] Cookie-Name 3: _shopify_y
+[After] Cookie-Name 4: cart_ver
+[After] Cookie-Name 5: _s
+[After] Cookie-Name 6: _landing_page
+[After] Cookie-Name 7: _clsk
+[After] Cookie-Name 8: cart
+[After] Cookie-Name 9: _shopify_s
+[After] Cookie-Name 10: cart_ts
+[After] Cookie-Name 11: _clck
+[After] Cookie-Name 12: _fbp
+[After] Cookie-Name 13: _uetvid
+[After] Cookie-Name 14: _pin_unauth
+[After] Cookie-Name 15: _gid
+[After] Cookie-Name 16: _shopify_sa_p
+[After] Cookie-Name 17: _orig_referrer
+[After] Cookie-Name 18: secure_customer_sig
+[After] Cookie-Name 19: shopify_pay_redirect
+[After] Cookie-Name 20: __kla_id
+[After] Cookie-Name 21: _gcl_au
+[After] Cookie-Name 22: cart_sig
+[After] Cookie-Name 23: _uetsid
+[After] Cookie-Name 24: cart_currency
+[After] Cookie-Name 25: localization
+[After] Cookie-Name 26: unique_interaction_id
+[After] Cookie-Name 27: _y
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _clsk (Microsoft Clarity (User experience tool))
+[Used before] Cookie-Name: _clck (Microsoft Clarity (User experience tool))
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 2
+[Difference] Cookie-Name: 1: _fbp
+[Difference] Cookie-Name: 2: cookieconsent_status
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

@@ -1,0 +1,72 @@
+Website 332: http://www.kombuco-fizz.de/ | Created: 09.02.2022 18:51:46 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 19
+[Before] Website-Cookies: [{'domain': '.kombuco-fizz.de', 'expiry': 1707501098, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.1.1461703279.1644429097'}, {'domain': 'kombuco-fizz.de', 'expiry': 1707501097, 'httpOnly': False, 'name': '_ama', 'path': '/', 'secure': False, 'value': '1461703279.1644429097'}, {'domain': 'kombuco-fizz.de', 'expiry': 1644432697, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.kombuco-fizz.de', 'expiry': 1644515497, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.316089016.1644429097'}, {'domain': '.kombuco-fizz.de', 'expiry': 1652205097, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644429097248.128568349'}, {'domain': '.kombuco-fizz.de', 'expiry': 1644429157, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.kombuco-fizz.de', 'expiry': 1652205096, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.65847746.1644429097'}, {'domain': '.kombuco-fizz.de', 'expiry': 1644430902, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd825b375-ec5c-4746-93e0-06af679ebcf4'}, {'domain': '.kombuco-fizz.de', 'expiry': 1675965102, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '03ea6c74-a76a-40bc-8476-4f6704a9d253'}, {'domain': '.kombuco-fizz.de', 'expiry': 1644430897, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kombuco-fizz.de', 'expiry': 1644430897, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A51%3A37.003Z'}, {'domain': '.kombuco-fizz.de', 'expiry': 1645638696, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.kombuco-fizz.de', 'expiry': 1645638696, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kombuco-fizz.de', 'expiry': 1644430902, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd825b375-ec5c-4746-93e0-06af679ebcf4'}, {'domain': '.kombuco-fizz.de', 'expiry': 1675965102, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '03ea6c74-a76a-40bc-8476-4f6704a9d253'}, {'domain': '.kombuco-fizz.de', 'expiry': 1707501098, 'httpOnly': False, 'name': '_ga_S8VXCC5E20', 'path': '/', 'secure': False, 'value': 'GS1.1.3c5a929f-3e61-4012-b0a5-34ffd719d1c2.1.0.1644429098.0'}, {'domain': 'kombuco-fizz.de', 'expiry': 1675965102, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'kombuco-fizz.de', 'expiry': 1645638698, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'kombuco-fizz.de', 'expiry': 1645638702, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[Before] Cookie-Name 1: _ga
+[Before] Cookie-Name 2: _ama
+[Before] Cookie-Name 3: shopify_pay_redirect
+[Before] Cookie-Name 4: _gid
+[Before] Cookie-Name 5: _fbp
+[Before] Cookie-Name 6: _gat
+[Before] Cookie-Name 7: _gcl_au
+[Before] Cookie-Name 8: _s
+[Before] Cookie-Name 9: _y
+[Before] Cookie-Name 10: _shopify_sa_p
+[Before] Cookie-Name 11: _shopify_sa_t
+[Before] Cookie-Name 12: _landing_page
+[Before] Cookie-Name 13: _orig_referrer
+[Before] Cookie-Name 14: _shopify_s
+[Before] Cookie-Name 15: _shopify_y
+[Before] Cookie-Name 16: _ga_S8VXCC5E20
+[Before] Cookie-Name 17: secure_customer_sig
+[Before] Cookie-Name 18: cart_currency
+[Before] Cookie-Name 19: localization
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 19
+[After] Website-Cookies: [{'domain': '.kombuco-fizz.de', 'expiry': 1707501098, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.1.1461703279.1644429097'}, {'domain': 'kombuco-fizz.de', 'expiry': 1707501097, 'httpOnly': False, 'name': '_ama', 'path': '/', 'secure': False, 'value': '1461703279.1644429097'}, {'domain': 'kombuco-fizz.de', 'expiry': 1644432697, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.kombuco-fizz.de', 'expiry': 1644515497, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.316089016.1644429097'}, {'domain': '.kombuco-fizz.de', 'expiry': 1652205097, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644429097248.128568349'}, {'domain': '.kombuco-fizz.de', 'expiry': 1644429157, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.kombuco-fizz.de', 'expiry': 1652205096, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.65847746.1644429097'}, {'domain': '.kombuco-fizz.de', 'expiry': 1644430902, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd825b375-ec5c-4746-93e0-06af679ebcf4'}, {'domain': '.kombuco-fizz.de', 'expiry': 1675965102, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '03ea6c74-a76a-40bc-8476-4f6704a9d253'}, {'domain': '.kombuco-fizz.de', 'expiry': 1644430897, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kombuco-fizz.de', 'expiry': 1644430897, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A51%3A37.003Z'}, {'domain': '.kombuco-fizz.de', 'expiry': 1645638696, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.kombuco-fizz.de', 'expiry': 1645638696, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kombuco-fizz.de', 'expiry': 1644430902, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd825b375-ec5c-4746-93e0-06af679ebcf4'}, {'domain': '.kombuco-fizz.de', 'expiry': 1675965102, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '03ea6c74-a76a-40bc-8476-4f6704a9d253'}, {'domain': '.kombuco-fizz.de', 'expiry': 1707501111, 'httpOnly': False, 'name': '_ga_S8VXCC5E20', 'path': '/', 'secure': False, 'value': 'GS1.1.3c5a929f-3e61-4012-b0a5-34ffd719d1c2.1.0.1644429111.0'}, {'domain': 'kombuco-fizz.de', 'expiry': 1675965102, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'kombuco-fizz.de', 'expiry': 1645638698, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'kombuco-fizz.de', 'expiry': 1645638702, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[After] Cookie-Name 1: _ga
+[After] Cookie-Name 2: _ama
+[After] Cookie-Name 3: shopify_pay_redirect
+[After] Cookie-Name 4: _gid
+[After] Cookie-Name 5: _fbp
+[After] Cookie-Name 6: _gat
+[After] Cookie-Name 7: _gcl_au
+[After] Cookie-Name 8: _s
+[After] Cookie-Name 9: _y
+[After] Cookie-Name 10: _shopify_sa_p
+[After] Cookie-Name 11: _shopify_sa_t
+[After] Cookie-Name 12: _landing_page
+[After] Cookie-Name 13: _orig_referrer
+[After] Cookie-Name 14: _shopify_s
+[After] Cookie-Name 15: _shopify_y
+[After] Cookie-Name 16: _ga_S8VXCC5E20
+[After] Cookie-Name 17: secure_customer_sig
+[After] Cookie-Name 18: cart_currency
+[After] Cookie-Name 19: localization
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

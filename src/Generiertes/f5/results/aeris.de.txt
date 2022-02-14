@@ -1,0 +1,102 @@
+Website 262: http://www.aeris.de/ | Created: 09.02.2022 20:56:47 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 33
+[Before] Website-Cookies: [{'domain': '.aeris.de', 'expiry': 1675972599, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22con%22%3A%7B%22GDPR%22%3A%220%22%7D%2C%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': 'www.aeris.de', 'httpOnly': False, 'name': 'qab_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': 'www.aeris.de', 'expiry': 1645646201, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0ffa00c78f2cce83fa9eec27a59d7ce3'}, {'domain': 'www.aeris.de', 'expiry': 1645646198, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644436598'}, {'domain': 'www.aeris.de', 'expiry': 1645646201, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.aeris.de', 'expiry': 1644438398, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': 'www.aeris.de', 'expiry': 1675972600, 'httpOnly': False, 'name': '_pandectes_gdpr', 'path': '/', 'secure': True, 'value': 'eyJjb3VudHJ5Ijp7ImNvZGUiOiJERSIsInN0YXRlIjoiTlciLCJkZXRlY3RlZCI6MTY0NDQzNjYwMH0sInN0YXR1cyI6IiIsInRpbWVzdGFtcCI6bnVsbCwicHJlZmVyZW5jZXMiOjd9'}, {'domain': 'www.aeris.de', 'expiry': 1645646198, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': '.aeris.de', 'expiry': 1644438398, 'httpOnly': False, 'name': '_hjSession_1847807', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjFmMjRiODI5LTRlZTktNDA1ZS05ZWQxLTdkMDJjZDQzNDQwZCIsImNyZWF0ZWQiOjE2NDQ0MzY1OTg0ODEsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': '.aeris.de', 'expiry': 1678132598, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '648738c089e211ec9ca6933ecc44d9b4'}, {'domain': '.aeris.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A56%3A38.063Z'}, {'domain': '.aeris.de', 'expiry': 1644522998, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.314916692.1644436598'}, {'domain': '.aeris.de', 'expiry': 1707508598, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.604380856.1644436598'}, {'domain': '.aeris.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.aeris.de', 'expiry': 1645646197, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.aeris.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.aeris.de', 'expiry': 1644438398, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.aeris.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.aeris.de', 'expiry': 1652212597, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1092109838.1644436598'}, {'domain': '.aeris.de', 'expiry': 1675972598, 'httpOnly': False, 'name': '_hjSessionUser_1847807', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6Ijc0NjhhYTM1LWJlODYtNTNhOC1hZjRhLWRlNTRhYTU4ODZmZCIsImNyZWF0ZWQiOjE2NDQ0MzY1OTgxMzAsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.aeris.de', 'expiry': 1675972599, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.aeris.de', 'expiry': 1644438401, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.aeris.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.aeris.de', 'expiry': 1644438397, 'httpOnly': False, 'name': '_shopify_country', 'path': '/', 'secure': False, 'value': 'Germany'}, {'domain': '.aeris.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ecc73b1a-1e93-4cca-bed2-dd736e03a338'}, {'domain': '.aeris.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '830e7a65-216f-45b4-a98c-bce714a94d71'}, {'domain': 'www.aeris.de', 'expiry': 1645646201, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.aeris.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ecc73b1a-1e93-4cca-bed2-dd736e03a338'}, {'domain': 'www.aeris.de', 'expiry': 1645646198, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '744212bc0ee17e976776a4b4309f948a'}, {'domain': 'www.aeris.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.aeris.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A56%3A38.038Z'}, {'domain': '.aeris.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '830e7a65-216f-45b4-a98c-bce714a94d71'}, {'domain': 'www.aeris.de', 'expiry': 1675972601, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _tracking_consent
+[Before] Cookie-Name 2: qab_previous_pathname
+[Before] Cookie-Name 3: cart_sig
+[Before] Cookie-Name 4: cart_ts
+[Before] Cookie-Name 5: localization
+[Before] Cookie-Name 6: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 7: _pandectes_gdpr
+[Before] Cookie-Name 8: cart_ver
+[Before] Cookie-Name 9: _hjSession_1847807
+[Before] Cookie-Name 10: _uetvid
+[Before] Cookie-Name 11: _shopify_sa_t
+[Before] Cookie-Name 12: _gid
+[Before] Cookie-Name 13: _ga
+[Before] Cookie-Name 14: _landing_page
+[Before] Cookie-Name 15: _shopify_tw
+[Before] Cookie-Name 16: _shopify_evids
+[Before] Cookie-Name 17: _hjFirstSeen
+[Before] Cookie-Name 18: _shopify_sa_p
+[Before] Cookie-Name 19: _gcl_au
+[Before] Cookie-Name 20: _hjSessionUser_1847807
+[Before] Cookie-Name 21: _shopify_m
+[Before] Cookie-Name 22: _shopify_tm
+[Before] Cookie-Name 23: _orig_referrer
+[Before] Cookie-Name 24: _shopify_country
+[Before] Cookie-Name 25: _shopify_s
+[Before] Cookie-Name 26: _shopify_y
+[Before] Cookie-Name 27: cart_currency
+[Before] Cookie-Name 28: _s
+[Before] Cookie-Name 29: cart
+[Before] Cookie-Name 30: _shopify_evids
+[Before] Cookie-Name 31: _shopify_d
+[Before] Cookie-Name 32: _y
+[Before] Cookie-Name 33: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 35
+[After] Website-Cookies: [{'domain': '.aeris.de', 'expiry': 1644436673, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.aeris.de', 'expiry': 1675972613, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22con%22%3A%7B%22GDPR%22%3A%221%22%7D%7D'}, {'domain': '.aeris.de', 'expiry': 1675972613, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': 'www.aeris.de', 'httpOnly': False, 'name': 'qab_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': 'www.aeris.de', 'expiry': 1645646213, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0ffa00c78f2cce83fa9eec27a59d7ce3'}, {'domain': 'www.aeris.de', 'expiry': 1645646198, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644436598'}, {'domain': 'www.aeris.de', 'expiry': 1645646213, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.aeris.de', 'expiry': 1644438398, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.aeris.de', 'expiry': 1675972598, 'httpOnly': False, 'name': '_hjSessionUser_1847807', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6Ijc0NjhhYTM1LWJlODYtNTNhOC1hZjRhLWRlNTRhYTU4ODZmZCIsImNyZWF0ZWQiOjE2NDQ0MzY1OTgxMzAsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.aeris.de', 'expiry': 1678132598, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '648738c089e211ec9ca6933ecc44d9b4'}, {'domain': '.aeris.de', 'expiry': 1644438413, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A56%3A38.063Z'}, {'domain': '.aeris.de', 'expiry': 1707508613, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.604380856.1644436598'}, {'domain': '.aeris.de', 'expiry': 1644523013, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.314916692.1644436598'}, {'domain': '.aeris.de', 'expiry': 1645646213, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.aeris.de', 'expiry': 1645646197, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.aeris.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.aeris.de', 'expiry': 1644438398, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.aeris.de', 'expiry': 1644438413, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.aeris.de', 'expiry': 1652212597, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1092109838.1644436598'}, {'domain': '.aeris.de', 'expiry': 1644438413, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.aeris.de', 'expiry': 1645646213, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.aeris.de', 'expiry': 1644438397, 'httpOnly': False, 'name': '_shopify_country', 'path': '/', 'secure': False, 'value': 'Germany'}, {'domain': '.aeris.de', 'expiry': 1644438413, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ecc73b1a-1e93-4cca-bed2-dd736e03a338'}, {'domain': '.aeris.de', 'expiry': 1675972613, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '830e7a65-216f-45b4-a98c-bce714a94d71'}, {'domain': 'www.aeris.de', 'expiry': 1645646213, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.aeris.de', 'expiry': 1644438413, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ecc73b1a-1e93-4cca-bed2-dd736e03a338'}, {'domain': 'www.aeris.de', 'expiry': 1645646198, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '744212bc0ee17e976776a4b4309f948a'}, {'domain': 'www.aeris.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.aeris.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A56%3A38.038Z'}, {'domain': '.aeris.de', 'expiry': 1675972613, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '830e7a65-216f-45b4-a98c-bce714a94d71'}, {'domain': 'www.aeris.de', 'expiry': 1675972613, 'httpOnly': False, 'name': '_pandectes_gdpr', 'path': '/', 'secure': True, 'value': 'eyJjb3VudHJ5Ijp7ImNvZGUiOiJERSIsInN0YXRlIjoiTlciLCJkZXRlY3RlZCI6MTY0NDQzNjYwMH0sInN0YXR1cyI6ImFsbG93IiwidGltZXN0YW1wIjoxNjQ0NDM2NjEzLCJwcmVmZXJlbmNlcyI6MCwiaWQiOiI2MjA0MWM4NTI1MGJlNTgyZDE5MTk5MzEifQ=='}, {'domain': '.aeris.de', 'expiry': 1652212614, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644436613528.782194761'}, {'domain': 'www.aeris.de', 'expiry': 1645646198, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': '.aeris.de', 'expiry': 1644438398, 'httpOnly': False, 'name': '_hjSession_1847807', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjFmMjRiODI5LTRlZTktNDA1ZS05ZWQxLTdkMDJjZDQzNDQwZCIsImNyZWF0ZWQiOjE2NDQ0MzY1OTg0ODEsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': 'www.aeris.de', 'expiry': 1675972613, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _gat
+[After] Cookie-Name 2: _tracking_consent
+[After] Cookie-Name 3: _shopify_m
+[After] Cookie-Name 4: qab_previous_pathname
+[After] Cookie-Name 5: cart_sig
+[After] Cookie-Name 6: cart_ts
+[After] Cookie-Name 7: localization
+[After] Cookie-Name 8: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 9: _hjSessionUser_1847807
+[After] Cookie-Name 10: _uetvid
+[After] Cookie-Name 11: _shopify_sa_t
+[After] Cookie-Name 12: _ga
+[After] Cookie-Name 13: _gid
+[After] Cookie-Name 14: _landing_page
+[After] Cookie-Name 15: _shopify_tw
+[After] Cookie-Name 16: _shopify_evids
+[After] Cookie-Name 17: _hjFirstSeen
+[After] Cookie-Name 18: _shopify_sa_p
+[After] Cookie-Name 19: _gcl_au
+[After] Cookie-Name 20: _shopify_tm
+[After] Cookie-Name 21: _orig_referrer
+[After] Cookie-Name 22: _shopify_country
+[After] Cookie-Name 23: _shopify_s
+[After] Cookie-Name 24: _shopify_y
+[After] Cookie-Name 25: cart_currency
+[After] Cookie-Name 26: _s
+[After] Cookie-Name 27: cart
+[After] Cookie-Name 28: _shopify_evids
+[After] Cookie-Name 29: _shopify_d
+[After] Cookie-Name 30: _y
+[After] Cookie-Name 31: _pandectes_gdpr
+[After] Cookie-Name 32: _fbp
+[After] Cookie-Name 33: cart_ver
+[After] Cookie-Name 34: _hjSession_1847807
+[After] Cookie-Name 35: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 2
+[Difference] Cookie-Name: 1: _fbp
+[Difference] Cookie-Name: 2: _gat
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

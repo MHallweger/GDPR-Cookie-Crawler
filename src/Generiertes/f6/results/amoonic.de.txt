@@ -1,0 +1,101 @@
+Website 16: http://www.amoonic.de/ | Created: 10.02.2022 12:17:18 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 30
+[Before] Website-Cookies: [{'domain': 'amoonic.de', 'expiry': 1676027831, 'httpOnly': False, 'name': '_pandectes_gdpr', 'path': '/', 'secure': True, 'value': 'eyJjb3VudHJ5Ijp7ImNvZGUiOiJERSIsInN0YXRlIjoiTlciLCJkZXRlY3RlZCI6MTY0NDQ5MTgzMX0sInN0YXR1cyI6IiIsInRpbWVzdGFtcCI6bnVsbCwicHJlZmVyZW5jZXMiOjd9'}, {'domain': 'amoonic.de', 'httpOnly': False, 'name': '__brTagsSet', 'path': '/', 'secure': False, 'value': 'add to cart'}, {'domain': 'amoonic.de', 'httpOnly': False, 'name': '__brLastSetCartToken', 'path': '/', 'secure': False, 'value': '6f265207de2aad0c36b755537b8984c4'}, {'domain': 'amoonic.de', 'expiry': 1645701430, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': 'amoonic.de', 'expiry': 1645701432, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4049f10ee4635b51ac4dc7a01555f796'}, {'domain': 'amoonic.de', 'expiry': 1645701430, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644491829'}, {'domain': 'amoonic.de', 'expiry': 1645701432, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.amoonic.de', 'expiry': 1652267828, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1474667760.1644491829'}, {'domain': 'amoonic.de', 'expiry': 1645701430, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6f265207de2aad0c36b755537b8984c4'}, {'domain': 'amoonic.de', 'expiry': 1644495428, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'amoonic.de', 'expiry': 1707563830, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0OTE4MzAsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vYW1vb25pYy5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQ0OTE4MzAsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vYW1vb25pYy5kZS8ifX0='}, {'domain': 'amoonic.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.amoonic.de', 'expiry': 1644578230, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': 'm3n04q|1644491830008|1|1|j.clarity.ms/collect'}, {'domain': '.amoonic.de', 'expiry': 1678187828, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': 'fc719de08a6211ecbaed9f1db274efdd'}, {'domain': '.amoonic.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.amoonic.de', 'expiry': 1676027830, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%220%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': '.amoonic.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T11%3A17%3A08.801Z'}, {'domain': '.amoonic.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8461fd2a-bec2-4d0e-bb5a-12fceee5af1d'}, {'domain': '.amoonic.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.amoonic.de', 'expiry': 1676027830, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': 'amoonic.de', 'expiry': 1645701432, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.amoonic.de', 'expiry': 1645701428, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.amoonic.de', 'expiry': 1644493632, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.amoonic.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8461fd2a-bec2-4d0e-bb5a-12fceee5af1d'}, {'domain': '.amoonic.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '45d450c8-e22b-477b-a3c8-d4f0e115ca66'}, {'domain': '.amoonic.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.amoonic.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '45d450c8-e22b-477b-a3c8-d4f0e115ca66'}, {'domain': '.amoonic.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.amoonic.de', 'expiry': 1676027829, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': '1idvpsb|1|eyv|0'}, {'domain': 'amoonic.de', 'expiry': 1676027832, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _pandectes_gdpr
+[Before] Cookie-Name 2: __brTagsSet
+[Before] Cookie-Name 3: __brLastSetCartToken
+[Before] Cookie-Name 4: cart_ver
+[Before] Cookie-Name 5: cart_sig
+[Before] Cookie-Name 6: cart_ts
+[Before] Cookie-Name 7: cart_currency
+[Before] Cookie-Name 8: _gcl_au
+[Before] Cookie-Name 9: cart
+[Before] Cookie-Name 10: shopify_pay_redirect
+[Before] Cookie-Name 11: __kla_id
+[Before] Cookie-Name 12: _shopify_evids
+[Before] Cookie-Name 13: _clsk
+[Before] Cookie-Name 14: _uetvid
+[Before] Cookie-Name 15: _shopify_sa_p
+[Before] Cookie-Name 16: _tracking_consent
+[Before] Cookie-Name 17: _shopify_sa_t
+[Before] Cookie-Name 18: _y
+[Before] Cookie-Name 19: _shopify_evids
+[Before] Cookie-Name 20: _shopify_m
+[Before] Cookie-Name 21: localization
+[Before] Cookie-Name 22: _shopify_tw
+[Before] Cookie-Name 23: _shopify_tm
+[Before] Cookie-Name 24: _shopify_y
+[Before] Cookie-Name 25: _s
+[Before] Cookie-Name 26: _landing_page
+[Before] Cookie-Name 27: _shopify_s
+[Before] Cookie-Name 28: _orig_referrer
+[Before] Cookie-Name 29: _clck
+[Before] Cookie-Name 30: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 35
+[After] Website-Cookies: [{'domain': 'amoonic.de', 'expiry': 1676027844, 'httpOnly': False, 'name': '_pandectes_gdpr', 'path': '/', 'secure': True, 'value': 'eyJjb3VudHJ5Ijp7ImNvZGUiOiJERSIsInN0YXRlIjoiTlciLCJkZXRlY3RlZCI6MTY0NDQ5MTgzMX0sInN0YXR1cyI6ImFsbG93IiwidGltZXN0YW1wIjoxNjQ0NDkxODQ0LCJwcmVmZXJlbmNlcyI6MCwiaWQiOiI2MjA0ZjQ0NDI1MGJlNTgyZDE5NTA3OGIifQ=='}, {'domain': '.amoonic.de', 'expiry': 1652267845, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644491844758.1430676837'}, {'domain': '.amoonic.de', 'expiry': 1644491904, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.amoonic.de', 'expiry': 1644578244, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.548139318.1644491845'}, {'domain': '.amoonic.de', 'expiry': 1707563844, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1017062772.1644491845'}, {'domain': '.amoonic.de', 'expiry': 1676027844, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': 'amoonic.de', 'httpOnly': False, 'name': '__brTagsSet', 'path': '/', 'secure': False, 'value': 'add to cart'}, {'domain': 'amoonic.de', 'httpOnly': False, 'name': '__brLastSetCartToken', 'path': '/', 'secure': False, 'value': '6f265207de2aad0c36b755537b8984c4'}, {'domain': '.amoonic.de', 'expiry': 1676027844, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVpqUXdaRGd3Wm1RdFpqUTJOQzAwWmpkaUxXRXhaakF0Wmpkak5EZGtPVEEwWkRVdw'}, {'domain': 'amoonic.de', 'expiry': 1645701430, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': 'amoonic.de', 'expiry': 1645701444, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4049f10ee4635b51ac4dc7a01555f796'}, {'domain': 'amoonic.de', 'expiry': 1645701444, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.amoonic.de', 'expiry': 1652267828, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1474667760.1644491829'}, {'domain': 'amoonic.de', 'expiry': 1645701430, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6f265207de2aad0c36b755537b8984c4'}, {'domain': 'amoonic.de', 'expiry': 1644495428, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'amoonic.de', 'expiry': 1707563830, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0OTE4MzAsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vYW1vb25pYy5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQ0OTE4MzAsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vYW1vb25pYy5kZS8ifX0='}, {'domain': 'amoonic.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.amoonic.de', 'expiry': 1644578230, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': 'm3n04q|1644491830008|1|1|j.clarity.ms/collect'}, {'domain': '.amoonic.de', 'expiry': 1678187828, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': 'fc719de08a6211ecbaed9f1db274efdd'}, {'domain': '.amoonic.de', 'expiry': 1644493644, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.amoonic.de', 'expiry': 1676027844, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22con%22%3A%7B%22GDPR%22%3A%221%22%7D%7D'}, {'domain': '.amoonic.de', 'expiry': 1644493644, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T11%3A17%3A08.801Z'}, {'domain': '.amoonic.de', 'expiry': 1676027844, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8461fd2a-bec2-4d0e-bb5a-12fceee5af1d'}, {'domain': '.amoonic.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'amoonic.de', 'expiry': 1645701444, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.amoonic.de', 'expiry': 1645701428, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.amoonic.de', 'expiry': 1644493644, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.amoonic.de', 'expiry': 1676027844, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8461fd2a-bec2-4d0e-bb5a-12fceee5af1d'}, {'domain': '.amoonic.de', 'expiry': 1644493644, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '45d450c8-e22b-477b-a3c8-d4f0e115ca66'}, {'domain': '.amoonic.de', 'expiry': 1645701444, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.amoonic.de', 'expiry': 1644493644, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '45d450c8-e22b-477b-a3c8-d4f0e115ca66'}, {'domain': '.amoonic.de', 'expiry': 1645701444, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.amoonic.de', 'expiry': 1676027829, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': '1idvpsb|1|eyv|0'}, {'domain': 'amoonic.de', 'expiry': 1645701430, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644491829'}, {'domain': 'amoonic.de', 'expiry': 1676027844, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _pandectes_gdpr
+[After] Cookie-Name 2: _fbp
+[After] Cookie-Name 3: _gat
+[After] Cookie-Name 4: _gid
+[After] Cookie-Name 5: _ga
+[After] Cookie-Name 6: _shopify_m
+[After] Cookie-Name 7: __brTagsSet
+[After] Cookie-Name 8: __brLastSetCartToken
+[After] Cookie-Name 9: _pin_unauth
+[After] Cookie-Name 10: cart_ver
+[After] Cookie-Name 11: cart_sig
+[After] Cookie-Name 12: cart_currency
+[After] Cookie-Name 13: _gcl_au
+[After] Cookie-Name 14: cart
+[After] Cookie-Name 15: shopify_pay_redirect
+[After] Cookie-Name 16: __kla_id
+[After] Cookie-Name 17: _shopify_evids
+[After] Cookie-Name 18: _clsk
+[After] Cookie-Name 19: _uetvid
+[After] Cookie-Name 20: _shopify_sa_p
+[After] Cookie-Name 21: _tracking_consent
+[After] Cookie-Name 22: _shopify_sa_t
+[After] Cookie-Name 23: _y
+[After] Cookie-Name 24: _shopify_evids
+[After] Cookie-Name 25: localization
+[After] Cookie-Name 26: _shopify_tw
+[After] Cookie-Name 27: _shopify_tm
+[After] Cookie-Name 28: _shopify_y
+[After] Cookie-Name 29: _s
+[After] Cookie-Name 30: _landing_page
+[After] Cookie-Name 31: _shopify_s
+[After] Cookie-Name 32: _orig_referrer
+[After] Cookie-Name 33: _clck
+[After] Cookie-Name 34: cart_ts
+[After] Cookie-Name 35: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _clsk (Microsoft Clarity (User experience tool))
+[Used before] Cookie-Name: _clck (Microsoft Clarity (User experience tool))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 5
+[Difference] Cookie-Name: 1: _gid
+[Difference] Cookie-Name: 2: _pin_unauth
+[Difference] Cookie-Name: 3: _fbp
+[Difference] Cookie-Name: 4: _gat
+[Difference] Cookie-Name: 5: _ga
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

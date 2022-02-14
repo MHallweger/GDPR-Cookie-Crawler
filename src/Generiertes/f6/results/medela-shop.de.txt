@@ -1,0 +1,86 @@
+Website 96: http://www.medela-shop.de/ | Created: 10.02.2022 12:41:18 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 12
+[Before] Website-Cookies: [{'domain': 'medela-shop.de', 'expiry': 1645702869, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': 'medela-shop.de', 'expiry': 1645702869, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ed421392631bafd7af9c5a3ab028c338'}, {'domain': '.medela-shop.de', 'expiry': 1676029268, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.medela-shop.de', 'expiry': 1644495069, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'medela-shop.de', 'expiry': 1645702869, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bf2e39185cd610e61e2bb86b806b75fc'}, {'domain': '.medela-shop.de', 'expiry': 1676029268, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%7D'}, {'domain': 'medela-shop.de', 'expiry': 1645702869, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644493269'}, {'domain': '.medela-shop.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.medela-shop.de', 'expiry': 1645702868, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'medela-shop.de', 'expiry': 1676029269, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.medela-shop.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'medela-shop.de', 'expiry': 1645702869, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}]
+[Before] Cookie-Name 1: cart_ver
+[Before] Cookie-Name 2: cart
+[Before] Cookie-Name 3: _shopify_m
+[Before] Cookie-Name 4: _shopify_tm
+[Before] Cookie-Name 5: cart_sig
+[Before] Cookie-Name 6: _tracking_consent
+[Before] Cookie-Name 7: cart_ts
+[Before] Cookie-Name 8: _orig_referrer
+[Before] Cookie-Name 9: _shopify_tw
+[Before] Cookie-Name 10: secure_customer_sig
+[Before] Cookie-Name 11: _landing_page
+[Before] Cookie-Name 12: cart_currency
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 33
+[After] Website-Cookies: [{'domain': '.medela-shop.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.medela-shop.de', 'expiry': 1676029285, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22con%22%3A%7B%22CCPA%22%3A%221%22%2C%22GDPR%22%3A%22%22%7D%2C%22v%22%3A%222.0%22%7D'}, {'domain': '.medela-shop.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5da12e9c-e818-4849-9918-9f0e05349ae3'}, {'domain': '.medela-shop.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1d95457d-b6cd-4c49-828f-b7d7b5ff08dd'}, {'domain': '.medela-shop.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T11%3A41%3A09.161Z'}, {'domain': '.medela-shop.de', 'expiry': 1644495085, 'httpOnly': False, 'name': 'swym-session-id', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"5bpyfogzmqidssvtsi7cxftgi1bpu3l9c6abicphb89ehw4pssty8rwq8myoczwj"'}, {'domain': '.medela-shop.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5da12e9c-e818-4849-9918-9f0e05349ae3'}, {'domain': '.medela-shop.de', 'expiry': 1676029285, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': 'medela-shop.de', 'expiry': 1647085284, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0NDkzMjg0ODg1LCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjoxfX0='}, {'domain': 'medela-shop.de', 'httpOnly': False, 'name': 'swym-email', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'null'}, {'domain': 'medela-shop.de', 'httpOnly': False, 'name': 'swym-session-id', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '"5bpyfogzmqidssvtsi7cxftgi1bpu3l9c6abicphb89ehw4pssty8rwq8myoczwj"'}, {'domain': '.medela-shop.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1d95457d-b6cd-4c49-828f-b7d7b5ff08dd'}, {'domain': 'medela-shop.de', 'expiry': 1676029284, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5da12e9c-e818-4849-9918-9f0e05349ae3'}, {'domain': 'medela-shop.de', 'httpOnly': False, 'name': 'swym-o_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'true'}, {'domain': 'medela-shop.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'medela-shop.de', 'expiry': 1644495084, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T11%3A41%3A09.161Z'}, {'domain': 'medela-shop.de', 'expiry': 1676029284, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5da12e9c-e818-4849-9918-9f0e05349ae3'}, {'domain': 'medela-shop.de', 'httpOnly': False, 'name': 'swym-pid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '"flpPzLMLB5zJmeH0lKKDrSVfqcRndQyPAO6MC2xQD70="'}, {'domain': 'medela-shop.de', 'expiry': 1645702869, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': 'medela-shop.de', 'expiry': 1645702884, 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T11%3A41%3A09.093Z'}, {'domain': 'medela-shop.de', 'expiry': 1644495084, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1d95457d-b6cd-4c49-828f-b7d7b5ff08dd'}, {'domain': 'medela-shop.de', 'expiry': 1645702869, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644493269'}, {'domain': 'medela-shop.de', 'expiry': 1645702869, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ed421392631bafd7af9c5a3ab028c338'}, {'domain': 'medela-shop.de', 'httpOnly': False, 'name': 'swym-swymRegid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '"wTGWtgFAjCjJ-jiZd7W3a40zWZPLUN1FX-hB4rGFhM6omkfSMu2SGKOvSbVCU_oQF-NEWe91JaWpb2VENsHxAdvZ4SHN5EWzrMBeHC19QBpPHxwhtBs0hr8H7IzR84kx3NcOx-OgQB4Wu3H5Cz_mk9jRSweSBCu1BVZbgNZ3hig"'}, {'domain': 'medela-shop.de', 'expiry': 1644495084, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1d95457d-b6cd-4c49-828f-b7d7b5ff08dd'}, {'domain': '.medela-shop.de', 'expiry': 1644495085, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'medela-shop.de', 'expiry': 1645702885, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'medela-shop.de', 'expiry': 1645702885, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.medela-shop.de', 'expiry': 1645702868, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.medela-shop.de', 'expiry': 1645702885, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'medela-shop.de', 'expiry': 1645702885, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bf2e39185cd610e61e2bb86b806b75fc'}, {'domain': 'medela-shop.de', 'expiry': 1676029285, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.medela-shop.de', 'expiry': 1645702885, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}]
+[After] Cookie-Name 1: _shopify_evids
+[After] Cookie-Name 2: _tracking_consent
+[After] Cookie-Name 3: _shopify_y
+[After] Cookie-Name 4: _shopify_s
+[After] Cookie-Name 5: _shopify_sa_t
+[After] Cookie-Name 6: swym-session-id
+[After] Cookie-Name 7: _y
+[After] Cookie-Name 8: _shopify_m
+[After] Cookie-Name 9: _bc_c_set
+[After] Cookie-Name 10: swym-email
+[After] Cookie-Name 11: swym-session-id
+[After] Cookie-Name 12: _s
+[After] Cookie-Name 13: _y
+[After] Cookie-Name 14: swym-o_s
+[After] Cookie-Name 15: _shopify_evids
+[After] Cookie-Name 16: _shopify_sa_t
+[After] Cookie-Name 17: _shopify_y
+[After] Cookie-Name 18: swym-pid
+[After] Cookie-Name 19: cart_ver
+[After] Cookie-Name 20: _shopify_d
+[After] Cookie-Name 21: _s
+[After] Cookie-Name 22: cart_ts
+[After] Cookie-Name 23: cart
+[After] Cookie-Name 24: swym-swymRegid
+[After] Cookie-Name 25: _shopify_s
+[After] Cookie-Name 26: _shopify_tm
+[After] Cookie-Name 27: cart_currency
+[After] Cookie-Name 28: localization
+[After] Cookie-Name 29: _shopify_tw
+[After] Cookie-Name 30: _orig_referrer
+[After] Cookie-Name 31: cart_sig
+[After] Cookie-Name 32: secure_customer_sig
+[After] Cookie-Name 33: _landing_page
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 14
+[Difference] Cookie-Name: 1: localization
+[Difference] Cookie-Name: 2: _y
+[Difference] Cookie-Name: 3: _bc_c_set
+[Difference] Cookie-Name: 4: swym-swymRegid
+[Difference] Cookie-Name: 5: _shopify_d
+[Difference] Cookie-Name: 6: swym-pid
+[Difference] Cookie-Name: 7: _shopify_evids
+[Difference] Cookie-Name: 8: _shopify_s
+[Difference] Cookie-Name: 9: _s
+[Difference] Cookie-Name: 10: swym-o_s
+[Difference] Cookie-Name: 11: _shopify_y
+[Difference] Cookie-Name: 12: swym-email
+[Difference] Cookie-Name: 13: swym-session-id
+[Difference] Cookie-Name: 14: _shopify_sa_t
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

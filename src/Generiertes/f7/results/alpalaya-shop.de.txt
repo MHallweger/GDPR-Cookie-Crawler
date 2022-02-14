@@ -1,0 +1,78 @@
+Website 79: http://www.alpalaya-shop.de/ | Created: 10.02.2022 17:42:40 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 26
+[Before] Website-Cookies: [{'domain': '.alpalaya-shop.de', 'expiry': 1676047352, 'httpOnly': False, 'name': 'swym-cu_ct', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'undefined'}, {'domain': '.alpalaya-shop.de', 'expiry': 1676047352, 'httpOnly': False, 'name': 'swym-swymRegid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"75gTvHsHT4ClSsGeVQCTXuhQI0cpSzGvZ3U-dCLIu4aJP7MNJPeT6OWp9eHFjBpyOiZeUwvQDocW_mdi9OA0svfgBJccKqsRqmQlQ8p1tf0Gn7Y0TdVvgAoSP-mnmb7i5DDZX8mpKUOd5Gp0RtDw_buL_aEW5stntb-gpJ_DfFo"'}, {'domain': '.alpalaya-shop.de', 'expiry': 1676047352, 'httpOnly': False, 'name': 'swym-email', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'null'}, {'domain': 'alpalaya-shop.de', 'expiry': 1644514950, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'alpalaya-shop.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'alpalaya-shop.de', 'expiry': 1645720952, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2826bd4a0aff03cf16107e7eabee760b'}, {'domain': '.alpalaya-shop.de', 'expiry': 1676047351, 'httpOnly': False, 'name': 'swym-pid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"PgsmkTN4DuWADS5Lgx61VDTDQw2VymUUiDumUu6fk6U="'}, {'domain': '.alpalaya-shop.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T16%3A42%3A30.338Z'}, {'domain': '.alpalaya-shop.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.alpalaya-shop.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '07a68184-b095-448e-8f50-6982f8dc1cbc'}, {'domain': '.alpalaya-shop.de', 'expiry': 1644513152, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.alpalaya-shop.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0e958d05-d33d-43c0-b058-69d0b5f0d1e6'}, {'domain': '.alpalaya-shop.de', 'expiry': 1676047350, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22v%22%3A%222.0%22%7D'}, {'domain': '.alpalaya-shop.de', 'expiry': 1645720950, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.alpalaya-shop.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T16%3A42%3A30.262Z'}, {'domain': '.alpalaya-shop.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '07a68184-b095-448e-8f50-6982f8dc1cbc'}, {'domain': '.alpalaya-shop.de', 'expiry': 1644513152, 'httpOnly': False, 'name': 'swym-o_s', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'true'}, {'domain': '.alpalaya-shop.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'alpalaya-shop.de', 'expiry': 1676047352, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.alpalaya-shop.de', 'expiry': 1644513152, 'httpOnly': False, 'name': 'swym-session-id', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"60jchpzcsqf3ce53s673hv8ia7wky8ilmngtp72473mj50ikgyszfqd2l76xf6oy"'}, {'domain': '.alpalaya-shop.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.alpalaya-shop.de', 'expiry': 1676047350, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': 'alpalaya-shop.de', 'expiry': 1645720952, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.alpalaya-shop.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'alpalaya-shop.de', 'expiry': 1645720952, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.alpalaya-shop.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0e958d05-d33d-43c0-b058-69d0b5f0d1e6'}]
+[Before] Cookie-Name 1: swym-cu_ct
+[Before] Cookie-Name 2: swym-swymRegid
+[Before] Cookie-Name 3: swym-email
+[Before] Cookie-Name 4: shopify_pay_redirect
+[Before] Cookie-Name 5: _shopify_evids
+[Before] Cookie-Name 6: cart_sig
+[Before] Cookie-Name 7: swym-pid
+[Before] Cookie-Name 8: _shopify_sa_t
+[Before] Cookie-Name 9: _shopify_evids
+[Before] Cookie-Name 10: _shopify_y
+[Before] Cookie-Name 11: _shopify_tm
+[Before] Cookie-Name 12: _shopify_s
+[Before] Cookie-Name 13: _tracking_consent
+[Before] Cookie-Name 14: _shopify_tw
+[Before] Cookie-Name 15: _shopify_d
+[Before] Cookie-Name 16: _y
+[Before] Cookie-Name 17: swym-o_s
+[Before] Cookie-Name 18: _shopify_sa_p
+[Before] Cookie-Name 19: secure_customer_sig
+[Before] Cookie-Name 20: swym-session-id
+[Before] Cookie-Name 21: _orig_referrer
+[Before] Cookie-Name 22: _shopify_m
+[Before] Cookie-Name 23: localization
+[Before] Cookie-Name 24: _landing_page
+[Before] Cookie-Name 25: cart_currency
+[Before] Cookie-Name 26: _s
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 26
+[After] Website-Cookies: [{'domain': '.alpalaya-shop.de', 'expiry': 1676047352, 'httpOnly': False, 'name': 'swym-cu_ct', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'undefined'}, {'domain': '.alpalaya-shop.de', 'expiry': 1676047352, 'httpOnly': False, 'name': 'swym-swymRegid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"75gTvHsHT4ClSsGeVQCTXuhQI0cpSzGvZ3U-dCLIu4aJP7MNJPeT6OWp9eHFjBpyOiZeUwvQDocW_mdi9OA0svfgBJccKqsRqmQlQ8p1tf0Gn7Y0TdVvgAoSP-mnmb7i5DDZX8mpKUOd5Gp0RtDw_buL_aEW5stntb-gpJ_DfFo"'}, {'domain': '.alpalaya-shop.de', 'expiry': 1676047352, 'httpOnly': False, 'name': 'swym-email', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'null'}, {'domain': 'alpalaya-shop.de', 'expiry': 1644514950, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'alpalaya-shop.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'alpalaya-shop.de', 'expiry': 1645720966, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2826bd4a0aff03cf16107e7eabee760b'}, {'domain': '.alpalaya-shop.de', 'expiry': 1676047351, 'httpOnly': False, 'name': 'swym-pid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"PgsmkTN4DuWADS5Lgx61VDTDQw2VymUUiDumUu6fk6U="'}, {'domain': '.alpalaya-shop.de', 'expiry': 1644513166, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T16%3A42%3A30.338Z'}, {'domain': '.alpalaya-shop.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.alpalaya-shop.de', 'expiry': 1676047366, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '07a68184-b095-448e-8f50-6982f8dc1cbc'}, {'domain': '.alpalaya-shop.de', 'expiry': 1644513166, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.alpalaya-shop.de', 'expiry': 1645720950, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.alpalaya-shop.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T16%3A42%3A30.262Z'}, {'domain': '.alpalaya-shop.de', 'expiry': 1676047366, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '07a68184-b095-448e-8f50-6982f8dc1cbc'}, {'domain': '.alpalaya-shop.de', 'expiry': 1644513152, 'httpOnly': False, 'name': 'swym-o_s', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'true'}, {'domain': '.alpalaya-shop.de', 'expiry': 1644513166, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'alpalaya-shop.de', 'expiry': 1676047366, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.alpalaya-shop.de', 'expiry': 1644513166, 'httpOnly': False, 'name': 'swym-session-id', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"60jchpzcsqf3ce53s673hv8ia7wky8ilmngtp72473mj50ikgyszfqd2l76xf6oy"'}, {'domain': 'alpalaya-shop.de', 'expiry': 1645720966, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.alpalaya-shop.de', 'expiry': 1645720966, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.alpalaya-shop.de', 'expiry': 1676047366, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%221%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': '.alpalaya-shop.de', 'expiry': 1644513166, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0e958d05-d33d-43c0-b058-69d0b5f0d1e6'}, {'domain': '.alpalaya-shop.de', 'expiry': 1676047366, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': '.alpalaya-shop.de', 'expiry': 1645720966, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'alpalaya-shop.de', 'expiry': 1645720966, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.alpalaya-shop.de', 'expiry': 1644513166, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0e958d05-d33d-43c0-b058-69d0b5f0d1e6'}]
+[After] Cookie-Name 1: swym-cu_ct
+[After] Cookie-Name 2: swym-swymRegid
+[After] Cookie-Name 3: swym-email
+[After] Cookie-Name 4: shopify_pay_redirect
+[After] Cookie-Name 5: _shopify_evids
+[After] Cookie-Name 6: cart_sig
+[After] Cookie-Name 7: swym-pid
+[After] Cookie-Name 8: _shopify_sa_t
+[After] Cookie-Name 9: _shopify_evids
+[After] Cookie-Name 10: _shopify_y
+[After] Cookie-Name 11: _shopify_tm
+[After] Cookie-Name 12: _shopify_tw
+[After] Cookie-Name 13: _shopify_d
+[After] Cookie-Name 14: _y
+[After] Cookie-Name 15: swym-o_s
+[After] Cookie-Name 16: _shopify_sa_p
+[After] Cookie-Name 17: secure_customer_sig
+[After] Cookie-Name 18: swym-session-id
+[After] Cookie-Name 19: localization
+[After] Cookie-Name 20: _landing_page
+[After] Cookie-Name 21: _tracking_consent
+[After] Cookie-Name 22: _shopify_s
+[After] Cookie-Name 23: _shopify_m
+[After] Cookie-Name 24: _orig_referrer
+[After] Cookie-Name 25: cart_currency
+[After] Cookie-Name 26: _s
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is NOT GDPR compliant!

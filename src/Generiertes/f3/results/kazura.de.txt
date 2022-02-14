@@ -1,0 +1,61 @@
+Website 383: http://www.kazura.de/ | Created: 09.02.2022 15:37:01 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 14
+[Before] Website-Cookies: [{'domain': 'kazura.de', 'expiry': 1707489417, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MTc0MTcsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8va2F6dXJhLmRlLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDQxNzQxNywidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly9rYXp1cmEuZGUvIn19'}, {'domain': '.kazura.de', 'expiry': 1644419212, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.kazura.de', 'expiry': 1645627011, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'kazura.de', 'expiry': 1644417532, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.kazura.de', 'expiry': 1644419212, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.kazura.de', 'expiry': 1675953412, 'httpOnly': False, 'name': '_hjSessionUser_2398141', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6Ijg4NGI5NDcwLTBhN2EtNWZjMi05ZmQyLWM2NzQwNTI2ODAyYiIsImNyZWF0ZWQiOjE2NDQ0MTc0MTIwNTcsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': 'kazura.de', 'expiry': 1675953418, 'httpOnly': False, 'name': '_pandectes_gdpr', 'path': '/', 'secure': True, 'value': 'eyJzdGF0dXMiOiIiLCJ0aW1lc3RhbXAiOm51bGwsInByZWZlcmVuY2VzIjpudWxsfQ=='}, {'domain': '.kazura.de', 'expiry': 1644419211, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kazura.de', 'expiry': 1644419212, 'httpOnly': False, 'name': '_hjSession_2398141', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImU4ZmNiYjU2LTg5ZjEtNGRiZC04NTZkLWFlOGIyMDE1Y2NhNyIsImNyZWF0ZWQiOjE2NDQ0MTc0MTIwOTMsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': 'kazura.de', 'expiry': 1645627011, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'kazura.de', 'expiry': 1645627011, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.kazura.de', 'expiry': 1645627011, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'kazura.de', 'expiry': 1644417532, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': 'kazura.de', 'expiry': 1675953411, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: __kla_id
+[Before] Cookie-Name 2: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 3: _orig_referrer
+[Before] Cookie-Name 4: _hjIncludedInPageviewSample
+[Before] Cookie-Name 5: _hjFirstSeen
+[Before] Cookie-Name 6: _hjSessionUser_2398141
+[Before] Cookie-Name 7: _pandectes_gdpr
+[Before] Cookie-Name 8: _shopify_sa_p
+[Before] Cookie-Name 9: _hjSession_2398141
+[Before] Cookie-Name 10: cart_currency
+[Before] Cookie-Name 11: localization
+[Before] Cookie-Name 12: _landing_page
+[Before] Cookie-Name 13: _hjIncludedInSessionSample
+[Before] Cookie-Name 14: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 15
+[After] Website-Cookies: [{'domain': '.kazura.de', 'expiry': 1652193426, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644417426320.1484383531'}, {'domain': 'kazura.de', 'expiry': 1707489417, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MTc0MTcsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8va2F6dXJhLmRlLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDQxNzQxNywidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly9rYXp1cmEuZGUvIn19'}, {'domain': '.kazura.de', 'expiry': 1644419212, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.kazura.de', 'expiry': 1645627011, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'kazura.de', 'expiry': 1644417532, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.kazura.de', 'expiry': 1644419212, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.kazura.de', 'expiry': 1675953412, 'httpOnly': False, 'name': '_hjSessionUser_2398141', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6Ijg4NGI5NDcwLTBhN2EtNWZjMi05ZmQyLWM2NzQwNTI2ODAyYiIsImNyZWF0ZWQiOjE2NDQ0MTc0MTIwNTcsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': 'kazura.de', 'expiry': 1675953426, 'httpOnly': False, 'name': '_pandectes_gdpr', 'path': '/', 'secure': True, 'value': 'eyJzdGF0dXMiOiJhbGxvdyIsInRpbWVzdGFtcCI6MTY0NDQxNzQyNiwicHJlZmVyZW5jZXMiOjB9'}, {'domain': '.kazura.de', 'expiry': 1644419211, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kazura.de', 'expiry': 1644419212, 'httpOnly': False, 'name': '_hjSession_2398141', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImU4ZmNiYjU2LTg5ZjEtNGRiZC04NTZkLWFlOGIyMDE1Y2NhNyIsImNyZWF0ZWQiOjE2NDQ0MTc0MTIwOTMsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': 'kazura.de', 'expiry': 1645627011, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'kazura.de', 'expiry': 1645627011, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.kazura.de', 'expiry': 1645627011, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'kazura.de', 'expiry': 1644417532, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': 'kazura.de', 'expiry': 1675953411, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _fbp
+[After] Cookie-Name 2: __kla_id
+[After] Cookie-Name 3: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 4: _orig_referrer
+[After] Cookie-Name 5: _hjIncludedInPageviewSample
+[After] Cookie-Name 6: _hjFirstSeen
+[After] Cookie-Name 7: _hjSessionUser_2398141
+[After] Cookie-Name 8: _pandectes_gdpr
+[After] Cookie-Name 9: _shopify_sa_p
+[After] Cookie-Name 10: _hjSession_2398141
+[After] Cookie-Name 11: cart_currency
+[After] Cookie-Name 12: localization
+[After] Cookie-Name 13: _landing_page
+[After] Cookie-Name 14: _hjIncludedInSessionSample
+[After] Cookie-Name 15: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjIncludedInPageviewSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjIncludedInSessionSample (Hotjar (User experience tool))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: _fbp
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

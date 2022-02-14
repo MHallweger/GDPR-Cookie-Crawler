@@ -1,0 +1,76 @@
+Website 312: http://www.mosquets.de/ | Created: 09.02.2022 12:19:36 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 22
+[Before] Website-Cookies: [{'domain': '.mosquets.de', 'httpOnly': False, 'name': 'soundest-views', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.mosquets.de', 'expiry': 1675941568, 'httpOnly': False, 'name': '_privy_94D8F7C3D2137D16373F9C37', 'path': '/', 'secure': False, 'value': '%7B%22uuid%22%3A%22d6d8611a-50ed-4840-8536-7a1da38ad943%22%7D'}, {'domain': '.mosquets.de', 'expiry': 1652181568, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644405567838.14368875'}, {'domain': '.mosquets.de', 'expiry': 1707477567, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.12661254.1644405568'}, {'domain': '.mosquets.de', 'expiry': 1644407367, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.mosquets.de', 'expiry': 1644405627, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.mosquets.de', 'expiry': 1675941573, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c1b7b360-0f6f-4fa3-be19-0947847de897'}, {'domain': '.mosquets.de', 'expiry': 1644407373, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '17e2409b-6bcf-4afd-9009-fe629b1870b1'}, {'domain': '.mosquets.de', 'expiry': 1675941573, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c1b7b360-0f6f-4fa3-be19-0947847de897'}, {'domain': '.mosquets.de', 'expiry': 1675941568, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'urAWJE5EYVyoDx-20220209111928'}, {'domain': 'mosquets.de', 'expiry': 1675941568, 'httpOnly': False, 'name': 'po_visitor', 'path': '/', 'secure': False, 'value': 'QwD24p17gj3M'}, {'domain': '.mosquets.de', 'expiry': 1644407373, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '17e2409b-6bcf-4afd-9009-fe629b1870b1'}, {'domain': '.mosquets.de', 'expiry': 1644491967, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.484354060.1644405568'}, {'domain': '.mosquets.de', 'expiry': 1645615167, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'mosquets.de', 'expiry': 1645615173, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.mosquets.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220209111928-fPcQG6N4r0z1LSlmYvGixcICdwvrjLzab2y7sokUDhMHJw42q'}, {'domain': 'mosquets.de', 'expiry': 1644409167, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.mosquets.de', 'expiry': 1644407367, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T11%3A19%3A27.577Z'}, {'domain': '.mosquets.de', 'expiry': 1645615167, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.mosquets.de', 'expiry': 1644407368, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'Uh3bq72gAoXT6y-20220209111928'}, {'domain': 'mosquets.de', 'expiry': 1645615168, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': 'mosquets.de', 'expiry': 1675941573, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: soundest-views
+[Before] Cookie-Name 2: _privy_94D8F7C3D2137D16373F9C37
+[Before] Cookie-Name 3: _fbp
+[Before] Cookie-Name 4: _ga
+[Before] Cookie-Name 5: _shopify_sa_p
+[Before] Cookie-Name 6: _gat
+[Before] Cookie-Name 7: _y
+[Before] Cookie-Name 8: _shopify_s
+[Before] Cookie-Name 9: _shopify_y
+[Before] Cookie-Name 10: omnisendAnonymousID
+[Before] Cookie-Name 11: po_visitor
+[Before] Cookie-Name 12: _s
+[Before] Cookie-Name 13: _gid
+[Before] Cookie-Name 14: _orig_referrer
+[Before] Cookie-Name 15: localization
+[Before] Cookie-Name 16: soundestID
+[Before] Cookie-Name 17: shopify_pay_redirect
+[Before] Cookie-Name 18: _shopify_sa_t
+[Before] Cookie-Name 19: _landing_page
+[Before] Cookie-Name 20: omnisendSessionID
+[Before] Cookie-Name 21: cart_currency
+[Before] Cookie-Name 22: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 23
+[After] Website-Cookies: [{'domain': '.mosquets.de', 'httpOnly': False, 'name': 'soundest-views', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.mosquets.de', 'expiry': 1675941568, 'httpOnly': False, 'name': '_privy_94D8F7C3D2137D16373F9C37', 'path': '/', 'secure': False, 'value': '%7B%22uuid%22%3A%22d6d8611a-50ed-4840-8536-7a1da38ad943%22%7D'}, {'domain': '.mosquets.de', 'expiry': 1652181581, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644405567838.14368875'}, {'domain': '.mosquets.de', 'expiry': 1707477567, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.12661254.1644405568'}, {'domain': '.mosquets.de', 'expiry': 1644407367, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.mosquets.de', 'expiry': 1644405627, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.mosquets.de', 'expiry': 1675941573, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c1b7b360-0f6f-4fa3-be19-0947847de897'}, {'domain': '.mosquets.de', 'expiry': 1644407373, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '17e2409b-6bcf-4afd-9009-fe629b1870b1'}, {'domain': '.mosquets.de', 'expiry': 1675941573, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c1b7b360-0f6f-4fa3-be19-0947847de897'}, {'domain': '.mosquets.de', 'expiry': 1675941568, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'urAWJE5EYVyoDx-20220209111928'}, {'domain': 'mosquets.de', 'expiry': 1675941568, 'httpOnly': False, 'name': 'po_visitor', 'path': '/', 'secure': False, 'value': 'QwD24p17gj3M'}, {'domain': '.mosquets.de', 'expiry': 1644407373, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '17e2409b-6bcf-4afd-9009-fe629b1870b1'}, {'domain': '.mosquets.de', 'expiry': 1644491967, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.484354060.1644405568'}, {'domain': '.mosquets.de', 'expiry': 1645615167, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'mosquets.de', 'expiry': 1645615173, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'mosquets.de', 'expiry': 1675941581, 'httpOnly': False, 'name': 'cookieconsent_status', 'path': '/', 'secure': False, 'value': 'dismiss'}, {'domain': '.mosquets.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220209111928-fPcQG6N4r0z1LSlmYvGixcICdwvrjLzab2y7sokUDhMHJw42q'}, {'domain': 'mosquets.de', 'expiry': 1644409167, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.mosquets.de', 'expiry': 1644407367, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T11%3A19%3A27.577Z'}, {'domain': '.mosquets.de', 'expiry': 1645615167, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.mosquets.de', 'expiry': 1644407368, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'Uh3bq72gAoXT6y-20220209111928'}, {'domain': 'mosquets.de', 'expiry': 1645615168, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': 'mosquets.de', 'expiry': 1675941573, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: soundest-views
+[After] Cookie-Name 2: _privy_94D8F7C3D2137D16373F9C37
+[After] Cookie-Name 3: _fbp
+[After] Cookie-Name 4: _ga
+[After] Cookie-Name 5: _shopify_sa_p
+[After] Cookie-Name 6: _gat
+[After] Cookie-Name 7: _y
+[After] Cookie-Name 8: _shopify_s
+[After] Cookie-Name 9: _shopify_y
+[After] Cookie-Name 10: omnisendAnonymousID
+[After] Cookie-Name 11: po_visitor
+[After] Cookie-Name 12: _s
+[After] Cookie-Name 13: _gid
+[After] Cookie-Name 14: _orig_referrer
+[After] Cookie-Name 15: localization
+[After] Cookie-Name 16: cookieconsent_status
+[After] Cookie-Name 17: soundestID
+[After] Cookie-Name 18: shopify_pay_redirect
+[After] Cookie-Name 19: _shopify_sa_t
+[After] Cookie-Name 20: _landing_page
+[After] Cookie-Name 21: omnisendSessionID
+[After] Cookie-Name 22: cart_currency
+[After] Cookie-Name 23: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: cookieconsent_status
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

@@ -1,0 +1,86 @@
+Website 242: http://www.zartholz.de/ | Created: 10.02.2022 18:32:33 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 25
+[Before] Website-Cookies: [{'domain': 'zartholz.de', 'expiry': 1645723946, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f537e2c086fd832fc9741ab646c41c3e'}, {'domain': '.zartholz.de', 'expiry': 1644514404, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'zartholz.de', 'expiry': 1644517944, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'zartholz.de', 'expiry': 1645723946, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': 'zartholz.de', 'expiry': 1645723946, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.zartholz.de', 'expiry': 1676050346, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '42b40d3a-a23a-45a8-9171-6aa1df855fcf'}, {'domain': 'zartholz.de', 'expiry': 1707586345, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ1MTQzNDUsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vemFydGhvbHouZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NTE0MzQ1LCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL3phcnRob2x6LmRlLyJ9fQ=='}, {'domain': 'zartholz.de', 'expiry': 1817314345, 'httpOnly': False, 'name': 'ri_thumb_session', 'path': '/', 'secure': False, 'value': '1644514345274'}, {'domain': '.zartholz.de', 'expiry': 1644516146, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b8ffa94c-2676-414b-a91e-18db357e3f0e'}, {'domain': '.zartholz.de', 'expiry': 1707586344, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.395663904.1644514345'}, {'domain': '.zartholz.de', 'expiry': 1644516144, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A32%3A24.394Z'}, {'domain': 'zartholz.de', 'expiry': 1676050345, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': ''}, {'domain': '.zartholz.de', 'expiry': 1644600744, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1983617807.1644514345'}, {'domain': '.zartholz.de', 'expiry': 1676050346, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '42b40d3a-a23a-45a8-9171-6aa1df855fcf'}, {'domain': '.zartholz.de', 'expiry': 1676050344, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU56Vm1OR1JqWWprdE1ESTBPQzAwTkRVekxUbGlaVEF0TVdZellUWm1ZelV6TXpGbQ'}, {'domain': 'zartholz.de', 'expiry': 1645723946, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'zartholz.de', 'expiry': 1645723946, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644514345'}, {'domain': '.zartholz.de', 'expiry': 1645723944, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.zartholz.de', 'expiry': 1645723944, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'zartholz.de', 'expiry': 1645723946, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9c7d95994ad5d42f0d1147568bcbb161'}, {'domain': '.zartholz.de', 'expiry': 1644516144, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.zartholz.de', 'expiry': 1644516146, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b8ffa94c-2676-414b-a91e-18db357e3f0e'}, {'domain': '.zartholz.de', 'expiry': 1652290345, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644514344887.1905487326'}, {'domain': '.zartholz.de', 'expiry': 1652290344, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.87758106.1644514345'}, {'domain': 'zartholz.de', 'expiry': 1676050346, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: cart_sig
+[Before] Cookie-Name 2: _gat
+[Before] Cookie-Name 3: shopify_pay_redirect
+[Before] Cookie-Name 4: cart_ver
+[Before] Cookie-Name 5: localization
+[Before] Cookie-Name 6: _shopify_y
+[Before] Cookie-Name 7: __kla_id
+[Before] Cookie-Name 8: ri_thumb_session
+[Before] Cookie-Name 9: _shopify_s
+[Before] Cookie-Name 10: _ga
+[Before] Cookie-Name 11: _shopify_sa_t
+[Before] Cookie-Name 12: cookieconsent_preferences_disabled
+[Before] Cookie-Name 13: _gid
+[Before] Cookie-Name 14: _y
+[Before] Cookie-Name 15: _pin_unauth
+[Before] Cookie-Name 16: cart_currency
+[Before] Cookie-Name 17: cart_ts
+[Before] Cookie-Name 18: _landing_page
+[Before] Cookie-Name 19: _orig_referrer
+[Before] Cookie-Name 20: cart
+[Before] Cookie-Name 21: _shopify_sa_p
+[Before] Cookie-Name 22: _s
+[Before] Cookie-Name 23: _fbp
+[Before] Cookie-Name 24: _gcl_au
+[Before] Cookie-Name 25: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 26
+[After] Website-Cookies: [{'domain': 'zartholz.de', 'expiry': 1676050359, 'httpOnly': False, 'name': 'cookieconsent_status', 'path': '/', 'secure': False, 'value': 'allow'}, {'domain': 'zartholz.de', 'expiry': 1645723946, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f537e2c086fd832fc9741ab646c41c3e'}, {'domain': '.zartholz.de', 'expiry': 1644514404, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'zartholz.de', 'expiry': 1644517944, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'zartholz.de', 'expiry': 1645723946, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': 'zartholz.de', 'expiry': 1645723946, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.zartholz.de', 'expiry': 1676050346, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '42b40d3a-a23a-45a8-9171-6aa1df855fcf'}, {'domain': 'zartholz.de', 'expiry': 1707586345, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ1MTQzNDUsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vemFydGhvbHouZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NTE0MzQ1LCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL3phcnRob2x6LmRlLyJ9fQ=='}, {'domain': 'zartholz.de', 'expiry': 1817314345, 'httpOnly': False, 'name': 'ri_thumb_session', 'path': '/', 'secure': False, 'value': '1644514345274'}, {'domain': '.zartholz.de', 'expiry': 1644516146, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b8ffa94c-2676-414b-a91e-18db357e3f0e'}, {'domain': '.zartholz.de', 'expiry': 1707586344, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.395663904.1644514345'}, {'domain': '.zartholz.de', 'expiry': 1644516144, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A32%3A24.394Z'}, {'domain': 'zartholz.de', 'expiry': 1676050359, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': ''}, {'domain': '.zartholz.de', 'expiry': 1644600744, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1983617807.1644514345'}, {'domain': '.zartholz.de', 'expiry': 1676050346, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '42b40d3a-a23a-45a8-9171-6aa1df855fcf'}, {'domain': '.zartholz.de', 'expiry': 1676050344, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU56Vm1OR1JqWWprdE1ESTBPQzAwTkRVekxUbGlaVEF0TVdZellUWm1ZelV6TXpGbQ'}, {'domain': 'zartholz.de', 'expiry': 1645723946, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'zartholz.de', 'expiry': 1645723946, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644514345'}, {'domain': '.zartholz.de', 'expiry': 1645723944, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.zartholz.de', 'expiry': 1645723944, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'zartholz.de', 'expiry': 1645723946, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9c7d95994ad5d42f0d1147568bcbb161'}, {'domain': '.zartholz.de', 'expiry': 1644516144, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.zartholz.de', 'expiry': 1644516146, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b8ffa94c-2676-414b-a91e-18db357e3f0e'}, {'domain': '.zartholz.de', 'expiry': 1652290359, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644514344887.1905487326'}, {'domain': '.zartholz.de', 'expiry': 1652290344, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.87758106.1644514345'}, {'domain': 'zartholz.de', 'expiry': 1676050346, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: cookieconsent_status
+[After] Cookie-Name 2: cart_sig
+[After] Cookie-Name 3: _gat
+[After] Cookie-Name 4: shopify_pay_redirect
+[After] Cookie-Name 5: cart_ver
+[After] Cookie-Name 6: localization
+[After] Cookie-Name 7: _shopify_y
+[After] Cookie-Name 8: __kla_id
+[After] Cookie-Name 9: ri_thumb_session
+[After] Cookie-Name 10: _shopify_s
+[After] Cookie-Name 11: _ga
+[After] Cookie-Name 12: _shopify_sa_t
+[After] Cookie-Name 13: cookieconsent_preferences_disabled
+[After] Cookie-Name 14: _gid
+[After] Cookie-Name 15: _y
+[After] Cookie-Name 16: _pin_unauth
+[After] Cookie-Name 17: cart_currency
+[After] Cookie-Name 18: cart_ts
+[After] Cookie-Name 19: _landing_page
+[After] Cookie-Name 20: _orig_referrer
+[After] Cookie-Name 21: cart
+[After] Cookie-Name 22: _shopify_sa_p
+[After] Cookie-Name 23: _s
+[After] Cookie-Name 24: _fbp
+[After] Cookie-Name 25: _gcl_au
+[After] Cookie-Name 26: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: cookieconsent_status
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

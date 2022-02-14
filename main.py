@@ -161,7 +161,7 @@ def initialize_website_file_and_check_cookie_banner():
         print("There is NO cookie banner available!")
         generate_screenshot("no_banner")
 
-    with open("results/" + short_website_name + ".txt", "a") as website_file:
+    with open("local_results/" + short_website_name + ".txt", "a") as website_file:
         dt_string = datetime.now().strftime("%d.%m.%Y %H:%M:%S")
 
         if use_headless_mode:
@@ -193,7 +193,7 @@ def check_gdpr_cookie_status():
             print("No matching GDPR keywords found!")
             print("Conclusion: This is NOT a legally compliant GDPR cookie banner!")
 
-    with open("results/" + short_website_name + ".txt", "a") as website_file:
+    with open("local_results/" + short_website_name + ".txt", "a") as website_file:
         website_file.write("[Initial] Website uses a GDPR compliant cookie banner: " + str(current_website_gdpr_compliant) + "\n")
         website_file.write("[Initial] Website uses a "'"Accept"'"-Button: " + str(current_website_accept_button_use) + "\n")
 
@@ -212,7 +212,7 @@ def check_cookies_at_start():
     print("Number of cookies loaded at the beginning: " + str(cookies.__len__()))
     print(cookies)
 
-    with open("results/" + short_website_name + ".txt", "a") as website_file:
+    with open("local_results/" + short_website_name + ".txt", "a") as website_file:
         website_file.write("\n" + "############################## Before accepting the Cookie-Banner ##############################" + "\n")
         website_file.write("[Before] Website-Cookie-Amount: " + str(cookies.__len__()) + "\n")
         website_file.write("[Before] Website-Cookies: " + str(cookies) + "\n")
@@ -230,7 +230,7 @@ def check_cookies_after_banner_accept():
     print("Number of cookies after the cookie banner has been accepted: " + str(cookies.__len__()))
     print(cookies)
 
-    with open("results/" + short_website_name + ".txt", "a") as website_file:
+    with open("local_results/" + short_website_name + ".txt", "a") as website_file:
         website_file.write("\n" + "############################## After accepting the Cookie-Banner (or not) ##############################" + "\n")
         website_file.write("[After] Website-Cookie-Amount: " + str(cookies.__len__()) + "\n")
         website_file.write("[After] Website-Cookies: " + str(cookies) + "\n")
@@ -301,7 +301,7 @@ def analyze_cookie_files():
     global able_to_accept_cookies
 
     # Calculate the difference between the cookies that existed before and after the cookie-banner
-    with open("results/" + short_website_name + ".txt") as website_files:
+    with open("local_results/" + short_website_name + ".txt") as website_files:
         lines = website_files.readlines()
 
     for line in lines:
@@ -314,7 +314,7 @@ def analyze_cookie_files():
     cookie_difference = set(a_cookies_before) ^ set(a_cookies_after)
 
     # Are there already disallowed cookies in the cookie list at the beginning?
-    with open("results/" + short_website_name + ".txt", "a") as website_file:
+    with open("local_results/" + short_website_name + ".txt", "a") as website_file:
         website_file.write("\n" + "############################## Third party cookies used before acceptance ##############################" + "\n")
 
     # cookie_b = cookie before
@@ -323,7 +323,7 @@ def analyze_cookie_files():
         if updated_cookie_b in third_party_cookies:
             current_website_unauthorized_use_of_third_party_cookies_at_beginning = True
 
-            with open("results/" + short_website_name + ".txt", "a") as website_file:
+            with open("local_results/" + short_website_name + ".txt", "a") as website_file:
                 t_p_c_name = [y for (x, y) in t_p_c_pairs if x == updated_cookie_b]
                 website_file.write("[Used before] Cookie-Name: " + updated_cookie_b + " (" + str(t_p_c_name[0]) + ")" + "\n")
 
@@ -348,7 +348,7 @@ def analyze_cookie_files():
             current_website_authorized_use_of_third_party_cookies_after = True
 
     # Write the information of the analysis into the respective website files
-    with open("results/" + short_website_name + ".txt", "a") as website_file:
+    with open("local_results/" + short_website_name + ".txt", "a") as website_file:
         website_file.write("\n" + "############################## Difference (Before/After) ##############################" + "\n")
         website_file.write("[Difference] Cookies added: " + str(cookie_difference.__len__()) + "\n")
 
@@ -455,7 +455,7 @@ if __name__ == '__main__':
             print("\nException: Page most likely unavailable or offline!")
 
             try:
-                os.remove("results/" + short_website_name + ".txt")
+                os.remove("local_results/" + short_website_name + ".txt")
             except FileNotFoundError:
                 print("File could not be deleted because it was not found")
 

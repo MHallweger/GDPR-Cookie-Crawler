@@ -1,0 +1,71 @@
+Website 120: http://www.studiohertzberg.de/ | Created: 10.02.2022 12:47:59 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 19
+[Before] Website-Cookies: [{'domain': '.studiohertzberg.de', 'expiry': 1644493729, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.studiohertzberg.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.studiohertzberg.de', 'expiry': 1707565669, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.860969328.1644493669'}, {'domain': '.studiohertzberg.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a451b6aa-25e8-40f7-9b81-2279bf0b8e5e'}, {'domain': '.studiohertzberg.de', 'expiry': 1645703269, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.studiohertzberg.de', 'expiry': 1676029669, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.studiohertzberg.de', 'expiry': 1644580069, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1621281079.1644493669'}, {'domain': '.studiohertzberg.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.studiohertzberg.de', 'expiry': 1644495470, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.studiohertzberg.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.studiohertzberg.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T11%3A47%3A49.470Z'}, {'domain': '.studiohertzberg.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '57c91692-3ed4-4150-a0ff-9b8f4819d6ae'}, {'domain': '.studiohertzberg.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '57c91692-3ed4-4150-a0ff-9b8f4819d6ae'}, {'domain': '.studiohertzberg.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a451b6aa-25e8-40f7-9b81-2279bf0b8e5e'}, {'domain': '.studiohertzberg.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.studiohertzberg.de', 'expiry': 1676029669, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': 'www.studiohertzberg.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.studiohertzberg.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T11%3A47%3A49.462Z'}, {'domain': 'www.studiohertzberg.de', 'expiry': 1676029670, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _gat
+[Before] Cookie-Name 2: _shopify_evids
+[Before] Cookie-Name 3: _ga
+[Before] Cookie-Name 4: _shopify_s
+[Before] Cookie-Name 5: _shopify_tw
+[Before] Cookie-Name 6: _shopify_m
+[Before] Cookie-Name 7: _gid
+[Before] Cookie-Name 8: _orig_referrer
+[Before] Cookie-Name 9: _shopify_tm
+[Before] Cookie-Name 10: _shopify_sa_p
+[Before] Cookie-Name 11: _shopify_sa_t
+[Before] Cookie-Name 12: _shopify_y
+[Before] Cookie-Name 13: _y
+[Before] Cookie-Name 14: _s
+[Before] Cookie-Name 15: _landing_page
+[Before] Cookie-Name 16: _tracking_consent
+[Before] Cookie-Name 17: _shopify_evids
+[Before] Cookie-Name 18: _shopify_d
+[Before] Cookie-Name 19: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 19
+[After] Website-Cookies: [{'domain': '.studiohertzberg.de', 'expiry': 1644493729, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.studiohertzberg.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.studiohertzberg.de', 'expiry': 1707565669, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.860969328.1644493669'}, {'domain': '.studiohertzberg.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a451b6aa-25e8-40f7-9b81-2279bf0b8e5e'}, {'domain': '.studiohertzberg.de', 'expiry': 1645703269, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.studiohertzberg.de', 'expiry': 1676029669, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.studiohertzberg.de', 'expiry': 1644580069, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1621281079.1644493669'}, {'domain': '.studiohertzberg.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.studiohertzberg.de', 'expiry': 1644495470, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.studiohertzberg.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.studiohertzberg.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T11%3A47%3A49.470Z'}, {'domain': '.studiohertzberg.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '57c91692-3ed4-4150-a0ff-9b8f4819d6ae'}, {'domain': '.studiohertzberg.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '57c91692-3ed4-4150-a0ff-9b8f4819d6ae'}, {'domain': '.studiohertzberg.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a451b6aa-25e8-40f7-9b81-2279bf0b8e5e'}, {'domain': '.studiohertzberg.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.studiohertzberg.de', 'expiry': 1676029669, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': 'www.studiohertzberg.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.studiohertzberg.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T11%3A47%3A49.462Z'}, {'domain': 'www.studiohertzberg.de', 'expiry': 1676029670, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _gat
+[After] Cookie-Name 2: _shopify_evids
+[After] Cookie-Name 3: _ga
+[After] Cookie-Name 4: _shopify_s
+[After] Cookie-Name 5: _shopify_tw
+[After] Cookie-Name 6: _shopify_m
+[After] Cookie-Name 7: _gid
+[After] Cookie-Name 8: _orig_referrer
+[After] Cookie-Name 9: _shopify_tm
+[After] Cookie-Name 10: _shopify_sa_p
+[After] Cookie-Name 11: _shopify_sa_t
+[After] Cookie-Name 12: _shopify_y
+[After] Cookie-Name 13: _y
+[After] Cookie-Name 14: _s
+[After] Cookie-Name 15: _landing_page
+[After] Cookie-Name 16: _tracking_consent
+[After] Cookie-Name 17: _shopify_evids
+[After] Cookie-Name 18: _shopify_d
+[After] Cookie-Name 19: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

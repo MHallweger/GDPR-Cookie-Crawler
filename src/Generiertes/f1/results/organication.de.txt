@@ -1,0 +1,93 @@
+Website 48: http://www.organication.de/ | Created: 08.02.2022 21:53:40 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 29
+[Before] Website-Cookies: [{'domain': 'www.organication.de', 'expiry': 1646945614, 'httpOnly': False, 'name': 'hash_key', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '6202d84e29b332591174c4e9'}, {'domain': 'www.organication.de', 'expiry': 1644440013, 'httpOnly': False, 'name': '_ssw_cart_data', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'eyJjYXJ0X3Rva2VuIjoiYWM3NjljNWQ0NjJlNTlmMzI4YzlkYWQyYzhiMzUzMDcifQ%3D%3D'}, {'domain': 'www.organication.de', 'expiry': 1644355713, 'httpOnly': False, 'name': 'ssw_visitor', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'ssw_visitor1644353613394'}, {'domain': 'www.organication.de', 'httpOnly': False, 'name': 'hesid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'e768d8cd-d5b2-30ae-871c-d4d50fe6ce96'}, {'domain': '.organication.de', 'httpOnly': False, 'name': 'soundest-views', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.organication.de', 'expiry': 1644355411, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'fotHj6PbTKAA1e-20220208205331'}, {'domain': '.organication.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220208205331-q4ugOkanFxnVD1jXCz5nVyHX8iPJu15C9bquOUPQgxe0lvzJP'}, {'domain': 'www.organication.de', 'expiry': 1644440011, 'httpOnly': False, 'name': '_ks_scriptVersionChecked', 'path': '/', 'secure': True, 'value': 'true'}, {'domain': 'www.organication.de', 'expiry': 1675889611, 'httpOnly': False, 'name': '_ks_scriptVersion', 'path': '/', 'secure': True, 'value': '308'}, {'domain': 'www.organication.de', 'expiry': 1644357211, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.organication.de', 'expiry': 1652129610, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1494886989.1644353611'}, {'domain': '.organication.de', 'expiry': 1644440010, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1547280635.1644353611'}, {'domain': '.organication.de', 'expiry': 1675889615, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cee11f05-7654-4e07-848c-9b84c86912da'}, {'domain': '.organication.de', 'expiry': 1645563210, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.organication.de', 'expiry': 1644355410, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.organication.de', 'httpOnly': False, 'name': 'locale_bar_accepted', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.organication.de', 'expiry': 1675889611, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'YnGLbWiXsYqTVq-20220208205331'}, {'domain': '.organication.de', 'expiry': 1644355410, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T20%3A53%3A30.677Z'}, {'domain': '.organication.de', 'expiry': 1644355415, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '17a86b45-de19-4451-b5ae-76a886c53651'}, {'domain': '.organication.de', 'expiry': 1644355415, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '17a86b45-de19-4451-b5ae-76a886c53651'}, {'domain': 'www.organication.de', 'expiry': 1645563215, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.organication.de', 'expiry': 1707425610, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.571333964.1644353611'}, {'domain': '.organication.de', 'expiry': 1675889615, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cee11f05-7654-4e07-848c-9b84c86912da'}, {'domain': '.organication.de', 'expiry': 1645563210, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.organication.de', 'expiry': 1652129611, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644353610935.1995797580'}, {'domain': '.organication.de', 'expiry': 1675889610, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVptUTJZekkwTlRFdFpEZ3dOaTAwWkRrd0xXSTVObVl0TTJNMFptSTJPRGRtTkRCbQ'}, {'domain': '.organication.de', 'expiry': 1644353670, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.organication.de', 'expiry': 1645563213, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': 'www.organication.de', 'expiry': 1675889615, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: hash_key
+[Before] Cookie-Name 2: _ssw_cart_data
+[Before] Cookie-Name 3: ssw_visitor
+[Before] Cookie-Name 4: hesid
+[Before] Cookie-Name 5: soundest-views
+[Before] Cookie-Name 6: omnisendSessionID
+[Before] Cookie-Name 7: soundestID
+[Before] Cookie-Name 8: _ks_scriptVersionChecked
+[Before] Cookie-Name 9: _ks_scriptVersion
+[Before] Cookie-Name 10: shopify_pay_redirect
+[Before] Cookie-Name 11: _gcl_au
+[Before] Cookie-Name 12: _gid
+[Before] Cookie-Name 13: _shopify_y
+[Before] Cookie-Name 14: _landing_page
+[Before] Cookie-Name 15: _shopify_sa_p
+[Before] Cookie-Name 16: locale_bar_accepted
+[Before] Cookie-Name 17: omnisendAnonymousID
+[Before] Cookie-Name 18: _shopify_sa_t
+[Before] Cookie-Name 19: _s
+[Before] Cookie-Name 20: _shopify_s
+[Before] Cookie-Name 21: localization
+[Before] Cookie-Name 22: _ga
+[Before] Cookie-Name 23: _y
+[Before] Cookie-Name 24: _orig_referrer
+[Before] Cookie-Name 25: _fbp
+[Before] Cookie-Name 26: _pin_unauth
+[Before] Cookie-Name 27: _gat
+[Before] Cookie-Name 28: cart_currency
+[Before] Cookie-Name 29: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 30
+[After] Website-Cookies: [{'domain': 'www.organication.de', 'expiry': 1675889627, 'httpOnly': False, 'name': 'cookieconsent_status', 'path': '/', 'secure': False, 'value': 'dismiss'}, {'domain': 'www.organication.de', 'expiry': 1646945614, 'httpOnly': False, 'name': 'hash_key', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '6202d84e29b332591174c4e9'}, {'domain': 'www.organication.de', 'expiry': 1644440013, 'httpOnly': False, 'name': '_ssw_cart_data', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'eyJjYXJ0X3Rva2VuIjoiYWM3NjljNWQ0NjJlNTlmMzI4YzlkYWQyYzhiMzUzMDcifQ%3D%3D'}, {'domain': 'www.organication.de', 'expiry': 1644355713, 'httpOnly': False, 'name': 'ssw_visitor', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'ssw_visitor1644353613394'}, {'domain': 'www.organication.de', 'httpOnly': False, 'name': 'hesid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'e768d8cd-d5b2-30ae-871c-d4d50fe6ce96'}, {'domain': '.organication.de', 'httpOnly': False, 'name': 'soundest-views', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.organication.de', 'expiry': 1644355411, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'fotHj6PbTKAA1e-20220208205331'}, {'domain': '.organication.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220208205331-q4ugOkanFxnVD1jXCz5nVyHX8iPJu15C9bquOUPQgxe0lvzJP'}, {'domain': 'www.organication.de', 'expiry': 1644440011, 'httpOnly': False, 'name': '_ks_scriptVersionChecked', 'path': '/', 'secure': True, 'value': 'true'}, {'domain': 'www.organication.de', 'expiry': 1675889611, 'httpOnly': False, 'name': '_ks_scriptVersion', 'path': '/', 'secure': True, 'value': '308'}, {'domain': 'www.organication.de', 'expiry': 1644357211, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.organication.de', 'expiry': 1652129610, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1494886989.1644353611'}, {'domain': '.organication.de', 'expiry': 1644440010, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1547280635.1644353611'}, {'domain': '.organication.de', 'expiry': 1675889615, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cee11f05-7654-4e07-848c-9b84c86912da'}, {'domain': '.organication.de', 'expiry': 1645563210, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.organication.de', 'expiry': 1644355410, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.organication.de', 'httpOnly': False, 'name': 'locale_bar_accepted', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.organication.de', 'expiry': 1675889611, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'YnGLbWiXsYqTVq-20220208205331'}, {'domain': '.organication.de', 'expiry': 1644355410, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T20%3A53%3A30.677Z'}, {'domain': '.organication.de', 'expiry': 1644355415, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '17a86b45-de19-4451-b5ae-76a886c53651'}, {'domain': '.organication.de', 'expiry': 1644355415, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '17a86b45-de19-4451-b5ae-76a886c53651'}, {'domain': 'www.organication.de', 'expiry': 1645563215, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.organication.de', 'expiry': 1707425610, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.571333964.1644353611'}, {'domain': '.organication.de', 'expiry': 1675889615, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cee11f05-7654-4e07-848c-9b84c86912da'}, {'domain': '.organication.de', 'expiry': 1645563210, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.organication.de', 'expiry': 1652129627, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644353610935.1995797580'}, {'domain': '.organication.de', 'expiry': 1675889610, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVptUTJZekkwTlRFdFpEZ3dOaTAwWkRrd0xXSTVObVl0TTJNMFptSTJPRGRtTkRCbQ'}, {'domain': '.organication.de', 'expiry': 1644353670, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.organication.de', 'expiry': 1645563213, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': 'www.organication.de', 'expiry': 1675889615, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: cookieconsent_status
+[After] Cookie-Name 2: hash_key
+[After] Cookie-Name 3: _ssw_cart_data
+[After] Cookie-Name 4: ssw_visitor
+[After] Cookie-Name 5: hesid
+[After] Cookie-Name 6: soundest-views
+[After] Cookie-Name 7: omnisendSessionID
+[After] Cookie-Name 8: soundestID
+[After] Cookie-Name 9: _ks_scriptVersionChecked
+[After] Cookie-Name 10: _ks_scriptVersion
+[After] Cookie-Name 11: shopify_pay_redirect
+[After] Cookie-Name 12: _gcl_au
+[After] Cookie-Name 13: _gid
+[After] Cookie-Name 14: _shopify_y
+[After] Cookie-Name 15: _landing_page
+[After] Cookie-Name 16: _shopify_sa_p
+[After] Cookie-Name 17: locale_bar_accepted
+[After] Cookie-Name 18: omnisendAnonymousID
+[After] Cookie-Name 19: _shopify_sa_t
+[After] Cookie-Name 20: _s
+[After] Cookie-Name 21: _shopify_s
+[After] Cookie-Name 22: localization
+[After] Cookie-Name 23: _ga
+[After] Cookie-Name 24: _y
+[After] Cookie-Name 25: _orig_referrer
+[After] Cookie-Name 26: _fbp
+[After] Cookie-Name 27: _pin_unauth
+[After] Cookie-Name 28: _gat
+[After] Cookie-Name 29: cart_currency
+[After] Cookie-Name 30: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _gat (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: cookieconsent_status
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

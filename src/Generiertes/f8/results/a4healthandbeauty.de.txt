@@ -1,0 +1,85 @@
+Website 266: http://www.a4healthandbeauty.de/ | Created: 10.02.2022 21:17:33 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 23
+[Before] Website-Cookies: [{'domain': '.www.a4healthandbeauty.de', 'expiry': 1676060245, 'httpOnly': False, 'name': 'swym-cu_ct', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'undefined'}, {'domain': '.www.a4healthandbeauty.de', 'expiry': 1676060244, 'httpOnly': False, 'name': 'swym-swymRegid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"d-oiWp9V698wfAY8YepWRYjh0mKVc1dEHMEonH9N0Q0HWz3RzrNPvvBS8kw5eBTyrlcYbYk7TJ6rGdkCLdagqnoIh5Kto03j9ZUEXRlv9HownuRwhBidsW2OLTaOxzhUU1ybDH7TmmjpWPWY-mRX_In0HeGPzxUG6UW5o3hIE3k"'}, {'domain': '.www.a4healthandbeauty.de', 'expiry': 1644526044, 'httpOnly': False, 'name': 'swym-o_s', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'true'}, {'domain': 'www.a4healthandbeauty.de', 'expiry': 1645733843, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '31142a894290acb2309ae86f3ffc4f15'}, {'domain': '.www.a4healthandbeauty.de', 'expiry': 1676060243, 'httpOnly': False, 'name': 'swym-pid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"YEoGJg6btXAyF4ohutdXw57dddSMeCjkNWHPIHwBWVI="'}, {'domain': 'www.a4healthandbeauty.de', 'expiry': 1645733843, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3dd6938b02dd2ec6c2dc7c719fb5d224'}, {'domain': '.a4healthandbeauty.de', 'expiry': 1652300243, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644524243225.378207110'}, {'domain': '.a4healthandbeauty.de', 'expiry': 1676060243, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU56YzFZbVU0WW1VdFpUazFaUzAwTUdSakxXSmtaVEF0WlRJNU9UQmpaRFF4TkdRMg'}, {'domain': '.a4healthandbeauty.de', 'expiry': 1644526043, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e1ab2eae-095e-4965-aff6-afc5cbcf7ebf'}, {'domain': '.www.a4healthandbeauty.de', 'expiry': 1644526045, 'httpOnly': False, 'name': 'swym-session-id', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"6r7r94uzirr86aahv0i42lybkjv8hvpjfen81l523q0mm1d531mwayqtrljm72p3"'}, {'domain': 'www.a4healthandbeauty.de', 'expiry': 1645733843, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A2'}, {'domain': '.a4healthandbeauty.de', 'expiry': 1645733842, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.a4healthandbeauty.de', 'expiry': 1644526042, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T20%3A17%3A22.918Z'}, {'domain': 'www.a4healthandbeauty.de', 'expiry': 1645733843, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644524243'}, {'domain': '.a4healthandbeauty.de', 'expiry': 1644526043, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e1ab2eae-095e-4965-aff6-afc5cbcf7ebf'}, {'domain': '.a4healthandbeauty.de', 'expiry': 1676060243, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd892c0a6-d019-4f3c-863e-043971021173'}, {'domain': '.a4healthandbeauty.de', 'expiry': 1645733842, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.a4healthandbeauty.de', 'expiry': 1645733843, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.www.a4healthandbeauty.de', 'expiry': 1676060244, 'httpOnly': False, 'name': 'swym-email', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'null'}, {'domain': '.a4healthandbeauty.de', 'expiry': 1644526042, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.a4healthandbeauty.de', 'expiry': 1676060243, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd892c0a6-d019-4f3c-863e-043971021173'}, {'domain': 'www.a4healthandbeauty.de', 'expiry': 1645733843, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'www.a4healthandbeauty.de', 'expiry': 1676060243, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: swym-cu_ct
+[Before] Cookie-Name 2: swym-swymRegid
+[Before] Cookie-Name 3: swym-o_s
+[Before] Cookie-Name 4: cart
+[Before] Cookie-Name 5: swym-pid
+[Before] Cookie-Name 6: cart_sig
+[Before] Cookie-Name 7: _fbp
+[Before] Cookie-Name 8: _pin_unauth
+[Before] Cookie-Name 9: _shopify_s
+[Before] Cookie-Name 10: swym-session-id
+[Before] Cookie-Name 11: cart_ver
+[Before] Cookie-Name 12: _landing_page
+[Before] Cookie-Name 13: _shopify_sa_t
+[Before] Cookie-Name 14: cart_ts
+[Before] Cookie-Name 15: _s
+[Before] Cookie-Name 16: _y
+[Before] Cookie-Name 17: _orig_referrer
+[Before] Cookie-Name 18: cart_currency
+[Before] Cookie-Name 19: swym-email
+[Before] Cookie-Name 20: _shopify_sa_p
+[Before] Cookie-Name 21: _shopify_y
+[Before] Cookie-Name 22: localization
+[Before] Cookie-Name 23: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 28
+[After] Website-Cookies: [{'domain': '.a4healthandbeauty.de', 'expiry': 1676060258, 'httpOnly': False, 'name': '_iub_cs-85620835', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '%7B%22timestamp%22%3A%222022-02-10T20%3A17%3A38.597Z%22%2C%22version%22%3A%221.36.1%22%2C%22purposes%22%3A%7B%221%22%3Atrue%2C%222%22%3Atrue%2C%223%22%3Atrue%2C%224%22%3Atrue%2C%225%22%3Atrue%7D%2C%22id%22%3A85620835%2C%22cons%22%3A%7B%22rand%22%3A%22e7b2f0%22%7D%7D'}, {'domain': '.a4healthandbeauty.de', 'expiry': 1644524318, 'httpOnly': False, 'name': '_dc_gtm_UA-57662995-1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.a4healthandbeauty.de', 'expiry': 1652300258, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.2063259818.1644524259'}, {'domain': '.www.a4healthandbeauty.de', 'expiry': 1676060245, 'httpOnly': False, 'name': 'swym-cu_ct', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'undefined'}, {'domain': '.a4healthandbeauty.de', 'expiry': 1644610658, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1081467366.1644524259'}, {'domain': '.www.a4healthandbeauty.de', 'expiry': 1676060244, 'httpOnly': False, 'name': 'swym-swymRegid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"d-oiWp9V698wfAY8YepWRYjh0mKVc1dEHMEonH9N0Q0HWz3RzrNPvvBS8kw5eBTyrlcYbYk7TJ6rGdkCLdagqnoIh5Kto03j9ZUEXRlv9HownuRwhBidsW2OLTaOxzhUU1ybDH7TmmjpWPWY-mRX_In0HeGPzxUG6UW5o3hIE3k"'}, {'domain': '.a4healthandbeauty.de', 'expiry': 1645733842, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.a4healthandbeauty.de', 'expiry': 1676060243, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU56YzFZbVU0WW1VdFpUazFaUzAwTUdSakxXSmtaVEF0WlRJNU9UQmpaRFF4TkdRMg'}, {'domain': '.a4healthandbeauty.de', 'expiry': 1652300258, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644524243225.378207110'}, {'domain': '.www.a4healthandbeauty.de', 'expiry': 1644526044, 'httpOnly': False, 'name': 'swym-o_s', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'true'}, {'domain': 'www.a4healthandbeauty.de', 'expiry': 1645733843, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '31142a894290acb2309ae86f3ffc4f15'}, {'domain': '.www.a4healthandbeauty.de', 'expiry': 1676060243, 'httpOnly': False, 'name': 'swym-pid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"YEoGJg6btXAyF4ohutdXw57dddSMeCjkNWHPIHwBWVI="'}, {'domain': 'www.a4healthandbeauty.de', 'expiry': 1645733843, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3dd6938b02dd2ec6c2dc7c719fb5d224'}, {'domain': '.a4healthandbeauty.de', 'expiry': 1644526043, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e1ab2eae-095e-4965-aff6-afc5cbcf7ebf'}, {'domain': '.www.a4healthandbeauty.de', 'expiry': 1644526058, 'httpOnly': False, 'name': 'swym-session-id', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"6r7r94uzirr86aahv0i42lybkjv8hvpjfen81l523q0mm1d531mwayqtrljm72p3"'}, {'domain': 'www.a4healthandbeauty.de', 'expiry': 1645733843, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A2'}, {'domain': '.a4healthandbeauty.de', 'expiry': 1645733842, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.a4healthandbeauty.de', 'expiry': 1676060243, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd892c0a6-d019-4f3c-863e-043971021173'}, {'domain': '.a4healthandbeauty.de', 'expiry': 1644526042, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T20%3A17%3A22.918Z'}, {'domain': 'www.a4healthandbeauty.de', 'expiry': 1645733843, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644524243'}, {'domain': '.a4healthandbeauty.de', 'expiry': 1707596258, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.741632151.1644524259'}, {'domain': '.a4healthandbeauty.de', 'expiry': 1644526043, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e1ab2eae-095e-4965-aff6-afc5cbcf7ebf'}, {'domain': '.a4healthandbeauty.de', 'expiry': 1676060243, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd892c0a6-d019-4f3c-863e-043971021173'}, {'domain': 'www.a4healthandbeauty.de', 'expiry': 1645733843, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.www.a4healthandbeauty.de', 'expiry': 1676060244, 'httpOnly': False, 'name': 'swym-email', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'null'}, {'domain': '.a4healthandbeauty.de', 'expiry': 1644526042, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.a4healthandbeauty.de', 'expiry': 1645733843, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'www.a4healthandbeauty.de', 'expiry': 1676060243, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _iub_cs-85620835
+[After] Cookie-Name 2: _dc_gtm_UA-57662995-1
+[After] Cookie-Name 3: _gcl_au
+[After] Cookie-Name 4: swym-cu_ct
+[After] Cookie-Name 5: _gid
+[After] Cookie-Name 6: swym-swymRegid
+[After] Cookie-Name 7: _orig_referrer
+[After] Cookie-Name 8: _pin_unauth
+[After] Cookie-Name 9: _fbp
+[After] Cookie-Name 10: swym-o_s
+[After] Cookie-Name 11: cart
+[After] Cookie-Name 12: swym-pid
+[After] Cookie-Name 13: cart_sig
+[After] Cookie-Name 14: _shopify_s
+[After] Cookie-Name 15: swym-session-id
+[After] Cookie-Name 16: cart_ver
+[After] Cookie-Name 17: _landing_page
+[After] Cookie-Name 18: _shopify_y
+[After] Cookie-Name 19: _shopify_sa_t
+[After] Cookie-Name 20: cart_ts
+[After] Cookie-Name 21: _ga
+[After] Cookie-Name 22: _s
+[After] Cookie-Name 23: _y
+[After] Cookie-Name 24: cart_currency
+[After] Cookie-Name 25: swym-email
+[After] Cookie-Name 26: _shopify_sa_p
+[After] Cookie-Name 27: localization
+[After] Cookie-Name 28: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 5
+[Difference] Cookie-Name: 1: _iub_cs-85620835
+[Difference] Cookie-Name: 2: _ga
+[Difference] Cookie-Name: 3: _gid
+[Difference] Cookie-Name: 4: _gcl_au
+[Difference] Cookie-Name: 5: _dc_gtm_UA-57662995-1
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

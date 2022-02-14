@@ -1,0 +1,89 @@
+Website 283: http://www.2besales.de/ | Created: 09.02.2022 12:11:08 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 7
+[Before] Website-Cookies: [{'domain': '.2besales.com', 'expiry': 1675941059, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.2besales.com', 'expiry': 1644406859, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.2besales.com', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.2besales.com', 'expiry': 1645614659, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.2besales.com', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.2besales.com', 'expiry': 1675941059, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': 'www.2besales.com', 'expiry': 1675941059, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _shopify_m
+[Before] Cookie-Name 2: _shopify_tm
+[Before] Cookie-Name 3: _landing_page
+[Before] Cookie-Name 4: _shopify_tw
+[Before] Cookie-Name 5: _orig_referrer
+[Before] Cookie-Name 6: _tracking_consent
+[Before] Cookie-Name 7: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 34
+[After] Website-Cookies: [{'domain': '.2besales.com', 'expiry': 1675941075, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%221%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': '.2besales.com', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.2besales.com', 'expiry': 1645614675, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4ff1c48e70dc8f975cf0020c7b64a772'}, {'domain': '.2besales.com', 'expiry': 1644406875, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0c7c50e7-28e1-4a41-b235-af392e03698b'}, {'domain': '.2besales.com', 'expiry': 1675941075, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0adf8f2c-6787-40b5-b599-a7461aa54c5a'}, {'domain': 'www.2besales.com', 'expiry': 1645614675, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': 'www.2besales.com', 'expiry': 1645614675, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '61e2759897619860e9c19a5f7dc09572'}, {'domain': '.2besales.com', 'expiry': 1675941075, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0adf8f2c-6787-40b5-b599-a7461aa54c5a'}, {'domain': 'www.2besales.com', 'expiry': 1645614675, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.2besales.com', 'expiry': 1675941075, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0adf8f2c-6787-40b5-b599-a7461aa54c5a'}, {'domain': 'www.2besales.com', 'expiry': 1645614675, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.2besales.com', 'expiry': 1644406875, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T11%3A10%3A59.447Z'}, {'domain': 'www.2besales.com', 'expiry': 1675941075, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'www.2besales.com', 'expiry': 1645614675, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644405075'}, {'domain': 'www.2besales.com', 'httpOnly': False, 'name': 'bab_original', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'de'}, {'domain': 'www.2besales.com', 'expiry': 1644491475, 'httpOnly': False, 'name': '_gat', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.2besales.com', 'expiry': 1644406875, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T11%3A10%3A59.447Z'}, {'domain': '.2besales.com', 'expiry': 1675941075, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': 'www.2besales.com', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.2besales.com', 'expiry': 1675941075, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0adf8f2c-6787-40b5-b599-a7461aa54c5a'}, {'domain': 'www.2besales.com', 'httpOnly': False, 'name': 'bab_locale', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'de'}, {'domain': 'www.2besales.com', 'expiry': 1644406875, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0c7c50e7-28e1-4a41-b235-af392e03698b'}, {'domain': 'www.2besales.com', 'expiry': 1644406875, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0c7c50e7-28e1-4a41-b235-af392e03698b'}, {'domain': '.2besales.com', 'expiry': 1652181076, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644405075829.885783082'}, {'domain': 'www.2besales.com', 'expiry': 1646997075, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0NDA1MDc1MDYyLCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjowfX0='}, {'domain': '.2besales.com', 'expiry': 1645614675, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.2besales.com', 'httpOnly': False, 'name': 'bab_block', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.2besales.com', 'expiry': 1644406875, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0c7c50e7-28e1-4a41-b235-af392e03698b'}, {'domain': '.2besales.com', 'expiry': 1645614675, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.2besales.com', 'expiry': 1645614659, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.2besales.com', 'expiry': 1644406875, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.2besales.com', 'expiry': 1707477075, 'httpOnly': False, 'name': '_ga', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'GA1.2.320548080.1644405059'}, {'domain': 'www.2besales.com', 'expiry': 1645614675, 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T11%3A10%3A59.431Z'}, {'domain': 'www.2besales.com', 'expiry': 1644491475, 'httpOnly': False, 'name': '_gid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'GA1.2.1922773723.1644405059'}]
+[After] Cookie-Name 1: _tracking_consent
+[After] Cookie-Name 2: _shopify_evids
+[After] Cookie-Name 3: cart
+[After] Cookie-Name 4: _shopify_s
+[After] Cookie-Name 5: _y
+[After] Cookie-Name 6: cart_ver
+[After] Cookie-Name 7: cart_sig
+[After] Cookie-Name 8: _shopify_y
+[After] Cookie-Name 9: cart_currency
+[After] Cookie-Name 10: _y
+[After] Cookie-Name 11: localization
+[After] Cookie-Name 12: _shopify_sa_t
+[After] Cookie-Name 13: secure_customer_sig
+[After] Cookie-Name 14: cart_ts
+[After] Cookie-Name 15: bab_original
+[After] Cookie-Name 16: _gat
+[After] Cookie-Name 17: _shopify_sa_t
+[After] Cookie-Name 18: _shopify_m
+[After] Cookie-Name 19: _shopify_evids
+[After] Cookie-Name 20: _shopify_y
+[After] Cookie-Name 21: bab_locale
+[After] Cookie-Name 22: _shopify_s
+[After] Cookie-Name 23: _s
+[After] Cookie-Name 24: _fbp
+[After] Cookie-Name 25: _bc_c_set
+[After] Cookie-Name 26: _landing_page
+[After] Cookie-Name 27: bab_block
+[After] Cookie-Name 28: _s
+[After] Cookie-Name 29: _orig_referrer
+[After] Cookie-Name 30: _shopify_tw
+[After] Cookie-Name 31: _shopify_tm
+[After] Cookie-Name 32: _ga
+[After] Cookie-Name 33: _shopify_d
+[After] Cookie-Name 34: _gid
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 21
+[Difference] Cookie-Name: 1: cart_currency
+[Difference] Cookie-Name: 2: localization
+[Difference] Cookie-Name: 3: _y
+[Difference] Cookie-Name: 4: _shopify_y
+[Difference] Cookie-Name: 5: bab_block
+[Difference] Cookie-Name: 6: bab_original
+[Difference] Cookie-Name: 7: _ga
+[Difference] Cookie-Name: 8: cart_ts
+[Difference] Cookie-Name: 9: bab_locale
+[Difference] Cookie-Name: 10: _shopify_s
+[Difference] Cookie-Name: 11: _shopify_sa_t
+[Difference] Cookie-Name: 12: cart_ver
+[Difference] Cookie-Name: 13: _fbp
+[Difference] Cookie-Name: 14: _shopify_d
+[Difference] Cookie-Name: 15: _bc_c_set
+[Difference] Cookie-Name: 16: _gat
+[Difference] Cookie-Name: 17: _shopify_evids
+[Difference] Cookie-Name: 18: _s
+[Difference] Cookie-Name: 19: cart_sig
+[Difference] Cookie-Name: 20: _gid
+[Difference] Cookie-Name: 21: cart
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

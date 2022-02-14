@@ -1,0 +1,64 @@
+Website 24: http://www.masviva.de/ | Created: 10.02.2022 17:25:31 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 16
+[Before] Website-Cookies: [{'domain': '.masviva.de', 'expiry': 1652286323, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644510322869.823501262'}, {'domain': '.masviva.de', 'expiry': 1644510382, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.masviva.de', 'expiry': 1644596722, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.235336172.1644510323'}, {'domain': '.masviva.de', 'expiry': 1707582322, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.573562856.1644510323'}, {'domain': '.masviva.de', 'expiry': 1652286322, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.513918360.1644510323'}, {'domain': '.masviva.de', 'expiry': 1676046322, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ceb88f21-df05-41fc-99c6-24cd9e5bea15'}, {'domain': '.masviva.de', 'expiry': 1644512122, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.masviva.de', 'expiry': 1644512122, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T16%3A25%3A22.714Z'}, {'domain': '.masviva.de', 'expiry': 1676046322, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ceb88f21-df05-41fc-99c6-24cd9e5bea15'}, {'domain': '.masviva.de', 'expiry': 1644512122, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e499ff5b-34bf-42a6-b8d0-a04f85b010f6'}, {'domain': '.masviva.de', 'expiry': 1644512122, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e499ff5b-34bf-42a6-b8d0-a04f85b010f6'}, {'domain': 'www.masviva.de', 'expiry': 1676046322, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.masviva.de', 'expiry': 1645719922, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.masviva.de', 'expiry': 1645719922, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.masviva.de', 'expiry': 1645719922, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': 'www.masviva.de', 'expiry': 1645719922, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}]
+[Before] Cookie-Name 1: _fbp
+[Before] Cookie-Name 2: _gat
+[Before] Cookie-Name 3: _gid
+[Before] Cookie-Name 4: _ga
+[Before] Cookie-Name 5: _gcl_au
+[Before] Cookie-Name 6: _shopify_y
+[Before] Cookie-Name 7: _shopify_sa_p
+[Before] Cookie-Name 8: _shopify_sa_t
+[Before] Cookie-Name 9: _y
+[Before] Cookie-Name 10: _shopify_s
+[Before] Cookie-Name 11: _s
+[Before] Cookie-Name 12: secure_customer_sig
+[Before] Cookie-Name 13: _landing_page
+[Before] Cookie-Name 14: _orig_referrer
+[Before] Cookie-Name 15: cart_currency
+[Before] Cookie-Name 16: localization
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 16
+[After] Website-Cookies: [{'domain': '.masviva.de', 'expiry': 1652286337, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644510322869.823501262'}, {'domain': '.masviva.de', 'expiry': 1644510382, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.masviva.de', 'expiry': 1644596722, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.235336172.1644510323'}, {'domain': '.masviva.de', 'expiry': 1707582322, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.573562856.1644510323'}, {'domain': '.masviva.de', 'expiry': 1652286322, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.513918360.1644510323'}, {'domain': '.masviva.de', 'expiry': 1676046322, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ceb88f21-df05-41fc-99c6-24cd9e5bea15'}, {'domain': '.masviva.de', 'expiry': 1644512122, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.masviva.de', 'expiry': 1644512122, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T16%3A25%3A22.714Z'}, {'domain': '.masviva.de', 'expiry': 1676046322, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ceb88f21-df05-41fc-99c6-24cd9e5bea15'}, {'domain': '.masviva.de', 'expiry': 1644512122, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e499ff5b-34bf-42a6-b8d0-a04f85b010f6'}, {'domain': '.masviva.de', 'expiry': 1644512122, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e499ff5b-34bf-42a6-b8d0-a04f85b010f6'}, {'domain': 'www.masviva.de', 'expiry': 1676046322, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.masviva.de', 'expiry': 1645719922, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.masviva.de', 'expiry': 1645719922, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.masviva.de', 'expiry': 1645719922, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': 'www.masviva.de', 'expiry': 1645719922, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}]
+[After] Cookie-Name 1: _fbp
+[After] Cookie-Name 2: _gat
+[After] Cookie-Name 3: _gid
+[After] Cookie-Name 4: _ga
+[After] Cookie-Name 5: _gcl_au
+[After] Cookie-Name 6: _shopify_y
+[After] Cookie-Name 7: _shopify_sa_p
+[After] Cookie-Name 8: _shopify_sa_t
+[After] Cookie-Name 9: _y
+[After] Cookie-Name 10: _shopify_s
+[After] Cookie-Name 11: _s
+[After] Cookie-Name 12: secure_customer_sig
+[After] Cookie-Name 13: _landing_page
+[After] Cookie-Name 14: _orig_referrer
+[After] Cookie-Name 15: cart_currency
+[After] Cookie-Name 16: localization
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

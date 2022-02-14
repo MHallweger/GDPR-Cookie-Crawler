@@ -1,0 +1,87 @@
+Website 366: http://www.bmstore.de/ | Created: 09.02.2022 15:32:07 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 26
+[Before] Website-Cookies: [{'domain': '.www.bmstore.de', 'expiry': 1660084320, 'httpOnly': False, 'name': 'sib_cuid', 'path': '/', 'secure': False, 'value': 'b1d043b8-6048-4bcf-be3d-921a3f02d777'}, {'domain': '.bmstore.de', 'expiry': 1644418919, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'tb1VnjFwAhz6k8-20220209143159'}, {'domain': '.bmstore.de', 'expiry': 1644503517, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1057566661.1644417118'}, {'domain': '.bmstore.de', 'expiry': 1652193119, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644417119270.1652323832'}, {'domain': '.bmstore.de', 'expiry': 1652193117, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.449041806.1644417117'}, {'domain': '.bmstore.de', 'expiry': 1675953119, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'FP1airrRrbUMXB-20220209143159'}, {'domain': '.bmstore.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220209143159-G8zsRFWYyojPuMdF3sXIGq3uXhAsMoR28IhmtvkNKK08u9CKn'}, {'domain': '.bmstore.de', 'expiry': 1675953119, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVptTTFOVEprWVRRdE1qSXdaQzAwTXpNNUxUbGxNemd0TVRNME9UZzRaalk0TkRRMA'}, {'domain': '.bmstore.de', 'expiry': 1644418919, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.bmstore.de', 'expiry': 1675953120, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '11f4f25e-0cbd-4fb6-94a1-9a198d7f1972'}, {'domain': '.bmstore.de', 'expiry': 1644418919, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T14%3A31%3A59.021Z'}, {'domain': 'www.bmstore.de', 'httpOnly': False, 'name': 'cf-app-selected-filters', 'path': '/', 'secure': False, 'value': '%5B%5D'}, {'domain': '.bmstore.de', 'expiry': 1644417177, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.bmstore.de', 'expiry': 1645626720, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.bmstore.de', 'expiry': 1675953120, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '11f4f25e-0cbd-4fb6-94a1-9a198d7f1972'}, {'domain': 'www.bmstore.de', 'expiry': 1647009118, 'httpOnly': False, 'name': 'qikify_country_code', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': '.bmstore.de', 'expiry': 1645626717, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.bmstore.de', 'expiry': 1644418920, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '835b262d-c984-489a-8a85-fa8136c93327'}, {'domain': '.bmstore.de', 'expiry': 1645626717, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.bmstore.de', 'expiry': 1645626720, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'www.bmstore.de', 'expiry': 1644420718, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'www.bmstore.de', 'httpOnly': False, 'name': 'fsb_total_price_413724', 'path': '/', 'secure': False, 'value': '0'}, {'domain': '.bmstore.de', 'expiry': 1644418920, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '835b262d-c984-489a-8a85-fa8136c93327'}, {'domain': '.bmstore.de', 'expiry': 1707489117, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.551028972.1644417118'}, {'domain': 'www.bmstore.de', 'httpOnly': False, 'name': 'fsb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': 'www.bmstore.de', 'expiry': 1675953120, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: sib_cuid
+[Before] Cookie-Name 2: omnisendSessionID
+[Before] Cookie-Name 3: _gid
+[Before] Cookie-Name 4: _fbp
+[Before] Cookie-Name 5: _gcl_au
+[Before] Cookie-Name 6: omnisendAnonymousID
+[Before] Cookie-Name 7: soundestID
+[Before] Cookie-Name 8: _pin_unauth
+[Before] Cookie-Name 9: _shopify_sa_p
+[Before] Cookie-Name 10: _shopify_y
+[Before] Cookie-Name 11: _shopify_sa_t
+[Before] Cookie-Name 12: cf-app-selected-filters
+[Before] Cookie-Name 13: _gat
+[Before] Cookie-Name 14: cart_currency
+[Before] Cookie-Name 15: _y
+[Before] Cookie-Name 16: qikify_country_code
+[Before] Cookie-Name 17: _landing_page
+[Before] Cookie-Name 18: _shopify_s
+[Before] Cookie-Name 19: _orig_referrer
+[Before] Cookie-Name 20: localization
+[Before] Cookie-Name 21: shopify_pay_redirect
+[Before] Cookie-Name 22: fsb_total_price_413724
+[Before] Cookie-Name 23: _s
+[Before] Cookie-Name 24: _ga
+[Before] Cookie-Name 25: fsb_previous_pathname
+[Before] Cookie-Name 26: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 27
+[After] Website-Cookies: [{'domain': 'www.bmstore.de', 'expiry': 253402300799, 'httpOnly': False, 'name': 'eucookiebanner', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.www.bmstore.de', 'expiry': 1660084320, 'httpOnly': False, 'name': 'sib_cuid', 'path': '/', 'secure': False, 'value': 'b1d043b8-6048-4bcf-be3d-921a3f02d777'}, {'domain': '.bmstore.de', 'expiry': 1644418919, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'tb1VnjFwAhz6k8-20220209143159'}, {'domain': '.bmstore.de', 'expiry': 1644503517, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1057566661.1644417118'}, {'domain': '.bmstore.de', 'expiry': 1652193119, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644417119270.1652323832'}, {'domain': '.bmstore.de', 'expiry': 1652193117, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.449041806.1644417117'}, {'domain': '.bmstore.de', 'expiry': 1675953119, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'FP1airrRrbUMXB-20220209143159'}, {'domain': '.bmstore.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220209143159-G8zsRFWYyojPuMdF3sXIGq3uXhAsMoR28IhmtvkNKK08u9CKn'}, {'domain': '.bmstore.de', 'expiry': 1675953119, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVptTTFOVEprWVRRdE1qSXdaQzAwTXpNNUxUbGxNemd0TVRNME9UZzRaalk0TkRRMA'}, {'domain': '.bmstore.de', 'expiry': 1644418919, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.bmstore.de', 'expiry': 1675953120, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '11f4f25e-0cbd-4fb6-94a1-9a198d7f1972'}, {'domain': '.bmstore.de', 'expiry': 1644418919, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T14%3A31%3A59.021Z'}, {'domain': 'www.bmstore.de', 'httpOnly': False, 'name': 'cf-app-selected-filters', 'path': '/', 'secure': False, 'value': '%5B%5D'}, {'domain': '.bmstore.de', 'expiry': 1644417177, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.bmstore.de', 'expiry': 1645626720, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.bmstore.de', 'expiry': 1675953120, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '11f4f25e-0cbd-4fb6-94a1-9a198d7f1972'}, {'domain': 'www.bmstore.de', 'expiry': 1647009118, 'httpOnly': False, 'name': 'qikify_country_code', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': '.bmstore.de', 'expiry': 1645626717, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.bmstore.de', 'expiry': 1644418920, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '835b262d-c984-489a-8a85-fa8136c93327'}, {'domain': '.bmstore.de', 'expiry': 1645626717, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.bmstore.de', 'expiry': 1645626720, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'www.bmstore.de', 'expiry': 1644420718, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'www.bmstore.de', 'httpOnly': False, 'name': 'fsb_total_price_413724', 'path': '/', 'secure': False, 'value': '0'}, {'domain': '.bmstore.de', 'expiry': 1644418920, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '835b262d-c984-489a-8a85-fa8136c93327'}, {'domain': '.bmstore.de', 'expiry': 1707489117, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.551028972.1644417118'}, {'domain': 'www.bmstore.de', 'httpOnly': False, 'name': 'fsb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': 'www.bmstore.de', 'expiry': 1675953120, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: eucookiebanner
+[After] Cookie-Name 2: sib_cuid
+[After] Cookie-Name 3: omnisendSessionID
+[After] Cookie-Name 4: _gid
+[After] Cookie-Name 5: _fbp
+[After] Cookie-Name 6: _gcl_au
+[After] Cookie-Name 7: omnisendAnonymousID
+[After] Cookie-Name 8: soundestID
+[After] Cookie-Name 9: _pin_unauth
+[After] Cookie-Name 10: _shopify_sa_p
+[After] Cookie-Name 11: _shopify_y
+[After] Cookie-Name 12: _shopify_sa_t
+[After] Cookie-Name 13: cf-app-selected-filters
+[After] Cookie-Name 14: _gat
+[After] Cookie-Name 15: cart_currency
+[After] Cookie-Name 16: _y
+[After] Cookie-Name 17: qikify_country_code
+[After] Cookie-Name 18: _landing_page
+[After] Cookie-Name 19: _shopify_s
+[After] Cookie-Name 20: _orig_referrer
+[After] Cookie-Name 21: localization
+[After] Cookie-Name 22: shopify_pay_redirect
+[After] Cookie-Name 23: fsb_total_price_413724
+[After] Cookie-Name 24: _s
+[After] Cookie-Name 25: _ga
+[After] Cookie-Name 26: fsb_previous_pathname
+[After] Cookie-Name 27: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: eucookiebanner
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

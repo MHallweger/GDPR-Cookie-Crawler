@@ -1,0 +1,66 @@
+Website 344: http://www.mineral-puder.de/ | Created: 10.02.2022 13:54:35 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 18
+[Before] Website-Cookies: [{'domain': 'andrea-biedermann.de', 'expiry': 1644501266, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'andrea-biedermann.de', 'expiry': 1802177666, 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'secure': True, 'value': '9b28e9be-2167-4df8-b37e-b386447fd660'}, {'domain': 'andrea-biedermann.de', 'expiry': 1644499466, 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'secure': True, 'value': '8f229fbc-d5dc-4df8-9cc1-38a6c839459f'}, {'domain': '.andrea-biedermann.de', 'expiry': 1644497726, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.andrea-biedermann.de', 'expiry': 1707569666, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1709035103.1644497666'}, {'domain': '.andrea-biedermann.de', 'expiry': 1676033666, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '73763bf0-e500-47ec-8f70-1ab6e246ac50'}, {'domain': '.andrea-biedermann.de', 'expiry': 1644499466, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.andrea-biedermann.de', 'expiry': 1644499466, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T12%3A54%3A26.066Z'}, {'domain': '.andrea-biedermann.de', 'expiry': 1645707265, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.andrea-biedermann.de', 'expiry': 1644499466, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e5e239c5-900c-407b-ad8b-0b0714c71c9f'}, {'domain': '.andrea-biedermann.de', 'expiry': 1644499466, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e5e239c5-900c-407b-ad8b-0b0714c71c9f'}, {'domain': '.andrea-biedermann.de', 'expiry': 1676033666, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '73763bf0-e500-47ec-8f70-1ab6e246ac50'}, {'domain': 'andrea-biedermann.de', 'expiry': 1676033665, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.andrea-biedermann.de', 'expiry': 1645707265, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.andrea-biedermann.de', 'expiry': 1676033667, 'httpOnly': False, 'name': '_privy_82A7DF405FA25282117BEF51', 'path': '/', 'secure': False, 'value': '%7B%22uuid%22%3A%22544d4b33-2014-432e-b5a2-64b84d93fa2e%22%2C%22variations%22%3A%7B%7D%2C%22country_code%22%3A%22DE%22%2C%22region_code%22%3A%22DE_%22%2C%22postal_code%22%3A%22%22%7D'}, {'domain': '.andrea-biedermann.de', 'expiry': 1644584066, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1825031327.1644497666'}, {'domain': 'andrea-biedermann.de', 'expiry': 1645707265, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'andrea-biedermann.de', 'expiry': 1645707265, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[Before] Cookie-Name 1: shopify_pay_redirect
+[Before] Cookie-Name 2: _shg_user_id
+[Before] Cookie-Name 3: _shg_session_id
+[Before] Cookie-Name 4: _gat
+[Before] Cookie-Name 5: _ga
+[Before] Cookie-Name 6: _shopify_y
+[Before] Cookie-Name 7: _shopify_sa_p
+[Before] Cookie-Name 8: _shopify_sa_t
+[Before] Cookie-Name 9: _orig_referrer
+[Before] Cookie-Name 10: _shopify_s
+[Before] Cookie-Name 11: _s
+[Before] Cookie-Name 12: _y
+[Before] Cookie-Name 13: secure_customer_sig
+[Before] Cookie-Name 14: _landing_page
+[Before] Cookie-Name 15: _privy_82A7DF405FA25282117BEF51
+[Before] Cookie-Name 16: _gid
+[Before] Cookie-Name 17: cart_currency
+[Before] Cookie-Name 18: localization
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 18
+[After] Website-Cookies: [{'domain': 'andrea-biedermann.de', 'expiry': 1644501266, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'andrea-biedermann.de', 'expiry': 1802177666, 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'secure': True, 'value': '9b28e9be-2167-4df8-b37e-b386447fd660'}, {'domain': 'andrea-biedermann.de', 'expiry': 1644499466, 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'secure': True, 'value': '8f229fbc-d5dc-4df8-9cc1-38a6c839459f'}, {'domain': '.andrea-biedermann.de', 'expiry': 1644497726, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.andrea-biedermann.de', 'expiry': 1707569666, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1709035103.1644497666'}, {'domain': '.andrea-biedermann.de', 'expiry': 1676033666, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '73763bf0-e500-47ec-8f70-1ab6e246ac50'}, {'domain': '.andrea-biedermann.de', 'expiry': 1644499466, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.andrea-biedermann.de', 'expiry': 1644499466, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T12%3A54%3A26.066Z'}, {'domain': '.andrea-biedermann.de', 'expiry': 1645707265, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.andrea-biedermann.de', 'expiry': 1644499466, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e5e239c5-900c-407b-ad8b-0b0714c71c9f'}, {'domain': '.andrea-biedermann.de', 'expiry': 1644499466, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e5e239c5-900c-407b-ad8b-0b0714c71c9f'}, {'domain': '.andrea-biedermann.de', 'expiry': 1676033666, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '73763bf0-e500-47ec-8f70-1ab6e246ac50'}, {'domain': 'andrea-biedermann.de', 'expiry': 1676033665, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.andrea-biedermann.de', 'expiry': 1645707265, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.andrea-biedermann.de', 'expiry': 1676033667, 'httpOnly': False, 'name': '_privy_82A7DF405FA25282117BEF51', 'path': '/', 'secure': False, 'value': '%7B%22uuid%22%3A%22544d4b33-2014-432e-b5a2-64b84d93fa2e%22%2C%22variations%22%3A%7B%7D%2C%22country_code%22%3A%22DE%22%2C%22region_code%22%3A%22DE_%22%2C%22postal_code%22%3A%22%22%7D'}, {'domain': '.andrea-biedermann.de', 'expiry': 1644584066, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1825031327.1644497666'}, {'domain': 'andrea-biedermann.de', 'expiry': 1645707265, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'andrea-biedermann.de', 'expiry': 1645707265, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: shopify_pay_redirect
+[After] Cookie-Name 2: _shg_user_id
+[After] Cookie-Name 3: _shg_session_id
+[After] Cookie-Name 4: _gat
+[After] Cookie-Name 5: _ga
+[After] Cookie-Name 6: _shopify_y
+[After] Cookie-Name 7: _shopify_sa_p
+[After] Cookie-Name 8: _shopify_sa_t
+[After] Cookie-Name 9: _orig_referrer
+[After] Cookie-Name 10: _shopify_s
+[After] Cookie-Name 11: _s
+[After] Cookie-Name 12: _y
+[After] Cookie-Name 13: secure_customer_sig
+[After] Cookie-Name 14: _landing_page
+[After] Cookie-Name 15: _privy_82A7DF405FA25282117BEF51
+[After] Cookie-Name 16: _gid
+[After] Cookie-Name 17: cart_currency
+[After] Cookie-Name 18: localization
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

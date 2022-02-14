@@ -1,0 +1,84 @@
+Website 88: http://www.lolingo.de/ | Created: 10.02.2022 12:38:41 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 25
+[Before] Website-Cookies: [{'domain': 'lolingo.de', 'expiry': 1645702722, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.lolingo.de', 'expiry': 1645702711, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.lolingo.de', 'expiry': 1644494913, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'j7rhkuDFZH4zji-20220210113832'}, {'domain': '.lolingo.de', 'httpOnly': False, 'name': 'omnisendCartProducts', 'path': '/', 'secure': False, 'value': '[]'}, {'domain': '.lolingo.de', 'expiry': 1645702711, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.lolingo.de', 'expiry': 1644494922, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e62b7b92-9bfb-472a-9215-1d81bf81397d'}, {'domain': '.lolingo.de', 'expiry': 1676029113, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'QIiVq45FBjiGSc-20220210113832'}, {'domain': 'lolingo.de', 'expiry': 1645702712, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A2'}, {'domain': 'lolingo.de', 'expiry': 1645702712, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8d400ddd0515eb02021c66572140abf2'}, {'domain': 'lolingo.de', 'expiry': 1645702712, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644493111'}, {'domain': '.lolingo.de', 'expiry': 1676029122, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ebffa873-b887-47cc-be3a-f5a7d282a15f'}, {'domain': 'lolingo.de', 'expiry': 1644496712, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.lolingo.de', 'expiry': 1652269111, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644493111466.16152347'}, {'domain': 'lolingo.de', 'expiry': 1645702712, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4f3a38fe09ef08632ad987ffae0301bb'}, {'domain': '.lolingo.de', 'httpOnly': False, 'name': 'soundest-views', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.lolingo.de', 'expiry': 1707565111, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.832941270.1644493111'}, {'domain': '.lolingo.de', 'expiry': 1644494911, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.lolingo.de', 'expiry': 1676029122, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ebffa873-b887-47cc-be3a-f5a7d282a15f'}, {'domain': 'lolingo.de', 'expiry': 1676029122, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.lolingo.de', 'expiry': 1644579511, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.268223727.1644493111'}, {'domain': '.lolingo.de', 'expiry': 1644494911, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T11%3A38%3A31.296Z'}, {'domain': '.lolingo.de', 'expiry': 1644493171, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'lolingo.de', 'expiry': 1645702722, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'AT'}, {'domain': '.lolingo.de', 'expiry': 1644494922, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e62b7b92-9bfb-472a-9215-1d81bf81397d'}, {'domain': '.lolingo.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220210113832-x6fy98Rx3wNAVuwIqMsaZVgGPEcEsiLdOojSN7HCyGTDJmDVp'}]
+[Before] Cookie-Name 1: cart_currency
+[Before] Cookie-Name 2: _orig_referrer
+[Before] Cookie-Name 3: omnisendSessionID
+[Before] Cookie-Name 4: omnisendCartProducts
+[Before] Cookie-Name 5: _landing_page
+[Before] Cookie-Name 6: _shopify_s
+[Before] Cookie-Name 7: omnisendAnonymousID
+[Before] Cookie-Name 8: cart_ver
+[Before] Cookie-Name 9: cart_sig
+[Before] Cookie-Name 10: cart_ts
+[Before] Cookie-Name 11: _shopify_y
+[Before] Cookie-Name 12: shopify_pay_redirect
+[Before] Cookie-Name 13: _fbp
+[Before] Cookie-Name 14: cart
+[Before] Cookie-Name 15: soundest-views
+[Before] Cookie-Name 16: _ga
+[Before] Cookie-Name 17: _shopify_sa_p
+[Before] Cookie-Name 18: _y
+[Before] Cookie-Name 19: secure_customer_sig
+[Before] Cookie-Name 20: _gid
+[Before] Cookie-Name 21: _shopify_sa_t
+[Before] Cookie-Name 22: _gat
+[Before] Cookie-Name 23: localization
+[Before] Cookie-Name 24: _s
+[Before] Cookie-Name 25: soundestID
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 25
+[After] Website-Cookies: [{'domain': 'lolingo.de', 'expiry': 1645702722, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.lolingo.de', 'expiry': 1645702711, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.lolingo.de', 'expiry': 1644494913, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'j7rhkuDFZH4zji-20220210113832'}, {'domain': '.lolingo.de', 'httpOnly': False, 'name': 'omnisendCartProducts', 'path': '/', 'secure': False, 'value': '[]'}, {'domain': '.lolingo.de', 'expiry': 1645702711, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.lolingo.de', 'expiry': 1644494922, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e62b7b92-9bfb-472a-9215-1d81bf81397d'}, {'domain': '.lolingo.de', 'expiry': 1676029113, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'QIiVq45FBjiGSc-20220210113832'}, {'domain': 'lolingo.de', 'expiry': 1645702712, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A2'}, {'domain': 'lolingo.de', 'expiry': 1645702712, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8d400ddd0515eb02021c66572140abf2'}, {'domain': 'lolingo.de', 'expiry': 1645702712, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644493111'}, {'domain': '.lolingo.de', 'expiry': 1676029122, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ebffa873-b887-47cc-be3a-f5a7d282a15f'}, {'domain': 'lolingo.de', 'expiry': 1644496712, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.lolingo.de', 'expiry': 1652269111, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644493111466.16152347'}, {'domain': 'lolingo.de', 'expiry': 1645702712, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4f3a38fe09ef08632ad987ffae0301bb'}, {'domain': '.lolingo.de', 'httpOnly': False, 'name': 'soundest-views', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.lolingo.de', 'expiry': 1707565111, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.832941270.1644493111'}, {'domain': '.lolingo.de', 'expiry': 1644494911, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.lolingo.de', 'expiry': 1676029122, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ebffa873-b887-47cc-be3a-f5a7d282a15f'}, {'domain': 'lolingo.de', 'expiry': 1676029122, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.lolingo.de', 'expiry': 1644579511, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.268223727.1644493111'}, {'domain': '.lolingo.de', 'expiry': 1644494911, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T11%3A38%3A31.296Z'}, {'domain': '.lolingo.de', 'expiry': 1644493171, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'lolingo.de', 'expiry': 1645702722, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'AT'}, {'domain': '.lolingo.de', 'expiry': 1644494922, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e62b7b92-9bfb-472a-9215-1d81bf81397d'}, {'domain': '.lolingo.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220210113832-x6fy98Rx3wNAVuwIqMsaZVgGPEcEsiLdOojSN7HCyGTDJmDVp'}]
+[After] Cookie-Name 1: cart_currency
+[After] Cookie-Name 2: _orig_referrer
+[After] Cookie-Name 3: omnisendSessionID
+[After] Cookie-Name 4: omnisendCartProducts
+[After] Cookie-Name 5: _landing_page
+[After] Cookie-Name 6: _shopify_s
+[After] Cookie-Name 7: omnisendAnonymousID
+[After] Cookie-Name 8: cart_ver
+[After] Cookie-Name 9: cart_sig
+[After] Cookie-Name 10: cart_ts
+[After] Cookie-Name 11: _shopify_y
+[After] Cookie-Name 12: shopify_pay_redirect
+[After] Cookie-Name 13: _fbp
+[After] Cookie-Name 14: cart
+[After] Cookie-Name 15: soundest-views
+[After] Cookie-Name 16: _ga
+[After] Cookie-Name 17: _shopify_sa_p
+[After] Cookie-Name 18: _y
+[After] Cookie-Name 19: secure_customer_sig
+[After] Cookie-Name 20: _gid
+[After] Cookie-Name 21: _shopify_sa_t
+[After] Cookie-Name 22: _gat
+[After] Cookie-Name 23: localization
+[After] Cookie-Name 24: _s
+[After] Cookie-Name 25: soundestID
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _gat (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

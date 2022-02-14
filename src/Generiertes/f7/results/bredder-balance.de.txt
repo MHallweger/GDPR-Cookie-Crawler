@@ -1,0 +1,85 @@
+Website 346: http://www.bredder-balance.de/ | Created: 10.02.2022 19:02:08 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 4
+[Before] Website-Cookies: [{'domain': '.bredder-balance.de', 'expiry': 1645725717, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'bredder-balance.de', 'expiry': 1645725720, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.bredder-balance.de', 'expiry': 1645725717, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'bredder-balance.de', 'expiry': 1676052120, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _landing_page
+[Before] Cookie-Name 2: cart_currency
+[Before] Cookie-Name 3: _orig_referrer
+[Before] Cookie-Name 4: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 30
+[After] Website-Cookies: [{'domain': '.bredder-balance.de', 'expiry': 1644516194, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.bredder-balance.de', 'expiry': 1644602534, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1785134428.1644516134'}, {'domain': '.bredder-balance.de', 'expiry': 1707588134, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.5486bb6b-1188-4e21-b2c0-f08ddeeb0e64'}, {'domain': '.bredder-balance.de', 'expiry': 1644517934, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.bredder-balance.de', 'expiry': 1644517934, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T18%3A02%3A14.125Z'}, {'domain': 'bredder-balance.de', 'httpOnly': False, 'name': 'rp_lastName', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.bredder-balance.de', 'expiry': 1644517934, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '80befb4c-d657-4e68-8958-610d93e3dcf7'}, {'domain': 'bredder-balance.de', 'httpOnly': False, 'name': 'rp_customer_id', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'bredder-balance.de', 'httpOnly': False, 'name': 'rp_firstName', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'bredder-balance.de', 'expiry': 1645725720, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'bredder-balance.de', 'httpOnly': False, 'name': 'rpsid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3da12a7f-2576-4905-b80a-2cea69b66ea3'}, {'domain': 'bredder-balance.de', 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'bredder-balance.de', 'expiry': 1644517934, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '80befb4c-d657-4e68-8958-610d93e3dcf7'}, {'domain': 'bredder-balance.de', 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1.1.1639691539.1644516118'}, {'domain': 'bredder-balance.de', 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'pending'}, {'domain': '.bredder-balance.de', 'expiry': 1707588134, 'httpOnly': False, 'name': '_ga_S8VXCC5E20', 'path': '/', 'secure': False, 'value': 'GS1.1.bcc9a971-c4cd-47f4-8301-a9be7b5bdfde.1.0.1644516119.0'}, {'domain': 'bredder-balance.de', 'expiry': 1676052134, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e1a4b6fc-d51c-439b-a961-e48a4df808f7'}, {'domain': 'bredder-balance.de', 'httpOnly': False, 'name': 'rptkn', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bredderbalanceboard2461'}, {'domain': 'bredder-balance.de', 'expiry': 1647108134, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0NTE2MTM0MDQ5LCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjowfX0='}, {'domain': 'bredder-balance.de', 'expiry': 1644517934, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '80befb4c-d657-4e68-8958-610d93e3dcf7'}, {'domain': '.bredder-balance.de', 'expiry': 1644517934, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '80befb4c-d657-4e68-8958-610d93e3dcf7'}, {'domain': 'bredder-balance.de', 'httpOnly': False, 'name': 'locale_bar_accepted', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'bredder-balance.de', 'expiry': 1676052120, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.bredder-balance.de', 'expiry': 1645725717, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'bredder-balance.de', 'httpOnly': False, 'name': 'rp_email', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'bredder-balance.de', 'httpOnly': False, 'name': '_ama', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5486bb6b-1188-4e21-b2c0-f08ddeeb0e64'}, {'domain': 'bredder-balance.de', 'expiry': 1676052134, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e1a4b6fc-d51c-439b-a961-e48a4df808f7'}, {'domain': 'bredder-balance.de', 'httpOnly': False, 'name': 'rpdid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '89ac8296-d047-4872-a0d1-202901eb6fb5'}, {'domain': '.bredder-balance.de', 'expiry': 1652292134, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644516134406.236106357'}, {'domain': '.bredder-balance.de', 'expiry': 1645725717, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: _gat
+[After] Cookie-Name 2: _gid
+[After] Cookie-Name 3: _ga
+[After] Cookie-Name 4: _shopify_sa_p
+[After] Cookie-Name 5: _shopify_sa_t
+[After] Cookie-Name 6: rp_lastName
+[After] Cookie-Name 7: _shopify_s
+[After] Cookie-Name 8: rp_customer_id
+[After] Cookie-Name 9: rp_firstName
+[After] Cookie-Name 10: cart_currency
+[After] Cookie-Name 11: rpsid
+[After] Cookie-Name 12: localization
+[After] Cookie-Name 13: _shopify_s
+[After] Cookie-Name 14: _gcl_au
+[After] Cookie-Name 15: shopify_pay_redirect
+[After] Cookie-Name 16: _ga_S8VXCC5E20
+[After] Cookie-Name 17: _y
+[After] Cookie-Name 18: rptkn
+[After] Cookie-Name 19: _bc_c_set
+[After] Cookie-Name 20: _s
+[After] Cookie-Name 21: _s
+[After] Cookie-Name 22: locale_bar_accepted
+[After] Cookie-Name 23: secure_customer_sig
+[After] Cookie-Name 24: _landing_page
+[After] Cookie-Name 25: rp_email
+[After] Cookie-Name 26: _ama
+[After] Cookie-Name 27: _shopify_y
+[After] Cookie-Name 28: rpdid
+[After] Cookie-Name 29: _fbp
+[After] Cookie-Name 30: _orig_referrer
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 24
+[Difference] Cookie-Name: 1: rp_customer_id
+[Difference] Cookie-Name: 2: _ga
+[Difference] Cookie-Name: 3: _bc_c_set
+[Difference] Cookie-Name: 4: _gcl_au
+[Difference] Cookie-Name: 5: rptkn
+[Difference] Cookie-Name: 6: _shopify_s
+[Difference] Cookie-Name: 7: rp_lastName
+[Difference] Cookie-Name: 8: _shopify_sa_t
+[Difference] Cookie-Name: 9: shopify_pay_redirect
+[Difference] Cookie-Name: 10: _s
+[Difference] Cookie-Name: 11: _y
+[Difference] Cookie-Name: 12: _ama
+[Difference] Cookie-Name: 13: locale_bar_accepted
+[Difference] Cookie-Name: 14: _shopify_y
+[Difference] Cookie-Name: 15: rpsid
+[Difference] Cookie-Name: 16: _gat
+[Difference] Cookie-Name: 17: rp_firstName
+[Difference] Cookie-Name: 18: _ga_S8VXCC5E20
+[Difference] Cookie-Name: 19: _shopify_sa_p
+[Difference] Cookie-Name: 20: rpdid
+[Difference] Cookie-Name: 21: _fbp
+[Difference] Cookie-Name: 22: rp_email
+[Difference] Cookie-Name: 23: _gid
+[Difference] Cookie-Name: 24: localization
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

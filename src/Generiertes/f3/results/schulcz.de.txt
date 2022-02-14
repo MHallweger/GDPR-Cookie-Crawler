@@ -1,0 +1,53 @@
+Website 244: http://www.schulcz.de/ | Created: 09.02.2022 14:55:02 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 12
+[Before] Website-Cookies: [{'domain': 'www.schulcz.de', 'expiry': 1675950894, 'httpOnly': False, 'name': 'wishlist_id', 'path': '/', 'secure': False, 'value': '55487004847yqresuwwdug'}, {'domain': '.schulcz.de', 'expiry': 1644416691, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.schulcz.de', 'expiry': 1644416694, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b96bd5c0-58f2-4011-81a1-d32d2885cc76'}, {'domain': '.schulcz.de', 'expiry': 1675950894, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'db32c54d-a2b2-4870-873b-714dbb73525a'}, {'domain': '.schulcz.de', 'expiry': 1645624490, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.schulcz.de', 'expiry': 1675950894, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'db32c54d-a2b2-4870-873b-714dbb73525a'}, {'domain': '.schulcz.de', 'expiry': 1645624490, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.schulcz.de', 'expiry': 1644416694, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b96bd5c0-58f2-4011-81a1-d32d2885cc76'}, {'domain': 'www.schulcz.de', 'expiry': 1675950894, 'httpOnly': False, 'name': 'wishlist_customer_id', 'path': '/', 'secure': False, 'value': '0'}, {'domain': 'www.schulcz.de', 'expiry': 1675950894, 'httpOnly': False, 'name': 'bookmarkeditems', 'path': '/', 'secure': False, 'value': '{"items":[]}'}, {'domain': '.schulcz.de', 'expiry': 1644416691, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A54%3A51.153Z'}, {'domain': 'www.schulcz.de', 'expiry': 1675950894, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: wishlist_id
+[Before] Cookie-Name 2: _shopify_sa_p
+[Before] Cookie-Name 3: _shopify_s
+[Before] Cookie-Name 4: _shopify_y
+[Before] Cookie-Name 5: _orig_referrer
+[Before] Cookie-Name 6: _y
+[Before] Cookie-Name 7: _landing_page
+[Before] Cookie-Name 8: _s
+[Before] Cookie-Name 9: wishlist_customer_id
+[Before] Cookie-Name 10: bookmarkeditems
+[Before] Cookie-Name 11: _shopify_sa_t
+[Before] Cookie-Name 12: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 12
+[After] Website-Cookies: [{'domain': 'www.schulcz.de', 'expiry': 1675950894, 'httpOnly': False, 'name': 'wishlist_id', 'path': '/', 'secure': False, 'value': '55487004847yqresuwwdug'}, {'domain': '.schulcz.de', 'expiry': 1644416691, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.schulcz.de', 'expiry': 1644416694, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b96bd5c0-58f2-4011-81a1-d32d2885cc76'}, {'domain': '.schulcz.de', 'expiry': 1675950894, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'db32c54d-a2b2-4870-873b-714dbb73525a'}, {'domain': '.schulcz.de', 'expiry': 1645624490, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.schulcz.de', 'expiry': 1675950894, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'db32c54d-a2b2-4870-873b-714dbb73525a'}, {'domain': '.schulcz.de', 'expiry': 1645624490, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.schulcz.de', 'expiry': 1644416694, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b96bd5c0-58f2-4011-81a1-d32d2885cc76'}, {'domain': 'www.schulcz.de', 'expiry': 1675950894, 'httpOnly': False, 'name': 'wishlist_customer_id', 'path': '/', 'secure': False, 'value': '0'}, {'domain': 'www.schulcz.de', 'expiry': 1675950894, 'httpOnly': False, 'name': 'bookmarkeditems', 'path': '/', 'secure': False, 'value': '{"items":[]}'}, {'domain': '.schulcz.de', 'expiry': 1644416691, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A54%3A51.153Z'}, {'domain': 'www.schulcz.de', 'expiry': 1675950894, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: wishlist_id
+[After] Cookie-Name 2: _shopify_sa_p
+[After] Cookie-Name 3: _shopify_s
+[After] Cookie-Name 4: _shopify_y
+[After] Cookie-Name 5: _orig_referrer
+[After] Cookie-Name 6: _y
+[After] Cookie-Name 7: _landing_page
+[After] Cookie-Name 8: _s
+[After] Cookie-Name 9: wishlist_customer_id
+[After] Cookie-Name 10: bookmarkeditems
+[After] Cookie-Name 11: _shopify_sa_t
+[After] Cookie-Name 12: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is NOT GDPR compliant!

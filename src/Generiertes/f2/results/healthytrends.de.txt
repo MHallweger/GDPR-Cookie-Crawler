@@ -1,0 +1,53 @@
+Website 190: http://www.healthytrends.de/ | Created: 09.02.2022 11:44:01 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 11
+[Before] Website-Cookies: [{'domain': 'www.healthytrends.de', 'expiry': 1707475432, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MDM0MzIsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LmhlYWx0aHl0cmVuZHMuZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NDAzNDMyLCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL3d3dy5oZWFsdGh5dHJlbmRzLmRlLyJ9fQ=='}, {'domain': '.healthytrends.de', 'expiry': 1644405230, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A43%3A50.014Z'}, {'domain': '.healthytrends.de', 'expiry': 1644405240, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f4e6b6d4-eee5-425c-bae5-4c36765ea7e8'}, {'domain': '.healthytrends.de', 'expiry': 1644405230, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.healthytrends.de', 'expiry': 1675939440, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fc6c1aa4-2f81-4faa-8c63-cc33ba7c7b7d'}, {'domain': '.healthytrends.de', 'expiry': 1644405240, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f4e6b6d4-eee5-425c-bae5-4c36765ea7e8'}, {'domain': 'www.healthytrends.de', 'expiry': 1675939440, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.healthytrends.de', 'expiry': 1675939440, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fc6c1aa4-2f81-4faa-8c63-cc33ba7c7b7d'}, {'domain': '.healthytrends.de', 'expiry': 1652179430, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644403430260.1615590487'}, {'domain': '.healthytrends.de', 'expiry': 1645613029, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.healthytrends.de', 'expiry': 1645613029, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[Before] Cookie-Name 1: __kla_id
+[Before] Cookie-Name 2: _shopify_sa_t
+[Before] Cookie-Name 3: _shopify_s
+[Before] Cookie-Name 4: _shopify_sa_p
+[Before] Cookie-Name 5: _shopify_y
+[Before] Cookie-Name 6: _s
+[Before] Cookie-Name 7: secure_customer_sig
+[Before] Cookie-Name 8: _y
+[Before] Cookie-Name 9: _fbp
+[Before] Cookie-Name 10: _landing_page
+[Before] Cookie-Name 11: _orig_referrer
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 12
+[After] Website-Cookies: [{'domain': 'www.healthytrends.de', 'expiry': 1707475432, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MDM0MzIsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LmhlYWx0aHl0cmVuZHMuZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NDAzNDMyLCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL3d3dy5oZWFsdGh5dHJlbmRzLmRlLyJ9fQ=='}, {'domain': 'www.healthytrends.de', 'expiry': 1675939440, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.healthytrends.de', 'expiry': 1644405230, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A43%3A50.014Z'}, {'domain': '.healthytrends.de', 'expiry': 1644405240, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f4e6b6d4-eee5-425c-bae5-4c36765ea7e8'}, {'domain': '.healthytrends.de', 'expiry': 1644405230, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.healthytrends.de', 'expiry': 1675939440, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fc6c1aa4-2f81-4faa-8c63-cc33ba7c7b7d'}, {'domain': '.healthytrends.de', 'expiry': 1644405240, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f4e6b6d4-eee5-425c-bae5-4c36765ea7e8'}, {'domain': '.healthytrends.de', 'expiry': 1675939440, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fc6c1aa4-2f81-4faa-8c63-cc33ba7c7b7d'}, {'domain': '.healthytrends.de', 'expiry': 1652179446, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644403430260.1615590487'}, {'domain': '.healthytrends.de', 'expiry': 1645613029, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.healthytrends.de', 'expiry': 1675939446, 'httpOnly': False, 'name': 'cookieconsent_status', 'path': '/', 'secure': False, 'value': 'dismiss'}, {'domain': '.healthytrends.de', 'expiry': 1645613029, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: __kla_id
+[After] Cookie-Name 2: secure_customer_sig
+[After] Cookie-Name 3: _shopify_sa_t
+[After] Cookie-Name 4: _shopify_s
+[After] Cookie-Name 5: _shopify_sa_p
+[After] Cookie-Name 6: _shopify_y
+[After] Cookie-Name 7: _s
+[After] Cookie-Name 8: _y
+[After] Cookie-Name 9: _fbp
+[After] Cookie-Name 10: _landing_page
+[After] Cookie-Name 11: cookieconsent_status
+[After] Cookie-Name 12: _orig_referrer
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: cookieconsent_status
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

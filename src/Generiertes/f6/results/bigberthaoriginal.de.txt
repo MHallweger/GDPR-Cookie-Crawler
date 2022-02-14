@@ -1,0 +1,68 @@
+Website 72: http://www.bigberthaoriginal.de/ | Created: 10.02.2022 12:33:53 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 17
+[Before] Website-Cookies: [{'domain': 'www.bigberthaoriginal.de', 'expiry': 1707564823, 'httpOnly': False, 'name': '_ama', 'path': '/', 'secure': False, 'value': '1132585138.1644492821'}, {'domain': '.bigberthaoriginal.de', 'expiry': 1652268821, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644492821280.1582649305'}, {'domain': '.bigberthaoriginal.de', 'expiry': 1678188821, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '4bf47c308a6511ec8fc75d8655faeb89'}, {'domain': '.bigberthaoriginal.de', 'expiry': 1644494620, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.bigberthaoriginal.de', 'expiry': 1644492880, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.bigberthaoriginal.de', 'expiry': 1707564820, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1132585138.1644492821'}, {'domain': '.bigberthaoriginal.de', 'expiry': 1644579221, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': '4bf461508a6511ec9d683df423f1d050'}, {'domain': '.bigberthaoriginal.de', 'expiry': 1676028833, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5ebbbea5-c6d3-42a7-9fae-da765882e06d'}, {'domain': '.bigberthaoriginal.de', 'expiry': 1652268820, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1683303888.1644492820'}, {'domain': '.bigberthaoriginal.de', 'expiry': 1676028833, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5ebbbea5-c6d3-42a7-9fae-da765882e06d'}, {'domain': '.bigberthaoriginal.de', 'expiry': 1644494620, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T11%3A33%3A40.730Z'}, {'domain': '.bigberthaoriginal.de', 'expiry': 1644494633, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '857698ae-ddd3-4065-a457-dc4a71641f89'}, {'domain': '.bigberthaoriginal.de', 'expiry': 1644494633, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '857698ae-ddd3-4065-a457-dc4a71641f89'}, {'domain': 'www.bigberthaoriginal.de', 'expiry': 1676028833, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.bigberthaoriginal.de', 'expiry': 1645702420, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.bigberthaoriginal.de', 'expiry': 1644579220, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.141272627.1644492821'}, {'domain': '.bigberthaoriginal.de', 'expiry': 1645702420, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[Before] Cookie-Name 1: _ama
+[Before] Cookie-Name 2: _fbp
+[Before] Cookie-Name 3: _uetvid
+[Before] Cookie-Name 4: _shopify_sa_p
+[Before] Cookie-Name 5: _gat
+[Before] Cookie-Name 6: _ga
+[Before] Cookie-Name 7: _uetsid
+[Before] Cookie-Name 8: _shopify_y
+[Before] Cookie-Name 9: _gcl_au
+[Before] Cookie-Name 10: _y
+[Before] Cookie-Name 11: _shopify_sa_t
+[Before] Cookie-Name 12: _s
+[Before] Cookie-Name 13: _shopify_s
+[Before] Cookie-Name 14: secure_customer_sig
+[Before] Cookie-Name 15: _landing_page
+[Before] Cookie-Name 16: _gid
+[Before] Cookie-Name 17: _orig_referrer
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 18
+[After] Website-Cookies: [{'domain': 'www.bigberthaoriginal.de', 'expiry': 1707564823, 'httpOnly': False, 'name': '_ama', 'path': '/', 'secure': False, 'value': '1132585138.1644492821'}, {'domain': '.bigberthaoriginal.de', 'expiry': 1652268839, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644492821280.1582649305'}, {'domain': '.bigberthaoriginal.de', 'expiry': 1678188821, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '4bf47c308a6511ec8fc75d8655faeb89'}, {'domain': '.bigberthaoriginal.de', 'expiry': 1644494620, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.bigberthaoriginal.de', 'expiry': 1644492880, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.bigberthaoriginal.de', 'expiry': 1707564820, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1132585138.1644492821'}, {'domain': '.bigberthaoriginal.de', 'expiry': 1644579221, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': '4bf461508a6511ec9d683df423f1d050'}, {'domain': '.bigberthaoriginal.de', 'expiry': 1676028833, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5ebbbea5-c6d3-42a7-9fae-da765882e06d'}, {'domain': '.bigberthaoriginal.de', 'expiry': 1652268820, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1683303888.1644492820'}, {'domain': '.bigberthaoriginal.de', 'expiry': 1676028833, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5ebbbea5-c6d3-42a7-9fae-da765882e06d'}, {'domain': '.bigberthaoriginal.de', 'expiry': 1644494620, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T11%3A33%3A40.730Z'}, {'domain': '.bigberthaoriginal.de', 'expiry': 1644494633, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '857698ae-ddd3-4065-a457-dc4a71641f89'}, {'domain': '.bigberthaoriginal.de', 'expiry': 1644494633, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '857698ae-ddd3-4065-a457-dc4a71641f89'}, {'domain': 'www.bigberthaoriginal.de', 'expiry': 1676028839, 'httpOnly': False, 'name': 'cookieconsent_status', 'path': '/', 'secure': False, 'value': 'dismiss'}, {'domain': 'www.bigberthaoriginal.de', 'expiry': 1676028833, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.bigberthaoriginal.de', 'expiry': 1645702420, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.bigberthaoriginal.de', 'expiry': 1644579220, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.141272627.1644492821'}, {'domain': '.bigberthaoriginal.de', 'expiry': 1645702420, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: _ama
+[After] Cookie-Name 2: _fbp
+[After] Cookie-Name 3: _uetvid
+[After] Cookie-Name 4: _shopify_sa_p
+[After] Cookie-Name 5: _gat
+[After] Cookie-Name 6: _ga
+[After] Cookie-Name 7: _uetsid
+[After] Cookie-Name 8: _shopify_y
+[After] Cookie-Name 9: _gcl_au
+[After] Cookie-Name 10: _y
+[After] Cookie-Name 11: _shopify_sa_t
+[After] Cookie-Name 12: _s
+[After] Cookie-Name 13: _shopify_s
+[After] Cookie-Name 14: cookieconsent_status
+[After] Cookie-Name 15: secure_customer_sig
+[After] Cookie-Name 16: _landing_page
+[After] Cookie-Name 17: _gid
+[After] Cookie-Name 18: _orig_referrer
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _gid (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: cookieconsent_status
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

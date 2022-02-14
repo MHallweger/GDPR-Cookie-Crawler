@@ -1,0 +1,68 @@
+Website 23: http://www.biovene.de/ | Created: 10.02.2022 20:05:01 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 18
+[Before] Website-Cookies: [{'domain': '.www.biovene.de', 'httpOnly': False, 'name': '_g1634838496', 'path': '/', 'secure': False, 'value': 'RVVS'}, {'domain': 'www.biovene.de', 'expiry': 1645729456, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': 'www.biovene.de', 'expiry': 1645729456, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '57f0ae8d73690a816e88ac34e7654216'}, {'domain': 'www.biovene.de', 'expiry': 1645729456, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644519856'}, {'domain': 'www.biovene.de', 'expiry': 1645729456, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '744bf5847a62f4736eb9d7ca0d10b945'}, {'domain': 'www.biovene.de', 'expiry': 1645729456, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.biovene.de', 'expiry': 1676055856, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.biovene.de', 'expiry': 1644521650, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.biovene.de', 'expiry': 1644521657, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'df46b818-e9c8-4db7-bf72-d574900dd6c5'}, {'domain': '.biovene.de', 'expiry': 1644521650, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T19%3A04%3A10.276Z'}, {'domain': '.biovene.de', 'expiry': 1652295850, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644519850457.179828238'}, {'domain': '.biovene.de', 'expiry': 1707591850, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.515832901.1644519850'}, {'domain': '.biovene.de', 'expiry': 1676055857, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e3199bf0-9585-4615-8458-575246871023'}, {'domain': '.biovene.de', 'expiry': 1645729449, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.biovene.de', 'expiry': 1644521657, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'df46b818-e9c8-4db7-bf72-d574900dd6c5'}, {'domain': '.biovene.de', 'expiry': 1644606250, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.539684758.1644519850'}, {'domain': '.biovene.de', 'expiry': 1645729449, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.biovene.de', 'expiry': 1676055857, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e3199bf0-9585-4615-8458-575246871023'}]
+[Before] Cookie-Name 1: _g1634838496
+[Before] Cookie-Name 2: cart_ver
+[Before] Cookie-Name 3: cart_sig
+[Before] Cookie-Name 4: cart_ts
+[Before] Cookie-Name 5: cart
+[Before] Cookie-Name 6: localization
+[Before] Cookie-Name 7: secure_customer_sig
+[Before] Cookie-Name 8: _shopify_sa_p
+[Before] Cookie-Name 9: _shopify_s
+[Before] Cookie-Name 10: _shopify_sa_t
+[Before] Cookie-Name 11: _fbp
+[Before] Cookie-Name 12: _ga
+[Before] Cookie-Name 13: _shopify_y
+[Before] Cookie-Name 14: _orig_referrer
+[Before] Cookie-Name 15: _s
+[Before] Cookie-Name 16: _gid
+[Before] Cookie-Name 17: _landing_page
+[Before] Cookie-Name 18: _y
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 18
+[After] Website-Cookies: [{'domain': '.www.biovene.de', 'httpOnly': False, 'name': '_g1634838496', 'path': '/', 'secure': False, 'value': 'RVVS'}, {'domain': 'www.biovene.de', 'expiry': 1645729456, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': 'www.biovene.de', 'expiry': 1645729456, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '57f0ae8d73690a816e88ac34e7654216'}, {'domain': 'www.biovene.de', 'expiry': 1645729456, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644519856'}, {'domain': 'www.biovene.de', 'expiry': 1645729456, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '744bf5847a62f4736eb9d7ca0d10b945'}, {'domain': 'www.biovene.de', 'expiry': 1645729456, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.biovene.de', 'expiry': 1676055856, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.biovene.de', 'expiry': 1644521650, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.biovene.de', 'expiry': 1644521657, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'df46b818-e9c8-4db7-bf72-d574900dd6c5'}, {'domain': '.biovene.de', 'expiry': 1644521650, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T19%3A04%3A10.276Z'}, {'domain': '.biovene.de', 'expiry': 1652295850, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644519850457.179828238'}, {'domain': '.biovene.de', 'expiry': 1707591850, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.515832901.1644519850'}, {'domain': '.biovene.de', 'expiry': 1676055857, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e3199bf0-9585-4615-8458-575246871023'}, {'domain': '.biovene.de', 'expiry': 1645729449, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.biovene.de', 'expiry': 1644521657, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'df46b818-e9c8-4db7-bf72-d574900dd6c5'}, {'domain': '.biovene.de', 'expiry': 1644606250, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.539684758.1644519850'}, {'domain': '.biovene.de', 'expiry': 1645729449, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.biovene.de', 'expiry': 1676055857, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e3199bf0-9585-4615-8458-575246871023'}]
+[After] Cookie-Name 1: _g1634838496
+[After] Cookie-Name 2: cart_ver
+[After] Cookie-Name 3: cart_sig
+[After] Cookie-Name 4: cart_ts
+[After] Cookie-Name 5: cart
+[After] Cookie-Name 6: localization
+[After] Cookie-Name 7: secure_customer_sig
+[After] Cookie-Name 8: _shopify_sa_p
+[After] Cookie-Name 9: _shopify_s
+[After] Cookie-Name 10: _shopify_sa_t
+[After] Cookie-Name 11: _fbp
+[After] Cookie-Name 12: _ga
+[After] Cookie-Name 13: _shopify_y
+[After] Cookie-Name 14: _orig_referrer
+[After] Cookie-Name 15: _s
+[After] Cookie-Name 16: _gid
+[After] Cookie-Name 17: _landing_page
+[After] Cookie-Name 18: _y
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

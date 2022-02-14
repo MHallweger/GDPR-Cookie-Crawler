@@ -1,0 +1,88 @@
+Website 131: http://www.omacshop.de/ | Created: 09.02.2022 11:25:52 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 27
+[Before] Website-Cookies: [{'domain': 'omacshop.de', 'expiry': 1645007143, 'httpOnly': False, 'name': 'mc-currency', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'EUR'}, {'domain': 'omacshop.de', 'expiry': 1645007142, 'httpOnly': False, 'name': 'googtrans', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '/auto/en'}, {'domain': 'omacshop.de', 'expiry': 1645007142, 'httpOnly': False, 'name': 'mt-language', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'en'}, {'domain': 'omacshop.de', 'expiry': 1645007142, 'httpOnly': False, 'name': 'mt-email', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': ''}, {'domain': '.omacshop.de', 'expiry': 1659954342, 'httpOnly': False, 'name': '__tawkuuid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e::omacshop.de::HS9a6HvFhgZ9n6x1swyFEpQuNNgbDL8hYGdpGaPw2lKvvubQdJ64rbw/biccgVCX::2'}, {'domain': '.omacshop.de', 'expiry': 1675938342, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '61d451f7-a20c-4e87-8b70-55af408d776a'}, {'domain': 'omacshop.de', 'httpOnly': False, 'name': 'TawkConnectionTime', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.omacshop.de', 'expiry': 1675938342, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'fVmdnopqj3JA1p-20220209102542'}, {'domain': '.omacshop.de', 'expiry': 1644404142, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a71455c5-fdc9-4bdf-8589-363207025636'}, {'domain': '.omacshop.de', 'expiry': 1652178341, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1753455198.1644402342'}, {'domain': '.omacshop.de', 'expiry': 1675938341, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU9HWTFPRFJqWTJFdE5EQTRNQzAwWW1ZeExUZzJNV1V0TmpRNVl6azJNVEV4TWpCaA'}, {'domain': 'omacshop.de', 'expiry': 1675938341, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.omacshop.de', 'expiry': 1644488741, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.195312722.1644402342'}, {'domain': '.omacshop.de', 'expiry': 1644402401, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.omacshop.de', 'expiry': 1644404142, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a71455c5-fdc9-4bdf-8589-363207025636'}, {'domain': '.omacshop.de', 'expiry': 1707474341, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.719398742.1644402342'}, {'domain': '.omacshop.de', 'expiry': 1644404141, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A25%3A41.304Z'}, {'domain': '.omacshop.de', 'expiry': 1644404141, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.omacshop.de', 'httpOnly': False, 'name': 'soundest-views', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.omacshop.de', 'expiry': 1644404142, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 's3VdbFIUYmdwK3-20220209102542'}, {'domain': 'omacshop.de', 'expiry': 1645611941, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.omacshop.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220209102542-Lenwenzt6Byj7UBZOMPMIA0YKbOYuky3GqJR8yKSYBHV6txRW'}, {'domain': '.omacshop.de', 'expiry': 1645611939, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.omacshop.de', 'expiry': 1645611939, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'omacshop.de', 'expiry': 1645611941, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.omacshop.de', 'expiry': 1675938342, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '61d451f7-a20c-4e87-8b70-55af408d776a'}, {'domain': '.omacshop.de', 'expiry': 1652178342, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644402341614.813085860'}]
+[Before] Cookie-Name 1: mc-currency
+[Before] Cookie-Name 2: googtrans
+[Before] Cookie-Name 3: mt-language
+[Before] Cookie-Name 4: mt-email
+[Before] Cookie-Name 5: __tawkuuid
+[Before] Cookie-Name 6: _shopify_y
+[Before] Cookie-Name 7: TawkConnectionTime
+[Before] Cookie-Name 8: omnisendAnonymousID
+[Before] Cookie-Name 9: _shopify_s
+[Before] Cookie-Name 10: _gcl_au
+[Before] Cookie-Name 11: _pin_unauth
+[Before] Cookie-Name 12: secure_customer_sig
+[Before] Cookie-Name 13: _gid
+[Before] Cookie-Name 14: _gat
+[Before] Cookie-Name 15: _s
+[Before] Cookie-Name 16: _ga
+[Before] Cookie-Name 17: _shopify_sa_t
+[Before] Cookie-Name 18: _shopify_sa_p
+[Before] Cookie-Name 19: soundest-views
+[Before] Cookie-Name 20: omnisendSessionID
+[Before] Cookie-Name 21: localization
+[Before] Cookie-Name 22: soundestID
+[Before] Cookie-Name 23: _landing_page
+[Before] Cookie-Name 24: _orig_referrer
+[Before] Cookie-Name 25: cart_currency
+[Before] Cookie-Name 26: _y
+[Before] Cookie-Name 27: _fbp
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 28
+[After] Website-Cookies: [{'domain': 'omacshop.de', 'expiry': 1675938358, 'httpOnly': False, 'name': 'cookieconsent_status', 'path': '/', 'secure': False, 'value': 'dismiss'}, {'domain': 'omacshop.de', 'expiry': 1645007143, 'httpOnly': False, 'name': 'mc-currency', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'EUR'}, {'domain': 'omacshop.de', 'expiry': 1645007142, 'httpOnly': False, 'name': 'googtrans', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '/auto/en'}, {'domain': 'omacshop.de', 'expiry': 1645007142, 'httpOnly': False, 'name': 'mt-language', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'en'}, {'domain': 'omacshop.de', 'expiry': 1645007142, 'httpOnly': False, 'name': 'mt-email', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': ''}, {'domain': '.omacshop.de', 'expiry': 1659954342, 'httpOnly': False, 'name': '__tawkuuid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e::omacshop.de::HS9a6HvFhgZ9n6x1swyFEpQuNNgbDL8hYGdpGaPw2lKvvubQdJ64rbw/biccgVCX::2'}, {'domain': '.omacshop.de', 'expiry': 1675938342, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '61d451f7-a20c-4e87-8b70-55af408d776a'}, {'domain': 'omacshop.de', 'httpOnly': False, 'name': 'TawkConnectionTime', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.omacshop.de', 'expiry': 1675938342, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'fVmdnopqj3JA1p-20220209102542'}, {'domain': '.omacshop.de', 'expiry': 1644404142, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a71455c5-fdc9-4bdf-8589-363207025636'}, {'domain': '.omacshop.de', 'expiry': 1652178341, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1753455198.1644402342'}, {'domain': '.omacshop.de', 'expiry': 1675938341, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU9HWTFPRFJqWTJFdE5EQTRNQzAwWW1ZeExUZzJNV1V0TmpRNVl6azJNVEV4TWpCaA'}, {'domain': 'omacshop.de', 'expiry': 1675938341, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.omacshop.de', 'expiry': 1644488741, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.195312722.1644402342'}, {'domain': '.omacshop.de', 'expiry': 1644402401, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.omacshop.de', 'expiry': 1644404142, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a71455c5-fdc9-4bdf-8589-363207025636'}, {'domain': '.omacshop.de', 'expiry': 1707474341, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.719398742.1644402342'}, {'domain': '.omacshop.de', 'expiry': 1644404141, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A25%3A41.304Z'}, {'domain': '.omacshop.de', 'expiry': 1644404141, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.omacshop.de', 'httpOnly': False, 'name': 'soundest-views', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.omacshop.de', 'expiry': 1644404142, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 's3VdbFIUYmdwK3-20220209102542'}, {'domain': 'omacshop.de', 'expiry': 1645611941, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.omacshop.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220209102542-Lenwenzt6Byj7UBZOMPMIA0YKbOYuky3GqJR8yKSYBHV6txRW'}, {'domain': '.omacshop.de', 'expiry': 1645611939, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.omacshop.de', 'expiry': 1645611939, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'omacshop.de', 'expiry': 1645611941, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.omacshop.de', 'expiry': 1675938342, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '61d451f7-a20c-4e87-8b70-55af408d776a'}, {'domain': '.omacshop.de', 'expiry': 1652178358, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644402341614.813085860'}]
+[After] Cookie-Name 1: cookieconsent_status
+[After] Cookie-Name 2: mc-currency
+[After] Cookie-Name 3: googtrans
+[After] Cookie-Name 4: mt-language
+[After] Cookie-Name 5: mt-email
+[After] Cookie-Name 6: __tawkuuid
+[After] Cookie-Name 7: _shopify_y
+[After] Cookie-Name 8: TawkConnectionTime
+[After] Cookie-Name 9: omnisendAnonymousID
+[After] Cookie-Name 10: _shopify_s
+[After] Cookie-Name 11: _gcl_au
+[After] Cookie-Name 12: _pin_unauth
+[After] Cookie-Name 13: secure_customer_sig
+[After] Cookie-Name 14: _gid
+[After] Cookie-Name 15: _gat
+[After] Cookie-Name 16: _s
+[After] Cookie-Name 17: _ga
+[After] Cookie-Name 18: _shopify_sa_t
+[After] Cookie-Name 19: _shopify_sa_p
+[After] Cookie-Name 20: soundest-views
+[After] Cookie-Name 21: omnisendSessionID
+[After] Cookie-Name 22: localization
+[After] Cookie-Name 23: soundestID
+[After] Cookie-Name 24: _landing_page
+[After] Cookie-Name 25: _orig_referrer
+[After] Cookie-Name 26: cart_currency
+[After] Cookie-Name 27: _y
+[After] Cookie-Name 28: _fbp
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: cookieconsent_status
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

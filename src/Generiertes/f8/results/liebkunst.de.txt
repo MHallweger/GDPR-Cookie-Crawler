@@ -1,0 +1,61 @@
+Website 229: http://www.liebkunst.de/ | Created: 10.02.2022 21:05:55 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 4
+[Before] Website-Cookies: [{'domain': '.liebkunst.de', 'expiry': 1645733146, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.liebkunst.de', 'expiry': 1645733146, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'liebkunst.de', 'expiry': 1645733147, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'liebkunst.de', 'expiry': 1676059547, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _landing_page
+[Before] Cookie-Name 2: _orig_referrer
+[Before] Cookie-Name 3: cart_currency
+[Before] Cookie-Name 4: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 17
+[After] Website-Cookies: [{'domain': '.liebkunst.de', 'expiry': 1652299562, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644523562487.1388181934'}, {'domain': '.liebkunst.de', 'expiry': 1644523622, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.liebkunst.de', 'expiry': 1707595562, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.56620562.1644523562'}, {'domain': 'liebkunst.de', 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.liebkunst.de', 'expiry': 1644609962, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.254370626.1644523562'}, {'domain': 'liebkunst.de', 'expiry': 1644525362, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0f9af0d8-b0e6-47f7-ba4f-ec14bda978ca'}, {'domain': 'liebkunst.de', 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'dWlkPU56YzFZbVU0WW1VdFpUazFaUzAwTUdSakxXSmtaVEF0WlRJNU9UQmpaRFF4TkdRMg'}, {'domain': 'liebkunst.de', 'expiry': 1644525362, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T20%3A05%3A46.483Z'}, {'domain': 'liebkunst.de', 'expiry': 1676059562, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a4834080-26c9-437b-89a8-2f46ff550e21'}, {'domain': 'liebkunst.de', 'expiry': 1645733147, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.liebkunst.de', 'expiry': 1645733146, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'liebkunst.de', 'expiry': 1676059562, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a4834080-26c9-437b-89a8-2f46ff550e21'}, {'domain': 'liebkunst.de', 'expiry': 1647115562, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0NTIzNTYyMjMzLCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjoxfX0='}, {'domain': 'liebkunst.de', 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ1MjM1NDcsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vbGllYmt1bnN0LmRlLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDUyMzU0NywidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly9saWVia3Vuc3QuZGUvIn19'}, {'domain': 'liebkunst.de', 'expiry': 1644525362, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0f9af0d8-b0e6-47f7-ba4f-ec14bda978ca'}, {'domain': '.liebkunst.de', 'expiry': 1645733146, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'liebkunst.de', 'expiry': 1676059547, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _fbp
+[After] Cookie-Name 2: _gat
+[After] Cookie-Name 3: _ga
+[After] Cookie-Name 4: localization
+[After] Cookie-Name 5: _gid
+[After] Cookie-Name 6: _shopify_s
+[After] Cookie-Name 7: _pin_unauth
+[After] Cookie-Name 8: _shopify_sa_t
+[After] Cookie-Name 9: _shopify_y
+[After] Cookie-Name 10: cart_currency
+[After] Cookie-Name 11: _landing_page
+[After] Cookie-Name 12: _y
+[After] Cookie-Name 13: _bc_c_set
+[After] Cookie-Name 14: __kla_id
+[After] Cookie-Name 15: _s
+[After] Cookie-Name 16: _orig_referrer
+[After] Cookie-Name 17: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 13
+[Difference] Cookie-Name: 1: _fbp
+[Difference] Cookie-Name: 2: _shopify_y
+[Difference] Cookie-Name: 3: _shopify_s
+[Difference] Cookie-Name: 4: _s
+[Difference] Cookie-Name: 5: _pin_unauth
+[Difference] Cookie-Name: 6: _ga
+[Difference] Cookie-Name: 7: _gid
+[Difference] Cookie-Name: 8: _gat
+[Difference] Cookie-Name: 9: localization
+[Difference] Cookie-Name: 10: _shopify_sa_t
+[Difference] Cookie-Name: 11: _y
+[Difference] Cookie-Name: 12: __kla_id
+[Difference] Cookie-Name: 13: _bc_c_set
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

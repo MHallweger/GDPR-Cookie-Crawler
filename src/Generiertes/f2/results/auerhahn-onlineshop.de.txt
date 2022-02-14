@@ -1,0 +1,73 @@
+Website 247: http://www.auerhahn-onlineshop.de/ | Created: 09.02.2022 12:00:53 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 20
+[Before] Website-Cookies: [{'domain': 'www.auerhahn-onlineshop.de', 'expiry': 1675940445, 'httpOnly': False, 'name': 'apay-session-set', 'path': '/', 'secure': True, 'value': 'GS%2F4QKDAe81qG8oOEf2BR57ci1rmExYf40p0cgcv8jWecvbbhXas1f%2F3ahwv9Og%3D'}, {'domain': 'www.auerhahn-onlineshop.de', 'expiry': 1644408044, 'httpOnly': False, 'name': 'amazon-pay-connectedAuth', 'path': '/', 'secure': False, 'value': 'connectedAuth_general'}, {'domain': '.auerhahn-onlineshop.de', 'expiry': 1644490844, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': '48s6qu|1644404444732|1|1|h.clarity.ms/collect'}, {'domain': '.auerhahn-onlineshop.de', 'expiry': 1675940444, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': '15kc9zr|1|eyu|0'}, {'domain': 'www.auerhahn-onlineshop.de', 'expiry': 1644408043, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.auerhahn-onlineshop.de', 'expiry': 1644490843, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': '86b621b0899711ec8e431f54b7916ff3'}, {'domain': '.auerhahn-onlineshop.de', 'expiry': 1644406243, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.auerhahn-onlineshop.de', 'expiry': 1644406243, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T11%3A00%3A43.464Z'}, {'domain': '.auerhahn-onlineshop.de', 'expiry': 1644406244, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '97875ed2-355a-452d-a3bc-fe6bdb647c00'}, {'domain': '.auerhahn-onlineshop.de', 'expiry': 1675940444, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '23c3568b-c346-4230-9aeb-b5fe26e2d7e6'}, {'domain': '.auerhahn-onlineshop.de', 'expiry': 1652180443, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1570946689.1644404443'}, {'domain': '.auerhahn-onlineshop.de', 'expiry': 1644406244, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '97875ed2-355a-452d-a3bc-fe6bdb647c00'}, {'domain': '.auerhahn-onlineshop.de', 'expiry': 1645614043, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.auerhahn-onlineshop.de', 'expiry': 1644408044, 'httpOnly': False, 'name': 'language', 'path': '/', 'secure': False, 'value': 'de_DE'}, {'domain': 'www.auerhahn-onlineshop.de', 'expiry': 1645614044, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.auerhahn-onlineshop.de', 'expiry': 1675940444, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '23c3568b-c346-4230-9aeb-b5fe26e2d7e6'}, {'domain': '.auerhahn-onlineshop.de', 'expiry': 1645614043, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.auerhahn-onlineshop.de', 'expiry': 1678100443, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '86b64b10899711ec96b11d48240f02bc'}, {'domain': 'www.auerhahn-onlineshop.de', 'expiry': 1645614044, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': 'www.auerhahn-onlineshop.de', 'expiry': 1675940444, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: apay-session-set
+[Before] Cookie-Name 2: amazon-pay-connectedAuth
+[Before] Cookie-Name 3: _clsk
+[Before] Cookie-Name 4: _clck
+[Before] Cookie-Name 5: shopify_pay_redirect
+[Before] Cookie-Name 6: _uetsid
+[Before] Cookie-Name 7: _shopify_sa_p
+[Before] Cookie-Name 8: _shopify_sa_t
+[Before] Cookie-Name 9: _shopify_s
+[Before] Cookie-Name 10: _shopify_y
+[Before] Cookie-Name 11: _gcl_au
+[Before] Cookie-Name 12: _s
+[Before] Cookie-Name 13: _landing_page
+[Before] Cookie-Name 14: language
+[Before] Cookie-Name 15: cart_currency
+[Before] Cookie-Name 16: _y
+[Before] Cookie-Name 17: _orig_referrer
+[Before] Cookie-Name 18: _uetvid
+[Before] Cookie-Name 19: localization
+[Before] Cookie-Name 20: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 20
+[After] Website-Cookies: [{'domain': 'www.auerhahn-onlineshop.de', 'expiry': 1675940445, 'httpOnly': False, 'name': 'apay-session-set', 'path': '/', 'secure': True, 'value': 'GS%2F4QKDAe81qG8oOEf2BR57ci1rmExYf40p0cgcv8jWecvbbhXas1f%2F3ahwv9Og%3D'}, {'domain': 'www.auerhahn-onlineshop.de', 'expiry': 1644408044, 'httpOnly': False, 'name': 'amazon-pay-connectedAuth', 'path': '/', 'secure': False, 'value': 'connectedAuth_general'}, {'domain': '.auerhahn-onlineshop.de', 'expiry': 1644490844, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': '48s6qu|1644404444732|1|1|h.clarity.ms/collect'}, {'domain': '.auerhahn-onlineshop.de', 'expiry': 1675940444, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': '15kc9zr|1|eyu|0'}, {'domain': 'www.auerhahn-onlineshop.de', 'expiry': 1644408043, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.auerhahn-onlineshop.de', 'expiry': 1644490843, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': '86b621b0899711ec8e431f54b7916ff3'}, {'domain': '.auerhahn-onlineshop.de', 'expiry': 1644406243, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.auerhahn-onlineshop.de', 'expiry': 1644406243, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T11%3A00%3A43.464Z'}, {'domain': '.auerhahn-onlineshop.de', 'expiry': 1644406244, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '97875ed2-355a-452d-a3bc-fe6bdb647c00'}, {'domain': '.auerhahn-onlineshop.de', 'expiry': 1675940444, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '23c3568b-c346-4230-9aeb-b5fe26e2d7e6'}, {'domain': '.auerhahn-onlineshop.de', 'expiry': 1652180443, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1570946689.1644404443'}, {'domain': '.auerhahn-onlineshop.de', 'expiry': 1644406244, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '97875ed2-355a-452d-a3bc-fe6bdb647c00'}, {'domain': '.auerhahn-onlineshop.de', 'expiry': 1645614043, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.auerhahn-onlineshop.de', 'expiry': 1644408044, 'httpOnly': False, 'name': 'language', 'path': '/', 'secure': False, 'value': 'de_DE'}, {'domain': 'www.auerhahn-onlineshop.de', 'expiry': 1645614044, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.auerhahn-onlineshop.de', 'expiry': 1675940444, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '23c3568b-c346-4230-9aeb-b5fe26e2d7e6'}, {'domain': '.auerhahn-onlineshop.de', 'expiry': 1645614043, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.auerhahn-onlineshop.de', 'expiry': 1678100443, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '86b64b10899711ec96b11d48240f02bc'}, {'domain': 'www.auerhahn-onlineshop.de', 'expiry': 1645614044, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': 'www.auerhahn-onlineshop.de', 'expiry': 1675940444, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: apay-session-set
+[After] Cookie-Name 2: amazon-pay-connectedAuth
+[After] Cookie-Name 3: _clsk
+[After] Cookie-Name 4: _clck
+[After] Cookie-Name 5: shopify_pay_redirect
+[After] Cookie-Name 6: _uetsid
+[After] Cookie-Name 7: _shopify_sa_p
+[After] Cookie-Name 8: _shopify_sa_t
+[After] Cookie-Name 9: _shopify_s
+[After] Cookie-Name 10: _shopify_y
+[After] Cookie-Name 11: _gcl_au
+[After] Cookie-Name 12: _s
+[After] Cookie-Name 13: _landing_page
+[After] Cookie-Name 14: language
+[After] Cookie-Name 15: cart_currency
+[After] Cookie-Name 16: _y
+[After] Cookie-Name 17: _orig_referrer
+[After] Cookie-Name 18: _uetvid
+[After] Cookie-Name 19: localization
+[After] Cookie-Name 20: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _clsk (Microsoft Clarity (User experience tool))
+[Used before] Cookie-Name: _clck (Microsoft Clarity (User experience tool))
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

@@ -1,0 +1,59 @@
+Website 70: http://www.absinthdepot.de/ | Created: 09.02.2022 11:07:32 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 15
+[Before] Website-Cookies: [{'domain': 'absinthdepot.de', 'expiry': 1644404843, 'httpOnly': False, 'name': 'language', 'path': '/', 'secure': False, 'value': 'de_DE'}, {'domain': 'absinthdepot.de', 'expiry': 1644404842, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.absinthdepot.de', 'expiry': 1644403042, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'absinthdepot.de', 'expiry': 1645610841, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': '.absinthdepot.de', 'expiry': 1645610841, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.absinthdepot.de', 'expiry': 1644403042, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd5df5ec2-13ab-42f4-b3f4-a2283403507b'}, {'domain': '.absinthdepot.de', 'expiry': 1675937242, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0b58f4e0-0e60-46ed-883a-e41684c86971'}, {'domain': '.absinthdepot.de', 'expiry': 1675937242, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0b58f4e0-0e60-46ed-883a-e41684c86971'}, {'domain': 'absinthdepot.de', 'expiry': 1644404843, 'httpOnly': False, 'name': 'amazon-pay-connectedAuth', 'path': '/', 'secure': False, 'value': 'connectedAuth_general'}, {'domain': 'absinthdepot.de', 'expiry': 1645610841, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': 'absinthdepot.de', 'expiry': 1675937241, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'absinthdepot.de', 'expiry': 1675937244, 'httpOnly': False, 'name': 'apay-session-set', 'path': '/', 'secure': True, 'value': 'Z773dqYwLtsRcgLBfqo18HgmstYbEPYWq4WGRXefdui4zKq3OHRvwftDH2gKMU0%3D'}, {'domain': '.absinthdepot.de', 'expiry': 1645610841, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.absinthdepot.de', 'expiry': 1644403042, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A07%3A22.131Z'}, {'domain': '.absinthdepot.de', 'expiry': 1644403042, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd5df5ec2-13ab-42f4-b3f4-a2283403507b'}]
+[Before] Cookie-Name 1: language
+[Before] Cookie-Name 2: shopify_pay_redirect
+[Before] Cookie-Name 3: _shopify_sa_p
+[Before] Cookie-Name 4: localization
+[Before] Cookie-Name 5: _orig_referrer
+[Before] Cookie-Name 6: _shopify_s
+[Before] Cookie-Name 7: _shopify_y
+[Before] Cookie-Name 8: _y
+[Before] Cookie-Name 9: amazon-pay-connectedAuth
+[Before] Cookie-Name 10: cart_currency
+[Before] Cookie-Name 11: secure_customer_sig
+[Before] Cookie-Name 12: apay-session-set
+[Before] Cookie-Name 13: _landing_page
+[Before] Cookie-Name 14: _shopify_sa_t
+[Before] Cookie-Name 15: _s
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 16
+[After] Website-Cookies: [{'domain': '.absinthdepot.de', 'expiry': 1644403058, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A07%3A38.684Z'}, {'domain': 'absinthdepot.de', 'expiry': 1646993258, 'httpOnly': False, 'name': 'isAnAdult', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': 'absinthdepot.de', 'expiry': 1644404859, 'httpOnly': False, 'name': 'language', 'path': '/', 'secure': False, 'value': 'de_DE'}, {'domain': 'absinthdepot.de', 'expiry': 1644404842, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.absinthdepot.de', 'expiry': 1644403058, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'absinthdepot.de', 'expiry': 1645610858, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': '.absinthdepot.de', 'expiry': 1645610841, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.absinthdepot.de', 'expiry': 1644403059, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd5df5ec2-13ab-42f4-b3f4-a2283403507b'}, {'domain': '.absinthdepot.de', 'expiry': 1675937259, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0b58f4e0-0e60-46ed-883a-e41684c86971'}, {'domain': '.absinthdepot.de', 'expiry': 1675937259, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0b58f4e0-0e60-46ed-883a-e41684c86971'}, {'domain': 'absinthdepot.de', 'expiry': 1644404859, 'httpOnly': False, 'name': 'amazon-pay-connectedAuth', 'path': '/', 'secure': False, 'value': 'connectedAuth_general'}, {'domain': 'absinthdepot.de', 'expiry': 1645610858, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': 'absinthdepot.de', 'expiry': 1675937258, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'absinthdepot.de', 'expiry': 1675937244, 'httpOnly': False, 'name': 'apay-session-set', 'path': '/', 'secure': True, 'value': 'Z773dqYwLtsRcgLBfqo18HgmstYbEPYWq4WGRXefdui4zKq3OHRvwftDH2gKMU0%3D'}, {'domain': '.absinthdepot.de', 'expiry': 1645610841, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.absinthdepot.de', 'expiry': 1644403059, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd5df5ec2-13ab-42f4-b3f4-a2283403507b'}]
+[After] Cookie-Name 1: _shopify_sa_t
+[After] Cookie-Name 2: isAnAdult
+[After] Cookie-Name 3: language
+[After] Cookie-Name 4: shopify_pay_redirect
+[After] Cookie-Name 5: _shopify_sa_p
+[After] Cookie-Name 6: localization
+[After] Cookie-Name 7: _orig_referrer
+[After] Cookie-Name 8: _shopify_s
+[After] Cookie-Name 9: _shopify_y
+[After] Cookie-Name 10: _y
+[After] Cookie-Name 11: amazon-pay-connectedAuth
+[After] Cookie-Name 12: cart_currency
+[After] Cookie-Name 13: secure_customer_sig
+[After] Cookie-Name 14: apay-session-set
+[After] Cookie-Name 15: _landing_page
+[After] Cookie-Name 16: _s
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: isAnAdult
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

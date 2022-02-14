@@ -1,0 +1,75 @@
+Website 15: http://www.trainer-4you.de/ | Created: 09.02.2022 17:09:52 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 20
+[Before] Website-Cookies: [{'domain': 'trainer-4you.de', 'expiry': 1707494982, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MjI5ODMsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vdHJhaW5lci00eW91LmRlLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDQyMjk4MywidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly90cmFpbmVyLTR5b3UuZGUvIn19'}, {'domain': '.trainer-4you.de', 'expiry': 1645632580, 'httpOnly': False, 'name': '__cmpcccu15359', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'aBPUJwisAAAAwAXABgAA'}, {'domain': 'trainer-4you.de', 'expiry': 1770566980, 'httpOnly': False, 'name': 'nostojs', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'autoload'}, {'domain': '.trainer-4you.de', 'expiry': 1652198981, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644422980353.1227553758'}, {'domain': '.trainer-4you.de', 'expiry': 1644424780, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.trainer-4you.de', 'expiry': 1644423040, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'trainer-4you.de', 'expiry': 1644426582, 'httpOnly': False, 'name': 'scapp_next', 'path': '/', 'secure': False, 'value': '2'}, {'domain': '.trainer-4you.de', 'expiry': 1644424792, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'af3ce85f-0bbf-49ac-a882-b2b129e14a6a'}, {'domain': '.trainer-4you.de', 'expiry': 1707494980, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1533492082.1644422980'}, {'domain': '.trainer-4you.de', 'expiry': 1644424780, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T16%3A09%3A40.154Z'}, {'domain': '.trainer-4you.de', 'expiry': 1675958992, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '28b12b5e-1984-4661-ba1a-aebfad27418f'}, {'domain': '.trainer-4you.de', 'expiry': 1675958992, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '28b12b5e-1984-4661-ba1a-aebfad27418f'}, {'domain': '.trainer-4you.de', 'expiry': 1645632579, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.trainer-4you.de', 'expiry': 1644424792, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'af3ce85f-0bbf-49ac-a882-b2b129e14a6a'}, {'domain': 'trainer-4you.de', 'expiry': 1644426582, 'httpOnly': False, 'name': 'scapp_now', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.trainer-4you.de', 'expiry': 1652198980, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.2001637013.1644422980'}, {'domain': '.trainer-4you.de', 'expiry': 1644509380, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.213410392.1644422980'}, {'domain': '.trainer-4you.de', 'expiry': 1645632579, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'trainer-4you.de', 'expiry': 1770566980, 'httpOnly': False, 'name': '2c.cId', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6203e7445c6cfc2daea19403'}, {'domain': 'trainer-4you.de', 'expiry': 1675958992, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: __kla_id
+[Before] Cookie-Name 2: __cmpcccu15359
+[Before] Cookie-Name 3: nostojs
+[Before] Cookie-Name 4: _fbp
+[Before] Cookie-Name 5: _shopify_sa_p
+[Before] Cookie-Name 6: _gat
+[Before] Cookie-Name 7: scapp_next
+[Before] Cookie-Name 8: _shopify_s
+[Before] Cookie-Name 9: _ga
+[Before] Cookie-Name 10: _shopify_sa_t
+[Before] Cookie-Name 11: _shopify_y
+[Before] Cookie-Name 12: _y
+[Before] Cookie-Name 13: _orig_referrer
+[Before] Cookie-Name 14: _s
+[Before] Cookie-Name 15: scapp_now
+[Before] Cookie-Name 16: _gcl_au
+[Before] Cookie-Name 17: _gid
+[Before] Cookie-Name 18: _landing_page
+[Before] Cookie-Name 19: 2c.cId
+[Before] Cookie-Name 20: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 21
+[After] Website-Cookies: [{'domain': '.trainer-4you.de', 'expiry': 1675958997, 'httpOnly': False, 'name': '__cmpcccu15359', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'aBPUJwlbgAwAzADcA8AAIAB4ALgAwABoADwAKAAggBeAEOA4kB5YESQLZgm7BPqADKH0ogA'}, {'domain': '.trainer-4you.de', 'expiry': 1675958997, 'httpOnly': False, 'name': '__cmpconsent15359', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'BPUJwlbPUJwlbAfEYBDEDXAAAAAAAA'}, {'domain': 'trainer-4you.de', 'expiry': 1707494982, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MjI5ODMsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vdHJhaW5lci00eW91LmRlLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDQyMjk4MywidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly90cmFpbmVyLTR5b3UuZGUvIn19'}, {'domain': 'trainer-4you.de', 'expiry': 1770566980, 'httpOnly': False, 'name': 'nostojs', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'autoload'}, {'domain': '.trainer-4you.de', 'expiry': 1652198997, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644422980353.1227553758'}, {'domain': '.trainer-4you.de', 'expiry': 1644424780, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.trainer-4you.de', 'expiry': 1644423040, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'trainer-4you.de', 'expiry': 1644426582, 'httpOnly': False, 'name': 'scapp_next', 'path': '/', 'secure': False, 'value': '2'}, {'domain': '.trainer-4you.de', 'expiry': 1644424798, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'af3ce85f-0bbf-49ac-a882-b2b129e14a6a'}, {'domain': '.trainer-4you.de', 'expiry': 1707494980, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1533492082.1644422980'}, {'domain': '.trainer-4you.de', 'expiry': 1644424780, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T16%3A09%3A40.154Z'}, {'domain': '.trainer-4you.de', 'expiry': 1675958998, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '28b12b5e-1984-4661-ba1a-aebfad27418f'}, {'domain': '.trainer-4you.de', 'expiry': 1675958998, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '28b12b5e-1984-4661-ba1a-aebfad27418f'}, {'domain': '.trainer-4you.de', 'expiry': 1645632579, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.trainer-4you.de', 'expiry': 1644424798, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'af3ce85f-0bbf-49ac-a882-b2b129e14a6a'}, {'domain': 'trainer-4you.de', 'expiry': 1644426582, 'httpOnly': False, 'name': 'scapp_now', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.trainer-4you.de', 'expiry': 1652198980, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.2001637013.1644422980'}, {'domain': '.trainer-4you.de', 'expiry': 1644509380, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.213410392.1644422980'}, {'domain': '.trainer-4you.de', 'expiry': 1645632579, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'trainer-4you.de', 'expiry': 1770566980, 'httpOnly': False, 'name': '2c.cId', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6203e7445c6cfc2daea19403'}, {'domain': 'trainer-4you.de', 'expiry': 1675958998, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: __cmpcccu15359
+[After] Cookie-Name 2: __cmpconsent15359
+[After] Cookie-Name 3: __kla_id
+[After] Cookie-Name 4: nostojs
+[After] Cookie-Name 5: _fbp
+[After] Cookie-Name 6: _shopify_sa_p
+[After] Cookie-Name 7: _gat
+[After] Cookie-Name 8: scapp_next
+[After] Cookie-Name 9: _shopify_s
+[After] Cookie-Name 10: _ga
+[After] Cookie-Name 11: _shopify_sa_t
+[After] Cookie-Name 12: _shopify_y
+[After] Cookie-Name 13: _y
+[After] Cookie-Name 14: _orig_referrer
+[After] Cookie-Name 15: _s
+[After] Cookie-Name 16: scapp_now
+[After] Cookie-Name 17: _gcl_au
+[After] Cookie-Name 18: _gid
+[After] Cookie-Name 19: _landing_page
+[After] Cookie-Name 20: 2c.cId
+[After] Cookie-Name 21: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _gid (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: __cmpconsent15359
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

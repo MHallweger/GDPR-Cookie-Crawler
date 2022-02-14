@@ -1,0 +1,67 @@
+Website 335: http://www.fritzvold.de/ | Created: 09.02.2022 21:19:06 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 4
+[Before] Website-Cookies: [{'domain': '.fritzvold.de', 'expiry': 1645647537, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.fritzvold.de', 'expiry': 1645647537, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'fritzvold.de', 'expiry': 1645647538, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'fritzvold.de', 'expiry': 1675973938, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _landing_page
+[Before] Cookie-Name 2: _orig_referrer
+[Before] Cookie-Name 3: cart_currency
+[Before] Cookie-Name 4: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 22
+[After] Website-Cookies: [{'domain': '.fritzvold.de', 'expiry': 1675973953, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b50a99e7-36d4-450b-b516-d1b2e35cecb7'}, {'domain': '.fritzvold.de', 'expiry': 1644439753, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2571ebd5-fcec-4e04-9faa-42c34244479e'}, {'domain': '.fritzvold.de', 'expiry': 1644439753, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2571ebd5-fcec-4e04-9faa-42c34244479e'}, {'domain': '.fritzvold.de', 'expiry': 1675973953, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b50a99e7-36d4-450b-b516-d1b2e35cecb7'}, {'domain': '.fritzvold.de', 'expiry': 1644438012, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.fritzvold.de', 'expiry': 1644524352, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.916477038.1644437952'}, {'domain': '.fritzvold.de', 'expiry': 1707509952, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1031386630.1644437952'}, {'domain': 'fritzvold.de', 'expiry': 1647029952, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0NDM3OTUyMTU4LCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjowfX0='}, {'domain': 'fritzvold.de', 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'pending'}, {'domain': 'fritzvold.de', 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1.1.855330799.1644437937'}, {'domain': '.fritzvold.de', 'expiry': 1652213952, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644437952425.1181781965'}, {'domain': 'fritzvold.de', 'httpOnly': False, 'name': '_privy_89A744AD240C8E3F5038CD0A', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22uuid%22%3A%22841b22b8-9dfe-4735-bb91-eb24c793d7d7%22%7D'}, {'domain': 'fritzvold.de', 'expiry': 1675973953, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.fritzvold.de', 'expiry': 1645647537, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'fritzvold.de', 'expiry': 1644439752, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T20%3A18%3A57.401Z'}, {'domain': 'fritzvold.de', 'expiry': 1675973952, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b50a99e7-36d4-450b-b516-d1b2e35cecb7'}, {'domain': 'fritzvold.de', 'expiry': 1644439752, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2571ebd5-fcec-4e04-9faa-42c34244479e'}, {'domain': 'fritzvold.de', 'expiry': 1645647553, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'fritzvold.de', 'expiry': 1675973952, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b50a99e7-36d4-450b-b516-d1b2e35cecb7'}, {'domain': '.fritzvold.de', 'expiry': 1645647537, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'fritzvold.de', 'expiry': 1644439752, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2571ebd5-fcec-4e04-9faa-42c34244479e'}, {'domain': 'fritzvold.de', 'expiry': 1645647553, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}]
+[After] Cookie-Name 1: _shopify_y
+[After] Cookie-Name 2: _shopify_s
+[After] Cookie-Name 3: _s
+[After] Cookie-Name 4: _y
+[After] Cookie-Name 5: _gat
+[After] Cookie-Name 6: _gid
+[After] Cookie-Name 7: _ga
+[After] Cookie-Name 8: _bc_c_set
+[After] Cookie-Name 9: shopify_pay_redirect
+[After] Cookie-Name 10: _gcl_au
+[After] Cookie-Name 11: _fbp
+[After] Cookie-Name 12: _privy_89A744AD240C8E3F5038CD0A
+[After] Cookie-Name 13: secure_customer_sig
+[After] Cookie-Name 14: _landing_page
+[After] Cookie-Name 15: _shopify_sa_t
+[After] Cookie-Name 16: _shopify_y
+[After] Cookie-Name 17: _shopify_s
+[After] Cookie-Name 18: localization
+[After] Cookie-Name 19: _y
+[After] Cookie-Name 20: _orig_referrer
+[After] Cookie-Name 21: _s
+[After] Cookie-Name 22: cart_currency
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 14
+[Difference] Cookie-Name: 1: localization
+[Difference] Cookie-Name: 2: _y
+[Difference] Cookie-Name: 3: _shopify_s
+[Difference] Cookie-Name: 4: _fbp
+[Difference] Cookie-Name: 5: _shopify_y
+[Difference] Cookie-Name: 6: _gid
+[Difference] Cookie-Name: 7: _bc_c_set
+[Difference] Cookie-Name: 8: _privy_89A744AD240C8E3F5038CD0A
+[Difference] Cookie-Name: 9: _shopify_sa_t
+[Difference] Cookie-Name: 10: _gcl_au
+[Difference] Cookie-Name: 11: _ga
+[Difference] Cookie-Name: 12: _gat
+[Difference] Cookie-Name: 13: shopify_pay_redirect
+[Difference] Cookie-Name: 14: _s
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

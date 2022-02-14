@@ -1,0 +1,64 @@
+Website 220: http://www.amepure.de/ | Created: 09.02.2022 11:52:44 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 15
+[Before] Website-Cookies: [{'domain': '.amepure.de', 'expiry': 1652179955, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644403955322.517515093'}, {'domain': '.amepure.de', 'expiry': 1644404015, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.amepure.de', 'expiry': 1644490355, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.603123171.1644403955'}, {'domain': '.amepure.de', 'expiry': 1707475955, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1975669712.1644403955'}, {'domain': '.amepure.de', 'expiry': 1644405754, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.amepure.de', 'expiry': 1644405754, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A52%3A34.975Z'}, {'domain': '.amepure.de', 'expiry': 1652179951, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.2012608103.1644403952'}, {'domain': '.amepure.de', 'expiry': 1645613551, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.amepure.de', 'expiry': 1678590652, 'httpOnly': False, 'name': '_scid', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '5d1ba6d2-78bc-420d-b77d-964d1138b6c9'}, {'domain': '.amepure.de', 'expiry': 1644405757, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fc2e4948-f14a-4e88-83a3-1efde2366574'}, {'domain': '.amepure.de', 'expiry': 1644405757, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fc2e4948-f14a-4e88-83a3-1efde2366574'}, {'domain': '.amepure.de', 'expiry': 1645613551, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.amepure.de', 'expiry': 1675939957, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fa50dc17-1102-409f-b5d0-c24df52754ad'}, {'domain': '.amepure.de', 'expiry': 1675939957, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fa50dc17-1102-409f-b5d0-c24df52754ad'}, {'domain': 'www.amepure.de', 'expiry': 1675939956, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _fbp
+[Before] Cookie-Name 2: _gat
+[Before] Cookie-Name 3: _gid
+[Before] Cookie-Name 4: _ga
+[Before] Cookie-Name 5: _shopify_sa_p
+[Before] Cookie-Name 6: _shopify_sa_t
+[Before] Cookie-Name 7: _gcl_au
+[Before] Cookie-Name 8: _orig_referrer
+[Before] Cookie-Name 9: _scid
+[Before] Cookie-Name 10: _s
+[Before] Cookie-Name 11: _shopify_s
+[Before] Cookie-Name 12: _landing_page
+[Before] Cookie-Name 13: _shopify_y
+[Before] Cookie-Name 14: _y
+[Before] Cookie-Name 15: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 15
+[After] Website-Cookies: [{'domain': '.amepure.de', 'expiry': 1652179955, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644403955322.517515093'}, {'domain': '.amepure.de', 'expiry': 1644404015, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.amepure.de', 'expiry': 1644490355, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.603123171.1644403955'}, {'domain': '.amepure.de', 'expiry': 1707475955, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1975669712.1644403955'}, {'domain': '.amepure.de', 'expiry': 1644405754, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.amepure.de', 'expiry': 1644405754, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A52%3A34.975Z'}, {'domain': '.amepure.de', 'expiry': 1652179951, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.2012608103.1644403952'}, {'domain': '.amepure.de', 'expiry': 1645613551, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.amepure.de', 'expiry': 1678590652, 'httpOnly': False, 'name': '_scid', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '5d1ba6d2-78bc-420d-b77d-964d1138b6c9'}, {'domain': '.amepure.de', 'expiry': 1644405757, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fc2e4948-f14a-4e88-83a3-1efde2366574'}, {'domain': '.amepure.de', 'expiry': 1644405757, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fc2e4948-f14a-4e88-83a3-1efde2366574'}, {'domain': '.amepure.de', 'expiry': 1645613551, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.amepure.de', 'expiry': 1675939957, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fa50dc17-1102-409f-b5d0-c24df52754ad'}, {'domain': '.amepure.de', 'expiry': 1675939957, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fa50dc17-1102-409f-b5d0-c24df52754ad'}, {'domain': 'www.amepure.de', 'expiry': 1675939956, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _fbp
+[After] Cookie-Name 2: _gat
+[After] Cookie-Name 3: _gid
+[After] Cookie-Name 4: _ga
+[After] Cookie-Name 5: _shopify_sa_p
+[After] Cookie-Name 6: _shopify_sa_t
+[After] Cookie-Name 7: _gcl_au
+[After] Cookie-Name 8: _orig_referrer
+[After] Cookie-Name 9: _scid
+[After] Cookie-Name 10: _s
+[After] Cookie-Name 11: _shopify_s
+[After] Cookie-Name 12: _landing_page
+[After] Cookie-Name 13: _shopify_y
+[After] Cookie-Name 14: _y
+[After] Cookie-Name 15: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

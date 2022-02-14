@@ -1,0 +1,71 @@
+Website 140: http://www.retro-stage.de/ | Created: 09.02.2022 14:24:33 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 19
+[Before] Website-Cookies: [{'domain': '.retro-stage.de', 'expiry': 1652189064, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644413064065.1079836440'}, {'domain': '.retro-stage.de', 'httpOnly': False, 'name': 'soundest-views', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.retro-stage.de', 'expiry': 1675949064, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'kfsPtuinrMjxK9-20220209132423'}, {'domain': '.retro-stage.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220209132423-EGMg0VRH5IoVHERm69vwOT82L6nBzowJMHToWieOv6CFpbMtD'}, {'domain': '.retro-stage.de', 'expiry': 1644413123, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.retro-stage.de', 'expiry': 1644499463, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1556608341.1644413064'}, {'domain': '.retro-stage.de', 'expiry': 1707485063, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.720643404.1644413064'}, {'domain': '.retro-stage.de', 'expiry': 1644414863, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.retro-stage.de', 'expiry': 1644414863, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9d6dd431-aeb3-4210-a884-899aa11e1d8e'}, {'domain': '.retro-stage.de', 'expiry': 1645622661, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.retro-stage.de', 'expiry': 1675949063, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ca15e3f1-bef4-411e-a753-a066d62abe33'}, {'domain': '.retro-stage.de', 'expiry': 1644414864, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'eZjyDDGHZLMx23-20220209132423'}, {'domain': '.retro-stage.de', 'expiry': 1644414863, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9d6dd431-aeb3-4210-a884-899aa11e1d8e'}, {'domain': '.retro-stage.de', 'expiry': 1652189062, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.839388296.1644413062'}, {'domain': 'www.retro-stage.de', 'httpOnly': False, 'name': 'qab_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.retro-stage.de', 'expiry': 1675949063, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ca15e3f1-bef4-411e-a753-a066d62abe33'}, {'domain': '.retro-stage.de', 'expiry': 1644414863, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A24%3A23.745Z'}, {'domain': '.retro-stage.de', 'expiry': 1645622661, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.retro-stage.de', 'expiry': 1675949063, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _fbp
+[Before] Cookie-Name 2: soundest-views
+[Before] Cookie-Name 3: omnisendAnonymousID
+[Before] Cookie-Name 4: soundestID
+[Before] Cookie-Name 5: _gat
+[Before] Cookie-Name 6: _gid
+[Before] Cookie-Name 7: _ga
+[Before] Cookie-Name 8: _shopify_sa_p
+[Before] Cookie-Name 9: _shopify_s
+[Before] Cookie-Name 10: _orig_referrer
+[Before] Cookie-Name 11: _shopify_y
+[Before] Cookie-Name 12: omnisendSessionID
+[Before] Cookie-Name 13: _s
+[Before] Cookie-Name 14: _gcl_au
+[Before] Cookie-Name 15: qab_previous_pathname
+[Before] Cookie-Name 16: _y
+[Before] Cookie-Name 17: _shopify_sa_t
+[Before] Cookie-Name 18: _landing_page
+[Before] Cookie-Name 19: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 20
+[After] Website-Cookies: [{'domain': 'www.retro-stage.de', 'expiry': 1644499478, 'httpOnly': False, 'name': 'cookieMessage', 'path': '/', 'secure': False, 'value': 'closed'}, {'domain': '.retro-stage.de', 'expiry': 1652189078, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644413064065.1079836440'}, {'domain': '.retro-stage.de', 'httpOnly': False, 'name': 'soundest-views', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.retro-stage.de', 'expiry': 1675949064, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'kfsPtuinrMjxK9-20220209132423'}, {'domain': '.retro-stage.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220209132423-EGMg0VRH5IoVHERm69vwOT82L6nBzowJMHToWieOv6CFpbMtD'}, {'domain': '.retro-stage.de', 'expiry': 1644413123, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.retro-stage.de', 'expiry': 1644499463, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1556608341.1644413064'}, {'domain': '.retro-stage.de', 'expiry': 1707485063, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.720643404.1644413064'}, {'domain': '.retro-stage.de', 'expiry': 1644414863, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.retro-stage.de', 'expiry': 1644414863, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9d6dd431-aeb3-4210-a884-899aa11e1d8e'}, {'domain': '.retro-stage.de', 'expiry': 1645622661, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.retro-stage.de', 'expiry': 1675949063, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ca15e3f1-bef4-411e-a753-a066d62abe33'}, {'domain': '.retro-stage.de', 'expiry': 1644414864, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'eZjyDDGHZLMx23-20220209132423'}, {'domain': '.retro-stage.de', 'expiry': 1644414863, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9d6dd431-aeb3-4210-a884-899aa11e1d8e'}, {'domain': '.retro-stage.de', 'expiry': 1652189062, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.839388296.1644413062'}, {'domain': 'www.retro-stage.de', 'httpOnly': False, 'name': 'qab_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.retro-stage.de', 'expiry': 1675949063, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ca15e3f1-bef4-411e-a753-a066d62abe33'}, {'domain': '.retro-stage.de', 'expiry': 1644414863, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A24%3A23.745Z'}, {'domain': '.retro-stage.de', 'expiry': 1645622661, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.retro-stage.de', 'expiry': 1675949063, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: cookieMessage
+[After] Cookie-Name 2: _fbp
+[After] Cookie-Name 3: soundest-views
+[After] Cookie-Name 4: omnisendAnonymousID
+[After] Cookie-Name 5: soundestID
+[After] Cookie-Name 6: _gat
+[After] Cookie-Name 7: _gid
+[After] Cookie-Name 8: _ga
+[After] Cookie-Name 9: _shopify_sa_p
+[After] Cookie-Name 10: _shopify_s
+[After] Cookie-Name 11: _orig_referrer
+[After] Cookie-Name 12: _shopify_y
+[After] Cookie-Name 13: omnisendSessionID
+[After] Cookie-Name 14: _s
+[After] Cookie-Name 15: _gcl_au
+[After] Cookie-Name 16: qab_previous_pathname
+[After] Cookie-Name 17: _y
+[After] Cookie-Name 18: _shopify_sa_t
+[After] Cookie-Name 19: _landing_page
+[After] Cookie-Name 20: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: cookieMessage
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

@@ -1,0 +1,53 @@
+Website 114: http://www.1337-streetwear.de/ | Created: 09.02.2022 11:20:51 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 12
+[Before] Website-Cookies: [{'domain': '.1337streetwear.de', 'expiry': 1675938044, 'httpOnly': False, 'name': '_privy_E391D8DB9ED68D87FC81B9E6', 'path': '/', 'secure': False, 'value': '%7B%22uuid%22%3A%224515c7c6-9519-40c9-ac88-24d385ff2889%22%2C%22variations%22%3A%7B%7D%2C%22country_code%22%3A%22DE%22%2C%22region_code%22%3A%22DE_%22%2C%22postal_code%22%3A%22%22%7D'}, {'domain': '.1337streetwear.de', 'expiry': 1645611642, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2Fpassword'}, {'domain': '.1337streetwear.de', 'expiry': 1644403843, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A20%3A43.066Z'}, {'domain': '1337streetwear.de', 'expiry': 1675938042, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '1337streetwear.de', 'expiry': 1645611642, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.1337streetwear.de', 'expiry': 1644403843, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.1337streetwear.de', 'expiry': 1675938042, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '603e01d9-2dd9-4ee1-a607-e9114d2c81ad'}, {'domain': '.1337streetwear.de', 'expiry': 1644403843, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '65a2a86a-cb30-4b4b-9345-0ccaed894db2'}, {'domain': '.1337streetwear.de', 'expiry': 1675938042, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '603e01d9-2dd9-4ee1-a607-e9114d2c81ad'}, {'domain': '1337streetwear.de', 'expiry': 1645611642, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.1337streetwear.de', 'expiry': 1644403843, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '65a2a86a-cb30-4b4b-9345-0ccaed894db2'}, {'domain': '.1337streetwear.de', 'expiry': 1645611642, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[Before] Cookie-Name 1: _privy_E391D8DB9ED68D87FC81B9E6
+[Before] Cookie-Name 2: _landing_page
+[Before] Cookie-Name 3: _shopify_sa_t
+[Before] Cookie-Name 4: secure_customer_sig
+[Before] Cookie-Name 5: localization
+[Before] Cookie-Name 6: _shopify_sa_p
+[Before] Cookie-Name 7: _shopify_y
+[Before] Cookie-Name 8: _s
+[Before] Cookie-Name 9: _y
+[Before] Cookie-Name 10: cart_currency
+[Before] Cookie-Name 11: _shopify_s
+[Before] Cookie-Name 12: _orig_referrer
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 12
+[After] Website-Cookies: [{'domain': '.1337streetwear.de', 'expiry': 1675938044, 'httpOnly': False, 'name': '_privy_E391D8DB9ED68D87FC81B9E6', 'path': '/', 'secure': False, 'value': '%7B%22uuid%22%3A%224515c7c6-9519-40c9-ac88-24d385ff2889%22%2C%22variations%22%3A%7B%7D%2C%22country_code%22%3A%22DE%22%2C%22region_code%22%3A%22DE_%22%2C%22postal_code%22%3A%22%22%7D'}, {'domain': '.1337streetwear.de', 'expiry': 1645611642, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2Fpassword'}, {'domain': '.1337streetwear.de', 'expiry': 1644403843, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A20%3A43.066Z'}, {'domain': '1337streetwear.de', 'expiry': 1675938042, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '1337streetwear.de', 'expiry': 1645611642, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.1337streetwear.de', 'expiry': 1644403843, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.1337streetwear.de', 'expiry': 1675938042, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '603e01d9-2dd9-4ee1-a607-e9114d2c81ad'}, {'domain': '.1337streetwear.de', 'expiry': 1644403843, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '65a2a86a-cb30-4b4b-9345-0ccaed894db2'}, {'domain': '.1337streetwear.de', 'expiry': 1675938042, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '603e01d9-2dd9-4ee1-a607-e9114d2c81ad'}, {'domain': '1337streetwear.de', 'expiry': 1645611642, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.1337streetwear.de', 'expiry': 1644403843, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '65a2a86a-cb30-4b4b-9345-0ccaed894db2'}, {'domain': '.1337streetwear.de', 'expiry': 1645611642, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: _privy_E391D8DB9ED68D87FC81B9E6
+[After] Cookie-Name 2: _landing_page
+[After] Cookie-Name 3: _shopify_sa_t
+[After] Cookie-Name 4: secure_customer_sig
+[After] Cookie-Name 5: localization
+[After] Cookie-Name 6: _shopify_sa_p
+[After] Cookie-Name 7: _shopify_y
+[After] Cookie-Name 8: _s
+[After] Cookie-Name 9: _y
+[After] Cookie-Name 10: cart_currency
+[After] Cookie-Name 11: _shopify_s
+[After] Cookie-Name 12: _orig_referrer
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is NOT GDPR compliant!

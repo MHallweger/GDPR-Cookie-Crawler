@@ -1,0 +1,77 @@
+Website 124: http://www.motorland-markenshop.de/ | Created: 09.02.2022 14:19:33 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 22
+[Before] Website-Cookies: [{'domain': 'motorland.de', 'expiry': 1644414564, 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'secure': True, 'value': 'b25bd31b-2ab8-4cd1-aabe-93a589c7a775'}, {'domain': 'motorland.de', 'expiry': 1802092764, 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'secure': True, 'value': '5555f2a5-b628-494e-bd46-9303977d6a3c'}, {'domain': '.motorland.de', 'expiry': 1675948764, 'httpOnly': False, 'name': 'ajs_anonymous_id', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%22cca88add-d465-438a-8a6c-bc32f7137bff%22'}, {'domain': '.motorland.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.motorland.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A19%3A24.126Z'}, {'domain': 'motorland.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.motorland.de', 'expiry': 1644412824, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.motorland.de', 'expiry': 1645622363, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.motorland.de', 'expiry': 1644414564, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.motorland.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A19%3A24.103Z'}, {'domain': '.motorland.de', 'expiry': 1644499164, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.436033733.1644412764'}, {'domain': 'motorland.de', 'expiry': 1675948764, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.motorland.de', 'expiry': 1675948763, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': '.motorland.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.motorland.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ca1f6c1f-911c-4581-a4ba-dd3520966bec'}, {'domain': '.motorland.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ca1f6c1f-911c-4581-a4ba-dd3520966bec'}, {'domain': '.motorland.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bbaf8240-3bc8-4d5d-a319-b97f99e9010d'}, {'domain': '.motorland.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.motorland.de', 'expiry': 1675948763, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.motorland.de', 'expiry': 1707484764, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1668417922.1644412764'}, {'domain': '.motorland.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.motorland.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bbaf8240-3bc8-4d5d-a319-b97f99e9010d'}]
+[Before] Cookie-Name 1: _shg_session_id
+[Before] Cookie-Name 2: _shg_user_id
+[Before] Cookie-Name 3: ajs_anonymous_id
+[Before] Cookie-Name 4: _shopify_sa_p
+[Before] Cookie-Name 5: _shopify_sa_t
+[Before] Cookie-Name 6: _shopify_evids
+[Before] Cookie-Name 7: _gat
+[Before] Cookie-Name 8: _shopify_tw
+[Before] Cookie-Name 9: _shopify_tm
+[Before] Cookie-Name 10: _shopify_d
+[Before] Cookie-Name 11: _gid
+[Before] Cookie-Name 12: secure_customer_sig
+[Before] Cookie-Name 13: _tracking_consent
+[Before] Cookie-Name 14: _shopify_evids
+[Before] Cookie-Name 15: _shopify_y
+[Before] Cookie-Name 16: _y
+[Before] Cookie-Name 17: _s
+[Before] Cookie-Name 18: _orig_referrer
+[Before] Cookie-Name 19: _shopify_m
+[Before] Cookie-Name 20: _ga
+[Before] Cookie-Name 21: _landing_page
+[Before] Cookie-Name 22: _shopify_s
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 22
+[After] Website-Cookies: [{'domain': 'motorland.de', 'expiry': 1644414564, 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'secure': True, 'value': 'b25bd31b-2ab8-4cd1-aabe-93a589c7a775'}, {'domain': 'motorland.de', 'expiry': 1802092764, 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'secure': True, 'value': '5555f2a5-b628-494e-bd46-9303977d6a3c'}, {'domain': '.motorland.de', 'expiry': 1675948764, 'httpOnly': False, 'name': 'ajs_anonymous_id', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%22cca88add-d465-438a-8a6c-bc32f7137bff%22'}, {'domain': '.motorland.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.motorland.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A19%3A24.126Z'}, {'domain': 'motorland.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.motorland.de', 'expiry': 1644412824, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.motorland.de', 'expiry': 1645622363, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.motorland.de', 'expiry': 1644414564, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.motorland.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A19%3A24.103Z'}, {'domain': '.motorland.de', 'expiry': 1644499164, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.436033733.1644412764'}, {'domain': 'motorland.de', 'expiry': 1675948764, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.motorland.de', 'expiry': 1675948763, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': '.motorland.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.motorland.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ca1f6c1f-911c-4581-a4ba-dd3520966bec'}, {'domain': '.motorland.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ca1f6c1f-911c-4581-a4ba-dd3520966bec'}, {'domain': '.motorland.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bbaf8240-3bc8-4d5d-a319-b97f99e9010d'}, {'domain': '.motorland.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.motorland.de', 'expiry': 1675948763, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.motorland.de', 'expiry': 1707484764, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1668417922.1644412764'}, {'domain': '.motorland.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.motorland.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bbaf8240-3bc8-4d5d-a319-b97f99e9010d'}]
+[After] Cookie-Name 1: _shg_session_id
+[After] Cookie-Name 2: _shg_user_id
+[After] Cookie-Name 3: ajs_anonymous_id
+[After] Cookie-Name 4: _shopify_sa_p
+[After] Cookie-Name 5: _shopify_sa_t
+[After] Cookie-Name 6: _shopify_evids
+[After] Cookie-Name 7: _gat
+[After] Cookie-Name 8: _shopify_tw
+[After] Cookie-Name 9: _shopify_tm
+[After] Cookie-Name 10: _shopify_d
+[After] Cookie-Name 11: _gid
+[After] Cookie-Name 12: secure_customer_sig
+[After] Cookie-Name 13: _tracking_consent
+[After] Cookie-Name 14: _shopify_evids
+[After] Cookie-Name 15: _shopify_y
+[After] Cookie-Name 16: _y
+[After] Cookie-Name 17: _s
+[After] Cookie-Name 18: _orig_referrer
+[After] Cookie-Name 19: _shopify_m
+[After] Cookie-Name 20: _ga
+[After] Cookie-Name 21: _landing_page
+[After] Cookie-Name 22: _shopify_s
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

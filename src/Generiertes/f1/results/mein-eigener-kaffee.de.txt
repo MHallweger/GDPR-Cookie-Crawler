@@ -1,0 +1,84 @@
+Website 148: http://www.mein-eigener-kaffee.de/ | Created: 08.02.2022 22:24:57 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 25
+[Before] Website-Cookies: [{'domain': '.mein-eigener-kaffee.de', 'expiry': 1707427490, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.1.1672501289.1644355488'}, {'domain': '.mein-eigener-kaffee.de', 'expiry': 1707427490, 'httpOnly': False, 'name': '_ga_S8VXCC5E20', 'path': '/', 'secure': False, 'value': 'GS1.1.c65d1a7e-1e2f-4821-832d-422105d3a043.1.0.1644355490.0'}, {'domain': '.mein-eigener-kaffee.de', 'httpOnly': False, 'name': 'soundest-views', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.mein-eigener-kaffee.de', 'expiry': 1644357287, 'httpOnly': False, 'name': 'dynamic_checkout_shown_on_cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.mein-eigener-kaffee.de', 'expiry': 1707427489, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQzNTU0ODksInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3Lm1laW4tZWlnZW5lci1rYWZmZWUuZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0MzU1NDg5LCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL3d3dy5tZWluLWVpZ2VuZXIta2FmZmVlLmRlLyJ9fQ=='}, {'domain': '.mein-eigener-kaffee.de', 'expiry': 1644357289, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'bNCGKPHoKAnwZI-20220208212449'}, {'domain': '.mein-eigener-kaffee.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220208212449-x4Ct583Bu0SHHxJso8PXFeaLem2OwVPUdn3AMmHqsVfWkxZVQ'}, {'domain': '.mein-eigener-kaffee.de', 'expiry': 1644357288, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A24%3A48.075Z'}, {'domain': '.mein-eigener-kaffee.de', 'expiry': 1675891488, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVptUTJZekkwTlRFdFpEZ3dOaTAwWkRrd0xXSTVObVl0TTJNMFptSTJPRGRtTkRCbQ'}, {'domain': '.mein-eigener-kaffee.de', 'expiry': 1644357288, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.www.mein-eigener-kaffee.de', 'expiry': 1659997489, 'httpOnly': False, 'name': 'sib_cuid', 'path': '/', 'secure': False, 'value': '756a79bd-5803-404f-aba1-8d3dacf21604'}, {'domain': '.mein-eigener-kaffee.de', 'expiry': 1644357290, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '849772e5-e237-49b8-8fe4-8e9f9a0e2b51'}, {'domain': '.mein-eigener-kaffee.de', 'expiry': 1675891489, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': '3HZKoc1O7Q3Lge-20220208212449'}, {'domain': '.mein-eigener-kaffee.de', 'expiry': 1644355548, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.mein-eigener-kaffee.de', 'expiry': 1645565087, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.mein-eigener-kaffee.de', 'expiry': 1644359088, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'www.mein-eigener-kaffee.de', 'expiry': 1707427490, 'httpOnly': False, 'name': '_ama', 'path': '/', 'secure': False, 'value': '1672501289.1644355488'}, {'domain': '.mein-eigener-kaffee.de', 'expiry': 1644441888, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1916322248.1644355488'}, {'domain': '.mein-eigener-kaffee.de', 'expiry': 1645565087, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.mein-eigener-kaffee.de', 'expiry': 1675891490, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f0f4c388-89ca-4061-8695-d2d59d969957'}, {'domain': 'www.mein-eigener-kaffee.de', 'expiry': 1675891490, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'www.mein-eigener-kaffee.de', 'expiry': 1645565090, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.mein-eigener-kaffee.de', 'expiry': 1645565090, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.mein-eigener-kaffee.de', 'expiry': 1644357290, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '849772e5-e237-49b8-8fe4-8e9f9a0e2b51'}, {'domain': '.mein-eigener-kaffee.de', 'expiry': 1675891490, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f0f4c388-89ca-4061-8695-d2d59d969957'}]
+[Before] Cookie-Name 1: _ga
+[Before] Cookie-Name 2: _ga_S8VXCC5E20
+[Before] Cookie-Name 3: soundest-views
+[Before] Cookie-Name 4: dynamic_checkout_shown_on_cart
+[Before] Cookie-Name 5: __kla_id
+[Before] Cookie-Name 6: omnisendSessionID
+[Before] Cookie-Name 7: soundestID
+[Before] Cookie-Name 8: _shopify_sa_t
+[Before] Cookie-Name 9: _pin_unauth
+[Before] Cookie-Name 10: _shopify_sa_p
+[Before] Cookie-Name 11: sib_cuid
+[Before] Cookie-Name 12: _s
+[Before] Cookie-Name 13: omnisendAnonymousID
+[Before] Cookie-Name 14: _gat
+[Before] Cookie-Name 15: _landing_page
+[Before] Cookie-Name 16: shopify_pay_redirect
+[Before] Cookie-Name 17: _ama
+[Before] Cookie-Name 18: _gid
+[Before] Cookie-Name 19: _orig_referrer
+[Before] Cookie-Name 20: _y
+[Before] Cookie-Name 21: secure_customer_sig
+[Before] Cookie-Name 22: cart_currency
+[Before] Cookie-Name 23: localization
+[Before] Cookie-Name 24: _shopify_s
+[Before] Cookie-Name 25: _shopify_y
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 25
+[After] Website-Cookies: [{'domain': '.mein-eigener-kaffee.de', 'expiry': 1707427490, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.1.1672501289.1644355488'}, {'domain': '.mein-eigener-kaffee.de', 'expiry': 1707427490, 'httpOnly': False, 'name': '_ga_S8VXCC5E20', 'path': '/', 'secure': False, 'value': 'GS1.1.c65d1a7e-1e2f-4821-832d-422105d3a043.1.0.1644355490.0'}, {'domain': '.mein-eigener-kaffee.de', 'httpOnly': False, 'name': 'soundest-views', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.mein-eigener-kaffee.de', 'expiry': 1644357287, 'httpOnly': False, 'name': 'dynamic_checkout_shown_on_cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.mein-eigener-kaffee.de', 'expiry': 1707427489, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQzNTU0ODksInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3Lm1laW4tZWlnZW5lci1rYWZmZWUuZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0MzU1NDg5LCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL3d3dy5tZWluLWVpZ2VuZXIta2FmZmVlLmRlLyJ9fQ=='}, {'domain': '.mein-eigener-kaffee.de', 'expiry': 1644357289, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'bNCGKPHoKAnwZI-20220208212449'}, {'domain': '.mein-eigener-kaffee.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220208212449-x4Ct583Bu0SHHxJso8PXFeaLem2OwVPUdn3AMmHqsVfWkxZVQ'}, {'domain': '.mein-eigener-kaffee.de', 'expiry': 1644357288, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A24%3A48.075Z'}, {'domain': '.mein-eigener-kaffee.de', 'expiry': 1675891488, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVptUTJZekkwTlRFdFpEZ3dOaTAwWkRrd0xXSTVObVl0TTJNMFptSTJPRGRtTkRCbQ'}, {'domain': '.mein-eigener-kaffee.de', 'expiry': 1644357288, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.www.mein-eigener-kaffee.de', 'expiry': 1659997489, 'httpOnly': False, 'name': 'sib_cuid', 'path': '/', 'secure': False, 'value': '756a79bd-5803-404f-aba1-8d3dacf21604'}, {'domain': '.mein-eigener-kaffee.de', 'expiry': 1644357290, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '849772e5-e237-49b8-8fe4-8e9f9a0e2b51'}, {'domain': '.mein-eigener-kaffee.de', 'expiry': 1675891489, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': '3HZKoc1O7Q3Lge-20220208212449'}, {'domain': '.mein-eigener-kaffee.de', 'expiry': 1644355548, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.mein-eigener-kaffee.de', 'expiry': 1645565087, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.mein-eigener-kaffee.de', 'expiry': 1644359088, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'www.mein-eigener-kaffee.de', 'expiry': 1707427490, 'httpOnly': False, 'name': '_ama', 'path': '/', 'secure': False, 'value': '1672501289.1644355488'}, {'domain': '.mein-eigener-kaffee.de', 'expiry': 1644441888, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1916322248.1644355488'}, {'domain': '.mein-eigener-kaffee.de', 'expiry': 1645565087, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.mein-eigener-kaffee.de', 'expiry': 1675891490, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f0f4c388-89ca-4061-8695-d2d59d969957'}, {'domain': 'www.mein-eigener-kaffee.de', 'expiry': 1675891490, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'www.mein-eigener-kaffee.de', 'expiry': 1645565090, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.mein-eigener-kaffee.de', 'expiry': 1645565090, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.mein-eigener-kaffee.de', 'expiry': 1644357290, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '849772e5-e237-49b8-8fe4-8e9f9a0e2b51'}, {'domain': '.mein-eigener-kaffee.de', 'expiry': 1675891490, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f0f4c388-89ca-4061-8695-d2d59d969957'}]
+[After] Cookie-Name 1: _ga
+[After] Cookie-Name 2: _ga_S8VXCC5E20
+[After] Cookie-Name 3: soundest-views
+[After] Cookie-Name 4: dynamic_checkout_shown_on_cart
+[After] Cookie-Name 5: __kla_id
+[After] Cookie-Name 6: omnisendSessionID
+[After] Cookie-Name 7: soundestID
+[After] Cookie-Name 8: _shopify_sa_t
+[After] Cookie-Name 9: _pin_unauth
+[After] Cookie-Name 10: _shopify_sa_p
+[After] Cookie-Name 11: sib_cuid
+[After] Cookie-Name 12: _s
+[After] Cookie-Name 13: omnisendAnonymousID
+[After] Cookie-Name 14: _gat
+[After] Cookie-Name 15: _landing_page
+[After] Cookie-Name 16: shopify_pay_redirect
+[After] Cookie-Name 17: _ama
+[After] Cookie-Name 18: _gid
+[After] Cookie-Name 19: _orig_referrer
+[After] Cookie-Name 20: _y
+[After] Cookie-Name 21: secure_customer_sig
+[After] Cookie-Name 22: cart_currency
+[After] Cookie-Name 23: localization
+[After] Cookie-Name 24: _shopify_s
+[After] Cookie-Name 25: _shopify_y
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

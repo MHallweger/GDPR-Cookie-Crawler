@@ -1,0 +1,103 @@
+Website 108: http://www.bisbshop.de/ | Created: 09.02.2022 11:19:08 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 32
+[Before] Website-Cookies: [{'domain': 'bisbshop.de', 'httpOnly': False, 'name': 'fsb_total_price_319711', 'path': '/', 'secure': False, 'value': '0'}, {'domain': 'bisbshop.de', 'httpOnly': False, 'name': '__brLastSetCartToken', 'path': '/', 'secure': False, 'value': ''}, {'domain': 'bisbshop.de', 'httpOnly': False, 'name': 'usb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': 'bisbshop.de', 'httpOnly': False, 'name': 'rmc_logged_in_at', 'path': '/', 'secure': False, 'value': 'null'}, {'domain': '.bisbshop.de', 'expiry': 1678097939, 'httpOnly': False, 'name': '__gads', 'path': '/', 'secure': False, 'value': 'ID=f50c50bf9a239f37-225155e237cd00c7:T=1644401939:RT=1644401939:S=ALNI_MarsNCkWjtcgs-ilU4rlXSvB2qFyw'}, {'domain': '.bisbshop.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'bisbshop.de', 'expiry': 1644403739, 'httpOnly': False, 'name': 'baMet_visit', 'path': '/', 'secure': False, 'value': '6e6c504bfb8f4351a2dbdb95331674fd1644401939160'}, {'domain': '.bisbshop.de', 'expiry': 1707473939, 'httpOnly': False, 'name': '_ga_QWCLX01N9F', 'path': '/', 'secure': False, 'value': 'GS1.1.1644401939.1.0.1644401939.60'}, {'domain': 'bisbshop.de', 'httpOnly': False, 'name': 'fsb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.bisbshop.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3b2cfe6f-439a-4a8f-9686-3a414a530c89'}, {'domain': '.bisbshop.de', 'expiry': 1675937938, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': 'bisbshop.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'bisbshop.de', 'expiry': 1644405539, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.bisbshop.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.bisbshop.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A18%3A59.122Z'}, {'domain': 'bisbshop.de', 'expiry': 1645611540, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.bisbshop.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A18%3A59.095Z'}, {'domain': '.bisbshop.de', 'expiry': 1644401999, 'httpOnly': False, 'name': '_gat_gtag_UA_166028111_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.bisbshop.de', 'expiry': 1644488339, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1634795349.1644401939'}, {'domain': '.bisbshop.de', 'expiry': 1652177939, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1624088259.1644401939'}, {'domain': '.bisbshop.de', 'expiry': 1644403745, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.bisbshop.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '01fe34d8-ea93-4e59-b39c-74c8c0010b16'}, {'domain': '.bisbshop.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '01fe34d8-ea93-4e59-b39c-74c8c0010b16'}, {'domain': '.bisbshop.de', 'expiry': 1675937938, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': '.bisbshop.de', 'expiry': 1652177939, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644401939359.1608286566'}, {'domain': 'bisbshop.de', 'expiry': 1645611545, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.bisbshop.de', 'expiry': 1645611538, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.bisbshop.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3b2cfe6f-439a-4a8f-9686-3a414a530c89'}, {'domain': '.bisbshop.de', 'expiry': 1707473939, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.1.580557862.1644401939'}, {'domain': '.bisbshop.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'bisbshop.de', 'expiry': 1675937945, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.bisbshop.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[Before] Cookie-Name 1: fsb_total_price_319711
+[Before] Cookie-Name 2: __brLastSetCartToken
+[Before] Cookie-Name 3: usb_previous_pathname
+[Before] Cookie-Name 4: rmc_logged_in_at
+[Before] Cookie-Name 5: __gads
+[Before] Cookie-Name 6: _shopify_sa_p
+[Before] Cookie-Name 7: baMet_visit
+[Before] Cookie-Name 8: _ga_QWCLX01N9F
+[Before] Cookie-Name 9: fsb_previous_pathname
+[Before] Cookie-Name 10: _shopify_y
+[Before] Cookie-Name 11: _shopify_m
+[Before] Cookie-Name 12: _shopify_evids
+[Before] Cookie-Name 13: shopify_pay_redirect
+[Before] Cookie-Name 14: _shopify_evids
+[Before] Cookie-Name 15: _shopify_sa_t
+[Before] Cookie-Name 16: cart_currency
+[Before] Cookie-Name 17: _shopify_d
+[Before] Cookie-Name 18: _gat_gtag_UA_166028111_1
+[Before] Cookie-Name 19: _gid
+[Before] Cookie-Name 20: _gcl_au
+[Before] Cookie-Name 21: _shopify_tm
+[Before] Cookie-Name 22: _s
+[Before] Cookie-Name 23: _shopify_s
+[Before] Cookie-Name 24: _tracking_consent
+[Before] Cookie-Name 25: _fbp
+[Before] Cookie-Name 26: localization
+[Before] Cookie-Name 27: _shopify_tw
+[Before] Cookie-Name 28: _y
+[Before] Cookie-Name 29: _ga
+[Before] Cookie-Name 30: _landing_page
+[Before] Cookie-Name 31: secure_customer_sig
+[Before] Cookie-Name 32: _orig_referrer
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 36
+[After] Website-Cookies: [{'domain': '.bisbshop.de', 'expiry': 1675937955, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU9HWTFPRFJqWTJFdE5EQTRNQzAwWW1ZeExUZzJNV1V0TmpRNVl6azJNVEV4TWpCaA'}, {'domain': '.bisbshop.de', 'expiry': 1675937954, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%221%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%7D'}, {'domain': 'bisbshop.de', 'httpOnly': False, 'name': 'fsb_total_price_319711', 'path': '/', 'secure': False, 'value': '0'}, {'domain': 'bisbshop.de', 'httpOnly': False, 'name': '__brLastSetCartToken', 'path': '/', 'secure': False, 'value': ''}, {'domain': 'bisbshop.de', 'httpOnly': False, 'name': 'usb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': 'bisbshop.de', 'httpOnly': False, 'name': 'rmc_logged_in_at', 'path': '/', 'secure': False, 'value': 'null'}, {'domain': '.bisbshop.de', 'expiry': 1644403754, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'bisbshop.de', 'expiry': 1644403739, 'httpOnly': False, 'name': 'baMet_visit', 'path': '/', 'secure': False, 'value': '6e6c504bfb8f4351a2dbdb95331674fd1644401939160'}, {'domain': '.bisbshop.de', 'expiry': 1707473939, 'httpOnly': False, 'name': '_ga_QWCLX01N9F', 'path': '/', 'secure': False, 'value': 'GS1.1.1644401939.1.0.1644401939.60'}, {'domain': '.bisbshop.de', 'expiry': 1675937954, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': 'bisbshop.de', 'httpOnly': False, 'name': 'fsb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.bisbshop.de', 'expiry': 1675937954, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3b2cfe6f-439a-4a8f-9686-3a414a530c89'}, {'domain': 'bisbshop.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'bisbshop.de', 'expiry': 1644405539, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.bisbshop.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.bisbshop.de', 'expiry': 1644403754, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A18%3A59.122Z'}, {'domain': 'bisbshop.de', 'expiry': 1645611554, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.bisbshop.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A18%3A59.095Z'}, {'domain': '.bisbshop.de', 'expiry': 1644402014, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.bisbshop.de', 'expiry': 1644401999, 'httpOnly': False, 'name': '_gat_gtag_UA_166028111_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.bisbshop.de', 'expiry': 1678097939, 'httpOnly': False, 'name': '__gads', 'path': '/', 'secure': False, 'value': 'ID=f50c50bf9a239f37-225155e237cd00c7:T=1644401939:RT=1644401939:S=ALNI_MarsNCkWjtcgs-ilU4rlXSvB2qFyw'}, {'domain': '.bisbshop.de', 'expiry': 1644488354, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1634795349.1644401939'}, {'domain': '.bisbshop.de', 'expiry': 1652177939, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1624088259.1644401939'}, {'domain': 'bisbshop.de', 'expiry': 1645611554, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '48274720b802173ca5acd18266b94777'}, {'domain': '.bisbshop.de', 'expiry': 1644403754, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.bisbshop.de', 'expiry': 1644403754, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '01fe34d8-ea93-4e59-b39c-74c8c0010b16'}, {'domain': '.bisbshop.de', 'expiry': 1644403754, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '01fe34d8-ea93-4e59-b39c-74c8c0010b16'}, {'domain': '.bisbshop.de', 'expiry': 1675937954, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3b2cfe6f-439a-4a8f-9686-3a414a530c89'}, {'domain': '.bisbshop.de', 'expiry': 1645611538, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'bisbshop.de', 'expiry': 1675937954, 'httpOnly': False, 'name': 'cookieconsent_status', 'path': '/', 'secure': False, 'value': 'dismiss'}, {'domain': '.bisbshop.de', 'expiry': 1652177954, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644401939359.1608286566'}, {'domain': 'bisbshop.de', 'expiry': 1645611554, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.bisbshop.de', 'expiry': 1707473954, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.580557862.1644401939'}, {'domain': '.bisbshop.de', 'expiry': 1645611554, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'bisbshop.de', 'expiry': 1675937954, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.bisbshop.de', 'expiry': 1645611554, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: _pin_unauth
+[After] Cookie-Name 2: _tracking_consent
+[After] Cookie-Name 3: fsb_total_price_319711
+[After] Cookie-Name 4: __brLastSetCartToken
+[After] Cookie-Name 5: usb_previous_pathname
+[After] Cookie-Name 6: rmc_logged_in_at
+[After] Cookie-Name 7: _shopify_sa_p
+[After] Cookie-Name 8: baMet_visit
+[After] Cookie-Name 9: _ga_QWCLX01N9F
+[After] Cookie-Name 10: _shopify_m
+[After] Cookie-Name 11: fsb_previous_pathname
+[After] Cookie-Name 12: _shopify_y
+[After] Cookie-Name 13: _shopify_evids
+[After] Cookie-Name 14: shopify_pay_redirect
+[After] Cookie-Name 15: _shopify_evids
+[After] Cookie-Name 16: _shopify_sa_t
+[After] Cookie-Name 17: cart_currency
+[After] Cookie-Name 18: _shopify_d
+[After] Cookie-Name 19: _gat
+[After] Cookie-Name 20: _gat_gtag_UA_166028111_1
+[After] Cookie-Name 21: __gads
+[After] Cookie-Name 22: _gid
+[After] Cookie-Name 23: _gcl_au
+[After] Cookie-Name 24: cart_sig
+[After] Cookie-Name 25: _shopify_tm
+[After] Cookie-Name 26: _s
+[After] Cookie-Name 27: _shopify_s
+[After] Cookie-Name 28: _y
+[After] Cookie-Name 29: _shopify_tw
+[After] Cookie-Name 30: cookieconsent_status
+[After] Cookie-Name 31: _fbp
+[After] Cookie-Name 32: localization
+[After] Cookie-Name 33: _ga
+[After] Cookie-Name 34: _landing_page
+[After] Cookie-Name 35: secure_customer_sig
+[After] Cookie-Name 36: _orig_referrer
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 4
+[Difference] Cookie-Name: 1: cookieconsent_status
+[Difference] Cookie-Name: 2: _pin_unauth
+[Difference] Cookie-Name: 3: _gat
+[Difference] Cookie-Name: 4: cart_sig
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

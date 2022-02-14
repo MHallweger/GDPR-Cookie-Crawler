@@ -1,0 +1,67 @@
+Website 305: http://www.colognecontours.de/ | Created: 08.02.2022 23:13:00 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 4
+[Before] Website-Cookies: [{'domain': '.coordimates.de', 'expiry': 1645567971, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'coordimates.de', 'expiry': 1645567972, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.coordimates.de', 'expiry': 1645567971, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'coordimates.de', 'expiry': 1675894372, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _orig_referrer
+[Before] Cookie-Name 2: cart_currency
+[Before] Cookie-Name 3: _landing_page
+[Before] Cookie-Name 4: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 20
+[After] Website-Cookies: [{'domain': '.coordimates.de', 'expiry': 1652134386, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644358386457.2920554'}, {'domain': '.coordimates.de', 'expiry': 1644444786, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1997775735.1644358386'}, {'domain': 'coordimates.de', 'expiry': 1646950386, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0MzU4Mzg2MjM3LCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjowfX0='}, {'domain': '.coordimates.de', 'expiry': 1707430386, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1586139203.1644358386'}, {'domain': 'coordimates.de', 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'coordimates.de', 'httpOnly': False, 'name': '_clck', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1sw8kb6|1|eyt|0'}, {'domain': 'coordimates.de', 'expiry': 1644360186, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '420f7859-160a-4fdb-aeab-a847c2835fa6'}, {'domain': 'coordimates.de', 'expiry': 1644360186, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T22%3A12%3A51.432Z'}, {'domain': 'coordimates.de', 'httpOnly': False, 'name': '_clsk', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'kowa38|1644358372644|1|1|j.clarity.ms/collect'}, {'domain': 'coordimates.de', 'expiry': 1644360186, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '420f7859-160a-4fdb-aeab-a847c2835fa6'}, {'domain': '.coordimates.de', 'expiry': 1652134386, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.229410988.1644358386'}, {'domain': 'coordimates.de', 'expiry': 1675894372, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'coordimates.de', 'expiry': 1675894386, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9e3e56a3-9772-436d-ac5d-0f1d275d9686'}, {'domain': '.coordimates.de', 'expiry': 1644358446, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.coordimates.de', 'expiry': 1645567971, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'coordimates.de', 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'pending'}, {'domain': 'coordimates.de', 'expiry': 1645567972, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'coordimates.de', 'expiry': 1675894386, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9e3e56a3-9772-436d-ac5d-0f1d275d9686'}, {'domain': 'coordimates.de', 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'dWlkPVptUTJZekkwTlRFdFpEZ3dOaTAwWkRrd0xXSTVObVl0TTJNMFptSTJPRGRtTkRCbQ'}, {'domain': '.coordimates.de', 'expiry': 1645567971, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}]
+[After] Cookie-Name 1: _fbp
+[After] Cookie-Name 2: _gid
+[After] Cookie-Name 3: _bc_c_set
+[After] Cookie-Name 4: _ga
+[After] Cookie-Name 5: localization
+[After] Cookie-Name 6: _clck
+[After] Cookie-Name 7: _s
+[After] Cookie-Name 8: _shopify_sa_t
+[After] Cookie-Name 9: _clsk
+[After] Cookie-Name 10: _shopify_s
+[After] Cookie-Name 11: _gcl_au
+[After] Cookie-Name 12: secure_customer_sig
+[After] Cookie-Name 13: _y
+[After] Cookie-Name 14: _gat
+[After] Cookie-Name 15: _orig_referrer
+[After] Cookie-Name 16: shopify_pay_redirect
+[After] Cookie-Name 17: cart_currency
+[After] Cookie-Name 18: _shopify_y
+[After] Cookie-Name 19: _pin_unauth
+[After] Cookie-Name 20: _landing_page
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 16
+[Difference] Cookie-Name: 1: _shopify_y
+[Difference] Cookie-Name: 2: _bc_c_set
+[Difference] Cookie-Name: 3: _gid
+[Difference] Cookie-Name: 4: _y
+[Difference] Cookie-Name: 5: _pin_unauth
+[Difference] Cookie-Name: 6: _fbp
+[Difference] Cookie-Name: 7: _ga
+[Difference] Cookie-Name: 8: _shopify_sa_t
+[Difference] Cookie-Name: 9: _clsk
+[Difference] Cookie-Name: 10: _clck
+[Difference] Cookie-Name: 11: _s
+[Difference] Cookie-Name: 12: localization
+[Difference] Cookie-Name: 13: shopify_pay_redirect
+[Difference] Cookie-Name: 14: _gcl_au
+[Difference] Cookie-Name: 15: _shopify_s
+[Difference] Cookie-Name: 16: _gat
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

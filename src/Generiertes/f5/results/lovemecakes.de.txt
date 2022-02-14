@@ -1,0 +1,90 @@
+Website 37: http://www.lovemecakes.de/ | Created: 09.02.2022 19:43:27 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 12
+[Before] Website-Cookies: [{'domain': 'lovemecakes.de', 'expiry': 1645641798, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': 'lovemecakes.de', 'expiry': 1645641798, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '55d694d407f840e4f1792266035102fc'}, {'domain': '.lovemecakes.de', 'expiry': 1675968196, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22v%22%3A%222.0%22%7D'}, {'domain': 'lovemecakes.de', 'expiry': 1645641798, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644432198'}, {'domain': '.lovemecakes.de', 'expiry': 1675968196, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.lovemecakes.de', 'expiry': 1645641796, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.lovemecakes.de', 'expiry': 1644433998, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.lovemecakes.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'lovemecakes.de', 'expiry': 1645641798, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2962bdddf6a384abf995771c27e6a624'}, {'domain': '.lovemecakes.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'lovemecakes.de', 'expiry': 1645641798, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'lovemecakes.de', 'expiry': 1675968198, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: cart_ver
+[Before] Cookie-Name 2: cart_sig
+[Before] Cookie-Name 3: _tracking_consent
+[Before] Cookie-Name 4: cart_ts
+[Before] Cookie-Name 5: _shopify_m
+[Before] Cookie-Name 6: _shopify_tw
+[Before] Cookie-Name 7: _shopify_tm
+[Before] Cookie-Name 8: _orig_referrer
+[Before] Cookie-Name 9: cart
+[Before] Cookie-Name 10: _landing_page
+[Before] Cookie-Name 11: cart_currency
+[Before] Cookie-Name 12: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 35
+[After] Website-Cookies: [{'domain': '.lovemecakes.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.lovemecakes.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '27a05f13-34b5-474a-b62e-c8070a5d8fbe'}, {'domain': '.lovemecakes.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '72d02ad7-2b5e-4189-b654-1ad1e0151676'}, {'domain': '.lovemecakes.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T18%3A43%3A17.280Z'}, {'domain': '.lovemecakes.de', 'expiry': 1644434012, 'httpOnly': False, 'name': 'swym-session-id', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"6qmjufn1m0svdpilbfy4gs3moh00llkbx82umqt0y1x8oj5e8ix6clprx0vxq0rw"'}, {'domain': 'lovemecakes.de', 'httpOnly': False, 'name': 'swym-o_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'true'}, {'domain': 'lovemecakes.de', 'httpOnly': False, 'name': 'swym-swymRegid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '"1UqjmNoyVmFlzJYR4TFnBY_qlUpr4Bl5JRJxedOReoOep1kCDAOle20etpuLNdwkrPrARI9pxRNO4tv5Y0RutE0-CJQioEbVbbuFIxAZA9ABYOVYX0jjEFtRoQa0AOJ_yvIaI7-Y3Rhyv4N2-pw8k8xWpdU1epqlzVWI2gGOYks"'}, {'domain': 'lovemecakes.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'lovemecakes.de', 'httpOnly': False, 'name': 'pf_vid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4b24742d-a0d1-4940-92a3-8e90ce38e80b'}, {'domain': '.lovemecakes.de', 'expiry': 1645641812, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'lovemecakes.de', 'expiry': 1645641812, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'lovemecakes.de', 'expiry': 1644434012, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '72d02ad7-2b5e-4189-b654-1ad1e0151676'}, {'domain': 'lovemecakes.de', 'httpOnly': False, 'name': 'swym-session-id', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '"6qmjufn1m0svdpilbfy4gs3moh00llkbx82umqt0y1x8oj5e8ix6clprx0vxq0rw"'}, {'domain': 'lovemecakes.de', 'expiry': 1675968212, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '27a05f13-34b5-474a-b62e-c8070a5d8fbe'}, {'domain': 'lovemecakes.de', 'expiry': 1645641812, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'lovemecakes.de', 'expiry': 1644434012, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '72d02ad7-2b5e-4189-b654-1ad1e0151676'}, {'domain': 'lovemecakes.de', 'httpOnly': False, 'name': 'swym-pid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '"jCDeEkw2UGjk+C1ECXNxYnG9uUaxYqbiI0+NDh5Woz0="'}, {'domain': 'lovemecakes.de', 'expiry': 1645641812, 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T18%3A43%3A17.201Z'}, {'domain': '.lovemecakes.de', 'expiry': 1675968212, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22CCPA%22%3A%221%22%2C%22GDPR%22%3A%22%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%7D'}, {'domain': 'lovemecakes.de', 'expiry': 1645641812, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '55d694d407f840e4f1792266035102fc'}, {'domain': 'lovemecakes.de', 'httpOnly': False, 'name': 'swym-email', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'null'}, {'domain': 'lovemecakes.de', 'expiry': 1645641798, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2962bdddf6a384abf995771c27e6a624'}, {'domain': '.lovemecakes.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '27a05f13-34b5-474a-b62e-c8070a5d8fbe'}, {'domain': 'lovemecakes.de', 'expiry': 1645641798, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644432198'}, {'domain': '.lovemecakes.de', 'expiry': 1645641796, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'lovemecakes.de', 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'pending'}, {'domain': '.lovemecakes.de', 'expiry': 1645641812, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.lovemecakes.de', 'expiry': 1675968212, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': '.lovemecakes.de', 'expiry': 1644434012, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.lovemecakes.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '72d02ad7-2b5e-4189-b654-1ad1e0151676'}, {'domain': 'lovemecakes.de', 'expiry': 1675968212, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '27a05f13-34b5-474a-b62e-c8070a5d8fbe'}, {'domain': 'lovemecakes.de', 'expiry': 1644434012, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T18%3A43%3A17.280Z'}, {'domain': 'lovemecakes.de', 'expiry': 1647024212, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0NDMyMjEyNDMzLCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjoxfX0='}, {'domain': 'lovemecakes.de', 'expiry': 1645641798, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': 'lovemecakes.de', 'expiry': 1675968212, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _shopify_evids
+[After] Cookie-Name 2: _shopify_y
+[After] Cookie-Name 3: _s
+[After] Cookie-Name 4: _shopify_sa_t
+[After] Cookie-Name 5: swym-session-id
+[After] Cookie-Name 6: swym-o_s
+[After] Cookie-Name 7: swym-swymRegid
+[After] Cookie-Name 8: _shopify_evids
+[After] Cookie-Name 9: pf_vid
+[After] Cookie-Name 10: _landing_page
+[After] Cookie-Name 11: localization
+[After] Cookie-Name 12: _s
+[After] Cookie-Name 13: swym-session-id
+[After] Cookie-Name 14: _shopify_y
+[After] Cookie-Name 15: cart_currency
+[After] Cookie-Name 16: _shopify_s
+[After] Cookie-Name 17: swym-pid
+[After] Cookie-Name 18: _shopify_d
+[After] Cookie-Name 19: _tracking_consent
+[After] Cookie-Name 20: cart_sig
+[After] Cookie-Name 21: swym-email
+[After] Cookie-Name 22: cart
+[After] Cookie-Name 23: _y
+[After] Cookie-Name 24: cart_ts
+[After] Cookie-Name 25: _shopify_tw
+[After] Cookie-Name 26: shopify_pay_redirect
+[After] Cookie-Name 27: _orig_referrer
+[After] Cookie-Name 28: _shopify_m
+[After] Cookie-Name 29: _shopify_tm
+[After] Cookie-Name 30: _shopify_s
+[After] Cookie-Name 31: _y
+[After] Cookie-Name 32: _shopify_sa_t
+[After] Cookie-Name 33: _bc_c_set
+[After] Cookie-Name 34: cart_ver
+[After] Cookie-Name 35: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 16
+[Difference] Cookie-Name: 1: swym-session-id
+[Difference] Cookie-Name: 2: localization
+[Difference] Cookie-Name: 3: _y
+[Difference] Cookie-Name: 4: _shopify_s
+[Difference] Cookie-Name: 5: _shopify_evids
+[Difference] Cookie-Name: 6: _shopify_d
+[Difference] Cookie-Name: 7: swym-email
+[Difference] Cookie-Name: 8: _shopify_y
+[Difference] Cookie-Name: 9: _bc_c_set
+[Difference] Cookie-Name: 10: _shopify_sa_t
+[Difference] Cookie-Name: 11: swym-swymRegid
+[Difference] Cookie-Name: 12: swym-o_s
+[Difference] Cookie-Name: 13: swym-pid
+[Difference] Cookie-Name: 14: shopify_pay_redirect
+[Difference] Cookie-Name: 15: _s
+[Difference] Cookie-Name: 16: pf_vid
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

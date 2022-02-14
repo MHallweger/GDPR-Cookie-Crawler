@@ -1,0 +1,84 @@
+Website 222: http://www.inkaicos.de/ | Created: 09.02.2022 14:49:04 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 25
+[Before] Website-Cookies: [{'domain': 'www.inkaicos.de', 'expiry': 53899134534, 'httpOnly': False, 'name': '_ZB_STATIC_97672_TS', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.inkaicos.de', 'expiry': 1675950534, 'httpOnly': False, 'name': '_privy_44FF38813AE95D174D30A732', 'path': '/', 'secure': False, 'value': '%7B%22uuid%22%3A%229b32d96c-546a-4e77-942f-f1dede452d95%22%7D'}, {'domain': 'www.inkaicos.de', 'httpOnly': False, 'name': 'qab_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.www.inkaicos.de', 'expiry': 1660085334, 'httpOnly': False, 'name': 'sib_cuid', 'path': '/', 'secure': False, 'value': '6c2efee3-16c2-4780-a75c-0adbf61eb712'}, {'domain': 'www.inkaicos.de', 'expiry': 1644500934, 'httpOnly': False, 'name': 'tms_default_locale', 'path': '/', 'secure': False, 'value': 'de'}, {'domain': '.inkaicos.de', 'expiry': 1652190534, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644414533729.1251917242'}, {'domain': 'www.inkaicos.de', 'expiry': 1644954534, 'httpOnly': False, 'name': 'cbuid_meta', 'path': '/', 'secure': False, 'value': '{"referrer":"","href":"https://www.inkaicos.de/"}'}, {'domain': '.inkaicos.de', 'expiry': 1675950533, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVptTTFOVEprWVRRdE1qSXdaQzAwTXpNNUxUbGxNemd0TVRNME9UZzRaalk0TkRRMA'}, {'domain': '.inkaicos.de', 'expiry': 1644414593, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.inkaicos.de', 'expiry': 1644500933, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1929502282.1644414534'}, {'domain': '.inkaicos.de', 'expiry': 1644416333, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.inkaicos.de', 'expiry': 1645624131, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.inkaicos.de', 'expiry': 1644416333, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A48%3A53.541Z'}, {'domain': '.inkaicos.de', 'expiry': 1644416333, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd9f573e9-4496-4de1-9df2-f6e71a96d1bc'}, {'domain': '.inkaicos.de', 'expiry': 1707486533, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.350994719.1644414534'}, {'domain': '.inkaicos.de', 'expiry': 1645624131, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.inkaicos.de', 'httpOnly': False, 'name': 'tms_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.inkaicos.de', 'expiry': 1675950531, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd2ae99b6-75fa-456c-8af4-0a62151c0323'}, {'domain': 'www.inkaicos.de', 'expiry': 1675950531, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'www.inkaicos.de', 'expiry': 1645019333, 'httpOnly': False, 'name': 'popup', 'path': '/', 'secure': False, 'value': 'open'}, {'domain': '.inkaicos.de', 'expiry': 1644416333, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd9f573e9-4496-4de1-9df2-f6e71a96d1bc'}, {'domain': '.inkaicos.de', 'expiry': 1675950531, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd2ae99b6-75fa-456c-8af4-0a62151c0323'}, {'domain': 'www.inkaicos.de', 'expiry': 1645624131, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': '.inkaicos.de', 'expiry': 1645624131, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.inkaicos.de', 'expiry': 1644418132, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}]
+[Before] Cookie-Name 1: _ZB_STATIC_97672_TS
+[Before] Cookie-Name 2: _privy_44FF38813AE95D174D30A732
+[Before] Cookie-Name 3: qab_previous_pathname
+[Before] Cookie-Name 4: sib_cuid
+[Before] Cookie-Name 5: tms_default_locale
+[Before] Cookie-Name 6: _fbp
+[Before] Cookie-Name 7: cbuid_meta
+[Before] Cookie-Name 8: _pin_unauth
+[Before] Cookie-Name 9: _gat
+[Before] Cookie-Name 10: _gid
+[Before] Cookie-Name 11: _shopify_sa_p
+[Before] Cookie-Name 12: cart_currency
+[Before] Cookie-Name 13: _shopify_sa_t
+[Before] Cookie-Name 14: _shopify_s
+[Before] Cookie-Name 15: _ga
+[Before] Cookie-Name 16: _orig_referrer
+[Before] Cookie-Name 17: tms_previous_pathname
+[Before] Cookie-Name 18: _shopify_y
+[Before] Cookie-Name 19: secure_customer_sig
+[Before] Cookie-Name 20: popup
+[Before] Cookie-Name 21: _s
+[Before] Cookie-Name 22: _y
+[Before] Cookie-Name 23: localization
+[Before] Cookie-Name 24: _landing_page
+[Before] Cookie-Name 25: shopify_pay_redirect
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 21
+[After] Website-Cookies: [{'domain': '.www.inkaicos.de', 'expiry': 1660085334, 'httpOnly': False, 'name': 'sib_cuid', 'path': '/', 'secure': False, 'value': '6c2efee3-16c2-4780-a75c-0adbf61eb712'}, {'domain': 'www.inkaicos.de', 'httpOnly': False, 'name': 'qab_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.inkaicos.de', 'expiry': 1652190549, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644414533729.1251917242'}, {'domain': '.inkaicos.de', 'expiry': 1675950533, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVptTTFOVEprWVRRdE1qSXdaQzAwTXpNNUxUbGxNemd0TVRNME9UZzRaalk0TkRRMA'}, {'domain': '.inkaicos.de', 'expiry': 1644414593, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.inkaicos.de', 'expiry': 1644500933, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1929502282.1644414534'}, {'domain': 'www.inkaicos.de', 'expiry': 1675950550, 'httpOnly': False, 'name': 'CookieConsent', 'path': '/', 'secure': True, 'value': '{stamp:%27fBSg/4dHnQE5/Ea4RdXrZvj41H5m1OYF4TfwZMVJztnTgk2u1mOSGw==%27%2Cnecessary:true%2Cpreferences:true%2Cstatistics:true%2Cmarketing:true%2Cver:1%2Cutc:1644414550038%2Cregion:%27de%27}'}, {'domain': '.inkaicos.de', 'expiry': 1644416333, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.inkaicos.de', 'expiry': 1644416333, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A48%3A53.541Z'}, {'domain': 'www.inkaicos.de', 'expiry': 1644418132, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'www.inkaicos.de', 'expiry': 1645019333, 'httpOnly': False, 'name': 'popup', 'path': '/', 'secure': False, 'value': 'open'}, {'domain': '.inkaicos.de', 'expiry': 1675950531, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd2ae99b6-75fa-456c-8af4-0a62151c0323'}, {'domain': '.inkaicos.de', 'expiry': 1644416333, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd9f573e9-4496-4de1-9df2-f6e71a96d1bc'}, {'domain': '.inkaicos.de', 'expiry': 1675950531, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd2ae99b6-75fa-456c-8af4-0a62151c0323'}, {'domain': 'www.inkaicos.de', 'expiry': 1645624131, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': '.inkaicos.de', 'expiry': 1645624131, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.inkaicos.de', 'expiry': 1644416333, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd9f573e9-4496-4de1-9df2-f6e71a96d1bc'}, {'domain': '.inkaicos.de', 'expiry': 1707486533, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.350994719.1644414534'}, {'domain': '.inkaicos.de', 'expiry': 1645624131, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.inkaicos.de', 'expiry': 1645624131, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': 'www.inkaicos.de', 'expiry': 1675950531, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: sib_cuid
+[After] Cookie-Name 2: qab_previous_pathname
+[After] Cookie-Name 3: _fbp
+[After] Cookie-Name 4: _pin_unauth
+[After] Cookie-Name 5: _gat
+[After] Cookie-Name 6: _gid
+[After] Cookie-Name 7: CookieConsent
+[After] Cookie-Name 8: _shopify_sa_p
+[After] Cookie-Name 9: _shopify_sa_t
+[After] Cookie-Name 10: shopify_pay_redirect
+[After] Cookie-Name 11: popup
+[After] Cookie-Name 12: _shopify_y
+[After] Cookie-Name 13: _s
+[After] Cookie-Name 14: _y
+[After] Cookie-Name 15: localization
+[After] Cookie-Name 16: _landing_page
+[After] Cookie-Name 17: _shopify_s
+[After] Cookie-Name 18: _ga
+[After] Cookie-Name 19: _orig_referrer
+[After] Cookie-Name 20: cart_currency
+[After] Cookie-Name 21: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 6
+[Difference] Cookie-Name: 1: tms_default_locale
+[Difference] Cookie-Name: 2: tms_previous_pathname
+[Difference] Cookie-Name: 3: cbuid_meta
+[Difference] Cookie-Name: 4: _ZB_STATIC_97672_TS
+[Difference] Cookie-Name: 5: _privy_44FF38813AE95D174D30A732
+[Difference] Cookie-Name: 6: CookieConsent
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

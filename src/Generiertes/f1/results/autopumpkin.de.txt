@@ -1,0 +1,85 @@
+Website 331: http://www.autopumpkin.de/ | Created: 08.02.2022 23:20:09 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 25
+[Before] Website-Cookies: [{'domain': '.autopumpkin.de', 'httpOnly': False, 'name': 'soundest-views', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.autopumpkin.de', 'expiry': 1675894793, 'httpOnly': False, 'name': '_ym_d', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1644358794'}, {'domain': '.autopumpkin.de', 'expiry': 1652134793, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644358793278.1083150552'}, {'domain': '.autopumpkin.de', 'expiry': 1707430800, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.1.171150558.1644358793'}, {'domain': '.autopumpkin.de', 'expiry': 1644430793, 'httpOnly': False, 'name': '_ym_isad', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '2'}, {'domain': '.autopumpkin.de', 'expiry': 1707430793, 'httpOnly': False, 'name': '_ga_68R8XNZJM1', 'path': '/', 'secure': False, 'value': 'GS1.1.1644358792.1.0.1644358792.60'}, {'domain': '.autopumpkin.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220208222000-xmEEenqedNsetkmbyLUBN8AO4ZGBctoQC1JC3nuDpsLLHV3Xa'}, {'domain': '.autopumpkin.de', 'expiry': 1644360592, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T22%3A19%3A52.406Z'}, {'domain': '.autopumpkin.de', 'expiry': 1644358852, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.autopumpkin.de', 'expiry': 1675894793, 'httpOnly': False, 'name': '_ym_uid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '164435879414817854'}, {'domain': '.autopumpkin.de', 'expiry': 1644445192, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.725089125.1644358793'}, {'domain': '.autopumpkin.de', 'expiry': 1644360592, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.autopumpkin.de', 'expiry': 1675894804, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7e3537c2-a037-4a87-85ed-ff5bd0a82a4c'}, {'domain': '.autopumpkin.de', 'expiry': 1645568389, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.autopumpkin.de', 'expiry': 1644360604, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b67fa613-27c8-4a00-b938-065f9bb154c6'}, {'domain': 'www.autopumpkin.de', 'expiry': 1675894804, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.autopumpkin.de', 'expiry': 1645568389, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.autopumpkin.de', 'expiry': 1707430804, 'httpOnly': False, 'name': '_ga_S8VXCC5E20', 'path': '/', 'secure': False, 'value': 'GS1.1.8c486a57-e731-4cb0-8471-4da547fa5b6c.1.0.1644358804.0'}, {'domain': 'www.autopumpkin.de', 'expiry': 1707430800, 'httpOnly': False, 'name': '_ama', 'path': '/', 'secure': False, 'value': '171150558.1644358793'}, {'domain': '.autopumpkin.de', 'expiry': 1644360604, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b67fa613-27c8-4a00-b938-065f9bb154c6'}, {'domain': '.autopumpkin.de', 'expiry': 1644360593, 'httpOnly': False, 'name': '_ym_visorc', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'w'}, {'domain': '.autopumpkin.de', 'expiry': 1675894804, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7e3537c2-a037-4a87-85ed-ff5bd0a82a4c'}, {'domain': '.autopumpkin.de', 'expiry': 1644360601, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'LUc381DxFUUv80-20220208222000'}, {'domain': '.autopumpkin.de', 'expiry': 1675894801, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'Jlt1lyFDnf9KEN-20220208222000'}, {'domain': '.autopumpkin.de', 'expiry': 1652134790, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.279385524.1644358791'}]
+[Before] Cookie-Name 1: soundest-views
+[Before] Cookie-Name 2: _ym_d
+[Before] Cookie-Name 3: _fbp
+[Before] Cookie-Name 4: _ga
+[Before] Cookie-Name 5: _ym_isad
+[Before] Cookie-Name 6: _ga_68R8XNZJM1
+[Before] Cookie-Name 7: soundestID
+[Before] Cookie-Name 8: _shopify_sa_t
+[Before] Cookie-Name 9: _gat
+[Before] Cookie-Name 10: _ym_uid
+[Before] Cookie-Name 11: _gid
+[Before] Cookie-Name 12: _shopify_sa_p
+[Before] Cookie-Name 13: _shopify_y
+[Before] Cookie-Name 14: _orig_referrer
+[Before] Cookie-Name 15: _s
+[Before] Cookie-Name 16: secure_customer_sig
+[Before] Cookie-Name 17: _landing_page
+[Before] Cookie-Name 18: _ga_S8VXCC5E20
+[Before] Cookie-Name 19: _ama
+[Before] Cookie-Name 20: _shopify_s
+[Before] Cookie-Name 21: _ym_visorc
+[Before] Cookie-Name 22: _y
+[Before] Cookie-Name 23: omnisendSessionID
+[Before] Cookie-Name 24: omnisendAnonymousID
+[Before] Cookie-Name 25: _gcl_au
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 25
+[After] Website-Cookies: [{'domain': '.autopumpkin.de', 'httpOnly': False, 'name': 'soundest-views', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.autopumpkin.de', 'expiry': 1675894793, 'httpOnly': False, 'name': '_ym_d', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1644358794'}, {'domain': '.autopumpkin.de', 'expiry': 1652134793, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644358793278.1083150552'}, {'domain': '.autopumpkin.de', 'expiry': 1707430800, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.1.171150558.1644358793'}, {'domain': '.autopumpkin.de', 'expiry': 1644430793, 'httpOnly': False, 'name': '_ym_isad', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '2'}, {'domain': '.autopumpkin.de', 'expiry': 1707430793, 'httpOnly': False, 'name': '_ga_68R8XNZJM1', 'path': '/', 'secure': False, 'value': 'GS1.1.1644358792.1.0.1644358792.60'}, {'domain': '.autopumpkin.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220208222000-xmEEenqedNsetkmbyLUBN8AO4ZGBctoQC1JC3nuDpsLLHV3Xa'}, {'domain': '.autopumpkin.de', 'expiry': 1644360592, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T22%3A19%3A52.406Z'}, {'domain': '.autopumpkin.de', 'expiry': 1644358852, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.autopumpkin.de', 'expiry': 1675894793, 'httpOnly': False, 'name': '_ym_uid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '164435879414817854'}, {'domain': '.autopumpkin.de', 'expiry': 1644445192, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.725089125.1644358793'}, {'domain': '.autopumpkin.de', 'expiry': 1644360592, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.autopumpkin.de', 'expiry': 1675894804, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7e3537c2-a037-4a87-85ed-ff5bd0a82a4c'}, {'domain': '.autopumpkin.de', 'expiry': 1645568389, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.autopumpkin.de', 'expiry': 1644360604, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b67fa613-27c8-4a00-b938-065f9bb154c6'}, {'domain': 'www.autopumpkin.de', 'expiry': 1675894804, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.autopumpkin.de', 'expiry': 1645568389, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.autopumpkin.de', 'expiry': 1707430804, 'httpOnly': False, 'name': '_ga_S8VXCC5E20', 'path': '/', 'secure': False, 'value': 'GS1.1.8c486a57-e731-4cb0-8471-4da547fa5b6c.1.0.1644358804.0'}, {'domain': 'www.autopumpkin.de', 'expiry': 1707430800, 'httpOnly': False, 'name': '_ama', 'path': '/', 'secure': False, 'value': '171150558.1644358793'}, {'domain': '.autopumpkin.de', 'expiry': 1644360604, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b67fa613-27c8-4a00-b938-065f9bb154c6'}, {'domain': '.autopumpkin.de', 'expiry': 1644360593, 'httpOnly': False, 'name': '_ym_visorc', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'w'}, {'domain': '.autopumpkin.de', 'expiry': 1675894804, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7e3537c2-a037-4a87-85ed-ff5bd0a82a4c'}, {'domain': '.autopumpkin.de', 'expiry': 1644360601, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'LUc381DxFUUv80-20220208222000'}, {'domain': '.autopumpkin.de', 'expiry': 1675894801, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'Jlt1lyFDnf9KEN-20220208222000'}, {'domain': '.autopumpkin.de', 'expiry': 1652134790, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.279385524.1644358791'}]
+[After] Cookie-Name 1: soundest-views
+[After] Cookie-Name 2: _ym_d
+[After] Cookie-Name 3: _fbp
+[After] Cookie-Name 4: _ga
+[After] Cookie-Name 5: _ym_isad
+[After] Cookie-Name 6: _ga_68R8XNZJM1
+[After] Cookie-Name 7: soundestID
+[After] Cookie-Name 8: _shopify_sa_t
+[After] Cookie-Name 9: _gat
+[After] Cookie-Name 10: _ym_uid
+[After] Cookie-Name 11: _gid
+[After] Cookie-Name 12: _shopify_sa_p
+[After] Cookie-Name 13: _shopify_y
+[After] Cookie-Name 14: _orig_referrer
+[After] Cookie-Name 15: _s
+[After] Cookie-Name 16: secure_customer_sig
+[After] Cookie-Name 17: _landing_page
+[After] Cookie-Name 18: _ga_S8VXCC5E20
+[After] Cookie-Name 19: _ama
+[After] Cookie-Name 20: _shopify_s
+[After] Cookie-Name 21: _ym_visorc
+[After] Cookie-Name 22: _y
+[After] Cookie-Name 23: omnisendSessionID
+[After] Cookie-Name 24: omnisendAnonymousID
+[After] Cookie-Name 25: _gcl_au
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

@@ -1,0 +1,117 @@
+Website 136: http://www.skinxpert.de/ | Created: 09.02.2022 17:46:53 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 40
+[Before] Website-Cookies: [{'domain': 'skinxpert.de', 'expiry': 1644425266, 'httpOnly': False, 'name': 'poptin_session_account_time_5632eb183d6e5', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '{"set_at":1644425206762,"expiry_at":1644425266762}'}, {'domain': 'skinxpert.de', 'expiry': 1644427006, 'httpOnly': False, 'name': 'poptin_session', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'true'}, {'domain': 'skinxpert.de', 'httpOnly': False, 'name': 'locale_bar_accepted', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.skinxpert.de', 'expiry': 1675961206, 'httpOnly': False, 'name': 'swym-cu_ct', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'undefined'}, {'domain': '.skinxpert.de', 'expiry': 1675961205, 'httpOnly': False, 'name': 'swym-swymRegid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"MD404TFYBE0I3YFZxdRn0dvckog_oTUtm4sPRb9NAUrAvLJkiVMfZFLOGaNkIbxYIF1TV7uQXlbtxsK7fH7x30lwVS_TYjTxsm4T5-xXIfzuQioez8xfPLB-WVMLcZjQ_eA4n199tI8J1XQvYJJc59jB1mwbZLj7_LLU98eFGf0"'}, {'domain': '.skinxpert.de', 'expiry': 1644427005, 'httpOnly': False, 'name': 'swym-o_s', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'true'}, {'domain': 'skinxpert.de', 'expiry': 1645634805, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': 'skinxpert.de', 'expiry': 1645634805, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3c2934d42eea6cf30768f708e037aa52'}, {'domain': '.skinxpert.de', 'expiry': 1675961205, 'httpOnly': False, 'name': 'swym-email', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'null'}, {'domain': 'skinxpert.de', 'expiry': 1645634805, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644425205'}, {'domain': '.skinxpert.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fad124ec-5b63-4b86-b53c-03cff7953084'}, {'domain': '.skinxpert.de', 'expiry': 1644427007, 'httpOnly': False, 'name': 'swym-session-id', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"qak6aeaoayfqkbvzx779xiq5y3f1cvoerzn3wr3ln1jnprt65e2i8uzh6mrijrh8"'}, {'domain': 'skinxpert.de', 'expiry': 1675961204, 'httpOnly': False, 'name': 'poptin_user_id', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0.e29qn5pfsge'}, {'domain': '.skinxpert.de', 'expiry': 1675961204, 'httpOnly': False, 'name': 'swym-pid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"s87GDFdLYjRRvKU/j8gh6+hpuidfNdQsVV01Hp66QZs="'}, {'domain': '.skinxpert.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.skinxpert.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T16%3A46%3A44.157Z'}, {'domain': 'skinxpert.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.skinxpert.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fad124ec-5b63-4b86-b53c-03cff7953084'}, {'domain': '.skinxpert.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T16%3A46%3A44.083Z'}, {'domain': '.skinxpert.de', 'expiry': 1675961203, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.skinxpert.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'skinxpert.de', 'expiry': 1645634805, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ebafe12eee3304d4eb2475206221c8c5'}, {'domain': '.skinxpert.de', 'expiry': 1645634803, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'skinxpert.de', 'expiry': 1675961206, 'httpOnly': False, 'name': 'poptin_user_country_code', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'false'}, {'domain': '.skinxpert.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '37389804-a32b-400e-b930-9e4661e1f939'}, {'domain': 'skinxpert.de', 'expiry': 1647017206, 'httpOnly': False, 'name': 'poptin_c_visitor', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'true'}, {'domain': '.skinxpert.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '37389804-a32b-400e-b930-9e4661e1f939'}, {'domain': '.skinxpert.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'skinxpert.de', 'expiry': 1647017206, 'httpOnly': False, 'name': 'poptin_session_account_5632eb183d6e5', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'true'}, {'domain': '.skinxpert.de', 'expiry': 1675961203, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': '.skinxpert.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'skinxpert.de', 'expiry': 1644427006, 'httpOnly': False, 'name': 'poptin_o_v_a16e96ab2ff23', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '60e2f763ed6fa'}, {'domain': 'skinxpert.de', 'expiry': 1675961206, 'httpOnly': False, 'name': 'poptin_user_ip', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '91.184.168.63'}, {'domain': 'skinxpert.de', 'expiry': 1645634806, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'skinxpert.de', 'expiry': 1644425325, 'httpOnly': False, 'name': 'poptin_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'skinxpert.de', 'expiry': 1675961206, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.skinxpert.de', 'expiry': 1660085206, 'httpOnly': False, 'name': 'sib_cuid', 'path': '/', 'secure': False, 'value': 'ea794032-b9df-4ed8-92ed-bf238ca1841d'}, {'domain': 'skinxpert.de', 'expiry': 1644598004, 'httpOnly': False, 'name': 'poptin_old_user', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'true'}, {'domain': 'skinxpert.de', 'expiry': 1645634806, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.skinxpert.de', 'expiry': 1644427006, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[Before] Cookie-Name 1: poptin_session_account_time_5632eb183d6e5
+[Before] Cookie-Name 2: poptin_session
+[Before] Cookie-Name 3: locale_bar_accepted
+[Before] Cookie-Name 4: swym-cu_ct
+[Before] Cookie-Name 5: swym-swymRegid
+[Before] Cookie-Name 6: swym-o_s
+[Before] Cookie-Name 7: cart_ver
+[Before] Cookie-Name 8: cart_sig
+[Before] Cookie-Name 9: swym-email
+[Before] Cookie-Name 10: cart_ts
+[Before] Cookie-Name 11: _shopify_y
+[Before] Cookie-Name 12: swym-session-id
+[Before] Cookie-Name 13: poptin_user_id
+[Before] Cookie-Name 14: swym-pid
+[Before] Cookie-Name 15: _shopify_sa_p
+[Before] Cookie-Name 16: _shopify_sa_t
+[Before] Cookie-Name 17: _shopify_evids
+[Before] Cookie-Name 18: _y
+[Before] Cookie-Name 19: _shopify_d
+[Before] Cookie-Name 20: _shopify_m
+[Before] Cookie-Name 21: _shopify_evids
+[Before] Cookie-Name 22: cart
+[Before] Cookie-Name 23: _shopify_tw
+[Before] Cookie-Name 24: poptin_user_country_code
+[Before] Cookie-Name 25: _shopify_s
+[Before] Cookie-Name 26: poptin_c_visitor
+[Before] Cookie-Name 27: _s
+[Before] Cookie-Name 28: _orig_referrer
+[Before] Cookie-Name 29: poptin_session_account_5632eb183d6e5
+[Before] Cookie-Name 30: _tracking_consent
+[Before] Cookie-Name 31: _landing_page
+[Before] Cookie-Name 32: poptin_o_v_a16e96ab2ff23
+[Before] Cookie-Name 33: poptin_user_ip
+[Before] Cookie-Name 34: localization
+[Before] Cookie-Name 35: poptin_referrer
+[Before] Cookie-Name 36: secure_customer_sig
+[Before] Cookie-Name 37: sib_cuid
+[Before] Cookie-Name 38: poptin_old_user
+[Before] Cookie-Name 39: cart_currency
+[Before] Cookie-Name 40: _shopify_tm
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 45
+[After] Website-Cookies: [{'domain': '.skinxpert.de', 'expiry': 1652201220, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644425219498.624661631'}, {'domain': '.skinxpert.de', 'expiry': 1707497219, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1652944988.1644425219'}, {'domain': '.skinxpert.de', 'expiry': 1675961219, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': '.skinxpert.de', 'expiry': 1644511619, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.2005253300.1644425219'}, {'domain': 'skinxpert.de', 'expiry': 1675961219, 'httpOnly': False, 'name': 'cookieconsent_status', 'path': '/', 'secure': True, 'value': 'dismiss'}, {'domain': 'skinxpert.de', 'expiry': 1644425266, 'httpOnly': False, 'name': 'poptin_session_account_time_5632eb183d6e5', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '{"set_at":1644425206762,"expiry_at":1644425266762}'}, {'domain': 'skinxpert.de', 'expiry': 1644427006, 'httpOnly': False, 'name': 'poptin_session', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'true'}, {'domain': '.skinxpert.de', 'expiry': 1675961219, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%221%22%7D%7D'}, {'domain': 'skinxpert.de', 'expiry': 1647017206, 'httpOnly': False, 'name': 'poptin_session_account_5632eb183d6e5', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'true'}, {'domain': 'skinxpert.de', 'httpOnly': False, 'name': 'locale_bar_accepted', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.skinxpert.de', 'expiry': 1675961206, 'httpOnly': False, 'name': 'swym-cu_ct', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'undefined'}, {'domain': '.skinxpert.de', 'expiry': 1675961205, 'httpOnly': False, 'name': 'swym-swymRegid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"MD404TFYBE0I3YFZxdRn0dvckog_oTUtm4sPRb9NAUrAvLJkiVMfZFLOGaNkIbxYIF1TV7uQXlbtxsK7fH7x30lwVS_TYjTxsm4T5-xXIfzuQioez8xfPLB-WVMLcZjQ_eA4n199tI8J1XQvYJJc59jB1mwbZLj7_LLU98eFGf0"'}, {'domain': '.skinxpert.de', 'expiry': 1644427005, 'httpOnly': False, 'name': 'swym-o_s', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'true'}, {'domain': 'skinxpert.de', 'expiry': 1645634805, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': 'skinxpert.de', 'expiry': 1645634819, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3c2934d42eea6cf30768f708e037aa52'}, {'domain': '.skinxpert.de', 'expiry': 1675961219, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fad124ec-5b63-4b86-b53c-03cff7953084'}, {'domain': '.skinxpert.de', 'expiry': 1644427019, 'httpOnly': False, 'name': 'swym-session-id', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"qak6aeaoayfqkbvzx779xiq5y3f1cvoerzn3wr3ln1jnprt65e2i8uzh6mrijrh8"'}, {'domain': 'skinxpert.de', 'expiry': 1675961204, 'httpOnly': False, 'name': 'poptin_user_id', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0.e29qn5pfsge'}, {'domain': '.skinxpert.de', 'expiry': 1675961204, 'httpOnly': False, 'name': 'swym-pid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"s87GDFdLYjRRvKU/j8gh6+hpuidfNdQsVV01Hp66QZs="'}, {'domain': '.skinxpert.de', 'expiry': 1644427019, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.skinxpert.de', 'expiry': 1644427019, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T16%3A46%3A44.157Z'}, {'domain': 'skinxpert.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.skinxpert.de', 'expiry': 1675961219, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fad124ec-5b63-4b86-b53c-03cff7953084'}, {'domain': '.skinxpert.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T16%3A46%3A44.083Z'}, {'domain': '.skinxpert.de', 'expiry': 1644425279, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.skinxpert.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'skinxpert.de', 'expiry': 1645634805, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ebafe12eee3304d4eb2475206221c8c5'}, {'domain': '.skinxpert.de', 'expiry': 1645634803, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'skinxpert.de', 'expiry': 1675961206, 'httpOnly': False, 'name': 'poptin_user_country_code', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'false'}, {'domain': '.skinxpert.de', 'expiry': 1644427019, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '37389804-a32b-400e-b930-9e4661e1f939'}, {'domain': 'skinxpert.de', 'expiry': 1647017206, 'httpOnly': False, 'name': 'poptin_c_visitor', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'true'}, {'domain': '.skinxpert.de', 'expiry': 1644427019, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '37389804-a32b-400e-b930-9e4661e1f939'}, {'domain': '.skinxpert.de', 'expiry': 1645634819, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'skinxpert.de', 'expiry': 1644427006, 'httpOnly': False, 'name': 'poptin_o_v_a16e96ab2ff23', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '60e2f763ed6fa'}, {'domain': 'skinxpert.de', 'expiry': 1675961206, 'httpOnly': False, 'name': 'poptin_user_ip', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '91.184.168.63'}, {'domain': 'skinxpert.de', 'expiry': 1645634819, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'skinxpert.de', 'expiry': 1644425325, 'httpOnly': False, 'name': 'poptin_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'skinxpert.de', 'expiry': 1675961219, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.skinxpert.de', 'expiry': 1660085206, 'httpOnly': False, 'name': 'sib_cuid', 'path': '/', 'secure': False, 'value': 'ea794032-b9df-4ed8-92ed-bf238ca1841d'}, {'domain': 'skinxpert.de', 'expiry': 1644598004, 'httpOnly': False, 'name': 'poptin_old_user', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'true'}, {'domain': 'skinxpert.de', 'expiry': 1645634819, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.skinxpert.de', 'expiry': 1675961205, 'httpOnly': False, 'name': 'swym-email', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'null'}, {'domain': 'skinxpert.de', 'expiry': 1645634805, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644425205'}, {'domain': '.skinxpert.de', 'expiry': 1644427019, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.skinxpert.de', 'expiry': 1645634819, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: _fbp
+[After] Cookie-Name 2: _ga
+[After] Cookie-Name 3: _shopify_m
+[After] Cookie-Name 4: _gid
+[After] Cookie-Name 5: cookieconsent_status
+[After] Cookie-Name 6: poptin_session_account_time_5632eb183d6e5
+[After] Cookie-Name 7: poptin_session
+[After] Cookie-Name 8: _tracking_consent
+[After] Cookie-Name 9: poptin_session_account_5632eb183d6e5
+[After] Cookie-Name 10: locale_bar_accepted
+[After] Cookie-Name 11: swym-cu_ct
+[After] Cookie-Name 12: swym-swymRegid
+[After] Cookie-Name 13: swym-o_s
+[After] Cookie-Name 14: cart_ver
+[After] Cookie-Name 15: cart_sig
+[After] Cookie-Name 16: _shopify_y
+[After] Cookie-Name 17: swym-session-id
+[After] Cookie-Name 18: poptin_user_id
+[After] Cookie-Name 19: swym-pid
+[After] Cookie-Name 20: _shopify_sa_p
+[After] Cookie-Name 21: _shopify_sa_t
+[After] Cookie-Name 22: _shopify_evids
+[After] Cookie-Name 23: _y
+[After] Cookie-Name 24: _shopify_d
+[After] Cookie-Name 25: _gat
+[After] Cookie-Name 26: _shopify_evids
+[After] Cookie-Name 27: cart
+[After] Cookie-Name 28: _shopify_tw
+[After] Cookie-Name 29: poptin_user_country_code
+[After] Cookie-Name 30: _shopify_s
+[After] Cookie-Name 31: poptin_c_visitor
+[After] Cookie-Name 32: _s
+[After] Cookie-Name 33: _landing_page
+[After] Cookie-Name 34: poptin_o_v_a16e96ab2ff23
+[After] Cookie-Name 35: poptin_user_ip
+[After] Cookie-Name 36: localization
+[After] Cookie-Name 37: poptin_referrer
+[After] Cookie-Name 38: secure_customer_sig
+[After] Cookie-Name 39: sib_cuid
+[After] Cookie-Name 40: poptin_old_user
+[After] Cookie-Name 41: cart_currency
+[After] Cookie-Name 42: swym-email
+[After] Cookie-Name 43: cart_ts
+[After] Cookie-Name 44: _shopify_tm
+[After] Cookie-Name 45: _orig_referrer
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 5
+[Difference] Cookie-Name: 1: _gat
+[Difference] Cookie-Name: 2: _ga
+[Difference] Cookie-Name: 3: cookieconsent_status
+[Difference] Cookie-Name: 4: _gid
+[Difference] Cookie-Name: 5: _fbp
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

@@ -1,0 +1,88 @@
+Website 22: http://www.magazin-romanesc.de/ | Created: 09.02.2022 13:49:39 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 27
+[Before] Website-Cookies: [{'domain': '.delumani.de', 'expiry': 1707482969, 'httpOnly': False, 'name': 'lo-uid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': '11e7eb8e-1644410969127-8f2df6107fbb6db9'}, {'domain': '.delumani.de', 'httpOnly': False, 'name': 'soundest-views', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'delumani.de', 'expiry': 1675946968, 'httpOnly': False, 'name': 'po_visitor', 'path': '/', 'secure': False, 'value': 'hT9SHh8GTcPQ'}, {'domain': '.delumani.de', 'expiry': 1675946969, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'VL1ROodDhdkFWE-20220209124928'}, {'domain': '.delumani.de', 'expiry': 1644497367, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1297206571.1644410968'}, {'domain': '.delumani.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220209124928-2fEH5bXNg8eLmH30QdG1qCHd9UzdHRjTBzO9eUBg6OUVvz4t7'}, {'domain': '.delumani.de', 'expiry': 1707482967, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.2086830865.1644410966'}, {'domain': '.delumani.de', 'expiry': 1644412774, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'aed99fa4-1e6e-483e-b028-c06c8afadfe7'}, {'domain': '.delumani.de', 'expiry': 1644412767, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.delumani.de', 'expiry': 1644412774, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'aed99fa4-1e6e-483e-b028-c06c8afadfe7'}, {'domain': '.delumani.de', 'expiry': 1644412767, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T12%3A49%3A27.709Z'}, {'domain': '.delumani.de', 'expiry': 1652186969, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644410967892.1334388060'}, {'domain': '.delumani.de', 'expiry': 1644411027, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.delumani.de', 'expiry': 1675946974, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'dd8555fc-a378-4fc9-8360-166dcb9a5893'}, {'domain': '.delumani.de', 'expiry': 1707482967, 'httpOnly': False, 'name': '_ga_3X29Z8C2MD', 'path': '/', 'secure': False, 'value': 'GS1.1.1644410966.1.1.1644410967.59'}, {'domain': '.delumani.de', 'expiry': 1645620566, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'delumani.de', 'expiry': 1644412168, 'httpOnly': False, 'name': '_omappvs', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '1644410968602'}, {'domain': '.delumani.de', 'expiry': 1675946974, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'dd8555fc-a378-4fc9-8360-166dcb9a5893'}, {'domain': 'delumani.de', 'expiry': 1675946973, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'delumani.de', 'expiry': 1989924568, 'httpOnly': False, 'name': '_omappvp', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'zAWYYDlHFyNV3RMuJnFtqg6Fim8uzFwCePeevcQhj4qKJlEtJiAE1HdYUpTvBrPTTcc7VzVqnbZiEHtcQDRrNT3eL5gflgwa'}, {'domain': '.delumani.de', 'expiry': 1645620566, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'delumani.de', 'expiry': 1645620568, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'delumani.de', 'expiry': 1645620573, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.delumani.de', 'expiry': 1644412769, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'UN5lrczMyjS9r8-20220209124928'}, {'domain': 'delumani.de', 'expiry': 1644414567, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.delumani.de', 'expiry': 1707482969, 'httpOnly': False, 'name': 'lo-visits', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': '1'}, {'domain': '.delumani.de', 'expiry': 1652186967, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1710077128.1644410968'}]
+[Before] Cookie-Name 1: lo-uid
+[Before] Cookie-Name 2: soundest-views
+[Before] Cookie-Name 3: po_visitor
+[Before] Cookie-Name 4: omnisendAnonymousID
+[Before] Cookie-Name 5: _gid
+[Before] Cookie-Name 6: soundestID
+[Before] Cookie-Name 7: _ga
+[Before] Cookie-Name 8: _s
+[Before] Cookie-Name 9: _shopify_sa_p
+[Before] Cookie-Name 10: _shopify_s
+[Before] Cookie-Name 11: _shopify_sa_t
+[Before] Cookie-Name 12: _fbp
+[Before] Cookie-Name 13: _gat
+[Before] Cookie-Name 14: _shopify_y
+[Before] Cookie-Name 15: _ga_3X29Z8C2MD
+[Before] Cookie-Name 16: _landing_page
+[Before] Cookie-Name 17: _omappvs
+[Before] Cookie-Name 18: _y
+[Before] Cookie-Name 19: secure_customer_sig
+[Before] Cookie-Name 20: _omappvp
+[Before] Cookie-Name 21: _orig_referrer
+[Before] Cookie-Name 22: cart_currency
+[Before] Cookie-Name 23: localization
+[Before] Cookie-Name 24: omnisendSessionID
+[Before] Cookie-Name 25: shopify_pay_redirect
+[Before] Cookie-Name 26: lo-visits
+[Before] Cookie-Name 27: _gcl_au
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 27
+[After] Website-Cookies: [{'domain': '.delumani.de', 'expiry': 1707482969, 'httpOnly': False, 'name': 'lo-uid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': '11e7eb8e-1644410969127-8f2df6107fbb6db9'}, {'domain': '.delumani.de', 'httpOnly': False, 'name': 'soundest-views', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'delumani.de', 'expiry': 1675946968, 'httpOnly': False, 'name': 'po_visitor', 'path': '/', 'secure': False, 'value': 'hT9SHh8GTcPQ'}, {'domain': '.delumani.de', 'expiry': 1675946969, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'VL1ROodDhdkFWE-20220209124928'}, {'domain': '.delumani.de', 'expiry': 1644497367, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1297206571.1644410968'}, {'domain': '.delumani.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220209124928-2fEH5bXNg8eLmH30QdG1qCHd9UzdHRjTBzO9eUBg6OUVvz4t7'}, {'domain': '.delumani.de', 'expiry': 1707482967, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.2086830865.1644410966'}, {'domain': '.delumani.de', 'expiry': 1644412774, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'aed99fa4-1e6e-483e-b028-c06c8afadfe7'}, {'domain': '.delumani.de', 'expiry': 1644412767, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.delumani.de', 'expiry': 1644412774, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'aed99fa4-1e6e-483e-b028-c06c8afadfe7'}, {'domain': '.delumani.de', 'expiry': 1644412767, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T12%3A49%3A27.709Z'}, {'domain': '.delumani.de', 'expiry': 1652186969, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644410967892.1334388060'}, {'domain': '.delumani.de', 'expiry': 1644411027, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.delumani.de', 'expiry': 1675946974, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'dd8555fc-a378-4fc9-8360-166dcb9a5893'}, {'domain': '.delumani.de', 'expiry': 1707482967, 'httpOnly': False, 'name': '_ga_3X29Z8C2MD', 'path': '/', 'secure': False, 'value': 'GS1.1.1644410966.1.1.1644410967.59'}, {'domain': '.delumani.de', 'expiry': 1645620566, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'delumani.de', 'expiry': 1644412168, 'httpOnly': False, 'name': '_omappvs', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '1644410968602'}, {'domain': '.delumani.de', 'expiry': 1675946974, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'dd8555fc-a378-4fc9-8360-166dcb9a5893'}, {'domain': 'delumani.de', 'expiry': 1675946973, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'delumani.de', 'expiry': 1989924568, 'httpOnly': False, 'name': '_omappvp', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'zAWYYDlHFyNV3RMuJnFtqg6Fim8uzFwCePeevcQhj4qKJlEtJiAE1HdYUpTvBrPTTcc7VzVqnbZiEHtcQDRrNT3eL5gflgwa'}, {'domain': '.delumani.de', 'expiry': 1645620566, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'delumani.de', 'expiry': 1645620568, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'delumani.de', 'expiry': 1645620573, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.delumani.de', 'expiry': 1644412769, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'UN5lrczMyjS9r8-20220209124928'}, {'domain': 'delumani.de', 'expiry': 1644414567, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.delumani.de', 'expiry': 1707482969, 'httpOnly': False, 'name': 'lo-visits', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': '1'}, {'domain': '.delumani.de', 'expiry': 1652186967, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1710077128.1644410968'}]
+[After] Cookie-Name 1: lo-uid
+[After] Cookie-Name 2: soundest-views
+[After] Cookie-Name 3: po_visitor
+[After] Cookie-Name 4: omnisendAnonymousID
+[After] Cookie-Name 5: _gid
+[After] Cookie-Name 6: soundestID
+[After] Cookie-Name 7: _ga
+[After] Cookie-Name 8: _s
+[After] Cookie-Name 9: _shopify_sa_p
+[After] Cookie-Name 10: _shopify_s
+[After] Cookie-Name 11: _shopify_sa_t
+[After] Cookie-Name 12: _fbp
+[After] Cookie-Name 13: _gat
+[After] Cookie-Name 14: _shopify_y
+[After] Cookie-Name 15: _ga_3X29Z8C2MD
+[After] Cookie-Name 16: _landing_page
+[After] Cookie-Name 17: _omappvs
+[After] Cookie-Name 18: _y
+[After] Cookie-Name 19: secure_customer_sig
+[After] Cookie-Name 20: _omappvp
+[After] Cookie-Name 21: _orig_referrer
+[After] Cookie-Name 22: cart_currency
+[After] Cookie-Name 23: localization
+[After] Cookie-Name 24: omnisendSessionID
+[After] Cookie-Name 25: shopify_pay_redirect
+[After] Cookie-Name 26: lo-visits
+[After] Cookie-Name 27: _gcl_au
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

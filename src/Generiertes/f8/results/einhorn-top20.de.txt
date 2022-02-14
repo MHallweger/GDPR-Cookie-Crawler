@@ -1,0 +1,60 @@
+Website 85: http://www.einhorn-top20.de/ | Created: 10.02.2022 20:22:56 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 15
+[Before] Website-Cookies: [{'domain': '.einhorn-koenigreich.de', 'expiry': 1644522768, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.einhorn-koenigreich.de', 'expiry': 1644522768, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '46cab1bd-f352-44b1-ab10-0215d7069084'}, {'domain': '.einhorn-koenigreich.de', 'expiry': 1644607368, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.2043383189.1644520968'}, {'domain': '.einhorn-koenigreich.de', 'expiry': 1644521028, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.einhorn-koenigreich.de', 'expiry': 1644522768, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '46cab1bd-f352-44b1-ab10-0215d7069084'}, {'domain': '.einhorn-koenigreich.de', 'expiry': 1676056968, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '09efed9f-cc12-4fc4-8725-4e2fedd77a8e'}, {'domain': 'einhorn-koenigreich.de', 'expiry': 1645730568, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.einhorn-koenigreich.de', 'expiry': 1676056968, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '09efed9f-cc12-4fc4-8725-4e2fedd77a8e'}, {'domain': '.einhorn-koenigreich.de', 'expiry': 1645730568, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2Fpassword'}, {'domain': '.einhorn-koenigreich.de', 'expiry': 1644522768, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T19%3A22%3A48.312Z'}, {'domain': '.einhorn-koenigreich.de', 'expiry': 1707592968, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1293032002.1644520968'}, {'domain': 'einhorn-koenigreich.de', 'expiry': 1645730568, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': 'einhorn-koenigreich.de', 'expiry': 1707592968, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ1MjA5NjksInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vZWluaG9ybi1rb2VuaWdyZWljaC5kZS9wYXNzd29yZCJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDUyMDk2OSwidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly9laW5ob3JuLWtvZW5pZ3JlaWNoLmRlL3Bhc3N3b3JkIn19'}, {'domain': '.einhorn-koenigreich.de', 'expiry': 1645730568, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'einhorn-koenigreich.de', 'expiry': 1676056968, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _shopify_sa_p
+[Before] Cookie-Name 2: _s
+[Before] Cookie-Name 3: _gid
+[Before] Cookie-Name 4: _gat
+[Before] Cookie-Name 5: _shopify_s
+[Before] Cookie-Name 6: _y
+[Before] Cookie-Name 7: cart_currency
+[Before] Cookie-Name 8: _shopify_y
+[Before] Cookie-Name 9: _landing_page
+[Before] Cookie-Name 10: _shopify_sa_t
+[Before] Cookie-Name 11: _ga
+[Before] Cookie-Name 12: localization
+[Before] Cookie-Name 13: __kla_id
+[Before] Cookie-Name 14: _orig_referrer
+[Before] Cookie-Name 15: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 15
+[After] Website-Cookies: [{'domain': '.einhorn-koenigreich.de', 'expiry': 1644522768, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.einhorn-koenigreich.de', 'expiry': 1644522768, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '46cab1bd-f352-44b1-ab10-0215d7069084'}, {'domain': '.einhorn-koenigreich.de', 'expiry': 1644607368, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.2043383189.1644520968'}, {'domain': '.einhorn-koenigreich.de', 'expiry': 1644521028, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.einhorn-koenigreich.de', 'expiry': 1644522768, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '46cab1bd-f352-44b1-ab10-0215d7069084'}, {'domain': '.einhorn-koenigreich.de', 'expiry': 1676056968, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '09efed9f-cc12-4fc4-8725-4e2fedd77a8e'}, {'domain': 'einhorn-koenigreich.de', 'expiry': 1645730568, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.einhorn-koenigreich.de', 'expiry': 1676056968, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '09efed9f-cc12-4fc4-8725-4e2fedd77a8e'}, {'domain': '.einhorn-koenigreich.de', 'expiry': 1645730568, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2Fpassword'}, {'domain': '.einhorn-koenigreich.de', 'expiry': 1644522768, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T19%3A22%3A48.312Z'}, {'domain': '.einhorn-koenigreich.de', 'expiry': 1707592968, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1293032002.1644520968'}, {'domain': 'einhorn-koenigreich.de', 'expiry': 1645730568, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': 'einhorn-koenigreich.de', 'expiry': 1707592968, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ1MjA5NjksInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vZWluaG9ybi1rb2VuaWdyZWljaC5kZS9wYXNzd29yZCJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDUyMDk2OSwidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly9laW5ob3JuLWtvZW5pZ3JlaWNoLmRlL3Bhc3N3b3JkIn19'}, {'domain': '.einhorn-koenigreich.de', 'expiry': 1645730568, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'einhorn-koenigreich.de', 'expiry': 1676056968, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _shopify_sa_p
+[After] Cookie-Name 2: _s
+[After] Cookie-Name 3: _gid
+[After] Cookie-Name 4: _gat
+[After] Cookie-Name 5: _shopify_s
+[After] Cookie-Name 6: _y
+[After] Cookie-Name 7: cart_currency
+[After] Cookie-Name 8: _shopify_y
+[After] Cookie-Name 9: _landing_page
+[After] Cookie-Name 10: _shopify_sa_t
+[After] Cookie-Name 11: _ga
+[After] Cookie-Name 12: localization
+[After] Cookie-Name 13: __kla_id
+[After] Cookie-Name 14: _orig_referrer
+[After] Cookie-Name 15: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

@@ -1,0 +1,82 @@
+Website 328: http://www.elho.de/ | Created: 09.02.2022 18:50:30 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 24
+[Before] Website-Cookies: [{'domain': '.elho.de', 'expiry': 1644430820, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6a4e46a6-19bf-416a-bc41-a4d8c0afd5ed'}, {'domain': 'elho.de', 'expiry': 1645638620, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A2'}, {'domain': '.elho.de', 'expiry': 1644430820, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A50%3A20.248Z'}, {'domain': 'elho.de', 'expiry': 1645638620, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6558cf4dc644202b57744c41d24a6c0e'}, {'domain': '.elho.de', 'expiry': 1644429080, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.elho.de', 'expiry': 1652205020, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644429020429.579512797'}, {'domain': '.elho.de', 'expiry': 1644515420, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1550549560.1644429020'}, {'domain': 'elho.de', 'expiry': 1644432620, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.elho.de', 'expiry': 1645638619, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.elho.de', 'expiry': 1652205020, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.46353694.1644429020'}, {'domain': '.elho.de', 'expiry': 1644430820, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.elho.de', 'expiry': 1675965020, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7bec305e-177a-4c4c-92a9-f5a3ad05cb0b'}, {'domain': 'elho.de', 'expiry': 1707501021, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MjkwMjEsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vZWxoby5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQ0MjkwMjEsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vZWxoby5kZS8ifX0='}, {'domain': '.elho.de', 'expiry': 1675965020, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7bec305e-177a-4c4c-92a9-f5a3ad05cb0b'}, {'domain': 'elho.de', 'expiry': 1645638620, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ce52707f8770baa7bfe7cb0592f90fd1'}, {'domain': '.elho.de', 'expiry': 1644430820, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6a4e46a6-19bf-416a-bc41-a4d8c0afd5ed'}, {'domain': '.elho.de', 'expiry': 1645638619, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.elho.de', 'expiry': 1675965020, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU1EVXlOalExWmpndE9EWXhZeTAwTTJNM0xXSXpPR010WkdGbE1URTVNelF3WXpBdw'}, {'domain': 'elho.de', 'expiry': 1645638620, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'elho.de', 'expiry': 1675965022, 'httpOnly': False, 'name': '_pandectes_gdpr', 'path': '/', 'secure': True, 'value': 'eyJzdGF0dXMiOiIiLCJ0aW1lc3RhbXAiOm51bGwsInByZWZlcmVuY2VzIjpudWxsfQ=='}, {'domain': 'elho.de', 'expiry': 1645638620, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644429020'}, {'domain': 'elho.de', 'expiry': 1645638620, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.elho.de', 'expiry': 1707501020, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1430730823.1644429020'}, {'domain': 'elho.de', 'expiry': 1675965020, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _s
+[Before] Cookie-Name 2: cart_ver
+[Before] Cookie-Name 3: _shopify_sa_t
+[Before] Cookie-Name 4: cart_sig
+[Before] Cookie-Name 5: _gat
+[Before] Cookie-Name 6: _fbp
+[Before] Cookie-Name 7: _gid
+[Before] Cookie-Name 8: shopify_pay_redirect
+[Before] Cookie-Name 9: _orig_referrer
+[Before] Cookie-Name 10: _gcl_au
+[Before] Cookie-Name 11: _shopify_sa_p
+[Before] Cookie-Name 12: _shopify_y
+[Before] Cookie-Name 13: __kla_id
+[Before] Cookie-Name 14: _y
+[Before] Cookie-Name 15: cart
+[Before] Cookie-Name 16: _shopify_s
+[Before] Cookie-Name 17: _landing_page
+[Before] Cookie-Name 18: _pin_unauth
+[Before] Cookie-Name 19: cart_currency
+[Before] Cookie-Name 20: _pandectes_gdpr
+[Before] Cookie-Name 21: cart_ts
+[Before] Cookie-Name 22: localization
+[Before] Cookie-Name 23: _ga
+[Before] Cookie-Name 24: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 24
+[After] Website-Cookies: [{'domain': '.elho.de', 'expiry': 1644430820, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6a4e46a6-19bf-416a-bc41-a4d8c0afd5ed'}, {'domain': 'elho.de', 'expiry': 1645638620, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A2'}, {'domain': '.elho.de', 'expiry': 1644430820, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A50%3A20.248Z'}, {'domain': 'elho.de', 'expiry': 1645638620, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6558cf4dc644202b57744c41d24a6c0e'}, {'domain': '.elho.de', 'expiry': 1644429080, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.elho.de', 'expiry': 1652205036, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644429020429.579512797'}, {'domain': '.elho.de', 'expiry': 1644515420, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1550549560.1644429020'}, {'domain': 'elho.de', 'expiry': 1644432620, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.elho.de', 'expiry': 1645638619, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.elho.de', 'expiry': 1652205020, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.46353694.1644429020'}, {'domain': '.elho.de', 'expiry': 1644430820, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.elho.de', 'expiry': 1675965020, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7bec305e-177a-4c4c-92a9-f5a3ad05cb0b'}, {'domain': 'elho.de', 'expiry': 1707501021, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MjkwMjEsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vZWxoby5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQ0MjkwMjEsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vZWxoby5kZS8ifX0='}, {'domain': '.elho.de', 'expiry': 1675965020, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7bec305e-177a-4c4c-92a9-f5a3ad05cb0b'}, {'domain': 'elho.de', 'expiry': 1645638620, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ce52707f8770baa7bfe7cb0592f90fd1'}, {'domain': '.elho.de', 'expiry': 1644430820, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6a4e46a6-19bf-416a-bc41-a4d8c0afd5ed'}, {'domain': '.elho.de', 'expiry': 1645638619, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.elho.de', 'expiry': 1675965020, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU1EVXlOalExWmpndE9EWXhZeTAwTTJNM0xXSXpPR010WkdGbE1URTVNelF3WXpBdw'}, {'domain': 'elho.de', 'expiry': 1645638620, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'elho.de', 'expiry': 1675965036, 'httpOnly': False, 'name': '_pandectes_gdpr', 'path': '/', 'secure': True, 'value': 'eyJzdGF0dXMiOiJhbGxvdyIsInRpbWVzdGFtcCI6MTY0NDQyOTAzNiwicHJlZmVyZW5jZXMiOjB9'}, {'domain': 'elho.de', 'expiry': 1645638620, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644429020'}, {'domain': 'elho.de', 'expiry': 1645638620, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.elho.de', 'expiry': 1707501020, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1430730823.1644429020'}, {'domain': 'elho.de', 'expiry': 1675965020, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _s
+[After] Cookie-Name 2: cart_ver
+[After] Cookie-Name 3: _shopify_sa_t
+[After] Cookie-Name 4: cart_sig
+[After] Cookie-Name 5: _gat
+[After] Cookie-Name 6: _fbp
+[After] Cookie-Name 7: _gid
+[After] Cookie-Name 8: shopify_pay_redirect
+[After] Cookie-Name 9: _orig_referrer
+[After] Cookie-Name 10: _gcl_au
+[After] Cookie-Name 11: _shopify_sa_p
+[After] Cookie-Name 12: _shopify_y
+[After] Cookie-Name 13: __kla_id
+[After] Cookie-Name 14: _y
+[After] Cookie-Name 15: cart
+[After] Cookie-Name 16: _shopify_s
+[After] Cookie-Name 17: _landing_page
+[After] Cookie-Name 18: _pin_unauth
+[After] Cookie-Name 19: cart_currency
+[After] Cookie-Name 20: _pandectes_gdpr
+[After] Cookie-Name 21: cart_ts
+[After] Cookie-Name 22: localization
+[After] Cookie-Name 23: _ga
+[After] Cookie-Name 24: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

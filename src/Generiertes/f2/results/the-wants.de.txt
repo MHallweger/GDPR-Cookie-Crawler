@@ -1,0 +1,90 @@
+Website 28: http://www.the-wants.de/ | Created: 09.02.2022 10:54:14 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 25
+[Before] Website-Cookies: [{'domain': 'the-wants.com', 'expiry': 1644400564, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.the-wants.com', 'expiry': 1644402244, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.the-wants.com', 'expiry': 1675936444, 'httpOnly': False, 'name': '_hjSessionUser_1351500', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjFiZDk1NjNlLTgxYWEtNTU5MS1hZjM1LWZjNjIzNDIyYTZjNSIsImNyZWF0ZWQiOjE2NDQ0MDA0NDQyNzEsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': 'the-wants.com', 'expiry': 1644404044, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'the-wants.com', 'expiry': 1675936445, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.the-wants.com', 'expiry': 1644402244, 'httpOnly': False, 'name': '_hjSession_1351500', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjJkODRkZDM5LTI1MzgtNGRjYy05MmMyLWM5NzU5NWRhOTA3NCIsImNyZWF0ZWQiOjE2NDQ0MDA0NDQ5NTksImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': '.the-wants.com', 'expiry': 1707472444, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1163874781.1644400444'}, {'domain': '.the-wants.com', 'expiry': 1652176444, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644400444426.1581609709'}, {'domain': '.the-wants.com', 'expiry': 1675936444, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU9HWTFPRFJqWTJFdE5EQTRNQzAwWW1ZeExUZzJNV1V0TmpRNVl6azJNVEV4TWpCaA'}, {'domain': '.the-wants.com', 'expiry': 1644400504, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.the-wants.com', 'expiry': 1644486844, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.519610203.1644400444'}, {'domain': '.the-wants.com', 'expiry': 1652176444, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1995564238.1644400444'}, {'domain': '.the-wants.com', 'expiry': 1644402244, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T09%3A54%3A04.130Z'}, {'domain': 'the-wants.com', 'expiry': 1645610045, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': 'the-wants.com', 'expiry': 1644400564, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.the-wants.com', 'expiry': 1644402244, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.the-wants.com', 'expiry': 1644402245, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3121d038-908e-4849-8573-d72b0ff0ba17'}, {'domain': '.the-wants.com', 'expiry': 1645610043, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.the-wants.com', 'expiry': 1644402245, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3121d038-908e-4849-8573-d72b0ff0ba17'}, {'domain': '.the-wants.com', 'expiry': 1675936445, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '65f06adb-df88-4874-a128-64798a25ab0e'}, {'domain': '.the-wants.com', 'expiry': 1644402244, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.the-wants.com', 'expiry': 1675936445, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '65f06adb-df88-4874-a128-64798a25ab0e'}, {'domain': 'the-wants.com', 'expiry': 1707472444, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MDA0NDUsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vdGhlLXdhbnRzLmNvbS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQ0MDA0NDUsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vdGhlLXdhbnRzLmNvbS8ifX0='}, {'domain': 'the-wants.com', 'expiry': 1645610045, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': '.the-wants.com', 'expiry': 1645610043, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[Before] Cookie-Name 1: _hjIncludedInPageviewSample
+[Before] Cookie-Name 2: _hjFirstSeen
+[Before] Cookie-Name 3: _hjSessionUser_1351500
+[Before] Cookie-Name 4: shopify_pay_redirect
+[Before] Cookie-Name 5: secure_customer_sig
+[Before] Cookie-Name 6: _hjSession_1351500
+[Before] Cookie-Name 7: _ga
+[Before] Cookie-Name 8: _fbp
+[Before] Cookie-Name 9: _pin_unauth
+[Before] Cookie-Name 10: _gat
+[Before] Cookie-Name 11: _gid
+[Before] Cookie-Name 12: _gcl_au
+[Before] Cookie-Name 13: _shopify_sa_t
+[Before] Cookie-Name 14: cart_currency
+[Before] Cookie-Name 15: _hjIncludedInSessionSample
+[Before] Cookie-Name 16: _shopify_sa_p
+[Before] Cookie-Name 17: _shopify_s
+[Before] Cookie-Name 18: _landing_page
+[Before] Cookie-Name 19: _s
+[Before] Cookie-Name 20: _y
+[Before] Cookie-Name 21: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 22: _shopify_y
+[Before] Cookie-Name 23: __kla_id
+[Before] Cookie-Name 24: localization
+[Before] Cookie-Name 25: _orig_referrer
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 25
+[After] Website-Cookies: [{'domain': 'the-wants.com', 'expiry': 1644400564, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.the-wants.com', 'expiry': 1644402244, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.the-wants.com', 'expiry': 1675936444, 'httpOnly': False, 'name': '_hjSessionUser_1351500', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjFiZDk1NjNlLTgxYWEtNTU5MS1hZjM1LWZjNjIzNDIyYTZjNSIsImNyZWF0ZWQiOjE2NDQ0MDA0NDQyNzEsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': 'the-wants.com', 'expiry': 1644404044, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'the-wants.com', 'expiry': 1675936445, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.the-wants.com', 'expiry': 1644402244, 'httpOnly': False, 'name': '_hjSession_1351500', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjJkODRkZDM5LTI1MzgtNGRjYy05MmMyLWM5NzU5NWRhOTA3NCIsImNyZWF0ZWQiOjE2NDQ0MDA0NDQ5NTksImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': '.the-wants.com', 'expiry': 1707472444, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1163874781.1644400444'}, {'domain': '.the-wants.com', 'expiry': 1652176444, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644400444426.1581609709'}, {'domain': '.the-wants.com', 'expiry': 1675936444, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU9HWTFPRFJqWTJFdE5EQTRNQzAwWW1ZeExUZzJNV1V0TmpRNVl6azJNVEV4TWpCaA'}, {'domain': '.the-wants.com', 'expiry': 1644400504, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.the-wants.com', 'expiry': 1644486844, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.519610203.1644400444'}, {'domain': '.the-wants.com', 'expiry': 1652176444, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1995564238.1644400444'}, {'domain': '.the-wants.com', 'expiry': 1644402244, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T09%3A54%3A04.130Z'}, {'domain': 'the-wants.com', 'expiry': 1645610045, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': 'the-wants.com', 'expiry': 1644400564, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.the-wants.com', 'expiry': 1644402244, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.the-wants.com', 'expiry': 1644402245, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3121d038-908e-4849-8573-d72b0ff0ba17'}, {'domain': '.the-wants.com', 'expiry': 1645610043, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.the-wants.com', 'expiry': 1644402245, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3121d038-908e-4849-8573-d72b0ff0ba17'}, {'domain': '.the-wants.com', 'expiry': 1675936445, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '65f06adb-df88-4874-a128-64798a25ab0e'}, {'domain': '.the-wants.com', 'expiry': 1644402244, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.the-wants.com', 'expiry': 1675936445, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '65f06adb-df88-4874-a128-64798a25ab0e'}, {'domain': 'the-wants.com', 'expiry': 1707472444, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MDA0NDUsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vdGhlLXdhbnRzLmNvbS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQ0MDA0NDUsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vdGhlLXdhbnRzLmNvbS8ifX0='}, {'domain': 'the-wants.com', 'expiry': 1645610045, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': '.the-wants.com', 'expiry': 1645610043, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: _hjIncludedInPageviewSample
+[After] Cookie-Name 2: _hjFirstSeen
+[After] Cookie-Name 3: _hjSessionUser_1351500
+[After] Cookie-Name 4: shopify_pay_redirect
+[After] Cookie-Name 5: secure_customer_sig
+[After] Cookie-Name 6: _hjSession_1351500
+[After] Cookie-Name 7: _ga
+[After] Cookie-Name 8: _fbp
+[After] Cookie-Name 9: _pin_unauth
+[After] Cookie-Name 10: _gat
+[After] Cookie-Name 11: _gid
+[After] Cookie-Name 12: _gcl_au
+[After] Cookie-Name 13: _shopify_sa_t
+[After] Cookie-Name 14: cart_currency
+[After] Cookie-Name 15: _hjIncludedInSessionSample
+[After] Cookie-Name 16: _shopify_sa_p
+[After] Cookie-Name 17: _shopify_s
+[After] Cookie-Name 18: _landing_page
+[After] Cookie-Name 19: _s
+[After] Cookie-Name 20: _y
+[After] Cookie-Name 21: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 22: _shopify_y
+[After] Cookie-Name 23: __kla_id
+[After] Cookie-Name 24: localization
+[After] Cookie-Name 25: _orig_referrer
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _hjIncludedInPageviewSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _hjIncludedInSessionSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

@@ -1,0 +1,77 @@
+Website 148: http://www.beautygetjoy.de/ | Created: 09.02.2022 20:19:38 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 8
+[Before] Website-Cookies: [{'domain': 'www.beautygetjoy.de', 'expiry': 1645643967, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f175b272f582f1a3003057fa5402a05e'}, {'domain': '.beautygetjoy.de', 'expiry': 1645643967, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.beautygetjoy.de', 'expiry': 1645643967, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.beautygetjoy.de', 'expiry': 1645643967, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': 'www.beautygetjoy.de', 'expiry': 1645643978, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.beautygetjoy.de', 'expiry': 1645643967, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4831e71fab3f30a7a3d5b2223c0f719a'}, {'domain': 'www.beautygetjoy.de', 'expiry': 1645643967, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644434368'}, {'domain': 'www.beautygetjoy.de', 'expiry': 1675970378, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: cart_sig
+[Before] Cookie-Name 2: _landing_page
+[Before] Cookie-Name 3: _orig_referrer
+[Before] Cookie-Name 4: cart_ver
+[Before] Cookie-Name 5: cart_currency
+[Before] Cookie-Name 6: cart
+[Before] Cookie-Name 7: cart_ts
+[Before] Cookie-Name 8: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 27
+[After] Website-Cookies: [{'domain': '.beautygetjoy.de', 'expiry': 1675970384, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '227e48fb-70b6-4623-b2ad-d314886ca54f'}, {'domain': '.beautygetjoy.de', 'expiry': 1644436184, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '85aa0341-9b40-4928-bc58-d7a92636d6f6'}, {'domain': '.beautygetjoy.de', 'expiry': 1675970384, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '227e48fb-70b6-4623-b2ad-d314886ca54f'}, {'domain': '.beautygetjoy.de', 'expiry': 1652210384, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644434384209.1447736707'}, {'domain': 'www.beautygetjoy.de', 'httpOnly': False, 'name': 'sib_cuid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd9b799b6-9617-429d-8320-a61e59383ebf'}, {'domain': 'www.beautygetjoy.de', 'expiry': 1675970384, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '227e48fb-70b6-4623-b2ad-d314886ca54f'}, {'domain': 'www.beautygetjoy.de', 'httpOnly': False, 'name': 'adp-pr-id', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.beautygetjoy.de', 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'pending'}, {'domain': 'www.beautygetjoy.de', 'httpOnly': False, 'name': 'exemptify', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'authorized'}, {'domain': 'www.beautygetjoy.de', 'expiry': 1644520784, 'httpOnly': False, 'name': '_gat', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.beautygetjoy.de', 'expiry': 1644436184, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A19%3A27.579Z'}, {'domain': 'www.beautygetjoy.de', 'expiry': 1647026384, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0NDM0Mzg0MDM0LCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjowfX0='}, {'domain': 'www.beautygetjoy.de', 'expiry': 1645643984, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.beautygetjoy.de', 'expiry': 1645643967, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.beautygetjoy.de', 'expiry': 1675970384, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.beautygetjoy.de', 'expiry': 1644436184, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '85aa0341-9b40-4928-bc58-d7a92636d6f6'}, {'domain': 'www.beautygetjoy.de', 'expiry': 1645643984, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'www.beautygetjoy.de', 'expiry': 1707506384, 'httpOnly': False, 'name': '_ga', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'GA1.2.1061926115.1644434368'}, {'domain': 'www.beautygetjoy.de', 'expiry': 1645643967, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4831e71fab3f30a7a3d5b2223c0f719a'}, {'domain': '.beautygetjoy.de', 'expiry': 1645643967, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.beautygetjoy.de', 'expiry': 1645643967, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f175b272f582f1a3003057fa5402a05e'}, {'domain': 'www.beautygetjoy.de', 'expiry': 1645643967, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644434368'}, {'domain': 'www.beautygetjoy.de', 'expiry': 1644520784, 'httpOnly': False, 'name': '_gid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'GA1.2.1456217336.1644434368'}, {'domain': 'www.beautygetjoy.de', 'expiry': 1645643967, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': 'www.beautygetjoy.de', 'expiry': 1675970384, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '227e48fb-70b6-4623-b2ad-d314886ca54f'}, {'domain': 'www.beautygetjoy.de', 'expiry': 1644436184, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '85aa0341-9b40-4928-bc58-d7a92636d6f6'}, {'domain': 'www.beautygetjoy.de', 'expiry': 1644436184, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '85aa0341-9b40-4928-bc58-d7a92636d6f6'}]
+[After] Cookie-Name 1: _shopify_y
+[After] Cookie-Name 2: _s
+[After] Cookie-Name 3: _y
+[After] Cookie-Name 4: _fbp
+[After] Cookie-Name 5: sib_cuid
+[After] Cookie-Name 6: _shopify_y
+[After] Cookie-Name 7: adp-pr-id
+[After] Cookie-Name 8: shopify_pay_redirect
+[After] Cookie-Name 9: exemptify
+[After] Cookie-Name 10: _gat
+[After] Cookie-Name 11: _shopify_sa_t
+[After] Cookie-Name 12: _bc_c_set
+[After] Cookie-Name 13: cart_currency
+[After] Cookie-Name 14: _landing_page
+[After] Cookie-Name 15: secure_customer_sig
+[After] Cookie-Name 16: _shopify_s
+[After] Cookie-Name 17: localization
+[After] Cookie-Name 18: _ga
+[After] Cookie-Name 19: cart
+[After] Cookie-Name 20: _orig_referrer
+[After] Cookie-Name 21: cart_sig
+[After] Cookie-Name 22: cart_ts
+[After] Cookie-Name 23: _gid
+[After] Cookie-Name 24: cart_ver
+[After] Cookie-Name 25: _y
+[After] Cookie-Name 26: _shopify_s
+[After] Cookie-Name 27: _s
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 15
+[Difference] Cookie-Name: 1: localization
+[Difference] Cookie-Name: 2: _y
+[Difference] Cookie-Name: 3: _shopify_s
+[Difference] Cookie-Name: 4: sib_cuid
+[Difference] Cookie-Name: 5: _fbp
+[Difference] Cookie-Name: 6: _shopify_y
+[Difference] Cookie-Name: 7: _gid
+[Difference] Cookie-Name: 8: adp-pr-id
+[Difference] Cookie-Name: 9: _bc_c_set
+[Difference] Cookie-Name: 10: exemptify
+[Difference] Cookie-Name: 11: _shopify_sa_t
+[Difference] Cookie-Name: 12: _ga
+[Difference] Cookie-Name: 13: _gat
+[Difference] Cookie-Name: 14: shopify_pay_redirect
+[Difference] Cookie-Name: 15: _s
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

@@ -1,0 +1,85 @@
+Website 13: http://www.andshine.de/ | Created: 09.02.2022 13:46:52 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 8
+[Before] Website-Cookies: [{'domain': 'www.andshine.de', 'expiry': 1645620402, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2aee380b740f8fed9f9b2d60e5a06681'}, {'domain': 'www.andshine.de', 'expiry': 1645620402, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644410802'}, {'domain': 'www.andshine.de', 'expiry': 1645620402, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A2'}, {'domain': 'www.andshine.de', 'expiry': 1675946802, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.andshine.de', 'expiry': 1645620401, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.andshine.de', 'expiry': 1645620401, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.andshine.de', 'expiry': 1645620402, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '08ca229ff80e92fbbb651008186e790b'}, {'domain': 'www.andshine.de', 'expiry': 1645620402, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}]
+[Before] Cookie-Name 1: cart_sig
+[Before] Cookie-Name 2: cart_ts
+[Before] Cookie-Name 3: cart_ver
+[Before] Cookie-Name 4: secure_customer_sig
+[Before] Cookie-Name 5: _landing_page
+[Before] Cookie-Name 6: _orig_referrer
+[Before] Cookie-Name 7: cart
+[Before] Cookie-Name 8: cart_currency
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 29
+[After] Website-Cookies: [{'domain': '.andshine.de', 'expiry': 1644412618, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.andshine.de', 'expiry': 1644412618, 'httpOnly': False, 'name': '_hjSession_1942401', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImZjN2MzNDg0LTg5OWQtNDNlZC04OTVhLTg2YTlhN2JiMWY1MyIsImNyZWF0ZWQiOjE2NDQ0MTA4MTgwOTAsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': '.andshine.de', 'expiry': 1644412618, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.andshine.de', 'expiry': 1652186818, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644410817797.1275807484'}, {'domain': '.andshine.de', 'expiry': 1644497217, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.934649767.1644410818'}, {'domain': 'www.andshine.de', 'expiry': 1647002817, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0NDEwODE3NTA3LCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjowfX0='}, {'domain': 'www.andshine.de', 'expiry': 1645620402, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '08ca229ff80e92fbbb651008186e790b'}, {'domain': 'www.andshine.de', 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'www.andshine.de', 'expiry': 1644412617, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T12%3A46%3A42.423Z'}, {'domain': 'www.andshine.de', 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'pending'}, {'domain': 'www.andshine.de', 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MTA4MDMsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LmFuZHNoaW5lLmRlLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDQxMDgwMywidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly93d3cuYW5kc2hpbmUuZGUvIn19'}, {'domain': 'www.andshine.de', 'expiry': 1644410938, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.andshine.de', 'expiry': 1675946817, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0d16465b-a15d-46e5-9940-18973513cda8'}, {'domain': '.andshine.de', 'expiry': 1652186817, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1336679729.1644410818'}, {'domain': 'www.andshine.de', 'httpOnly': False, 'name': 'tkbl_cvuuid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fe993d7a-5640-4d61-8c4b-8197d49ec0e6'}, {'domain': 'www.andshine.de', 'expiry': 1644412617, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '95d93611-cf95-405b-9475-91fe37b7c04f'}, {'domain': 'www.andshine.de', 'expiry': 1645620402, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2aee380b740f8fed9f9b2d60e5a06681'}, {'domain': 'www.andshine.de', 'expiry': 1645620402, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.andshine.de', 'expiry': 1645620402, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644410802'}, {'domain': 'www.andshine.de', 'expiry': 1644412617, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '95d93611-cf95-405b-9475-91fe37b7c04f'}, {'domain': '.andshine.de', 'expiry': 1644410877, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.andshine.de', 'expiry': 1645620402, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A2'}, {'domain': 'www.andshine.de', 'expiry': 1675946802, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.andshine.de', 'expiry': 1645620401, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.andshine.de', 'expiry': 1707482817, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.514081759.1644410818'}, {'domain': 'www.andshine.de', 'httpOnly': False, 'name': 'outbrain_cid_fetch', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'true'}, {'domain': '.andshine.de', 'expiry': 1675946818, 'httpOnly': False, 'name': '_hjSessionUser_1942401', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImMyYWRmZTNjLTU2YjktNTRkZC05MzQ3LWZhOTAyZTBkMDEwMSIsImNyZWF0ZWQiOjE2NDQ0MTA4MTgwODEsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': 'www.andshine.de', 'expiry': 1675946817, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0d16465b-a15d-46e5-9940-18973513cda8'}, {'domain': '.andshine.de', 'expiry': 1645620401, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 2: _hjSession_1942401
+[After] Cookie-Name 3: _hjFirstSeen
+[After] Cookie-Name 4: _fbp
+[After] Cookie-Name 5: _gid
+[After] Cookie-Name 6: _bc_c_set
+[After] Cookie-Name 7: cart
+[After] Cookie-Name 8: localization
+[After] Cookie-Name 9: _shopify_sa_t
+[After] Cookie-Name 10: shopify_pay_redirect
+[After] Cookie-Name 11: __kla_id
+[After] Cookie-Name 12: _hjIncludedInPageviewSample
+[After] Cookie-Name 13: _y
+[After] Cookie-Name 14: _gcl_au
+[After] Cookie-Name 15: tkbl_cvuuid
+[After] Cookie-Name 16: _shopify_s
+[After] Cookie-Name 17: cart_sig
+[After] Cookie-Name 18: cart_currency
+[After] Cookie-Name 19: cart_ts
+[After] Cookie-Name 20: _s
+[After] Cookie-Name 21: _gat
+[After] Cookie-Name 22: cart_ver
+[After] Cookie-Name 23: secure_customer_sig
+[After] Cookie-Name 24: _landing_page
+[After] Cookie-Name 25: _ga
+[After] Cookie-Name 26: outbrain_cid_fetch
+[After] Cookie-Name 27: _hjSessionUser_1942401
+[After] Cookie-Name 28: _shopify_y
+[After] Cookie-Name 29: _orig_referrer
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 21
+[Difference] Cookie-Name: 1: _bc_c_set
+[Difference] Cookie-Name: 2: _y
+[Difference] Cookie-Name: 3: outbrain_cid_fetch
+[Difference] Cookie-Name: 4: _hjAbsoluteSessionInProgress
+[Difference] Cookie-Name: 5: shopify_pay_redirect
+[Difference] Cookie-Name: 6: _hjIncludedInPageviewSample
+[Difference] Cookie-Name: 7: _shopify_s
+[Difference] Cookie-Name: 8: localization
+[Difference] Cookie-Name: 9: _hjFirstSeen
+[Difference] Cookie-Name: 10: _shopify_sa_t
+[Difference] Cookie-Name: 11: _hjSessionUser_1942401
+[Difference] Cookie-Name: 12: tkbl_cvuuid
+[Difference] Cookie-Name: 13: _gid
+[Difference] Cookie-Name: 14: _hjSession_1942401
+[Difference] Cookie-Name: 15: _s
+[Difference] Cookie-Name: 16: _shopify_y
+[Difference] Cookie-Name: 17: __kla_id
+[Difference] Cookie-Name: 18: _gat
+[Difference] Cookie-Name: 19: _fbp
+[Difference] Cookie-Name: 20: _ga
+[Difference] Cookie-Name: 21: _gcl_au
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

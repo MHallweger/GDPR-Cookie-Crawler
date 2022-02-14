@@ -1,0 +1,101 @@
+Website 203: http://www.nabih.de/ | Created: 10.02.2022 13:12:37 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 32
+[Before] Website-Cookies: [{'domain': '.nabih.de', 'expiry': 1676031150, 'httpOnly': False, 'name': '_hjSessionUser_1060719', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjBlYTAzNjJmLThiM2ItNTkyNC04ZmFhLTIzOWQzZDFjZmZlMCIsImNyZWF0ZWQiOjE2NDQ0OTUxNDc5NTAsImV4aXN0aW5nIjp0cnVlfQ=='}, {'domain': 'nabih.de', 'expiry': 1707567150, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0OTUxNDgsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vbmFiaWguZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NDk1MTUxLCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL25hYmloLmRlLyJ9fQ=='}, {'domain': '.nabih.de', 'expiry': 1644496950, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T12%3A12%3A30.736Z'}, {'domain': 'nabih.de', 'expiry': 1644496950, 'httpOnly': False, 'name': 'dynamic_checkout_shown_on_cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'nabih.de', 'expiry': 1645704749, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A3'}, {'domain': 'nabih.de', 'expiry': 1645704749, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644495149'}, {'domain': 'nabih.de', 'expiry': 1645704749, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2dba2925529ab4993bb22e7207a47508'}, {'domain': 'nabih.de', 'expiry': 1645704752, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.nabih.de', 'expiry': 1644495207, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.nabih.de', 'expiry': 1644496950, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': 'nabih.de', 'expiry': 1644495270, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.nabih.de', 'expiry': 1644496948, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'nabih.de', 'expiry': 1707567152, 'httpOnly': False, 'name': '_ama', 'path': '/', 'secure': False, 'value': '1645360475.1644495148'}, {'domain': 'nabih.de', 'expiry': 1645704749, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '69ca0ff7bf3761597bb7d6546a86ce22'}, {'domain': '.nabih.de', 'expiry': 1652271159, 'httpOnly': False, 'name': 'mf_user', 'path': '/', 'sameSite': 'Strict', 'secure': False, 'value': '8748adfe005862dfdbdb0888dbc1ac85|'}, {'domain': '.nabih.de', 'expiry': 1652271151, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644495148148.1882147827'}, {'domain': '.nabih.de', 'expiry': 1644496950, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.nabih.de', 'expiry': 1707567152, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.1.1645360475.1644495148'}, {'domain': '.nabih.de', 'expiry': 1644496952, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c1070e79-fb65-4228-a55d-b4bd8e6bd87c'}, {'domain': '.nabih.de', 'expiry': 1644581550, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1535008553.1644495148'}, {'domain': '.nabih.de', 'expiry': 1644496952, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c1070e79-fb65-4228-a55d-b4bd8e6bd87c'}, {'domain': '.nabih.de', 'httpOnly': False, 'name': 'mf_f8b59a89-9aab-4fab-aa87-353d522e9060', 'path': '/', 'sameSite': 'Strict', 'secure': False, 'value': 'eebcfc146ebb48d37b8e1f961bbe6da4|02102859c67ce9d9479dc61a7bcae814c0930cc3.47.1644495148163$021030458268929dcd5964588f2029801e545185.47.1644495150846|1644495148159||1|||0|17.59|76.43555'}, {'domain': '.nabih.de', 'expiry': 1676031152, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1c824283-f0d2-4d36-9ac4-1a31c30d1002'}, {'domain': 'nabih.de', 'expiry': 1645704752, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.nabih.de', 'expiry': 1652271148, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1939031496.1644495148'}, {'domain': '.nabih.de', 'expiry': 1645704747, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'nabih.de', 'expiry': 1644498749, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.nabih.de', 'expiry': 1707567152, 'httpOnly': False, 'name': '_ga_S8VXCC5E20', 'path': '/', 'secure': False, 'value': 'GS1.1.3b676702-f767-4e1b-8e78-9bdf9ee783fb.1.0.1644495152.0'}, {'domain': '.nabih.de', 'expiry': 1644496950, 'httpOnly': False, 'name': '_hjSession_1060719', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImUwYTU5ZDg0LWQ2ZjUtNGI2ZC1hM2Q1LTI0Yzk5OTEzNjBkZiIsImNyZWF0ZWQiOjE2NDQ0OTUxNDgyMTcsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': '.nabih.de', 'expiry': 1645704747, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.nabih.de', 'expiry': 1676031152, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1c824283-f0d2-4d36-9ac4-1a31c30d1002'}, {'domain': 'nabih.de', 'expiry': 1676031152, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _hjSessionUser_1060719
+[Before] Cookie-Name 2: __kla_id
+[Before] Cookie-Name 3: _shopify_sa_t
+[Before] Cookie-Name 4: dynamic_checkout_shown_on_cart
+[Before] Cookie-Name 5: cart_ver
+[Before] Cookie-Name 6: cart_ts
+[Before] Cookie-Name 7: cart
+[Before] Cookie-Name 8: cart_currency
+[Before] Cookie-Name 9: _gat
+[Before] Cookie-Name 10: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 11: _hjIncludedInPageviewSample
+[Before] Cookie-Name 12: _hjFirstSeen
+[Before] Cookie-Name 13: _ama
+[Before] Cookie-Name 14: cart_sig
+[Before] Cookie-Name 15: mf_user
+[Before] Cookie-Name 16: _fbp
+[Before] Cookie-Name 17: _shopify_sa_p
+[Before] Cookie-Name 18: _ga
+[Before] Cookie-Name 19: _shopify_s
+[Before] Cookie-Name 20: _gid
+[Before] Cookie-Name 21: _s
+[Before] Cookie-Name 22: mf_f8b59a89-9aab-4fab-aa87-353d522e9060
+[Before] Cookie-Name 23: _shopify_y
+[Before] Cookie-Name 24: localization
+[Before] Cookie-Name 25: _gcl_au
+[Before] Cookie-Name 26: _landing_page
+[Before] Cookie-Name 27: shopify_pay_redirect
+[Before] Cookie-Name 28: _ga_S8VXCC5E20
+[Before] Cookie-Name 29: _hjSession_1060719
+[Before] Cookie-Name 30: _orig_referrer
+[Before] Cookie-Name 31: _y
+[Before] Cookie-Name 32: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 33
+[After] Website-Cookies: [{'domain': 'nabih.de', 'expiry': 1676031162, 'httpOnly': False, 'name': 'eg_cookieconsent_status', 'path': '/', 'secure': False, 'value': 'dismiss'}, {'domain': '.nabih.de', 'expiry': 1676031150, 'httpOnly': False, 'name': '_hjSessionUser_1060719', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjBlYTAzNjJmLThiM2ItNTkyNC04ZmFhLTIzOWQzZDFjZmZlMCIsImNyZWF0ZWQiOjE2NDQ0OTUxNDc5NTAsImV4aXN0aW5nIjp0cnVlfQ=='}, {'domain': 'nabih.de', 'expiry': 1707567150, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0OTUxNDgsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vbmFiaWguZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NDk1MTUxLCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL25hYmloLmRlLyJ9fQ=='}, {'domain': '.nabih.de', 'expiry': 1644496950, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T12%3A12%3A30.736Z'}, {'domain': 'nabih.de', 'expiry': 1644496950, 'httpOnly': False, 'name': 'dynamic_checkout_shown_on_cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'nabih.de', 'expiry': 1645704749, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A3'}, {'domain': 'nabih.de', 'expiry': 1645704749, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644495149'}, {'domain': 'nabih.de', 'expiry': 1645704749, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2dba2925529ab4993bb22e7207a47508'}, {'domain': 'nabih.de', 'expiry': 1645704752, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.nabih.de', 'expiry': 1644495207, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.nabih.de', 'expiry': 1644496950, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': 'nabih.de', 'expiry': 1644495270, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.nabih.de', 'expiry': 1644496948, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'nabih.de', 'expiry': 1707567152, 'httpOnly': False, 'name': '_ama', 'path': '/', 'secure': False, 'value': '1645360475.1644495148'}, {'domain': 'nabih.de', 'expiry': 1645704749, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '69ca0ff7bf3761597bb7d6546a86ce22'}, {'domain': '.nabih.de', 'expiry': 1652271164, 'httpOnly': False, 'name': 'mf_user', 'path': '/', 'sameSite': 'Strict', 'secure': False, 'value': '8748adfe005862dfdbdb0888dbc1ac85|'}, {'domain': '.nabih.de', 'expiry': 1652271162, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644495148148.1882147827'}, {'domain': '.nabih.de', 'expiry': 1644496950, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.nabih.de', 'expiry': 1707567152, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.1.1645360475.1644495148'}, {'domain': '.nabih.de', 'expiry': 1644496952, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c1070e79-fb65-4228-a55d-b4bd8e6bd87c'}, {'domain': '.nabih.de', 'expiry': 1644581550, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1535008553.1644495148'}, {'domain': '.nabih.de', 'expiry': 1644496952, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c1070e79-fb65-4228-a55d-b4bd8e6bd87c'}, {'domain': '.nabih.de', 'httpOnly': False, 'name': 'mf_f8b59a89-9aab-4fab-aa87-353d522e9060', 'path': '/', 'sameSite': 'Strict', 'secure': False, 'value': 'eebcfc146ebb48d37b8e1f961bbe6da4|02102859c67ce9d9479dc61a7bcae814c0930cc3.47.1644495148163$021030458268929dcd5964588f2029801e545185.47.1644495150846|1644495163612||2|||0|17.59|76.43555'}, {'domain': '.nabih.de', 'expiry': 1676031152, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1c824283-f0d2-4d36-9ac4-1a31c30d1002'}, {'domain': 'nabih.de', 'expiry': 1645704752, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.nabih.de', 'expiry': 1652271148, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1939031496.1644495148'}, {'domain': '.nabih.de', 'expiry': 1645704747, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'nabih.de', 'expiry': 1644498749, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.nabih.de', 'expiry': 1707567152, 'httpOnly': False, 'name': '_ga_S8VXCC5E20', 'path': '/', 'secure': False, 'value': 'GS1.1.3b676702-f767-4e1b-8e78-9bdf9ee783fb.1.0.1644495152.0'}, {'domain': '.nabih.de', 'expiry': 1644496950, 'httpOnly': False, 'name': '_hjSession_1060719', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImUwYTU5ZDg0LWQ2ZjUtNGI2ZC1hM2Q1LTI0Yzk5OTEzNjBkZiIsImNyZWF0ZWQiOjE2NDQ0OTUxNDgyMTcsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': '.nabih.de', 'expiry': 1645704747, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.nabih.de', 'expiry': 1676031152, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1c824283-f0d2-4d36-9ac4-1a31c30d1002'}, {'domain': 'nabih.de', 'expiry': 1676031152, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: eg_cookieconsent_status
+[After] Cookie-Name 2: _hjSessionUser_1060719
+[After] Cookie-Name 3: __kla_id
+[After] Cookie-Name 4: _shopify_sa_t
+[After] Cookie-Name 5: dynamic_checkout_shown_on_cart
+[After] Cookie-Name 6: cart_ver
+[After] Cookie-Name 7: cart_ts
+[After] Cookie-Name 8: cart
+[After] Cookie-Name 9: cart_currency
+[After] Cookie-Name 10: _gat
+[After] Cookie-Name 11: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 12: _hjIncludedInPageviewSample
+[After] Cookie-Name 13: _hjFirstSeen
+[After] Cookie-Name 14: _ama
+[After] Cookie-Name 15: cart_sig
+[After] Cookie-Name 16: mf_user
+[After] Cookie-Name 17: _fbp
+[After] Cookie-Name 18: _shopify_sa_p
+[After] Cookie-Name 19: _ga
+[After] Cookie-Name 20: _shopify_s
+[After] Cookie-Name 21: _gid
+[After] Cookie-Name 22: _s
+[After] Cookie-Name 23: mf_f8b59a89-9aab-4fab-aa87-353d522e9060
+[After] Cookie-Name 24: _shopify_y
+[After] Cookie-Name 25: localization
+[After] Cookie-Name 26: _gcl_au
+[After] Cookie-Name 27: _landing_page
+[After] Cookie-Name 28: shopify_pay_redirect
+[After] Cookie-Name 29: _ga_S8VXCC5E20
+[After] Cookie-Name 30: _hjSession_1060719
+[After] Cookie-Name 31: _orig_referrer
+[After] Cookie-Name 32: _y
+[After] Cookie-Name 33: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjIncludedInPageviewSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: eg_cookieconsent_status
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

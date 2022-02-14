@@ -1,0 +1,88 @@
+Website 252: http://www.tesoro.design/ | Created: 09.02.2022 18:23:15 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 27
+[Before] Website-Cookies: [{'domain': '.www.tesoro.design', 'expiry': 1675963386, 'httpOnly': False, 'name': 'swym-cu_ct', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'undefined'}, {'domain': '.www.tesoro.design', 'expiry': 1675963386, 'httpOnly': False, 'name': 'swym-swymRegid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"I_JSJ3q30gNw3d2GDs7eZMad0iG-zX_GwTHozpY3rOWvOfLCNr3cL654rqbHIMQK5OF0SDOuwPcpwbyscGLMLHL8SmhQdA5YzsnSYQ3cvG_-wGAxcS9cNCzhHW5ne-4uwFmSpZvc3G6xKLe9HSe4h-kByDKnTdHMr3qxv5cKFrc"'}, {'domain': '.tesoro.design', 'httpOnly': False, 'name': 'soundest-views', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.tesoro.design', 'expiry': 1675963385, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU1EVXlOalExWmpndE9EWXhZeTAwTTJNM0xXSXpPR010WkdGbE1URTVNelF3WXpBdw'}, {'domain': '.tesoro.design', 'expiry': 1644427445, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.www.tesoro.design', 'expiry': 1675963386, 'httpOnly': False, 'name': 'swym-email', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'null'}, {'domain': '.tesoro.design', 'expiry': 1644513785, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.728958414.1644427385'}, {'domain': '.tesoro.design', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220209172306-hZESwSYRX9MiDKxOEeSSKnyBjUYodKAktHmcfbjKIURvxlrIB'}, {'domain': '.tesoro.design', 'expiry': 1644429185, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.www.tesoro.design', 'expiry': 1644429186, 'httpOnly': False, 'name': 'swym-o_s', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'true'}, {'domain': '.www.tesoro.design', 'expiry': 1675963386, 'httpOnly': False, 'name': 'swym-pid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"wTs/K+e8w5DfK9yUrWjra8LxWOegxBQ6uUhaiSNLkqw="'}, {'domain': '.tesoro.design', 'expiry': 1707499385, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.645108470.1644427385'}, {'domain': '.tesoro.design', 'expiry': 1644429185, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A23%3A05.411Z'}, {'domain': 'www.tesoro.design', 'expiry': 1645636984, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'USD'}, {'domain': 'www.tesoro.design', 'expiry': 1644430985, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.tesoro.design', 'expiry': 1675963384, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5a7dd855-7cc4-42a7-a575-b58ec3918446'}, {'domain': '.tesoro.design', 'expiry': 1675963386, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'UJub0GLAMYVS01-20220209172306'}, {'domain': '.tesoro.design', 'expiry': 1652203386, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644427385669.972224207'}, {'domain': '.tesoro.design', 'expiry': 1644429184, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c68579d3-c86a-4f61-80e7-87c894ff2922'}, {'domain': '.tesoro.design', 'expiry': 1675963384, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5a7dd855-7cc4-42a7-a575-b58ec3918446'}, {'domain': '.tesoro.design', 'expiry': 1645636984, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.www.tesoro.design', 'expiry': 1644429187, 'httpOnly': False, 'name': 'swym-session-id', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"i0scuedjg3qpdptm15l4l5gn7nujglef1oiu6jhrcysnvw0ff6auliki5eg3vriq"'}, {'domain': '.tesoro.design', 'expiry': 1644429184, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c68579d3-c86a-4f61-80e7-87c894ff2922'}, {'domain': '.tesoro.design', 'expiry': 1645636984, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.tesoro.design', 'expiry': 1644429186, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'V4REZWHsNnCBd5-20220209172306'}, {'domain': 'www.tesoro.design', 'expiry': 1645636984, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.tesoro.design', 'expiry': 1675963384, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: swym-cu_ct
+[Before] Cookie-Name 2: swym-swymRegid
+[Before] Cookie-Name 3: soundest-views
+[Before] Cookie-Name 4: _pin_unauth
+[Before] Cookie-Name 5: _gat
+[Before] Cookie-Name 6: swym-email
+[Before] Cookie-Name 7: _gid
+[Before] Cookie-Name 8: soundestID
+[Before] Cookie-Name 9: _shopify_sa_p
+[Before] Cookie-Name 10: swym-o_s
+[Before] Cookie-Name 11: swym-pid
+[Before] Cookie-Name 12: _ga
+[Before] Cookie-Name 13: _shopify_sa_t
+[Before] Cookie-Name 14: cart_currency
+[Before] Cookie-Name 15: shopify_pay_redirect
+[Before] Cookie-Name 16: _shopify_y
+[Before] Cookie-Name 17: omnisendAnonymousID
+[Before] Cookie-Name 18: _fbp
+[Before] Cookie-Name 19: _s
+[Before] Cookie-Name 20: _y
+[Before] Cookie-Name 21: _landing_page
+[Before] Cookie-Name 22: swym-session-id
+[Before] Cookie-Name 23: _shopify_s
+[Before] Cookie-Name 24: _orig_referrer
+[Before] Cookie-Name 25: omnisendSessionID
+[Before] Cookie-Name 26: localization
+[Before] Cookie-Name 27: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 27
+[After] Website-Cookies: [{'domain': '.www.tesoro.design', 'expiry': 1675963386, 'httpOnly': False, 'name': 'swym-cu_ct', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'undefined'}, {'domain': '.www.tesoro.design', 'expiry': 1675963386, 'httpOnly': False, 'name': 'swym-swymRegid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"I_JSJ3q30gNw3d2GDs7eZMad0iG-zX_GwTHozpY3rOWvOfLCNr3cL654rqbHIMQK5OF0SDOuwPcpwbyscGLMLHL8SmhQdA5YzsnSYQ3cvG_-wGAxcS9cNCzhHW5ne-4uwFmSpZvc3G6xKLe9HSe4h-kByDKnTdHMr3qxv5cKFrc"'}, {'domain': '.tesoro.design', 'httpOnly': False, 'name': 'soundest-views', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.tesoro.design', 'expiry': 1675963385, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU1EVXlOalExWmpndE9EWXhZeTAwTTJNM0xXSXpPR010WkdGbE1URTVNelF3WXpBdw'}, {'domain': '.tesoro.design', 'expiry': 1644427445, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.www.tesoro.design', 'expiry': 1675963386, 'httpOnly': False, 'name': 'swym-email', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'null'}, {'domain': '.tesoro.design', 'expiry': 1644513785, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.728958414.1644427385'}, {'domain': '.tesoro.design', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220209172306-hZESwSYRX9MiDKxOEeSSKnyBjUYodKAktHmcfbjKIURvxlrIB'}, {'domain': '.tesoro.design', 'expiry': 1644429185, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.www.tesoro.design', 'expiry': 1644429186, 'httpOnly': False, 'name': 'swym-o_s', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'true'}, {'domain': '.www.tesoro.design', 'expiry': 1675963386, 'httpOnly': False, 'name': 'swym-pid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"wTs/K+e8w5DfK9yUrWjra8LxWOegxBQ6uUhaiSNLkqw="'}, {'domain': '.tesoro.design', 'expiry': 1707499385, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.645108470.1644427385'}, {'domain': '.tesoro.design', 'expiry': 1644429185, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A23%3A05.411Z'}, {'domain': 'www.tesoro.design', 'expiry': 1645636984, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'USD'}, {'domain': 'www.tesoro.design', 'expiry': 1644430985, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.tesoro.design', 'expiry': 1675963384, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5a7dd855-7cc4-42a7-a575-b58ec3918446'}, {'domain': '.tesoro.design', 'expiry': 1675963386, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'UJub0GLAMYVS01-20220209172306'}, {'domain': '.tesoro.design', 'expiry': 1652203386, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644427385669.972224207'}, {'domain': '.tesoro.design', 'expiry': 1644429184, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c68579d3-c86a-4f61-80e7-87c894ff2922'}, {'domain': '.tesoro.design', 'expiry': 1675963384, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5a7dd855-7cc4-42a7-a575-b58ec3918446'}, {'domain': '.tesoro.design', 'expiry': 1645636984, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.www.tesoro.design', 'expiry': 1644429187, 'httpOnly': False, 'name': 'swym-session-id', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"i0scuedjg3qpdptm15l4l5gn7nujglef1oiu6jhrcysnvw0ff6auliki5eg3vriq"'}, {'domain': '.tesoro.design', 'expiry': 1644429184, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c68579d3-c86a-4f61-80e7-87c894ff2922'}, {'domain': '.tesoro.design', 'expiry': 1645636984, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.tesoro.design', 'expiry': 1644429186, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'V4REZWHsNnCBd5-20220209172306'}, {'domain': 'www.tesoro.design', 'expiry': 1645636984, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.tesoro.design', 'expiry': 1675963384, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: swym-cu_ct
+[After] Cookie-Name 2: swym-swymRegid
+[After] Cookie-Name 3: soundest-views
+[After] Cookie-Name 4: _pin_unauth
+[After] Cookie-Name 5: _gat
+[After] Cookie-Name 6: swym-email
+[After] Cookie-Name 7: _gid
+[After] Cookie-Name 8: soundestID
+[After] Cookie-Name 9: _shopify_sa_p
+[After] Cookie-Name 10: swym-o_s
+[After] Cookie-Name 11: swym-pid
+[After] Cookie-Name 12: _ga
+[After] Cookie-Name 13: _shopify_sa_t
+[After] Cookie-Name 14: cart_currency
+[After] Cookie-Name 15: shopify_pay_redirect
+[After] Cookie-Name 16: _shopify_y
+[After] Cookie-Name 17: omnisendAnonymousID
+[After] Cookie-Name 18: _fbp
+[After] Cookie-Name 19: _s
+[After] Cookie-Name 20: _y
+[After] Cookie-Name 21: _landing_page
+[After] Cookie-Name 22: swym-session-id
+[After] Cookie-Name 23: _shopify_s
+[After] Cookie-Name 24: _orig_referrer
+[After] Cookie-Name 25: omnisendSessionID
+[After] Cookie-Name 26: localization
+[After] Cookie-Name 27: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

@@ -1,0 +1,118 @@
+Website 375: http://www.heinrich-dinkelacker.de/ | Created: 09.02.2022 12:39:55 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 36
+[Before] Website-Cookies: [{'domain': 'www.heinrich-dinkelacker.de', 'httpOnly': False, 'name': 'landingPage', 'path': '/', 'secure': False, 'value': 'landed'}, {'domain': '.heinrich-dinkelacker.de', 'expiry': 1646998786, 'httpOnly': False, 'name': '_dy_df_geo', 'path': '/', 'secure': False, 'value': 'Germany..Ettringen'}, {'domain': '.heinrich-dinkelacker.de', 'expiry': 1646998786, 'httpOnly': False, 'name': '_dy_geo', 'path': '/', 'secure': False, 'value': 'DE.EU.DE_RP.DE_RP_Ettringen'}, {'domain': '.heinrich-dinkelacker.de', 'httpOnly': False, 'name': '_dy_lu_ses', 'path': '/', 'secure': False, 'value': '5a3be7ed5e9364080719faeb4c9a0b52%3A1644406786330'}, {'domain': '.heinrich-dinkelacker.de', 'httpOnly': False, 'name': 'dy_fs_page', 'path': '/', 'secure': False, 'value': 'www.heinrich-dinkelacker.de'}, {'domain': 'www.heinrich-dinkelacker.de', 'httpOnly': False, 'name': 'logState', 'path': '/', 'secure': False, 'value': 'loggedOut'}, {'domain': '.heinrich-dinkelacker.de', 'httpOnly': False, 'name': '_dyjsession', 'path': '/', 'secure': False, 'value': '5a3be7ed5e9364080719faeb4c9a0b52'}, {'domain': 'www.heinrich-dinkelacker.de', 'httpOnly': False, 'name': 'locale_bar_accepted', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.heinrich-dinkelacker.de', 'expiry': 1646998786, 'httpOnly': False, 'name': '_dycst', 'path': '/', 'secure': False, 'value': 'dk.w.c.ws.'}, {'domain': '.heinrich-dinkelacker.de', 'expiry': 1646998786, 'httpOnly': False, 'name': '_dyid', 'path': '/', 'secure': False, 'value': '243194776659404802'}, {'domain': '.heinrich-dinkelacker.de', 'expiry': 1644493186, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1751419260.1644406786'}, {'domain': '.heinrich-dinkelacker.de', 'expiry': 1707478786, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1682197403.1644406786'}, {'domain': '.heinrich-dinkelacker.de', 'expiry': 1675942787, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fc0016e6-45f1-484d-b967-9d1e8f6fa628'}, {'domain': '.heinrich-dinkelacker.de', 'expiry': 1644408586, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.heinrich-dinkelacker.de', 'expiry': 1644408586, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T11%3A39%3A46.264Z'}, {'domain': '.heinrich-dinkelacker.de', 'expiry': 1646998786, 'httpOnly': False, 'name': '_dy_toffset', 'path': '/', 'secure': False, 'value': '0'}, {'domain': '.heinrich-dinkelacker.de', 'expiry': 1652182786, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1827014740.1644406786'}, {'domain': '.heinrich-dinkelacker.de', 'expiry': 1646998786, 'httpOnly': False, 'name': '_dy_c_exps', 'path': '/', 'secure': False, 'value': ''}, {'domain': '.heinrich-dinkelacker.de', 'httpOnly': False, 'name': '_dyfs', 'path': '/', 'secure': False, 'value': '1644406786329'}, {'domain': '.heinrich-dinkelacker.de', 'expiry': 1707478786, 'httpOnly': False, 'name': 'atbpdid', 'path': '/', 'secure': False, 'value': 'dc42a45b-5752-42d5-b639-da15ead99d35'}, {'domain': '.heinrich-dinkelacker.de', 'expiry': 1675942786, 'httpOnly': False, 'name': '_dy_soct', 'path': '/', 'secure': False, 'value': '613079.1185414.1644406786'}, {'domain': '.heinrich-dinkelacker.de', 'httpOnly': False, 'name': '_dy_csc_ses', 'path': '/', 'secure': False, 'value': 't'}, {'domain': '.heinrich-dinkelacker.de', 'expiry': 1646998786, 'httpOnly': False, 'name': '_dy_ses_load_seq', 'path': '/', 'secure': False, 'value': '37842%3A1644406786081'}, {'domain': '.heinrich-dinkelacker.de', 'expiry': 1645616386, 'httpOnly': False, 'name': '__cmpcvcx17104', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '__s23_s72_s26_s135_s905_s24_s974_c3476__'}, {'domain': '.heinrich-dinkelacker.de', 'expiry': 1644406846, 'httpOnly': False, 'name': '_gat_UA-4911096-16', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.heinrich-dinkelacker.de', 'expiry': 1644408587, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '72c3f278-78ab-458b-9bc7-92b520d74f88'}, {'domain': 'www.heinrich-dinkelacker.de', 'expiry': 1645616387, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.heinrich-dinkelacker.de', 'expiry': 1646998787, 'httpOnly': False, 'name': 'prism_610076456', 'path': '/', 'secure': False, 'value': 'fd02bf55-728b-46c0-9018-f9f84307d4c4'}, {'domain': '.heinrich-dinkelacker.de', 'expiry': 1645616386, 'httpOnly': False, 'name': '__cmpcpcx17104', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '__51__'}, {'domain': '.heinrich-dinkelacker.de', 'expiry': 1675942787, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fc0016e6-45f1-484d-b967-9d1e8f6fa628'}, {'domain': '.heinrich-dinkelacker.de', 'expiry': 1645616385, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.heinrich-dinkelacker.de', 'expiry': 1644408587, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '72c3f278-78ab-458b-9bc7-92b520d74f88'}, {'domain': '.heinrich-dinkelacker.de', 'expiry': 1645616385, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.heinrich-dinkelacker.de', 'expiry': 1645616387, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.heinrich-dinkelacker.de', 'expiry': 1646998786, 'httpOnly': False, 'name': '_dycnst', 'path': '/', 'secure': False, 'value': 'dg'}, {'domain': 'www.heinrich-dinkelacker.de', 'expiry': 1675942787, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: landingPage
+[Before] Cookie-Name 2: _dy_df_geo
+[Before] Cookie-Name 3: _dy_geo
+[Before] Cookie-Name 4: _dy_lu_ses
+[Before] Cookie-Name 5: dy_fs_page
+[Before] Cookie-Name 6: logState
+[Before] Cookie-Name 7: _dyjsession
+[Before] Cookie-Name 8: locale_bar_accepted
+[Before] Cookie-Name 9: _dycst
+[Before] Cookie-Name 10: _dyid
+[Before] Cookie-Name 11: _gid
+[Before] Cookie-Name 12: _ga
+[Before] Cookie-Name 13: _y
+[Before] Cookie-Name 14: _shopify_sa_p
+[Before] Cookie-Name 15: _shopify_sa_t
+[Before] Cookie-Name 16: _dy_toffset
+[Before] Cookie-Name 17: _gcl_au
+[Before] Cookie-Name 18: _dy_c_exps
+[Before] Cookie-Name 19: _dyfs
+[Before] Cookie-Name 20: atbpdid
+[Before] Cookie-Name 21: _dy_soct
+[Before] Cookie-Name 22: _dy_csc_ses
+[Before] Cookie-Name 23: _dy_ses_load_seq
+[Before] Cookie-Name 24: __cmpcvcx17104
+[Before] Cookie-Name 25: _gat_UA-4911096-16
+[Before] Cookie-Name 26: _shopify_s
+[Before] Cookie-Name 27: localization
+[Before] Cookie-Name 28: prism_610076456
+[Before] Cookie-Name 29: __cmpcpcx17104
+[Before] Cookie-Name 30: _shopify_y
+[Before] Cookie-Name 31: _orig_referrer
+[Before] Cookie-Name 32: _s
+[Before] Cookie-Name 33: _landing_page
+[Before] Cookie-Name 34: cart_currency
+[Before] Cookie-Name 35: _dycnst
+[Before] Cookie-Name 36: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 44
+[After] Website-Cookies: [{'domain': '.heinrich-dinkelacker.de', 'expiry': 1644408601, 'httpOnly': False, 'name': '_hjSession_2323994', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjM2ODE3OGU3LTU3NDAtNDFhZi1iZjM0LTkxZDhmZDIyNGE1NyIsImNyZWF0ZWQiOjE2NDQ0MDY4MDE0ODgsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': 'www.heinrich-dinkelacker.de', 'expiry': 1644406921, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.heinrich-dinkelacker.de', 'expiry': 1675942801, 'httpOnly': False, 'name': '_hjSessionUser_2323994', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjExOGM0ODIyLWM2NDYtNWYxMC1iNmE4LWIxMDQ2OWE0ZTg1YSIsImNyZWF0ZWQiOjE2NDQ0MDY4MDE0NjcsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': 'www.heinrich-dinkelacker.de', 'httpOnly': False, 'name': 'landingPage', 'path': '/', 'secure': False, 'value': 'landed'}, {'domain': '.heinrich-dinkelacker.de', 'expiry': 1646998786, 'httpOnly': False, 'name': '_dy_df_geo', 'path': '/', 'secure': False, 'value': 'Germany..Ettringen'}, {'domain': '.heinrich-dinkelacker.de', 'expiry': 1646998786, 'httpOnly': False, 'name': '_dy_geo', 'path': '/', 'secure': False, 'value': 'DE.EU.DE_RP.DE_RP_Ettringen'}, {'domain': '.heinrich-dinkelacker.de', 'httpOnly': False, 'name': '_dy_lu_ses', 'path': '/', 'secure': False, 'value': '5a3be7ed5e9364080719faeb4c9a0b52%3A1644406786330'}, {'domain': '.heinrich-dinkelacker.de', 'httpOnly': False, 'name': 'dy_fs_page', 'path': '/', 'secure': False, 'value': 'www.heinrich-dinkelacker.de'}, {'domain': 'www.heinrich-dinkelacker.de', 'httpOnly': False, 'name': 'logState', 'path': '/', 'secure': False, 'value': 'loggedOut'}, {'domain': '.heinrich-dinkelacker.de', 'httpOnly': False, 'name': '_dyjsession', 'path': '/', 'secure': False, 'value': '5a3be7ed5e9364080719faeb4c9a0b52'}, {'domain': 'www.heinrich-dinkelacker.de', 'httpOnly': False, 'name': 'locale_bar_accepted', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.heinrich-dinkelacker.de', 'expiry': 1646998786, 'httpOnly': False, 'name': '_dycst', 'path': '/', 'secure': False, 'value': 'dk.w.c.ws.'}, {'domain': '.heinrich-dinkelacker.de', 'expiry': 1646998786, 'httpOnly': False, 'name': '_dyid', 'path': '/', 'secure': False, 'value': '243194776659404802'}, {'domain': '.heinrich-dinkelacker.de', 'expiry': 1644493201, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1751419260.1644406786'}, {'domain': '.heinrich-dinkelacker.de', 'expiry': 1644408601, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.heinrich-dinkelacker.de', 'expiry': 1707478801, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1682197403.1644406786'}, {'domain': 'www.heinrich-dinkelacker.de', 'expiry': 1644406921, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.heinrich-dinkelacker.de', 'expiry': 1675942787, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fc0016e6-45f1-484d-b967-9d1e8f6fa628'}, {'domain': '.heinrich-dinkelacker.de', 'expiry': 1644408586, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.heinrich-dinkelacker.de', 'expiry': 1644408586, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T11%3A39%3A46.264Z'}, {'domain': '.heinrich-dinkelacker.de', 'expiry': 1646998786, 'httpOnly': False, 'name': '_dy_toffset', 'path': '/', 'secure': False, 'value': '0'}, {'domain': '.heinrich-dinkelacker.de', 'expiry': 1652182786, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1827014740.1644406786'}, {'domain': '.heinrich-dinkelacker.de', 'expiry': 1646998786, 'httpOnly': False, 'name': '_dy_c_exps', 'path': '/', 'secure': False, 'value': ''}, {'domain': '.heinrich-dinkelacker.de', 'httpOnly': False, 'name': '_dyfs', 'path': '/', 'secure': False, 'value': '1644406786329'}, {'domain': '.heinrich-dinkelacker.de', 'expiry': 1644408601, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.heinrich-dinkelacker.de', 'expiry': 1707478786, 'httpOnly': False, 'name': 'atbpdid', 'path': '/', 'secure': False, 'value': 'dc42a45b-5752-42d5-b639-da15ead99d35'}, {'domain': '.heinrich-dinkelacker.de', 'expiry': 1675942786, 'httpOnly': False, 'name': '_dy_soct', 'path': '/', 'secure': False, 'value': '613079.1185414.1644406786'}, {'domain': '.heinrich-dinkelacker.de', 'expiry': 1652182801, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644406801361.436678926'}, {'domain': '.heinrich-dinkelacker.de', 'httpOnly': False, 'name': '_dy_csc_ses', 'path': '/', 'secure': False, 'value': 't'}, {'domain': '.heinrich-dinkelacker.de', 'expiry': 1646998786, 'httpOnly': False, 'name': '_dy_ses_load_seq', 'path': '/', 'secure': False, 'value': '37842%3A1644406786081'}, {'domain': '.heinrich-dinkelacker.de', 'expiry': 1675942801, 'httpOnly': False, 'name': '__cmpcvcx17104', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '__s1631_c3478_s981_s94_s40_s1052_s1494_s65_s23_s72_s7_s1_s26_s135_s1104_s905_s46_s24_s1475_s974_c3476_s971_s34_s77_s30_U__'}, {'domain': '.heinrich-dinkelacker.de', 'expiry': 1644406846, 'httpOnly': False, 'name': '_gat_UA-4911096-16', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.heinrich-dinkelacker.de', 'expiry': 1644408587, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '72c3f278-78ab-458b-9bc7-92b520d74f88'}, {'domain': 'www.heinrich-dinkelacker.de', 'expiry': 1645616387, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.heinrich-dinkelacker.de', 'expiry': 1675942801, 'httpOnly': False, 'name': '__cmpcpcx17104', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '__51_52_53__'}, {'domain': '.heinrich-dinkelacker.de', 'expiry': 1675942801, 'httpOnly': False, 'name': '__cmpconsentx17104', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'BPUJJCrPUJJCrAfRQBDEDXAAAAAQiABAIQA'}, {'domain': '.heinrich-dinkelacker.de', 'expiry': 1646998801, 'httpOnly': False, 'name': 'prism_610076456', 'path': '/', 'secure': False, 'value': 'fd02bf55-728b-46c0-9018-f9f84307d4c4'}, {'domain': '.heinrich-dinkelacker.de', 'expiry': 1675942787, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fc0016e6-45f1-484d-b967-9d1e8f6fa628'}, {'domain': '.heinrich-dinkelacker.de', 'expiry': 1645616385, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.heinrich-dinkelacker.de', 'expiry': 1644408587, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '72c3f278-78ab-458b-9bc7-92b520d74f88'}, {'domain': '.heinrich-dinkelacker.de', 'expiry': 1645616385, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.heinrich-dinkelacker.de', 'expiry': 1645616387, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.heinrich-dinkelacker.de', 'expiry': 1646998786, 'httpOnly': False, 'name': '_dycnst', 'path': '/', 'secure': False, 'value': 'dg'}, {'domain': 'www.heinrich-dinkelacker.de', 'expiry': 1675942787, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _hjSession_2323994
+[After] Cookie-Name 2: _hjIncludedInSessionSample
+[After] Cookie-Name 3: _hjSessionUser_2323994
+[After] Cookie-Name 4: landingPage
+[After] Cookie-Name 5: _dy_df_geo
+[After] Cookie-Name 6: _dy_geo
+[After] Cookie-Name 7: _dy_lu_ses
+[After] Cookie-Name 8: dy_fs_page
+[After] Cookie-Name 9: logState
+[After] Cookie-Name 10: _dyjsession
+[After] Cookie-Name 11: locale_bar_accepted
+[After] Cookie-Name 12: _dycst
+[After] Cookie-Name 13: _dyid
+[After] Cookie-Name 14: _gid
+[After] Cookie-Name 15: _hjFirstSeen
+[After] Cookie-Name 16: _ga
+[After] Cookie-Name 17: _hjIncludedInPageviewSample
+[After] Cookie-Name 18: _y
+[After] Cookie-Name 19: _shopify_sa_p
+[After] Cookie-Name 20: _shopify_sa_t
+[After] Cookie-Name 21: _dy_toffset
+[After] Cookie-Name 22: _gcl_au
+[After] Cookie-Name 23: _dy_c_exps
+[After] Cookie-Name 24: _dyfs
+[After] Cookie-Name 25: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 26: atbpdid
+[After] Cookie-Name 27: _dy_soct
+[After] Cookie-Name 28: _fbp
+[After] Cookie-Name 29: _dy_csc_ses
+[After] Cookie-Name 30: _dy_ses_load_seq
+[After] Cookie-Name 31: __cmpcvcx17104
+[After] Cookie-Name 32: _gat_UA-4911096-16
+[After] Cookie-Name 33: _shopify_s
+[After] Cookie-Name 34: localization
+[After] Cookie-Name 35: __cmpcpcx17104
+[After] Cookie-Name 36: __cmpconsentx17104
+[After] Cookie-Name 37: prism_610076456
+[After] Cookie-Name 38: _shopify_y
+[After] Cookie-Name 39: _orig_referrer
+[After] Cookie-Name 40: _s
+[After] Cookie-Name 41: _landing_page
+[After] Cookie-Name 42: cart_currency
+[After] Cookie-Name 43: _dycnst
+[After] Cookie-Name 44: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 8
+[Difference] Cookie-Name: 1: _hjFirstSeen
+[Difference] Cookie-Name: 2: _hjIncludedInPageviewSample
+[Difference] Cookie-Name: 3: _fbp
+[Difference] Cookie-Name: 4: __cmpconsentx17104
+[Difference] Cookie-Name: 5: _hjSession_2323994
+[Difference] Cookie-Name: 6: _hjIncludedInSessionSample
+[Difference] Cookie-Name: 7: _hjSessionUser_2323994
+[Difference] Cookie-Name: 8: _hjAbsoluteSessionInProgress
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

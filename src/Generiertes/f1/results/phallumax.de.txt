@@ -1,0 +1,82 @@
+Website 142: http://www.phallumax.de/ | Created: 08.02.2022 22:22:53 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 24
+[Before] Website-Cookies: [{'domain': 'www.phallumax.de', 'expiry': 1646950964, 'httpOnly': False, 'name': 'collect', 'path': '/', 'secure': False, 'value': 'AAAAAX7bN6jbv5K3YGVL7F8w2ZhLfYo8vAANYih9I4fCczptlQ'}, {'domain': '.phallumax.de', 'expiry': 1644441763, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.785543504.1644355363'}, {'domain': '.phallumax.de', 'httpOnly': False, 'name': 'soundest-views', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.phallumax.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220208212244-4hdTzhlI5CgXhvH4wIt9ucn7gmeM7aaoBqfTRenh2mJff2r7R'}, {'domain': '.phallumax.de', 'expiry': 1644357164, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'MN6hzZYJiew2AK-20220208212244'}, {'domain': '.phallumax.de', 'expiry': 1644357163, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.phallumax.de', 'expiry': 1802035364, 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'secure': True, 'value': '70e60485-cfda-4bd7-afc0-2373f54dd252'}, {'domain': '.phallumax.de', 'expiry': 1678051363, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '40da0790892511ecabdd21511cc7e94c'}, {'domain': '.phallumax.de', 'expiry': 1652131363, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1123847341.1644355363'}, {'domain': '.phallumax.de', 'expiry': 1644355423, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.phallumax.de', 'expiry': 1645564963, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.phallumax.de', 'expiry': 1644441763, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': '40d9c530892511ec8f518568d470ee66'}, {'domain': '.phallumax.de', 'expiry': 1707427363, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1135645072.1644355363'}, {'domain': '.phallumax.de', 'expiry': 1644357163, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A22%3A43.294Z'}, {'domain': '.phallumax.de', 'expiry': 1675891363, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3d571b97-2ef1-44c8-a8de-4c5a4c2c70f6'}, {'domain': '.phallumax.de', 'expiry': 1675891363, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3d571b97-2ef1-44c8-a8de-4c5a4c2c70f6'}, {'domain': 'www.phallumax.de', 'expiry': 1675891363, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.phallumax.de', 'expiry': 1645564963, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.phallumax.de', 'expiry': 1644357163, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '30124908-dbcf-48f4-a38f-70f2a61652c7'}, {'domain': '.phallumax.de', 'expiry': 1675891364, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'XXvRjQcvnBMBT4-20220208212244'}, {'domain': '.phallumax.de', 'expiry': 1645564963, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.phallumax.de', 'expiry': 1645564963, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': 'www.phallumax.de', 'expiry': 1644357164, 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'secure': True, 'value': '871eef0c-351b-47d3-a134-e8e2d32cbe88'}, {'domain': '.phallumax.de', 'expiry': 1644357163, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '30124908-dbcf-48f4-a38f-70f2a61652c7'}]
+[Before] Cookie-Name 1: collect
+[Before] Cookie-Name 2: _gid
+[Before] Cookie-Name 3: soundest-views
+[Before] Cookie-Name 4: soundestID
+[Before] Cookie-Name 5: omnisendSessionID
+[Before] Cookie-Name 6: _shopify_sa_p
+[Before] Cookie-Name 7: _shg_user_id
+[Before] Cookie-Name 8: _uetvid
+[Before] Cookie-Name 9: _gcl_au
+[Before] Cookie-Name 10: _gat
+[Before] Cookie-Name 11: cart_currency
+[Before] Cookie-Name 12: _uetsid
+[Before] Cookie-Name 13: _ga
+[Before] Cookie-Name 14: _shopify_sa_t
+[Before] Cookie-Name 15: _shopify_y
+[Before] Cookie-Name 16: _y
+[Before] Cookie-Name 17: secure_customer_sig
+[Before] Cookie-Name 18: _landing_page
+[Before] Cookie-Name 19: _s
+[Before] Cookie-Name 20: omnisendAnonymousID
+[Before] Cookie-Name 21: _orig_referrer
+[Before] Cookie-Name 22: localization
+[Before] Cookie-Name 23: _shg_session_id
+[Before] Cookie-Name 24: _shopify_s
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 24
+[After] Website-Cookies: [{'domain': 'www.phallumax.de', 'expiry': 1646950964, 'httpOnly': False, 'name': 'collect', 'path': '/', 'secure': False, 'value': 'AAAAAX7bN6jbv5K3YGVL7F8w2ZhLfYo8vAANYih9I4fCczptlQ'}, {'domain': '.phallumax.de', 'expiry': 1644441763, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.785543504.1644355363'}, {'domain': '.phallumax.de', 'httpOnly': False, 'name': 'soundest-views', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.phallumax.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220208212244-4hdTzhlI5CgXhvH4wIt9ucn7gmeM7aaoBqfTRenh2mJff2r7R'}, {'domain': '.phallumax.de', 'expiry': 1644357164, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'MN6hzZYJiew2AK-20220208212244'}, {'domain': '.phallumax.de', 'expiry': 1644357163, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.phallumax.de', 'expiry': 1802035364, 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'secure': True, 'value': '70e60485-cfda-4bd7-afc0-2373f54dd252'}, {'domain': '.phallumax.de', 'expiry': 1678051363, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '40da0790892511ecabdd21511cc7e94c'}, {'domain': '.phallumax.de', 'expiry': 1652131363, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1123847341.1644355363'}, {'domain': '.phallumax.de', 'expiry': 1644355423, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.phallumax.de', 'expiry': 1645564963, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.phallumax.de', 'expiry': 1644441763, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': '40d9c530892511ec8f518568d470ee66'}, {'domain': '.phallumax.de', 'expiry': 1707427363, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1135645072.1644355363'}, {'domain': '.phallumax.de', 'expiry': 1644357163, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A22%3A43.294Z'}, {'domain': '.phallumax.de', 'expiry': 1675891363, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3d571b97-2ef1-44c8-a8de-4c5a4c2c70f6'}, {'domain': '.phallumax.de', 'expiry': 1675891363, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3d571b97-2ef1-44c8-a8de-4c5a4c2c70f6'}, {'domain': 'www.phallumax.de', 'expiry': 1675891363, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.phallumax.de', 'expiry': 1645564963, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.phallumax.de', 'expiry': 1644357163, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '30124908-dbcf-48f4-a38f-70f2a61652c7'}, {'domain': '.phallumax.de', 'expiry': 1675891364, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'XXvRjQcvnBMBT4-20220208212244'}, {'domain': '.phallumax.de', 'expiry': 1645564963, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.phallumax.de', 'expiry': 1645564963, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': 'www.phallumax.de', 'expiry': 1644357164, 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'secure': True, 'value': '871eef0c-351b-47d3-a134-e8e2d32cbe88'}, {'domain': '.phallumax.de', 'expiry': 1644357163, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '30124908-dbcf-48f4-a38f-70f2a61652c7'}]
+[After] Cookie-Name 1: collect
+[After] Cookie-Name 2: _gid
+[After] Cookie-Name 3: soundest-views
+[After] Cookie-Name 4: soundestID
+[After] Cookie-Name 5: omnisendSessionID
+[After] Cookie-Name 6: _shopify_sa_p
+[After] Cookie-Name 7: _shg_user_id
+[After] Cookie-Name 8: _uetvid
+[After] Cookie-Name 9: _gcl_au
+[After] Cookie-Name 10: _gat
+[After] Cookie-Name 11: cart_currency
+[After] Cookie-Name 12: _uetsid
+[After] Cookie-Name 13: _ga
+[After] Cookie-Name 14: _shopify_sa_t
+[After] Cookie-Name 15: _shopify_y
+[After] Cookie-Name 16: _y
+[After] Cookie-Name 17: secure_customer_sig
+[After] Cookie-Name 18: _landing_page
+[After] Cookie-Name 19: _s
+[After] Cookie-Name 20: omnisendAnonymousID
+[After] Cookie-Name 21: _orig_referrer
+[After] Cookie-Name 22: localization
+[After] Cookie-Name 23: _shg_session_id
+[After] Cookie-Name 24: _shopify_s
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

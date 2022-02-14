@@ -1,0 +1,90 @@
+Website 102: http://www.strengthshop.de/ | Created: 08.02.2022 22:10:49 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 26
+[Before] Website-Cookies: [{'domain': 'www.strengthshop.eu', 'httpOnly': False, 'name': 'snize-recommendation', 'path': '/', 'secure': False, 'value': 'pcl044qjeul'}, {'domain': 'www.strengthshop.eu', 'expiry': 1802034639, 'httpOnly': False, 'name': '_pandectes_gdpr', 'path': '/', 'secure': True, 'value': 'eyJjb3VudHJ5Ijp7ImNvZGUiOiJERSIsInN0YXRlIjoiTlciLCJkZXRlY3RlZCI6MTY0NDM1NDYzOX0sInN0YXR1cyI6IiIsInRpbWVzdGFtcCI6bnVsbCwicHJlZmVyZW5jZXMiOjd9'}, {'domain': 'www.strengthshop.eu', 'expiry': 1645564239, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A2'}, {'domain': '.strengthshop.eu', 'expiry': 1675890639, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22con%22%3A%7B%22GDPR%22%3A%220%22%7D%2C%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': '.strengthshop.eu', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.strengthshop.eu', 'expiry': 1645564239, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644354639'}, {'domain': 'www.strengthshop.eu', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.strengthshop.eu', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A10%3A38.771Z'}, {'domain': 'www.strengthshop.eu', 'expiry': 1645564240, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.strengthshop.eu', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.strengthshop.eu', 'expiry': 1645564240, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '83e802f119929cd1964313a54b2f6e88'}, {'domain': 'www.strengthshop.eu', 'expiry': 1645564239, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c4c89f8dcaa9a17dea81273a5ee7a68a'}, {'domain': '.strengthshop.eu', 'expiry': 1652130637, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.496749331.1644354638'}, {'domain': '.strengthshop.eu', 'expiry': 1644356440, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.strengthshop.eu', 'expiry': 1675890639, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.strengthshop.eu', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ffcd422b-6ecf-4a3b-9851-344487df3573'}, {'domain': '.strengthshop.eu', 'expiry': 1645564236, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.strengthshop.eu', 'expiry': 1645564240, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.strengthshop.eu', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.strengthshop.eu', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ffcd422b-6ecf-4a3b-9851-344487df3573'}, {'domain': '.strengthshop.eu', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.strengthshop.eu', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a558b6dc-88b3-4eb4-a4a2-11473b8af70f'}, {'domain': 'www.strengthshop.eu', 'expiry': 1644358238, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.strengthshop.eu', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a558b6dc-88b3-4eb4-a4a2-11473b8af70f'}, {'domain': '.strengthshop.eu', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A10%3A38.752Z'}, {'domain': 'www.strengthshop.eu', 'expiry': 1675890640, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: snize-recommendation
+[Before] Cookie-Name 2: _pandectes_gdpr
+[Before] Cookie-Name 3: cart_ver
+[Before] Cookie-Name 4: _tracking_consent
+[Before] Cookie-Name 5: _shopify_sa_p
+[Before] Cookie-Name 6: cart_ts
+[Before] Cookie-Name 7: _shopify_evids
+[Before] Cookie-Name 8: _shopify_sa_t
+[Before] Cookie-Name 9: localization
+[Before] Cookie-Name 10: _shopify_evids
+[Before] Cookie-Name 11: cart_sig
+[Before] Cookie-Name 12: cart
+[Before] Cookie-Name 13: _gcl_au
+[Before] Cookie-Name 14: _shopify_tm
+[Before] Cookie-Name 15: _shopify_m
+[Before] Cookie-Name 16: _shopify_y
+[Before] Cookie-Name 17: _shopify_tw
+[Before] Cookie-Name 18: cart_currency
+[Before] Cookie-Name 19: _landing_page
+[Before] Cookie-Name 20: _y
+[Before] Cookie-Name 21: _orig_referrer
+[Before] Cookie-Name 22: _s
+[Before] Cookie-Name 23: shopify_pay_redirect
+[Before] Cookie-Name 24: _shopify_s
+[Before] Cookie-Name 25: _shopify_d
+[Before] Cookie-Name 26: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 31
+[After] Website-Cookies: [{'domain': 'www.strengthshop.eu', 'expiry': 1802034656, 'httpOnly': False, 'name': '_pandectes_gdpr', 'path': '/', 'secure': True, 'value': 'eyJjb3VudHJ5Ijp7ImNvZGUiOiJERSIsInN0YXRlIjoiTlciLCJkZXRlY3RlZCI6MTY0NDM1NDYzOX0sInN0YXR1cyI6ImFsbG93IiwidGltZXN0YW1wIjoxNjQ0MzU0NjU2LCJwcmVmZXJlbmNlcyI6MCwiaWQiOiI2MjAyZGM2MWQzOTFiMmNkNGYxNjU5M2YifQ=='}, {'domain': '.strengthshop.eu', 'expiry': 1652130657, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644354656571.732570535'}, {'domain': '.strengthshop.eu', 'expiry': 1644441056, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1136460112.1644354657'}, {'domain': '.strengthshop.eu', 'expiry': 1707426656, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.2015342454.1644354657'}, {'domain': '.strengthshop.eu', 'expiry': 1675890656, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': '.strengthshop.eu', 'expiry': 1675890656, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22con%22%3A%7B%22GDPR%22%3A%221%22%7D%2C%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': '.strengthshop.eu', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.strengthshop.eu', 'expiry': 1645564239, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644354639'}, {'domain': 'www.strengthshop.eu', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.strengthshop.eu', 'expiry': 1645564239, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A2'}, {'domain': '.strengthshop.eu', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A10%3A38.771Z'}, {'domain': 'www.strengthshop.eu', 'expiry': 1645564256, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': '.strengthshop.eu', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.strengthshop.eu', 'expiry': 1645564256, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '83e802f119929cd1964313a54b2f6e88'}, {'domain': 'www.strengthshop.eu', 'expiry': 1645564239, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c4c89f8dcaa9a17dea81273a5ee7a68a'}, {'domain': '.strengthshop.eu', 'expiry': 1652130637, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.496749331.1644354638'}, {'domain': '.strengthshop.eu', 'expiry': 1644356456, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.strengthshop.eu', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ffcd422b-6ecf-4a3b-9851-344487df3573'}, {'domain': '.strengthshop.eu', 'expiry': 1645564236, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.strengthshop.eu', 'httpOnly': False, 'name': 'snize-recommendation', 'path': '/', 'secure': False, 'value': 'pcl044qjeul'}, {'domain': 'www.strengthshop.eu', 'expiry': 1645564256, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.strengthshop.eu', 'expiry': 1645564256, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.strengthshop.eu', 'expiry': 1675890656, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVptUTJZekkwTlRFdFpEZ3dOaTAwWkRrd0xXSTVObVl0TTJNMFptSTJPRGRtTkRCbQ'}, {'domain': '.strengthshop.eu', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ffcd422b-6ecf-4a3b-9851-344487df3573'}, {'domain': '.strengthshop.eu', 'expiry': 1645564256, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.strengthshop.eu', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a558b6dc-88b3-4eb4-a4a2-11473b8af70f'}, {'domain': 'www.strengthshop.eu', 'expiry': 1644358238, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.strengthshop.eu', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a558b6dc-88b3-4eb4-a4a2-11473b8af70f'}, {'domain': '.strengthshop.eu', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A10%3A38.752Z'}, {'domain': '.strengthshop.eu', 'expiry': 1644354716, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.strengthshop.eu', 'expiry': 1675890656, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _pandectes_gdpr
+[After] Cookie-Name 2: _fbp
+[After] Cookie-Name 3: _gid
+[After] Cookie-Name 4: _ga
+[After] Cookie-Name 5: _shopify_m
+[After] Cookie-Name 6: _tracking_consent
+[After] Cookie-Name 7: _shopify_sa_p
+[After] Cookie-Name 8: cart_ts
+[After] Cookie-Name 9: _shopify_evids
+[After] Cookie-Name 10: cart_ver
+[After] Cookie-Name 11: _shopify_sa_t
+[After] Cookie-Name 12: localization
+[After] Cookie-Name 13: _shopify_evids
+[After] Cookie-Name 14: cart_sig
+[After] Cookie-Name 15: cart
+[After] Cookie-Name 16: _gcl_au
+[After] Cookie-Name 17: _shopify_tm
+[After] Cookie-Name 18: _shopify_y
+[After] Cookie-Name 19: _shopify_tw
+[After] Cookie-Name 20: snize-recommendation
+[After] Cookie-Name 21: cart_currency
+[After] Cookie-Name 22: _landing_page
+[After] Cookie-Name 23: _pin_unauth
+[After] Cookie-Name 24: _y
+[After] Cookie-Name 25: _orig_referrer
+[After] Cookie-Name 26: _s
+[After] Cookie-Name 27: shopify_pay_redirect
+[After] Cookie-Name 28: _shopify_s
+[After] Cookie-Name 29: _shopify_d
+[After] Cookie-Name 30: _gat
+[After] Cookie-Name 31: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 5
+[Difference] Cookie-Name: 1: _gid
+[Difference] Cookie-Name: 2: _pin_unauth
+[Difference] Cookie-Name: 3: _fbp
+[Difference] Cookie-Name: 4: _ga
+[Difference] Cookie-Name: 5: _gat
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

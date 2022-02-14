@@ -1,0 +1,90 @@
+Website 29: http://www.oneodio.de/ | Created: 08.02.2022 21:48:07 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 26
+[Before] Website-Cookies: [{'domain': 'oneodio.de', 'expiry': 1707425283, 'httpOnly': False, 'name': '__pf_user', 'path': '/', 'secure': False, 'value': '1cae8103-ceaa-4cb6-80ba-11072832aac7'}, {'domain': '.oneodio.de', 'expiry': 1644355082, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.oneodio.de', 'expiry': 1644355082, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.oneodio.de', 'expiry': 1644355083, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9b6be4fc-209e-4e5e-bc53-50916a87ed08'}, {'domain': 'oneodio.de', 'expiry': 1645562877, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e4f9bac03efd380b25e11b3da7d4892b'}, {'domain': 'oneodio.de', 'expiry': 1644354183, 'httpOnly': False, 'name': '__pf_session', 'path': '/', 'secure': False, 'value': 'c51cae81-03ce-4a9c-b640-ba11072832aa'}, {'domain': '.oneodio.de', 'expiry': 1644355082, 'httpOnly': False, 'name': '_hjSession_2179250', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImZkMGYzNjNiLWE2ZTMtNDQ4Ni05MWUyLTY5MDc4Y2EwMjY2OCIsImNyZWF0ZWQiOjE2NDQzNTMyODI1MzUsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': 'oneodio.de', 'expiry': 1645562877, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644353277'}, {'domain': 'oneodio.de', 'expiry': 1644353402, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': 'oneodio.de', 'expiry': 1645562877, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '13b8af4a5bc94793e2037e461d041c67'}, {'domain': 'oneodio.de', 'expiry': 1645562877, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.oneodio.de', 'expiry': 1652129282, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644353275255.520434332'}, {'domain': '.oneodio.de', 'expiry': 1644355075, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T20%3A47%3A55.141Z'}, {'domain': '.oneodio.de', 'expiry': 1644355083, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9b6be4fc-209e-4e5e-bc53-50916a87ed08'}, {'domain': 'oneodio.de', 'expiry': 1644353402, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.oneodio.de', 'expiry': 1645562874, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.oneodio.de', 'expiry': 1644353335, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.oneodio.de', 'expiry': 1644355075, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.oneodio.de', 'expiry': 1644439675, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.414306594.1644353275'}, {'domain': '.oneodio.de', 'expiry': 1707425275, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1618873446.1644353275'}, {'domain': '.oneodio.de', 'expiry': 1675889282, 'httpOnly': False, 'name': '_hjSessionUser_2179250', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjViMTA0ZDhlLWRiNTgtNTI0My04YjU1LTQyZDYzNjkwZGJiOSIsImNyZWF0ZWQiOjE2NDQzNTMyODI1MjUsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': 'oneodio.de', 'expiry': 1645562877, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': '.oneodio.de', 'expiry': 1675889283, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8d94efdb-e784-4b7a-be4b-7d4523da1980'}, {'domain': '.oneodio.de', 'expiry': 1675889283, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8d94efdb-e784-4b7a-be4b-7d4523da1980'}, {'domain': '.oneodio.de', 'expiry': 1645562874, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'oneodio.de', 'expiry': 1675889283, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: __pf_user
+[Before] Cookie-Name 2: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 3: _hjFirstSeen
+[Before] Cookie-Name 4: _s
+[Before] Cookie-Name 5: cart_sig
+[Before] Cookie-Name 6: __pf_session
+[Before] Cookie-Name 7: _hjSession_2179250
+[Before] Cookie-Name 8: cart_ts
+[Before] Cookie-Name 9: _hjIncludedInSessionSample
+[Before] Cookie-Name 10: cart
+[Before] Cookie-Name 11: localization
+[Before] Cookie-Name 12: _fbp
+[Before] Cookie-Name 13: _shopify_sa_t
+[Before] Cookie-Name 14: _shopify_s
+[Before] Cookie-Name 15: _hjIncludedInPageviewSample
+[Before] Cookie-Name 16: _landing_page
+[Before] Cookie-Name 17: _gat
+[Before] Cookie-Name 18: _shopify_sa_p
+[Before] Cookie-Name 19: _gid
+[Before] Cookie-Name 20: _ga
+[Before] Cookie-Name 21: _hjSessionUser_2179250
+[Before] Cookie-Name 22: cart_ver
+[Before] Cookie-Name 23: _shopify_y
+[Before] Cookie-Name 24: _y
+[Before] Cookie-Name 25: _orig_referrer
+[Before] Cookie-Name 26: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 26
+[After] Website-Cookies: [{'domain': 'oneodio.de', 'expiry': 1707425283, 'httpOnly': False, 'name': '__pf_user', 'path': '/', 'secure': False, 'value': '1cae8103-ceaa-4cb6-80ba-11072832aac7'}, {'domain': '.oneodio.de', 'expiry': 1644355082, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.oneodio.de', 'expiry': 1644355082, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.oneodio.de', 'expiry': 1644355083, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9b6be4fc-209e-4e5e-bc53-50916a87ed08'}, {'domain': 'oneodio.de', 'expiry': 1645562877, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e4f9bac03efd380b25e11b3da7d4892b'}, {'domain': 'oneodio.de', 'expiry': 1644354183, 'httpOnly': False, 'name': '__pf_session', 'path': '/', 'secure': False, 'value': 'c51cae81-03ce-4a9c-b640-ba11072832aa'}, {'domain': '.oneodio.de', 'expiry': 1644355082, 'httpOnly': False, 'name': '_hjSession_2179250', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImZkMGYzNjNiLWE2ZTMtNDQ4Ni05MWUyLTY5MDc4Y2EwMjY2OCIsImNyZWF0ZWQiOjE2NDQzNTMyODI1MzUsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': 'oneodio.de', 'expiry': 1645562877, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644353277'}, {'domain': 'oneodio.de', 'expiry': 1644353402, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': 'oneodio.de', 'expiry': 1645562877, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '13b8af4a5bc94793e2037e461d041c67'}, {'domain': 'oneodio.de', 'expiry': 1645562877, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.oneodio.de', 'expiry': 1652129282, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644353275255.520434332'}, {'domain': '.oneodio.de', 'expiry': 1644355075, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T20%3A47%3A55.141Z'}, {'domain': '.oneodio.de', 'expiry': 1644355083, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9b6be4fc-209e-4e5e-bc53-50916a87ed08'}, {'domain': 'oneodio.de', 'expiry': 1644353402, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.oneodio.de', 'expiry': 1645562874, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.oneodio.de', 'expiry': 1644353335, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.oneodio.de', 'expiry': 1644355075, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.oneodio.de', 'expiry': 1644439675, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.414306594.1644353275'}, {'domain': '.oneodio.de', 'expiry': 1707425275, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1618873446.1644353275'}, {'domain': '.oneodio.de', 'expiry': 1675889282, 'httpOnly': False, 'name': '_hjSessionUser_2179250', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjViMTA0ZDhlLWRiNTgtNTI0My04YjU1LTQyZDYzNjkwZGJiOSIsImNyZWF0ZWQiOjE2NDQzNTMyODI1MjUsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': 'oneodio.de', 'expiry': 1645562877, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': '.oneodio.de', 'expiry': 1675889283, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8d94efdb-e784-4b7a-be4b-7d4523da1980'}, {'domain': '.oneodio.de', 'expiry': 1675889283, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8d94efdb-e784-4b7a-be4b-7d4523da1980'}, {'domain': '.oneodio.de', 'expiry': 1645562874, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'oneodio.de', 'expiry': 1675889283, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: __pf_user
+[After] Cookie-Name 2: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 3: _hjFirstSeen
+[After] Cookie-Name 4: _s
+[After] Cookie-Name 5: cart_sig
+[After] Cookie-Name 6: __pf_session
+[After] Cookie-Name 7: _hjSession_2179250
+[After] Cookie-Name 8: cart_ts
+[After] Cookie-Name 9: _hjIncludedInSessionSample
+[After] Cookie-Name 10: cart
+[After] Cookie-Name 11: localization
+[After] Cookie-Name 12: _fbp
+[After] Cookie-Name 13: _shopify_sa_t
+[After] Cookie-Name 14: _shopify_s
+[After] Cookie-Name 15: _hjIncludedInPageviewSample
+[After] Cookie-Name 16: _landing_page
+[After] Cookie-Name 17: _gat
+[After] Cookie-Name 18: _shopify_sa_p
+[After] Cookie-Name 19: _gid
+[After] Cookie-Name 20: _ga
+[After] Cookie-Name 21: _hjSessionUser_2179250
+[After] Cookie-Name 22: cart_ver
+[After] Cookie-Name 23: _shopify_y
+[After] Cookie-Name 24: _y
+[After] Cookie-Name 25: _orig_referrer
+[After] Cookie-Name 26: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjIncludedInSessionSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _hjIncludedInPageviewSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

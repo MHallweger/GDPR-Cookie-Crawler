@@ -1,0 +1,129 @@
+Website 183: http://www.ketofaktur.de/ | Created: 08.02.2022 22:35:21 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 35
+[Before] Website-Cookies: [{'domain': 'ketofaktur.de', 'expiry': 1644356231, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.ketofaktur.de', 'expiry': 1644357911, 'httpOnly': False, 'name': '_hjSession_2520500', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjE3MzU2Zjg4LWI1NTAtNDg3Yi05NzIzLTQzZjU2MTAzYzkyYyIsImNyZWF0ZWQiOjE2NDQzNTYxMTE0MDQsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': 'ketofaktur.de', 'expiry': 1644356231, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.ketofaktur.de', 'expiry': 1644357911, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.ketofaktur.de', 'expiry': 1675892111, 'httpOnly': False, 'name': '_hjSessionUser_2520500', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjU4ZmNhMGZiLTZkYjktNWFiNy04MzBjLTQ3OGU4ZTU1MmY2YSIsImNyZWF0ZWQiOjE2NDQzNTYxMTEzMDQsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': 'ketofaktur.de', 'expiry': 1644356411, 'httpOnly': False, 'name': 'sro_ketofaktur.myshopify.com_order', 'path': '/', 'secure': False, 'value': '0'}, {'domain': 'ketofaktur.de', 'expiry': 1644359711, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.ketofaktur.de', 'expiry': 1652132110, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.433919160.1644356111'}, {'domain': '.ketofaktur.de', 'expiry': 1652132111, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644356110716.2076279220'}, {'domain': '.ketofaktur.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.ketofaktur.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A35%3A10.617Z'}, {'domain': '.ketofaktur.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.ketofaktur.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A35%3A10.578Z'}, {'domain': 'ketofaktur.de', 'expiry': 1644356411, 'httpOnly': False, 'name': 'sro_ketofaktur.myshopify.com_cart', 'path': '/', 'secure': False, 'value': '0'}, {'domain': 'ketofaktur.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'ketofaktur.de', 'expiry': 1644357910, 'httpOnly': False, 'name': 'baMet_visit', 'path': '/', 'secure': False, 'value': '70c413ad3fd748089320ee285bbb079f1644356110552'}, {'domain': '.ketofaktur.de', 'expiry': 1644356170, 'httpOnly': False, 'name': '_gat_gtag_UA_203484435_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.ketofaktur.de', 'expiry': 1645565710, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.ketofaktur.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.ketofaktur.de', 'expiry': 1707428110, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1703808864.1644356111'}, {'domain': 'ketofaktur.de', 'expiry': 1644356411, 'httpOnly': False, 'name': 'sro_ketofaktur.myshopify.com_custom', 'path': '/', 'secure': False, 'value': '0'}, {'domain': '.ketofaktur.de', 'expiry': 1644357911, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.ketofaktur.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd9fa8ea7-0752-4b70-abe9-7cbdf049c723'}, {'domain': 'ketofaktur.de', 'expiry': 1644356172, 'httpOnly': False, 'name': 'baMet_baEvs', 'path': '/', 'secure': False, 'value': '%5B%5D'}, {'domain': '.ketofaktur.de', 'expiry': 1644357911, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.ketofaktur.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd9fa8ea7-0752-4b70-abe9-7cbdf049c723'}, {'domain': '.ketofaktur.de', 'expiry': 1644442510, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.587235490.1644356111'}, {'domain': '.ketofaktur.de', 'expiry': 1675892110, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': '.ketofaktur.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '335898e9-f656-445b-9499-895d53137ca6'}, {'domain': '.ketofaktur.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'ketofaktur.de', 'expiry': 1645565711, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.ketofaktur.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '335898e9-f656-445b-9499-895d53137ca6'}, {'domain': '.ketofaktur.de', 'expiry': 1675892110, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': 'ketofaktur.de', 'expiry': 1645565711, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': 'ketofaktur.de', 'expiry': 1675892111, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _hjIncludedInPageviewSample
+[Before] Cookie-Name 2: _hjSession_2520500
+[Before] Cookie-Name 3: _hjIncludedInSessionSample
+[Before] Cookie-Name 4: _hjFirstSeen
+[Before] Cookie-Name 5: _hjSessionUser_2520500
+[Before] Cookie-Name 6: sro_ketofaktur.myshopify.com_order
+[Before] Cookie-Name 7: shopify_pay_redirect
+[Before] Cookie-Name 8: _gcl_au
+[Before] Cookie-Name 9: _fbp
+[Before] Cookie-Name 10: _shopify_sa_p
+[Before] Cookie-Name 11: _shopify_sa_t
+[Before] Cookie-Name 12: _shopify_evids
+[Before] Cookie-Name 13: _shopify_d
+[Before] Cookie-Name 14: sro_ketofaktur.myshopify.com_cart
+[Before] Cookie-Name 15: _shopify_evids
+[Before] Cookie-Name 16: baMet_visit
+[Before] Cookie-Name 17: _gat_gtag_UA_203484435_1
+[Before] Cookie-Name 18: _shopify_tw
+[Before] Cookie-Name 19: _landing_page
+[Before] Cookie-Name 20: _ga
+[Before] Cookie-Name 21: sro_ketofaktur.myshopify.com_custom
+[Before] Cookie-Name 22: _shopify_tm
+[Before] Cookie-Name 23: _shopify_s
+[Before] Cookie-Name 24: baMet_baEvs
+[Before] Cookie-Name 25: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 26: _s
+[Before] Cookie-Name 27: _gid
+[Before] Cookie-Name 28: _tracking_consent
+[Before] Cookie-Name 29: _y
+[Before] Cookie-Name 30: _orig_referrer
+[Before] Cookie-Name 31: localization
+[Before] Cookie-Name 32: _shopify_y
+[Before] Cookie-Name 33: _shopify_m
+[Before] Cookie-Name 34: cart_currency
+[Before] Cookie-Name 35: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 47
+[After] Website-Cookies: [{'domain': '.ketofaktur.de', 'expiry': 1644356188, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.ketofaktur.de', 'expiry': 1675892128, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%221%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%7D'}, {'domain': '.ketofaktur.de', 'expiry': 1675892128, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': 'ketofaktur.de', 'expiry': 1645565728, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644356128'}, {'domain': 'ketofaktur.de', 'expiry': 1645565728, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4639079eef34781b8bdad55a2da4765f'}, {'domain': '.ketofaktur.de', 'expiry': 1678052127, 'httpOnly': False, 'name': '__hs_opt_out', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'no'}, {'domain': '.ketofaktur.de', 'httpOnly': False, 'name': '__hssrc', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '1'}, {'domain': '.ketofaktur.de', 'expiry': 1678052127, 'httpOnly': False, 'name': 'hubspotutk', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '41ee0b592377cfbde6e2d522512b8319'}, {'domain': 'ketofaktur.de', 'expiry': 1644356231, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.ketofaktur.de', 'expiry': 1644357911, 'httpOnly': False, 'name': '_hjSession_2520500', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjE3MzU2Zjg4LWI1NTAtNDg3Yi05NzIzLTQzZjU2MTAzYzkyYyIsImNyZWF0ZWQiOjE2NDQzNTYxMTE0MDQsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': 'ketofaktur.de', 'expiry': 1644356231, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.ketofaktur.de', 'expiry': 1644357911, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.ketofaktur.de', 'expiry': 1675892111, 'httpOnly': False, 'name': '_hjSessionUser_2520500', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjU4ZmNhMGZiLTZkYjktNWFiNy04MzBjLTQ3OGU4ZTU1MmY2YSIsImNyZWF0ZWQiOjE2NDQzNTYxMTEzMDQsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.ketofaktur.de', 'expiry': 1652132127, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644356110716.2076279220'}, {'domain': 'ketofaktur.de', 'expiry': 1645565728, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2a6f8207925b766fff204353d2597d62'}, {'domain': '.ketofaktur.de', 'expiry': 1652132110, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.433919160.1644356111'}, {'domain': '.ketofaktur.de', 'expiry': 1644357928, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.ketofaktur.de', 'expiry': 1644357928, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A35%3A10.617Z'}, {'domain': '.ketofaktur.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.ketofaktur.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A35%3A10.578Z'}, {'domain': 'ketofaktur.de', 'expiry': 1644356411, 'httpOnly': False, 'name': 'sro_ketofaktur.myshopify.com_cart', 'path': '/', 'secure': False, 'value': '0'}, {'domain': 'ketofaktur.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.ketofaktur.de', 'expiry': 1644357927, 'httpOnly': False, 'name': '__hssc', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '154889703.1.1644356112413'}, {'domain': 'ketofaktur.de', 'expiry': 1644357910, 'httpOnly': False, 'name': 'baMet_visit', 'path': '/', 'secure': False, 'value': '70c413ad3fd748089320ee285bbb079f1644356110552'}, {'domain': '.ketofaktur.de', 'expiry': 1644356170, 'httpOnly': False, 'name': '_gat_gtag_UA_203484435_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.ketofaktur.de', 'expiry': 1645565710, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.ketofaktur.de', 'expiry': 1645565728, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.ketofaktur.de', 'expiry': 1707428128, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1703808864.1644356111'}, {'domain': 'ketofaktur.de', 'expiry': 1644356411, 'httpOnly': False, 'name': 'sro_ketofaktur.myshopify.com_custom', 'path': '/', 'secure': False, 'value': '0'}, {'domain': '.ketofaktur.de', 'expiry': 1644357928, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.ketofaktur.de', 'expiry': 1644357928, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd9fa8ea7-0752-4b70-abe9-7cbdf049c723'}, {'domain': 'ketofaktur.de', 'expiry': 1644356172, 'httpOnly': False, 'name': 'baMet_baEvs', 'path': '/', 'secure': False, 'value': '%5B%5D'}, {'domain': '.ketofaktur.de', 'expiry': 1644357911, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.ketofaktur.de', 'expiry': 1644357928, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd9fa8ea7-0752-4b70-abe9-7cbdf049c723'}, {'domain': 'ketofaktur.de', 'expiry': 1645565728, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': '.ketofaktur.de', 'expiry': 1644442528, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.587235490.1644356111'}, {'domain': '.ketofaktur.de', 'expiry': 1675892128, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '335898e9-f656-445b-9499-895d53137ca6'}, {'domain': 'ketofaktur.de', 'expiry': 1644356411, 'httpOnly': False, 'name': 'sro_ketofaktur.myshopify.com_order', 'path': '/', 'secure': False, 'value': '0'}, {'domain': 'ketofaktur.de', 'expiry': 1644359711, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.ketofaktur.de', 'expiry': 1645565728, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'ketofaktur.de', 'expiry': 1645565728, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.ketofaktur.de', 'expiry': 1675892128, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '335898e9-f656-445b-9499-895d53137ca6'}, {'domain': '.ketofaktur.de', 'expiry': 1678052127, 'httpOnly': False, 'name': '__hstc', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '154889703.41ee0b592377cfbde6e2d522512b8319.1644356112413.1644356112413.1644356112413.1'}, {'domain': 'ketofaktur.de', 'expiry': 1645565728, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.ketofaktur.de', 'expiry': 1675892128, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVptUTJZekkwTlRFdFpEZ3dOaTAwWkRrd0xXSTVObVl0TTJNMFptSTJPRGRtTkRCbQ'}, {'domain': '.ketofaktur.de', 'expiry': 1644960927, 'httpOnly': False, 'name': '__hs_initial_opt_in', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'true'}, {'domain': 'ketofaktur.de', 'expiry': 1675892128, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _gat
+[After] Cookie-Name 2: _tracking_consent
+[After] Cookie-Name 3: _shopify_m
+[After] Cookie-Name 4: cart_ts
+[After] Cookie-Name 5: cart_sig
+[After] Cookie-Name 6: __hs_opt_out
+[After] Cookie-Name 7: __hssrc
+[After] Cookie-Name 8: hubspotutk
+[After] Cookie-Name 9: _hjIncludedInPageviewSample
+[After] Cookie-Name 10: _hjSession_2520500
+[After] Cookie-Name 11: _hjIncludedInSessionSample
+[After] Cookie-Name 12: _hjFirstSeen
+[After] Cookie-Name 13: _hjSessionUser_2520500
+[After] Cookie-Name 14: _fbp
+[After] Cookie-Name 15: cart
+[After] Cookie-Name 16: _gcl_au
+[After] Cookie-Name 17: _shopify_sa_p
+[After] Cookie-Name 18: _shopify_sa_t
+[After] Cookie-Name 19: _shopify_evids
+[After] Cookie-Name 20: _shopify_d
+[After] Cookie-Name 21: sro_ketofaktur.myshopify.com_cart
+[After] Cookie-Name 22: _shopify_evids
+[After] Cookie-Name 23: __hssc
+[After] Cookie-Name 24: baMet_visit
+[After] Cookie-Name 25: _gat_gtag_UA_203484435_1
+[After] Cookie-Name 26: _shopify_tw
+[After] Cookie-Name 27: _landing_page
+[After] Cookie-Name 28: _ga
+[After] Cookie-Name 29: sro_ketofaktur.myshopify.com_custom
+[After] Cookie-Name 30: _shopify_tm
+[After] Cookie-Name 31: _shopify_s
+[After] Cookie-Name 32: baMet_baEvs
+[After] Cookie-Name 33: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 34: _s
+[After] Cookie-Name 35: cart_ver
+[After] Cookie-Name 36: _gid
+[After] Cookie-Name 37: _y
+[After] Cookie-Name 38: sro_ketofaktur.myshopify.com_order
+[After] Cookie-Name 39: shopify_pay_redirect
+[After] Cookie-Name 40: _orig_referrer
+[After] Cookie-Name 41: localization
+[After] Cookie-Name 42: _shopify_y
+[After] Cookie-Name 43: __hstc
+[After] Cookie-Name 44: cart_currency
+[After] Cookie-Name 45: _pin_unauth
+[After] Cookie-Name 46: __hs_initial_opt_in
+[After] Cookie-Name 47: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _hjIncludedInPageviewSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjIncludedInSessionSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+[Used before] Cookie-Name: _gid (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 12
+[Difference] Cookie-Name: 1: __hstc
+[Difference] Cookie-Name: 2: __hssrc
+[Difference] Cookie-Name: 3: _pin_unauth
+[Difference] Cookie-Name: 4: __hs_opt_out
+[Difference] Cookie-Name: 5: cart_ver
+[Difference] Cookie-Name: 6: cart_ts
+[Difference] Cookie-Name: 7: cart
+[Difference] Cookie-Name: 8: __hssc
+[Difference] Cookie-Name: 9: __hs_initial_opt_in
+[Difference] Cookie-Name: 10: _gat
+[Difference] Cookie-Name: 11: hubspotutk
+[Difference] Cookie-Name: 12: cart_sig
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

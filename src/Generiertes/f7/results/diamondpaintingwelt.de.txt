@@ -1,0 +1,87 @@
+Website 203: http://www.diamondpaintingwelt.de/ | Created: 10.02.2022 18:20:41 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 25
+[Before] Website-Cookies: [{'domain': 'diamondpaintingwelt.de', 'expiry': 1645723234, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A2'}, {'domain': 'diamondpaintingwelt.de', 'expiry': 1645723234, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1ddaf54a1f11b1028f57f269b5afb4f5'}, {'domain': 'diamondpaintingwelt.de', 'expiry': 1645723234, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'diamondpaintingwelt.de', 'expiry': 1645723234, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644513633'}, {'domain': 'diamondpaintingwelt.de', 'expiry': 1645723234, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '114cb07cdebc78ac20374d760549fa60'}, {'domain': 'diamondpaintingwelt.de', 'httpOnly': False, 'name': 'snize-recommendation', 'path': '/', 'secure': False, 'value': 'skof1g9f2we'}, {'domain': '.diamondpaintingwelt.de', 'httpOnly': False, 'name': '_g1643280481', 'path': '/', 'secure': False, 'value': 'RVVS'}, {'domain': 'diamondpaintingwelt.de', 'expiry': 1707585632, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ1MTM2MzIsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vZGlhbW9uZHBhaW50aW5nd2VsdC5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQ1MTM2MzIsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vZGlhbW9uZHBhaW50aW5nd2VsdC5kZS8ifX0='}, {'domain': 'diamondpaintingwelt.de', 'expiry': 1676049637, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'diamondpaintingwelt.de', 'expiry': 1676049632, 'httpOnly': False, 'name': 'po_visitor', 'path': '/', 'secure': False, 'value': 'Zlmc_fA6zl8A'}, {'domain': '.diamondpaintingwelt.de', 'expiry': 1676049631, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU56Vm1OR1JqWWprdE1ESTBPQzAwTkRVekxUbGlaVEF0TVdZellUWm1ZelV6TXpGbQ'}, {'domain': '.diamondpaintingwelt.de', 'expiry': 1652289631, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1498851795.1644513632'}, {'domain': '.diamondpaintingwelt.de', 'expiry': 1645723231, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.diamondpaintingwelt.de', 'expiry': 1644515437, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '23dacb60-18b5-48f8-9bf4-3e0ac7e72889'}, {'domain': '.diamondpaintingwelt.de', 'expiry': 1644600031, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.2113384354.1644513632'}, {'domain': '.diamondpaintingwelt.de', 'expiry': 1644515437, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '23dacb60-18b5-48f8-9bf4-3e0ac7e72889'}, {'domain': '.diamondpaintingwelt.de', 'expiry': 1652289632, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644513631906.854690585'}, {'domain': '.diamondpaintingwelt.de', 'expiry': 1644515431, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.diamondpaintingwelt.de', 'expiry': 1676049637, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '717227eb-4a28-474b-bfb8-7e9489f6c0d2'}, {'domain': '.diamondpaintingwelt.de', 'expiry': 1644515431, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A20%3A31.717Z'}, {'domain': '.diamondpaintingwelt.de', 'expiry': 1644513691, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.diamondpaintingwelt.de', 'expiry': 1676049637, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '717227eb-4a28-474b-bfb8-7e9489f6c0d2'}, {'domain': '.diamondpaintingwelt.de', 'expiry': 1645723231, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'diamondpaintingwelt.de', 'expiry': 1645723234, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.diamondpaintingwelt.de', 'expiry': 1707585631, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.688525558.1644513632'}]
+[Before] Cookie-Name 1: cart_ver
+[Before] Cookie-Name 2: cart_sig
+[Before] Cookie-Name 3: cart_currency
+[Before] Cookie-Name 4: cart_ts
+[Before] Cookie-Name 5: cart
+[Before] Cookie-Name 6: snize-recommendation
+[Before] Cookie-Name 7: _g1643280481
+[Before] Cookie-Name 8: __kla_id
+[Before] Cookie-Name 9: secure_customer_sig
+[Before] Cookie-Name 10: po_visitor
+[Before] Cookie-Name 11: _pin_unauth
+[Before] Cookie-Name 12: _gcl_au
+[Before] Cookie-Name 13: _landing_page
+[Before] Cookie-Name 14: _s
+[Before] Cookie-Name 15: _gid
+[Before] Cookie-Name 16: _shopify_s
+[Before] Cookie-Name 17: _fbp
+[Before] Cookie-Name 18: _shopify_sa_p
+[Before] Cookie-Name 19: _shopify_y
+[Before] Cookie-Name 20: _shopify_sa_t
+[Before] Cookie-Name 21: _gat
+[Before] Cookie-Name 22: _y
+[Before] Cookie-Name 23: _orig_referrer
+[Before] Cookie-Name 24: localization
+[Before] Cookie-Name 25: _ga
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 25
+[After] Website-Cookies: [{'domain': 'diamondpaintingwelt.de', 'expiry': 1645723234, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A2'}, {'domain': 'diamondpaintingwelt.de', 'expiry': 1645723234, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1ddaf54a1f11b1028f57f269b5afb4f5'}, {'domain': 'diamondpaintingwelt.de', 'expiry': 1645723234, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'diamondpaintingwelt.de', 'expiry': 1645723234, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644513633'}, {'domain': 'diamondpaintingwelt.de', 'expiry': 1645723234, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '114cb07cdebc78ac20374d760549fa60'}, {'domain': 'diamondpaintingwelt.de', 'httpOnly': False, 'name': 'snize-recommendation', 'path': '/', 'secure': False, 'value': 'skof1g9f2we'}, {'domain': '.diamondpaintingwelt.de', 'httpOnly': False, 'name': '_g1643280481', 'path': '/', 'secure': False, 'value': 'RVVS'}, {'domain': 'diamondpaintingwelt.de', 'expiry': 1707585632, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ1MTM2MzIsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vZGlhbW9uZHBhaW50aW5nd2VsdC5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQ1MTM2MzIsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vZGlhbW9uZHBhaW50aW5nd2VsdC5kZS8ifX0='}, {'domain': 'diamondpaintingwelt.de', 'expiry': 1676049637, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'diamondpaintingwelt.de', 'expiry': 1676049632, 'httpOnly': False, 'name': 'po_visitor', 'path': '/', 'secure': False, 'value': 'Zlmc_fA6zl8A'}, {'domain': '.diamondpaintingwelt.de', 'expiry': 1676049631, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU56Vm1OR1JqWWprdE1ESTBPQzAwTkRVekxUbGlaVEF0TVdZellUWm1ZelV6TXpGbQ'}, {'domain': '.diamondpaintingwelt.de', 'expiry': 1652289631, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1498851795.1644513632'}, {'domain': '.diamondpaintingwelt.de', 'expiry': 1645723231, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.diamondpaintingwelt.de', 'expiry': 1644515437, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '23dacb60-18b5-48f8-9bf4-3e0ac7e72889'}, {'domain': '.diamondpaintingwelt.de', 'expiry': 1644600031, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.2113384354.1644513632'}, {'domain': '.diamondpaintingwelt.de', 'expiry': 1644515437, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '23dacb60-18b5-48f8-9bf4-3e0ac7e72889'}, {'domain': '.diamondpaintingwelt.de', 'expiry': 1652289632, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644513631906.854690585'}, {'domain': '.diamondpaintingwelt.de', 'expiry': 1644515431, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.diamondpaintingwelt.de', 'expiry': 1676049637, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '717227eb-4a28-474b-bfb8-7e9489f6c0d2'}, {'domain': '.diamondpaintingwelt.de', 'expiry': 1644515431, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A20%3A31.717Z'}, {'domain': '.diamondpaintingwelt.de', 'expiry': 1644513691, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.diamondpaintingwelt.de', 'expiry': 1676049637, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '717227eb-4a28-474b-bfb8-7e9489f6c0d2'}, {'domain': '.diamondpaintingwelt.de', 'expiry': 1645723231, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'diamondpaintingwelt.de', 'expiry': 1645723234, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.diamondpaintingwelt.de', 'expiry': 1707585631, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.688525558.1644513632'}]
+[After] Cookie-Name 1: cart_ver
+[After] Cookie-Name 2: cart_sig
+[After] Cookie-Name 3: cart_currency
+[After] Cookie-Name 4: cart_ts
+[After] Cookie-Name 5: cart
+[After] Cookie-Name 6: snize-recommendation
+[After] Cookie-Name 7: _g1643280481
+[After] Cookie-Name 8: __kla_id
+[After] Cookie-Name 9: secure_customer_sig
+[After] Cookie-Name 10: po_visitor
+[After] Cookie-Name 11: _pin_unauth
+[After] Cookie-Name 12: _gcl_au
+[After] Cookie-Name 13: _landing_page
+[After] Cookie-Name 14: _s
+[After] Cookie-Name 15: _gid
+[After] Cookie-Name 16: _shopify_s
+[After] Cookie-Name 17: _fbp
+[After] Cookie-Name 18: _shopify_sa_p
+[After] Cookie-Name 19: _shopify_y
+[After] Cookie-Name 20: _shopify_sa_t
+[After] Cookie-Name 21: _gat
+[After] Cookie-Name 22: _y
+[After] Cookie-Name 23: _orig_referrer
+[After] Cookie-Name 24: localization
+[After] Cookie-Name 25: _ga
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

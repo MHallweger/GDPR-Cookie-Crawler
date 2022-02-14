@@ -1,0 +1,74 @@
+Website 133: http://www.dein-lieblingsfoto.de/ | Created: 10.02.2022 20:37:03 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 20
+[Before] Website-Cookies: [{'domain': '.dein-lieblingsfoto.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T19%3A36%3A53.881Z'}, {'domain': '.dein-lieblingsfoto.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.dein-lieblingsfoto.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T19%3A36%3A53.869Z'}, {'domain': '.dein-lieblingsfoto.de', 'expiry': 1676057813, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': 'dein-lieblingsfoto.de', 'expiry': 1644525414, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.dein-lieblingsfoto.de', 'expiry': 1645731413, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.dein-lieblingsfoto.de', 'expiry': 1652297815, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.48136411.1644521815'}, {'domain': 'dein-lieblingsfoto.de', 'expiry': 1645731415, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.dein-lieblingsfoto.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.dein-lieblingsfoto.de', 'expiry': 1644523615, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.dein-lieblingsfoto.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a5e36861-f90b-44d1-a6a9-d512da0d03b5'}, {'domain': '.dein-lieblingsfoto.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.dein-lieblingsfoto.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.dein-lieblingsfoto.de', 'expiry': 1676057813, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%7D'}, {'domain': '.dein-lieblingsfoto.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a5e36861-f90b-44d1-a6a9-d512da0d03b5'}, {'domain': 'dein-lieblingsfoto.de', 'expiry': 1645731415, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'dein-lieblingsfoto.de', 'expiry': 1676057815, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'dein-lieblingsfoto.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.dein-lieblingsfoto.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'caadba84-5b69-4e27-afe9-6a551210061e'}, {'domain': '.dein-lieblingsfoto.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'caadba84-5b69-4e27-afe9-6a551210061e'}]
+[Before] Cookie-Name 1: _shopify_sa_t
+[Before] Cookie-Name 2: _shopify_evids
+[Before] Cookie-Name 3: _shopify_d
+[Before] Cookie-Name 4: _shopify_m
+[Before] Cookie-Name 5: shopify_pay_redirect
+[Before] Cookie-Name 6: _shopify_tw
+[Before] Cookie-Name 7: _gcl_au
+[Before] Cookie-Name 8: localization
+[Before] Cookie-Name 9: _orig_referrer
+[Before] Cookie-Name 10: _shopify_tm
+[Before] Cookie-Name 11: _shopify_s
+[Before] Cookie-Name 12: _shopify_sa_p
+[Before] Cookie-Name 13: _landing_page
+[Before] Cookie-Name 14: _tracking_consent
+[Before] Cookie-Name 15: _s
+[Before] Cookie-Name 16: cart_currency
+[Before] Cookie-Name 17: secure_customer_sig
+[Before] Cookie-Name 18: _shopify_evids
+[Before] Cookie-Name 19: _shopify_y
+[Before] Cookie-Name 20: _y
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 23
+[After] Website-Cookies: [{'domain': '.dein-lieblingsfoto.de', 'expiry': 1652297831, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644521830504.984702934'}, {'domain': '.dein-lieblingsfoto.de', 'expiry': 1676057829, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': '.dein-lieblingsfoto.de', 'expiry': 1676057829, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22con%22%3A%7B%22GDPR%22%3A%221%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%7D'}, {'domain': 'dein-lieblingsfoto.de', 'expiry': 1645731429, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a5e47b11513b4c223deae3615d68f71f'}, {'domain': '.dein-lieblingsfoto.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T19%3A36%3A53.881Z'}, {'domain': '.dein-lieblingsfoto.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.dein-lieblingsfoto.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T19%3A36%3A53.869Z'}, {'domain': '.dein-lieblingsfoto.de', 'expiry': 1652297815, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.48136411.1644521815'}, {'domain': 'dein-lieblingsfoto.de', 'expiry': 1645731429, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.dein-lieblingsfoto.de', 'expiry': 1645731429, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.dein-lieblingsfoto.de', 'expiry': 1644523629, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.dein-lieblingsfoto.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a5e36861-f90b-44d1-a6a9-d512da0d03b5'}, {'domain': 'dein-lieblingsfoto.de', 'expiry': 1676057829, 'httpOnly': False, 'name': 'cookieconsent_status', 'path': '/', 'secure': False, 'value': 'dismiss'}, {'domain': '.dein-lieblingsfoto.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.dein-lieblingsfoto.de', 'expiry': 1645731429, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.dein-lieblingsfoto.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a5e36861-f90b-44d1-a6a9-d512da0d03b5'}, {'domain': 'dein-lieblingsfoto.de', 'expiry': 1645731429, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'dein-lieblingsfoto.de', 'expiry': 1644525414, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.dein-lieblingsfoto.de', 'expiry': 1645731413, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'dein-lieblingsfoto.de', 'expiry': 1676057829, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'dein-lieblingsfoto.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.dein-lieblingsfoto.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'caadba84-5b69-4e27-afe9-6a551210061e'}, {'domain': '.dein-lieblingsfoto.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'caadba84-5b69-4e27-afe9-6a551210061e'}]
+[After] Cookie-Name 1: _fbp
+[After] Cookie-Name 2: _shopify_m
+[After] Cookie-Name 3: _tracking_consent
+[After] Cookie-Name 4: cart_sig
+[After] Cookie-Name 5: _shopify_sa_t
+[After] Cookie-Name 6: _shopify_evids
+[After] Cookie-Name 7: _shopify_d
+[After] Cookie-Name 8: _gcl_au
+[After] Cookie-Name 9: localization
+[After] Cookie-Name 10: _orig_referrer
+[After] Cookie-Name 11: _shopify_tm
+[After] Cookie-Name 12: _shopify_s
+[After] Cookie-Name 13: cookieconsent_status
+[After] Cookie-Name 14: _shopify_sa_p
+[After] Cookie-Name 15: _landing_page
+[After] Cookie-Name 16: _s
+[After] Cookie-Name 17: cart_currency
+[After] Cookie-Name 18: shopify_pay_redirect
+[After] Cookie-Name 19: _shopify_tw
+[After] Cookie-Name 20: secure_customer_sig
+[After] Cookie-Name 21: _shopify_evids
+[After] Cookie-Name 22: _shopify_y
+[After] Cookie-Name 23: _y
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 3
+[Difference] Cookie-Name: 1: _fbp
+[Difference] Cookie-Name: 2: cart_sig
+[Difference] Cookie-Name: 3: cookieconsent_status
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

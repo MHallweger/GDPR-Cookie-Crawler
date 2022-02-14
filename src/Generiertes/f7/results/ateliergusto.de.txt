@@ -1,0 +1,120 @@
+Website 263: http://www.ateliergusto.de/ | Created: 10.02.2022 18:38:26 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 38
+[Before] Website-Cookies: [{'domain': 'ateliergusto.de', 'expiry': 1644514999, 'httpOnly': False, 'name': 'trustedsite_tm_float_seen', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'ateliergusto.de', 'expiry': 1644601099, 'httpOnly': False, 'name': 'trustedsite_visit', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.ateliergusto.de', 'expiry': 1761709098, 'httpOnly': False, 'name': 'rptkn', 'path': '/', 'secure': False, 'value': 'evtarchitektur3342'}, {'domain': '.ateliergusto.de', 'expiry': 1644536298, 'httpOnly': False, 'name': 'rpsid', 'path': '/', 'secure': False, 'value': '14666f52-c5f6-4989-85ff-94abdd29e696'}, {'domain': '.ateliergusto.de', 'httpOnly': False, 'name': 'ku1-sid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': 'gXSc3U_tcpBbD-f5DDa9A'}, {'domain': 'ateliergusto.de', 'expiry': 1644514730, 'httpOnly': False, 'name': 'rp_firstName', 'path': '/', 'secure': False, 'value': ''}, {'domain': 'ateliergusto.de', 'expiry': 1644514730, 'httpOnly': False, 'name': 'rp_lastName', 'path': '/', 'secure': False, 'value': ''}, {'domain': 'ateliergusto.de', 'expiry': 1644514730, 'httpOnly': False, 'name': 'rp_customer_id', 'path': '/', 'secure': False, 'value': ''}, {'domain': 'ateliergusto.de', 'expiry': 1676050698, 'httpOnly': False, 'name': 'wishlist_customer_id', 'path': '/', 'secure': False, 'value': '0'}, {'domain': '.ateliergusto.de', 'expiry': 1676050697, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU56Vm1OR1JqWWprdE1ESTBPQzAwTkRVekxUbGlaVEF0TVdZellUWm1ZelV6TXpGbQ'}, {'domain': '.ateliergusto.de', 'expiry': 1644601096, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.250814761.1644514697'}, {'domain': '.ateliergusto.de', 'expiry': 1707586696, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1235388030.1644514697'}, {'domain': '.ateliergusto.de', 'expiry': 1676050695, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': '.ateliergusto.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.ateliergusto.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A38%3A16.888Z'}, {'domain': 'ateliergusto.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'ateliergusto.de', 'expiry': 1676050698, 'httpOnly': False, 'name': 'bookmarkeditems', 'path': '/', 'secure': False, 'value': '{"items":[]}'}, {'domain': '.ateliergusto.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A38%3A16.795Z'}, {'domain': '.ateliergusto.de', 'expiry': 1761709098, 'httpOnly': False, 'name': 'rpdid', 'path': '/', 'secure': False, 'value': '543d8275-9959-4a84-803b-c912047673f8'}, {'domain': '.ateliergusto.de', 'expiry': 1676050695, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.ateliergusto.de', 'expiry': 1645724295, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.ateliergusto.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b0194f42-24cb-422b-bce6-5b6d4f625a8e'}, {'domain': '.ateliergusto.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'ateliergusto.de', 'expiry': 1645724307, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': '.ateliergusto.de', 'expiry': 1644516507, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.ateliergusto.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b0194f42-24cb-422b-bce6-5b6d4f625a8e'}, {'domain': 'ateliergusto.de', 'expiry': 1676050698, 'httpOnly': False, 'name': 'wishlist_id', 'path': '/', 'secure': False, 'value': '10464985143thoioxsuuvg'}, {'domain': '.ateliergusto.de', 'expiry': 1652290697, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.2057092752.1644514697'}, {'domain': 'ateliergusto.de', 'expiry': 1645724307, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.ateliergusto.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '99a95c41-e3f4-4ff5-9720-592ecb948de8'}, {'domain': '.ateliergusto.de', 'expiry': 1644514756, 'httpOnly': False, 'name': '_gat_gtag_UA_156792892_2', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'ateliergusto.de', 'expiry': 1644516496, 'httpOnly': False, 'name': 'baMet_visit', 'path': '/', 'secure': False, 'value': 'eecde42630e4425e8205eef7f72a8a441644514696729'}, {'domain': 'ateliergusto.de', 'expiry': 1676050707, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.ateliergusto.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '99a95c41-e3f4-4ff5-9720-592ecb948de8'}, {'domain': 'ateliergusto.de', 'expiry': 1644514730, 'httpOnly': False, 'name': 'rp_email', 'path': '/', 'secure': False, 'value': ''}, {'domain': '.ateliergusto.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.ateliergusto.de', 'expiry': 1690648698, 'httpOnly': False, 'name': 'ku1-vid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': 'd5b962f7-28c1-7604-a7b5-c8cf6cb25570'}, {'domain': '.ateliergusto.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[Before] Cookie-Name 1: trustedsite_tm_float_seen
+[Before] Cookie-Name 2: trustedsite_visit
+[Before] Cookie-Name 3: rptkn
+[Before] Cookie-Name 4: rpsid
+[Before] Cookie-Name 5: ku1-sid
+[Before] Cookie-Name 6: rp_firstName
+[Before] Cookie-Name 7: rp_lastName
+[Before] Cookie-Name 8: rp_customer_id
+[Before] Cookie-Name 9: wishlist_customer_id
+[Before] Cookie-Name 10: _pin_unauth
+[Before] Cookie-Name 11: _gid
+[Before] Cookie-Name 12: _ga
+[Before] Cookie-Name 13: _tracking_consent
+[Before] Cookie-Name 14: _shopify_sa_p
+[Before] Cookie-Name 15: _shopify_sa_t
+[Before] Cookie-Name 16: _shopify_evids
+[Before] Cookie-Name 17: bookmarkeditems
+[Before] Cookie-Name 18: _shopify_d
+[Before] Cookie-Name 19: rpdid
+[Before] Cookie-Name 20: _shopify_m
+[Before] Cookie-Name 21: _shopify_tw
+[Before] Cookie-Name 22: _shopify_s
+[Before] Cookie-Name 23: _orig_referrer
+[Before] Cookie-Name 24: localization
+[Before] Cookie-Name 25: _shopify_tm
+[Before] Cookie-Name 26: _s
+[Before] Cookie-Name 27: wishlist_id
+[Before] Cookie-Name 28: _gcl_au
+[Before] Cookie-Name 29: cart_currency
+[Before] Cookie-Name 30: _y
+[Before] Cookie-Name 31: _gat_gtag_UA_156792892_2
+[Before] Cookie-Name 32: baMet_visit
+[Before] Cookie-Name 33: secure_customer_sig
+[Before] Cookie-Name 34: _shopify_y
+[Before] Cookie-Name 35: rp_email
+[Before] Cookie-Name 36: _landing_page
+[Before] Cookie-Name 37: ku1-vid
+[Before] Cookie-Name 38: _shopify_evids
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 45
+[After] Website-Cookies: [{'domain': 'ateliergusto.de', 'expiry': 1645724311, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644514711'}, {'domain': 'ateliergusto.de', 'expiry': 1676050712, 'httpOnly': False, 'name': 'eg_cookieconsent_status', 'path': '/', 'secure': False, 'value': 'dismiss'}, {'domain': 'ateliergusto.de', 'expiry': 1644514999, 'httpOnly': False, 'name': 'trustedsite_tm_float_seen', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'ateliergusto.de', 'expiry': 1644601099, 'httpOnly': False, 'name': 'trustedsite_visit', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.ateliergusto.de', 'expiry': 1761709098, 'httpOnly': False, 'name': 'rptkn', 'path': '/', 'secure': False, 'value': 'evtarchitektur3342'}, {'domain': 'ateliergusto.de', 'expiry': 1645724311, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '80f0296768fa4cae5ea08c6a25506826'}, {'domain': '.ateliergusto.de', 'expiry': 1644536298, 'httpOnly': False, 'name': 'rpsid', 'path': '/', 'secure': False, 'value': '14666f52-c5f6-4989-85ff-94abdd29e696'}, {'domain': '.ateliergusto.de', 'expiry': 1676050711, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': '.ateliergusto.de', 'expiry': 1761709098, 'httpOnly': False, 'name': 'rpdid', 'path': '/', 'secure': False, 'value': '543d8275-9959-4a84-803b-c912047673f8'}, {'domain': '.ateliergusto.de', 'httpOnly': False, 'name': 'ku1-sid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': 'gXSc3U_tcpBbD-f5DDa9A'}, {'domain': 'ateliergusto.de', 'expiry': 1644514730, 'httpOnly': False, 'name': 'rp_firstName', 'path': '/', 'secure': False, 'value': ''}, {'domain': 'ateliergusto.de', 'expiry': 1644514730, 'httpOnly': False, 'name': 'rp_lastName', 'path': '/', 'secure': False, 'value': ''}, {'domain': 'ateliergusto.de', 'expiry': 1644514730, 'httpOnly': False, 'name': 'rp_customer_id', 'path': '/', 'secure': False, 'value': ''}, {'domain': 'ateliergusto.de', 'expiry': 1644516496, 'httpOnly': False, 'name': 'baMet_visit', 'path': '/', 'secure': False, 'value': 'eecde42630e4425e8205eef7f72a8a441644514696729'}, {'domain': '.ateliergusto.de', 'expiry': 1644514756, 'httpOnly': False, 'name': '_gat_gtag_UA_156792892_2', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.ateliergusto.de', 'expiry': 1644601112, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.250814761.1644514697'}, {'domain': '.ateliergusto.de', 'expiry': 1707586712, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1235388030.1644514697'}, {'domain': '.ateliergusto.de', 'expiry': 1676050711, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22con%22%3A%7B%22GDPR%22%3A%221%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%7D'}, {'domain': '.ateliergusto.de', 'expiry': 1644516511, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'ateliergusto.de', 'expiry': 1645724311, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': '.ateliergusto.de', 'expiry': 1644516511, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A38%3A16.888Z'}, {'domain': 'ateliergusto.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'ateliergusto.de', 'expiry': 1676050698, 'httpOnly': False, 'name': 'bookmarkeditems', 'path': '/', 'secure': False, 'value': '{"items":[]}'}, {'domain': '.ateliergusto.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A38%3A16.795Z'}, {'domain': '.ateliergusto.de', 'expiry': 1645724295, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.ateliergusto.de', 'expiry': 1644516511, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b0194f42-24cb-422b-bce6-5b6d4f625a8e'}, {'domain': '.ateliergusto.de', 'expiry': 1645724311, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'ateliergusto.de', 'expiry': 1645724311, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.ateliergusto.de', 'expiry': 1644514772, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.ateliergusto.de', 'expiry': 1644516511, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.ateliergusto.de', 'expiry': 1644516511, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b0194f42-24cb-422b-bce6-5b6d4f625a8e'}, {'domain': '.ateliergusto.de', 'expiry': 1652290713, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644514712715.337480080'}, {'domain': 'ateliergusto.de', 'expiry': 1676050698, 'httpOnly': False, 'name': 'wishlist_id', 'path': '/', 'secure': False, 'value': '10464985143thoioxsuuvg'}, {'domain': '.ateliergusto.de', 'expiry': 1652290697, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.2057092752.1644514697'}, {'domain': 'ateliergusto.de', 'expiry': 1645724311, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'ateliergusto.de', 'expiry': 1676050698, 'httpOnly': False, 'name': 'wishlist_customer_id', 'path': '/', 'secure': False, 'value': '0'}, {'domain': '.ateliergusto.de', 'expiry': 1676050697, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU56Vm1OR1JqWWprdE1ESTBPQzAwTkRVekxUbGlaVEF0TVdZellUWm1ZelV6TXpGbQ'}, {'domain': '.ateliergusto.de', 'expiry': 1676050711, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '99a95c41-e3f4-4ff5-9720-592ecb948de8'}, {'domain': 'ateliergusto.de', 'expiry': 1676050711, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.ateliergusto.de', 'expiry': 1676050711, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '99a95c41-e3f4-4ff5-9720-592ecb948de8'}, {'domain': 'ateliergusto.de', 'expiry': 1645724311, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '91b8924856375a041eef68b4454ab679'}, {'domain': 'ateliergusto.de', 'expiry': 1644514730, 'httpOnly': False, 'name': 'rp_email', 'path': '/', 'secure': False, 'value': ''}, {'domain': '.ateliergusto.de', 'expiry': 1645724311, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.ateliergusto.de', 'expiry': 1690648698, 'httpOnly': False, 'name': 'ku1-vid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': 'd5b962f7-28c1-7604-a7b5-c8cf6cb25570'}, {'domain': '.ateliergusto.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: cart_ts
+[After] Cookie-Name 2: eg_cookieconsent_status
+[After] Cookie-Name 3: trustedsite_tm_float_seen
+[After] Cookie-Name 4: trustedsite_visit
+[After] Cookie-Name 5: rptkn
+[After] Cookie-Name 6: cart_sig
+[After] Cookie-Name 7: rpsid
+[After] Cookie-Name 8: _shopify_m
+[After] Cookie-Name 9: rpdid
+[After] Cookie-Name 10: ku1-sid
+[After] Cookie-Name 11: rp_firstName
+[After] Cookie-Name 12: rp_lastName
+[After] Cookie-Name 13: rp_customer_id
+[After] Cookie-Name 14: baMet_visit
+[After] Cookie-Name 15: _gat_gtag_UA_156792892_2
+[After] Cookie-Name 16: _gid
+[After] Cookie-Name 17: _ga
+[After] Cookie-Name 18: _tracking_consent
+[After] Cookie-Name 19: _shopify_sa_p
+[After] Cookie-Name 20: cart_ver
+[After] Cookie-Name 21: _shopify_sa_t
+[After] Cookie-Name 22: _shopify_evids
+[After] Cookie-Name 23: bookmarkeditems
+[After] Cookie-Name 24: _shopify_d
+[After] Cookie-Name 25: _shopify_tw
+[After] Cookie-Name 26: _shopify_s
+[After] Cookie-Name 27: _orig_referrer
+[After] Cookie-Name 28: localization
+[After] Cookie-Name 29: _gat
+[After] Cookie-Name 30: _shopify_tm
+[After] Cookie-Name 31: _s
+[After] Cookie-Name 32: _fbp
+[After] Cookie-Name 33: wishlist_id
+[After] Cookie-Name 34: _gcl_au
+[After] Cookie-Name 35: cart_currency
+[After] Cookie-Name 36: wishlist_customer_id
+[After] Cookie-Name 37: _pin_unauth
+[After] Cookie-Name 38: _y
+[After] Cookie-Name 39: secure_customer_sig
+[After] Cookie-Name 40: _shopify_y
+[After] Cookie-Name 41: cart
+[After] Cookie-Name 42: rp_email
+[After] Cookie-Name 43: _landing_page
+[After] Cookie-Name 44: ku1-vid
+[After] Cookie-Name 45: _shopify_evids
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 7
+[Difference] Cookie-Name: 1: eg_cookieconsent_status
+[Difference] Cookie-Name: 2: cart
+[Difference] Cookie-Name: 3: cart_sig
+[Difference] Cookie-Name: 4: cart_ts
+[Difference] Cookie-Name: 5: cart_ver
+[Difference] Cookie-Name: 6: _gat
+[Difference] Cookie-Name: 7: _fbp
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

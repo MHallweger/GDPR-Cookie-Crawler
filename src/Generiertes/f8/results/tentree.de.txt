@@ -1,0 +1,91 @@
+Website 215: http://www.tentree.de/ | Created: 10.02.2022 21:01:32 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 26
+[Before] Website-Cookies: [{'domain': 'tentree.de', 'expiry': 1676059283, 'httpOnly': False, 'name': 'po_visitor', 'path': '/', 'secure': False, 'value': 'KbePcYW9Fo6V'}, {'domain': '.tentree.de', 'expiry': 1676059283, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': 'xq86vm|1|eyv|0'}, {'domain': '.tentree.de', 'expiry': 1652299282, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644523281832.531071324'}, {'domain': 'tentree.de', 'expiry': 1644526881, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'tentree.de', 'expiry': 1645732880, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': '.tentree.de', 'expiry': 1707595281, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.1.39393527.1644523281'}, {'domain': 'tentree.de', 'expiry': 1707595281, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ1MjMyODEsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vdGVudHJlZS5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQ1MjMyODEsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vdGVudHJlZS5kZS8ifX0='}, {'domain': '.tentree.de', 'expiry': 1644609681, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': '37f746908aac11ecbead8978714f1b3e'}, {'domain': '.tentree.de', 'expiry': 1644525081, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T20%3A01%3A21.353Z'}, {'domain': '.tentree.de', 'expiry': 1676059281, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU56YzFZbVU0WW1VdFpUazFaUzAwTUdSakxXSmtaVEF0WlRJNU9UQmpaRFF4TkdRMg'}, {'domain': '.tentree.de', 'expiry': 1644609681, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.250324394.1644523281'}, {'domain': '.tentree.de', 'expiry': 1678219281, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '37f744108aac11ec9cfa435ca991b6f1'}, {'domain': '.tentree.de', 'expiry': 1676059280, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f0930d47-0a46-495c-b0af-595eb9c392fc'}, {'domain': '.tentree.de', 'expiry': 1707595281, 'httpOnly': False, 'name': '_ga_1KYB7TPCRL', 'path': '/', 'secure': False, 'value': 'GS1.1.1644523281.1.0.1644523281.0'}, {'domain': '.tentree.de', 'expiry': 1644525081, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.tentree.de', 'expiry': 1644523341, 'httpOnly': False, 'name': '_gat_gtag_UA_25099702_8', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.tentree.de', 'expiry': 1644523341, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.tentree.de', 'expiry': 1645732880, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.tentree.de', 'expiry': 1644525081, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '44dc93d7-0dc8-4b6a-8207-9cbba457639e'}, {'domain': '.tentree.de', 'expiry': 1644609683, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': '1mbwth3|1644523283349|1|1|i.clarity.ms/collect'}, {'domain': '.tentree.de', 'expiry': 1652299281, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1863335957.1644523282'}, {'domain': '.tentree.de', 'expiry': 1676059280, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f0930d47-0a46-495c-b0af-595eb9c392fc'}, {'domain': '.tentree.de', 'expiry': 1645732880, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.tentree.de', 'expiry': 1644525081, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '44dc93d7-0dc8-4b6a-8207-9cbba457639e'}, {'domain': 'tentree.de', 'expiry': 1645732880, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': 'tentree.de', 'expiry': 1676059280, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: po_visitor
+[Before] Cookie-Name 2: _clck
+[Before] Cookie-Name 3: _fbp
+[Before] Cookie-Name 4: shopify_pay_redirect
+[Before] Cookie-Name 5: localization
+[Before] Cookie-Name 6: _ga
+[Before] Cookie-Name 7: __kla_id
+[Before] Cookie-Name 8: _uetsid
+[Before] Cookie-Name 9: _shopify_sa_t
+[Before] Cookie-Name 10: _pin_unauth
+[Before] Cookie-Name 11: _gid
+[Before] Cookie-Name 12: _uetvid
+[Before] Cookie-Name 13: _shopify_y
+[Before] Cookie-Name 14: _ga_1KYB7TPCRL
+[Before] Cookie-Name 15: _shopify_sa_p
+[Before] Cookie-Name 16: _gat_gtag_UA_25099702_8
+[Before] Cookie-Name 17: _gat
+[Before] Cookie-Name 18: _landing_page
+[Before] Cookie-Name 19: _s
+[Before] Cookie-Name 20: _clsk
+[Before] Cookie-Name 21: _gcl_au
+[Before] Cookie-Name 22: _y
+[Before] Cookie-Name 23: _orig_referrer
+[Before] Cookie-Name 24: _shopify_s
+[Before] Cookie-Name 25: cart_currency
+[Before] Cookie-Name 26: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 26
+[After] Website-Cookies: [{'domain': 'tentree.de', 'expiry': 1676059283, 'httpOnly': False, 'name': 'po_visitor', 'path': '/', 'secure': False, 'value': 'KbePcYW9Fo6V'}, {'domain': '.tentree.de', 'expiry': 1676059283, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': 'xq86vm|1|eyv|0'}, {'domain': '.tentree.de', 'expiry': 1652299282, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644523281832.531071324'}, {'domain': 'tentree.de', 'expiry': 1644526881, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'tentree.de', 'expiry': 1645732880, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': '.tentree.de', 'expiry': 1707595281, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.1.39393527.1644523281'}, {'domain': 'tentree.de', 'expiry': 1707595281, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ1MjMyODEsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vdGVudHJlZS5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQ1MjMyODEsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vdGVudHJlZS5kZS8ifX0='}, {'domain': '.tentree.de', 'expiry': 1644609681, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': '37f746908aac11ecbead8978714f1b3e'}, {'domain': '.tentree.de', 'expiry': 1644525081, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T20%3A01%3A21.353Z'}, {'domain': '.tentree.de', 'expiry': 1676059281, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU56YzFZbVU0WW1VdFpUazFaUzAwTUdSakxXSmtaVEF0WlRJNU9UQmpaRFF4TkdRMg'}, {'domain': '.tentree.de', 'expiry': 1644609681, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.250324394.1644523281'}, {'domain': '.tentree.de', 'expiry': 1678219281, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '37f744108aac11ec9cfa435ca991b6f1'}, {'domain': '.tentree.de', 'expiry': 1676059280, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f0930d47-0a46-495c-b0af-595eb9c392fc'}, {'domain': '.tentree.de', 'expiry': 1707595281, 'httpOnly': False, 'name': '_ga_1KYB7TPCRL', 'path': '/', 'secure': False, 'value': 'GS1.1.1644523281.1.0.1644523281.0'}, {'domain': '.tentree.de', 'expiry': 1644525081, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.tentree.de', 'expiry': 1644523341, 'httpOnly': False, 'name': '_gat_gtag_UA_25099702_8', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.tentree.de', 'expiry': 1644523341, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.tentree.de', 'expiry': 1645732880, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.tentree.de', 'expiry': 1644525081, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '44dc93d7-0dc8-4b6a-8207-9cbba457639e'}, {'domain': '.tentree.de', 'expiry': 1644609683, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': '1mbwth3|1644523283349|1|1|i.clarity.ms/collect'}, {'domain': '.tentree.de', 'expiry': 1652299281, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1863335957.1644523282'}, {'domain': '.tentree.de', 'expiry': 1676059280, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f0930d47-0a46-495c-b0af-595eb9c392fc'}, {'domain': '.tentree.de', 'expiry': 1645732880, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.tentree.de', 'expiry': 1644525081, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '44dc93d7-0dc8-4b6a-8207-9cbba457639e'}, {'domain': 'tentree.de', 'expiry': 1645732880, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': 'tentree.de', 'expiry': 1676059280, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: po_visitor
+[After] Cookie-Name 2: _clck
+[After] Cookie-Name 3: _fbp
+[After] Cookie-Name 4: shopify_pay_redirect
+[After] Cookie-Name 5: localization
+[After] Cookie-Name 6: _ga
+[After] Cookie-Name 7: __kla_id
+[After] Cookie-Name 8: _uetsid
+[After] Cookie-Name 9: _shopify_sa_t
+[After] Cookie-Name 10: _pin_unauth
+[After] Cookie-Name 11: _gid
+[After] Cookie-Name 12: _uetvid
+[After] Cookie-Name 13: _shopify_y
+[After] Cookie-Name 14: _ga_1KYB7TPCRL
+[After] Cookie-Name 15: _shopify_sa_p
+[After] Cookie-Name 16: _gat_gtag_UA_25099702_8
+[After] Cookie-Name 17: _gat
+[After] Cookie-Name 18: _landing_page
+[After] Cookie-Name 19: _s
+[After] Cookie-Name 20: _clsk
+[After] Cookie-Name 21: _gcl_au
+[After] Cookie-Name 22: _y
+[After] Cookie-Name 23: _orig_referrer
+[After] Cookie-Name 24: _shopify_s
+[After] Cookie-Name 25: cart_currency
+[After] Cookie-Name 26: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _clck (Microsoft Clarity (User experience tool))
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _clsk (Microsoft Clarity (User experience tool))
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

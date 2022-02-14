@@ -1,0 +1,87 @@
+Website 113: http://www.koramikino.de/ | Created: 10.02.2022 12:46:04 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 23
+[Before] Website-Cookies: [{'domain': 'koramikino.de', 'expiry': 1676029555, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': 'marketing'}, {'domain': 'koramikino.de', 'expiry': 1707565555, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0OTM1NTUsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8va29yYW1pa2luby5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQ0OTM1NTUsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8va29yYW1pa2luby5kZS8ifX0='}, {'domain': 'koramikino.de', 'expiry': 1644493675, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.koramikino.de', 'expiry': 1644495355, 'httpOnly': False, 'name': '_hjSession_2783280', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjA3MjRiZjY4LTg5ZjgtNGNhZS04OTFiLTUzODkzYzY2ZWE5OSIsImNyZWF0ZWQiOjE2NDQ0OTM1NTUyNTEsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': '.koramikino.de', 'expiry': 1652269555, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.365515728.1644493555'}, {'domain': 'koramikino.de', 'expiry': 1644493675, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.koramikino.de', 'expiry': 1644493615, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.koramikino.de', 'expiry': 1644579955, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.728063876.1644493555'}, {'domain': '.koramikino.de', 'expiry': 1644495355, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.koramikino.de', 'expiry': 1644495354, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T11%3A45%3A54.953Z'}, {'domain': '.koramikino.de', 'expiry': 1707565555, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.2035384807.1644493555'}, {'domain': '.koramikino.de', 'expiry': 1644495355, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.koramikino.de', 'expiry': 1676029555, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVpqUXdaRGd3Wm1RdFpqUTJOQzAwWmpkaUxXRXhaakF0Wmpkak5EZGtPVEEwWkRVdw'}, {'domain': 'koramikino.de', 'expiry': 1645703154, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': '.koramikino.de', 'expiry': 1644495354, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.koramikino.de', 'expiry': 1644495354, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7a0288e0-2f73-4b92-9ce3-1af9f01bd3a9'}, {'domain': '.koramikino.de', 'expiry': 1676029554, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7e4e45ed-cd14-48e8-9b27-64d3b7971f47'}, {'domain': 'koramikino.de', 'expiry': 1645703154, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.koramikino.de', 'expiry': 1645703154, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.koramikino.de', 'expiry': 1676029554, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7e4e45ed-cd14-48e8-9b27-64d3b7971f47'}, {'domain': '.koramikino.de', 'expiry': 1676029555, 'httpOnly': False, 'name': '_hjSessionUser_2783280', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjM2ZjE1ODgwLTAzMjYtNWY1Ni1hODI0LTQ3NWQyZTM1OTQxNSIsImNyZWF0ZWQiOjE2NDQ0OTM1NTUyMTgsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.koramikino.de', 'expiry': 1645703154, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'koramikino.de', 'expiry': 1676029554, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: cookieconsent_preferences_disabled
+[Before] Cookie-Name 2: __kla_id
+[Before] Cookie-Name 3: _hjIncludedInPageviewSample
+[Before] Cookie-Name 4: _hjSession_2783280
+[Before] Cookie-Name 5: _gcl_au
+[Before] Cookie-Name 6: _hjIncludedInSessionSample
+[Before] Cookie-Name 7: _gat
+[Before] Cookie-Name 8: _gid
+[Before] Cookie-Name 9: _hjFirstSeen
+[Before] Cookie-Name 10: _shopify_sa_t
+[Before] Cookie-Name 11: _ga
+[Before] Cookie-Name 12: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 13: _pin_unauth
+[Before] Cookie-Name 14: localization
+[Before] Cookie-Name 15: _shopify_sa_p
+[Before] Cookie-Name 16: _shopify_s
+[Before] Cookie-Name 17: _shopify_y
+[Before] Cookie-Name 18: cart_currency
+[Before] Cookie-Name 19: _landing_page
+[Before] Cookie-Name 20: _y
+[Before] Cookie-Name 21: _hjSessionUser_2783280
+[Before] Cookie-Name 22: _orig_referrer
+[Before] Cookie-Name 23: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 25
+[After] Website-Cookies: [{'domain': '.koramikino.de', 'expiry': 1652269569, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644493569630.1163375035'}, {'domain': 'koramikino.de', 'expiry': 1644493675, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'koramikino.de', 'expiry': 1676029569, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': 'marketing'}, {'domain': '.koramikino.de', 'expiry': 1676029554, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7e4e45ed-cd14-48e8-9b27-64d3b7971f47'}, {'domain': 'koramikino.de', 'expiry': 1707565555, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0OTM1NTUsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8va29yYW1pa2luby5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQ0OTM1NTUsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8va29yYW1pa2luby5kZS8ifX0='}, {'domain': '.koramikino.de', 'expiry': 1644495355, 'httpOnly': False, 'name': '_hjSession_2783280', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjA3MjRiZjY4LTg5ZjgtNGNhZS04OTFiLTUzODkzYzY2ZWE5OSIsImNyZWF0ZWQiOjE2NDQ0OTM1NTUyNTEsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': '.koramikino.de', 'expiry': 1652269555, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.365515728.1644493555'}, {'domain': 'koramikino.de', 'expiry': 1644493675, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.koramikino.de', 'expiry': 1644493615, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'koramikino.de', 'expiry': 1676029569, 'httpOnly': False, 'name': 'cookieconsent_status', 'path': '/', 'secure': False, 'value': 'allow'}, {'domain': '.koramikino.de', 'expiry': 1644579955, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.728063876.1644493555'}, {'domain': 'koramikino.de', 'expiry': 1645703154, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': '.koramikino.de', 'expiry': 1644495355, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.koramikino.de', 'expiry': 1644495354, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T11%3A45%3A54.953Z'}, {'domain': '.koramikino.de', 'expiry': 1644495354, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7a0288e0-2f73-4b92-9ce3-1af9f01bd3a9'}, {'domain': '.koramikino.de', 'expiry': 1707565555, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.2035384807.1644493555'}, {'domain': '.koramikino.de', 'expiry': 1644495355, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.koramikino.de', 'expiry': 1676029555, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVpqUXdaRGd3Wm1RdFpqUTJOQzAwWmpkaUxXRXhaakF0Wmpkak5EZGtPVEEwWkRVdw'}, {'domain': '.koramikino.de', 'expiry': 1644495354, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'koramikino.de', 'expiry': 1645703154, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.koramikino.de', 'expiry': 1645703154, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.koramikino.de', 'expiry': 1676029554, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7e4e45ed-cd14-48e8-9b27-64d3b7971f47'}, {'domain': '.koramikino.de', 'expiry': 1676029555, 'httpOnly': False, 'name': '_hjSessionUser_2783280', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjM2ZjE1ODgwLTAzMjYtNWY1Ni1hODI0LTQ3NWQyZTM1OTQxNSIsImNyZWF0ZWQiOjE2NDQ0OTM1NTUyMTgsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.koramikino.de', 'expiry': 1645703154, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'koramikino.de', 'expiry': 1676029554, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _fbp
+[After] Cookie-Name 2: _hjIncludedInPageviewSample
+[After] Cookie-Name 3: cookieconsent_preferences_disabled
+[After] Cookie-Name 4: _shopify_y
+[After] Cookie-Name 5: __kla_id
+[After] Cookie-Name 6: _hjSession_2783280
+[After] Cookie-Name 7: _gcl_au
+[After] Cookie-Name 8: _hjIncludedInSessionSample
+[After] Cookie-Name 9: _gat
+[After] Cookie-Name 10: cookieconsent_status
+[After] Cookie-Name 11: _gid
+[After] Cookie-Name 12: localization
+[After] Cookie-Name 13: _hjFirstSeen
+[After] Cookie-Name 14: _shopify_sa_t
+[After] Cookie-Name 15: _shopify_s
+[After] Cookie-Name 16: _ga
+[After] Cookie-Name 17: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 18: _pin_unauth
+[After] Cookie-Name 19: _shopify_sa_p
+[After] Cookie-Name 20: cart_currency
+[After] Cookie-Name 21: _landing_page
+[After] Cookie-Name 22: _y
+[After] Cookie-Name 23: _hjSessionUser_2783280
+[After] Cookie-Name 24: _orig_referrer
+[After] Cookie-Name 25: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _hjIncludedInPageviewSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _hjIncludedInSessionSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 2
+[Difference] Cookie-Name: 1: cookieconsent_status
+[Difference] Cookie-Name: 2: _fbp
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

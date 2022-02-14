@@ -1,0 +1,112 @@
+Website 49: http://www.ava-may.de/ | Created: 09.02.2022 11:00:53 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 25
+[Before] Website-Cookies: [{'domain': 'www.ava-may.de', 'expiry': 1959760850, 'httpOnly': False, 'name': 'am-newsletter', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': '.www.ava-may.de', 'expiry': 1675936844, 'httpOnly': False, 'name': 'swym-email', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'null'}, {'domain': '.ava-may.de', 'expiry': 1652176844, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644400843550.173096942'}, {'domain': '.www.ava-may.de', 'expiry': 1675936843, 'httpOnly': False, 'name': 'swym-pid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"Df0f/OHF6sZgay6Us85oYDXqfH2DML44uln+rPR3oeQ="'}, {'domain': '.www.ava-may.de', 'expiry': 1675936844, 'httpOnly': False, 'name': 'swym-swymRegid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"m7T9PLdpopmpMXYdVIPKlbKndITBF5LXbBSgZEQvpFxqZWI1TlO0VXYFcvltWAMZaOZcLhVvvK3L4MU2B58ymgnhYi1FL3JgGWWhro7_nKGpkt5VPHcDryIUknPoegex2kMvwoRBl-qtjAARWMrzAXFwcdhvDhKhAFAJC8Edmzk"'}, {'domain': '.www.ava-may.de', 'expiry': 1644402644, 'httpOnly': False, 'name': 'swym-session-id', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"zc6hzaw8f7ufsy1vpo5uznhup2jv3g850re87yf4tfl47noidbtcl9bniml9jtwa"'}, {'domain': 'www.ava-may.de', 'expiry': 1675936845, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.ava-may.de', 'expiry': 1707472843, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.649335149.1644400843'}, {'domain': 'www.ava-may.de', 'expiry': 1645610443, 'httpOnly': False, 'name': 'COUNTRY_CODE', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': 'www.ava-may.de', 'expiry': 1645610445, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.ava-may.de', 'expiry': 1644487243, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.377016215.1644400843'}, {'domain': '.ava-may.de', 'expiry': 1644402643, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.ava-may.de', 'expiry': 1644402643, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A00%3A43.210Z'}, {'domain': '.www.ava-may.de', 'expiry': 1675936844, 'httpOnly': False, 'name': 'swym-cu_ct', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'undefined'}, {'domain': '.www.ava-may.de', 'expiry': 1644402644, 'httpOnly': False, 'name': 'swym-o_s', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'true'}, {'domain': '.ava-may.de', 'expiry': 1645610442, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.ava-may.de', 'expiry': 1644402645, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8e21bdca-44d9-4979-889a-758f218ff9d6'}, {'domain': '.ava-may.de', 'expiry': 1644400903, 'httpOnly': False, 'name': '_gat_gtag_UA_128957719_2', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.ava-may.de', 'expiry': 1644402645, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8e21bdca-44d9-4979-889a-758f218ff9d6'}, {'domain': '.ava-may.de', 'expiry': 1675936845, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7ca80e04-feb3-42c6-b70f-57098da4cf9b'}, {'domain': '.ava-may.de', 'expiry': 1652176842, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.624961329.1644400843'}, {'domain': '.ava-may.de', 'expiry': 1645610442, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.ava-may.de', 'expiry': 1644400903, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.ava-may.de', 'expiry': 1645610445, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.ava-may.de', 'expiry': 1675936845, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7ca80e04-feb3-42c6-b70f-57098da4cf9b'}]
+[Before] Cookie-Name 1: am-newsletter
+[Before] Cookie-Name 2: swym-email
+[Before] Cookie-Name 3: _fbp
+[Before] Cookie-Name 4: swym-pid
+[Before] Cookie-Name 5: swym-swymRegid
+[Before] Cookie-Name 6: swym-session-id
+[Before] Cookie-Name 7: secure_customer_sig
+[Before] Cookie-Name 8: _ga
+[Before] Cookie-Name 9: COUNTRY_CODE
+[Before] Cookie-Name 10: cart_currency
+[Before] Cookie-Name 11: _gid
+[Before] Cookie-Name 12: _shopify_sa_p
+[Before] Cookie-Name 13: _shopify_sa_t
+[Before] Cookie-Name 14: swym-cu_ct
+[Before] Cookie-Name 15: swym-o_s
+[Before] Cookie-Name 16: _orig_referrer
+[Before] Cookie-Name 17: _shopify_s
+[Before] Cookie-Name 18: _gat_gtag_UA_128957719_2
+[Before] Cookie-Name 19: _s
+[Before] Cookie-Name 20: _y
+[Before] Cookie-Name 21: _gcl_au
+[Before] Cookie-Name 22: _landing_page
+[Before] Cookie-Name 23: _gat
+[Before] Cookie-Name 24: localization
+[Before] Cookie-Name 25: _shopify_y
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 35
+[After] Website-Cookies: [{'domain': '.ava-may.de', 'expiry': 1644487260, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': '1aqwh57|1644400860797|1|1|f.clarity.ms/collect'}, {'domain': 'www.ava-may.de', 'expiry': 1644401160, 'httpOnly': False, 'name': 'outbrain_cid_fetch', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': '.ava-may.de', 'expiry': 1644402660, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': 'www.ava-may.de', 'expiry': 1644400980, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.ava-may.de', 'expiry': 1644402660, 'httpOnly': False, 'name': '_hjSession_1114646', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjNlYWU1ZGM5LWE3MTAtNGYzYy1iZmMyLWQzZjNlZDhlOGMwNSIsImNyZWF0ZWQiOjE2NDQ0MDA4NTk5OTksImluU2FtcGxlIjpmYWxzZX0='}, {'domain': 'www.ava-may.de', 'expiry': 1644400979, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.ava-may.de', 'expiry': 1675936859, 'httpOnly': False, 'name': '_hjSessionUser_1114646', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjU3YjVlMDg0LTE2ZGItNWRjMC1hOGNmLWMwMmY5N2ZmMWFhMSIsImNyZWF0ZWQiOjE2NDQ0MDA4NTk5NjQsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.ava-may.de', 'expiry': 1678096859, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '2eb8ed00898f11eca9cf952d41c08b5b'}, {'domain': '.ava-may.de', 'expiry': 1675936860, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': 'pfns2i|1|eyu|0'}, {'domain': '.ava-may.de', 'expiry': 1644487259, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': '2eb8c960898f11ecad81db7740f3b7df'}, {'domain': '.ava-may.de', 'expiry': 1652176842, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.624961329.1644400843'}, {'domain': 'www.ava-may.de', 'expiry': 1675936859, 'httpOnly': False, 'name': 'CookieConsent', 'path': '/', 'secure': True, 'value': '{stamp:%27lPgaWO3914iR+KXfd+Bdg0gPTmPtxN55PNsOns22WXNiZWN641p6Kg==%27%2Cnecessary:true%2Cpreferences:true%2Cstatistics:true%2Cmarketing:true%2Cver:1%2Cutc:1644400859509%2Cregion:%27de%27}'}, {'domain': '.ava-may.de', 'expiry': 1652176859, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644400843550.173096942'}, {'domain': '.ava-may.de', 'expiry': 1644402643, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A00%3A43.210Z'}, {'domain': '.ava-may.de', 'expiry': 1678587557, 'httpOnly': False, 'name': '_scid', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '4016862a-3373-4d14-8e8f-c04935d62ed4'}, {'domain': '.www.ava-may.de', 'expiry': 1644402661, 'httpOnly': False, 'name': 'swym-session-id', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"xyjrgv94ye7by60gz5dpzuwrxkef3rhff6swxpjp27w2d60r6z0u3g8o3jiv6wjn"'}, {'domain': '.ava-may.de', 'expiry': 1645610442, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.www.ava-may.de', 'expiry': 1675936844, 'httpOnly': False, 'name': 'swym-cu_ct', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'undefined'}, {'domain': '.ava-may.de', 'expiry': 1675936860, 'httpOnly': False, 'name': 'scarab.visitor', 'path': '/', 'secure': False, 'value': '%227E61412ACF5BC885%22'}, {'domain': 'www.ava-may.de', 'expiry': 1675936845, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.ava-may.de', 'expiry': 1707472843, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.649335149.1644400843'}, {'domain': 'www.ava-may.de', 'expiry': 1645610443, 'httpOnly': False, 'name': 'COUNTRY_CODE', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': 'www.ava-may.de', 'expiry': 1645610445, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.ava-may.de', 'expiry': 1644487243, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.377016215.1644400843'}, {'domain': '.ava-may.de', 'expiry': 1644402643, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.ava-may.de', 'expiry': 1644402645, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8e21bdca-44d9-4979-889a-758f218ff9d6'}, {'domain': '.ava-may.de', 'expiry': 1644400903, 'httpOnly': False, 'name': '_gat_gtag_UA_128957719_2', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.ava-may.de', 'expiry': 1644402659, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.ava-may.de', 'expiry': 1644402645, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8e21bdca-44d9-4979-889a-758f218ff9d6'}, {'domain': '.ava-may.de', 'expiry': 1675936845, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7ca80e04-feb3-42c6-b70f-57098da4cf9b'}, {'domain': '.ava-may.de', 'expiry': 1645610442, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.ava-may.de', 'expiry': 1644400903, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.ava-may.de', 'expiry': 1675936859, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU9HWTFPRFJqWTJFdE5EQTRNQzAwWW1ZeExUZzJNV1V0TmpRNVl6azJNVEV4TWpCaA'}, {'domain': 'www.ava-may.de', 'expiry': 1645610445, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.ava-may.de', 'expiry': 1675936845, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7ca80e04-feb3-42c6-b70f-57098da4cf9b'}]
+[After] Cookie-Name 1: _clsk
+[After] Cookie-Name 2: outbrain_cid_fetch
+[After] Cookie-Name 3: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 4: _hjIncludedInPageviewSample
+[After] Cookie-Name 5: _hjSession_1114646
+[After] Cookie-Name 6: _hjIncludedInSessionSample
+[After] Cookie-Name 7: _hjSessionUser_1114646
+[After] Cookie-Name 8: _uetvid
+[After] Cookie-Name 9: _clck
+[After] Cookie-Name 10: _uetsid
+[After] Cookie-Name 11: _gcl_au
+[After] Cookie-Name 12: CookieConsent
+[After] Cookie-Name 13: _fbp
+[After] Cookie-Name 14: _shopify_sa_t
+[After] Cookie-Name 15: _scid
+[After] Cookie-Name 16: swym-session-id
+[After] Cookie-Name 17: _orig_referrer
+[After] Cookie-Name 18: swym-cu_ct
+[After] Cookie-Name 19: scarab.visitor
+[After] Cookie-Name 20: secure_customer_sig
+[After] Cookie-Name 21: _ga
+[After] Cookie-Name 22: COUNTRY_CODE
+[After] Cookie-Name 23: cart_currency
+[After] Cookie-Name 24: _gid
+[After] Cookie-Name 25: _shopify_sa_p
+[After] Cookie-Name 26: _shopify_s
+[After] Cookie-Name 27: _gat_gtag_UA_128957719_2
+[After] Cookie-Name 28: _hjFirstSeen
+[After] Cookie-Name 29: _s
+[After] Cookie-Name 30: _y
+[After] Cookie-Name 31: _landing_page
+[After] Cookie-Name 32: _gat
+[After] Cookie-Name 33: _pin_unauth
+[After] Cookie-Name 34: localization
+[After] Cookie-Name 35: _shopify_y
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _gat (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 20
+[Difference] Cookie-Name: 1: _hjFirstSeen
+[Difference] Cookie-Name: 2: am-newsletter
+[Difference] Cookie-Name: 3: _scid
+[Difference] Cookie-Name: 4: _hjIncludedInPageviewSample
+[Difference] Cookie-Name: 5: swym-swymRegid
+[Difference] Cookie-Name: 6: CookieConsent
+[Difference] Cookie-Name: 7: _hjSessionUser_1114646
+[Difference] Cookie-Name: 8: swym-o_s
+[Difference] Cookie-Name: 9: _hjSession_1114646
+[Difference] Cookie-Name: 10: _uetsid
+[Difference] Cookie-Name: 11: outbrain_cid_fetch
+[Difference] Cookie-Name: 12: _pin_unauth
+[Difference] Cookie-Name: 13: swym-email
+[Difference] Cookie-Name: 14: _hjIncludedInSessionSample
+[Difference] Cookie-Name: 15: _clck
+[Difference] Cookie-Name: 16: scarab.visitor
+[Difference] Cookie-Name: 17: swym-pid
+[Difference] Cookie-Name: 18: _uetvid
+[Difference] Cookie-Name: 19: _hjAbsoluteSessionInProgress
+[Difference] Cookie-Name: 20: _clsk
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

@@ -1,0 +1,71 @@
+Website 273: http://www.galaxynova.de/ | Created: 09.02.2022 18:29:53 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 19
+[Before] Website-Cookies: [{'domain': '.galaxynova.de', 'expiry': 1652203785, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1275746380.1644427786'}, {'domain': '.galaxynova.de', 'expiry': 1678614483, 'httpOnly': False, 'name': '_scid', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'e193c494-6f77-47e4-9651-032f5700154a'}, {'domain': 'www.galaxynova.de', 'expiry': 1645637385, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.galaxynova.de', 'expiry': 1645637385, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b1f6c89f2f8dec28a249c3a1d83c220a'}, {'domain': 'www.galaxynova.de', 'expiry': 1645637385, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.galaxynova.de', 'expiry': 1644429582, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.galaxynova.de', 'expiry': 1644429582, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A29%3A42.545Z'}, {'domain': '.galaxynova.de', 'expiry': 1675963785, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '623bd104-f3fc-4884-9df1-be6022cf5d35'}, {'domain': '.galaxynova.de', 'expiry': 1652203783, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644427783002.2103643903'}, {'domain': '.galaxynova.de', 'expiry': 1675963782, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU1EVXlOalExWmpndE9EWXhZeTAwTTJNM0xXSXpPR010WkdGbE1URTVNelF3WXpBdw'}, {'domain': 'www.galaxynova.de', 'expiry': 1707499785, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0Mjc3ODUsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LmdhbGF4eW5vdmEuZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NDI3Nzg1LCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL3d3dy5nYWxheHlub3ZhLmRlLyJ9fQ=='}, {'domain': '.galaxynova.de', 'expiry': 1644429585, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd8f37a12-0013-4362-b9be-f836c5ac5caf'}, {'domain': 'www.galaxynova.de', 'expiry': 1675963785, 'httpOnly': False, 'name': 'cookie_azameo_id', 'path': '/', 'secure': False, 'value': 'MWBE5E3PC2UCWPN8'}, {'domain': '.galaxynova.de', 'expiry': 1644429585, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd8f37a12-0013-4362-b9be-f836c5ac5caf'}, {'domain': '.galaxynova.de', 'expiry': 1675963785, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '623bd104-f3fc-4884-9df1-be6022cf5d35'}, {'domain': '.galaxynova.de', 'expiry': 1645637382, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.galaxynova.de', 'expiry': 1675963785, 'httpOnly': False, 'name': 'azameo_appnexusid', 'path': '/', 'secure': False, 'value': '1644427786'}, {'domain': '.galaxynova.de', 'expiry': 1645637382, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.galaxynova.de', 'expiry': 1675963785, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _gcl_au
+[Before] Cookie-Name 2: _scid
+[Before] Cookie-Name 3: cart_currency
+[Before] Cookie-Name 4: cart_sig
+[Before] Cookie-Name 5: localization
+[Before] Cookie-Name 6: _shopify_sa_p
+[Before] Cookie-Name 7: _shopify_sa_t
+[Before] Cookie-Name 8: _y
+[Before] Cookie-Name 9: _fbp
+[Before] Cookie-Name 10: _pin_unauth
+[Before] Cookie-Name 11: __kla_id
+[Before] Cookie-Name 12: _shopify_s
+[Before] Cookie-Name 13: cookie_azameo_id
+[Before] Cookie-Name 14: _s
+[Before] Cookie-Name 15: _shopify_y
+[Before] Cookie-Name 16: _landing_page
+[Before] Cookie-Name 17: azameo_appnexusid
+[Before] Cookie-Name 18: _orig_referrer
+[Before] Cookie-Name 19: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 19
+[After] Website-Cookies: [{'domain': '.galaxynova.de', 'expiry': 1652203785, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1275746380.1644427786'}, {'domain': '.galaxynova.de', 'expiry': 1678614483, 'httpOnly': False, 'name': '_scid', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'e193c494-6f77-47e4-9651-032f5700154a'}, {'domain': 'www.galaxynova.de', 'expiry': 1645637385, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.galaxynova.de', 'expiry': 1645637385, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b1f6c89f2f8dec28a249c3a1d83c220a'}, {'domain': 'www.galaxynova.de', 'expiry': 1645637385, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.galaxynova.de', 'expiry': 1644429582, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.galaxynova.de', 'expiry': 1644429582, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A29%3A42.545Z'}, {'domain': '.galaxynova.de', 'expiry': 1675963785, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '623bd104-f3fc-4884-9df1-be6022cf5d35'}, {'domain': '.galaxynova.de', 'expiry': 1652203783, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644427783002.2103643903'}, {'domain': '.galaxynova.de', 'expiry': 1675963782, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU1EVXlOalExWmpndE9EWXhZeTAwTTJNM0xXSXpPR010WkdGbE1URTVNelF3WXpBdw'}, {'domain': 'www.galaxynova.de', 'expiry': 1707499785, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0Mjc3ODUsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LmdhbGF4eW5vdmEuZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NDI3Nzg1LCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL3d3dy5nYWxheHlub3ZhLmRlLyJ9fQ=='}, {'domain': '.galaxynova.de', 'expiry': 1644429585, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd8f37a12-0013-4362-b9be-f836c5ac5caf'}, {'domain': 'www.galaxynova.de', 'expiry': 1675963785, 'httpOnly': False, 'name': 'cookie_azameo_id', 'path': '/', 'secure': False, 'value': 'MWBE5E3PC2UCWPN8'}, {'domain': '.galaxynova.de', 'expiry': 1644429585, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd8f37a12-0013-4362-b9be-f836c5ac5caf'}, {'domain': '.galaxynova.de', 'expiry': 1675963785, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '623bd104-f3fc-4884-9df1-be6022cf5d35'}, {'domain': '.galaxynova.de', 'expiry': 1645637382, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.galaxynova.de', 'expiry': 1675963785, 'httpOnly': False, 'name': 'azameo_appnexusid', 'path': '/', 'secure': False, 'value': '1644427786'}, {'domain': '.galaxynova.de', 'expiry': 1645637382, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.galaxynova.de', 'expiry': 1675963785, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _gcl_au
+[After] Cookie-Name 2: _scid
+[After] Cookie-Name 3: cart_currency
+[After] Cookie-Name 4: cart_sig
+[After] Cookie-Name 5: localization
+[After] Cookie-Name 6: _shopify_sa_p
+[After] Cookie-Name 7: _shopify_sa_t
+[After] Cookie-Name 8: _y
+[After] Cookie-Name 9: _fbp
+[After] Cookie-Name 10: _pin_unauth
+[After] Cookie-Name 11: __kla_id
+[After] Cookie-Name 12: _shopify_s
+[After] Cookie-Name 13: cookie_azameo_id
+[After] Cookie-Name 14: _s
+[After] Cookie-Name 15: _shopify_y
+[After] Cookie-Name 16: _landing_page
+[After] Cookie-Name 17: azameo_appnexusid
+[After] Cookie-Name 18: _orig_referrer
+[After] Cookie-Name 19: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

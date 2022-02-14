@@ -1,0 +1,97 @@
+Website 239: http://www.cane-line.de/ | Created: 08.02.2022 22:52:38 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 28
+[Before] Website-Cookies: [{'domain': 'cane-line.de', 'expiry': 1675893150, 'httpOnly': False, 'name': '_sn_a', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '{"a":{"s":1644357150779},"v":"42ab997b-a13b-4a38-a045-909794dc8f3a"}'}, {'domain': 'cane-line.de', 'expiry': 1675893150, 'httpOnly': False, 'name': '_sn_n', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '{"a":{"i":"a13b5b7d-cf26-42b4-9bbd-adbc06f67917"}}'}, {'domain': 'cane-line.de', 'httpOnly': False, 'name': 'SNS', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.cane-line.de', 'expiry': 1644358950, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A52%3A30.005Z'}, {'domain': '.cane-line.de', 'expiry': 1707429150, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1617432257.1644357149'}, {'domain': '.cane-line.de', 'expiry': 1678434748, 'httpOnly': False, 'name': '_hp2_id.4046759307', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22userId%22%3A%227632384587134269%22%2C%22pageviewId%22%3A%223988446224550641%22%2C%22sessionId%22%3A%226976223092438502%22%2C%22identity%22%3Anull%2C%22trackerVersion%22%3A%224.0%22%7D'}, {'domain': '.cane-line.de', 'expiry': 1652133150, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644357150223.1271400599'}, {'domain': '.cane-line.de', 'expiry': 1644358948, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': 'cane-line.de', 'expiry': 1644357268, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'cane-line.de', 'expiry': 1675893150, 'httpOnly': False, 'name': '_sn_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '{"r":{"n":1}}'}, {'domain': '.cane-line.de', 'expiry': 1644357210, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.cane-line.de', 'expiry': 1644358949, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd9ba883c-ccac-4d3d-a3b3-2da8f8e7a597'}, {'domain': '.cane-line.de', 'expiry': 1675893148, 'httpOnly': False, 'name': '_hjSessionUser_1972036', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjU4MmRmMThiLTFjM2QtNWVlYy1iYmFjLTMxYTg4OGU2YjViMyIsImNyZWF0ZWQiOjE2NDQzNTcxNDg2ODEsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.cane-line.de', 'expiry': 1644358950, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.cane-line.de', 'expiry': 1707429148, 'httpOnly': False, 'name': '_ga_JX7R5WDGWP', 'path': '/', 'secure': False, 'value': 'GS1.1.1644357148.1.0.1644357148.60'}, {'domain': '.cane-line.de', 'expiry': 1644358949, 'httpOnly': False, 'name': '_hp2_ses_props.4046759307', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22ts%22%3A1644357148767%2C%22d%22%3A%22cane-line.de%22%2C%22h%22%3A%22%2F%22%7D'}, {'domain': '.cane-line.de', 'expiry': 1644358948, 'httpOnly': False, 'name': '_hjSession_1972036', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjU1OTljNjVkLTE0NjAtNDdhNC1hNDk4LWJjMjFhMTIyMWY3NCIsImNyZWF0ZWQiOjE2NDQzNTcxNDg3NDEsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': '.cane-line.de', 'expiry': 1645566748, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.cane-line.de', 'expiry': 1644443550, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1994272737.1644357149'}, {'domain': 'cane-line.de', 'expiry': 1707429149, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQzNTcxNTAsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vY2FuZS1saW5lLmRlLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDM1NzE1MCwidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly9jYW5lLWxpbmUuZGUvIn19'}, {'domain': '.cane-line.de', 'expiry': 1644358949, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd9ba883c-ccac-4d3d-a3b3-2da8f8e7a597'}, {'domain': '.cane-line.de', 'expiry': 1675893148, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVptUTJZekkwTlRFdFpEZ3dOaTAwWkRrd0xXSTVObVl0TTJNMFptSTJPRGRtTkRCbQ'}, {'domain': 'cane-line.de', 'expiry': 1675893148, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.cane-line.de', 'expiry': 1645566748, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.cane-line.de', 'expiry': 1675893148, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '28a178f8-a84d-4ff8-b438-59979f3e3cff'}, {'domain': '.cane-line.de', 'expiry': 1675893148, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '28a178f8-a84d-4ff8-b438-59979f3e3cff'}, {'domain': '.cane-line.de', 'expiry': 1644358948, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.cane-line.de', 'expiry': 1652133148, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.714584805.1644357149'}]
+[Before] Cookie-Name 1: _sn_a
+[Before] Cookie-Name 2: _sn_n
+[Before] Cookie-Name 3: SNS
+[Before] Cookie-Name 4: _shopify_sa_t
+[Before] Cookie-Name 5: _ga
+[Before] Cookie-Name 6: _hp2_id.4046759307
+[Before] Cookie-Name 7: _fbp
+[Before] Cookie-Name 8: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 9: _hjIncludedInPageviewSample
+[Before] Cookie-Name 10: _sn_m
+[Before] Cookie-Name 11: _gat
+[Before] Cookie-Name 12: _s
+[Before] Cookie-Name 13: _hjSessionUser_1972036
+[Before] Cookie-Name 14: _shopify_sa_p
+[Before] Cookie-Name 15: _ga_JX7R5WDGWP
+[Before] Cookie-Name 16: _hp2_ses_props.4046759307
+[Before] Cookie-Name 17: _hjSession_1972036
+[Before] Cookie-Name 18: _landing_page
+[Before] Cookie-Name 19: _gid
+[Before] Cookie-Name 20: __kla_id
+[Before] Cookie-Name 21: _shopify_s
+[Before] Cookie-Name 22: _pin_unauth
+[Before] Cookie-Name 23: secure_customer_sig
+[Before] Cookie-Name 24: _orig_referrer
+[Before] Cookie-Name 25: _y
+[Before] Cookie-Name 26: _shopify_y
+[Before] Cookie-Name 27: _hjFirstSeen
+[Before] Cookie-Name 28: _gcl_au
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 30
+[After] Website-Cookies: [{'domain': 'cane-line.de', 'expiry': 1675893165, 'httpOnly': False, 'name': '_sn_a', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '{"a":{"s":1644357150779},"v":"42ab997b-a13b-4a38-a045-909794dc8f3a","g":{"sc":{"1af14f8a-bd33-4afb-94b0-e6c3fd4dc2a7":1}}}'}, {'domain': 'cane-line.de', 'expiry': 1675893165, 'httpOnly': False, 'name': '_sn_n', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '{"a":{"i":"a13b5b7d-cf26-42b4-9bbd-adbc06f67917"},"cs":{"1af1":{"i":[1675893165552,1],"c":1}},"ssc":1}'}, {'domain': '.cane-line.de', 'expiry': 1644357225, 'httpOnly': False, 'name': '_gat_UA-3021910-3', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'cane-line.de', 'expiry': 1675893164, 'httpOnly': False, 'name': 'CookieConsent', 'path': '/', 'secure': True, 'value': '{stamp:%27mwo7rYHeoGrak23OOb5MspZqpkLhiY1N/KkdUTX0tMpi5/9FHM18yQ==%27%2Cnecessary:true%2Cpreferences:true%2Cstatistics:true%2Cmarketing:true%2Cver:1%2Cutc:1644357164943%2Cregion:%27de%27}'}, {'domain': 'cane-line.de', 'httpOnly': False, 'name': 'SNS', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.cane-line.de', 'expiry': 1644358950, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A52%3A30.005Z'}, {'domain': '.cane-line.de', 'expiry': 1707429150, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1617432257.1644357149'}, {'domain': '.cane-line.de', 'expiry': 1678434748, 'httpOnly': False, 'name': '_hp2_id.4046759307', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22userId%22%3A%227632384587134269%22%2C%22pageviewId%22%3A%223988446224550641%22%2C%22sessionId%22%3A%226976223092438502%22%2C%22identity%22%3Anull%2C%22trackerVersion%22%3A%224.0%22%7D'}, {'domain': '.cane-line.de', 'expiry': 1652133164, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644357150223.1271400599'}, {'domain': '.cane-line.de', 'expiry': 1644358948, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': 'cane-line.de', 'expiry': 1644357268, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'cane-line.de', 'expiry': 1675893150, 'httpOnly': False, 'name': '_sn_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '{"r":{"n":1}}'}, {'domain': '.cane-line.de', 'expiry': 1644357210, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.cane-line.de', 'expiry': 1644358949, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd9ba883c-ccac-4d3d-a3b3-2da8f8e7a597'}, {'domain': '.cane-line.de', 'expiry': 1675893148, 'httpOnly': False, 'name': '_hjSessionUser_1972036', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjU4MmRmMThiLTFjM2QtNWVlYy1iYmFjLTMxYTg4OGU2YjViMyIsImNyZWF0ZWQiOjE2NDQzNTcxNDg2ODEsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.cane-line.de', 'expiry': 1644358950, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.cane-line.de', 'expiry': 1707429148, 'httpOnly': False, 'name': '_ga_JX7R5WDGWP', 'path': '/', 'secure': False, 'value': 'GS1.1.1644357148.1.0.1644357148.60'}, {'domain': '.cane-line.de', 'expiry': 1644358949, 'httpOnly': False, 'name': '_hp2_ses_props.4046759307', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22ts%22%3A1644357148767%2C%22d%22%3A%22cane-line.de%22%2C%22h%22%3A%22%2F%22%7D'}, {'domain': '.cane-line.de', 'expiry': 1644358948, 'httpOnly': False, 'name': '_hjSession_1972036', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjU1OTljNjVkLTE0NjAtNDdhNC1hNDk4LWJjMjFhMTIyMWY3NCIsImNyZWF0ZWQiOjE2NDQzNTcxNDg3NDEsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': '.cane-line.de', 'expiry': 1645566748, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.cane-line.de', 'expiry': 1644443550, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1994272737.1644357149'}, {'domain': 'cane-line.de', 'expiry': 1707429149, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQzNTcxNTAsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vY2FuZS1saW5lLmRlLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDM1NzE1MCwidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly9jYW5lLWxpbmUuZGUvIn19'}, {'domain': '.cane-line.de', 'expiry': 1644358949, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd9ba883c-ccac-4d3d-a3b3-2da8f8e7a597'}, {'domain': '.cane-line.de', 'expiry': 1675893148, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVptUTJZekkwTlRFdFpEZ3dOaTAwWkRrd0xXSTVObVl0TTJNMFptSTJPRGRtTkRCbQ'}, {'domain': 'cane-line.de', 'expiry': 1675893148, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.cane-line.de', 'expiry': 1645566748, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.cane-line.de', 'expiry': 1675893148, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '28a178f8-a84d-4ff8-b438-59979f3e3cff'}, {'domain': '.cane-line.de', 'expiry': 1675893148, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '28a178f8-a84d-4ff8-b438-59979f3e3cff'}, {'domain': '.cane-line.de', 'expiry': 1644358948, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.cane-line.de', 'expiry': 1652133148, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.714584805.1644357149'}]
+[After] Cookie-Name 1: _sn_a
+[After] Cookie-Name 2: _sn_n
+[After] Cookie-Name 3: _gat_UA-3021910-3
+[After] Cookie-Name 4: CookieConsent
+[After] Cookie-Name 5: SNS
+[After] Cookie-Name 6: _shopify_sa_t
+[After] Cookie-Name 7: _ga
+[After] Cookie-Name 8: _hp2_id.4046759307
+[After] Cookie-Name 9: _fbp
+[After] Cookie-Name 10: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 11: _hjIncludedInPageviewSample
+[After] Cookie-Name 12: _sn_m
+[After] Cookie-Name 13: _gat
+[After] Cookie-Name 14: _s
+[After] Cookie-Name 15: _hjSessionUser_1972036
+[After] Cookie-Name 16: _shopify_sa_p
+[After] Cookie-Name 17: _ga_JX7R5WDGWP
+[After] Cookie-Name 18: _hp2_ses_props.4046759307
+[After] Cookie-Name 19: _hjSession_1972036
+[After] Cookie-Name 20: _landing_page
+[After] Cookie-Name 21: _gid
+[After] Cookie-Name 22: __kla_id
+[After] Cookie-Name 23: _shopify_s
+[After] Cookie-Name 24: _pin_unauth
+[After] Cookie-Name 25: secure_customer_sig
+[After] Cookie-Name 26: _orig_referrer
+[After] Cookie-Name 27: _y
+[After] Cookie-Name 28: _shopify_y
+[After] Cookie-Name 29: _hjFirstSeen
+[After] Cookie-Name 30: _gcl_au
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjIncludedInPageviewSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 2
+[Difference] Cookie-Name: 1: CookieConsent
+[Difference] Cookie-Name: 2: _gat_UA-3021910-3
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

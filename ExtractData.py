@@ -120,7 +120,7 @@ def analyze_generated_files():
     print("Search files...")
     time.sleep(1)
 
-    for file in glob.glob("results/*.txt"):
+    for file in glob.glob("local_results/*.txt"):
         text_files.append(file)
 
     print("Found " + str(text_files.__len__()) + " files!")
@@ -130,7 +130,7 @@ def analyze_generated_files():
     # Loop through all files and all lines in that files
     for index, file in enumerate(text_files, start=1):
         with open(file) as website_file:
-            # results/360living.de.txt
+            # local_results/360living.de.txt
             lines = website_file.readlines()
 
             print("[" + str(index) + "] " + "Analyze text file: " + file)
@@ -165,19 +165,19 @@ def analyze_generated_files():
                     websites_use_facebook_pixel += 1
                 elif line.__eq__("[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)"):
                     websites_use_pinterest_tag += 1
-                elif line.__eq__("[Used before] Cookie-Name: _gcl_au (Google Adsense)") or \
-                        line.__eq__("[Used before] Cookie-Name: _ga (Google Analytics)") or \
-                        line.__eq__("[Used before] Cookie-Name: _gat (Google Analytics)") or \
+                elif line.__eq__("[Used before] Cookie-Name: _gcl_au (Google Adsense)") and not found_google or \
+                        line.__eq__("[Used before] Cookie-Name: _ga (Google Analytics)") and not found_google or \
+                        line.__eq__("[Used before] Cookie-Name: _gat (Google Analytics)") and not found_google or \
                         line.__eq__("[Used before] Cookie-Name: _gid (Google Analytics)") and not found_google:
                     websites_use_google_service += 1
                     found_google = True
-                elif line.__eq__("[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))") or \
-                        line.__eq__("[Used before] Cookie-Name: _hjIncludedInSessionSample (Hotjar (User experience tool))") or \
-                        line.__eq__("[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))") or \
+                elif line.__eq__("[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))") and not found_hotjar or \
+                        line.__eq__("[Used before] Cookie-Name: _hjIncludedInSessionSample (Hotjar (User experience tool))") and not found_hotjar or \
+                        line.__eq__("[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))") and not found_hotjar or \
                         line.__eq__("[Used before] Cookie-Name: _hjIncludedInPageviewSample (Hotjar (User experience tool))") and not found_hotjar:
                     websites_use_hotjar_tool += 1
                     found_hotjar = True
-                elif line.__eq__("[Used before] Cookie-Name: __hssc (HubSpot (CRM-System))") or \
+                elif line.__eq__("[Used before] Cookie-Name: __hssc (HubSpot (CRM-System))") and not found_hubspot or \
                         line.__eq__("[Used before] Cookie-Name: hubspotutk (HubSpot (CRM-System))") and not found_hubspot:
                     websites_use_hubspot_system += 1
                     found_hubspot = True
@@ -185,13 +185,13 @@ def analyze_generated_files():
                     websites_use_klaviyo_tool += 1
                 elif line.__eq__("[Used before] Cookie-Name: _lfa (Leadfeeder (B2B Spy-tool))"):
                     websites_use_leadfeeder_b2b_spytool += 1
-                elif line.__eq__("[Used before] Cookie-Name: _clsk (Microsoft Clarity (User experience tool))") or \
+                elif line.__eq__("[Used before] Cookie-Name: _clsk (Microsoft Clarity (User experience tool))") and not found_microsoft_clarity or \
                         line.__eq__("[Used before] Cookie-Name: _clck (Microsoft Clarity (User experience tool))") and not found_microsoft_clarity:
                     websites_use_microsoft_clarity_tool += 1
                     found_microsoft_clarity = True
-                elif line.__eq__("[Used before] Cookie-Name: __lotl (Lucky Orange (User experience tool))") or \
-                        line.__eq__("[Used before] Cookie-Name: _lo_v (Lucky Orange (User experience tool))") or \
-                        line.__eq__("[Used before] Cookie-Name: _lorid (Lucky Orange (User experience tool))") or \
+                elif line.__eq__("[Used before] Cookie-Name: __lotl (Lucky Orange (User experience tool))") and not found_lucky_orange or \
+                        line.__eq__("[Used before] Cookie-Name: _lo_v (Lucky Orange (User experience tool))") and not found_lucky_orange or \
+                        line.__eq__("[Used before] Cookie-Name: _lorid (Lucky Orange (User experience tool))") and not found_lucky_orange or \
                         line.__eq__("[Used before] Cookie-Name: _lo_uid (Lucky Orange (User experience tool))") and not found_lucky_orange:
                     websites_use_luckyorange_tool += 1
                     found_lucky_orange = True

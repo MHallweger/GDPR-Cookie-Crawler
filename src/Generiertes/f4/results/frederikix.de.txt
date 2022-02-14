@@ -1,0 +1,93 @@
+Website 219: http://www.frederikix.de/ | Created: 09.02.2022 18:12:44 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 30
+[Before] Website-Cookies: [{'domain': '.ixstudioscph.de', 'expiry': 1675962756, 'httpOnly': False, 'name': '__zlcmid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '18Skh6XckuGaSPT'}, {'domain': 'ixstudioscph.de', 'expiry': 1645636355, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A2'}, {'domain': 'ixstudioscph.de', 'expiry': 1645636355, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '829ad72e5ef46ca45bfb11ed4230d153'}, {'domain': 'ixstudioscph.de', 'expiry': 1645636355, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '67974ce8aae10a89de97cf07db00fb0e'}, {'domain': '.ixstudioscph.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A12%3A34.613Z'}, {'domain': '.ixstudioscph.de', 'expiry': 1678613453, 'httpOnly': False, 'name': '_scid', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '122f907a-f07f-4809-8988-b9228243631a'}, {'domain': 'ixstudioscph.de', 'expiry': 1645031554, 'httpOnly': False, 'name': 'geolocation', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': 'ixstudioscph.de', 'httpOnly': False, 'name': 'pmTPTrack', 'path': '/', 'secure': False, 'value': '%7B%22v%22%3A2%2C%22gclid%22%3Anull%2C%22gacid%22%3A%221321204326.1644426755%22%2C%22gacid_source%22%3A%22gatracker%22%2C%22fbp%22%3Anull%2C%22fbc%22%3Anull%2C%22firstvisit%22%3A%7B%22utm_source%22%3A%22%22%2C%22utm_campaign%22%3A%22%22%2C%22utm_medium%22%3A%22%22%2C%22http_referrer%22%3A%22%22%2C%22http_referrer_length%22%3A0%2C%22landingpage%22%3A%22%2F%22%2C%22landingpage_length%22%3A1%2C%22time%22%3A1644426754%7D%7D'}, {'domain': '.ixstudioscph.de', 'expiry': 1675962754, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU1EVXlOalExWmpndE9EWXhZeTAwTTJNM0xXSXpPR010WkdGbE1URTVNelF3WXpBdw'}, {'domain': '.ixstudioscph.de', 'expiry': 1644426814, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.ixstudioscph.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'ixstudioscph.de', 'expiry': 1675962755, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.ixstudioscph.de', 'expiry': 1644513154, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.445359363.1644426755'}, {'domain': '.ixstudioscph.de', 'expiry': 1707498754, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1321204326.1644426755'}, {'domain': '.ixstudioscph.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A12%3A34.628Z'}, {'domain': '.ixstudioscph.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ea25c505-7e5c-4c1f-b21e-c915bf9c5824'}, {'domain': '.ixstudioscph.de', 'expiry': 1675962754, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': 'ixstudioscph.de', 'expiry': 1645636355, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644426755'}, {'domain': '.ixstudioscph.de', 'expiry': 1645636354, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.ixstudioscph.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '46900cc6-61cb-4670-bd45-a23dcca8f00a'}, {'domain': '.ixstudioscph.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ea25c505-7e5c-4c1f-b21e-c915bf9c5824'}, {'domain': '.ixstudioscph.de', 'expiry': 1644428555, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'ixstudioscph.de', 'expiry': 1645636355, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'ixstudioscph.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.ixstudioscph.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '46900cc6-61cb-4670-bd45-a23dcca8f00a'}, {'domain': '.ixstudioscph.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.ixstudioscph.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.ixstudioscph.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'ixstudioscph.de', 'expiry': 1645636355, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.ixstudioscph.de', 'expiry': 1675962754, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%7D'}]
+[Before] Cookie-Name 1: __zlcmid
+[Before] Cookie-Name 2: cart_ver
+[Before] Cookie-Name 3: cart_sig
+[Before] Cookie-Name 4: cart
+[Before] Cookie-Name 5: _shopify_d
+[Before] Cookie-Name 6: _scid
+[Before] Cookie-Name 7: geolocation
+[Before] Cookie-Name 8: pmTPTrack
+[Before] Cookie-Name 9: _pin_unauth
+[Before] Cookie-Name 10: _gat
+[Before] Cookie-Name 11: _shopify_evids
+[Before] Cookie-Name 12: secure_customer_sig
+[Before] Cookie-Name 13: _gid
+[Before] Cookie-Name 14: _ga
+[Before] Cookie-Name 15: _shopify_sa_t
+[Before] Cookie-Name 16: _s
+[Before] Cookie-Name 17: _shopify_m
+[Before] Cookie-Name 18: cart_ts
+[Before] Cookie-Name 19: _shopify_tw
+[Before] Cookie-Name 20: _shopify_y
+[Before] Cookie-Name 21: _shopify_s
+[Before] Cookie-Name 22: _shopify_tm
+[Before] Cookie-Name 23: cart_currency
+[Before] Cookie-Name 24: _shopify_evids
+[Before] Cookie-Name 25: _y
+[Before] Cookie-Name 26: _shopify_sa_p
+[Before] Cookie-Name 27: _orig_referrer
+[Before] Cookie-Name 28: _landing_page
+[Before] Cookie-Name 29: localization
+[Before] Cookie-Name 30: _tracking_consent
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 31
+[After] Website-Cookies: [{'domain': '.ixstudioscph.de', 'expiry': 1675962756, 'httpOnly': False, 'name': '__zlcmid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '18Skh6XckuGaSPT'}, {'domain': 'ixstudioscph.de', 'expiry': 1645636355, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A2'}, {'domain': 'ixstudioscph.de', 'expiry': 1645636355, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '829ad72e5ef46ca45bfb11ed4230d153'}, {'domain': 'ixstudioscph.de', 'expiry': 1645636355, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '67974ce8aae10a89de97cf07db00fb0e'}, {'domain': '.ixstudioscph.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A12%3A34.613Z'}, {'domain': '.ixstudioscph.de', 'expiry': 1678613453, 'httpOnly': False, 'name': '_scid', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '122f907a-f07f-4809-8988-b9228243631a'}, {'domain': 'ixstudioscph.de', 'expiry': 1645031554, 'httpOnly': False, 'name': 'geolocation', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': 'ixstudioscph.de', 'httpOnly': False, 'name': 'pmTPTrack', 'path': '/', 'secure': False, 'value': '%7B%22v%22%3A2%2C%22gclid%22%3Anull%2C%22gacid%22%3A%221321204326.1644426755%22%2C%22gacid_source%22%3A%22gatracker%22%2C%22fbp%22%3Anull%2C%22fbc%22%3Anull%2C%22firstvisit%22%3A%7B%22utm_source%22%3A%22%22%2C%22utm_campaign%22%3A%22%22%2C%22utm_medium%22%3A%22%22%2C%22http_referrer%22%3A%22%22%2C%22http_referrer_length%22%3A0%2C%22landingpage%22%3A%22%2F%22%2C%22landingpage_length%22%3A1%2C%22time%22%3A1644426754%7D%7D'}, {'domain': '.ixstudioscph.de', 'expiry': 1675962754, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU1EVXlOalExWmpndE9EWXhZeTAwTTJNM0xXSXpPR010WkdGbE1URTVNelF3WXpBdw'}, {'domain': 'ixstudioscph.de', 'expiry': 1675962770, 'httpOnly': False, 'name': 'CookieInformationConsent', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '%7B%22website_uuid%22%3A%22763a2d0b-8971-4e10-9432-da19346331c2%22%2C%22timestamp%22%3A%222022-02-09T17%3A12%3A50.374Z%22%2C%22consent_url%22%3A%22https%3A%2F%2Fixstudioscph.de%2F%22%2C%22consent_website%22%3A%22frederikix.dk%22%2C%22consent_domain%22%3A%22ixstudioscph.de%22%2C%22user_uid%22%3A%22fc4cc7fb-ade4-4af2-9e45-32822ca503a4%22%2C%22consents_approved%22%3A%5B%22cookie_cat_necessary%22%2C%22cookie_cat_functional%22%2C%22cookie_cat_statistic%22%2C%22cookie_cat_marketing%22%2C%22cookie_cat_unclassified%22%5D%2C%22consents_denied%22%3A%5B%5D%2C%22user_agent%22%3A%22Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F98.0.4758.82%20Safari%2F537.36%22%7D'}, {'domain': '.ixstudioscph.de', 'expiry': 1644426814, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.ixstudioscph.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'ixstudioscph.de', 'expiry': 1675962755, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.ixstudioscph.de', 'expiry': 1644513154, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.445359363.1644426755'}, {'domain': '.ixstudioscph.de', 'expiry': 1707498754, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1321204326.1644426755'}, {'domain': '.ixstudioscph.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A12%3A34.628Z'}, {'domain': '.ixstudioscph.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ea25c505-7e5c-4c1f-b21e-c915bf9c5824'}, {'domain': '.ixstudioscph.de', 'expiry': 1675962754, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': 'ixstudioscph.de', 'expiry': 1645636355, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644426755'}, {'domain': '.ixstudioscph.de', 'expiry': 1645636354, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.ixstudioscph.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '46900cc6-61cb-4670-bd45-a23dcca8f00a'}, {'domain': '.ixstudioscph.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ea25c505-7e5c-4c1f-b21e-c915bf9c5824'}, {'domain': '.ixstudioscph.de', 'expiry': 1644428555, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'ixstudioscph.de', 'expiry': 1645636355, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'ixstudioscph.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.ixstudioscph.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '46900cc6-61cb-4670-bd45-a23dcca8f00a'}, {'domain': '.ixstudioscph.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.ixstudioscph.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.ixstudioscph.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'ixstudioscph.de', 'expiry': 1645636355, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.ixstudioscph.de', 'expiry': 1675962754, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%7D'}]
+[After] Cookie-Name 1: __zlcmid
+[After] Cookie-Name 2: cart_ver
+[After] Cookie-Name 3: cart_sig
+[After] Cookie-Name 4: cart
+[After] Cookie-Name 5: _shopify_d
+[After] Cookie-Name 6: _scid
+[After] Cookie-Name 7: geolocation
+[After] Cookie-Name 8: pmTPTrack
+[After] Cookie-Name 9: _pin_unauth
+[After] Cookie-Name 10: CookieInformationConsent
+[After] Cookie-Name 11: _gat
+[After] Cookie-Name 12: _shopify_evids
+[After] Cookie-Name 13: secure_customer_sig
+[After] Cookie-Name 14: _gid
+[After] Cookie-Name 15: _ga
+[After] Cookie-Name 16: _shopify_sa_t
+[After] Cookie-Name 17: _s
+[After] Cookie-Name 18: _shopify_m
+[After] Cookie-Name 19: cart_ts
+[After] Cookie-Name 20: _shopify_tw
+[After] Cookie-Name 21: _shopify_y
+[After] Cookie-Name 22: _shopify_s
+[After] Cookie-Name 23: _shopify_tm
+[After] Cookie-Name 24: cart_currency
+[After] Cookie-Name 25: _shopify_evids
+[After] Cookie-Name 26: _y
+[After] Cookie-Name 27: _shopify_sa_p
+[After] Cookie-Name 28: _orig_referrer
+[After] Cookie-Name 29: _landing_page
+[After] Cookie-Name 30: localization
+[After] Cookie-Name 31: _tracking_consent
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: CookieInformationConsent
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

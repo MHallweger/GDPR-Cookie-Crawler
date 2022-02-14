@@ -1,0 +1,112 @@
+Website 197: http://www.aufdemkerbholz.de/ | Created: 09.02.2022 20:36:04 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 22
+[Before] Website-Cookies: [{'domain': 'www.aufdemkerbholz.de', 'expiry': 1802115354, 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'secure': True, 'value': '7ccd2764-2b3a-4df6-bf38-b9ff7f81cca7'}, {'domain': '.aufdemkerbholz.de', 'expiry': 1675971348, 'httpOnly': False, 'name': '__zlcmid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '18Skh7TlgI1O4LX'}, {'domain': 'www.aufdemkerbholz.de', 'expiry': 1707507354, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MzUzNTUsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LmF1ZmRlbWtlcmJob2x6LmRlLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDQzNTM1NSwidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly93d3cuYXVmZGVta2VyYmhvbHouZGUvIn19'}, {'domain': '.aufdemkerbholz.de', 'expiry': 1644435405, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.aufdemkerbholz.de', 'expiry': 1644521745, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1629529364.1644435346'}, {'domain': '.aufdemkerbholz.de', 'expiry': 1707507345, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1234567946.1644435346'}, {'domain': 'www.aufdemkerbholz.de', 'expiry': 1645644946, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.aufdemkerbholz.de', 'expiry': 1644437145, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A35%3A45.614Z'}, {'domain': '.aufdemkerbholz.de', 'expiry': 1652211345, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1540456929.1644435345'}, {'domain': '.aufdemkerbholz.de', 'expiry': 1675971346, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5120ac6f-7ec8-4602-abea-3946b71b152c'}, {'domain': '.aufdemkerbholz.de', 'expiry': 1706643345, 'httpOnly': False, 'name': 'initialTrafficSource', 'path': '/', 'secure': False, 'value': 'utmcsr=(direct)|utmcmd=(none)|utmccn=(not set)'}, {'domain': 'www.aufdemkerbholz.de', 'expiry': 1644437143, 'httpOnly': False, 'name': '_shopify_country', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'Germany'}, {'domain': '.aufdemkerbholz.de', 'expiry': 1644437146, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6b9bb94d-7b15-4830-b547-9b6cc8661107'}, {'domain': '.aufdemkerbholz.de', 'expiry': 1644437146, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6b9bb94d-7b15-4830-b547-9b6cc8661107'}, {'domain': '.aufdemkerbholz.de', 'httpOnly': False, 'name': '__utmzzses', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.aufdemkerbholz.de', 'expiry': 1675971346, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5120ac6f-7ec8-4602-abea-3946b71b152c'}, {'domain': '.aufdemkerbholz.de', 'expiry': 1645644944, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.aufdemkerbholz.de', 'expiry': 1644437154, 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'secure': True, 'value': '6d29f6b8-09eb-44c2-9625-9e4565afb970'}, {'domain': 'www.aufdemkerbholz.de', 'expiry': 1645644946, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.aufdemkerbholz.de', 'expiry': 1644437145, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.aufdemkerbholz.de', 'expiry': 1645644944, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.aufdemkerbholz.de', 'expiry': 1675971346, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _shg_user_id
+[Before] Cookie-Name 2: __zlcmid
+[Before] Cookie-Name 3: __kla_id
+[Before] Cookie-Name 4: _gat
+[Before] Cookie-Name 5: _gid
+[Before] Cookie-Name 6: _ga
+[Before] Cookie-Name 7: localization
+[Before] Cookie-Name 8: _shopify_sa_t
+[Before] Cookie-Name 9: _gcl_au
+[Before] Cookie-Name 10: _shopify_y
+[Before] Cookie-Name 11: initialTrafficSource
+[Before] Cookie-Name 12: _shopify_country
+[Before] Cookie-Name 13: _shopify_s
+[Before] Cookie-Name 14: _s
+[Before] Cookie-Name 15: __utmzzses
+[Before] Cookie-Name 16: _y
+[Before] Cookie-Name 17: _orig_referrer
+[Before] Cookie-Name 18: _shg_session_id
+[Before] Cookie-Name 19: cart_currency
+[Before] Cookie-Name 20: _shopify_sa_p
+[Before] Cookie-Name 21: _landing_page
+[Before] Cookie-Name 22: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 40
+[After] Website-Cookies: [{'domain': '.aufdemkerbholz.de', 'expiry': 1644521771, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': 'n930us|1644435371911|1|1|h.clarity.ms/collect'}, {'domain': '.aufdemkerbholz.de', 'expiry': 1675971371, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': 's2k09e|1|eyu|0'}, {'domain': '.www.aufdemkerbholz.de', 'expiry': 1675971371, 'httpOnly': False, 'name': '__ar_v4', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7C2NAX4T4AK5HUZP5NDWB73U%3A20220211%3A1%7CMXM7SUG3HZAENKBS3B6B5R%3A20220211%3A1%7CYF4IISHL6BDKDA6S66OV5X%3A20220211%3A1'}, {'domain': '.aufdemkerbholz.de', 'expiry': 1644437171, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.aufdemkerbholz.de', 'expiry': 1644437171, 'httpOnly': False, 'name': '_hjSession_614844', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6Ijc1N2ViYTk5LTRmZGMtNDMyZC1iZWQ4LTFmZTRkMTA0ZjA5MyIsImNyZWF0ZWQiOjE2NDQ0MzUzNzEyMDgsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': 'www.aufdemkerbholz.de', 'expiry': 1644435491, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.aufdemkerbholz.de', 'expiry': 1644437171, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.aufdemkerbholz.de', 'expiry': 1675971371, 'httpOnly': False, 'name': '_hjSessionUser_614844', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjVjNTExYWIwLWU3ZGUtNTMxYy04MjhmLTMzZGVhOTQzZjA2ZCIsImNyZWF0ZWQiOjE2NDQ0MzUzNzEyMDAsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': 'www.aufdemkerbholz.de', 'expiry': 1644437171, 'httpOnly': False, 'name': 'trbo_sess_181557823', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '%7B%22firstClickTime%22%3A1644435371%2C%22lastClickTime%22%3A1644435371%2C%22pageViewCount%22%3A1%2C%22sessionDuration%22%3A0%7D'}, {'domain': 'www.aufdemkerbholz.de', 'expiry': 1739043371, 'httpOnly': False, 'name': 'trbo_us_456f3770273dd0f1c3201986fc774d47', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '%7B%22saleCount%22%3A0%2C%22sessionCount%22%3A1%2C%22brandSessionCount%22%3A1%2C%22pageViewCountTotal%22%3A1%2C%22sessionDurationTotal%22%3A0%2C%22externalUserId%22%3A%22%22%2C%22userCreateTime%22%3A1644435371%7D'}, {'domain': 'www.aufdemkerbholz.de', 'expiry': 1644437171, 'httpOnly': False, 'name': 'trbo_session', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '181557823'}, {'domain': '.aufdemkerbholz.de', 'expiry': 1675971371, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU1XVmpNamN3WXpBdE1HRm1ZUzAwTkdVMUxXRTNaVGd0T1dKak9UaGpaamswT0RaaA'}, {'domain': 'www.aufdemkerbholz.de', 'expiry': 1802115354, 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'secure': True, 'value': '7ccd2764-2b3a-4df6-bf38-b9ff7f81cca7'}, {'domain': '.aufdemkerbholz.de', 'expiry': 1675971346, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5120ac6f-7ec8-4602-abea-3946b71b152c'}, {'domain': '.aufdemkerbholz.de', 'expiry': 1644437146, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6b9bb94d-7b15-4830-b547-9b6cc8661107'}, {'domain': '.aufdemkerbholz.de', 'expiry': 1707507345, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1234567946.1644435346'}, {'domain': '.aufdemkerbholz.de', 'expiry': 1675971348, 'httpOnly': False, 'name': '__zlcmid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '18Skh7TlgI1O4LX'}, {'domain': 'www.aufdemkerbholz.de', 'expiry': 1707507354, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MzUzNTUsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LmF1ZmRlbWtlcmJob2x6LmRlLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDQzNTM1NSwidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly93d3cuYXVmZGVta2VyYmhvbHouZGUvIn19'}, {'domain': '.aufdemkerbholz.de', 'expiry': 1645644944, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.aufdemkerbholz.de', 'expiry': 1644435405, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.aufdemkerbholz.de', 'expiry': 1644521745, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1629529364.1644435346'}, {'domain': 'www.aufdemkerbholz.de', 'expiry': 1645644946, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.aufdemkerbholz.de', 'expiry': 1678131370, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '88e94c5089df11eca4c05f81705b7562'}, {'domain': 'www.aufdemkerbholz.de', 'expiry': 1644437154, 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'secure': True, 'value': '6d29f6b8-09eb-44c2-9625-9e4565afb970'}, {'domain': '.aufdemkerbholz.de', 'expiry': 1644437145, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A35%3A45.614Z'}, {'domain': '.aufdemkerbholz.de', 'expiry': 1652211345, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1540456929.1644435345'}, {'domain': '.aufdemkerbholz.de', 'expiry': 1675971346, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5120ac6f-7ec8-4602-abea-3946b71b152c'}, {'domain': '.aufdemkerbholz.de', 'expiry': 1652211371, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644435371784.1911873641'}, {'domain': '.aufdemkerbholz.de', 'expiry': 1706643345, 'httpOnly': False, 'name': 'initialTrafficSource', 'path': '/', 'secure': False, 'value': 'utmcsr=(direct)|utmcmd=(none)|utmccn=(not set)'}, {'domain': '.www.aufdemkerbholz.de', 'expiry': 1675992971, 'httpOnly': False, 'name': '__adroll_fpc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c81b38458ea86a4a3c6871e1765b1383-1644435371335'}, {'domain': '.aufdemkerbholz.de', 'expiry': 1644521770, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': '88e918a089df11ec8c656f75f8be78c6'}, {'domain': '.aufdemkerbholz.de', 'httpOnly': False, 'name': '__utmzzses', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.aufdemkerbholz.de', 'expiry': 1644437143, 'httpOnly': False, 'name': '_shopify_country', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'Germany'}, {'domain': '.aufdemkerbholz.de', 'expiry': 1644437146, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6b9bb94d-7b15-4830-b547-9b6cc8661107'}, {'domain': 'www.aufdemkerbholz.de', 'expiry': 1739043371, 'httpOnly': False, 'name': 'trbo_usr', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '456f3770273dd0f1c3201986fc774d47'}, {'domain': '.aufdemkerbholz.de', 'expiry': 1645644944, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.aufdemkerbholz.de', 'expiry': 1644435491, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.aufdemkerbholz.de', 'expiry': 1645644946, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.aufdemkerbholz.de', 'expiry': 1644437145, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.aufdemkerbholz.de', 'expiry': 1675971346, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _clsk
+[After] Cookie-Name 2: _clck
+[After] Cookie-Name 3: __ar_v4
+[After] Cookie-Name 4: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 5: _hjSession_614844
+[After] Cookie-Name 6: _hjIncludedInSessionSample
+[After] Cookie-Name 7: _hjFirstSeen
+[After] Cookie-Name 8: _hjSessionUser_614844
+[After] Cookie-Name 9: trbo_sess_181557823
+[After] Cookie-Name 10: trbo_us_456f3770273dd0f1c3201986fc774d47
+[After] Cookie-Name 11: trbo_session
+[After] Cookie-Name 12: _pin_unauth
+[After] Cookie-Name 13: _shg_user_id
+[After] Cookie-Name 14: _y
+[After] Cookie-Name 15: _s
+[After] Cookie-Name 16: _ga
+[After] Cookie-Name 17: __zlcmid
+[After] Cookie-Name 18: __kla_id
+[After] Cookie-Name 19: _landing_page
+[After] Cookie-Name 20: _gat
+[After] Cookie-Name 21: _gid
+[After] Cookie-Name 22: localization
+[After] Cookie-Name 23: _uetvid
+[After] Cookie-Name 24: _shg_session_id
+[After] Cookie-Name 25: _shopify_sa_t
+[After] Cookie-Name 26: _gcl_au
+[After] Cookie-Name 27: _shopify_y
+[After] Cookie-Name 28: _fbp
+[After] Cookie-Name 29: initialTrafficSource
+[After] Cookie-Name 30: __adroll_fpc
+[After] Cookie-Name 31: _uetsid
+[After] Cookie-Name 32: __utmzzses
+[After] Cookie-Name 33: _shopify_country
+[After] Cookie-Name 34: _shopify_s
+[After] Cookie-Name 35: trbo_usr
+[After] Cookie-Name 36: _orig_referrer
+[After] Cookie-Name 37: _hjIncludedInPageviewSample
+[After] Cookie-Name 38: cart_currency
+[After] Cookie-Name 39: _shopify_sa_p
+[After] Cookie-Name 40: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 18
+[Difference] Cookie-Name: 1: _uetvid
+[Difference] Cookie-Name: 2: __adroll_fpc
+[Difference] Cookie-Name: 3: _hjIncludedInPageviewSample
+[Difference] Cookie-Name: 4: _hjFirstSeen
+[Difference] Cookie-Name: 5: _hjIncludedInSessionSample
+[Difference] Cookie-Name: 6: _hjSession_614844
+[Difference] Cookie-Name: 7: _hjSessionUser_614844
+[Difference] Cookie-Name: 8: trbo_session
+[Difference] Cookie-Name: 9: trbo_usr
+[Difference] Cookie-Name: 10: _clck
+[Difference] Cookie-Name: 11: _fbp
+[Difference] Cookie-Name: 12: __ar_v4
+[Difference] Cookie-Name: 13: _hjAbsoluteSessionInProgress
+[Difference] Cookie-Name: 14: _pin_unauth
+[Difference] Cookie-Name: 15: trbo_us_456f3770273dd0f1c3201986fc774d47
+[Difference] Cookie-Name: 16: _uetsid
+[Difference] Cookie-Name: 17: _clsk
+[Difference] Cookie-Name: 18: trbo_sess_181557823
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

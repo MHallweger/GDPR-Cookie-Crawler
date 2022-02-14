@@ -1,0 +1,68 @@
+Website 292: http://www.firtech.de/ | Created: 10.02.2022 13:39:04 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 17
+[Before] Website-Cookies: [{'domain': 'www.firtech.de', 'httpOnly': False, 'name': 'locale_bar_accepted', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.firtech.de', 'expiry': 1652272734, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1658015819.1644496734'}, {'domain': '.firtech.de', 'expiry': 1644496794, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.firtech.de', 'expiry': 1644583134, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.752349757.1644496734'}, {'domain': '.firtech.de', 'expiry': 1644498534, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.firtech.de', 'expiry': 1676032735, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2d7fc360-0025-4e2d-8562-021205b291da'}, {'domain': '.firtech.de', 'expiry': 1644498535, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '06c5caf7-4195-4270-b862-373a1c788283'}, {'domain': 'www.firtech.de', 'expiry': 1676032735, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.firtech.de', 'expiry': 1676032735, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2d7fc360-0025-4e2d-8562-021205b291da'}, {'domain': 'www.firtech.de', 'expiry': 1644500334, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.firtech.de', 'expiry': 1645706333, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.firtech.de', 'expiry': 1644498535, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '06c5caf7-4195-4270-b862-373a1c788283'}, {'domain': '.firtech.de', 'expiry': 1645706333, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.firtech.de', 'expiry': 1645706335, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.firtech.de', 'expiry': 1645706335, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.firtech.de', 'expiry': 1707568734, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1251750402.1644496734'}, {'domain': '.firtech.de', 'expiry': 1644498534, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T12%3A38%3A54.198Z'}]
+[Before] Cookie-Name 1: locale_bar_accepted
+[Before] Cookie-Name 2: _gcl_au
+[Before] Cookie-Name 3: _gat
+[Before] Cookie-Name 4: _gid
+[Before] Cookie-Name 5: _shopify_sa_p
+[Before] Cookie-Name 6: _shopify_y
+[Before] Cookie-Name 7: _s
+[Before] Cookie-Name 8: secure_customer_sig
+[Before] Cookie-Name 9: _y
+[Before] Cookie-Name 10: shopify_pay_redirect
+[Before] Cookie-Name 11: _landing_page
+[Before] Cookie-Name 12: _shopify_s
+[Before] Cookie-Name 13: _orig_referrer
+[Before] Cookie-Name 14: cart_currency
+[Before] Cookie-Name 15: localization
+[Before] Cookie-Name 16: _ga
+[Before] Cookie-Name 17: _shopify_sa_t
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 17
+[After] Website-Cookies: [{'domain': 'www.firtech.de', 'httpOnly': False, 'name': 'locale_bar_accepted', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.firtech.de', 'expiry': 1652272734, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1658015819.1644496734'}, {'domain': '.firtech.de', 'expiry': 1644496794, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.firtech.de', 'expiry': 1644583134, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.752349757.1644496734'}, {'domain': '.firtech.de', 'expiry': 1644498534, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.firtech.de', 'expiry': 1676032735, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2d7fc360-0025-4e2d-8562-021205b291da'}, {'domain': '.firtech.de', 'expiry': 1644498535, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '06c5caf7-4195-4270-b862-373a1c788283'}, {'domain': 'www.firtech.de', 'expiry': 1676032735, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.firtech.de', 'expiry': 1676032735, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2d7fc360-0025-4e2d-8562-021205b291da'}, {'domain': 'www.firtech.de', 'expiry': 1644500334, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.firtech.de', 'expiry': 1645706333, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.firtech.de', 'expiry': 1644498535, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '06c5caf7-4195-4270-b862-373a1c788283'}, {'domain': '.firtech.de', 'expiry': 1645706333, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.firtech.de', 'expiry': 1645706335, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.firtech.de', 'expiry': 1645706335, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.firtech.de', 'expiry': 1707568734, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1251750402.1644496734'}, {'domain': '.firtech.de', 'expiry': 1644498534, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T12%3A38%3A54.198Z'}]
+[After] Cookie-Name 1: locale_bar_accepted
+[After] Cookie-Name 2: _gcl_au
+[After] Cookie-Name 3: _gat
+[After] Cookie-Name 4: _gid
+[After] Cookie-Name 5: _shopify_sa_p
+[After] Cookie-Name 6: _shopify_y
+[After] Cookie-Name 7: _s
+[After] Cookie-Name 8: secure_customer_sig
+[After] Cookie-Name 9: _y
+[After] Cookie-Name 10: shopify_pay_redirect
+[After] Cookie-Name 11: _landing_page
+[After] Cookie-Name 12: _shopify_s
+[After] Cookie-Name 13: _orig_referrer
+[After] Cookie-Name 14: cart_currency
+[After] Cookie-Name 15: localization
+[After] Cookie-Name 16: _ga
+[After] Cookie-Name 17: _shopify_sa_t
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

@@ -1,0 +1,93 @@
+Website 304: http://www.hoofment.de/ | Created: 10.02.2022 18:49:58 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 7
+[Before] Website-Cookies: [{'domain': 'hoofment.de', 'expiry': 1676051389, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.hoofment.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.hoofment.de', 'expiry': 1644517189, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.hoofment.de', 'expiry': 1676051389, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%7D'}, {'domain': '.hoofment.de', 'expiry': 1676051389, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.hoofment.de', 'expiry': 1645724989, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.hoofment.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}]
+[Before] Cookie-Name 1: secure_customer_sig
+[Before] Cookie-Name 2: _orig_referrer
+[Before] Cookie-Name 3: _shopify_tm
+[Before] Cookie-Name 4: _tracking_consent
+[Before] Cookie-Name 5: _shopify_m
+[Before] Cookie-Name 6: _shopify_tw
+[Before] Cookie-Name 7: _landing_page
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 36
+[After] Website-Cookies: [{'domain': '.hoofment.de', 'expiry': 1652291405, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644515404955.815661743'}, {'domain': '.hoofment.de', 'expiry': 1644515464, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.hoofment.de', 'expiry': 1676051404, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22con%22%3A%7B%22GDPR%22%3A%221%22%7D%2C%22v%22%3A%222.0%22%7D'}, {'domain': '.hoofment.de', 'expiry': 1676051404, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': '.hoofment.de', 'expiry': 1644515464, 'httpOnly': False, 'name': '_gat_gtag_UA_181372725_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.hoofment.de', 'expiry': 1644601804, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1639245462.1644515405'}, {'domain': '.hoofment.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.hoofment.de', 'expiry': 1676051406, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6967b4e9-8b3b-42c4-a749-3d448278ae48'}, {'domain': '.hoofment.de', 'expiry': 1676051406, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6967b4e9-8b3b-42c4-a749-3d448278ae48'}, {'domain': 'hoofment.de', 'expiry': 1645725004, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': 'hoofment.de', 'expiry': 1644517204, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '110b4f66-d3ca-4cb3-885e-6d3a4f786798'}, {'domain': 'hoofment.de', 'expiry': 1645725004, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8820bcf01fda2ac5cd090ec7f451e5d9'}, {'domain': 'hoofment.de', 'expiry': 1676051404, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6967b4e9-8b3b-42c4-a749-3d448278ae48'}, {'domain': 'hoofment.de', 'expiry': 1645725004, 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A49%3A49.773Z'}, {'domain': 'hoofment.de', 'expiry': 1645725004, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644515404'}, {'domain': 'hoofment.de', 'httpOnly': False, 'name': 'bc_tgm_ua', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.hoofment.de', 'expiry': 1707587404, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.111711755.1644515405'}, {'domain': '.hoofment.de', 'expiry': 1644517206, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '110b4f66-d3ca-4cb3-885e-6d3a4f786798'}, {'domain': 'hoofment.de', 'expiry': 1645725004, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.hoofment.de', 'expiry': 1652291404, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1914253784.1644515405'}, {'domain': 'hoofment.de', 'httpOnly': False, 'name': 'bc_tgm_aw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'hoofment.de', 'expiry': 1644517204, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A49%3A49.784Z'}, {'domain': 'hoofment.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'hoofment.de', 'expiry': 1645725004, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2cefa079cae3f65567d7a0a19bae1d60'}, {'domain': 'hoofment.de', 'httpOnly': False, 'name': 'baMet_visit', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4487ff540aa449c883b8b6b77732b8ca1644515389862'}, {'domain': 'hoofment.de', 'httpOnly': False, 'name': 'bc_tgm_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.hoofment.de', 'expiry': 1644517206, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.hoofment.de', 'expiry': 1644517204, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A49%3A49.784Z'}, {'domain': 'hoofment.de', 'expiry': 1644517204, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '110b4f66-d3ca-4cb3-885e-6d3a4f786798'}, {'domain': '.hoofment.de', 'expiry': 1644517206, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '110b4f66-d3ca-4cb3-885e-6d3a4f786798'}, {'domain': 'hoofment.de', 'expiry': 1676051404, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6967b4e9-8b3b-42c4-a749-3d448278ae48'}, {'domain': 'hoofment.de', 'expiry': 1647107404, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0NTE1NDA0MjI5LCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjowfX0='}, {'domain': '.hoofment.de', 'expiry': 1645725004, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.hoofment.de', 'expiry': 1645724989, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.hoofment.de', 'expiry': 1645725004, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'hoofment.de', 'expiry': 1676051406, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _fbp
+[After] Cookie-Name 2: _gat
+[After] Cookie-Name 3: _tracking_consent
+[After] Cookie-Name 4: _shopify_m
+[After] Cookie-Name 5: _gat_gtag_UA_181372725_1
+[After] Cookie-Name 6: _gid
+[After] Cookie-Name 7: _shopify_evids
+[After] Cookie-Name 8: _shopify_y
+[After] Cookie-Name 9: _y
+[After] Cookie-Name 10: cart_ver
+[After] Cookie-Name 11: _shopify_s
+[After] Cookie-Name 12: cart_sig
+[After] Cookie-Name 13: _shopify_y
+[After] Cookie-Name 14: _shopify_d
+[After] Cookie-Name 15: cart_ts
+[After] Cookie-Name 16: bc_tgm_ua
+[After] Cookie-Name 17: _ga
+[After] Cookie-Name 18: _shopify_s
+[After] Cookie-Name 19: localization
+[After] Cookie-Name 20: _gcl_au
+[After] Cookie-Name 21: bc_tgm_aw
+[After] Cookie-Name 22: _shopify_sa_t
+[After] Cookie-Name 23: _shopify_evids
+[After] Cookie-Name 24: cart
+[After] Cookie-Name 25: baMet_visit
+[After] Cookie-Name 26: bc_tgm_fbp
+[After] Cookie-Name 27: _shopify_tm
+[After] Cookie-Name 28: _shopify_sa_t
+[After] Cookie-Name 29: _s
+[After] Cookie-Name 30: _s
+[After] Cookie-Name 31: _y
+[After] Cookie-Name 32: _bc_c_set
+[After] Cookie-Name 33: _landing_page
+[After] Cookie-Name 34: _shopify_tw
+[After] Cookie-Name 35: _orig_referrer
+[After] Cookie-Name 36: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 23
+[Difference] Cookie-Name: 1: _ga
+[Difference] Cookie-Name: 2: _bc_c_set
+[Difference] Cookie-Name: 3: _gcl_au
+[Difference] Cookie-Name: 4: bc_tgm_fbp
+[Difference] Cookie-Name: 5: _shopify_s
+[Difference] Cookie-Name: 6: cart_ver
+[Difference] Cookie-Name: 7: cart
+[Difference] Cookie-Name: 8: _shopify_d
+[Difference] Cookie-Name: 9: _shopify_sa_t
+[Difference] Cookie-Name: 10: _s
+[Difference] Cookie-Name: 11: _gat_gtag_UA_181372725_1
+[Difference] Cookie-Name: 12: _y
+[Difference] Cookie-Name: 13: bc_tgm_aw
+[Difference] Cookie-Name: 14: cart_sig
+[Difference] Cookie-Name: 15: _shopify_evids
+[Difference] Cookie-Name: 16: _shopify_y
+[Difference] Cookie-Name: 17: bc_tgm_ua
+[Difference] Cookie-Name: 18: _gat
+[Difference] Cookie-Name: 19: _fbp
+[Difference] Cookie-Name: 20: baMet_visit
+[Difference] Cookie-Name: 21: cart_ts
+[Difference] Cookie-Name: 22: _gid
+[Difference] Cookie-Name: 23: localization
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

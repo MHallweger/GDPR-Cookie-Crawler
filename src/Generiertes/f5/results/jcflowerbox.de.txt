@@ -1,0 +1,83 @@
+Website 353: http://www.jcflowerbox.de/ | Created: 09.02.2022 21:24:31 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 26
+[Before] Website-Cookies: [{'domain': 'www.jcflowerbox.de', 'httpOnly': False, 'name': 'locale_bar_accepted', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.jcflowerbox.de', 'expiry': 1645647863, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A2'}, {'domain': 'www.jcflowerbox.de', 'expiry': 1645647863, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'aebe9da4136c9991b9d3d25f57f5d8db'}, {'domain': 'www.jcflowerbox.de', 'expiry': 1645647863, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644438263'}, {'domain': '.jcflowerbox.de', 'httpOnly': False, 'name': 'soundest-views', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.jcflowerbox.de', 'expiry': 1644440062, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'MJYYzd49uDQ0xe-20220209202422'}, {'domain': '.jcflowerbox.de', 'expiry': 1675974262, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'tn1PwD9N4GopId-20220209202422'}, {'domain': '.jcflowerbox.de', 'expiry': 1645647861, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.jcflowerbox.de', 'expiry': 1645647863, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '21359e6047f864dd4cf0d2850bcc9dc1'}, {'domain': '.jcflowerbox.de', 'expiry': 1644440061, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.jcflowerbox.de', 'httpOnly': False, 'name': 'omnisendCartProducts', 'path': '/', 'secure': False, 'value': '[]'}, {'domain': '.jcflowerbox.de', 'expiry': 1707510261, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.1.1628101199.1644438262'}, {'domain': '.jcflowerbox.de', 'expiry': 1652214261, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1229979316.1644438262'}, {'domain': '.jcflowerbox.de', 'expiry': 1644440063, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '844250df-28de-4b5c-8d9c-263668d0d3b4'}, {'domain': '.jcflowerbox.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220209202422-3iniIfTbYKWlrzr6iWHTq7PkHF6rAZMoycoIVbLGfOkPq3niQ'}, {'domain': '.jcflowerbox.de', 'expiry': 1707510261, 'httpOnly': False, 'name': '_ga_NCDVXFVVDQ', 'path': '/', 'secure': False, 'value': 'GS1.1.1644438261.1.0.1644438261.0'}, {'domain': 'www.jcflowerbox.de', 'expiry': 1644441862, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.jcflowerbox.de', 'expiry': 1675974263, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '672eabf2-9ddb-4d28-9d07-3d2fb317b8c5'}, {'domain': '.jcflowerbox.de', 'expiry': 1675974263, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '672eabf2-9ddb-4d28-9d07-3d2fb317b8c5'}, {'domain': '.jcflowerbox.de', 'expiry': 1645647861, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.jcflowerbox.de', 'expiry': 1645647863, 'httpOnly': False, 'name': 'gistToken', 'path': '/', 'secure': False, 'value': '21359e6047f864dd4cf0d2850bcc9dc1'}, {'domain': 'www.jcflowerbox.de', 'expiry': 1675974263, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.jcflowerbox.de', 'expiry': 1644440061, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T20%3A24%3A21.808Z'}, {'domain': 'www.jcflowerbox.de', 'expiry': 1645647863, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.jcflowerbox.de', 'expiry': 1644440063, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '844250df-28de-4b5c-8d9c-263668d0d3b4'}, {'domain': 'www.jcflowerbox.de', 'expiry': 1645647863, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[Before] Cookie-Name 1: locale_bar_accepted
+[Before] Cookie-Name 2: cart_ver
+[Before] Cookie-Name 3: cart_sig
+[Before] Cookie-Name 4: cart_ts
+[Before] Cookie-Name 5: soundest-views
+[Before] Cookie-Name 6: omnisendSessionID
+[Before] Cookie-Name 7: omnisendAnonymousID
+[Before] Cookie-Name 8: _landing_page
+[Before] Cookie-Name 9: cart
+[Before] Cookie-Name 10: _shopify_sa_p
+[Before] Cookie-Name 11: omnisendCartProducts
+[Before] Cookie-Name 12: _ga
+[Before] Cookie-Name 13: _gcl_au
+[Before] Cookie-Name 14: _s
+[Before] Cookie-Name 15: soundestID
+[Before] Cookie-Name 16: _ga_NCDVXFVVDQ
+[Before] Cookie-Name 17: shopify_pay_redirect
+[Before] Cookie-Name 18: _shopify_y
+[Before] Cookie-Name 19: _y
+[Before] Cookie-Name 20: _orig_referrer
+[Before] Cookie-Name 21: gistToken
+[Before] Cookie-Name 22: secure_customer_sig
+[Before] Cookie-Name 23: _shopify_sa_t
+[Before] Cookie-Name 24: cart_currency
+[Before] Cookie-Name 25: _shopify_s
+[Before] Cookie-Name 26: localization
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 27
+[After] Website-Cookies: [{'domain': 'www.jcflowerbox.de', 'expiry': 1675974276, 'httpOnly': False, 'name': 'eg_cookieconsent_status', 'path': '/', 'secure': False, 'value': 'dismiss'}, {'domain': 'www.jcflowerbox.de', 'httpOnly': False, 'name': 'locale_bar_accepted', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.jcflowerbox.de', 'expiry': 1645647863, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A2'}, {'domain': 'www.jcflowerbox.de', 'expiry': 1645647863, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'aebe9da4136c9991b9d3d25f57f5d8db'}, {'domain': 'www.jcflowerbox.de', 'expiry': 1645647863, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644438263'}, {'domain': '.jcflowerbox.de', 'httpOnly': False, 'name': 'soundest-views', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.jcflowerbox.de', 'expiry': 1644440062, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'MJYYzd49uDQ0xe-20220209202422'}, {'domain': '.jcflowerbox.de', 'expiry': 1675974262, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'tn1PwD9N4GopId-20220209202422'}, {'domain': '.jcflowerbox.de', 'expiry': 1645647861, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.jcflowerbox.de', 'expiry': 1645647863, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '21359e6047f864dd4cf0d2850bcc9dc1'}, {'domain': '.jcflowerbox.de', 'expiry': 1644440061, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.jcflowerbox.de', 'httpOnly': False, 'name': 'omnisendCartProducts', 'path': '/', 'secure': False, 'value': '[]'}, {'domain': '.jcflowerbox.de', 'expiry': 1707510261, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.1.1628101199.1644438262'}, {'domain': '.jcflowerbox.de', 'expiry': 1652214261, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1229979316.1644438262'}, {'domain': '.jcflowerbox.de', 'expiry': 1644440063, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '844250df-28de-4b5c-8d9c-263668d0d3b4'}, {'domain': '.jcflowerbox.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220209202422-3iniIfTbYKWlrzr6iWHTq7PkHF6rAZMoycoIVbLGfOkPq3niQ'}, {'domain': '.jcflowerbox.de', 'expiry': 1707510261, 'httpOnly': False, 'name': '_ga_NCDVXFVVDQ', 'path': '/', 'secure': False, 'value': 'GS1.1.1644438261.1.0.1644438261.0'}, {'domain': 'www.jcflowerbox.de', 'expiry': 1644441862, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.jcflowerbox.de', 'expiry': 1675974263, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '672eabf2-9ddb-4d28-9d07-3d2fb317b8c5'}, {'domain': '.jcflowerbox.de', 'expiry': 1675974263, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '672eabf2-9ddb-4d28-9d07-3d2fb317b8c5'}, {'domain': '.jcflowerbox.de', 'expiry': 1645647861, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.jcflowerbox.de', 'expiry': 1645647863, 'httpOnly': False, 'name': 'gistToken', 'path': '/', 'secure': False, 'value': '21359e6047f864dd4cf0d2850bcc9dc1'}, {'domain': 'www.jcflowerbox.de', 'expiry': 1675974263, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.jcflowerbox.de', 'expiry': 1644440061, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T20%3A24%3A21.808Z'}, {'domain': 'www.jcflowerbox.de', 'expiry': 1645647863, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.jcflowerbox.de', 'expiry': 1644440063, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '844250df-28de-4b5c-8d9c-263668d0d3b4'}, {'domain': 'www.jcflowerbox.de', 'expiry': 1645647863, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: eg_cookieconsent_status
+[After] Cookie-Name 2: locale_bar_accepted
+[After] Cookie-Name 3: cart_ver
+[After] Cookie-Name 4: cart_sig
+[After] Cookie-Name 5: cart_ts
+[After] Cookie-Name 6: soundest-views
+[After] Cookie-Name 7: omnisendSessionID
+[After] Cookie-Name 8: omnisendAnonymousID
+[After] Cookie-Name 9: _landing_page
+[After] Cookie-Name 10: cart
+[After] Cookie-Name 11: _shopify_sa_p
+[After] Cookie-Name 12: omnisendCartProducts
+[After] Cookie-Name 13: _ga
+[After] Cookie-Name 14: _gcl_au
+[After] Cookie-Name 15: _s
+[After] Cookie-Name 16: soundestID
+[After] Cookie-Name 17: _ga_NCDVXFVVDQ
+[After] Cookie-Name 18: shopify_pay_redirect
+[After] Cookie-Name 19: _shopify_y
+[After] Cookie-Name 20: _y
+[After] Cookie-Name 21: _orig_referrer
+[After] Cookie-Name 22: gistToken
+[After] Cookie-Name 23: secure_customer_sig
+[After] Cookie-Name 24: _shopify_sa_t
+[After] Cookie-Name 25: cart_currency
+[After] Cookie-Name 26: _shopify_s
+[After] Cookie-Name 27: localization
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: eg_cookieconsent_status
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

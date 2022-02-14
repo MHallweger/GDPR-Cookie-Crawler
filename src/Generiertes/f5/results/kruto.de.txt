@@ -1,0 +1,75 @@
+Website 232: http://www.kruto.de/ | Created: 09.02.2022 20:46:51 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 21
+[Before] Website-Cookies: [{'domain': 'kruto.de', 'expiry': 1645645602, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': 'kruto.de', 'expiry': 1645645602, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644436002'}, {'domain': '.kruto.de', 'expiry': 1652211998, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644435998252.272000299'}, {'domain': 'kruto.de', 'expiry': 1644439598, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'kruto.de', 'expiry': 1707507998, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MzU5OTgsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8va3J1dG8uZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NDM1OTk4LCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL2tydXRvLmRlLyJ9fQ=='}, {'domain': '.kruto.de', 'expiry': 1644437798, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kruto.de', 'expiry': 1644437798, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A46%3A38.013Z'}, {'domain': '.kruto.de', 'expiry': 1675972002, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e5083fc6-9a0e-4798-b062-31f62223b690'}, {'domain': '.kruto.de', 'expiry': 1678622700, 'httpOnly': False, 'name': '_scid', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'f15c7776-0221-4198-a382-c27eb104d7b7'}, {'domain': '.kruto.de', 'expiry': 1644437802, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e2c168ff-6a0e-4d25-9531-986ac9679c3f'}, {'domain': 'kruto.de', 'expiry': 1645645602, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '34942af42d8263822604ec184ee41dc6'}, {'domain': '.kruto.de', 'expiry': 1675972002, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e5083fc6-9a0e-4798-b062-31f62223b690'}, {'domain': '.kruto.de', 'expiry': 1645645594, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kruto.de', 'expiry': 1652211998, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.2107902331.1644435998'}, {'domain': 'kruto.de', 'expiry': 1645645594, 'httpOnly': True, 'name': 'keep_alive', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e2c168ff-6a0e-4d25-9531-986ac9679c3f'}, {'domain': 'kruto.de', 'expiry': 1675972002, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'kruto.de', 'expiry': 1645645602, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'kruto.de', 'expiry': 1645645602, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.kruto.de', 'expiry': 1644437802, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e2c168ff-6a0e-4d25-9531-986ac9679c3f'}, {'domain': 'kruto.de', 'expiry': 1645645602, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ac58fd71962082ed4fb5011d83c429f7'}, {'domain': '.kruto.de', 'expiry': 1645645594, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}]
+[Before] Cookie-Name 1: cart_ver
+[Before] Cookie-Name 2: cart_ts
+[Before] Cookie-Name 3: _fbp
+[Before] Cookie-Name 4: shopify_pay_redirect
+[Before] Cookie-Name 5: __kla_id
+[Before] Cookie-Name 6: _shopify_sa_p
+[Before] Cookie-Name 7: _shopify_sa_t
+[Before] Cookie-Name 8: _y
+[Before] Cookie-Name 9: _scid
+[Before] Cookie-Name 10: _shopify_s
+[Before] Cookie-Name 11: cart
+[Before] Cookie-Name 12: _shopify_y
+[Before] Cookie-Name 13: _orig_referrer
+[Before] Cookie-Name 14: _gcl_au
+[Before] Cookie-Name 15: keep_alive
+[Before] Cookie-Name 16: secure_customer_sig
+[Before] Cookie-Name 17: cart_currency
+[Before] Cookie-Name 18: localization
+[Before] Cookie-Name 19: _s
+[Before] Cookie-Name 20: cart_sig
+[Before] Cookie-Name 21: _landing_page
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 21
+[After] Website-Cookies: [{'domain': 'kruto.de', 'expiry': 1645645602, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': 'kruto.de', 'expiry': 1645645602, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644436002'}, {'domain': '.kruto.de', 'expiry': 1652211998, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644435998252.272000299'}, {'domain': 'kruto.de', 'expiry': 1644439598, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'kruto.de', 'expiry': 1707507998, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MzU5OTgsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8va3J1dG8uZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NDM1OTk4LCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL2tydXRvLmRlLyJ9fQ=='}, {'domain': '.kruto.de', 'expiry': 1644437798, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kruto.de', 'expiry': 1644437798, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A46%3A38.013Z'}, {'domain': '.kruto.de', 'expiry': 1675972002, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e5083fc6-9a0e-4798-b062-31f62223b690'}, {'domain': '.kruto.de', 'expiry': 1678622700, 'httpOnly': False, 'name': '_scid', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'f15c7776-0221-4198-a382-c27eb104d7b7'}, {'domain': '.kruto.de', 'expiry': 1644437802, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e2c168ff-6a0e-4d25-9531-986ac9679c3f'}, {'domain': 'kruto.de', 'expiry': 1645645602, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '34942af42d8263822604ec184ee41dc6'}, {'domain': '.kruto.de', 'expiry': 1675972002, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e5083fc6-9a0e-4798-b062-31f62223b690'}, {'domain': '.kruto.de', 'expiry': 1645645594, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kruto.de', 'expiry': 1652211998, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.2107902331.1644435998'}, {'domain': 'kruto.de', 'expiry': 1645645594, 'httpOnly': True, 'name': 'keep_alive', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e2c168ff-6a0e-4d25-9531-986ac9679c3f'}, {'domain': 'kruto.de', 'expiry': 1675972002, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'kruto.de', 'expiry': 1645645602, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'kruto.de', 'expiry': 1645645602, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.kruto.de', 'expiry': 1644437802, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e2c168ff-6a0e-4d25-9531-986ac9679c3f'}, {'domain': 'kruto.de', 'expiry': 1645645602, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ac58fd71962082ed4fb5011d83c429f7'}, {'domain': '.kruto.de', 'expiry': 1645645594, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}]
+[After] Cookie-Name 1: cart_ver
+[After] Cookie-Name 2: cart_ts
+[After] Cookie-Name 3: _fbp
+[After] Cookie-Name 4: shopify_pay_redirect
+[After] Cookie-Name 5: __kla_id
+[After] Cookie-Name 6: _shopify_sa_p
+[After] Cookie-Name 7: _shopify_sa_t
+[After] Cookie-Name 8: _y
+[After] Cookie-Name 9: _scid
+[After] Cookie-Name 10: _shopify_s
+[After] Cookie-Name 11: cart
+[After] Cookie-Name 12: _shopify_y
+[After] Cookie-Name 13: _orig_referrer
+[After] Cookie-Name 14: _gcl_au
+[After] Cookie-Name 15: keep_alive
+[After] Cookie-Name 16: secure_customer_sig
+[After] Cookie-Name 17: cart_currency
+[After] Cookie-Name 18: localization
+[After] Cookie-Name 19: _s
+[After] Cookie-Name 20: cart_sig
+[After] Cookie-Name 21: _landing_page
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

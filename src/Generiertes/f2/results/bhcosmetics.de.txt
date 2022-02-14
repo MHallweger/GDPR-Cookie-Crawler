@@ -1,0 +1,59 @@
+Website 334: http://www.bhcosmetics.de/ | Created: 09.02.2022 12:26:29 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 14
+[Before] Website-Cookies: [{'domain': 'www.bhcosmetics.de', 'httpOnly': False, 'name': 'discount_code', 'path': '/', 'secure': False, 'value': ''}, {'domain': '.bhcosmetics.de', 'expiry': 1644407780, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.bhcosmetics.de', 'expiry': 1644407781, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f9f9f2ed-6a95-48ad-8dfb-653548bcd327'}, {'domain': '.bhcosmetics.de', 'expiry': 1675941981, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9b0523a7-6955-4dbe-b09e-010bad8a7955'}, {'domain': '.bhcosmetics.de', 'expiry': 1644407781, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f9f9f2ed-6a95-48ad-8dfb-653548bcd327'}, {'domain': 'www.bhcosmetics.de', 'expiry': 1645615581, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.bhcosmetics.de', 'expiry': 1675941981, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9b0523a7-6955-4dbe-b09e-010bad8a7955'}, {'domain': 'www.bhcosmetics.de', 'expiry': 1707477979, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MDU5ODAsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LmJoY29zbWV0aWNzLmRlLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDQwNTk4MCwidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly93d3cuYmhjb3NtZXRpY3MuZGUvIn19'}, {'domain': '.bhcosmetics.de', 'expiry': 1645615578, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.bhcosmetics.de', 'expiry': 1644409579, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'www.bhcosmetics.de', 'expiry': 1675941981, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.bhcosmetics.de', 'expiry': 1644407780, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T11%3A26%3A20.056Z'}, {'domain': 'www.bhcosmetics.de', 'expiry': 1645615581, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.bhcosmetics.de', 'expiry': 1645615578, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}]
+[Before] Cookie-Name 1: discount_code
+[Before] Cookie-Name 2: _shopify_sa_p
+[Before] Cookie-Name 3: _shopify_s
+[Before] Cookie-Name 4: _shopify_y
+[Before] Cookie-Name 5: _s
+[Before] Cookie-Name 6: localization
+[Before] Cookie-Name 7: _y
+[Before] Cookie-Name 8: __kla_id
+[Before] Cookie-Name 9: _orig_referrer
+[Before] Cookie-Name 10: shopify_pay_redirect
+[Before] Cookie-Name 11: secure_customer_sig
+[Before] Cookie-Name 12: _shopify_sa_t
+[Before] Cookie-Name 13: cart_currency
+[Before] Cookie-Name 14: _landing_page
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 14
+[After] Website-Cookies: [{'domain': 'www.bhcosmetics.de', 'httpOnly': False, 'name': 'discount_code', 'path': '/', 'secure': False, 'value': ''}, {'domain': '.bhcosmetics.de', 'expiry': 1644407780, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.bhcosmetics.de', 'expiry': 1644407781, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f9f9f2ed-6a95-48ad-8dfb-653548bcd327'}, {'domain': '.bhcosmetics.de', 'expiry': 1675941981, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9b0523a7-6955-4dbe-b09e-010bad8a7955'}, {'domain': '.bhcosmetics.de', 'expiry': 1644407781, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f9f9f2ed-6a95-48ad-8dfb-653548bcd327'}, {'domain': 'www.bhcosmetics.de', 'expiry': 1645615581, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.bhcosmetics.de', 'expiry': 1675941981, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9b0523a7-6955-4dbe-b09e-010bad8a7955'}, {'domain': 'www.bhcosmetics.de', 'expiry': 1707477979, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MDU5ODAsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LmJoY29zbWV0aWNzLmRlLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDQwNTk4MCwidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly93d3cuYmhjb3NtZXRpY3MuZGUvIn19'}, {'domain': '.bhcosmetics.de', 'expiry': 1645615578, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.bhcosmetics.de', 'expiry': 1644409579, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'www.bhcosmetics.de', 'expiry': 1675941981, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.bhcosmetics.de', 'expiry': 1644407780, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T11%3A26%3A20.056Z'}, {'domain': 'www.bhcosmetics.de', 'expiry': 1645615581, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.bhcosmetics.de', 'expiry': 1645615578, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}]
+[After] Cookie-Name 1: discount_code
+[After] Cookie-Name 2: _shopify_sa_p
+[After] Cookie-Name 3: _shopify_s
+[After] Cookie-Name 4: _shopify_y
+[After] Cookie-Name 5: _s
+[After] Cookie-Name 6: localization
+[After] Cookie-Name 7: _y
+[After] Cookie-Name 8: __kla_id
+[After] Cookie-Name 9: _orig_referrer
+[After] Cookie-Name 10: shopify_pay_redirect
+[After] Cookie-Name 11: secure_customer_sig
+[After] Cookie-Name 12: _shopify_sa_t
+[After] Cookie-Name 13: cart_currency
+[After] Cookie-Name 14: _landing_page
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

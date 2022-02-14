@@ -1,0 +1,95 @@
+Website 60: http://www.brajuu.de/ | Created: 09.02.2022 11:04:34 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 8
+[Before] Website-Cookies: [{'domain': '.brajuu.com', 'expiry': 1675937064, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.brajuu.com', 'expiry': 1645610664, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.brajuu.com', 'expiry': 1644402864, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.brajuu.com', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.brajuu.com', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.brajuu.com', 'expiry': 1675937064, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%7D'}, {'domain': 'brajuu.com', 'expiry': 1645610663, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': 'brajuu.com', 'expiry': 1675937063, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _shopify_m
+[Before] Cookie-Name 2: _shopify_tw
+[Before] Cookie-Name 3: _shopify_tm
+[Before] Cookie-Name 4: _landing_page
+[Before] Cookie-Name 5: _orig_referrer
+[Before] Cookie-Name 6: _tracking_consent
+[Before] Cookie-Name 7: cart_currency
+[Before] Cookie-Name 8: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 37
+[After] Website-Cookies: [{'domain': '.brajuu.com', 'expiry': 1675937080, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU9HWTFPRFJqWTJFdE5EQTRNQzAwWW1ZeExUZzJNV1V0TmpRNVl6azJNVEV4TWpCaA'}, {'domain': '.brajuu.com', 'expiry': 1644401139, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.brajuu.com', 'expiry': 1644487479, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1627084884.1644401080'}, {'domain': '.brajuu.com', 'expiry': 1707473079, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1250797065.1644401080'}, {'domain': '.brajuu.com', 'expiry': 1675937079, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%221%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': '.brajuu.com', 'expiry': 1675937079, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': '.brajuu.com', 'expiry': 1652177080, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644401080090.332025824'}, {'domain': '.brajuu.com', 'expiry': 1644402879, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd50ca902-0018-43c6-a3c7-08af11bd3bfc'}, {'domain': '.brajuu.com', 'expiry': 1675937079, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b5b9f9d3-8eac-4054-8031-33d2ade807d6'}, {'domain': '.brajuu.com', 'expiry': 1644402879, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd50ca902-0018-43c6-a3c7-08af11bd3bfc'}, {'domain': '.brajuu.com', 'expiry': 1675937079, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b5b9f9d3-8eac-4054-8031-33d2ade807d6'}, {'domain': '.brajuu.com', 'expiry': 1644402879, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A04%3A24.601Z'}, {'domain': '.brajuu.com', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'brajuu.com', 'expiry': 1645610679, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '14d91635d5802475cf2cc520f451be11'}, {'domain': 'brajuu.com', 'expiry': 1646993079, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0NDAxMDc5MzE4LCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjowfX0='}, {'domain': 'brajuu.com', 'expiry': 1645610679, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'brajuu.com', 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'pending'}, {'domain': 'brajuu.com', 'expiry': 1675937079, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.brajuu.com', 'expiry': 1644402879, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'brajuu.com', 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'brajuu.com', 'httpOnly': False, 'name': '_hjSessionUser_2637267', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImE1ZDFhZDQzLTVlODYtNWQ5MS05NmI3LWIzZTIyZDg2YTIyOSIsImNyZWF0ZWQiOjE2NDQ0MDEwNjQ3NjksImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': 'brajuu.com', 'expiry': 1645610679, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'brajuu.com', 'expiry': 1644402879, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': 'brajuu.com', 'expiry': 1675937079, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b5b9f9d3-8eac-4054-8031-33d2ade807d6'}, {'domain': 'brajuu.com', 'expiry': 1644402879, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'brajuu.com', 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MDEwNjUsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vYnJhanV1LmNvbS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQ0MDEwNjUsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vYnJhanV1LmNvbS8ifX0='}, {'domain': 'brajuu.com', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'brajuu.com', 'expiry': 1645610679, 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A04%3A24.565Z'}, {'domain': 'brajuu.com', 'expiry': 1644402879, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A04%3A24.601Z'}, {'domain': 'brajuu.com', 'expiry': 1644402879, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd50ca902-0018-43c6-a3c7-08af11bd3bfc'}, {'domain': 'brajuu.com', 'expiry': 1675937079, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b5b9f9d3-8eac-4054-8031-33d2ade807d6'}, {'domain': 'brajuu.com', 'expiry': 1644402879, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd50ca902-0018-43c6-a3c7-08af11bd3bfc'}, {'domain': '.brajuu.com', 'expiry': 1645610679, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'brajuu.com', 'httpOnly': False, 'name': '_hjSession_2637267', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjVlOWQzMzlmLTQ5YTgtNDYwMy1hYjgxLTQ3ZjY2ZGJmNzU2MyIsImNyZWF0ZWQiOjE2NDQ0MDEwNjQ4MTEsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': '.brajuu.com', 'expiry': 1645610664, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'brajuu.com', 'expiry': 1644402879, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.brajuu.com', 'expiry': 1645610679, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: _pin_unauth
+[After] Cookie-Name 2: _gat
+[After] Cookie-Name 3: _gid
+[After] Cookie-Name 4: _ga
+[After] Cookie-Name 5: _tracking_consent
+[After] Cookie-Name 6: _shopify_m
+[After] Cookie-Name 7: _fbp
+[After] Cookie-Name 8: _shopify_s
+[After] Cookie-Name 9: _shopify_y
+[After] Cookie-Name 10: _s
+[After] Cookie-Name 11: _y
+[After] Cookie-Name 12: _shopify_sa_t
+[After] Cookie-Name 13: _shopify_evids
+[After] Cookie-Name 14: cart_sig
+[After] Cookie-Name 15: _bc_c_set
+[After] Cookie-Name 16: localization
+[After] Cookie-Name 17: shopify_pay_redirect
+[After] Cookie-Name 18: secure_customer_sig
+[After] Cookie-Name 19: _shopify_tm
+[After] Cookie-Name 20: _hjFirstSeen
+[After] Cookie-Name 21: _hjSessionUser_2637267
+[After] Cookie-Name 22: cart_currency
+[After] Cookie-Name 23: _hjIncludedInSessionSample
+[After] Cookie-Name 24: _shopify_y
+[After] Cookie-Name 25: _hjIncludedInPageviewSample
+[After] Cookie-Name 26: __kla_id
+[After] Cookie-Name 27: _shopify_evids
+[After] Cookie-Name 28: _shopify_d
+[After] Cookie-Name 29: _shopify_sa_t
+[After] Cookie-Name 30: _shopify_s
+[After] Cookie-Name 31: _y
+[After] Cookie-Name 32: _s
+[After] Cookie-Name 33: _landing_page
+[After] Cookie-Name 34: _hjSession_2637267
+[After] Cookie-Name 35: _shopify_tw
+[After] Cookie-Name 36: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 37: _orig_referrer
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 23
+[Difference] Cookie-Name: 1: localization
+[Difference] Cookie-Name: 2: _hjFirstSeen
+[Difference] Cookie-Name: 3: _shopify_y
+[Difference] Cookie-Name: 4: _pin_unauth
+[Difference] Cookie-Name: 5: _ga
+[Difference] Cookie-Name: 6: _hjIncludedInSessionSample
+[Difference] Cookie-Name: 7: _hjIncludedInPageviewSample
+[Difference] Cookie-Name: 8: __kla_id
+[Difference] Cookie-Name: 9: _hjSessionUser_2637267
+[Difference] Cookie-Name: 10: _shopify_s
+[Difference] Cookie-Name: 11: _shopify_sa_t
+[Difference] Cookie-Name: 12: _fbp
+[Difference] Cookie-Name: 13: _shopify_d
+[Difference] Cookie-Name: 14: _bc_c_set
+[Difference] Cookie-Name: 15: _gat
+[Difference] Cookie-Name: 16: _shopify_evids
+[Difference] Cookie-Name: 17: shopify_pay_redirect
+[Difference] Cookie-Name: 18: _hjSession_2637267
+[Difference] Cookie-Name: 19: _hjAbsoluteSessionInProgress
+[Difference] Cookie-Name: 20: _s
+[Difference] Cookie-Name: 21: cart_sig
+[Difference] Cookie-Name: 22: _gid
+[Difference] Cookie-Name: 23: _y
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

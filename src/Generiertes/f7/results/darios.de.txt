@@ -1,0 +1,91 @@
+Website 220: http://www.darios.de/ | Created: 10.02.2022 18:25:23 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 24
+[Before] Website-Cookies: [{'domain': '.darios.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220210172514-2h0s5dH08zpXvgQu9JlysHOrNg8WkcWDQcWNOgzIPGOAc7ekY'}, {'domain': 'darios.de', 'expiry': 1645723514, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A2'}, {'domain': 'darios.de', 'expiry': 1676049915, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.darios.de', 'expiry': 1707585913, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.165314401.1644513914'}, {'domain': 'darios.de', 'expiry': 1645723514, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4baf6b96b677679ff66bb012ce746d23'}, {'domain': 'darios.de', 'httpOnly': False, 'name': 'osano-gdpr-applies', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'true'}, {'domain': '.darios.de', 'expiry': 1677691513, 'httpOnly': False, 'name': 'osano_consentmanager_uuid', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '7aae5068-e510-4eb4-8b0c-f84b9b28ca06'}, {'domain': '.darios.de', 'expiry': 1652289913, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.442751555.1644513914'}, {'domain': '.darios.de', 'expiry': 1676049915, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '36ad8960-1c7c-47ac-9653-c8e8547ffcd1'}, {'domain': 'darios.de', 'httpOnly': False, 'name': 'usprivacy', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1---'}, {'domain': '.darios.de', 'expiry': 1645723513, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'darios.de', 'expiry': 1645723515, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.darios.de', 'expiry': 1644513973, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.darios.de', 'expiry': 1644600313, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1710559024.1644513914'}, {'domain': 'darios.de', 'expiry': 1645723514, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '210f6241c7bde9bc95b2a834b652b2e4'}, {'domain': '.darios.de', 'expiry': 1644515713, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A25%3A13.480Z'}, {'domain': '.darios.de', 'expiry': 1676049915, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '36ad8960-1c7c-47ac-9653-c8e8547ffcd1'}, {'domain': '.darios.de', 'expiry': 1644515713, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.darios.de', 'expiry': 1645723513, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'darios.de', 'expiry': 1645723514, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644513914'}, {'domain': '.darios.de', 'expiry': 1644515715, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f3843365-db5b-4cff-9be8-caba079ae487'}, {'domain': '.darios.de', 'expiry': 1644515715, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f3843365-db5b-4cff-9be8-caba079ae487'}, {'domain': 'darios.de', 'httpOnly': False, 'name': 'osano-country-code', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'de'}, {'domain': 'darios.de', 'expiry': 1645723515, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[Before] Cookie-Name 1: soundestID
+[Before] Cookie-Name 2: cart_ver
+[Before] Cookie-Name 3: secure_customer_sig
+[Before] Cookie-Name 4: _ga
+[Before] Cookie-Name 5: cart_sig
+[Before] Cookie-Name 6: osano-gdpr-applies
+[Before] Cookie-Name 7: osano_consentmanager_uuid
+[Before] Cookie-Name 8: _gcl_au
+[Before] Cookie-Name 9: _shopify_y
+[Before] Cookie-Name 10: usprivacy
+[Before] Cookie-Name 11: _orig_referrer
+[Before] Cookie-Name 12: cart_currency
+[Before] Cookie-Name 13: _gat
+[Before] Cookie-Name 14: _gid
+[Before] Cookie-Name 15: cart
+[Before] Cookie-Name 16: _shopify_sa_t
+[Before] Cookie-Name 17: _y
+[Before] Cookie-Name 18: _shopify_sa_p
+[Before] Cookie-Name 19: _landing_page
+[Before] Cookie-Name 20: cart_ts
+[Before] Cookie-Name 21: _shopify_s
+[Before] Cookie-Name 22: _s
+[Before] Cookie-Name 23: osano-country-code
+[Before] Cookie-Name 24: localization
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 30
+[After] Website-Cookies: [{'domain': '.darios.de', 'expiry': 1652289928, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644513928308.2090355023'}, {'domain': '.darios.de', 'expiry': 1676049914, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'gzbAPizR8Yns8f-20220210172514'}, {'domain': '.darios.de', 'expiry': 1677691528, 'httpOnly': False, 'name': 'osano_consentmanager_expdate', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '1677691528315'}, {'domain': '.darios.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220210172514-2h0s5dH08zpXvgQu9JlysHOrNg8WkcWDQcWNOgzIPGOAc7ekY'}, {'domain': 'darios.de', 'expiry': 1645723514, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A2'}, {'domain': 'darios.de', 'expiry': 1676049915, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.darios.de', 'expiry': 1707585913, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.165314401.1644513914'}, {'domain': 'darios.de', 'expiry': 1645723514, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4baf6b96b677679ff66bb012ce746d23'}, {'domain': '.darios.de', 'expiry': 1677691528, 'httpOnly': False, 'name': 'osano_consentmanager', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '{"MARKETING":"ACCEPT","ANALYTICS":"ACCEPT","PERSONALIZATION":"ACCEPT","ESSENTIAL":"ACCEPT","OPT_OUT":"DENY"}'}, {'domain': 'darios.de', 'httpOnly': False, 'name': 'osano-gdpr-applies', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'true'}, {'domain': '.darios.de', 'expiry': 1677691513, 'httpOnly': False, 'name': 'osano_consentmanager_uuid', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '7aae5068-e510-4eb4-8b0c-f84b9b28ca06'}, {'domain': '.darios.de', 'expiry': 1652289913, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.442751555.1644513914'}, {'domain': '.darios.de', 'expiry': 1676049915, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '36ad8960-1c7c-47ac-9653-c8e8547ffcd1'}, {'domain': 'darios.de', 'httpOnly': False, 'name': 'usprivacy', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1---'}, {'domain': '.darios.de', 'expiry': 1645723513, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'darios.de', 'expiry': 1645723515, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.darios.de', 'expiry': 1644513973, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.darios.de', 'expiry': 1644600313, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1710559024.1644513914'}, {'domain': 'darios.de', 'expiry': 1645723514, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '210f6241c7bde9bc95b2a834b652b2e4'}, {'domain': '.darios.de', 'expiry': 1644515713, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A25%3A13.480Z'}, {'domain': '.darios.de', 'expiry': 1676049915, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '36ad8960-1c7c-47ac-9653-c8e8547ffcd1'}, {'domain': '.darios.de', 'expiry': 1644515713, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.darios.de', 'expiry': 1645723513, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.darios.de', 'expiry': 1644515714, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': '0WsgUT505zW8eq-20220210172514'}, {'domain': 'darios.de', 'expiry': 1645723514, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644513914'}, {'domain': '.darios.de', 'httpOnly': False, 'name': 'omnisendCartProducts', 'path': '/', 'secure': False, 'value': '[]'}, {'domain': '.darios.de', 'expiry': 1644515715, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f3843365-db5b-4cff-9be8-caba079ae487'}, {'domain': '.darios.de', 'expiry': 1644515715, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f3843365-db5b-4cff-9be8-caba079ae487'}, {'domain': 'darios.de', 'httpOnly': False, 'name': 'osano-country-code', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'de'}, {'domain': 'darios.de', 'expiry': 1645723515, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[After] Cookie-Name 1: _fbp
+[After] Cookie-Name 2: omnisendAnonymousID
+[After] Cookie-Name 3: osano_consentmanager_expdate
+[After] Cookie-Name 4: soundestID
+[After] Cookie-Name 5: cart_ver
+[After] Cookie-Name 6: secure_customer_sig
+[After] Cookie-Name 7: _ga
+[After] Cookie-Name 8: cart_sig
+[After] Cookie-Name 9: osano_consentmanager
+[After] Cookie-Name 10: osano-gdpr-applies
+[After] Cookie-Name 11: osano_consentmanager_uuid
+[After] Cookie-Name 12: _gcl_au
+[After] Cookie-Name 13: _shopify_y
+[After] Cookie-Name 14: usprivacy
+[After] Cookie-Name 15: _orig_referrer
+[After] Cookie-Name 16: cart_currency
+[After] Cookie-Name 17: _gat
+[After] Cookie-Name 18: _gid
+[After] Cookie-Name 19: cart
+[After] Cookie-Name 20: _shopify_sa_t
+[After] Cookie-Name 21: _y
+[After] Cookie-Name 22: _shopify_sa_p
+[After] Cookie-Name 23: _landing_page
+[After] Cookie-Name 24: omnisendSessionID
+[After] Cookie-Name 25: cart_ts
+[After] Cookie-Name 26: omnisendCartProducts
+[After] Cookie-Name 27: _shopify_s
+[After] Cookie-Name 28: _s
+[After] Cookie-Name 29: osano-country-code
+[After] Cookie-Name 30: localization
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 6
+[Difference] Cookie-Name: 1: omnisendAnonymousID
+[Difference] Cookie-Name: 2: omnisendSessionID
+[Difference] Cookie-Name: 3: osano_consentmanager_expdate
+[Difference] Cookie-Name: 4: _fbp
+[Difference] Cookie-Name: 5: osano_consentmanager
+[Difference] Cookie-Name: 6: omnisendCartProducts
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

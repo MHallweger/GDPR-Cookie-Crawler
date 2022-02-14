@@ -1,0 +1,68 @@
+Website 20: http://www.vitis-vital.de/ | Created: 09.02.2022 10:51:40 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 16
+[Before] Website-Cookies: [{'domain': 'www.vitis-vital.de', 'expiry': 1646992293, 'httpOnly': False, 'name': 'hash_key', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '62038ea513f6d6691b0a20bc'}, {'domain': 'www.vitis-vital.de', 'expiry': 1644402393, 'httpOnly': False, 'name': 'ssw_visitor', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'ssw_visitor1644400293211'}, {'domain': 'www.vitis-vital.de', 'httpOnly': False, 'name': 'hesid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'bce414c3-2eec-e252-669f-52696ed90790'}, {'domain': '.vitis-vital.de', 'expiry': 1644402093, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a59dd6c2-163d-449e-8587-210960464602'}, {'domain': 'www.vitis-vital.de', 'expiry': 1644486693, 'httpOnly': False, 'name': '_ssw_cart_data', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'eyJjYXJ0X3Rva2VuIjoiYjM4MTM1OWY0MWM1ZDc4MzRkZGNkMmRjOTk4OTg5ZWYifQ%3D%3D'}, {'domain': '.vitis-vital.de', 'expiry': 1644402090, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.vitis-vital.de', 'expiry': 1675936293, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f1d56832-3eb8-40c8-8285-5aae9872c9ac'}, {'domain': '.vitis-vital.de', 'expiry': 1644402090, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T09%3A51%3A30.804Z'}, {'domain': '.vitis-vital.de', 'expiry': 1644402093, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a59dd6c2-163d-449e-8587-210960464602'}, {'domain': '.vitis-vital.de', 'expiry': 1675936293, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f1d56832-3eb8-40c8-8285-5aae9872c9ac'}, {'domain': 'www.vitis-vital.de', 'expiry': 1644403890, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.vitis-vital.de', 'expiry': 1645609889, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.vitis-vital.de', 'expiry': 1645609893, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.vitis-vital.de', 'expiry': 1645609889, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.vitis-vital.de', 'expiry': 1645609893, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': 'www.vitis-vital.de', 'expiry': 1675936293, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: hash_key
+[Before] Cookie-Name 2: ssw_visitor
+[Before] Cookie-Name 3: hesid
+[Before] Cookie-Name 4: _shopify_s
+[Before] Cookie-Name 5: _ssw_cart_data
+[Before] Cookie-Name 6: _shopify_sa_p
+[Before] Cookie-Name 7: _shopify_y
+[Before] Cookie-Name 8: _shopify_sa_t
+[Before] Cookie-Name 9: _s
+[Before] Cookie-Name 10: _y
+[Before] Cookie-Name 11: shopify_pay_redirect
+[Before] Cookie-Name 12: _landing_page
+[Before] Cookie-Name 13: localization
+[Before] Cookie-Name 14: _orig_referrer
+[Before] Cookie-Name 15: cart_currency
+[Before] Cookie-Name 16: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 21
+[After] Website-Cookies: [{'domain': '.vitis-vital.de', 'expiry': 1652176307, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644400306445.631921543'}, {'domain': '.vitis-vital.de', 'expiry': 1644400366, 'httpOnly': False, 'name': '_gat_UA-26565883-1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.vitis-vital.de', 'expiry': 1644486706, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.743125420.1644400306'}, {'domain': 'www.vitis-vital.de', 'expiry': 1646992293, 'httpOnly': False, 'name': 'hash_key', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '62038ea513f6d6691b0a20bc'}, {'domain': 'www.vitis-vital.de', 'expiry': 1644402393, 'httpOnly': False, 'name': 'ssw_visitor', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'ssw_visitor1644400293211'}, {'domain': 'www.vitis-vital.de', 'httpOnly': False, 'name': 'hesid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'bce414c3-2eec-e252-669f-52696ed90790'}, {'domain': '.vitis-vital.de', 'expiry': 1644402093, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a59dd6c2-163d-449e-8587-210960464602'}, {'domain': '.vitis-vital.de', 'expiry': 1644400366, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.vitis-vital.de', 'expiry': 1707472306, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1072405658.1644400306'}, {'domain': 'www.vitis-vital.de', 'expiry': 1644486693, 'httpOnly': False, 'name': '_ssw_cart_data', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'eyJjYXJ0X3Rva2VuIjoiYjM4MTM1OWY0MWM1ZDc4MzRkZGNkMmRjOTk4OTg5ZWYifQ%3D%3D'}, {'domain': '.vitis-vital.de', 'expiry': 1644402090, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.vitis-vital.de', 'expiry': 1675936293, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f1d56832-3eb8-40c8-8285-5aae9872c9ac'}, {'domain': '.vitis-vital.de', 'expiry': 1644402090, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T09%3A51%3A30.804Z'}, {'domain': '.vitis-vital.de', 'expiry': 1644402093, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a59dd6c2-163d-449e-8587-210960464602'}, {'domain': '.vitis-vital.de', 'expiry': 1675936293, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f1d56832-3eb8-40c8-8285-5aae9872c9ac'}, {'domain': 'www.vitis-vital.de', 'expiry': 1644403890, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.vitis-vital.de', 'expiry': 1645609889, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.vitis-vital.de', 'expiry': 1645609893, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.vitis-vital.de', 'expiry': 1645609889, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.vitis-vital.de', 'expiry': 1645609893, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': 'www.vitis-vital.de', 'expiry': 1675936293, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _fbp
+[After] Cookie-Name 2: _gat_UA-26565883-1
+[After] Cookie-Name 3: _gid
+[After] Cookie-Name 4: hash_key
+[After] Cookie-Name 5: ssw_visitor
+[After] Cookie-Name 6: hesid
+[After] Cookie-Name 7: _shopify_s
+[After] Cookie-Name 8: _gat
+[After] Cookie-Name 9: _ga
+[After] Cookie-Name 10: _ssw_cart_data
+[After] Cookie-Name 11: _shopify_sa_p
+[After] Cookie-Name 12: _shopify_y
+[After] Cookie-Name 13: _shopify_sa_t
+[After] Cookie-Name 14: _s
+[After] Cookie-Name 15: _y
+[After] Cookie-Name 16: shopify_pay_redirect
+[After] Cookie-Name 17: _landing_page
+[After] Cookie-Name 18: localization
+[After] Cookie-Name 19: _orig_referrer
+[After] Cookie-Name 20: cart_currency
+[After] Cookie-Name 21: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 5
+[Difference] Cookie-Name: 1: _ga
+[Difference] Cookie-Name: 2: _gat_UA-26565883-1
+[Difference] Cookie-Name: 3: _fbp
+[Difference] Cookie-Name: 4: _gat
+[Difference] Cookie-Name: 5: _gid
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is NOT GDPR compliant!

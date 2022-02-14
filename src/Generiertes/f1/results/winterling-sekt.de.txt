@@ -1,0 +1,73 @@
+Website 372: http://www.winterling-sekt.de/ | Created: 08.02.2022 23:32:46 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 19
+[Before] Website-Cookies: [{'domain': 'winterling-sekt.de', 'expiry': 1707431558, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQzNTk1NTgsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd2ludGVybGluZy1zZWt0LmRlLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDM1OTU1OCwidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly93aW50ZXJsaW5nLXNla3QuZGUvIn19'}, {'domain': 'winterling-sekt.de', 'expiry': 1675895558, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': ''}, {'domain': '.winterling-sekt.de', 'expiry': 1652135558, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644359557821.1171979767'}, {'domain': 'winterling-sekt.de', 'expiry': 1644363157, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.winterling-sekt.de', 'expiry': 1652135557, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1205364573.1644359558'}, {'domain': '.winterling-sekt.de', 'expiry': 1644361357, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.winterling-sekt.de', 'expiry': 1675895560, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd223d4c0-6c50-472c-8f0d-9d867f0d08bc'}, {'domain': '.winterling-sekt.de', 'expiry': 1644361360, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd5091d06-d226-4b3d-a561-8fdb478887d4'}, {'domain': '.winterling-sekt.de', 'expiry': 1645569157, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.winterling-sekt.de', 'expiry': 1675895560, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd223d4c0-6c50-472c-8f0d-9d867f0d08bc'}, {'domain': '.winterling-sekt.de', 'expiry': 1644359617, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.winterling-sekt.de', 'expiry': 1707431557, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.2046874056.1644359558'}, {'domain': 'winterling-sekt.de', 'expiry': 1645569160, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': 'winterling-sekt.de', 'expiry': 1675895560, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.winterling-sekt.de', 'expiry': 1644445957, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1542272146.1644359558'}, {'domain': 'winterling-sekt.de', 'expiry': 1645569160, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': '.winterling-sekt.de', 'expiry': 1644361357, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T22%3A32%3A37.480Z'}, {'domain': '.winterling-sekt.de', 'expiry': 1644361360, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd5091d06-d226-4b3d-a561-8fdb478887d4'}, {'domain': '.winterling-sekt.de', 'expiry': 1645569157, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[Before] Cookie-Name 1: __kla_id
+[Before] Cookie-Name 2: cookieconsent_preferences_disabled
+[Before] Cookie-Name 3: _fbp
+[Before] Cookie-Name 4: shopify_pay_redirect
+[Before] Cookie-Name 5: _gcl_au
+[Before] Cookie-Name 6: _shopify_sa_p
+[Before] Cookie-Name 7: _shopify_y
+[Before] Cookie-Name 8: _shopify_s
+[Before] Cookie-Name 9: _landing_page
+[Before] Cookie-Name 10: _y
+[Before] Cookie-Name 11: _gat
+[Before] Cookie-Name 12: _ga
+[Before] Cookie-Name 13: cart_currency
+[Before] Cookie-Name 14: secure_customer_sig
+[Before] Cookie-Name 15: _gid
+[Before] Cookie-Name 16: localization
+[Before] Cookie-Name 17: _shopify_sa_t
+[Before] Cookie-Name 18: _s
+[Before] Cookie-Name 19: _orig_referrer
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 20
+[After] Website-Cookies: [{'domain': 'winterling-sekt.de', 'expiry': 1675895571, 'httpOnly': False, 'name': 'cookieconsent_status', 'path': '/', 'secure': False, 'value': 'allow'}, {'domain': 'winterling-sekt.de', 'expiry': 1707431558, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQzNTk1NTgsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd2ludGVybGluZy1zZWt0LmRlLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDM1OTU1OCwidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly93aW50ZXJsaW5nLXNla3QuZGUvIn19'}, {'domain': 'winterling-sekt.de', 'expiry': 1675895571, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': ''}, {'domain': '.winterling-sekt.de', 'expiry': 1652135571, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644359557821.1171979767'}, {'domain': 'winterling-sekt.de', 'expiry': 1644363157, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.winterling-sekt.de', 'expiry': 1652135557, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1205364573.1644359558'}, {'domain': '.winterling-sekt.de', 'expiry': 1644361357, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.winterling-sekt.de', 'expiry': 1675895560, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd223d4c0-6c50-472c-8f0d-9d867f0d08bc'}, {'domain': '.winterling-sekt.de', 'expiry': 1644361360, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd5091d06-d226-4b3d-a561-8fdb478887d4'}, {'domain': '.winterling-sekt.de', 'expiry': 1645569157, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.winterling-sekt.de', 'expiry': 1675895560, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd223d4c0-6c50-472c-8f0d-9d867f0d08bc'}, {'domain': '.winterling-sekt.de', 'expiry': 1644359617, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.winterling-sekt.de', 'expiry': 1707431557, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.2046874056.1644359558'}, {'domain': 'winterling-sekt.de', 'expiry': 1645569160, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': 'winterling-sekt.de', 'expiry': 1675895560, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.winterling-sekt.de', 'expiry': 1644445957, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1542272146.1644359558'}, {'domain': 'winterling-sekt.de', 'expiry': 1645569160, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': '.winterling-sekt.de', 'expiry': 1644361357, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T22%3A32%3A37.480Z'}, {'domain': '.winterling-sekt.de', 'expiry': 1644361360, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd5091d06-d226-4b3d-a561-8fdb478887d4'}, {'domain': '.winterling-sekt.de', 'expiry': 1645569157, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: cookieconsent_status
+[After] Cookie-Name 2: __kla_id
+[After] Cookie-Name 3: cookieconsent_preferences_disabled
+[After] Cookie-Name 4: _fbp
+[After] Cookie-Name 5: shopify_pay_redirect
+[After] Cookie-Name 6: _gcl_au
+[After] Cookie-Name 7: _shopify_sa_p
+[After] Cookie-Name 8: _shopify_y
+[After] Cookie-Name 9: _shopify_s
+[After] Cookie-Name 10: _landing_page
+[After] Cookie-Name 11: _y
+[After] Cookie-Name 12: _gat
+[After] Cookie-Name 13: _ga
+[After] Cookie-Name 14: cart_currency
+[After] Cookie-Name 15: secure_customer_sig
+[After] Cookie-Name 16: _gid
+[After] Cookie-Name 17: localization
+[After] Cookie-Name 18: _shopify_sa_t
+[After] Cookie-Name 19: _s
+[After] Cookie-Name 20: _orig_referrer
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: cookieconsent_status
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

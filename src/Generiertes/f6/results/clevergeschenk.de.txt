@@ -1,0 +1,88 @@
+Website 278: http://www.clevergeschenk.de/ | Created: 10.02.2022 13:34:59 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 8
+[Before] Website-Cookies: [{'domain': '.clevergeschenk.de', 'expiry': 1676032487, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.clevergeschenk.de', 'expiry': 1645706087, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.clevergeschenk.de', 'expiry': 1644498290, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.clevergeschenk.de', 'expiry': 1676032487, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%7D'}, {'domain': '.clevergeschenk.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.clevergeschenk.de', 'expiry': 1645706090, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.clevergeschenk.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.clevergeschenk.de', 'expiry': 1676032490, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _shopify_m
+[Before] Cookie-Name 2: _shopify_tw
+[Before] Cookie-Name 3: _shopify_tm
+[Before] Cookie-Name 4: _tracking_consent
+[Before] Cookie-Name 5: _orig_referrer
+[Before] Cookie-Name 6: cart_currency
+[Before] Cookie-Name 7: _landing_page
+[Before] Cookie-Name 8: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 34
+[After] Website-Cookies: [{'domain': '.clevergeschenk.de', 'expiry': 1644496566, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.clevergeschenk.de', 'expiry': 1644582906, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.192579111.1644496506'}, {'domain': '.clevergeschenk.de', 'expiry': 1707568506, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.681909549.1644496488'}, {'domain': '.clevergeschenk.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.clevergeschenk.de', 'expiry': 1645706106, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9a028fc6eeefbd575e118b895d81de86'}, {'domain': '.clevergeschenk.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f538116d-c85d-40bc-a70c-debe4109437a'}, {'domain': '.clevergeschenk.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5aea23cd-86f8-4d46-aafe-64b1f1dd3af6'}, {'domain': '.clevergeschenk.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f538116d-c85d-40bc-a70c-debe4109437a'}, {'domain': '.clevergeschenk.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5aea23cd-86f8-4d46-aafe-64b1f1dd3af6'}, {'domain': '.clevergeschenk.de', 'expiry': 1676032506, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': '.clevergeschenk.de', 'expiry': 1652272506, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644496505890.1098255509'}, {'domain': '.clevergeschenk.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T12%3A34%3A48.283Z'}, {'domain': 'www.clevergeschenk.de', 'expiry': 1645706106, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.clevergeschenk.de', 'expiry': 1645706087, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.clevergeschenk.de', 'expiry': 1645706106, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': 'www.clevergeschenk.de', 'httpOnly': False, 'name': 'epb_previous_pathname', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '/'}, {'domain': 'www.clevergeschenk.de', 'expiry': 1645706106, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.clevergeschenk.de', 'expiry': 1676032506, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22con%22%3A%7B%22CCPA%22%3A%221%22%2C%22GDPR%22%3A%22%22%7D%2C%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': 'www.clevergeschenk.de', 'httpOnly': False, 'name': '_ga_HGPS3XXLJR', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'GS1.1.1644496488.1.0.1644496488.60'}, {'domain': 'www.clevergeschenk.de', 'expiry': 1645706106, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cccf9e4e06492b5edb6cf66c1a435e79'}, {'domain': 'www.clevergeschenk.de', 'expiry': 1645706106, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644496505'}, {'domain': 'www.clevergeschenk.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.clevergeschenk.de', 'expiry': 1644498305, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f538116d-c85d-40bc-a70c-debe4109437a'}, {'domain': 'www.clevergeschenk.de', 'expiry': 1707568505, 'httpOnly': False, 'name': '_ga', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'GA1.1.681909549.1644496488'}, {'domain': '.clevergeschenk.de', 'expiry': 1645706106, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.clevergeschenk.de', 'expiry': 1644498305, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T12%3A34%3A48.283Z'}, {'domain': 'www.clevergeschenk.de', 'expiry': 1676032505, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5aea23cd-86f8-4d46-aafe-64b1f1dd3af6'}, {'domain': '.clevergeschenk.de', 'expiry': 1644498306, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.clevergeschenk.de', 'expiry': 1645706105, 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T12%3A34%3A48.243Z'}, {'domain': 'www.clevergeschenk.de', 'expiry': 1676032505, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5aea23cd-86f8-4d46-aafe-64b1f1dd3af6'}, {'domain': 'www.clevergeschenk.de', 'expiry': 1644498305, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f538116d-c85d-40bc-a70c-debe4109437a'}, {'domain': 'www.clevergeschenk.de', 'expiry': 1647088505, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0NDk2NTA1NTI1LCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjowfX0='}, {'domain': '.clevergeschenk.de', 'expiry': 1645706106, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.clevergeschenk.de', 'expiry': 1676032506, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _gat
+[After] Cookie-Name 2: _gid
+[After] Cookie-Name 3: _ga
+[After] Cookie-Name 4: _shopify_evids
+[After] Cookie-Name 5: cart
+[After] Cookie-Name 6: _shopify_s
+[After] Cookie-Name 7: _shopify_y
+[After] Cookie-Name 8: _s
+[After] Cookie-Name 9: _y
+[After] Cookie-Name 10: _shopify_m
+[After] Cookie-Name 11: _fbp
+[After] Cookie-Name 12: _shopify_sa_t
+[After] Cookie-Name 13: cart_currency
+[After] Cookie-Name 14: _shopify_tw
+[After] Cookie-Name 15: cart_ver
+[After] Cookie-Name 16: epb_previous_pathname
+[After] Cookie-Name 17: localization
+[After] Cookie-Name 18: _tracking_consent
+[After] Cookie-Name 19: _ga_HGPS3XXLJR
+[After] Cookie-Name 20: cart_sig
+[After] Cookie-Name 21: cart_ts
+[After] Cookie-Name 22: _shopify_evids
+[After] Cookie-Name 23: _s
+[After] Cookie-Name 24: _ga
+[After] Cookie-Name 25: _orig_referrer
+[After] Cookie-Name 26: _shopify_sa_t
+[After] Cookie-Name 27: _shopify_y
+[After] Cookie-Name 28: _shopify_tm
+[After] Cookie-Name 29: _shopify_d
+[After] Cookie-Name 30: _y
+[After] Cookie-Name 31: _shopify_s
+[After] Cookie-Name 32: _bc_c_set
+[After] Cookie-Name 33: _landing_page
+[After] Cookie-Name 34: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 19
+[Difference] Cookie-Name: 1: _ga_HGPS3XXLJR
+[Difference] Cookie-Name: 2: localization
+[Difference] Cookie-Name: 3: _gid
+[Difference] Cookie-Name: 4: _y
+[Difference] Cookie-Name: 5: _bc_c_set
+[Difference] Cookie-Name: 6: _shopify_d
+[Difference] Cookie-Name: 7: cart
+[Difference] Cookie-Name: 8: cart_ts
+[Difference] Cookie-Name: 9: cart_ver
+[Difference] Cookie-Name: 10: _shopify_evids
+[Difference] Cookie-Name: 11: cart_sig
+[Difference] Cookie-Name: 12: _fbp
+[Difference] Cookie-Name: 13: _shopify_s
+[Difference] Cookie-Name: 14: _s
+[Difference] Cookie-Name: 15: _gat
+[Difference] Cookie-Name: 16: epb_previous_pathname
+[Difference] Cookie-Name: 17: _ga
+[Difference] Cookie-Name: 18: _shopify_y
+[Difference] Cookie-Name: 19: _shopify_sa_t
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

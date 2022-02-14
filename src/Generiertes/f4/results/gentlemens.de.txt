@@ -1,0 +1,77 @@
+Website 5: http://www.gentlemens.de/ | Created: 09.02.2022 17:06:20 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 22
+[Before] Website-Cookies: [{'domain': 'gentlemens.de', 'httpOnly': False, 'name': 'locale_bar_accepted', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.gentlemens.de', 'expiry': 1644424570, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T16%3A06%3A10.638Z'}, {'domain': 'gentlemens.de', 'expiry': 1644426371, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.gentlemens.de', 'expiry': 1652198771, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644422770286.1270916964'}, {'domain': '.gentlemens.de', 'expiry': 1652198770, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.623061967.1644422770'}, {'domain': '.gentlemens.de', 'expiry': 1644422830, 'httpOnly': False, 'name': '_gat_UA-186763726-1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.gentlemens.de', 'expiry': 1644509170, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1678210791.1644422770'}, {'domain': '.gentlemens.de', 'expiry': 1675958772, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '353e11d2-89d8-40d5-b1f2-b6699cb25fce'}, {'domain': '.gentlemens.de', 'expiry': 1675958772, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '353e11d2-89d8-40d5-b1f2-b6699cb25fce'}, {'domain': '.gentlemens.de', 'expiry': 1644424572, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'dc8fb057-cd50-43ac-b784-92c2553bc7e5'}, {'domain': '.gentlemens.de', 'expiry': 1707494770, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.630794923.1644422770'}, {'domain': '.gentlemens.de', 'expiry': 1675958770, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU1EVXlOalExWmpndE9EWXhZeTAwTTJNM0xXSXpPR010WkdGbE1URTVNelF3WXpBdw'}, {'domain': '.gentlemens.de', 'expiry': 1645632369, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'gentlemens.de', 'expiry': 1707494770, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MjI3NzAsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vZ2VudGxlbWVucy5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQ0MjI3NzEsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vZ2VudGxlbWVucy5kZS8ifX0='}, {'domain': '.gentlemens.de', 'expiry': 1645632369, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'gentlemens.de', 'expiry': 1645632372, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'gentlemens.de', 'expiry': 1645632371, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'gentlemens.de', 'expiry': 1675958771, 'httpOnly': False, 'name': '_pandectes_gdpr', 'path': '/', 'secure': True, 'value': 'eyJzdGF0dXMiOiIiLCJ0aW1lc3RhbXAiOm51bGwsInByZWZlcmVuY2VzIjowfQ=='}, {'domain': '.gentlemens.de', 'expiry': 1644424572, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'dc8fb057-cd50-43ac-b784-92c2553bc7e5'}, {'domain': '.gentlemens.de', 'expiry': 1644424570, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'gentlemens.de', 'expiry': 1675958772, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'gentlemens.de', 'expiry': 1645632372, 'httpOnly': False, 'name': 'localization', 'path': '/de', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[Before] Cookie-Name 1: locale_bar_accepted
+[Before] Cookie-Name 2: _shopify_sa_t
+[Before] Cookie-Name 3: shopify_pay_redirect
+[Before] Cookie-Name 4: _fbp
+[Before] Cookie-Name 5: _gcl_au
+[Before] Cookie-Name 6: _gat_UA-186763726-1
+[Before] Cookie-Name 7: _gid
+[Before] Cookie-Name 8: _y
+[Before] Cookie-Name 9: _shopify_y
+[Before] Cookie-Name 10: _s
+[Before] Cookie-Name 11: _ga
+[Before] Cookie-Name 12: _pin_unauth
+[Before] Cookie-Name 13: _landing_page
+[Before] Cookie-Name 14: __kla_id
+[Before] Cookie-Name 15: _orig_referrer
+[Before] Cookie-Name 16: cart_currency
+[Before] Cookie-Name 17: localization
+[Before] Cookie-Name 18: _pandectes_gdpr
+[Before] Cookie-Name 19: _shopify_s
+[Before] Cookie-Name 20: _shopify_sa_p
+[Before] Cookie-Name 21: secure_customer_sig
+[Before] Cookie-Name 22: localization
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 22
+[After] Website-Cookies: [{'domain': 'gentlemens.de', 'httpOnly': False, 'name': 'locale_bar_accepted', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.gentlemens.de', 'expiry': 1644424570, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T16%3A06%3A10.638Z'}, {'domain': 'gentlemens.de', 'expiry': 1644426371, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.gentlemens.de', 'expiry': 1652198785, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644422770286.1270916964'}, {'domain': '.gentlemens.de', 'expiry': 1652198770, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.623061967.1644422770'}, {'domain': '.gentlemens.de', 'expiry': 1644422830, 'httpOnly': False, 'name': '_gat_UA-186763726-1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.gentlemens.de', 'expiry': 1644509170, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1678210791.1644422770'}, {'domain': '.gentlemens.de', 'expiry': 1675958772, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '353e11d2-89d8-40d5-b1f2-b6699cb25fce'}, {'domain': '.gentlemens.de', 'expiry': 1675958772, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '353e11d2-89d8-40d5-b1f2-b6699cb25fce'}, {'domain': '.gentlemens.de', 'expiry': 1644424572, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'dc8fb057-cd50-43ac-b784-92c2553bc7e5'}, {'domain': '.gentlemens.de', 'expiry': 1707494770, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.630794923.1644422770'}, {'domain': '.gentlemens.de', 'expiry': 1675958770, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU1EVXlOalExWmpndE9EWXhZeTAwTTJNM0xXSXpPR010WkdGbE1URTVNelF3WXpBdw'}, {'domain': '.gentlemens.de', 'expiry': 1645632369, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'gentlemens.de', 'expiry': 1707494770, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MjI3NzAsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vZ2VudGxlbWVucy5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQ0MjI3NzEsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vZ2VudGxlbWVucy5kZS8ifX0='}, {'domain': '.gentlemens.de', 'expiry': 1645632369, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'gentlemens.de', 'expiry': 1645632372, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'gentlemens.de', 'expiry': 1645632371, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'gentlemens.de', 'expiry': 1675958785, 'httpOnly': False, 'name': '_pandectes_gdpr', 'path': '/', 'secure': True, 'value': 'eyJzdGF0dXMiOiJhbGxvdyIsInRpbWVzdGFtcCI6MTY0NDQyMjc4NSwicHJlZmVyZW5jZXMiOjAsImlkIjoiNjIwM2U2ODIzNzg2OTZkOWM5NmU1Yzg2In0='}, {'domain': '.gentlemens.de', 'expiry': 1644424572, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'dc8fb057-cd50-43ac-b784-92c2553bc7e5'}, {'domain': '.gentlemens.de', 'expiry': 1644424570, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'gentlemens.de', 'expiry': 1675958772, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'gentlemens.de', 'expiry': 1645632372, 'httpOnly': False, 'name': 'localization', 'path': '/de', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[After] Cookie-Name 1: locale_bar_accepted
+[After] Cookie-Name 2: _shopify_sa_t
+[After] Cookie-Name 3: shopify_pay_redirect
+[After] Cookie-Name 4: _fbp
+[After] Cookie-Name 5: _gcl_au
+[After] Cookie-Name 6: _gat_UA-186763726-1
+[After] Cookie-Name 7: _gid
+[After] Cookie-Name 8: _y
+[After] Cookie-Name 9: _shopify_y
+[After] Cookie-Name 10: _s
+[After] Cookie-Name 11: _ga
+[After] Cookie-Name 12: _pin_unauth
+[After] Cookie-Name 13: _landing_page
+[After] Cookie-Name 14: __kla_id
+[After] Cookie-Name 15: _orig_referrer
+[After] Cookie-Name 16: cart_currency
+[After] Cookie-Name 17: localization
+[After] Cookie-Name 18: _pandectes_gdpr
+[After] Cookie-Name 19: _shopify_s
+[After] Cookie-Name 20: _shopify_sa_p
+[After] Cookie-Name 21: secure_customer_sig
+[After] Cookie-Name 22: localization
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

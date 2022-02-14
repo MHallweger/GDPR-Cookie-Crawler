@@ -1,0 +1,90 @@
+Website 185: http://www.wholey.de/ | Created: 09.02.2022 20:32:02 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 12
+[Before] Website-Cookies: [{'domain': 'wholeyorganics.com', 'expiry': 1645644713, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A2'}, {'domain': 'wholeyorganics.com', 'expiry': 1645644713, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644435113'}, {'domain': 'wholeyorganics.com', 'expiry': 1645644713, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f236a3a16269431461783261bee1c68f'}, {'domain': '.wholeyorganics.com', 'expiry': 1675971111, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.wholeyorganics.com', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.wholeyorganics.com', 'expiry': 1675971111, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': '.wholeyorganics.com', 'expiry': 1645644711, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'wholeyorganics.com', 'expiry': 1645644713, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd1a509e37d38fab6edb7d6ce3ef801c5'}, {'domain': '.wholeyorganics.com', 'expiry': 1644436913, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'wholeyorganics.com', 'expiry': 1675971113, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.wholeyorganics.com', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'wholeyorganics.com', 'expiry': 1645644713, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}]
+[Before] Cookie-Name 1: cart_ver
+[Before] Cookie-Name 2: cart_ts
+[Before] Cookie-Name 3: cart
+[Before] Cookie-Name 4: _shopify_m
+[Before] Cookie-Name 5: _orig_referrer
+[Before] Cookie-Name 6: _tracking_consent
+[Before] Cookie-Name 7: _shopify_tw
+[Before] Cookie-Name 8: cart_sig
+[Before] Cookie-Name 9: _shopify_tm
+[Before] Cookie-Name 10: secure_customer_sig
+[Before] Cookie-Name 11: _landing_page
+[Before] Cookie-Name 12: cart_currency
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 34
+[After] Website-Cookies: [{'domain': '.wholeyorganics.com', 'expiry': 1652211129, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644435129389.163682823'}, {'domain': '.wholeyorganics.com', 'expiry': 1652211129, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.860702264.1644435129'}, {'domain': '.wholeyorganics.com', 'expiry': 1707507129, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.2121907154.1644435129'}, {'domain': '.wholeyorganics.com', 'expiry': 1675971129, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22con%22%3A%7B%22CCPA%22%3A%221%22%2C%22GDPR%22%3A%22%22%7D%2C%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': '.wholeyorganics.com', 'expiry': 1644521529, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1832332879.1644435129'}, {'domain': '.wholeyorganics.com', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '115fc336-d166-40f1-b36d-efd2dd923a32'}, {'domain': '.wholeyorganics.com', 'expiry': 1675971129, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': '.wholeyorganics.com', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A32%3A08.627Z'}, {'domain': 'wholeyorganics.com', 'expiry': 1645644713, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A2'}, {'domain': '.wholeyorganics.com', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f57e8aba-83f4-406c-8e97-4e4a8fd5f536'}, {'domain': 'wholeyorganics.com', 'expiry': 1647027128, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0NDM1MTI4NTU3LCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjowfX0='}, {'domain': '.wholeyorganics.com', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A32%3A08.609Z'}, {'domain': '.wholeyorganics.com', 'expiry': 1644435189, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.wholeyorganics.com', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f57e8aba-83f4-406c-8e97-4e4a8fd5f536'}, {'domain': 'wholeyorganics.com', 'expiry': 1645644713, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644435113'}, {'domain': 'wholeyorganics.com', 'expiry': 1645644729, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'wholeyorganics.com', 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'pending'}, {'domain': 'wholeyorganics.com', 'expiry': 1675971128, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '115fc336-d166-40f1-b36d-efd2dd923a32'}, {'domain': 'wholeyorganics.com', 'expiry': 1644436928, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f57e8aba-83f4-406c-8e97-4e4a8fd5f536'}, {'domain': '.wholeyorganics.com', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '115fc336-d166-40f1-b36d-efd2dd923a32'}, {'domain': 'wholeyorganics.com', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'wholeyorganics.com', 'expiry': 1644436928, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f57e8aba-83f4-406c-8e97-4e4a8fd5f536'}, {'domain': '.wholeyorganics.com', 'expiry': 1644436929, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'wholeyorganics.com', 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MzUxMTIsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd2hvbGV5b3JnYW5pY3MuY29tLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDQzNTExMiwidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly93aG9sZXlvcmdhbmljcy5jb20vIn19'}, {'domain': 'wholeyorganics.com', 'expiry': 1675971128, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '115fc336-d166-40f1-b36d-efd2dd923a32'}, {'domain': 'wholeyorganics.com', 'expiry': 1645644713, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f236a3a16269431461783261bee1c68f'}, {'domain': '.wholeyorganics.com', 'expiry': 1645644729, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.wholeyorganics.com', 'expiry': 1645644729, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.wholeyorganics.com', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.wholeyorganics.com', 'expiry': 1645644711, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'wholeyorganics.com', 'expiry': 1675971129, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'wholeyorganics.com', 'expiry': 1645644729, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd1a509e37d38fab6edb7d6ce3ef801c5'}, {'domain': '.wholeyorganics.com', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'wholeyorganics.com', 'expiry': 1645644729, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}]
+[After] Cookie-Name 1: _fbp
+[After] Cookie-Name 2: _gcl_au
+[After] Cookie-Name 3: _ga
+[After] Cookie-Name 4: _tracking_consent
+[After] Cookie-Name 5: _gid
+[After] Cookie-Name 6: _shopify_y
+[After] Cookie-Name 7: _shopify_m
+[After] Cookie-Name 8: _shopify_sa_t
+[After] Cookie-Name 9: cart_ver
+[After] Cookie-Name 10: _s
+[After] Cookie-Name 11: _bc_c_set
+[After] Cookie-Name 12: _shopify_d
+[After] Cookie-Name 13: _gat
+[After] Cookie-Name 14: _shopify_s
+[After] Cookie-Name 15: cart_ts
+[After] Cookie-Name 16: localization
+[After] Cookie-Name 17: shopify_pay_redirect
+[After] Cookie-Name 18: _shopify_y
+[After] Cookie-Name 19: _shopify_s
+[After] Cookie-Name 20: _y
+[After] Cookie-Name 21: _shopify_evids
+[After] Cookie-Name 22: _s
+[After] Cookie-Name 23: _shopify_tm
+[After] Cookie-Name 24: __kla_id
+[After] Cookie-Name 25: _y
+[After] Cookie-Name 26: cart
+[After] Cookie-Name 27: _landing_page
+[After] Cookie-Name 28: _orig_referrer
+[After] Cookie-Name 29: _shopify_sa_p
+[After] Cookie-Name 30: _shopify_tw
+[After] Cookie-Name 31: secure_customer_sig
+[After] Cookie-Name 32: cart_sig
+[After] Cookie-Name 33: _shopify_evids
+[After] Cookie-Name 34: cart_currency
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 17
+[Difference] Cookie-Name: 1: localization
+[Difference] Cookie-Name: 2: _y
+[Difference] Cookie-Name: 3: _shopify_s
+[Difference] Cookie-Name: 4: _shopify_evids
+[Difference] Cookie-Name: 5: _shopify_d
+[Difference] Cookie-Name: 6: _fbp
+[Difference] Cookie-Name: 7: _shopify_y
+[Difference] Cookie-Name: 8: _gid
+[Difference] Cookie-Name: 9: _bc_c_set
+[Difference] Cookie-Name: 10: _shopify_sa_t
+[Difference] Cookie-Name: 11: __kla_id
+[Difference] Cookie-Name: 12: _gcl_au
+[Difference] Cookie-Name: 13: _ga
+[Difference] Cookie-Name: 14: _shopify_sa_p
+[Difference] Cookie-Name: 15: _gat
+[Difference] Cookie-Name: 16: shopify_pay_redirect
+[Difference] Cookie-Name: 17: _s
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

@@ -1,0 +1,112 @@
+Website 59: http://www.hild-radwelt.de/ | Created: 09.02.2022 11:04:14 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 36
+[Before] Website-Cookies: [{'domain': 'www.hild-radwelt.de', 'expiry': 1646993042, 'httpOnly': False, 'name': 'sa_session', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '{"r":"","l":"https://www.hild-radwelt.de/"}'}, {'domain': 'www.hild-radwelt.de', 'expiry': 1645610629, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '10e5d2ac33f8cbbfee5247634e1e631f'}, {'domain': 'www.hild-radwelt.de', 'expiry': 1645610629, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8318f66ef2e5dc9b7fe3d1a96f9d0960'}, {'domain': 'www.hild-radwelt.de', 'expiry': 1645610629, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A2'}, {'domain': 'www.hild-radwelt.de', 'expiry': 1645610629, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644401028'}, {'domain': 'www.hild-radwelt.de', 'expiry': 1644404628, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'www.hild-radwelt.de', 'expiry': 1644401148, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.hild-radwelt.de', 'expiry': 1644402828, 'httpOnly': False, 'name': '_hjSession_2256048', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImUwMTVhMDFhLWUzMGUtNGMxNy05NzNkLTI2YTRmN2RmYWNkOSIsImNyZWF0ZWQiOjE2NDQ0MDEwMjg2NTEsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': '.hild-radwelt.de', 'expiry': 1644402828, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': 'www.hild-radwelt.de', 'expiry': 1644401148, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.hild-radwelt.de', 'expiry': 1675937028, 'httpOnly': False, 'name': '_hjSessionUser_2256048', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjE4YzY4YmMwLTNhMTUtNTAwZi1iY2QxLTRmOTNjOGFiNzQxMiIsImNyZWF0ZWQiOjE2NDQ0MDEwMjcwOTksImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.hild-radwelt.de', 'expiry': 1707473027, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.783939977.1644401027'}, {'domain': 'www.hild-radwelt.de', 'expiry': 1675937029, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.hild-radwelt.de', 'expiry': 1644487427, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.800386552.1644401027'}, {'domain': '.hild-radwelt.de', 'expiry': 1707473027, 'httpOnly': False, 'name': '_ga_6C09R1WJTG', 'path': '/', 'secure': False, 'value': 'GS1.1.1644401027.1.1.1644401027.0'}, {'domain': '.hild-radwelt.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.hild-radwelt.de', 'expiry': 1645610626, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.hild-radwelt.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A03%3A47.010Z'}, {'domain': '.hild-radwelt.de', 'expiry': 1675937026, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': 'www.hild-radwelt.de', 'expiry': 1675937043, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': ''}, {'domain': 'www.hild-radwelt.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.hild-radwelt.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.hild-radwelt.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '32b8a1c6-61d6-407a-b431-bb56d025741c'}, {'domain': '.hild-radwelt.de', 'expiry': 1675937026, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%7D'}, {'domain': '.hild-radwelt.de', 'expiry': 1652177027, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.382830511.1644401027'}, {'domain': '.hild-radwelt.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f014f7fa-00d1-4884-9a9e-0bc801ea6077'}, {'domain': '.hild-radwelt.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A03%3A47.037Z'}, {'domain': '.hild-radwelt.de', 'expiry': 1644402829, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.hild-radwelt.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f014f7fa-00d1-4884-9a9e-0bc801ea6077'}, {'domain': '.hild-radwelt.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '32b8a1c6-61d6-407a-b431-bb56d025741c'}, {'domain': '.hild-radwelt.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.hild-radwelt.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.hild-radwelt.de', 'expiry': 1644402828, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.hild-radwelt.de', 'expiry': 1644401087, 'httpOnly': False, 'name': '_gat_gtag_UA_184217953_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.hild-radwelt.de', 'expiry': 1645610629, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.hild-radwelt.de', 'expiry': 1645610629, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[Before] Cookie-Name 1: sa_session
+[Before] Cookie-Name 2: cart_sig
+[Before] Cookie-Name 3: cart
+[Before] Cookie-Name 4: cart_ver
+[Before] Cookie-Name 5: cart_ts
+[Before] Cookie-Name 6: shopify_pay_redirect
+[Before] Cookie-Name 7: _hjIncludedInPageviewSample
+[Before] Cookie-Name 8: _hjSession_2256048
+[Before] Cookie-Name 9: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 10: _hjIncludedInSessionSample
+[Before] Cookie-Name 11: _hjSessionUser_2256048
+[Before] Cookie-Name 12: _ga
+[Before] Cookie-Name 13: secure_customer_sig
+[Before] Cookie-Name 14: _gid
+[Before] Cookie-Name 15: _ga_6C09R1WJTG
+[Before] Cookie-Name 16: _shopify_sa_p
+[Before] Cookie-Name 17: _shopify_tw
+[Before] Cookie-Name 18: _shopify_d
+[Before] Cookie-Name 19: _shopify_m
+[Before] Cookie-Name 20: cookieconsent_preferences_disabled
+[Before] Cookie-Name 21: _shopify_evids
+[Before] Cookie-Name 22: _shopify_evids
+[Before] Cookie-Name 23: _shopify_y
+[Before] Cookie-Name 24: _tracking_consent
+[Before] Cookie-Name 25: _gcl_au
+[Before] Cookie-Name 26: _shopify_s
+[Before] Cookie-Name 27: _shopify_sa_t
+[Before] Cookie-Name 28: _shopify_tm
+[Before] Cookie-Name 29: _s
+[Before] Cookie-Name 30: _y
+[Before] Cookie-Name 31: _orig_referrer
+[Before] Cookie-Name 32: _landing_page
+[Before] Cookie-Name 33: _hjFirstSeen
+[Before] Cookie-Name 34: _gat_gtag_UA_184217953_1
+[Before] Cookie-Name 35: cart_currency
+[Before] Cookie-Name 36: localization
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 39
+[After] Website-Cookies: [{'domain': '.hild-radwelt.de', 'expiry': 1675937060, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': '.hild-radwelt.de', 'expiry': 1675937060, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22con%22%3A%7B%22GDPR%22%3A%221%22%7D%7D'}, {'domain': 'www.hild-radwelt.de', 'expiry': 1675937059, 'httpOnly': False, 'name': 'cookieconsent_status', 'path': '/', 'secure': False, 'value': 'allow'}, {'domain': 'www.hild-radwelt.de', 'expiry': 1646993042, 'httpOnly': False, 'name': 'sa_session', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '{"r":"","l":"https://www.hild-radwelt.de/"}'}, {'domain': 'www.hild-radwelt.de', 'expiry': 1645610659, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '10e5d2ac33f8cbbfee5247634e1e631f'}, {'domain': 'www.hild-radwelt.de', 'expiry': 1645610629, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8318f66ef2e5dc9b7fe3d1a96f9d0960'}, {'domain': 'www.hild-radwelt.de', 'expiry': 1645610629, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A2'}, {'domain': 'www.hild-radwelt.de', 'expiry': 1645610629, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644401028'}, {'domain': 'www.hild-radwelt.de', 'expiry': 1644404628, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.hild-radwelt.de', 'expiry': 1652177061, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644401060531.904283029'}, {'domain': 'www.hild-radwelt.de', 'expiry': 1644401148, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.hild-radwelt.de', 'expiry': 1644402828, 'httpOnly': False, 'name': '_hjSession_2256048', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImUwMTVhMDFhLWUzMGUtNGMxNy05NzNkLTI2YTRmN2RmYWNkOSIsImNyZWF0ZWQiOjE2NDQ0MDEwMjg2NTEsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': '.hild-radwelt.de', 'expiry': 1644401087, 'httpOnly': False, 'name': '_gat_gtag_UA_184217953_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.hild-radwelt.de', 'expiry': 1644402828, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.hild-radwelt.de', 'expiry': 1644402828, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': 'www.hild-radwelt.de', 'expiry': 1644401148, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.hild-radwelt.de', 'expiry': 1675937028, 'httpOnly': False, 'name': '_hjSessionUser_2256048', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjE4YzY4YmMwLTNhMTUtNTAwZi1iY2QxLTRmOTNjOGFiNzQxMiIsImNyZWF0ZWQiOjE2NDQ0MDEwMjcwOTksImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.hild-radwelt.de', 'expiry': 1707473060, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.783939977.1644401027'}, {'domain': 'www.hild-radwelt.de', 'expiry': 1675937060, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.hild-radwelt.de', 'expiry': 1644487460, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.800386552.1644401027'}, {'domain': '.hild-radwelt.de', 'expiry': 1707473027, 'httpOnly': False, 'name': '_ga_6C09R1WJTG', 'path': '/', 'secure': False, 'value': 'GS1.1.1644401027.1.1.1644401027.0'}, {'domain': '.hild-radwelt.de', 'expiry': 1644402860, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.hild-radwelt.de', 'expiry': 1645610626, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.hild-radwelt.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A03%3A47.010Z'}, {'domain': '.hild-radwelt.de', 'expiry': 1644402860, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A03%3A47.037Z'}, {'domain': '.hild-radwelt.de', 'expiry': 1644402860, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.hild-radwelt.de', 'expiry': 1644402860, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f014f7fa-00d1-4884-9a9e-0bc801ea6077'}, {'domain': '.hild-radwelt.de', 'expiry': 1652177027, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.382830511.1644401027'}, {'domain': '.hild-radwelt.de', 'expiry': 1644402860, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f014f7fa-00d1-4884-9a9e-0bc801ea6077'}, {'domain': '.hild-radwelt.de', 'expiry': 1644401120, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.hild-radwelt.de', 'expiry': 1675937059, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': ''}, {'domain': 'www.hild-radwelt.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.hild-radwelt.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.hild-radwelt.de', 'expiry': 1675937060, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '32b8a1c6-61d6-407a-b431-bb56d025741c'}, {'domain': '.hild-radwelt.de', 'expiry': 1675937060, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '32b8a1c6-61d6-407a-b431-bb56d025741c'}, {'domain': '.hild-radwelt.de', 'expiry': 1645610660, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.hild-radwelt.de', 'expiry': 1645610660, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.hild-radwelt.de', 'expiry': 1645610659, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.hild-radwelt.de', 'expiry': 1645610659, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[After] Cookie-Name 1: _shopify_m
+[After] Cookie-Name 2: _tracking_consent
+[After] Cookie-Name 3: cookieconsent_status
+[After] Cookie-Name 4: sa_session
+[After] Cookie-Name 5: cart_sig
+[After] Cookie-Name 6: cart
+[After] Cookie-Name 7: cart_ver
+[After] Cookie-Name 8: cart_ts
+[After] Cookie-Name 9: shopify_pay_redirect
+[After] Cookie-Name 10: _fbp
+[After] Cookie-Name 11: _hjIncludedInPageviewSample
+[After] Cookie-Name 12: _hjSession_2256048
+[After] Cookie-Name 13: _gat_gtag_UA_184217953_1
+[After] Cookie-Name 14: _hjFirstSeen
+[After] Cookie-Name 15: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 16: _hjIncludedInSessionSample
+[After] Cookie-Name 17: _hjSessionUser_2256048
+[After] Cookie-Name 18: _ga
+[After] Cookie-Name 19: secure_customer_sig
+[After] Cookie-Name 20: _gid
+[After] Cookie-Name 21: _ga_6C09R1WJTG
+[After] Cookie-Name 22: _shopify_sa_p
+[After] Cookie-Name 23: _shopify_tw
+[After] Cookie-Name 24: _shopify_d
+[After] Cookie-Name 25: _shopify_sa_t
+[After] Cookie-Name 26: _shopify_tm
+[After] Cookie-Name 27: _s
+[After] Cookie-Name 28: _gcl_au
+[After] Cookie-Name 29: _shopify_s
+[After] Cookie-Name 30: _gat
+[After] Cookie-Name 31: cookieconsent_preferences_disabled
+[After] Cookie-Name 32: _shopify_evids
+[After] Cookie-Name 33: _shopify_evids
+[After] Cookie-Name 34: _shopify_y
+[After] Cookie-Name 35: _y
+[After] Cookie-Name 36: _orig_referrer
+[After] Cookie-Name 37: _landing_page
+[After] Cookie-Name 38: cart_currency
+[After] Cookie-Name 39: localization
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _hjIncludedInPageviewSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjIncludedInSessionSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 3
+[Difference] Cookie-Name: 1: _fbp
+[Difference] Cookie-Name: 2: cookieconsent_status
+[Difference] Cookie-Name: 3: _gat
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

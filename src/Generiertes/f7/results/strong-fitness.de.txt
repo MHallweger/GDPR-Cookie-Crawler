@@ -1,0 +1,95 @@
+Website 170: http://www.strong-fitness.de/ | Created: 10.02.2022 18:10:55 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 8
+[Before] Website-Cookies: [{'domain': 'www.strong-fitness.de', 'expiry': 1645722647, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eefe225833a40bdf0689afc75cff8e63'}, {'domain': 'www.strong-fitness.de', 'expiry': 1645722647, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644513046'}, {'domain': 'www.strong-fitness.de', 'expiry': 1645722647, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '76e75793d21724397fe2e0943d3ca998'}, {'domain': '.strong-fitness.de', 'expiry': 1645722644, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.strong-fitness.de', 'expiry': 1645722647, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.strong-fitness.de', 'expiry': 1645722647, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A3'}, {'domain': '.strong-fitness.de', 'expiry': 1645722644, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.strong-fitness.de', 'expiry': 1676049047, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: cart_sig
+[Before] Cookie-Name 2: cart_ts
+[Before] Cookie-Name 3: cart
+[Before] Cookie-Name 4: _landing_page
+[Before] Cookie-Name 5: cart_currency
+[Before] Cookie-Name 6: cart_ver
+[Before] Cookie-Name 7: _orig_referrer
+[Before] Cookie-Name 8: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 34
+[After] Website-Cookies: [{'domain': '.strong-fitness.de', 'expiry': 1644599463, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': '1moavt3|1644513063192|1|1|d.clarity.ms/collect'}, {'domain': '.strong-fitness.de', 'expiry': 1676049062, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': 'ziicxn|1|eyv|0'}, {'domain': '.strong-fitness.de', 'expiry': 1652289063, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644513062916.1096899554'}, {'domain': '.strong-fitness.de', 'expiry': 1676049062, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU56Vm1OR1JqWWprdE1ESTBPQzAwTkRVekxUbGlaVEF0TVdZellUWm1ZelV6TXpGbQ'}, {'domain': '.strong-fitness.de', 'expiry': 1644599462, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': '6c835c308a9411ecbfeaf5c9b4148843'}, {'domain': '.strong-fitness.de', 'expiry': 1652289061, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.2042978802.1644513062'}, {'domain': '.strong-fitness.de', 'expiry': 1707585061, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.729443932.1644513062'}, {'domain': '.strong-fitness.de', 'expiry': 1644599461, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1188177906.1644513062'}, {'domain': 'www.strong-fitness.de', 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ1MTMwNDYsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LnN0cm9uZy1maXRuZXNzLmRlLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDUxMzA0NiwidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly93d3cuc3Ryb25nLWZpdG5lc3MuZGUvIn19'}, {'domain': 'www.strong-fitness.de', 'expiry': 1647105061, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0NTEzMDYxODY2LCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjowfX0='}, {'domain': 'www.strong-fitness.de', 'httpOnly': False, 'name': '_hjSessionUser_1456945', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImVjMzI3YjlmLWI5OGItNWFlZC05MjA3LWNlZGQ5YjJiMzU5OSIsImNyZWF0ZWQiOjE2NDQ1MTMwNDUyOTksImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': 'www.strong-fitness.de', 'httpOnly': False, 'name': '_hjSession_1456945', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjNjZGI0YTI2LTU4MjEtNDUzYS04NTE1LTc4YjgwODdkMDE0YiIsImNyZWF0ZWQiOjE2NDQ1MTMwNDU5NjYsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': 'www.strong-fitness.de', 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.strong-fitness.de', 'httpOnly': False, 'name': '_privy_8951A684B195564163B3DFED', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22uuid%22%3A%226bc3324d-f54c-479c-88b4-18c332409cfb%22%7D'}, {'domain': 'www.strong-fitness.de', 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'www.strong-fitness.de', 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.strong-fitness.de', 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.strong-fitness.de', 'expiry': 1645722644, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.strong-fitness.de', 'expiry': 1644514861, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A10%3A45.146Z'}, {'domain': 'www.strong-fitness.de', 'expiry': 1676049061, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2204b0e6-1b5e-4425-9815-f17027045a81'}, {'domain': '.strong-fitness.de', 'expiry': 1644513121, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.strong-fitness.de', 'expiry': 1676049047, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'www.strong-fitness.de', 'expiry': 1645722647, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644513046'}, {'domain': 'www.strong-fitness.de', 'expiry': 1644514861, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '74130cf3-5284-4197-8090-e5e245206f0d'}, {'domain': 'www.strong-fitness.de', 'expiry': 1645722647, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.strong-fitness.de', 'expiry': 1644514861, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '74130cf3-5284-4197-8090-e5e245206f0d'}, {'domain': 'www.strong-fitness.de', 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': 'www.strong-fitness.de', 'expiry': 1645722647, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eefe225833a40bdf0689afc75cff8e63'}, {'domain': 'www.strong-fitness.de', 'httpOnly': False, 'name': 'newsletter_delay', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'value'}, {'domain': 'www.strong-fitness.de', 'expiry': 1676049061, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2204b0e6-1b5e-4425-9815-f17027045a81'}, {'domain': 'www.strong-fitness.de', 'expiry': 1645722647, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '76e75793d21724397fe2e0943d3ca998'}, {'domain': '.strong-fitness.de', 'expiry': 1645722644, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.strong-fitness.de', 'expiry': 1678209062, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '6c835c008a9411ecb4f64326060b036a'}, {'domain': 'www.strong-fitness.de', 'expiry': 1645722647, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A3'}]
+[After] Cookie-Name 1: _clsk
+[After] Cookie-Name 2: _clck
+[After] Cookie-Name 3: _fbp
+[After] Cookie-Name 4: _pin_unauth
+[After] Cookie-Name 5: _uetsid
+[After] Cookie-Name 6: _gcl_au
+[After] Cookie-Name 7: _ga
+[After] Cookie-Name 8: _gid
+[After] Cookie-Name 9: __kla_id
+[After] Cookie-Name 10: _bc_c_set
+[After] Cookie-Name 11: _hjSessionUser_1456945
+[After] Cookie-Name 12: _hjSession_1456945
+[After] Cookie-Name 13: _hjIncludedInPageviewSample
+[After] Cookie-Name 14: _privy_8951A684B195564163B3DFED
+[After] Cookie-Name 15: localization
+[After] Cookie-Name 16: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 17: _hjFirstSeen
+[After] Cookie-Name 18: _orig_referrer
+[After] Cookie-Name 19: _shopify_sa_t
+[After] Cookie-Name 20: _y
+[After] Cookie-Name 21: _gat
+[After] Cookie-Name 22: secure_customer_sig
+[After] Cookie-Name 23: cart_ts
+[After] Cookie-Name 24: _shopify_s
+[After] Cookie-Name 25: cart_currency
+[After] Cookie-Name 26: _s
+[After] Cookie-Name 27: _hjIncludedInSessionSample
+[After] Cookie-Name 28: cart_sig
+[After] Cookie-Name 29: newsletter_delay
+[After] Cookie-Name 30: _shopify_y
+[After] Cookie-Name 31: cart
+[After] Cookie-Name 32: _landing_page
+[After] Cookie-Name 33: _uetvid
+[After] Cookie-Name 34: cart_ver
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 26
+[Difference] Cookie-Name: 1: _hjAbsoluteSessionInProgress
+[Difference] Cookie-Name: 2: _bc_c_set
+[Difference] Cookie-Name: 3: _uetsid
+[Difference] Cookie-Name: 4: _uetvid
+[Difference] Cookie-Name: 5: _privy_8951A684B195564163B3DFED
+[Difference] Cookie-Name: 6: _hjSessionUser_1456945
+[Difference] Cookie-Name: 7: _shopify_y
+[Difference] Cookie-Name: 8: __kla_id
+[Difference] Cookie-Name: 9: localization
+[Difference] Cookie-Name: 10: _pin_unauth
+[Difference] Cookie-Name: 11: _ga
+[Difference] Cookie-Name: 12: _gcl_au
+[Difference] Cookie-Name: 13: _clsk
+[Difference] Cookie-Name: 14: _hjFirstSeen
+[Difference] Cookie-Name: 15: _shopify_s
+[Difference] Cookie-Name: 16: _clck
+[Difference] Cookie-Name: 17: _hjSession_1456945
+[Difference] Cookie-Name: 18: _shopify_sa_t
+[Difference] Cookie-Name: 19: _s
+[Difference] Cookie-Name: 20: _y
+[Difference] Cookie-Name: 21: _hjIncludedInPageviewSample
+[Difference] Cookie-Name: 22: newsletter_delay
+[Difference] Cookie-Name: 23: _gat
+[Difference] Cookie-Name: 24: _fbp
+[Difference] Cookie-Name: 25: _hjIncludedInSessionSample
+[Difference] Cookie-Name: 26: _gid
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

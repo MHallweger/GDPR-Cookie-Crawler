@@ -1,0 +1,96 @@
+Website 305: http://www.norvine.de/ | Created: 09.02.2022 18:43:22 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 31
+[Before] Website-Cookies: [{'domain': 'www.norvine.de', 'expiry': 1644514994, 'httpOnly': False, 'name': 'co2ok_surcharge', 'path': '/', 'secure': False, 'value': '0'}, {'domain': 'www.norvine.de', 'httpOnly': False, 'name': 'locale_bar_accepted', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.norvine.de', 'expiry': 1707500593, 'httpOnly': False, 'name': '_ama', 'path': '/', 'secure': False, 'value': '231535756.1644428592'}, {'domain': 'www.norvine.de', 'expiry': 1644968593, 'httpOnly': False, 'name': 'cbuid_meta', 'path': '/', 'secure': False, 'value': '{"referrer":"","href":"https://www.norvine.de/"}'}, {'domain': 'www.norvine.de', 'expiry': 1645638193, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644428593'}, {'domain': 'www.norvine.de', 'expiry': 1644432192, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.norvine.de', 'expiry': 1645638191, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.norvine.de', 'expiry': 1645638192, 'httpOnly': False, 'name': '__cmpcccx32593', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'aBPUJ-PgAAAAwAXABgAA'}, {'domain': '.norvine.de', 'expiry': 1645638192, 'httpOnly': False, 'name': '__cmpconsentx32593', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'CPUHZtgPUHZtgAfJRBDECBCgAAAAAAAAAAigAAAAAAAA'}, {'domain': 'www.norvine.de', 'expiry': 1645638193, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '746232808e35e6a9e14909bc6df4334a'}, {'domain': '.norvine.de', 'expiry': 1675964591, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU1EVXlOalExWmpndE9EWXhZeTAwTTJNM0xXSXpPR010WkdGbE1URTVNelF3WXpBdw'}, {'domain': '.norvine.de', 'expiry': 1707500591, 'httpOnly': False, 'name': 'sc_is_visitor_unique', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'rx12545371.1644428592.20360D8D88674F5A79E89A68EBA55D86.1.1.1.1.1.1.1.1.1'}, {'domain': 'www.norvine.de', 'expiry': 1644514993, 'httpOnly': False, 'name': 'co2ok_impact', 'path': '/', 'secure': False, 'value': '370'}, {'domain': '.norvine.de', 'expiry': 1675964594, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bb8af7be-fb1c-4c56-92d5-5a2a6811eaa5'}, {'domain': 'www.norvine.de', 'expiry': 1645638193, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd72db0547348a1f1995005e365ad4da5'}, {'domain': '.norvine.de', 'expiry': 1644428651, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.norvine.de', 'expiry': 1644514991, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1651998151.1644428592'}, {'domain': '.norvine.de', 'expiry': 1644430391, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.norvine.de', 'expiry': 1675964594, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bb8af7be-fb1c-4c56-92d5-5a2a6811eaa5'}, {'domain': '.norvine.de', 'expiry': 1644430394, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '83485359-1405-47fa-9348-917f7e0fd509'}, {'domain': 'www.norvine.de', 'expiry': 1645638194, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.norvine.de', 'expiry': 1644430394, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '83485359-1405-47fa-9348-917f7e0fd509'}, {'domain': '.norvine.de', 'expiry': 1645638191, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.norvine.de', 'expiry': 1675964594, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.www.norvine.de', 'expiry': 1660084993, 'httpOnly': False, 'name': 'sib_cuid', 'path': '/', 'secure': False, 'value': '5298d829-87a8-42df-8866-0588bd4689b3'}, {'domain': '.norvine.de', 'expiry': 1644430391, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A43%3A11.628Z'}, {'domain': '.norvine.de', 'expiry': 1652204591, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.278628994.1644428592'}, {'domain': 'www.norvine.de', 'expiry': 1645638194, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.norvine.de', 'expiry': 1707500591, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.231535756.1644428592'}, {'domain': 'www.norvine.de', 'expiry': 1645638193, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A2'}, {'domain': 'www.norvine.de', 'expiry': 1645638191, 'httpOnly': True, 'name': 'keep_alive', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '83485359-1405-47fa-9348-917f7e0fd509'}]
+[Before] Cookie-Name 1: co2ok_surcharge
+[Before] Cookie-Name 2: locale_bar_accepted
+[Before] Cookie-Name 3: _ama
+[Before] Cookie-Name 4: cbuid_meta
+[Before] Cookie-Name 5: cart_ts
+[Before] Cookie-Name 6: shopify_pay_redirect
+[Before] Cookie-Name 7: _orig_referrer
+[Before] Cookie-Name 8: __cmpcccx32593
+[Before] Cookie-Name 9: __cmpconsentx32593
+[Before] Cookie-Name 10: cart_sig
+[Before] Cookie-Name 11: _pin_unauth
+[Before] Cookie-Name 12: sc_is_visitor_unique
+[Before] Cookie-Name 13: co2ok_impact
+[Before] Cookie-Name 14: _y
+[Before] Cookie-Name 15: cart
+[Before] Cookie-Name 16: _gat
+[Before] Cookie-Name 17: _gid
+[Before] Cookie-Name 18: _shopify_sa_p
+[Before] Cookie-Name 19: _shopify_y
+[Before] Cookie-Name 20: _shopify_s
+[Before] Cookie-Name 21: cart_currency
+[Before] Cookie-Name 22: _s
+[Before] Cookie-Name 23: _landing_page
+[Before] Cookie-Name 24: secure_customer_sig
+[Before] Cookie-Name 25: sib_cuid
+[Before] Cookie-Name 26: _shopify_sa_t
+[Before] Cookie-Name 27: _gcl_au
+[Before] Cookie-Name 28: localization
+[Before] Cookie-Name 29: _ga
+[Before] Cookie-Name 30: cart_ver
+[Before] Cookie-Name 31: keep_alive
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 31
+[After] Website-Cookies: [{'domain': 'www.norvine.de', 'expiry': 1644514994, 'httpOnly': False, 'name': 'co2ok_surcharge', 'path': '/', 'secure': False, 'value': '0'}, {'domain': 'www.norvine.de', 'httpOnly': False, 'name': 'locale_bar_accepted', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.norvine.de', 'expiry': 1707500593, 'httpOnly': False, 'name': '_ama', 'path': '/', 'secure': False, 'value': '231535756.1644428592'}, {'domain': 'www.norvine.de', 'expiry': 1644968593, 'httpOnly': False, 'name': 'cbuid_meta', 'path': '/', 'secure': False, 'value': '{"referrer":"","href":"https://www.norvine.de/"}'}, {'domain': 'www.norvine.de', 'expiry': 1645638193, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644428593'}, {'domain': 'www.norvine.de', 'expiry': 1644432192, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.norvine.de', 'expiry': 1645638191, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.norvine.de', 'expiry': 1645638192, 'httpOnly': False, 'name': '__cmpcccx32593', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'aBPUJ-PgAAAAwAXABgAA'}, {'domain': '.norvine.de', 'expiry': 1645638192, 'httpOnly': False, 'name': '__cmpconsentx32593', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'CPUHZtgPUHZtgAfJRBDECBCgAAAAAAAAAAigAAAAAAAA'}, {'domain': 'www.norvine.de', 'expiry': 1645638193, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '746232808e35e6a9e14909bc6df4334a'}, {'domain': '.norvine.de', 'expiry': 1675964591, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU1EVXlOalExWmpndE9EWXhZeTAwTTJNM0xXSXpPR010WkdGbE1URTVNelF3WXpBdw'}, {'domain': '.norvine.de', 'expiry': 1707500591, 'httpOnly': False, 'name': 'sc_is_visitor_unique', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'rx12545371.1644428592.20360D8D88674F5A79E89A68EBA55D86.1.1.1.1.1.1.1.1.1'}, {'domain': 'www.norvine.de', 'expiry': 1644514993, 'httpOnly': False, 'name': 'co2ok_impact', 'path': '/', 'secure': False, 'value': '370'}, {'domain': '.norvine.de', 'expiry': 1675964594, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bb8af7be-fb1c-4c56-92d5-5a2a6811eaa5'}, {'domain': 'www.norvine.de', 'expiry': 1645638193, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd72db0547348a1f1995005e365ad4da5'}, {'domain': '.norvine.de', 'expiry': 1644428651, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.norvine.de', 'expiry': 1644514991, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1651998151.1644428592'}, {'domain': '.norvine.de', 'expiry': 1644430391, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.norvine.de', 'expiry': 1675964594, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bb8af7be-fb1c-4c56-92d5-5a2a6811eaa5'}, {'domain': '.norvine.de', 'expiry': 1644430394, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '83485359-1405-47fa-9348-917f7e0fd509'}, {'domain': 'www.norvine.de', 'expiry': 1645638194, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.norvine.de', 'expiry': 1644430394, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '83485359-1405-47fa-9348-917f7e0fd509'}, {'domain': '.norvine.de', 'expiry': 1645638191, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.norvine.de', 'expiry': 1675964594, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.www.norvine.de', 'expiry': 1660084993, 'httpOnly': False, 'name': 'sib_cuid', 'path': '/', 'secure': False, 'value': '5298d829-87a8-42df-8866-0588bd4689b3'}, {'domain': '.norvine.de', 'expiry': 1644430391, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A43%3A11.628Z'}, {'domain': '.norvine.de', 'expiry': 1652204591, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.278628994.1644428592'}, {'domain': 'www.norvine.de', 'expiry': 1645638194, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.norvine.de', 'expiry': 1707500591, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.231535756.1644428592'}, {'domain': 'www.norvine.de', 'expiry': 1645638193, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A2'}, {'domain': 'www.norvine.de', 'expiry': 1645638191, 'httpOnly': True, 'name': 'keep_alive', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '83485359-1405-47fa-9348-917f7e0fd509'}]
+[After] Cookie-Name 1: co2ok_surcharge
+[After] Cookie-Name 2: locale_bar_accepted
+[After] Cookie-Name 3: _ama
+[After] Cookie-Name 4: cbuid_meta
+[After] Cookie-Name 5: cart_ts
+[After] Cookie-Name 6: shopify_pay_redirect
+[After] Cookie-Name 7: _orig_referrer
+[After] Cookie-Name 8: __cmpcccx32593
+[After] Cookie-Name 9: __cmpconsentx32593
+[After] Cookie-Name 10: cart_sig
+[After] Cookie-Name 11: _pin_unauth
+[After] Cookie-Name 12: sc_is_visitor_unique
+[After] Cookie-Name 13: co2ok_impact
+[After] Cookie-Name 14: _y
+[After] Cookie-Name 15: cart
+[After] Cookie-Name 16: _gat
+[After] Cookie-Name 17: _gid
+[After] Cookie-Name 18: _shopify_sa_p
+[After] Cookie-Name 19: _shopify_y
+[After] Cookie-Name 20: _shopify_s
+[After] Cookie-Name 21: cart_currency
+[After] Cookie-Name 22: _s
+[After] Cookie-Name 23: _landing_page
+[After] Cookie-Name 24: secure_customer_sig
+[After] Cookie-Name 25: sib_cuid
+[After] Cookie-Name 26: _shopify_sa_t
+[After] Cookie-Name 27: _gcl_au
+[After] Cookie-Name 28: localization
+[After] Cookie-Name 29: _ga
+[After] Cookie-Name 30: cart_ver
+[After] Cookie-Name 31: keep_alive
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

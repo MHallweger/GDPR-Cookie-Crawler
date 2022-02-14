@@ -1,0 +1,95 @@
+Website 160: http://www.happybrush.de/ | Created: 10.02.2022 12:59:30 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 13
+[Before] Website-Cookies: [{'domain': '.happybrush.de', 'expiry': 1644580765, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1256727860.1644494365'}, {'domain': '.happybrush.de', 'expiry': 1676030359, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e69ae7f8-06c5-4845-9c91-36dbafc963bb'}, {'domain': '.happybrush.de', 'expiry': 1644496165, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.happybrush.de', 'expiry': 1644496158, 'httpOnly': False, 'name': '_shopify_country', 'path': '/', 'secure': False, 'value': 'Germany'}, {'domain': '.happybrush.de', 'expiry': 1676030359, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e69ae7f8-06c5-4845-9c91-36dbafc963bb'}, {'domain': '.happybrush.de', 'expiry': 1645703958, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.happybrush.de', 'expiry': 1645703958, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.happybrush.de', 'expiry': 1644496165, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T11%3A59%3A25.125Z'}, {'domain': '.happybrush.de', 'expiry': 1644496165, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '54e356ad-8703-4205-81ef-a8c7605f8b92'}, {'domain': '.happybrush.de', 'expiry': 1707566365, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.2115719638.1644494365'}, {'domain': '.happybrush.de', 'expiry': 1644496165, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '54e356ad-8703-4205-81ef-a8c7605f8b92'}, {'domain': 'www.happybrush.de', 'expiry': 1645703959, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.happybrush.de', 'expiry': 1676030359, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _gid
+[Before] Cookie-Name 2: _y
+[Before] Cookie-Name 3: _shopify_sa_p
+[Before] Cookie-Name 4: _shopify_country
+[Before] Cookie-Name 5: _shopify_y
+[Before] Cookie-Name 6: _orig_referrer
+[Before] Cookie-Name 7: _landing_page
+[Before] Cookie-Name 8: _shopify_sa_t
+[Before] Cookie-Name 9: _shopify_s
+[Before] Cookie-Name 10: _ga
+[Before] Cookie-Name 11: _s
+[Before] Cookie-Name 12: cart_currency
+[Before] Cookie-Name 13: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 33
+[After] Website-Cookies: [{'domain': '.happybrush.de', 'expiry': 1644496176, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': 'www.happybrush.de', 'expiry': 1644494496, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.happybrush.de', 'expiry': 1644496176, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.happybrush.de', 'expiry': 1676030376, 'httpOnly': False, 'name': '_hjSessionUser_2548162', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImI0NDJlZWMyLTMxNzMtNWZmMy04MTQ2LWQzNjRjYmRmZDM4NyIsImNyZWF0ZWQiOjE2NDQ0OTQzNzU5ODQsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': 'www.happybrush.de', 'expiry': 1644494496, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.happybrush.de', 'expiry': 1707566375, 'httpOnly': False, 'name': '_bb_t', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '%5B%5D'}, {'domain': '.happybrush.de', 'expiry': 1652270376, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644494375751.219479144'}, {'domain': 'www.happybrush.de', 'httpOnly': False, 'name': 'cto_bundle', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0CSYzF9RSDE0allCbmN5Q0Z6bFY1bDRBbVNzVUR0UCUyQk1RNXVySjFwNG5XcUptcmVkSWYxUlpCYVVGZXJXbVVHZk9nJTJCMTRLdDV1Yml5eXFONVNEUk5lTThGcDFCQ3F5R09RTHNLMkVjWExKV2pQJTJCMmJSSHBJQXF1NnRZOXBKV3RUSyUyQmpIRTNKJTJGQzJZdyUyRkhvQllEWmF5dmpJTVElM0QlM0Q'}, {'domain': 'www.happybrush.de', 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.happybrush.de', 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e0aca8e08a6811eca20c5f0c32a525e8'}, {'domain': 'www.happybrush.de', 'httpOnly': False, 'name': '_pk_id.530.d6f2', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '99e3ec29d716678b.1644494359.1.1644494359.1644494359.'}, {'domain': 'www.happybrush.de', 'httpOnly': False, 'name': '_pk_ses.530.d6f2', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.happybrush.de', 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0OTQzNjQsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LmhhcHB5YnJ1c2guZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NDk0MzY0LCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL3d3dy5oYXBweWJydXNoLmRlLyJ9fQ=='}, {'domain': '.happybrush.de', 'expiry': 1707566375, 'httpOnly': False, 'name': '_bb', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '6204fe279c93994b2fa08230'}, {'domain': 'www.happybrush.de', 'expiry': 1644580775, 'httpOnly': False, 'name': '_gat', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.happybrush.de', 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e0ac91308a6811ecb1a713e41d8a12cc'}, {'domain': '.happybrush.de', 'expiry': 1676030359, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e69ae7f8-06c5-4845-9c91-36dbafc963bb'}, {'domain': 'www.happybrush.de', 'httpOnly': False, 'name': '_clck', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1d1yz5b|1|eyv|0'}, {'domain': '.happybrush.de', 'expiry': 1644580765, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1256727860.1644494365'}, {'domain': '.happybrush.de', 'expiry': 1644496175, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '54e356ad-8703-4205-81ef-a8c7605f8b92'}, {'domain': '.happybrush.de', 'expiry': 1707566365, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.2115719638.1644494365'}, {'domain': 'www.happybrush.de', 'expiry': 1647086375, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0NDk0Mzc1NjA4LCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjowfX0='}, {'domain': '.happybrush.de', 'expiry': 1676030359, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e69ae7f8-06c5-4845-9c91-36dbafc963bb'}, {'domain': '.happybrush.de', 'expiry': 1644496175, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T11%3A59%3A35.640Z'}, {'domain': '.happybrush.de', 'expiry': 1644496175, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.happybrush.de', 'expiry': 1676030359, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'www.happybrush.de', 'expiry': 1644496158, 'httpOnly': False, 'name': '_shopify_country', 'path': '/', 'secure': False, 'value': 'Germany'}, {'domain': '.happybrush.de', 'expiry': 1645703958, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.happybrush.de', 'expiry': 1644496176, 'httpOnly': False, 'name': '_hjSession_2548162', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjY1ZDFmZGVhLTlkODYtNDlhNy1hYzNhLWU3NTZjMDM0OGRiNCIsImNyZWF0ZWQiOjE2NDQ0OTQzNzYwMTMsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': 'www.happybrush.de', 'httpOnly': False, 'name': '_clsk', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2y98r0|1644494359924|1|1|i.clarity.ms/collect'}, {'domain': '.happybrush.de', 'expiry': 1645703958, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.happybrush.de', 'expiry': 1644496175, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '54e356ad-8703-4205-81ef-a8c7605f8b92'}, {'domain': 'www.happybrush.de', 'expiry': 1645703959, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}]
+[After] Cookie-Name 1: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 2: _hjIncludedInSessionSample
+[After] Cookie-Name 3: _hjFirstSeen
+[After] Cookie-Name 4: _hjSessionUser_2548162
+[After] Cookie-Name 5: _hjIncludedInPageviewSample
+[After] Cookie-Name 6: _bb_t
+[After] Cookie-Name 7: _fbp
+[After] Cookie-Name 8: cto_bundle
+[After] Cookie-Name 9: localization
+[After] Cookie-Name 10: _uetvid
+[After] Cookie-Name 11: _pk_id.530.d6f2
+[After] Cookie-Name 12: _pk_ses.530.d6f2
+[After] Cookie-Name 13: __kla_id
+[After] Cookie-Name 14: _bb
+[After] Cookie-Name 15: _gat
+[After] Cookie-Name 16: _uetsid
+[After] Cookie-Name 17: _shopify_y
+[After] Cookie-Name 18: _clck
+[After] Cookie-Name 19: _gid
+[After] Cookie-Name 20: _s
+[After] Cookie-Name 21: _ga
+[After] Cookie-Name 22: _bc_c_set
+[After] Cookie-Name 23: _y
+[After] Cookie-Name 24: _shopify_sa_t
+[After] Cookie-Name 25: _shopify_sa_p
+[After] Cookie-Name 26: secure_customer_sig
+[After] Cookie-Name 27: _shopify_country
+[After] Cookie-Name 28: _orig_referrer
+[After] Cookie-Name 29: _hjSession_2548162
+[After] Cookie-Name 30: _clsk
+[After] Cookie-Name 31: _landing_page
+[After] Cookie-Name 32: _shopify_s
+[After] Cookie-Name 33: cart_currency
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 20
+[Difference] Cookie-Name: 1: _bc_c_set
+[Difference] Cookie-Name: 2: _hjAbsoluteSessionInProgress
+[Difference] Cookie-Name: 3: _hjSession_2548162
+[Difference] Cookie-Name: 4: _uetvid
+[Difference] Cookie-Name: 5: __kla_id
+[Difference] Cookie-Name: 6: _hjSessionUser_2548162
+[Difference] Cookie-Name: 7: _pk_ses.530.d6f2
+[Difference] Cookie-Name: 8: _fbp
+[Difference] Cookie-Name: 9: _gat
+[Difference] Cookie-Name: 10: _clck
+[Difference] Cookie-Name: 11: localization
+[Difference] Cookie-Name: 12: _bb_t
+[Difference] Cookie-Name: 13: cto_bundle
+[Difference] Cookie-Name: 14: _pk_id.530.d6f2
+[Difference] Cookie-Name: 15: _bb
+[Difference] Cookie-Name: 16: _hjIncludedInSessionSample
+[Difference] Cookie-Name: 17: _hjFirstSeen
+[Difference] Cookie-Name: 18: _clsk
+[Difference] Cookie-Name: 19: _uetsid
+[Difference] Cookie-Name: 20: _hjIncludedInPageviewSample
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

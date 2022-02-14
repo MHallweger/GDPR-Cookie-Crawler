@@ -1,0 +1,97 @@
+Website 34: http://www.highlash.de/ | Created: 10.02.2022 20:08:19 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 31
+[Before] Website-Cookies: [{'domain': 'highlash.de', 'expiry': 1959880090, 'httpOnly': False, 'name': 'octane%2Fshopify%2Fuid', 'path': '/', 'secure': False, 'value': '7f541fc530f11e9804cf948a9472594802d2b3a40115dd5940ef3d7a4a8356e16b5f003306676721065deb6bd732fb5f1d9705f0ca854725f7e5ef29'}, {'domain': 'highlash.de', 'expiry': 1707592090, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ1MjAwOTEsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vaGlnaGxhc2guZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NTIwMDkxLCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL2hpZ2hsYXNoLmRlLyJ9fQ=='}, {'domain': '.highlash.de', 'expiry': 1652296090, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644520090441.942002805'}, {'domain': '.highlash.de', 'expiry': 1678706788, 'httpOnly': False, 'name': '_scid', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '8434f55d-afb8-487c-89e9-2947636451bb'}, {'domain': 'highlash.de', 'expiry': 1644523690, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.highlash.de', 'expiry': 1644520150, 'httpOnly': False, 'name': '_gat_UA-147153540-13', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.highlash.de', 'expiry': 1707592090, 'httpOnly': False, 'name': '_ga_1RE31RHG99', 'path': '/', 'secure': False, 'value': 'GS1.1.1644520089.1.0.1644520089.0'}, {'domain': 'highlash.de', 'expiry': 1645729690, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'highlash.de', 'expiry': 1676056090, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.highlash.de', 'expiry': 1644521890, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.highlash.de', 'expiry': 1644520150, 'httpOnly': False, 'name': '_gat_UA-147153540-7', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.highlash.de', 'expiry': 1676056089, 'httpOnly': False, 'name': '_gcd', 'path': '/', 'secure': False, 'value': 'd4c43360-f33c-417f-9ad1-e0a4876dfa10'}, {'domain': '.highlash.de', 'expiry': 1644606490, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1290125784.1644520090'}, {'domain': '.highlash.de', 'expiry': 1676056089, 'httpOnly': False, 'name': 'egos_mfsbrands', 'path': '/', 'secure': False, 'value': 'es40599xqkzhcsu68.164457534699'}, {'domain': '.highlash.de', 'expiry': 1676056089, 'httpOnly': False, 'name': 'egou', 'path': '/', 'secure': False, 'value': 'eu40599xqkyq9qv1r.164290792730'}, {'domain': 'highlash.de', 'expiry': 1645729690, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8a4107e5294770ab1e2f6fe1917ab55f'}, {'domain': '.highlash.de', 'expiry': 1676056090, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b2a7c5e9-701a-4393-8e89-f66c4a09bcb2'}, {'domain': '.highlash.de', 'expiry': 1652296089, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1101952963.1644520090'}, {'domain': '.highlash.de', 'expiry': 1676056089, 'httpOnly': False, 'name': 'egod_mfsbrands', 'path': '/', 'secure': False, 'value': 'ed40599xqkyq9qv26.164293792773'}, {'domain': '.highlash.de', 'expiry': 1676056090, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b2a7c5e9-701a-4393-8e89-f66c4a09bcb2'}, {'domain': '.highlash.de', 'expiry': 1644521890, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T19%3A08%3A10.295Z'}, {'domain': 'highlash.de', 'expiry': 1645729690, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644520090'}, {'domain': '.highlash.de', 'expiry': 1644521890, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c2b00e4e-4df4-4a6a-8f86-4ae6e400c86b'}, {'domain': '.highlash.de', 'expiry': 1645729688, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'highlash.de', 'expiry': 1645729690, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '213d0c4df445bbfefc1023df2a201a4c'}, {'domain': '.highlash.de', 'expiry': 1645729688, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'highlash.de', 'expiry': 1645729690, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A2'}, {'domain': '.highlash.de', 'expiry': 1644521890, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c2b00e4e-4df4-4a6a-8f86-4ae6e400c86b'}, {'domain': '.highlash.de', 'expiry': 1707592090, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1420145042.1644520090'}, {'domain': 'highlash.de', 'expiry': 1645729690, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.highlash.de', 'expiry': 1677352089, 'httpOnly': False, 'name': 'kameleoonVisitorCode', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '_js_76gozp6qj0joxcja'}]
+[Before] Cookie-Name 1: octane%2Fshopify%2Fuid
+[Before] Cookie-Name 2: __kla_id
+[Before] Cookie-Name 3: _fbp
+[Before] Cookie-Name 4: _scid
+[Before] Cookie-Name 5: shopify_pay_redirect
+[Before] Cookie-Name 6: _gat_UA-147153540-13
+[Before] Cookie-Name 7: _ga_1RE31RHG99
+[Before] Cookie-Name 8: localization
+[Before] Cookie-Name 9: secure_customer_sig
+[Before] Cookie-Name 10: _shopify_sa_p
+[Before] Cookie-Name 11: _gat_UA-147153540-7
+[Before] Cookie-Name 12: _gcd
+[Before] Cookie-Name 13: _gid
+[Before] Cookie-Name 14: egos_mfsbrands
+[Before] Cookie-Name 15: egou
+[Before] Cookie-Name 16: cart
+[Before] Cookie-Name 17: _y
+[Before] Cookie-Name 18: _gcl_au
+[Before] Cookie-Name 19: egod_mfsbrands
+[Before] Cookie-Name 20: _shopify_y
+[Before] Cookie-Name 21: _shopify_sa_t
+[Before] Cookie-Name 22: cart_ts
+[Before] Cookie-Name 23: _s
+[Before] Cookie-Name 24: _orig_referrer
+[Before] Cookie-Name 25: cart_sig
+[Before] Cookie-Name 26: _landing_page
+[Before] Cookie-Name 27: cart_ver
+[Before] Cookie-Name 28: _shopify_s
+[Before] Cookie-Name 29: _ga
+[Before] Cookie-Name 30: cart_currency
+[Before] Cookie-Name 31: kameleoonVisitorCode
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 31
+[After] Website-Cookies: [{'domain': 'highlash.de', 'expiry': 1959880090, 'httpOnly': False, 'name': 'octane%2Fshopify%2Fuid', 'path': '/', 'secure': False, 'value': '7f541fc530f11e9804cf948a9472594802d2b3a40115dd5940ef3d7a4a8356e16b5f003306676721065deb6bd732fb5f1d9705f0ca854725f7e5ef29'}, {'domain': 'highlash.de', 'expiry': 1707592090, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ1MjAwOTEsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vaGlnaGxhc2guZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NTIwMDkxLCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL2hpZ2hsYXNoLmRlLyJ9fQ=='}, {'domain': '.highlash.de', 'expiry': 1652296090, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644520090441.942002805'}, {'domain': '.highlash.de', 'expiry': 1678706788, 'httpOnly': False, 'name': '_scid', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '8434f55d-afb8-487c-89e9-2947636451bb'}, {'domain': 'highlash.de', 'expiry': 1644523690, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.highlash.de', 'expiry': 1644520150, 'httpOnly': False, 'name': '_gat_UA-147153540-13', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.highlash.de', 'expiry': 1707592090, 'httpOnly': False, 'name': '_ga_1RE31RHG99', 'path': '/', 'secure': False, 'value': 'GS1.1.1644520089.1.0.1644520089.0'}, {'domain': 'highlash.de', 'expiry': 1645729690, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'highlash.de', 'expiry': 1676056090, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.highlash.de', 'expiry': 1644521890, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.highlash.de', 'expiry': 1644520150, 'httpOnly': False, 'name': '_gat_UA-147153540-7', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.highlash.de', 'expiry': 1676056089, 'httpOnly': False, 'name': '_gcd', 'path': '/', 'secure': False, 'value': 'd4c43360-f33c-417f-9ad1-e0a4876dfa10'}, {'domain': '.highlash.de', 'expiry': 1644606490, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1290125784.1644520090'}, {'domain': '.highlash.de', 'expiry': 1676056089, 'httpOnly': False, 'name': 'egos_mfsbrands', 'path': '/', 'secure': False, 'value': 'es40599xqkzhcsu68.164457534699'}, {'domain': '.highlash.de', 'expiry': 1676056089, 'httpOnly': False, 'name': 'egou', 'path': '/', 'secure': False, 'value': 'eu40599xqkyq9qv1r.164290792730'}, {'domain': 'highlash.de', 'expiry': 1645729690, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8a4107e5294770ab1e2f6fe1917ab55f'}, {'domain': '.highlash.de', 'expiry': 1676056090, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b2a7c5e9-701a-4393-8e89-f66c4a09bcb2'}, {'domain': '.highlash.de', 'expiry': 1652296089, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1101952963.1644520090'}, {'domain': '.highlash.de', 'expiry': 1676056089, 'httpOnly': False, 'name': 'egod_mfsbrands', 'path': '/', 'secure': False, 'value': 'ed40599xqkyq9qv26.164293792773'}, {'domain': '.highlash.de', 'expiry': 1676056090, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b2a7c5e9-701a-4393-8e89-f66c4a09bcb2'}, {'domain': '.highlash.de', 'expiry': 1644521890, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T19%3A08%3A10.295Z'}, {'domain': 'highlash.de', 'expiry': 1645729690, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644520090'}, {'domain': '.highlash.de', 'expiry': 1644521890, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c2b00e4e-4df4-4a6a-8f86-4ae6e400c86b'}, {'domain': '.highlash.de', 'expiry': 1645729688, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'highlash.de', 'expiry': 1645729690, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '213d0c4df445bbfefc1023df2a201a4c'}, {'domain': '.highlash.de', 'expiry': 1645729688, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'highlash.de', 'expiry': 1645729690, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A2'}, {'domain': '.highlash.de', 'expiry': 1644521890, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c2b00e4e-4df4-4a6a-8f86-4ae6e400c86b'}, {'domain': '.highlash.de', 'expiry': 1707592090, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1420145042.1644520090'}, {'domain': 'highlash.de', 'expiry': 1645729690, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.highlash.de', 'expiry': 1677352089, 'httpOnly': False, 'name': 'kameleoonVisitorCode', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '_js_76gozp6qj0joxcja'}]
+[After] Cookie-Name 1: octane%2Fshopify%2Fuid
+[After] Cookie-Name 2: __kla_id
+[After] Cookie-Name 3: _fbp
+[After] Cookie-Name 4: _scid
+[After] Cookie-Name 5: shopify_pay_redirect
+[After] Cookie-Name 6: _gat_UA-147153540-13
+[After] Cookie-Name 7: _ga_1RE31RHG99
+[After] Cookie-Name 8: localization
+[After] Cookie-Name 9: secure_customer_sig
+[After] Cookie-Name 10: _shopify_sa_p
+[After] Cookie-Name 11: _gat_UA-147153540-7
+[After] Cookie-Name 12: _gcd
+[After] Cookie-Name 13: _gid
+[After] Cookie-Name 14: egos_mfsbrands
+[After] Cookie-Name 15: egou
+[After] Cookie-Name 16: cart
+[After] Cookie-Name 17: _y
+[After] Cookie-Name 18: _gcl_au
+[After] Cookie-Name 19: egod_mfsbrands
+[After] Cookie-Name 20: _shopify_y
+[After] Cookie-Name 21: _shopify_sa_t
+[After] Cookie-Name 22: cart_ts
+[After] Cookie-Name 23: _s
+[After] Cookie-Name 24: _orig_referrer
+[After] Cookie-Name 25: cart_sig
+[After] Cookie-Name 26: _landing_page
+[After] Cookie-Name 27: cart_ver
+[After] Cookie-Name 28: _shopify_s
+[After] Cookie-Name 29: _ga
+[After] Cookie-Name 30: cart_currency
+[After] Cookie-Name 31: kameleoonVisitorCode
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

@@ -1,0 +1,69 @@
+Website 3: http://www.haushaltskammer.de/ | Created: 09.02.2022 17:05:41 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 18
+[Before] Website-Cookies: [{'domain': 'haushaltskammer.myshopify.com', 'expiry': 1645632333, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd8405694fa252539aec9ee1f9c214a51'}, {'domain': 'haushaltskammer.myshopify.com', 'expiry': 1645632333, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'haushaltskammer.myshopify.com', 'expiry': 1645632333, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': 'haushaltskammer.myshopify.com', 'expiry': 1645632333, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644422733'}, {'domain': '.haushaltskammer.myshopify.com', 'expiry': 1644422791, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'haushaltskammer.myshopify.com', 'expiry': 1645632333, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd205968532da7b0d66e32d44bfa57970'}, {'domain': '.haushaltskammer.myshopify.com', 'expiry': 1644509131, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.3.1380278348.1644422731'}, {'domain': 'haushaltskammer.myshopify.com', 'expiry': 1645632333, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.haushaltskammer.myshopify.com', 'expiry': 1707494731, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.3.572430016.1644422731'}, {'domain': '.haushaltskammer.myshopify.com', 'expiry': 1644424531, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T16%3A05%3A31.195Z'}, {'domain': '.haushaltskammer.myshopify.com', 'expiry': 1675958734, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5a4f6168-edf8-4390-8a8d-18a6dc392e50'}, {'domain': '.haushaltskammer.myshopify.com', 'expiry': 1644424534, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0f04c4f7-9e1b-4edf-b72f-ee36089a4423'}, {'domain': '.haushaltskammer.myshopify.com', 'expiry': 1644424531, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'haushaltskammer.myshopify.com', 'expiry': 1675958734, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.haushaltskammer.myshopify.com', 'expiry': 1645632331, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.haushaltskammer.myshopify.com', 'expiry': 1675958734, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5a4f6168-edf8-4390-8a8d-18a6dc392e50'}, {'domain': '.haushaltskammer.myshopify.com', 'expiry': 1644424534, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0f04c4f7-9e1b-4edf-b72f-ee36089a4423'}, {'domain': '.haushaltskammer.myshopify.com', 'expiry': 1645632331, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}]
+[Before] Cookie-Name 1: cart_sig
+[Before] Cookie-Name 2: localization
+[Before] Cookie-Name 3: cart_ver
+[Before] Cookie-Name 4: cart_ts
+[Before] Cookie-Name 5: _gat
+[Before] Cookie-Name 6: cart
+[Before] Cookie-Name 7: _gid
+[Before] Cookie-Name 8: cart_currency
+[Before] Cookie-Name 9: _ga
+[Before] Cookie-Name 10: _shopify_sa_t
+[Before] Cookie-Name 11: _shopify_y
+[Before] Cookie-Name 12: _s
+[Before] Cookie-Name 13: _shopify_sa_p
+[Before] Cookie-Name 14: secure_customer_sig
+[Before] Cookie-Name 15: _orig_referrer
+[Before] Cookie-Name 16: _y
+[Before] Cookie-Name 17: _shopify_s
+[Before] Cookie-Name 18: _landing_page
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 18
+[After] Website-Cookies: [{'domain': 'haushaltskammer.myshopify.com', 'expiry': 1645632333, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd8405694fa252539aec9ee1f9c214a51'}, {'domain': 'haushaltskammer.myshopify.com', 'expiry': 1645632333, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'haushaltskammer.myshopify.com', 'expiry': 1645632333, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': 'haushaltskammer.myshopify.com', 'expiry': 1645632333, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644422733'}, {'domain': '.haushaltskammer.myshopify.com', 'expiry': 1644422791, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'haushaltskammer.myshopify.com', 'expiry': 1645632333, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd205968532da7b0d66e32d44bfa57970'}, {'domain': '.haushaltskammer.myshopify.com', 'expiry': 1644509131, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.3.1380278348.1644422731'}, {'domain': 'haushaltskammer.myshopify.com', 'expiry': 1645632333, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.haushaltskammer.myshopify.com', 'expiry': 1707494731, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.3.572430016.1644422731'}, {'domain': '.haushaltskammer.myshopify.com', 'expiry': 1644424531, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T16%3A05%3A31.195Z'}, {'domain': '.haushaltskammer.myshopify.com', 'expiry': 1675958734, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5a4f6168-edf8-4390-8a8d-18a6dc392e50'}, {'domain': '.haushaltskammer.myshopify.com', 'expiry': 1644424534, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0f04c4f7-9e1b-4edf-b72f-ee36089a4423'}, {'domain': '.haushaltskammer.myshopify.com', 'expiry': 1644424531, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'haushaltskammer.myshopify.com', 'expiry': 1675958734, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.haushaltskammer.myshopify.com', 'expiry': 1645632331, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.haushaltskammer.myshopify.com', 'expiry': 1675958734, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5a4f6168-edf8-4390-8a8d-18a6dc392e50'}, {'domain': '.haushaltskammer.myshopify.com', 'expiry': 1644424534, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0f04c4f7-9e1b-4edf-b72f-ee36089a4423'}, {'domain': '.haushaltskammer.myshopify.com', 'expiry': 1645632331, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}]
+[After] Cookie-Name 1: cart_sig
+[After] Cookie-Name 2: localization
+[After] Cookie-Name 3: cart_ver
+[After] Cookie-Name 4: cart_ts
+[After] Cookie-Name 5: _gat
+[After] Cookie-Name 6: cart
+[After] Cookie-Name 7: _gid
+[After] Cookie-Name 8: cart_currency
+[After] Cookie-Name 9: _ga
+[After] Cookie-Name 10: _shopify_sa_t
+[After] Cookie-Name 11: _shopify_y
+[After] Cookie-Name 12: _s
+[After] Cookie-Name 13: _shopify_sa_p
+[After] Cookie-Name 14: secure_customer_sig
+[After] Cookie-Name 15: _orig_referrer
+[After] Cookie-Name 16: _y
+[After] Cookie-Name 17: _shopify_s
+[After] Cookie-Name 18: _landing_page
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

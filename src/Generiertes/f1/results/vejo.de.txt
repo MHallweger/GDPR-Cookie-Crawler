@@ -1,0 +1,90 @@
+Website 30: http://www.vejo.de/ | Created: 08.02.2022 21:48:32 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 29
+[Before] Website-Cookies: [{'domain': '.vejo.de', 'expiry': 1675889303, 'httpOnly': False, 'name': '__zlcmid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '18RkgyWWhaPkzhj'}, {'domain': '.vejo.de', 'expiry': 1675889303, 'httpOnly': False, 'name': '_privy_5FDE66EDB3AF3A503DCF5936', 'path': '/', 'secure': False, 'value': '%7B%22uuid%22%3A%2280b43afa-03cc-438d-ba54-69d01dfe6e39%22%7D'}, {'domain': 'vejo.de', 'expiry': 1645562901, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A2'}, {'domain': 'vejo.de', 'expiry': 1645562901, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '586a5e1233d7a2b44ef8605b816ffcb2'}, {'domain': 'vejo.de', 'expiry': 1645562901, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'vejo.de', 'expiry': 1645562901, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644353302'}, {'domain': '.vejo.de', 'expiry': 1644353356, 'httpOnly': False, 'name': '_gat_UA-149333195-1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'vejo.de', 'expiry': 1645562901, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '610d6622cc3d4acdd9066e155ad56f21'}, {'domain': '.vejo.de', 'expiry': 1644355109, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.vejo.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T20%3A48%3A22.262Z'}, {'domain': '.vejo.de', 'expiry': 1644439696, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1029955089.1644353297'}, {'domain': '.vejo.de', 'expiry': 1644353356, 'httpOnly': False, 'name': '_gat_UA-149333195-2', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.vejo.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T20%3A48%3A22.376Z'}, {'domain': '.vejo.de', 'expiry': 1707425296, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1472967986.1644353297'}, {'domain': 'vejo.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.vejo.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.vejo.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'vejo.de', 'expiry': 1675889309, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.vejo.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.vejo.de', 'expiry': 1675889296, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.vejo.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'aed14dab-16d3-46d3-894e-c0c67e4148b3'}, {'domain': '.vejo.de', 'expiry': 1645562896, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'vejo.de', 'expiry': 1707425297, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQzNTMyOTgsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vdmVqby5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQzNTMyOTgsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vdmVqby5kZS8ifX0='}, {'domain': '.vejo.de', 'expiry': 1675889296, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%7D'}, {'domain': '.vejo.de', 'expiry': 1678481302, 'httpOnly': False, 'name': 'cjConsent', 'path': '/', 'secure': True, 'value': 'MHxZfDB8Tnww'}, {'domain': '.vejo.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '013b50ca-29ac-4423-9a04-a499a9a6d056'}, {'domain': '.vejo.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'aed14dab-16d3-46d3-894e-c0c67e4148b3'}, {'domain': '.vejo.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '013b50ca-29ac-4423-9a04-a499a9a6d056'}, {'domain': '.vejo.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[Before] Cookie-Name 1: __zlcmid
+[Before] Cookie-Name 2: _privy_5FDE66EDB3AF3A503DCF5936
+[Before] Cookie-Name 3: cart_ver
+[Before] Cookie-Name 4: cart_sig
+[Before] Cookie-Name 5: localization
+[Before] Cookie-Name 6: cart_ts
+[Before] Cookie-Name 7: _gat_UA-149333195-1
+[Before] Cookie-Name 8: cart
+[Before] Cookie-Name 9: _shopify_tm
+[Before] Cookie-Name 10: _shopify_d
+[Before] Cookie-Name 11: _gid
+[Before] Cookie-Name 12: _gat_UA-149333195-2
+[Before] Cookie-Name 13: _shopify_sa_t
+[Before] Cookie-Name 14: _ga
+[Before] Cookie-Name 15: _shopify_evids
+[Before] Cookie-Name 16: _shopify_evids
+[Before] Cookie-Name 17: _landing_page
+[Before] Cookie-Name 18: secure_customer_sig
+[Before] Cookie-Name 19: _shopify_sa_p
+[Before] Cookie-Name 20: _shopify_m
+[Before] Cookie-Name 21: _shopify_s
+[Before] Cookie-Name 22: _shopify_tw
+[Before] Cookie-Name 23: __kla_id
+[Before] Cookie-Name 24: _tracking_consent
+[Before] Cookie-Name 25: cjConsent
+[Before] Cookie-Name 26: _y
+[Before] Cookie-Name 27: _s
+[Before] Cookie-Name 28: _shopify_y
+[Before] Cookie-Name 29: _orig_referrer
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 30
+[After] Website-Cookies: [{'domain': 'vejo.de', 'expiry': 1675457317, 'httpOnly': False, 'name': 'cookiefirst-consent', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '%7B%22necessary%22%3Atrue%2C%22functional%22%3Atrue%2C%22performance%22%3Atrue%2C%22advertising%22%3Atrue%2C%22timestamp%22%3A1644353317%7D'}, {'domain': '.vejo.de', 'expiry': 1675889303, 'httpOnly': False, 'name': '__zlcmid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '18RkgyWWhaPkzhj'}, {'domain': '.vejo.de', 'expiry': 1675889303, 'httpOnly': False, 'name': '_privy_5FDE66EDB3AF3A503DCF5936', 'path': '/', 'secure': False, 'value': '%7B%22uuid%22%3A%2280b43afa-03cc-438d-ba54-69d01dfe6e39%22%7D'}, {'domain': 'vejo.de', 'expiry': 1645562901, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A2'}, {'domain': 'vejo.de', 'expiry': 1645562901, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '586a5e1233d7a2b44ef8605b816ffcb2'}, {'domain': 'vejo.de', 'expiry': 1645562901, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'vejo.de', 'expiry': 1645562901, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644353302'}, {'domain': '.vejo.de', 'expiry': 1644353356, 'httpOnly': False, 'name': '_gat_UA-149333195-1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'vejo.de', 'expiry': 1645562901, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '610d6622cc3d4acdd9066e155ad56f21'}, {'domain': '.vejo.de', 'expiry': 1644355109, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.vejo.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T20%3A48%3A22.262Z'}, {'domain': '.vejo.de', 'expiry': 1644439696, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1029955089.1644353297'}, {'domain': '.vejo.de', 'expiry': 1644353356, 'httpOnly': False, 'name': '_gat_UA-149333195-2', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.vejo.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T20%3A48%3A22.376Z'}, {'domain': '.vejo.de', 'expiry': 1707425296, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1472967986.1644353297'}, {'domain': 'vejo.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.vejo.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.vejo.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'vejo.de', 'expiry': 1675889309, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.vejo.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.vejo.de', 'expiry': 1675889296, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.vejo.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'aed14dab-16d3-46d3-894e-c0c67e4148b3'}, {'domain': '.vejo.de', 'expiry': 1645562896, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'vejo.de', 'expiry': 1707425297, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQzNTMyOTgsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vdmVqby5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQzNTMyOTgsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vdmVqby5kZS8ifX0='}, {'domain': '.vejo.de', 'expiry': 1675889296, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%7D'}, {'domain': '.vejo.de', 'expiry': 1678481302, 'httpOnly': False, 'name': 'cjConsent', 'path': '/', 'secure': True, 'value': 'MHxZfDB8Tnww'}, {'domain': '.vejo.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '013b50ca-29ac-4423-9a04-a499a9a6d056'}, {'domain': '.vejo.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'aed14dab-16d3-46d3-894e-c0c67e4148b3'}, {'domain': '.vejo.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '013b50ca-29ac-4423-9a04-a499a9a6d056'}, {'domain': '.vejo.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: cookiefirst-consent
+[After] Cookie-Name 2: __zlcmid
+[After] Cookie-Name 3: _privy_5FDE66EDB3AF3A503DCF5936
+[After] Cookie-Name 4: cart_ver
+[After] Cookie-Name 5: cart_sig
+[After] Cookie-Name 6: localization
+[After] Cookie-Name 7: cart_ts
+[After] Cookie-Name 8: _gat_UA-149333195-1
+[After] Cookie-Name 9: cart
+[After] Cookie-Name 10: _shopify_tm
+[After] Cookie-Name 11: _shopify_d
+[After] Cookie-Name 12: _gid
+[After] Cookie-Name 13: _gat_UA-149333195-2
+[After] Cookie-Name 14: _shopify_sa_t
+[After] Cookie-Name 15: _ga
+[After] Cookie-Name 16: _shopify_evids
+[After] Cookie-Name 17: _shopify_evids
+[After] Cookie-Name 18: _landing_page
+[After] Cookie-Name 19: secure_customer_sig
+[After] Cookie-Name 20: _shopify_sa_p
+[After] Cookie-Name 21: _shopify_m
+[After] Cookie-Name 22: _shopify_s
+[After] Cookie-Name 23: _shopify_tw
+[After] Cookie-Name 24: __kla_id
+[After] Cookie-Name 25: _tracking_consent
+[After] Cookie-Name 26: cjConsent
+[After] Cookie-Name 27: _y
+[After] Cookie-Name 28: _s
+[After] Cookie-Name 29: _shopify_y
+[After] Cookie-Name 30: _orig_referrer
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: cookiefirst-consent
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

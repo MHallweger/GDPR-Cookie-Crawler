@@ -1,0 +1,91 @@
+Website 145: http://www.horaceandjasper.design/ | Created: 09.02.2022 17:49:57 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 28
+[Before] Website-Cookies: [{'domain': '.www.horaceandjasper.design', 'expiry': 1675961389, 'httpOnly': False, 'name': 'swym-email', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'null'}, {'domain': '.www.horaceandjasper.design', 'expiry': 1644427189, 'httpOnly': False, 'name': 'swym-o_s', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'true'}, {'domain': '.www.horaceandjasper.design', 'httpOnly': False, 'name': '_g1498222600', 'path': '/', 'secure': False, 'value': 'Q0FE'}, {'domain': 'www.horaceandjasper.design', 'httpOnly': False, 'name': 'fsb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': 'www.horaceandjasper.design', 'expiry': 1644427188, 'httpOnly': False, 'name': '__hssc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '58311093.1.1644425388494'}, {'domain': '.horaceandjasper.design', 'expiry': 1707497387, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.350564435.1644425387'}, {'domain': 'www.horaceandjasper.design', 'expiry': 1678121388, 'httpOnly': False, 'name': 'hubspotutk', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '765eab9160541da6b33ad4d54ea25e6a'}, {'domain': '.www.horaceandjasper.design', 'expiry': 1675961388, 'httpOnly': False, 'name': 'swym-pid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"1L0dyfQGstGmCUrHQuaUxrD9zzbzDfMFO39xLGpYY5A="'}, {'domain': 'www.horaceandjasper.design', 'expiry': 1644428987, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.www.horaceandjasper.design', 'expiry': 1644427189, 'httpOnly': False, 'name': 'swym-session-id', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"9vmq9y20bg8wbvauotlkfhaobskawdf77q4o9pnxwdlqskc31q6u7tnisp4xk623"'}, {'domain': '.horaceandjasper.design', 'expiry': 1644427189, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'aabe4859-77b2-45b9-843a-05ac186c0f8f'}, {'domain': '.horaceandjasper.design', 'expiry': 1644427187, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.horaceandjasper.design', 'expiry': 1644425447, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.horaceandjasper.design', 'httpOnly': False, 'name': '__hssrc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.horaceandjasper.design', 'expiry': 1644427189, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'aabe4859-77b2-45b9-843a-05ac186c0f8f'}, {'domain': '.www.horaceandjasper.design', 'expiry': 1675961389, 'httpOnly': False, 'name': 'swym-swymRegid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"S34TCug_pNelGqf3YZqTc3PTuw-kCaJEhvCQso5cIdZ0gBJ6Ga7QIJOpc8VksOSWWRqTKZcfIl9iKmtF8jsMQYTdm7coDV-aRZlvBlb3GV2QoI4YA8IkBugEshpDIxg3L1trhexh3HRGfx2i9mtoOY-2kAlGLlnUW5OPcIfL9S8"'}, {'domain': '.horaceandjasper.design', 'expiry': 1644511787, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.178485999.1644425387'}, {'domain': '.www.horaceandjasper.design', 'expiry': 1675961389, 'httpOnly': False, 'name': 'swym-cu_ct', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'undefined'}, {'domain': '.horaceandjasper.design', 'expiry': 1644427187, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T16%3A49%3A47.365Z'}, {'domain': 'www.horaceandjasper.design', 'expiry': 1675961389, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'www.horaceandjasper.design', 'expiry': 1678121388, 'httpOnly': False, 'name': '__hstc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '58311093.765eab9160541da6b33ad4d54ea25e6a.1644425388493.1644425388493.1644425388493.1'}, {'domain': '.horaceandjasper.design', 'expiry': 1652201388, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644425387640.27697837'}, {'domain': 'www.horaceandjasper.design', 'expiry': 1645634989, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'CA'}, {'domain': '.horaceandjasper.design', 'expiry': 1675961389, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '85f4f79c-0d79-412c-8762-5b61fc01831a'}, {'domain': '.horaceandjasper.design', 'expiry': 1675961389, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '85f4f79c-0d79-412c-8762-5b61fc01831a'}, {'domain': '.horaceandjasper.design', 'expiry': 1645634987, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.horaceandjasper.design', 'expiry': 1645634987, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.horaceandjasper.design', 'expiry': 1645634989, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'CAD'}]
+[Before] Cookie-Name 1: swym-email
+[Before] Cookie-Name 2: swym-o_s
+[Before] Cookie-Name 3: _g1498222600
+[Before] Cookie-Name 4: fsb_previous_pathname
+[Before] Cookie-Name 5: __hssc
+[Before] Cookie-Name 6: _ga
+[Before] Cookie-Name 7: hubspotutk
+[Before] Cookie-Name 8: swym-pid
+[Before] Cookie-Name 9: shopify_pay_redirect
+[Before] Cookie-Name 10: swym-session-id
+[Before] Cookie-Name 11: _shopify_s
+[Before] Cookie-Name 12: _shopify_sa_p
+[Before] Cookie-Name 13: _gat
+[Before] Cookie-Name 14: __hssrc
+[Before] Cookie-Name 15: _s
+[Before] Cookie-Name 16: swym-swymRegid
+[Before] Cookie-Name 17: _gid
+[Before] Cookie-Name 18: swym-cu_ct
+[Before] Cookie-Name 19: _shopify_sa_t
+[Before] Cookie-Name 20: secure_customer_sig
+[Before] Cookie-Name 21: __hstc
+[Before] Cookie-Name 22: _fbp
+[Before] Cookie-Name 23: localization
+[Before] Cookie-Name 24: _shopify_y
+[Before] Cookie-Name 25: _y
+[Before] Cookie-Name 26: _orig_referrer
+[Before] Cookie-Name 27: _landing_page
+[Before] Cookie-Name 28: cart_currency
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 28
+[After] Website-Cookies: [{'domain': '.www.horaceandjasper.design', 'expiry': 1675961389, 'httpOnly': False, 'name': 'swym-email', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'null'}, {'domain': '.www.horaceandjasper.design', 'expiry': 1644427189, 'httpOnly': False, 'name': 'swym-o_s', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'true'}, {'domain': '.www.horaceandjasper.design', 'httpOnly': False, 'name': '_g1498222600', 'path': '/', 'secure': False, 'value': 'Q0FE'}, {'domain': 'www.horaceandjasper.design', 'httpOnly': False, 'name': 'fsb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': 'www.horaceandjasper.design', 'expiry': 1644427188, 'httpOnly': False, 'name': '__hssc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '58311093.1.1644425388494'}, {'domain': '.horaceandjasper.design', 'expiry': 1707497387, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.350564435.1644425387'}, {'domain': 'www.horaceandjasper.design', 'expiry': 1678121388, 'httpOnly': False, 'name': 'hubspotutk', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '765eab9160541da6b33ad4d54ea25e6a'}, {'domain': '.www.horaceandjasper.design', 'expiry': 1675961388, 'httpOnly': False, 'name': 'swym-pid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"1L0dyfQGstGmCUrHQuaUxrD9zzbzDfMFO39xLGpYY5A="'}, {'domain': 'www.horaceandjasper.design', 'expiry': 1644428987, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.www.horaceandjasper.design', 'expiry': 1644427189, 'httpOnly': False, 'name': 'swym-session-id', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"9vmq9y20bg8wbvauotlkfhaobskawdf77q4o9pnxwdlqskc31q6u7tnisp4xk623"'}, {'domain': '.horaceandjasper.design', 'expiry': 1644427189, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'aabe4859-77b2-45b9-843a-05ac186c0f8f'}, {'domain': '.horaceandjasper.design', 'expiry': 1644427187, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.horaceandjasper.design', 'expiry': 1644425447, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.horaceandjasper.design', 'httpOnly': False, 'name': '__hssrc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.horaceandjasper.design', 'expiry': 1644427189, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'aabe4859-77b2-45b9-843a-05ac186c0f8f'}, {'domain': '.www.horaceandjasper.design', 'expiry': 1675961389, 'httpOnly': False, 'name': 'swym-swymRegid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"S34TCug_pNelGqf3YZqTc3PTuw-kCaJEhvCQso5cIdZ0gBJ6Ga7QIJOpc8VksOSWWRqTKZcfIl9iKmtF8jsMQYTdm7coDV-aRZlvBlb3GV2QoI4YA8IkBugEshpDIxg3L1trhexh3HRGfx2i9mtoOY-2kAlGLlnUW5OPcIfL9S8"'}, {'domain': '.horaceandjasper.design', 'expiry': 1644511787, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.178485999.1644425387'}, {'domain': '.www.horaceandjasper.design', 'expiry': 1675961389, 'httpOnly': False, 'name': 'swym-cu_ct', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'undefined'}, {'domain': '.horaceandjasper.design', 'expiry': 1644427187, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T16%3A49%3A47.365Z'}, {'domain': 'www.horaceandjasper.design', 'expiry': 1675961389, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'www.horaceandjasper.design', 'expiry': 1678121388, 'httpOnly': False, 'name': '__hstc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '58311093.765eab9160541da6b33ad4d54ea25e6a.1644425388493.1644425388493.1644425388493.1'}, {'domain': '.horaceandjasper.design', 'expiry': 1652201388, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644425387640.27697837'}, {'domain': 'www.horaceandjasper.design', 'expiry': 1645634989, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'CA'}, {'domain': '.horaceandjasper.design', 'expiry': 1675961389, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '85f4f79c-0d79-412c-8762-5b61fc01831a'}, {'domain': '.horaceandjasper.design', 'expiry': 1675961389, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '85f4f79c-0d79-412c-8762-5b61fc01831a'}, {'domain': '.horaceandjasper.design', 'expiry': 1645634987, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.horaceandjasper.design', 'expiry': 1645634987, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.horaceandjasper.design', 'expiry': 1645634989, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'CAD'}]
+[After] Cookie-Name 1: swym-email
+[After] Cookie-Name 2: swym-o_s
+[After] Cookie-Name 3: _g1498222600
+[After] Cookie-Name 4: fsb_previous_pathname
+[After] Cookie-Name 5: __hssc
+[After] Cookie-Name 6: _ga
+[After] Cookie-Name 7: hubspotutk
+[After] Cookie-Name 8: swym-pid
+[After] Cookie-Name 9: shopify_pay_redirect
+[After] Cookie-Name 10: swym-session-id
+[After] Cookie-Name 11: _shopify_s
+[After] Cookie-Name 12: _shopify_sa_p
+[After] Cookie-Name 13: _gat
+[After] Cookie-Name 14: __hssrc
+[After] Cookie-Name 15: _s
+[After] Cookie-Name 16: swym-swymRegid
+[After] Cookie-Name 17: _gid
+[After] Cookie-Name 18: swym-cu_ct
+[After] Cookie-Name 19: _shopify_sa_t
+[After] Cookie-Name 20: secure_customer_sig
+[After] Cookie-Name 21: __hstc
+[After] Cookie-Name 22: _fbp
+[After] Cookie-Name 23: localization
+[After] Cookie-Name 24: _shopify_y
+[After] Cookie-Name 25: _y
+[After] Cookie-Name 26: _orig_referrer
+[After] Cookie-Name 27: _landing_page
+[After] Cookie-Name 28: cart_currency
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: __hssc (HubSpot (CRM-System))
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: hubspotutk (HubSpot (CRM-System))
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

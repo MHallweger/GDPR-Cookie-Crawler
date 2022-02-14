@@ -1,0 +1,82 @@
+Website 222: http://www.davines.de/ | Created: 09.02.2022 18:13:44 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: True
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 23
+[Before] Website-Cookies: [{'domain': 'de.davines.com', 'expiry': 1644428917, 'httpOnly': False, 'name': 'ssw_visitor', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'ssw_visitor1644426817734'}, {'domain': 'de.davines.com', 'expiry': 1647018818, 'httpOnly': False, 'name': 'hash_key', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '6203f642aa6f831447187dd0'}, {'domain': '.de.davines.com', 'expiry': 1675962815, 'httpOnly': False, 'name': 'geo_data', 'path': '/', 'secure': False, 'value': '{%22as%22:%22AS9063%20VSE%20NET%20GmbH%22%2C%22city%22:%22Kottenheim%22%2C%22country%22:{%22code%22:%22DE%22%2C%22country%22:%22Germany%22}%2C%22countryCode%22:%22DE%22%2C%22isp%22:%22VSE%20NET%20GmbH%22%2C%22lat%22:50.354%2C%22lon%22:7.2464%2C%22org%22:%22Innogy%20Fttx%22%2C%22query%22:%2291.184.168.63%22%2C%22region%22:%22RP%22%2C%22regionName%22:%22Rheinland-Pfalz%22%2C%22status%22:%22success%22%2C%22timezone%22:%22Europe/Berlin%22%2C%22zip%22:%2256736%22%2C%22currencyCode%22:%22EUR%22%2C%22currency%22:{%22code%22:%22EUR%22}%2C%22countryName%22:%22Germany%22%2C%22service%22:%22ip-api.com%22}'}, {'domain': '.davines.com', 'expiry': 1644428615, 'httpOnly': False, 'name': '_hjSession_1533816', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjM5NzZhMjAyLWZkMjItNDIwNi05MjEzLTNmZmY5NzY4MDkyNiIsImNyZWF0ZWQiOjE2NDQ0MjY4MTU0NTEsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': '.davines.com', 'expiry': 1644428615, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.davines.com', 'expiry': 1675962815, 'httpOnly': False, 'name': '_hjSessionUser_1533816', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjFlOWU2NmI2LTZhNzgtNTliNS1iNDAxLTdiYTMyYzY5ODM2OCIsImNyZWF0ZWQiOjE2NDQ0MjY4MTUxNzYsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': 'de.davines.com', 'expiry': 1644426935, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.davines.com', 'expiry': 1644513215, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.558164050.1644426815'}, {'domain': '.davines.com', 'expiry': 1644428615, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.davines.com', 'expiry': 1644428615, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A13%3A35.020Z'}, {'domain': '.davines.com', 'expiry': 1652202815, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1449196436.1644426815'}, {'domain': 'de.davines.com', 'expiry': 1675962814, 'httpOnly': False, 'name': 'last_list', 'path': '/', 'secure': False, 'value': 'category_listing'}, {'domain': '.davines.com', 'expiry': 1675962818, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '167fe767-1199-4fdf-b433-9d52113b30ab'}, {'domain': 'de.davines.com', 'httpOnly': False, 'name': 'hesid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '04c80ab3-54d7-c871-a4d2-9a040b459899'}, {'domain': '.davines.com', 'expiry': 1645636414, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.davines.com', 'expiry': 1644428618, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '39818377-f619-4cdc-8f00-d0aae4caf1aa'}, {'domain': '.davines.com', 'expiry': 1644428615, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'de.davines.com', 'expiry': 1644513217, 'httpOnly': False, 'name': '_ssw_cart_data', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'eyJjYXJ0X3Rva2VuIjoiNTZhOGI1ZTVkNTU5MGQ1NmFjNzFmYTZlMWJiZWNkMjMifQ%3D%3D'}, {'domain': '.davines.com', 'expiry': 1675962818, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '167fe767-1199-4fdf-b433-9d52113b30ab'}, {'domain': '.davines.com', 'expiry': 1707498815, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1325854620.1644426815'}, {'domain': '.davines.com', 'expiry': 1645636414, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.davines.com', 'expiry': 1644428618, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '39818377-f619-4cdc-8f00-d0aae4caf1aa'}, {'domain': 'de.davines.com', 'expiry': 1675962818, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: ssw_visitor
+[Before] Cookie-Name 2: hash_key
+[Before] Cookie-Name 3: geo_data
+[Before] Cookie-Name 4: _hjSession_1533816
+[Before] Cookie-Name 5: _hjFirstSeen
+[Before] Cookie-Name 6: _hjSessionUser_1533816
+[Before] Cookie-Name 7: _hjIncludedInSessionSample
+[Before] Cookie-Name 8: _gid
+[Before] Cookie-Name 9: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 10: _shopify_sa_t
+[Before] Cookie-Name 11: _gcl_au
+[Before] Cookie-Name 12: last_list
+[Before] Cookie-Name 13: _y
+[Before] Cookie-Name 14: hesid
+[Before] Cookie-Name 15: _landing_page
+[Before] Cookie-Name 16: _s
+[Before] Cookie-Name 17: _shopify_sa_p
+[Before] Cookie-Name 18: _ssw_cart_data
+[Before] Cookie-Name 19: _shopify_y
+[Before] Cookie-Name 20: _ga
+[Before] Cookie-Name 21: _orig_referrer
+[Before] Cookie-Name 22: _shopify_s
+[Before] Cookie-Name 23: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 25
+[After] Website-Cookies: [{'domain': '.davines.com', 'expiry': 1675962830, 'httpOnly': False, 'name': '_iub_cs-83428399', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '%7B%22timestamp%22%3A%222022-02-09T17%3A13%3A50.011Z%22%2C%22version%22%3A%221.36.1%22%2C%22purposes%22%3A%7B%221%22%3Atrue%2C%222%22%3Atrue%2C%223%22%3Atrue%2C%224%22%3Atrue%2C%225%22%3Atrue%7D%2C%22id%22%3A83428399%7D'}, {'domain': 'de.davines.com', 'expiry': 1644428917, 'httpOnly': False, 'name': 'ssw_visitor', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'ssw_visitor1644426817734'}, {'domain': 'de.davines.com', 'expiry': 1647018818, 'httpOnly': False, 'name': 'hash_key', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '6203f642aa6f831447187dd0'}, {'domain': '.davines.com', 'expiry': 1652202815, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1449196436.1644426815'}, {'domain': '.de.davines.com', 'expiry': 1675962815, 'httpOnly': False, 'name': 'geo_data', 'path': '/', 'secure': False, 'value': '{%22as%22:%22AS9063%20VSE%20NET%20GmbH%22%2C%22city%22:%22Kottenheim%22%2C%22country%22:{%22code%22:%22DE%22%2C%22country%22:%22Germany%22}%2C%22countryCode%22:%22DE%22%2C%22isp%22:%22VSE%20NET%20GmbH%22%2C%22lat%22:50.354%2C%22lon%22:7.2464%2C%22org%22:%22Innogy%20Fttx%22%2C%22query%22:%2291.184.168.63%22%2C%22region%22:%22RP%22%2C%22regionName%22:%22Rheinland-Pfalz%22%2C%22status%22:%22success%22%2C%22timezone%22:%22Europe/Berlin%22%2C%22zip%22:%2256736%22%2C%22currencyCode%22:%22EUR%22%2C%22currency%22:{%22code%22:%22EUR%22}%2C%22countryName%22:%22Germany%22%2C%22service%22:%22ip-api.com%22}'}, {'domain': '.davines.com', 'expiry': 1644428615, 'httpOnly': False, 'name': '_hjSession_1533816', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjM5NzZhMjAyLWZkMjItNDIwNi05MjEzLTNmZmY5NzY4MDkyNiIsImNyZWF0ZWQiOjE2NDQ0MjY4MTU0NTEsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': '.davines.com', 'expiry': 1652202830, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644426830288.1129841934'}, {'domain': '.davines.com', 'expiry': 1645636414, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.davines.com', 'expiry': 1644428615, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.davines.com', 'expiry': 1675962815, 'httpOnly': False, 'name': '_hjSessionUser_1533816', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjFlOWU2NmI2LTZhNzgtNTliNS1iNDAxLTdiYTMyYzY5ODM2OCIsImNyZWF0ZWQiOjE2NDQ0MjY4MTUxNzYsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': 'de.davines.com', 'expiry': 1644426935, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.davines.com', 'expiry': 1707498815, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1325854620.1644426815'}, {'domain': '.davines.com', 'expiry': 1644428615, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.davines.com', 'expiry': 1644513215, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.558164050.1644426815'}, {'domain': '.davines.com', 'expiry': 1644428615, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.davines.com', 'expiry': 1644428615, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A13%3A35.020Z'}, {'domain': '.davines.com', 'expiry': 1644428618, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '39818377-f619-4cdc-8f00-d0aae4caf1aa'}, {'domain': 'de.davines.com', 'expiry': 1675962814, 'httpOnly': False, 'name': 'last_list', 'path': '/', 'secure': False, 'value': 'category_listing'}, {'domain': '.davines.com', 'expiry': 1675962818, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '167fe767-1199-4fdf-b433-9d52113b30ab'}, {'domain': 'de.davines.com', 'httpOnly': False, 'name': 'hesid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '04c80ab3-54d7-c871-a4d2-9a040b459899'}, {'domain': 'de.davines.com', 'expiry': 1644513217, 'httpOnly': False, 'name': '_ssw_cart_data', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'eyJjYXJ0X3Rva2VuIjoiNTZhOGI1ZTVkNTU5MGQ1NmFjNzFmYTZlMWJiZWNkMjMifQ%3D%3D'}, {'domain': '.davines.com', 'expiry': 1675962818, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '167fe767-1199-4fdf-b433-9d52113b30ab'}, {'domain': '.davines.com', 'expiry': 1645636414, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.davines.com', 'expiry': 1644428618, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '39818377-f619-4cdc-8f00-d0aae4caf1aa'}, {'domain': 'de.davines.com', 'expiry': 1675962818, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _iub_cs-83428399
+[After] Cookie-Name 2: ssw_visitor
+[After] Cookie-Name 3: hash_key
+[After] Cookie-Name 4: _gcl_au
+[After] Cookie-Name 5: geo_data
+[After] Cookie-Name 6: _hjSession_1533816
+[After] Cookie-Name 7: _fbp
+[After] Cookie-Name 8: _landing_page
+[After] Cookie-Name 9: _hjFirstSeen
+[After] Cookie-Name 10: _hjSessionUser_1533816
+[After] Cookie-Name 11: _hjIncludedInSessionSample
+[After] Cookie-Name 12: _ga
+[After] Cookie-Name 13: _shopify_sa_p
+[After] Cookie-Name 14: _gid
+[After] Cookie-Name 15: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 16: _shopify_sa_t
+[After] Cookie-Name 17: _s
+[After] Cookie-Name 18: last_list
+[After] Cookie-Name 19: _y
+[After] Cookie-Name 20: hesid
+[After] Cookie-Name 21: _ssw_cart_data
+[After] Cookie-Name 22: _shopify_y
+[After] Cookie-Name 23: _orig_referrer
+[After] Cookie-Name 24: _shopify_s
+[After] Cookie-Name 25: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjIncludedInSessionSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 2
+[Difference] Cookie-Name: 1: _fbp
+[Difference] Cookie-Name: 2: _iub_cs-83428399
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

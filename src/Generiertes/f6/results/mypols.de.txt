@@ -1,0 +1,64 @@
+Website 103: http://www.mypols.de/ | Created: 10.02.2022 12:43:09 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 16
+[Before] Website-Cookies: [{'domain': '.mypols.de', 'expiry': 1644495180, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T11%3A43%3A00.977Z'}, {'domain': 'www.mypols.de', 'expiry': 1644496980, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.mypols.de', 'expiry': 1644493440, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.mypols.de', 'expiry': 1644579780, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.144607045.1644493380'}, {'domain': 'www.mypols.de', 'expiry': 1676029381, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': ''}, {'domain': '.mypols.de', 'expiry': 1644495180, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '64890e5e-9cdc-4ae3-a8e8-9f77912e1a03'}, {'domain': '.mypols.de', 'expiry': 1645702979, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.mypols.de', 'expiry': 1707565380, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1464492371.1644493380'}, {'domain': '.mypols.de', 'expiry': 1676029379, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1f1904e8-b24e-4b4c-848d-b1601e7d238a'}, {'domain': '.mypols.de', 'expiry': 1644495180, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.mypols.de', 'expiry': 1644495180, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '64890e5e-9cdc-4ae3-a8e8-9f77912e1a03'}, {'domain': '.mypols.de', 'expiry': 1676029379, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1f1904e8-b24e-4b4c-848d-b1601e7d238a'}, {'domain': 'www.mypols.de', 'expiry': 1676029379, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.mypols.de', 'expiry': 1645702979, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.mypols.de', 'expiry': 1645702979, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': 'www.mypols.de', 'expiry': 1645702979, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': ''}]
+[Before] Cookie-Name 1: _shopify_sa_t
+[Before] Cookie-Name 2: shopify_pay_redirect
+[Before] Cookie-Name 3: _gat
+[Before] Cookie-Name 4: _gid
+[Before] Cookie-Name 5: cookieconsent_preferences_disabled
+[Before] Cookie-Name 6: _shopify_s
+[Before] Cookie-Name 7: _orig_referrer
+[Before] Cookie-Name 8: _ga
+[Before] Cookie-Name 9: _shopify_y
+[Before] Cookie-Name 10: _shopify_sa_p
+[Before] Cookie-Name 11: _s
+[Before] Cookie-Name 12: _y
+[Before] Cookie-Name 13: secure_customer_sig
+[Before] Cookie-Name 14: _landing_page
+[Before] Cookie-Name 15: cart_currency
+[Before] Cookie-Name 16: localization
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 17
+[After] Website-Cookies: [{'domain': 'www.mypols.de', 'expiry': 1676029395, 'httpOnly': False, 'name': 'cookieconsent_status', 'path': '/', 'secure': False, 'value': 'allow'}, {'domain': '.mypols.de', 'expiry': 1644495180, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T11%3A43%3A00.977Z'}, {'domain': 'www.mypols.de', 'expiry': 1644496980, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.mypols.de', 'expiry': 1644493440, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.mypols.de', 'expiry': 1644579780, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.144607045.1644493380'}, {'domain': 'www.mypols.de', 'expiry': 1676029395, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': ''}, {'domain': '.mypols.de', 'expiry': 1644495180, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '64890e5e-9cdc-4ae3-a8e8-9f77912e1a03'}, {'domain': '.mypols.de', 'expiry': 1645702979, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.mypols.de', 'expiry': 1707565380, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1464492371.1644493380'}, {'domain': '.mypols.de', 'expiry': 1676029379, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1f1904e8-b24e-4b4c-848d-b1601e7d238a'}, {'domain': '.mypols.de', 'expiry': 1644495180, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.mypols.de', 'expiry': 1644495180, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '64890e5e-9cdc-4ae3-a8e8-9f77912e1a03'}, {'domain': '.mypols.de', 'expiry': 1676029379, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1f1904e8-b24e-4b4c-848d-b1601e7d238a'}, {'domain': 'www.mypols.de', 'expiry': 1676029379, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.mypols.de', 'expiry': 1645702979, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.mypols.de', 'expiry': 1645702979, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': 'www.mypols.de', 'expiry': 1645702979, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: cookieconsent_status
+[After] Cookie-Name 2: _shopify_sa_t
+[After] Cookie-Name 3: shopify_pay_redirect
+[After] Cookie-Name 4: _gat
+[After] Cookie-Name 5: _gid
+[After] Cookie-Name 6: cookieconsent_preferences_disabled
+[After] Cookie-Name 7: _shopify_s
+[After] Cookie-Name 8: _orig_referrer
+[After] Cookie-Name 9: _ga
+[After] Cookie-Name 10: _shopify_y
+[After] Cookie-Name 11: _shopify_sa_p
+[After] Cookie-Name 12: _s
+[After] Cookie-Name 13: _y
+[After] Cookie-Name 14: secure_customer_sig
+[After] Cookie-Name 15: _landing_page
+[After] Cookie-Name 16: cart_currency
+[After] Cookie-Name 17: localization
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: cookieconsent_status
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

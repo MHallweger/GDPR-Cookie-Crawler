@@ -1,0 +1,98 @@
+Website 152: http://www.wisefood.de/ | Created: 10.02.2022 20:43:35 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 30
+[Before] Website-Cookies: [{'domain': 'www.wisefood.eu', 'expiry': 1644524007, 'httpOnly': False, 'name': '__hssc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '72623692.1.1644522206765'}, {'domain': 'www.wisefood.eu', 'expiry': 1678218207, 'httpOnly': False, 'name': '__hstc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '72623692.f544d737f8a4889ed6e099ab32e68626.1644522206765.1644522206765.1644522206765.1'}, {'domain': 'www.wisefood.eu', 'expiry': 1707594206, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ1MjIyMDYsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3Lndpc2Vmb29kLmV1LyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDUyMjIwNiwidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly93d3cud2lzZWZvb2QuZXUvIn19'}, {'domain': 'www.wisefood.eu', 'expiry': 1645731806, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A2'}, {'domain': 'www.wisefood.eu', 'expiry': 1645731806, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f7210f38b600e6db686f3547399f06dd'}, {'domain': '.wisefood.eu', 'expiry': 1644608604, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.222369534.1644522205'}, {'domain': 'www.wisefood.eu', 'expiry': 1645731806, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644522205'}, {'domain': 'www.wisefood.eu', 'expiry': 1645731806, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.wisefood.eu', 'expiry': 1678218205, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': 'b67a54508aa911ec9bc4716be37f19c6'}, {'domain': '.wisefood.eu', 'expiry': 1644522264, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.wisefood.eu', 'expiry': 1676058206, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c48f48c3-4125-4d61-b3fe-1628283d7f00'}, {'domain': '.wisefood.eu', 'expiry': 1676058204, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU56YzFZbVU0WW1VdFpUazFaUzAwTUdSakxXSmtaVEF0WlRJNU9UQmpaRFF4TkdRMg'}, {'domain': '.wisefood.eu', 'expiry': 1652298205, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644522204835.181854292'}, {'domain': '.wisefood.eu', 'expiry': 1652298204, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.864763858.1644522205'}, {'domain': '.wisefood.eu', 'expiry': 1707594204, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1499538316.1644522205'}, {'domain': '.wisefood.eu', 'expiry': 1644524004, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.wisefood.eu', 'expiry': 1644524006, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8b12ca36-ecb3-4bfe-a3a6-3ebf152f032c'}, {'domain': '.wisefood.eu', 'expiry': 1676058206, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c48f48c3-4125-4d61-b3fe-1628283d7f00'}, {'domain': 'www.wisefood.eu', 'expiry': 1645731806, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '47d039531fece127c05f4cc3f17bab71'}, {'domain': '.wisefood.eu', 'expiry': 1644524006, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8b12ca36-ecb3-4bfe-a3a6-3ebf152f032c'}, {'domain': 'www.wisefood.eu', 'expiry': 1676058207, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': ''}, {'domain': 'www.wisefood.eu', 'expiry': 1676058206, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'www.wisefood.eu', 'httpOnly': False, 'name': '__hssrc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.wisefood.eu', 'expiry': 1644525805, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.wisefood.eu', 'expiry': 1645731804, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.wisefood.eu', 'expiry': 1644608605, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': 'b67a0b808aa911ec9dcaa3f099a52c9c'}, {'domain': '.wisefood.eu', 'expiry': 1644524004, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T19%3A43%3A24.695Z'}, {'domain': '.wisefood.eu', 'expiry': 1645731804, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.wisefood.eu', 'expiry': 1678218207, 'httpOnly': False, 'name': 'hubspotutk', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f544d737f8a4889ed6e099ab32e68626'}, {'domain': 'www.wisefood.eu', 'expiry': 1645731806, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[Before] Cookie-Name 1: __hssc
+[Before] Cookie-Name 2: __hstc
+[Before] Cookie-Name 3: __kla_id
+[Before] Cookie-Name 4: cart_ver
+[Before] Cookie-Name 5: cart_sig
+[Before] Cookie-Name 6: _gid
+[Before] Cookie-Name 7: cart_ts
+[Before] Cookie-Name 8: cart_currency
+[Before] Cookie-Name 9: _uetvid
+[Before] Cookie-Name 10: _gat
+[Before] Cookie-Name 11: _y
+[Before] Cookie-Name 12: _pin_unauth
+[Before] Cookie-Name 13: _fbp
+[Before] Cookie-Name 14: _gcl_au
+[Before] Cookie-Name 15: _ga
+[Before] Cookie-Name 16: _shopify_sa_p
+[Before] Cookie-Name 17: _shopify_s
+[Before] Cookie-Name 18: _shopify_y
+[Before] Cookie-Name 19: cart
+[Before] Cookie-Name 20: _s
+[Before] Cookie-Name 21: cookieconsent_preferences_disabled
+[Before] Cookie-Name 22: secure_customer_sig
+[Before] Cookie-Name 23: __hssrc
+[Before] Cookie-Name 24: shopify_pay_redirect
+[Before] Cookie-Name 25: _landing_page
+[Before] Cookie-Name 26: _uetsid
+[Before] Cookie-Name 27: _shopify_sa_t
+[Before] Cookie-Name 28: _orig_referrer
+[Before] Cookie-Name 29: hubspotutk
+[Before] Cookie-Name 30: localization
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 31
+[After] Website-Cookies: [{'domain': 'www.wisefood.eu', 'expiry': 1676058221, 'httpOnly': False, 'name': 'cookieconsent_status', 'path': '/', 'secure': False, 'value': 'allow'}, {'domain': 'www.wisefood.eu', 'expiry': 1644524007, 'httpOnly': False, 'name': '__hssc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '72623692.1.1644522206765'}, {'domain': 'www.wisefood.eu', 'expiry': 1678218207, 'httpOnly': False, 'name': '__hstc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '72623692.f544d737f8a4889ed6e099ab32e68626.1644522206765.1644522206765.1644522206765.1'}, {'domain': 'www.wisefood.eu', 'expiry': 1707594206, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ1MjIyMDYsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3Lndpc2Vmb29kLmV1LyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDUyMjIwNiwidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly93d3cud2lzZWZvb2QuZXUvIn19'}, {'domain': 'www.wisefood.eu', 'expiry': 1645731806, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A2'}, {'domain': 'www.wisefood.eu', 'expiry': 1645731806, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f7210f38b600e6db686f3547399f06dd'}, {'domain': '.wisefood.eu', 'expiry': 1644608604, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.222369534.1644522205'}, {'domain': 'www.wisefood.eu', 'expiry': 1645731806, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644522205'}, {'domain': 'www.wisefood.eu', 'expiry': 1645731806, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.wisefood.eu', 'expiry': 1678218205, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': 'b67a54508aa911ec9bc4716be37f19c6'}, {'domain': '.wisefood.eu', 'expiry': 1644522264, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.wisefood.eu', 'expiry': 1676058206, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c48f48c3-4125-4d61-b3fe-1628283d7f00'}, {'domain': '.wisefood.eu', 'expiry': 1676058204, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU56YzFZbVU0WW1VdFpUazFaUzAwTUdSakxXSmtaVEF0WlRJNU9UQmpaRFF4TkdRMg'}, {'domain': '.wisefood.eu', 'expiry': 1652298220, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644522204835.181854292'}, {'domain': '.wisefood.eu', 'expiry': 1652298204, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.864763858.1644522205'}, {'domain': '.wisefood.eu', 'expiry': 1707594204, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1499538316.1644522205'}, {'domain': '.wisefood.eu', 'expiry': 1644524004, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.wisefood.eu', 'expiry': 1644524006, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8b12ca36-ecb3-4bfe-a3a6-3ebf152f032c'}, {'domain': '.wisefood.eu', 'expiry': 1676058206, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c48f48c3-4125-4d61-b3fe-1628283d7f00'}, {'domain': 'www.wisefood.eu', 'expiry': 1645731806, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '47d039531fece127c05f4cc3f17bab71'}, {'domain': '.wisefood.eu', 'expiry': 1644524006, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8b12ca36-ecb3-4bfe-a3a6-3ebf152f032c'}, {'domain': 'www.wisefood.eu', 'expiry': 1676058221, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': ''}, {'domain': 'www.wisefood.eu', 'expiry': 1676058206, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'www.wisefood.eu', 'httpOnly': False, 'name': '__hssrc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.wisefood.eu', 'expiry': 1644525805, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.wisefood.eu', 'expiry': 1645731804, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.wisefood.eu', 'expiry': 1644608605, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': 'b67a0b808aa911ec9dcaa3f099a52c9c'}, {'domain': '.wisefood.eu', 'expiry': 1644524004, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T19%3A43%3A24.695Z'}, {'domain': '.wisefood.eu', 'expiry': 1645731804, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.wisefood.eu', 'expiry': 1678218207, 'httpOnly': False, 'name': 'hubspotutk', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f544d737f8a4889ed6e099ab32e68626'}, {'domain': 'www.wisefood.eu', 'expiry': 1645731806, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[After] Cookie-Name 1: cookieconsent_status
+[After] Cookie-Name 2: __hssc
+[After] Cookie-Name 3: __hstc
+[After] Cookie-Name 4: __kla_id
+[After] Cookie-Name 5: cart_ver
+[After] Cookie-Name 6: cart_sig
+[After] Cookie-Name 7: _gid
+[After] Cookie-Name 8: cart_ts
+[After] Cookie-Name 9: cart_currency
+[After] Cookie-Name 10: _uetvid
+[After] Cookie-Name 11: _gat
+[After] Cookie-Name 12: _y
+[After] Cookie-Name 13: _pin_unauth
+[After] Cookie-Name 14: _fbp
+[After] Cookie-Name 15: _gcl_au
+[After] Cookie-Name 16: _ga
+[After] Cookie-Name 17: _shopify_sa_p
+[After] Cookie-Name 18: _shopify_s
+[After] Cookie-Name 19: _shopify_y
+[After] Cookie-Name 20: cart
+[After] Cookie-Name 21: _s
+[After] Cookie-Name 22: cookieconsent_preferences_disabled
+[After] Cookie-Name 23: secure_customer_sig
+[After] Cookie-Name 24: __hssrc
+[After] Cookie-Name 25: shopify_pay_redirect
+[After] Cookie-Name 26: _landing_page
+[After] Cookie-Name 27: _uetsid
+[After] Cookie-Name 28: _shopify_sa_t
+[After] Cookie-Name 29: _orig_referrer
+[After] Cookie-Name 30: hubspotutk
+[After] Cookie-Name 31: localization
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: __hssc (HubSpot (CRM-System))
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: hubspotutk (HubSpot (CRM-System))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: cookieconsent_status
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

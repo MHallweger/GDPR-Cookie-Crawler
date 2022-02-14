@@ -1,0 +1,71 @@
+Website 103: http://www.grillholz24.de/ | Created: 09.02.2022 17:36:55 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 18
+[Before] Website-Cookies: [{'domain': 'grillholz24.de', 'httpOnly': False, 'name': 'usb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.grillholz24.de', 'expiry': 1644511005, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1431827638.1644424606'}, {'domain': '.grillholz24.de', 'expiry': 1644424665, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'grillholz24.de', 'expiry': 1707496605, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MjQ2MDYsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vZ3JpbGxob2x6MjQuZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NDI0NjA2LCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL2dyaWxsaG9sejI0LmRlLyJ9fQ=='}, {'domain': '.grillholz24.de', 'expiry': 1644426405, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'grillholz24.de', 'expiry': 1644428205, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.grillholz24.de', 'expiry': 1707496605, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.450521478.1644424606'}, {'domain': '.grillholz24.de', 'expiry': 1675960607, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '81da5a60-e37d-4dee-8339-c84782d4df32'}, {'domain': '.grillholz24.de', 'expiry': 1652200605, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1152905485.1644424605'}, {'domain': '.grillholz24.de', 'expiry': 1644426407, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4033a421-e307-4b8b-b54e-76b42e4edbfa'}, {'domain': '.grillholz24.de', 'expiry': 1645634205, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.grillholz24.de', 'expiry': 1644426405, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T16%3A36%3A45.598Z'}, {'domain': '.grillholz24.de', 'expiry': 1675960607, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '81da5a60-e37d-4dee-8339-c84782d4df32'}, {'domain': 'grillholz24.de', 'expiry': 1675960607, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'grillholz24.de', 'expiry': 1645634207, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.grillholz24.de', 'expiry': 1645634205, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.grillholz24.de', 'expiry': 1644426407, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4033a421-e307-4b8b-b54e-76b42e4edbfa'}, {'domain': 'grillholz24.de', 'expiry': 1645634207, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[Before] Cookie-Name 1: usb_previous_pathname
+[Before] Cookie-Name 2: _gid
+[Before] Cookie-Name 3: _gat
+[Before] Cookie-Name 4: __kla_id
+[Before] Cookie-Name 5: _shopify_sa_p
+[Before] Cookie-Name 6: shopify_pay_redirect
+[Before] Cookie-Name 7: _ga
+[Before] Cookie-Name 8: _shopify_y
+[Before] Cookie-Name 9: _gcl_au
+[Before] Cookie-Name 10: _s
+[Before] Cookie-Name 11: _landing_page
+[Before] Cookie-Name 12: _shopify_sa_t
+[Before] Cookie-Name 13: _y
+[Before] Cookie-Name 14: secure_customer_sig
+[Before] Cookie-Name 15: cart_currency
+[Before] Cookie-Name 16: _orig_referrer
+[Before] Cookie-Name 17: _shopify_s
+[Before] Cookie-Name 18: localization
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 18
+[After] Website-Cookies: [{'domain': 'grillholz24.de', 'httpOnly': False, 'name': 'usb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.grillholz24.de', 'expiry': 1644511005, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1431827638.1644424606'}, {'domain': '.grillholz24.de', 'expiry': 1644424665, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'grillholz24.de', 'expiry': 1707496605, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MjQ2MDYsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vZ3JpbGxob2x6MjQuZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NDI0NjA2LCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL2dyaWxsaG9sejI0LmRlLyJ9fQ=='}, {'domain': '.grillholz24.de', 'expiry': 1644426405, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'grillholz24.de', 'expiry': 1644428205, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.grillholz24.de', 'expiry': 1707496605, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.450521478.1644424606'}, {'domain': '.grillholz24.de', 'expiry': 1675960607, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '81da5a60-e37d-4dee-8339-c84782d4df32'}, {'domain': '.grillholz24.de', 'expiry': 1652200605, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1152905485.1644424605'}, {'domain': '.grillholz24.de', 'expiry': 1644426407, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4033a421-e307-4b8b-b54e-76b42e4edbfa'}, {'domain': '.grillholz24.de', 'expiry': 1645634205, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.grillholz24.de', 'expiry': 1644426405, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T16%3A36%3A45.598Z'}, {'domain': '.grillholz24.de', 'expiry': 1675960607, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '81da5a60-e37d-4dee-8339-c84782d4df32'}, {'domain': 'grillholz24.de', 'expiry': 1675960607, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'grillholz24.de', 'expiry': 1645634207, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.grillholz24.de', 'expiry': 1645634205, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.grillholz24.de', 'expiry': 1644426407, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4033a421-e307-4b8b-b54e-76b42e4edbfa'}, {'domain': 'grillholz24.de', 'expiry': 1645634207, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[After] Cookie-Name 1: usb_previous_pathname
+[After] Cookie-Name 2: _gid
+[After] Cookie-Name 3: _gat
+[After] Cookie-Name 4: __kla_id
+[After] Cookie-Name 5: _shopify_sa_p
+[After] Cookie-Name 6: shopify_pay_redirect
+[After] Cookie-Name 7: _ga
+[After] Cookie-Name 8: _shopify_y
+[After] Cookie-Name 9: _gcl_au
+[After] Cookie-Name 10: _s
+[After] Cookie-Name 11: _landing_page
+[After] Cookie-Name 12: _shopify_sa_t
+[After] Cookie-Name 13: _y
+[After] Cookie-Name 14: secure_customer_sig
+[After] Cookie-Name 15: cart_currency
+[After] Cookie-Name 16: _orig_referrer
+[After] Cookie-Name 17: _shopify_s
+[After] Cookie-Name 18: localization
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

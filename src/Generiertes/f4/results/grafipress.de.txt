@@ -1,0 +1,91 @@
+Website 128: http://www.grafipress.de/ | Created: 09.02.2022 17:44:42 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 27
+[Before] Website-Cookies: [{'domain': 'grafipress.de', 'expiry': 1644425194, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.grafipress.de', 'expiry': 1644426874, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.grafipress.de', 'expiry': 1675961074, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bc608352-e74c-4f8f-a78f-6fd53c839a0b'}, {'domain': '.grafipress.de', 'expiry': 1675961074, 'httpOnly': False, 'name': '_hjSessionUser_1390222', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImVmN2VjMTExLTY0YjAtNTdjMS04MmEwLTEzN2Q5NGQyYWE5NCIsImNyZWF0ZWQiOjE2NDQ0MjUwNzQzMDksImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': 'grafipress.de', 'expiry': 1675961074, 'httpOnly': False, 'name': 'poptin_user_ip', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '91.184.168.63'}, {'domain': 'grafipress.de', 'expiry': 1644425193, 'httpOnly': False, 'name': 'poptin_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'grafipress.de', 'expiry': 1645634674, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'grafipress.de', 'expiry': 1644426874, 'httpOnly': False, 'name': 'poptin_session', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'true'}, {'domain': 'grafipress.de', 'expiry': 1675961072, 'httpOnly': False, 'name': 'poptin_user_id', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0.fsoqgr4b48n'}, {'domain': 'grafipress.de', 'expiry': 1647017074, 'httpOnly': False, 'name': 'poptin_c_visitor', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'true'}, {'domain': 'grafipress.de', 'expiry': 1644428672, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'grafipress.de', 'expiry': 1675961074, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'grafipress.de', 'expiry': 1644597872, 'httpOnly': False, 'name': 'poptin_old_user', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'true'}, {'domain': '.grafipress.de', 'expiry': 1644425132, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.grafipress.de', 'expiry': 1644511472, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1761396821.1644425073'}, {'domain': '.grafipress.de', 'expiry': 1707497072, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.506107581.1644425073'}, {'domain': '.grafipress.de', 'expiry': 1644426874, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1d52ea3c-b0bb-4b4e-aaf0-ad9f25c23c3d'}, {'domain': '.grafipress.de', 'expiry': 1652201074, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644425072729.1907324801'}, {'domain': '.grafipress.de', 'expiry': 1644426872, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T16%3A44%3A32.506Z'}, {'domain': '.grafipress.de', 'expiry': 1644426874, 'httpOnly': False, 'name': '_hjSession_1390222', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImNlNDJmMGQxLWEyMjgtNGMxOC1hY2EzLWI5MmIzMTZkMWU0MSIsImNyZWF0ZWQiOjE2NDQ0MjUwNzQzNTUsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': '.grafipress.de', 'expiry': 1644426872, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.grafipress.de', 'expiry': 1644426874, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1d52ea3c-b0bb-4b4e-aaf0-ad9f25c23c3d'}, {'domain': '.grafipress.de', 'expiry': 1645634671, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.grafipress.de', 'expiry': 1675961074, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bc608352-e74c-4f8f-a78f-6fd53c839a0b'}, {'domain': '.grafipress.de', 'expiry': 1645634671, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.grafipress.de', 'expiry': 1644426874, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': 'grafipress.de', 'expiry': 1645634674, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[Before] Cookie-Name 1: _hjIncludedInPageviewSample
+[Before] Cookie-Name 2: _hjFirstSeen
+[Before] Cookie-Name 3: _shopify_y
+[Before] Cookie-Name 4: _hjSessionUser_1390222
+[Before] Cookie-Name 5: poptin_user_ip
+[Before] Cookie-Name 6: poptin_referrer
+[Before] Cookie-Name 7: cart_currency
+[Before] Cookie-Name 8: poptin_session
+[Before] Cookie-Name 9: poptin_user_id
+[Before] Cookie-Name 10: poptin_c_visitor
+[Before] Cookie-Name 11: shopify_pay_redirect
+[Before] Cookie-Name 12: secure_customer_sig
+[Before] Cookie-Name 13: poptin_old_user
+[Before] Cookie-Name 14: _gat
+[Before] Cookie-Name 15: _gid
+[Before] Cookie-Name 16: _ga
+[Before] Cookie-Name 17: _s
+[Before] Cookie-Name 18: _fbp
+[Before] Cookie-Name 19: _shopify_sa_t
+[Before] Cookie-Name 20: _hjSession_1390222
+[Before] Cookie-Name 21: _shopify_sa_p
+[Before] Cookie-Name 22: _shopify_s
+[Before] Cookie-Name 23: _landing_page
+[Before] Cookie-Name 24: _y
+[Before] Cookie-Name 25: _orig_referrer
+[Before] Cookie-Name 26: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 27: localization
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 27
+[After] Website-Cookies: [{'domain': 'grafipress.de', 'expiry': 1644425194, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.grafipress.de', 'expiry': 1644426874, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.grafipress.de', 'expiry': 1675961074, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bc608352-e74c-4f8f-a78f-6fd53c839a0b'}, {'domain': '.grafipress.de', 'expiry': 1675961074, 'httpOnly': False, 'name': '_hjSessionUser_1390222', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImVmN2VjMTExLTY0YjAtNTdjMS04MmEwLTEzN2Q5NGQyYWE5NCIsImNyZWF0ZWQiOjE2NDQ0MjUwNzQzMDksImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': 'grafipress.de', 'expiry': 1675961074, 'httpOnly': False, 'name': 'poptin_user_ip', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '91.184.168.63'}, {'domain': 'grafipress.de', 'expiry': 1644425193, 'httpOnly': False, 'name': 'poptin_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'grafipress.de', 'expiry': 1645634674, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'grafipress.de', 'expiry': 1644426874, 'httpOnly': False, 'name': 'poptin_session', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'true'}, {'domain': 'grafipress.de', 'expiry': 1675961072, 'httpOnly': False, 'name': 'poptin_user_id', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0.fsoqgr4b48n'}, {'domain': 'grafipress.de', 'expiry': 1647017074, 'httpOnly': False, 'name': 'poptin_c_visitor', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'true'}, {'domain': 'grafipress.de', 'expiry': 1644428672, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'grafipress.de', 'expiry': 1675961074, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'grafipress.de', 'expiry': 1644597872, 'httpOnly': False, 'name': 'poptin_old_user', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'true'}, {'domain': '.grafipress.de', 'expiry': 1644425132, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.grafipress.de', 'expiry': 1644511472, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1761396821.1644425073'}, {'domain': '.grafipress.de', 'expiry': 1707497072, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.506107581.1644425073'}, {'domain': '.grafipress.de', 'expiry': 1644426874, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1d52ea3c-b0bb-4b4e-aaf0-ad9f25c23c3d'}, {'domain': '.grafipress.de', 'expiry': 1652201074, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644425072729.1907324801'}, {'domain': '.grafipress.de', 'expiry': 1644426872, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T16%3A44%3A32.506Z'}, {'domain': '.grafipress.de', 'expiry': 1644426874, 'httpOnly': False, 'name': '_hjSession_1390222', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImNlNDJmMGQxLWEyMjgtNGMxOC1hY2EzLWI5MmIzMTZkMWU0MSIsImNyZWF0ZWQiOjE2NDQ0MjUwNzQzNTUsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': '.grafipress.de', 'expiry': 1644426872, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.grafipress.de', 'expiry': 1644426874, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1d52ea3c-b0bb-4b4e-aaf0-ad9f25c23c3d'}, {'domain': '.grafipress.de', 'expiry': 1645634671, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.grafipress.de', 'expiry': 1675961074, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bc608352-e74c-4f8f-a78f-6fd53c839a0b'}, {'domain': '.grafipress.de', 'expiry': 1645634671, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.grafipress.de', 'expiry': 1644426874, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': 'grafipress.de', 'expiry': 1645634674, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[After] Cookie-Name 1: _hjIncludedInPageviewSample
+[After] Cookie-Name 2: _hjFirstSeen
+[After] Cookie-Name 3: _shopify_y
+[After] Cookie-Name 4: _hjSessionUser_1390222
+[After] Cookie-Name 5: poptin_user_ip
+[After] Cookie-Name 6: poptin_referrer
+[After] Cookie-Name 7: cart_currency
+[After] Cookie-Name 8: poptin_session
+[After] Cookie-Name 9: poptin_user_id
+[After] Cookie-Name 10: poptin_c_visitor
+[After] Cookie-Name 11: shopify_pay_redirect
+[After] Cookie-Name 12: secure_customer_sig
+[After] Cookie-Name 13: poptin_old_user
+[After] Cookie-Name 14: _gat
+[After] Cookie-Name 15: _gid
+[After] Cookie-Name 16: _ga
+[After] Cookie-Name 17: _s
+[After] Cookie-Name 18: _fbp
+[After] Cookie-Name 19: _shopify_sa_t
+[After] Cookie-Name 20: _hjSession_1390222
+[After] Cookie-Name 21: _shopify_sa_p
+[After] Cookie-Name 22: _shopify_s
+[After] Cookie-Name 23: _landing_page
+[After] Cookie-Name 24: _y
+[After] Cookie-Name 25: _orig_referrer
+[After] Cookie-Name 26: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 27: localization
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _hjIncludedInPageviewSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

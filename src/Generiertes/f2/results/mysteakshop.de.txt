@@ -1,0 +1,77 @@
+Website 318: http://www.mysteakshop.de/ | Created: 09.02.2022 12:21:37 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 22
+[Before] Website-Cookies: [{'domain': 'www.mysteakshop.de', 'httpOnly': False, 'name': 'snize-recommendation', 'path': '/', 'secure': False, 'value': 'p2et5fg93xr'}, {'domain': '.mysteakshop.de', 'expiry': 1644407488, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'ddZgvoHR3jOp0o-20220209112128'}, {'domain': 'www.mysteakshop.de', 'expiry': 1802085688, 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'secure': True, 'value': '3a15ca43-f950-4285-95c9-991acdcd02dd'}, {'domain': 'www.mysteakshop.de', 'expiry': 1644407488, 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'secure': True, 'value': 'cfcb7193-8d6d-4238-8b09-c97551d8c8a5'}, {'domain': '.mysteakshop.de', 'expiry': 1652181687, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644405687134.965601913'}, {'domain': 'www.mysteakshop.de', 'expiry': 1644409287, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.mysteakshop.de', 'expiry': 1644405746, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.mysteakshop.de', 'expiry': 1644492086, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.208616638.1644405687'}, {'domain': '.mysteakshop.de', 'expiry': 1675941688, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': '8qNWFkEGxzfcl1-20220209112128'}, {'domain': '.mysteakshop.de', 'expiry': 1707477686, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.115967189.1644405687'}, {'domain': '.mysteakshop.de', 'expiry': 1644407487, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0b53bbf8-d764-4ec0-a184-9591d1936a7c'}, {'domain': '.mysteakshop.de', 'expiry': 1675941687, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '57d1b767-e6db-4142-9551-84edbf2a0e59'}, {'domain': '.mysteakshop.de', 'expiry': 1644407486, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T11%3A21%3A26.771Z'}, {'domain': '.mysteakshop.de', 'expiry': 1644407486, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.mysteakshop.de', 'expiry': 1644407487, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0b53bbf8-d764-4ec0-a184-9591d1936a7c'}, {'domain': '.mysteakshop.de', 'expiry': 1675941687, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '57d1b767-e6db-4142-9551-84edbf2a0e59'}, {'domain': 'www.mysteakshop.de', 'expiry': 1645615287, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.mysteakshop.de', 'expiry': 1645615286, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.mysteakshop.de', 'expiry': 1645615286, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.mysteakshop.de', 'expiry': 1645615287, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.mysteakshop.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220209112128-Fm3CtSsk2g8RdmeKms5Wwr4ljrayyrhnpbGnK0uAB6ji6OhVn'}, {'domain': 'www.mysteakshop.de', 'expiry': 1675941687, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: snize-recommendation
+[Before] Cookie-Name 2: omnisendSessionID
+[Before] Cookie-Name 3: _shg_user_id
+[Before] Cookie-Name 4: _shg_session_id
+[Before] Cookie-Name 5: _fbp
+[Before] Cookie-Name 6: shopify_pay_redirect
+[Before] Cookie-Name 7: _gat
+[Before] Cookie-Name 8: _gid
+[Before] Cookie-Name 9: omnisendAnonymousID
+[Before] Cookie-Name 10: _ga
+[Before] Cookie-Name 11: _shopify_s
+[Before] Cookie-Name 12: _shopify_y
+[Before] Cookie-Name 13: _shopify_sa_t
+[Before] Cookie-Name 14: _shopify_sa_p
+[Before] Cookie-Name 15: _s
+[Before] Cookie-Name 16: _y
+[Before] Cookie-Name 17: cart_currency
+[Before] Cookie-Name 18: _landing_page
+[Before] Cookie-Name 19: _orig_referrer
+[Before] Cookie-Name 20: localization
+[Before] Cookie-Name 21: soundestID
+[Before] Cookie-Name 22: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 22
+[After] Website-Cookies: [{'domain': 'www.mysteakshop.de', 'httpOnly': False, 'name': 'snize-recommendation', 'path': '/', 'secure': False, 'value': 'p2et5fg93xr'}, {'domain': '.mysteakshop.de', 'expiry': 1644407488, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'ddZgvoHR3jOp0o-20220209112128'}, {'domain': 'www.mysteakshop.de', 'expiry': 1802085688, 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'secure': True, 'value': '3a15ca43-f950-4285-95c9-991acdcd02dd'}, {'domain': 'www.mysteakshop.de', 'expiry': 1644407488, 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'secure': True, 'value': 'cfcb7193-8d6d-4238-8b09-c97551d8c8a5'}, {'domain': '.mysteakshop.de', 'expiry': 1652181687, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644405687134.965601913'}, {'domain': 'www.mysteakshop.de', 'expiry': 1644409287, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.mysteakshop.de', 'expiry': 1644405746, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.mysteakshop.de', 'expiry': 1644492086, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.208616638.1644405687'}, {'domain': '.mysteakshop.de', 'expiry': 1675941688, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': '8qNWFkEGxzfcl1-20220209112128'}, {'domain': '.mysteakshop.de', 'expiry': 1707477686, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.115967189.1644405687'}, {'domain': '.mysteakshop.de', 'expiry': 1644407487, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0b53bbf8-d764-4ec0-a184-9591d1936a7c'}, {'domain': '.mysteakshop.de', 'expiry': 1675941687, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '57d1b767-e6db-4142-9551-84edbf2a0e59'}, {'domain': '.mysteakshop.de', 'expiry': 1644407486, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T11%3A21%3A26.771Z'}, {'domain': '.mysteakshop.de', 'expiry': 1644407486, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.mysteakshop.de', 'expiry': 1644407487, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0b53bbf8-d764-4ec0-a184-9591d1936a7c'}, {'domain': '.mysteakshop.de', 'expiry': 1675941687, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '57d1b767-e6db-4142-9551-84edbf2a0e59'}, {'domain': 'www.mysteakshop.de', 'expiry': 1645615287, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.mysteakshop.de', 'expiry': 1645615286, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.mysteakshop.de', 'expiry': 1645615286, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.mysteakshop.de', 'expiry': 1645615287, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.mysteakshop.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220209112128-Fm3CtSsk2g8RdmeKms5Wwr4ljrayyrhnpbGnK0uAB6ji6OhVn'}, {'domain': 'www.mysteakshop.de', 'expiry': 1675941687, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: snize-recommendation
+[After] Cookie-Name 2: omnisendSessionID
+[After] Cookie-Name 3: _shg_user_id
+[After] Cookie-Name 4: _shg_session_id
+[After] Cookie-Name 5: _fbp
+[After] Cookie-Name 6: shopify_pay_redirect
+[After] Cookie-Name 7: _gat
+[After] Cookie-Name 8: _gid
+[After] Cookie-Name 9: omnisendAnonymousID
+[After] Cookie-Name 10: _ga
+[After] Cookie-Name 11: _shopify_s
+[After] Cookie-Name 12: _shopify_y
+[After] Cookie-Name 13: _shopify_sa_t
+[After] Cookie-Name 14: _shopify_sa_p
+[After] Cookie-Name 15: _s
+[After] Cookie-Name 16: _y
+[After] Cookie-Name 17: cart_currency
+[After] Cookie-Name 18: _landing_page
+[After] Cookie-Name 19: _orig_referrer
+[After] Cookie-Name 20: localization
+[After] Cookie-Name 21: soundestID
+[After] Cookie-Name 22: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

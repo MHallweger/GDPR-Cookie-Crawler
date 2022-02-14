@@ -1,0 +1,87 @@
+Website 98: http://www.blickfang-freiburg.de/ | Created: 08.02.2022 22:09:41 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 27
+[Before] Website-Cookies: [{'domain': 'blickfang-freiburg.de', 'httpOnly': False, 'name': 'optiMonkSession', 'path': '/', 'secure': False, 'value': '1644354572'}, {'domain': 'blickfang-freiburg.de', 'expiry': 1675890572, 'httpOnly': False, 'name': 'optiMonkClient', 'path': '/', 'secure': False, 'value': 'N4IgjALADAnAHAdhALlAYwIYtGbINoAuKUANPgA4UnloBOKIAbGFAhlFAMwZcIBGaOJzAATNJlGIQ5AHYB7UTRABnRgEtZ64gF9yAJjwFiyMpWqnaDZM1aiw/B3DBgAZq/4i0MDAFMArDAwMiAKSpaqGlq6eiCuAG4oYEwQEFz+EP4I+uQANonIyanpmdly8hQFYDo6QA==='}, {'domain': 'blickfang-freiburg.de', 'expiry': 1675890571, 'httpOnly': False, 'name': 'optiMonkClientId', 'path': '/', 'secure': False, 'value': '090db837-42d1-5f8f-510f-afba6aeade21'}, {'domain': '.blickfang-freiburg.de', 'expiry': 1644356371, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.blickfang-freiburg.de', 'expiry': 1644356371, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.blickfang-freiburg.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A09%3A31.372Z'}, {'domain': 'blickfang-freiburg.de', 'expiry': 1707426571, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQzNTQ1NzEsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vYmxpY2tmYW5nLWZyZWlidXJnLmRlLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDM1NDU3MSwidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly9ibGlja2ZhbmctZnJlaWJ1cmcuZGUvIn19'}, {'domain': '.blickfang-freiburg.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.blickfang-freiburg.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.blickfang-freiburg.de', 'expiry': 1644356371, 'httpOnly': False, 'name': '_hjSession_2198072', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImJiODA3YzdhLTQxNWUtNDdmNC05ZGExLTk3NGY0N2RlZGZiNiIsImNyZWF0ZWQiOjE2NDQzNTQ1NzE0ODIsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': 'blickfang-freiburg.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.blickfang-freiburg.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bd7d6785-95e8-4d27-b941-381bdc73389f'}, {'domain': '.blickfang-freiburg.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.blickfang-freiburg.de', 'expiry': 1644356372, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.blickfang-freiburg.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '78632549-c8b4-41c9-9a53-5a2f867ea6f8'}, {'domain': '.blickfang-freiburg.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bd7d6785-95e8-4d27-b941-381bdc73389f'}, {'domain': '.blickfang-freiburg.de', 'expiry': 1675890571, 'httpOnly': False, 'name': '_hjSessionUser_2198072', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjY1MTk5MmUwLTNmZTUtNWVlMy1iYTQ0LTM1ZjdiOGE1Y2UzYyIsImNyZWF0ZWQiOjE2NDQzNTQ1NzEyNjIsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': 'blickfang-freiburg.de', 'expiry': 1645564172, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.blickfang-freiburg.de', 'expiry': 1645564170, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.blickfang-freiburg.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '78632549-c8b4-41c9-9a53-5a2f867ea6f8'}, {'domain': '.blickfang-freiburg.de', 'expiry': 1675890570, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%7D'}, {'domain': '.blickfang-freiburg.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A09%3A31.349Z'}, {'domain': '.blickfang-freiburg.de', 'expiry': 1675890570, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': 'blickfang-freiburg.de', 'expiry': 1675890572, 'httpOnly': False, 'name': 'omAbTest1', 'path': '/', 'secure': False, 'value': '6107a003a37bc8001dccad87'}, {'domain': '.blickfang-freiburg.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'blickfang-freiburg.de', 'expiry': 1645564172, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'blickfang-freiburg.de', 'expiry': 1675890572, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: optiMonkSession
+[Before] Cookie-Name 2: optiMonkClient
+[Before] Cookie-Name 3: optiMonkClientId
+[Before] Cookie-Name 4: _hjFirstSeen
+[Before] Cookie-Name 5: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 6: _shopify_sa_t
+[Before] Cookie-Name 7: __kla_id
+[Before] Cookie-Name 8: _shopify_sa_p
+[Before] Cookie-Name 9: _shopify_evids
+[Before] Cookie-Name 10: _hjSession_2198072
+[Before] Cookie-Name 11: _shopify_evids
+[Before] Cookie-Name 12: _shopify_s
+[Before] Cookie-Name 13: _orig_referrer
+[Before] Cookie-Name 14: _shopify_tm
+[Before] Cookie-Name 15: _shopify_y
+[Before] Cookie-Name 16: _s
+[Before] Cookie-Name 17: _hjSessionUser_2198072
+[Before] Cookie-Name 18: cart_currency
+[Before] Cookie-Name 19: _shopify_tw
+[Before] Cookie-Name 20: _y
+[Before] Cookie-Name 21: _tracking_consent
+[Before] Cookie-Name 22: _shopify_d
+[Before] Cookie-Name 23: _shopify_m
+[Before] Cookie-Name 24: omAbTest1
+[Before] Cookie-Name 25: _landing_page
+[Before] Cookie-Name 26: localization
+[Before] Cookie-Name 27: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 27
+[After] Website-Cookies: [{'domain': 'blickfang-freiburg.de', 'httpOnly': False, 'name': 'optiMonkSession', 'path': '/', 'secure': False, 'value': '1644354572'}, {'domain': 'blickfang-freiburg.de', 'expiry': 1675890572, 'httpOnly': False, 'name': 'optiMonkClient', 'path': '/', 'secure': False, 'value': 'N4IgjALADAnAHAdhALlAYwIYtGbINoAuKUANPgA4UnloBOKIAbGFAhlFAMwZcIBGaOJzAATNJlGIQ5AHYB7UTRABnRgEtZ64gF9yAJjwFiyMpWqnaDZM1aiw/B3DBgAZq/4i0MDAFMArDAwMiAKSpaqGlq6eiCuAG4oYEwQEFz+EP4I+uQANonIyanpmdly8hQFYDo6QA==='}, {'domain': 'blickfang-freiburg.de', 'expiry': 1675890571, 'httpOnly': False, 'name': 'optiMonkClientId', 'path': '/', 'secure': False, 'value': '090db837-42d1-5f8f-510f-afba6aeade21'}, {'domain': '.blickfang-freiburg.de', 'expiry': 1644356371, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.blickfang-freiburg.de', 'expiry': 1644356371, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.blickfang-freiburg.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A09%3A31.372Z'}, {'domain': 'blickfang-freiburg.de', 'expiry': 1707426571, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQzNTQ1NzEsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vYmxpY2tmYW5nLWZyZWlidXJnLmRlLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDM1NDU3MSwidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly9ibGlja2ZhbmctZnJlaWJ1cmcuZGUvIn19'}, {'domain': '.blickfang-freiburg.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.blickfang-freiburg.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.blickfang-freiburg.de', 'expiry': 1644356371, 'httpOnly': False, 'name': '_hjSession_2198072', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImJiODA3YzdhLTQxNWUtNDdmNC05ZGExLTk3NGY0N2RlZGZiNiIsImNyZWF0ZWQiOjE2NDQzNTQ1NzE0ODIsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': 'blickfang-freiburg.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.blickfang-freiburg.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bd7d6785-95e8-4d27-b941-381bdc73389f'}, {'domain': '.blickfang-freiburg.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.blickfang-freiburg.de', 'expiry': 1644356372, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.blickfang-freiburg.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '78632549-c8b4-41c9-9a53-5a2f867ea6f8'}, {'domain': '.blickfang-freiburg.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bd7d6785-95e8-4d27-b941-381bdc73389f'}, {'domain': '.blickfang-freiburg.de', 'expiry': 1675890571, 'httpOnly': False, 'name': '_hjSessionUser_2198072', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjY1MTk5MmUwLTNmZTUtNWVlMy1iYTQ0LTM1ZjdiOGE1Y2UzYyIsImNyZWF0ZWQiOjE2NDQzNTQ1NzEyNjIsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': 'blickfang-freiburg.de', 'expiry': 1645564172, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.blickfang-freiburg.de', 'expiry': 1645564170, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.blickfang-freiburg.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '78632549-c8b4-41c9-9a53-5a2f867ea6f8'}, {'domain': '.blickfang-freiburg.de', 'expiry': 1675890570, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%7D'}, {'domain': '.blickfang-freiburg.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A09%3A31.349Z'}, {'domain': '.blickfang-freiburg.de', 'expiry': 1675890570, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': 'blickfang-freiburg.de', 'expiry': 1675890572, 'httpOnly': False, 'name': 'omAbTest1', 'path': '/', 'secure': False, 'value': '6107a003a37bc8001dccad87'}, {'domain': '.blickfang-freiburg.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'blickfang-freiburg.de', 'expiry': 1645564172, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'blickfang-freiburg.de', 'expiry': 1675890572, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: optiMonkSession
+[After] Cookie-Name 2: optiMonkClient
+[After] Cookie-Name 3: optiMonkClientId
+[After] Cookie-Name 4: _hjFirstSeen
+[After] Cookie-Name 5: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 6: _shopify_sa_t
+[After] Cookie-Name 7: __kla_id
+[After] Cookie-Name 8: _shopify_sa_p
+[After] Cookie-Name 9: _shopify_evids
+[After] Cookie-Name 10: _hjSession_2198072
+[After] Cookie-Name 11: _shopify_evids
+[After] Cookie-Name 12: _shopify_s
+[After] Cookie-Name 13: _orig_referrer
+[After] Cookie-Name 14: _shopify_tm
+[After] Cookie-Name 15: _shopify_y
+[After] Cookie-Name 16: _s
+[After] Cookie-Name 17: _hjSessionUser_2198072
+[After] Cookie-Name 18: cart_currency
+[After] Cookie-Name 19: _shopify_tw
+[After] Cookie-Name 20: _y
+[After] Cookie-Name 21: _tracking_consent
+[After] Cookie-Name 22: _shopify_d
+[After] Cookie-Name 23: _shopify_m
+[After] Cookie-Name 24: omAbTest1
+[After] Cookie-Name 25: _landing_page
+[After] Cookie-Name 26: localization
+[After] Cookie-Name 27: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

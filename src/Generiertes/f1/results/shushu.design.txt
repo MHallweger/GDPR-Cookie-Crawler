@@ -1,0 +1,81 @@
+Website 10: http://www.shushu.design/ | Created: 08.02.2022 21:41:48 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 22
+[Before] Website-Cookies: [{'domain': '.shushu.design', 'expiry': 1675888901, 'httpOnly': False, 'name': '_privy_C7351A655616DDDBB570D2D0', 'path': '/', 'secure': False, 'value': '%7B%22uuid%22%3A%223c07dd55-2289-4a34-9c5d-724b8d11404c%22%2C%22variations%22%3A%7B%7D%2C%22country_code%22%3A%22DE%22%2C%22region_code%22%3A%22DE_%22%2C%22postal_code%22%3A%22%22%2C%22cart_value%22%3A0%7D'}, {'domain': '.shushu.design', 'expiry': 1644354699, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': 'shushu.design', 'expiry': 1644353019, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'shushu.design', 'expiry': 1644353019, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.shushu.design', 'expiry': 1644354699, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.shushu.design', 'expiry': 1652128899, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644352899077.1823545313'}, {'domain': '.shushu.design', 'expiry': 1707424898, 'httpOnly': False, 'name': '_ga_F9R0CLSBZE', 'path': '/', 'secure': False, 'value': 'GS1.1.1644352898.1.0.1644352898.60'}, {'domain': '.shushu.design', 'expiry': 1644439298, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.115825993.1644352899'}, {'domain': '.shushu.design', 'expiry': 1644354698, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.shushu.design', 'expiry': 1644354698, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T20%3A41%3A38.807Z'}, {'domain': '.shushu.design', 'expiry': 1644354699, 'httpOnly': False, 'name': '_hjSession_2167472', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjAzZWI4NGUxLWEwNWMtNGU5OC05NzI1LWVkZTZlOTI3Y2EzNiIsImNyZWF0ZWQiOjE2NDQzNTI4OTk1NzAsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': '.shushu.design', 'expiry': 1675888899, 'httpOnly': False, 'name': '_hjSessionUser_2167472', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjVhNThlMjdiLWI1NWUtNWU3MS05ZTVlLTk2MjdlMDFmNDc1MSIsImNyZWF0ZWQiOjE2NDQzNTI4OTkyMjMsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.shushu.design', 'expiry': 1652128898, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.566977239.1644352899'}, {'domain': '.shushu.design', 'expiry': 1644354701, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '02ae1933-f888-46b7-8d26-84c93b4a94fa'}, {'domain': '.shushu.design', 'expiry': 1675888901, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '730111af-0793-4d7e-8855-60c6ed518041'}, {'domain': '.shushu.design', 'expiry': 1675888901, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '730111af-0793-4d7e-8855-60c6ed518041'}, {'domain': '.shushu.design', 'expiry': 1645562498, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.shushu.design', 'expiry': 1707424898, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.1.1212365874.1644352899'}, {'domain': '.shushu.design', 'expiry': 1644354701, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '02ae1933-f888-46b7-8d26-84c93b4a94fa'}, {'domain': '.shushu.design', 'expiry': 1644352958, 'httpOnly': False, 'name': '_gat_UA-194155587-1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.shushu.design', 'expiry': 1645562498, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'shushu.design', 'expiry': 1675888901, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _privy_C7351A655616DDDBB570D2D0
+[Before] Cookie-Name 2: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 3: _hjIncludedInPageviewSample
+[Before] Cookie-Name 4: _hjIncludedInSessionSample
+[Before] Cookie-Name 5: _hjFirstSeen
+[Before] Cookie-Name 6: _fbp
+[Before] Cookie-Name 7: _ga_F9R0CLSBZE
+[Before] Cookie-Name 8: _gid
+[Before] Cookie-Name 9: _shopify_sa_p
+[Before] Cookie-Name 10: _shopify_sa_t
+[Before] Cookie-Name 11: _hjSession_2167472
+[Before] Cookie-Name 12: _hjSessionUser_2167472
+[Before] Cookie-Name 13: _gcl_au
+[Before] Cookie-Name 14: _shopify_s
+[Before] Cookie-Name 15: _y
+[Before] Cookie-Name 16: _shopify_y
+[Before] Cookie-Name 17: _landing_page
+[Before] Cookie-Name 18: _ga
+[Before] Cookie-Name 19: _s
+[Before] Cookie-Name 20: _gat_UA-194155587-1
+[Before] Cookie-Name 21: _orig_referrer
+[Before] Cookie-Name 22: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 22
+[After] Website-Cookies: [{'domain': '.shushu.design', 'expiry': 1675888901, 'httpOnly': False, 'name': '_privy_C7351A655616DDDBB570D2D0', 'path': '/', 'secure': False, 'value': '%7B%22uuid%22%3A%223c07dd55-2289-4a34-9c5d-724b8d11404c%22%2C%22variations%22%3A%7B%7D%2C%22country_code%22%3A%22DE%22%2C%22region_code%22%3A%22DE_%22%2C%22postal_code%22%3A%22%22%2C%22cart_value%22%3A0%7D'}, {'domain': '.shushu.design', 'expiry': 1644354699, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': 'shushu.design', 'expiry': 1644353019, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'shushu.design', 'expiry': 1644353019, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.shushu.design', 'expiry': 1644354699, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.shushu.design', 'expiry': 1652128899, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644352899077.1823545313'}, {'domain': '.shushu.design', 'expiry': 1707424898, 'httpOnly': False, 'name': '_ga_F9R0CLSBZE', 'path': '/', 'secure': False, 'value': 'GS1.1.1644352898.1.0.1644352898.60'}, {'domain': '.shushu.design', 'expiry': 1644439298, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.115825993.1644352899'}, {'domain': '.shushu.design', 'expiry': 1644354698, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.shushu.design', 'expiry': 1644354698, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T20%3A41%3A38.807Z'}, {'domain': '.shushu.design', 'expiry': 1644354699, 'httpOnly': False, 'name': '_hjSession_2167472', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjAzZWI4NGUxLWEwNWMtNGU5OC05NzI1LWVkZTZlOTI3Y2EzNiIsImNyZWF0ZWQiOjE2NDQzNTI4OTk1NzAsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': '.shushu.design', 'expiry': 1675888899, 'httpOnly': False, 'name': '_hjSessionUser_2167472', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjVhNThlMjdiLWI1NWUtNWU3MS05ZTVlLTk2MjdlMDFmNDc1MSIsImNyZWF0ZWQiOjE2NDQzNTI4OTkyMjMsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.shushu.design', 'expiry': 1652128898, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.566977239.1644352899'}, {'domain': '.shushu.design', 'expiry': 1644354701, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '02ae1933-f888-46b7-8d26-84c93b4a94fa'}, {'domain': '.shushu.design', 'expiry': 1675888901, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '730111af-0793-4d7e-8855-60c6ed518041'}, {'domain': '.shushu.design', 'expiry': 1675888901, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '730111af-0793-4d7e-8855-60c6ed518041'}, {'domain': '.shushu.design', 'expiry': 1645562498, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.shushu.design', 'expiry': 1707424898, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.1.1212365874.1644352899'}, {'domain': '.shushu.design', 'expiry': 1644354701, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '02ae1933-f888-46b7-8d26-84c93b4a94fa'}, {'domain': '.shushu.design', 'expiry': 1644352958, 'httpOnly': False, 'name': '_gat_UA-194155587-1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.shushu.design', 'expiry': 1645562498, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'shushu.design', 'expiry': 1675888901, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _privy_C7351A655616DDDBB570D2D0
+[After] Cookie-Name 2: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 3: _hjIncludedInPageviewSample
+[After] Cookie-Name 4: _hjIncludedInSessionSample
+[After] Cookie-Name 5: _hjFirstSeen
+[After] Cookie-Name 6: _fbp
+[After] Cookie-Name 7: _ga_F9R0CLSBZE
+[After] Cookie-Name 8: _gid
+[After] Cookie-Name 9: _shopify_sa_p
+[After] Cookie-Name 10: _shopify_sa_t
+[After] Cookie-Name 11: _hjSession_2167472
+[After] Cookie-Name 12: _hjSessionUser_2167472
+[After] Cookie-Name 13: _gcl_au
+[After] Cookie-Name 14: _shopify_s
+[After] Cookie-Name 15: _y
+[After] Cookie-Name 16: _shopify_y
+[After] Cookie-Name 17: _landing_page
+[After] Cookie-Name 18: _ga
+[After] Cookie-Name 19: _s
+[After] Cookie-Name 20: _gat_UA-194155587-1
+[After] Cookie-Name 21: _orig_referrer
+[After] Cookie-Name 22: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjIncludedInPageviewSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjIncludedInSessionSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

@@ -1,0 +1,88 @@
+Website 174: http://www.sofaforyou.de/ | Created: 10.02.2022 18:12:03 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 23
+[Before] Website-Cookies: [{'domain': 'www.sofaforyou.de', 'expiry': 1644513172, 'httpOnly': False, 'name': '_aii_Rh9np', 'path': '/', 'secure': False, 'value': '790ad2744af750f2d4116668a4d3f3cb'}, {'domain': '.sofaforyou.de', 'expiry': 1707585115, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1612004227.1644513112'}, {'domain': '.sofaforyou.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.sofaforyou.de', 'expiry': 1652289111, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1510176058.1644513112'}, {'domain': '.sofaforyou.de', 'expiry': 1644599515, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.308614510.1644513112'}, {'domain': '.sofaforyou.de', 'expiry': 1690647111, 'httpOnly': False, 'name': 'ku1-vid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': '5df1d6d9-1f97-1066-e7a9-8bc67fe39e09'}, {'domain': 'www.sofaforyou.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.sofaforyou.de', 'httpOnly': False, 'name': 'ku1-sid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': 'QEw9K42SZfGy3Me9-sp1L'}, {'domain': '.sofaforyou.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.sofaforyou.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A11%3A51.383Z'}, {'domain': '.sofaforyou.de', 'expiry': 1644513171, 'httpOnly': False, 'name': '_gat_UA-209488780-1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.sofaforyou.de', 'expiry': 1645722710, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.sofaforyou.de', 'expiry': 1676049110, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%7D'}, {'domain': '.sofaforyou.de', 'expiry': 1676049110, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.sofaforyou.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '46f72d24-1bdf-4236-8931-45760f4dcd88'}, {'domain': '.sofaforyou.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7b92ddac-89c4-4664-a462-4722b5912a55'}, {'domain': '.sofaforyou.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '46f72d24-1bdf-4236-8931-45760f4dcd88'}, {'domain': '.sofaforyou.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7b92ddac-89c4-4664-a462-4722b5912a55'}, {'domain': '.sofaforyou.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A11%3A51.648Z'}, {'domain': '.sofaforyou.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.sofaforyou.de', 'expiry': 1644514914, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.sofaforyou.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.sofaforyou.de', 'expiry': 1676049114, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _aii_Rh9np
+[Before] Cookie-Name 2: _ga
+[Before] Cookie-Name 3: _shopify_sa_p
+[Before] Cookie-Name 4: _gcl_au
+[Before] Cookie-Name 5: _gid
+[Before] Cookie-Name 6: ku1-vid
+[Before] Cookie-Name 7: _shopify_evids
+[Before] Cookie-Name 8: ku1-sid
+[Before] Cookie-Name 9: _shopify_evids
+[Before] Cookie-Name 10: _shopify_d
+[Before] Cookie-Name 11: _gat_UA-209488780-1
+[Before] Cookie-Name 12: _shopify_tw
+[Before] Cookie-Name 13: _tracking_consent
+[Before] Cookie-Name 14: _shopify_m
+[Before] Cookie-Name 15: _shopify_s
+[Before] Cookie-Name 16: _shopify_y
+[Before] Cookie-Name 17: _s
+[Before] Cookie-Name 18: _y
+[Before] Cookie-Name 19: _shopify_sa_t
+[Before] Cookie-Name 20: _orig_referrer
+[Before] Cookie-Name 21: _shopify_tm
+[Before] Cookie-Name 22: _landing_page
+[Before] Cookie-Name 23: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 29
+[After] Website-Cookies: [{'domain': '.sofaforyou.de', 'expiry': 1652289130, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644513130066.1967010432'}, {'domain': '.sofaforyou.de', 'expiry': 1676049129, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU56Vm1OR1JqWWprdE1ESTBPQzAwTkRVekxUbGlaVEF0TVdZellUWm1ZelV6TXpGbQ'}, {'domain': '.sofaforyou.de', 'expiry': 1676049129, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22con%22%3A%7B%22GDPR%22%3A%221%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%7D'}, {'domain': '.sofaforyou.de', 'expiry': 1676049129, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': 'www.sofaforyou.de', 'expiry': 1645722729, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.sofaforyou.de', 'expiry': 1645722710, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.sofaforyou.de', 'expiry': 1644514929, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.sofaforyou.de', 'expiry': 1645722729, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.sofaforyou.de', 'expiry': 1644513172, 'httpOnly': False, 'name': '_aii_Rh9np', 'path': '/', 'secure': False, 'value': '790ad2744af750f2d4116668a4d3f3cb'}, {'domain': '.sofaforyou.de', 'expiry': 1707585115, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1612004227.1644513112'}, {'domain': '.sofaforyou.de', 'expiry': 1652289111, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1510176058.1644513112'}, {'domain': '.sofaforyou.de', 'expiry': 1644599515, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.308614510.1644513112'}, {'domain': '.sofaforyou.de', 'expiry': 1644513189, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.sofaforyou.de', 'expiry': 1644514929, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A11%3A51.648Z'}, {'domain': '.sofaforyou.de', 'expiry': 1690647111, 'httpOnly': False, 'name': 'ku1-vid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': '5df1d6d9-1f97-1066-e7a9-8bc67fe39e09'}, {'domain': 'www.sofaforyou.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.sofaforyou.de', 'httpOnly': False, 'name': 'ku1-sid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': 'QEw9K42SZfGy3Me9-sp1L'}, {'domain': '.sofaforyou.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.sofaforyou.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A11%3A51.383Z'}, {'domain': '.sofaforyou.de', 'expiry': 1644513171, 'httpOnly': False, 'name': '_gat_UA-209488780-1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.sofaforyou.de', 'expiry': 1645722729, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.sofaforyou.de', 'expiry': 1644514929, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '46f72d24-1bdf-4236-8931-45760f4dcd88'}, {'domain': '.sofaforyou.de', 'expiry': 1676049129, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7b92ddac-89c4-4664-a462-4722b5912a55'}, {'domain': '.sofaforyou.de', 'expiry': 1645722729, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.sofaforyou.de', 'expiry': 1645722729, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.sofaforyou.de', 'expiry': 1644514929, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '46f72d24-1bdf-4236-8931-45760f4dcd88'}, {'domain': '.sofaforyou.de', 'expiry': 1676049129, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7b92ddac-89c4-4664-a462-4722b5912a55'}, {'domain': '.sofaforyou.de', 'expiry': 1644514929, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.sofaforyou.de', 'expiry': 1676049129, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _fbp
+[After] Cookie-Name 2: _pin_unauth
+[After] Cookie-Name 3: _tracking_consent
+[After] Cookie-Name 4: _shopify_m
+[After] Cookie-Name 5: cart_sig
+[After] Cookie-Name 6: _shopify_tw
+[After] Cookie-Name 7: _shopify_sa_p
+[After] Cookie-Name 8: localization
+[After] Cookie-Name 9: _aii_Rh9np
+[After] Cookie-Name 10: _ga
+[After] Cookie-Name 11: _gcl_au
+[After] Cookie-Name 12: _gid
+[After] Cookie-Name 13: _gat
+[After] Cookie-Name 14: _shopify_sa_t
+[After] Cookie-Name 15: ku1-vid
+[After] Cookie-Name 16: _shopify_evids
+[After] Cookie-Name 17: ku1-sid
+[After] Cookie-Name 18: _shopify_evids
+[After] Cookie-Name 19: _shopify_d
+[After] Cookie-Name 20: _gat_UA-209488780-1
+[After] Cookie-Name 21: _orig_referrer
+[After] Cookie-Name 22: _shopify_s
+[After] Cookie-Name 23: _shopify_y
+[After] Cookie-Name 24: _landing_page
+[After] Cookie-Name 25: cart_currency
+[After] Cookie-Name 26: _s
+[After] Cookie-Name 27: _y
+[After] Cookie-Name 28: _shopify_tm
+[After] Cookie-Name 29: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _gid (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 6
+[Difference] Cookie-Name: 1: _pin_unauth
+[Difference] Cookie-Name: 2: cart_currency
+[Difference] Cookie-Name: 3: cart_sig
+[Difference] Cookie-Name: 4: _gat
+[Difference] Cookie-Name: 5: _fbp
+[Difference] Cookie-Name: 6: localization
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

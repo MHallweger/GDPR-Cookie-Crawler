@@ -1,0 +1,85 @@
+Website 172: http://www.kabeldirekt-store.de/ | Created: 09.02.2022 14:34:23 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 26
+[Before] Website-Cookies: [{'domain': 'kabeldirekt-store.de', 'expiry': 1645623253, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A2'}, {'domain': 'kabeldirekt-store.de', 'expiry': 1645623253, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e851941a121550ef72fa701816998a38'}, {'domain': 'kabeldirekt-store.de', 'expiry': 1645623253, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644413653'}, {'domain': 'kabeldirekt-store.de', 'expiry': 1645623253, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '20e54cf95fa572134c04036c80cd17c3'}, {'domain': '.kabeldirekt-store.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A34%3A12.468Z'}, {'domain': '.kabeldirekt-store.de', 'expiry': 1675949652, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': '.kabeldirekt-store.de', 'expiry': 1644500052, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.716480097.1644413652'}, {'domain': '.kabeldirekt-store.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kabeldirekt-store.de', 'expiry': 1707485652, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.488715552.1644413652'}, {'domain': '.kabeldirekt-store.de', 'expiry': 1644413712, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'kabeldirekt-store.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kabeldirekt-store.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kabeldirekt-store.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kabeldirekt-store.de', 'expiry': 1675949652, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.kabeldirekt-store.de', 'expiry': 1644415454, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kabeldirekt-store.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b88dc219-8036-4020-9248-82427d3a2d9f'}, {'domain': 'kabeldirekt-store.de', 'expiry': 1644417253, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.kabeldirekt-store.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A34%3A12.450Z'}, {'domain': '.kabeldirekt-store.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.kabeldirekt-store.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7a7c28a5-10c3-4f07-aef0-d093f8f8a5c3'}, {'domain': '.kabeldirekt-store.de', 'expiry': 1645623252, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kabeldirekt-store.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7a7c28a5-10c3-4f07-aef0-d093f8f8a5c3'}, {'domain': '.kabeldirekt-store.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b88dc219-8036-4020-9248-82427d3a2d9f'}, {'domain': 'kabeldirekt-store.de', 'expiry': 1675949653, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'kabeldirekt-store.de', 'expiry': 1645623253, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'kabeldirekt-store.de', 'expiry': 1645623253, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[Before] Cookie-Name 1: cart_ver
+[Before] Cookie-Name 2: cart_sig
+[Before] Cookie-Name 3: cart_ts
+[Before] Cookie-Name 4: cart
+[Before] Cookie-Name 5: _shopify_sa_t
+[Before] Cookie-Name 6: _tracking_consent
+[Before] Cookie-Name 7: _gid
+[Before] Cookie-Name 8: _orig_referrer
+[Before] Cookie-Name 9: _ga
+[Before] Cookie-Name 10: _gat
+[Before] Cookie-Name 11: _shopify_evids
+[Before] Cookie-Name 12: _shopify_sa_p
+[Before] Cookie-Name 13: _shopify_evids
+[Before] Cookie-Name 14: _shopify_m
+[Before] Cookie-Name 15: _shopify_tm
+[Before] Cookie-Name 16: _y
+[Before] Cookie-Name 17: shopify_pay_redirect
+[Before] Cookie-Name 18: _shopify_d
+[Before] Cookie-Name 19: _landing_page
+[Before] Cookie-Name 20: _shopify_s
+[Before] Cookie-Name 21: _shopify_tw
+[Before] Cookie-Name 22: _s
+[Before] Cookie-Name 23: _shopify_y
+[Before] Cookie-Name 24: secure_customer_sig
+[Before] Cookie-Name 25: cart_currency
+[Before] Cookie-Name 26: localization
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 28
+[After] Website-Cookies: [{'domain': '.kabeldirekt-store.de', 'expiry': 1652189670, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644413669681.1947875894'}, {'domain': '.kabeldirekt-store.de', 'expiry': 1652189669, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.115280590.1644413670'}, {'domain': '.kabeldirekt-store.de', 'expiry': 1675949669, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': 'kabeldirekt-store.de', 'expiry': 1645623253, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A2'}, {'domain': 'kabeldirekt-store.de', 'expiry': 1645623269, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e851941a121550ef72fa701816998a38'}, {'domain': 'kabeldirekt-store.de', 'expiry': 1645623253, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '20e54cf95fa572134c04036c80cd17c3'}, {'domain': '.kabeldirekt-store.de', 'expiry': 1644415469, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A34%3A12.468Z'}, {'domain': '.kabeldirekt-store.de', 'expiry': 1675949669, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%221%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': '.kabeldirekt-store.de', 'expiry': 1644500052, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.716480097.1644413652'}, {'domain': '.kabeldirekt-store.de', 'expiry': 1645623269, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kabeldirekt-store.de', 'expiry': 1707485652, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.488715552.1644413652'}, {'domain': '.kabeldirekt-store.de', 'expiry': 1644413712, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'kabeldirekt-store.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kabeldirekt-store.de', 'expiry': 1644415469, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kabeldirekt-store.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kabeldirekt-store.de', 'expiry': 1644415469, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kabeldirekt-store.de', 'expiry': 1644415469, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7a7c28a5-10c3-4f07-aef0-d093f8f8a5c3'}, {'domain': '.kabeldirekt-store.de', 'expiry': 1675949669, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b88dc219-8036-4020-9248-82427d3a2d9f'}, {'domain': '.kabeldirekt-store.de', 'expiry': 1645623252, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kabeldirekt-store.de', 'expiry': 1675949669, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b88dc219-8036-4020-9248-82427d3a2d9f'}, {'domain': 'kabeldirekt-store.de', 'expiry': 1644417253, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.kabeldirekt-store.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A34%3A12.450Z'}, {'domain': '.kabeldirekt-store.de', 'expiry': 1645623269, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.kabeldirekt-store.de', 'expiry': 1644415469, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7a7c28a5-10c3-4f07-aef0-d093f8f8a5c3'}, {'domain': 'kabeldirekt-store.de', 'expiry': 1675949669, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'kabeldirekt-store.de', 'expiry': 1645623269, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'kabeldirekt-store.de', 'expiry': 1645623253, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644413653'}, {'domain': 'kabeldirekt-store.de', 'expiry': 1645623269, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[After] Cookie-Name 1: _fbp
+[After] Cookie-Name 2: _gcl_au
+[After] Cookie-Name 3: _shopify_m
+[After] Cookie-Name 4: cart_ver
+[After] Cookie-Name 5: cart_sig
+[After] Cookie-Name 6: cart
+[After] Cookie-Name 7: _shopify_sa_t
+[After] Cookie-Name 8: _tracking_consent
+[After] Cookie-Name 9: _gid
+[After] Cookie-Name 10: _orig_referrer
+[After] Cookie-Name 11: _ga
+[After] Cookie-Name 12: _gat
+[After] Cookie-Name 13: _shopify_evids
+[After] Cookie-Name 14: _shopify_sa_p
+[After] Cookie-Name 15: _shopify_evids
+[After] Cookie-Name 16: _shopify_tm
+[After] Cookie-Name 17: _s
+[After] Cookie-Name 18: _shopify_y
+[After] Cookie-Name 19: _shopify_tw
+[After] Cookie-Name 20: _y
+[After] Cookie-Name 21: shopify_pay_redirect
+[After] Cookie-Name 22: _shopify_d
+[After] Cookie-Name 23: _landing_page
+[After] Cookie-Name 24: _shopify_s
+[After] Cookie-Name 25: secure_customer_sig
+[After] Cookie-Name 26: cart_currency
+[After] Cookie-Name 27: cart_ts
+[After] Cookie-Name 28: localization
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gat (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 2
+[Difference] Cookie-Name: 1: _fbp
+[Difference] Cookie-Name: 2: _gcl_au
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

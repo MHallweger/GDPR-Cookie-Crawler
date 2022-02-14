@@ -1,0 +1,57 @@
+Website 352: http://www.caprium.de/ | Created: 10.02.2022 19:04:00 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 14
+[Before] Website-Cookies: [{'domain': '.caprium.de', 'expiry': 1676052232, 'httpOnly': False, 'name': '_privy_6BECB5A8A75F778F56E3B71E', 'path': '/', 'secure': False, 'value': '%7B%22uuid%22%3A%2216623653-6eb5-419b-8064-bb8e9c494374%22%2C%22variations%22%3A%7B%7D%2C%22country_code%22%3A%22DE%22%2C%22region_code%22%3A%22DE_%22%2C%22postal_code%22%3A%22%22%7D'}, {'domain': '.caprium.de', 'expiry': 1676052230, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c2598f84-fed4-4704-9573-4519b4ab8698'}, {'domain': '.caprium.de', 'expiry': 1676052230, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c2598f84-fed4-4704-9573-4519b4ab8698'}, {'domain': 'caprium.de', 'expiry': 1644519831, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.caprium.de', 'expiry': 1645725830, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.caprium.de', 'expiry': 1644518031, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.caprium.de', 'expiry': 1645725830, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'caprium.de', 'expiry': 1645725830, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'caprium.de', 'expiry': 1645725830, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.caprium.de', 'expiry': 1644518031, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T18%3A03%3A51.120Z'}, {'domain': '.caprium.de', 'expiry': 1652292231, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644516231302.190825272'}, {'domain': '.caprium.de', 'expiry': 1644518031, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '41b1a2f6-ffd8-4ccb-9b83-840b3cca8f0c'}, {'domain': '.caprium.de', 'expiry': 1644518031, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '41b1a2f6-ffd8-4ccb-9b83-840b3cca8f0c'}, {'domain': 'caprium.de', 'expiry': 1676052230, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _privy_6BECB5A8A75F778F56E3B71E
+[Before] Cookie-Name 2: _y
+[Before] Cookie-Name 3: _shopify_y
+[Before] Cookie-Name 4: shopify_pay_redirect
+[Before] Cookie-Name 5: _landing_page
+[Before] Cookie-Name 6: _shopify_sa_p
+[Before] Cookie-Name 7: _orig_referrer
+[Before] Cookie-Name 8: cart_currency
+[Before] Cookie-Name 9: localization
+[Before] Cookie-Name 10: _shopify_sa_t
+[Before] Cookie-Name 11: _fbp
+[Before] Cookie-Name 12: _shopify_s
+[Before] Cookie-Name 13: _s
+[Before] Cookie-Name 14: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 15
+[After] Website-Cookies: [{'domain': 'caprium.de', 'expiry': 1676052246, 'httpOnly': False, 'name': 'cookieconsent_status', 'path': '/', 'secure': False, 'value': 'dismiss'}, {'domain': '.caprium.de', 'expiry': 1676052232, 'httpOnly': False, 'name': '_privy_6BECB5A8A75F778F56E3B71E', 'path': '/', 'secure': False, 'value': '%7B%22uuid%22%3A%2216623653-6eb5-419b-8064-bb8e9c494374%22%2C%22variations%22%3A%7B%7D%2C%22country_code%22%3A%22DE%22%2C%22region_code%22%3A%22DE_%22%2C%22postal_code%22%3A%22%22%7D'}, {'domain': '.caprium.de', 'expiry': 1676052230, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c2598f84-fed4-4704-9573-4519b4ab8698'}, {'domain': '.caprium.de', 'expiry': 1676052230, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c2598f84-fed4-4704-9573-4519b4ab8698'}, {'domain': 'caprium.de', 'expiry': 1644519831, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.caprium.de', 'expiry': 1645725830, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.caprium.de', 'expiry': 1644518031, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.caprium.de', 'expiry': 1645725830, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'caprium.de', 'expiry': 1645725830, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'caprium.de', 'expiry': 1645725830, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.caprium.de', 'expiry': 1644518031, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T18%3A03%3A51.120Z'}, {'domain': '.caprium.de', 'expiry': 1652292246, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644516231302.190825272'}, {'domain': '.caprium.de', 'expiry': 1644518031, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '41b1a2f6-ffd8-4ccb-9b83-840b3cca8f0c'}, {'domain': '.caprium.de', 'expiry': 1644518031, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '41b1a2f6-ffd8-4ccb-9b83-840b3cca8f0c'}, {'domain': 'caprium.de', 'expiry': 1676052230, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: cookieconsent_status
+[After] Cookie-Name 2: _privy_6BECB5A8A75F778F56E3B71E
+[After] Cookie-Name 3: _y
+[After] Cookie-Name 4: _shopify_y
+[After] Cookie-Name 5: shopify_pay_redirect
+[After] Cookie-Name 6: _landing_page
+[After] Cookie-Name 7: _shopify_sa_p
+[After] Cookie-Name 8: _orig_referrer
+[After] Cookie-Name 9: cart_currency
+[After] Cookie-Name 10: localization
+[After] Cookie-Name 11: _shopify_sa_t
+[After] Cookie-Name 12: _fbp
+[After] Cookie-Name 13: _shopify_s
+[After] Cookie-Name 14: _s
+[After] Cookie-Name 15: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: cookieconsent_status
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

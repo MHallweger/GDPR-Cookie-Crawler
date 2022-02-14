@@ -1,0 +1,63 @@
+Website 199: http://www.manhattanproducts.de/ | Created: 10.02.2022 13:11:25 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 15
+[Before] Website-Cookies: [{'domain': 'manhattanproducts.de', 'expiry': 1676031077, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': 'marketing'}, {'domain': '.manhattanproducts.de', 'expiry': 1652271076, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1051389201.1644495077'}, {'domain': '.manhattanproducts.de', 'expiry': 1707567076, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1505638864.1644495077'}, {'domain': '.manhattanproducts.de', 'expiry': 1676031076, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cad4980b-2e88-4f25-af20-2e5e55fab609'}, {'domain': '.manhattanproducts.de', 'expiry': 1644496876, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.manhattanproducts.de', 'expiry': 1676031076, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cad4980b-2e88-4f25-af20-2e5e55fab609'}, {'domain': '.manhattanproducts.de', 'expiry': 1644496876, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T12%3A11%3A16.516Z'}, {'domain': '.manhattanproducts.de', 'expiry': 1645704676, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.manhattanproducts.de', 'expiry': 1644581476, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1753111862.1644495077'}, {'domain': '.manhattanproducts.de', 'expiry': 1645704676, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.manhattanproducts.de', 'expiry': 1644496876, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'dd13405a-8261-4bc0-811e-02e0b5a3de94'}, {'domain': '.manhattanproducts.de', 'expiry': 1644495136, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'manhattanproducts.de', 'expiry': 1645704676, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'manhattanproducts.de', 'expiry': 1645704676, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'manhattanproducts.de', 'expiry': 1676031076, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: cookieconsent_preferences_disabled
+[Before] Cookie-Name 2: _gcl_au
+[Before] Cookie-Name 3: _ga
+[Before] Cookie-Name 4: _y
+[Before] Cookie-Name 5: _shopify_sa_p
+[Before] Cookie-Name 6: _shopify_y
+[Before] Cookie-Name 7: _shopify_sa_t
+[Before] Cookie-Name 8: _landing_page
+[Before] Cookie-Name 9: _gid
+[Before] Cookie-Name 10: _orig_referrer
+[Before] Cookie-Name 11: _shopify_s
+[Before] Cookie-Name 12: _gat
+[Before] Cookie-Name 13: localization
+[Before] Cookie-Name 14: cart_currency
+[Before] Cookie-Name 15: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 16
+[After] Website-Cookies: [{'domain': 'manhattanproducts.de', 'expiry': 1676031091, 'httpOnly': False, 'name': 'cookieconsent_status', 'path': '/', 'secure': False, 'value': 'allow'}, {'domain': 'manhattanproducts.de', 'expiry': 1676031091, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': 'marketing'}, {'domain': '.manhattanproducts.de', 'expiry': 1652271076, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1051389201.1644495077'}, {'domain': '.manhattanproducts.de', 'expiry': 1707567076, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1505638864.1644495077'}, {'domain': '.manhattanproducts.de', 'expiry': 1676031076, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cad4980b-2e88-4f25-af20-2e5e55fab609'}, {'domain': '.manhattanproducts.de', 'expiry': 1644496876, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.manhattanproducts.de', 'expiry': 1676031076, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cad4980b-2e88-4f25-af20-2e5e55fab609'}, {'domain': '.manhattanproducts.de', 'expiry': 1644496876, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T12%3A11%3A16.516Z'}, {'domain': '.manhattanproducts.de', 'expiry': 1645704676, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.manhattanproducts.de', 'expiry': 1644581476, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1753111862.1644495077'}, {'domain': '.manhattanproducts.de', 'expiry': 1645704676, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.manhattanproducts.de', 'expiry': 1644496876, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'dd13405a-8261-4bc0-811e-02e0b5a3de94'}, {'domain': '.manhattanproducts.de', 'expiry': 1644495136, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'manhattanproducts.de', 'expiry': 1645704676, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'manhattanproducts.de', 'expiry': 1645704676, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'manhattanproducts.de', 'expiry': 1676031076, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: cookieconsent_status
+[After] Cookie-Name 2: cookieconsent_preferences_disabled
+[After] Cookie-Name 3: _gcl_au
+[After] Cookie-Name 4: _ga
+[After] Cookie-Name 5: _y
+[After] Cookie-Name 6: _shopify_sa_p
+[After] Cookie-Name 7: _shopify_y
+[After] Cookie-Name 8: _shopify_sa_t
+[After] Cookie-Name 9: _landing_page
+[After] Cookie-Name 10: _gid
+[After] Cookie-Name 11: _orig_referrer
+[After] Cookie-Name 12: _shopify_s
+[After] Cookie-Name 13: _gat
+[After] Cookie-Name 14: localization
+[After] Cookie-Name 15: cart_currency
+[After] Cookie-Name 16: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _gat (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: cookieconsent_status
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

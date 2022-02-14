@@ -1,0 +1,117 @@
+Website 376: http://www.cvbeauty.de/ | Created: 08.02.2022 23:34:07 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 36
+[Before] Website-Cookies: [{'domain': '.cvbeauty.de', 'expiry': 1644361437, 'httpOnly': False, 'name': '_ju_pn', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.cvbeauty.de', 'expiry': 1644446038, 'httpOnly': False, 'name': '_ju_dm', 'path': '/', 'secure': False, 'value': 'cookie'}, {'domain': 'cvbeauty.de', 'expiry': 1770503638, 'httpOnly': False, 'name': '2c.cId', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6202efd645a1943e6624875d'}, {'domain': 'cvbeauty.de', 'expiry': 1675895638, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': ''}, {'domain': 'cvbeauty.de', 'expiry': 1770503638, 'httpOnly': False, 'name': 'nostojs', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'autoload'}, {'domain': 'cvbeauty.de', 'expiry': 1959719638, 'httpOnly': False, 'name': 'octane%2Fshopify%2Fuid', 'path': '/', 'secure': False, 'value': '1be930cd1f9e67f0790491dc57647ffc81cfd78b13d8d4d8e465d661a05a7d4b3e700f589d8d81f28c1871d5350bc1a72564ee324cf08ab916716485'}, {'domain': '.cvbeauty.de', 'expiry': 1652135634, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644359634167.947993620'}, {'domain': '.cvbeauty.de', 'expiry': 1646951638, 'httpOnly': False, 'name': '_ju_dn', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.cvbeauty.de', 'expiry': 1707431634, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.1.1770616431.1644359634'}, {'domain': '.cvbeauty.de', 'expiry': 1707431634, 'httpOnly': False, 'name': '_ga_9V60HD1BN0', 'path': '/', 'secure': False, 'value': 'GS1.1.1644359633.1.0.1644359633.0'}, {'domain': '.cvbeauty.de', 'expiry': 1644361433, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.cvbeauty.de', 'expiry': 1644359693, 'httpOnly': False, 'name': '_gat_gtag_UA_89667440_5', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.cvbeauty.de', 'expiry': 1644446033, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1084862181.1644359634'}, {'domain': 'cvbeauty.de', 'expiry': 1675895633, 'httpOnly': False, 'name': '_bamls_usid', 'path': '/', 'secure': False, 'value': 'eaabb37a-b9e9-421d-8950-b316bb7d4457'}, {'domain': '.cvbeauty.de', 'expiry': 1644359693, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.cvbeauty.de', 'expiry': 1644361199, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.cvbeauty.de', 'expiry': 1675895633, 'httpOnly': False, 'name': '_hjSessionUser_2813036', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjZlMGNiOGY0LTI0YzQtNTljZS05OTZmLWQ5MWQ5YTE5YTU0NCIsImNyZWF0ZWQiOjE2NDQzNTk2MzMwNzUsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.cvbeauty.de', 'expiry': 1644361433, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.cvbeauty.de', 'expiry': 1645569232, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.cvbeauty.de', 'expiry': 1644361433, 'httpOnly': False, 'name': '_hjSession_2813036', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImFlMGY3OTY2LTVmOTEtNGQ5MC1iZjVjLWRmNmI0MGEyOTdkZSIsImNyZWF0ZWQiOjE2NDQzNTk2MzM5MDQsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': 'cvbeauty.de', 'expiry': 1959759633, 'httpOnly': False, 'name': 'bitmovin_analytics_uuid', 'path': '/', 'secure': False, 'value': '6a2778c5-ed28-46c2-91a3-e94bf74eb562'}, {'domain': 'cvbeauty.de', 'expiry': 1644361435, 'httpOnly': False, 'name': '_ju_v', 'path': '/', 'secure': True, 'value': '4.1_5.05'}, {'domain': '.cvbeauty.de', 'expiry': 1675895634, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVptUTJZekkwTlRFdFpEZ3dOaTAwWkRrd0xXSTVObVl0TTJNMFptSTJPRGRtTkRCbQ'}, {'domain': '.cvbeauty.de', 'expiry': 1644361448, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '37ee1346-d063-4aef-a481-3daac0a1bc6b'}, {'domain': 'cvbeauty.de', 'expiry': 1644359753, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.cvbeauty.de', 'expiry': 1675895648, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd1eef8a9-5e08-4947-a912-cd2f032ecf9a'}, {'domain': '.cvbeauty.de', 'expiry': 1675895648, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd1eef8a9-5e08-4947-a912-cd2f032ecf9a'}, {'domain': 'cvbeauty.de', 'expiry': 1645569248, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.cvbeauty.de', 'expiry': 1675895640, 'httpOnly': False, 'name': '_ju_dc', 'path': '/', 'secure': False, 'value': '3633b8c2-892f-11ec-8563-479cc10270fa'}, {'domain': '.cvbeauty.de', 'expiry': 1644361448, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '37ee1346-d063-4aef-a481-3daac0a1bc6b'}, {'domain': '.cvbeauty.de', 'expiry': 1645569232, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'cvbeauty.de', 'expiry': 1645569248, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'cvbeauty.de', 'expiry': 1644359753, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.cvbeauty.de', 'expiry': 1644361433, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T22%3A33%3A53.866Z'}, {'domain': '.cvbeauty.de', 'expiry': 1652135633, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.254276174.1644359633'}, {'domain': 'cvbeauty.de', 'expiry': 1675895648, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _ju_pn
+[Before] Cookie-Name 2: _ju_dm
+[Before] Cookie-Name 3: 2c.cId
+[Before] Cookie-Name 4: cookieconsent_preferences_disabled
+[Before] Cookie-Name 5: nostojs
+[Before] Cookie-Name 6: octane%2Fshopify%2Fuid
+[Before] Cookie-Name 7: _fbp
+[Before] Cookie-Name 8: _ju_dn
+[Before] Cookie-Name 9: _ga
+[Before] Cookie-Name 10: _ga_9V60HD1BN0
+[Before] Cookie-Name 11: _hjFirstSeen
+[Before] Cookie-Name 12: _gat_gtag_UA_89667440_5
+[Before] Cookie-Name 13: _gid
+[Before] Cookie-Name 14: _bamls_usid
+[Before] Cookie-Name 15: _gat
+[Before] Cookie-Name 16: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 17: _hjSessionUser_2813036
+[Before] Cookie-Name 18: _shopify_sa_p
+[Before] Cookie-Name 19: _orig_referrer
+[Before] Cookie-Name 20: _hjSession_2813036
+[Before] Cookie-Name 21: bitmovin_analytics_uuid
+[Before] Cookie-Name 22: _ju_v
+[Before] Cookie-Name 23: _pin_unauth
+[Before] Cookie-Name 24: _shopify_s
+[Before] Cookie-Name 25: _hjIncludedInSessionSample
+[Before] Cookie-Name 26: _y
+[Before] Cookie-Name 27: _shopify_y
+[Before] Cookie-Name 28: localization
+[Before] Cookie-Name 29: _ju_dc
+[Before] Cookie-Name 30: _s
+[Before] Cookie-Name 31: _landing_page
+[Before] Cookie-Name 32: cart_currency
+[Before] Cookie-Name 33: _hjIncludedInPageviewSample
+[Before] Cookie-Name 34: _shopify_sa_t
+[Before] Cookie-Name 35: _gcl_au
+[Before] Cookie-Name 36: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 40
+[After] Website-Cookies: [{'domain': 'cvbeauty.de', 'expiry': 1707431654, 'httpOnly': False, 'name': '_sp_id.4e07', 'path': '/', 'secure': False, 'value': 'bdbf27348f4980c7.1644359653.1.1644359654.1644359653'}, {'domain': 'cvbeauty.de', 'expiry': 1707431652, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQzNTk2NTMsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vY3ZiZWF1dHkuZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0MzU5NjUzLCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL2N2YmVhdXR5LmRlLyJ9fQ=='}, {'domain': '.cvbeauty.de', 'expiry': 1644361437, 'httpOnly': False, 'name': '_ju_pn', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.cvbeauty.de', 'expiry': 1644446038, 'httpOnly': False, 'name': '_ju_dm', 'path': '/', 'secure': False, 'value': 'cookie'}, {'domain': 'cvbeauty.de', 'expiry': 1770503638, 'httpOnly': False, 'name': '2c.cId', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6202efd645a1943e6624875d'}, {'domain': 'cvbeauty.de', 'expiry': 1675895652, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': ''}, {'domain': 'cvbeauty.de', 'expiry': 1770503638, 'httpOnly': False, 'name': 'nostojs', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'autoload'}, {'domain': 'cvbeauty.de', 'expiry': 1959719638, 'httpOnly': False, 'name': 'octane%2Fshopify%2Fuid', 'path': '/', 'secure': False, 'value': '1be930cd1f9e67f0790491dc57647ffc81cfd78b13d8d4d8e465d661a05a7d4b3e700f589d8d81f28c1871d5350bc1a72564ee324cf08ab916716485'}, {'domain': '.cvbeauty.de', 'expiry': 1652135652, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644359634167.947993620'}, {'domain': '.cvbeauty.de', 'expiry': 1646951638, 'httpOnly': False, 'name': '_ju_dn', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.cvbeauty.de', 'expiry': 1707431634, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.1.1770616431.1644359634'}, {'domain': 'cvbeauty.de', 'expiry': 1644361454, 'httpOnly': False, 'name': '_sp_ses.4e07', 'path': '/', 'secure': False, 'value': '*'}, {'domain': '.cvbeauty.de', 'expiry': 1707431634, 'httpOnly': False, 'name': '_ga_9V60HD1BN0', 'path': '/', 'secure': False, 'value': 'GS1.1.1644359633.1.0.1644359633.0'}, {'domain': '.cvbeauty.de', 'expiry': 1644361433, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.cvbeauty.de', 'expiry': 1644359693, 'httpOnly': False, 'name': '_gat_gtag_UA_89667440_5', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.cvbeauty.de', 'expiry': 1644446033, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1084862181.1644359634'}, {'domain': 'cvbeauty.de', 'expiry': 1675895633, 'httpOnly': False, 'name': '_bamls_usid', 'path': '/', 'secure': False, 'value': 'eaabb37a-b9e9-421d-8950-b316bb7d4457'}, {'domain': '.cvbeauty.de', 'expiry': 1644359693, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.cvbeauty.de', 'expiry': 1644361199, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.cvbeauty.de', 'expiry': 1675895633, 'httpOnly': False, 'name': '_hjSessionUser_2813036', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjZlMGNiOGY0LTI0YzQtNTljZS05OTZmLWQ5MWQ5YTE5YTU0NCIsImNyZWF0ZWQiOjE2NDQzNTk2MzMwNzUsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.cvbeauty.de', 'expiry': 1644361433, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'cvbeauty.de', 'expiry': 1675895652, 'httpOnly': False, 'name': 'cookieconsent_status', 'path': '/', 'secure': False, 'value': 'allow'}, {'domain': '.cvbeauty.de', 'expiry': 1645569232, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.cvbeauty.de', 'expiry': 1644361433, 'httpOnly': False, 'name': '_hjSession_2813036', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImFlMGY3OTY2LTVmOTEtNGQ5MC1iZjVjLWRmNmI0MGEyOTdkZSIsImNyZWF0ZWQiOjE2NDQzNTk2MzM5MDQsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': 'cvbeauty.de', 'expiry': 1959759633, 'httpOnly': False, 'name': 'bitmovin_analytics_uuid', 'path': '/', 'secure': False, 'value': '6a2778c5-ed28-46c2-91a3-e94bf74eb562'}, {'domain': 'cvbeauty.de', 'expiry': 1644361435, 'httpOnly': False, 'name': '_ju_v', 'path': '/', 'secure': True, 'value': '4.1_5.05'}, {'domain': '.cvbeauty.de', 'expiry': 1675895634, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVptUTJZekkwTlRFdFpEZ3dOaTAwWkRrd0xXSTVObVl0TTJNMFptSTJPRGRtTkRCbQ'}, {'domain': '.cvbeauty.de', 'expiry': 1644361448, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '37ee1346-d063-4aef-a481-3daac0a1bc6b'}, {'domain': 'cvbeauty.de', 'expiry': 1644359753, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.cvbeauty.de', 'expiry': 1675895648, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd1eef8a9-5e08-4947-a912-cd2f032ecf9a'}, {'domain': '.cvbeauty.de', 'expiry': 1675895648, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd1eef8a9-5e08-4947-a912-cd2f032ecf9a'}, {'domain': 'cvbeauty.de', 'expiry': 1645569248, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.cvbeauty.de', 'expiry': 1675895640, 'httpOnly': False, 'name': '_ju_dc', 'path': '/', 'secure': False, 'value': '3633b8c2-892f-11ec-8563-479cc10270fa'}, {'domain': '.cvbeauty.de', 'expiry': 1644361448, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '37ee1346-d063-4aef-a481-3daac0a1bc6b'}, {'domain': '.cvbeauty.de', 'expiry': 1645569232, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'cvbeauty.de', 'expiry': 1645569248, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'cvbeauty.de', 'expiry': 1644359753, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.cvbeauty.de', 'expiry': 1644361433, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T22%3A33%3A53.866Z'}, {'domain': '.cvbeauty.de', 'expiry': 1652135633, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.254276174.1644359633'}, {'domain': 'cvbeauty.de', 'expiry': 1675895648, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _sp_id.4e07
+[After] Cookie-Name 2: __kla_id
+[After] Cookie-Name 3: _ju_pn
+[After] Cookie-Name 4: _ju_dm
+[After] Cookie-Name 5: 2c.cId
+[After] Cookie-Name 6: cookieconsent_preferences_disabled
+[After] Cookie-Name 7: nostojs
+[After] Cookie-Name 8: octane%2Fshopify%2Fuid
+[After] Cookie-Name 9: _fbp
+[After] Cookie-Name 10: _ju_dn
+[After] Cookie-Name 11: _ga
+[After] Cookie-Name 12: _sp_ses.4e07
+[After] Cookie-Name 13: _ga_9V60HD1BN0
+[After] Cookie-Name 14: _hjFirstSeen
+[After] Cookie-Name 15: _gat_gtag_UA_89667440_5
+[After] Cookie-Name 16: _gid
+[After] Cookie-Name 17: _bamls_usid
+[After] Cookie-Name 18: _gat
+[After] Cookie-Name 19: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 20: _hjSessionUser_2813036
+[After] Cookie-Name 21: _shopify_sa_p
+[After] Cookie-Name 22: cookieconsent_status
+[After] Cookie-Name 23: _orig_referrer
+[After] Cookie-Name 24: _hjSession_2813036
+[After] Cookie-Name 25: bitmovin_analytics_uuid
+[After] Cookie-Name 26: _ju_v
+[After] Cookie-Name 27: _pin_unauth
+[After] Cookie-Name 28: _shopify_s
+[After] Cookie-Name 29: _hjIncludedInSessionSample
+[After] Cookie-Name 30: _y
+[After] Cookie-Name 31: _shopify_y
+[After] Cookie-Name 32: localization
+[After] Cookie-Name 33: _ju_dc
+[After] Cookie-Name 34: _s
+[After] Cookie-Name 35: _landing_page
+[After] Cookie-Name 36: cart_currency
+[After] Cookie-Name 37: _hjIncludedInPageviewSample
+[After] Cookie-Name 38: _shopify_sa_t
+[After] Cookie-Name 39: _gcl_au
+[After] Cookie-Name 40: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _hjIncludedInSessionSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjIncludedInPageviewSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 4
+[Difference] Cookie-Name: 1: __kla_id
+[Difference] Cookie-Name: 2: _sp_id.4e07
+[Difference] Cookie-Name: 3: cookieconsent_status
+[Difference] Cookie-Name: 4: _sp_ses.4e07
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

@@ -1,0 +1,72 @@
+Website 116: http://www.cellavent.de/ | Created: 09.02.2022 17:40:54 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 15
+[Before] Website-Cookies: [{'domain': 'cellavent.de', 'expiry': 1675960844, 'httpOnly': False, 'name': 'optiMonkClientId', 'path': '/', 'secure': False, 'value': 'bdec131c-cbbd-3772-a336-a2ce6f7b58ed'}, {'domain': '.cellavent.de', 'expiry': 1644426642, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.cellavent.de', 'expiry': 1644426642, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T16%3A40%3A42.783Z'}, {'domain': '.cellavent.de', 'expiry': 1675960844, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '78bc5153-35e5-41f6-ad1c-ef8b073ab750'}, {'domain': 'cellavent.de', 'expiry': 1707496844, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MjQ4NDQsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vY2VsbGF2ZW50LmRlLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDQyNDg0NCwidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly9jZWxsYXZlbnQuZGUvIn19'}, {'domain': 'cellavent.de', 'expiry': 1675960844, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.cellavent.de', 'expiry': 1644426644, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '212df6a6-6cea-493a-bd91-cd13cc537f7a'}, {'domain': '.cellavent.de', 'expiry': 1675960844, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '78bc5153-35e5-41f6-ad1c-ef8b073ab750'}, {'domain': '.cellavent.de', 'expiry': 1675960843, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU1EVXlOalExWmpndE9EWXhZeTAwTTJNM0xXSXpPR010WkdGbE1URTVNelF3WXpBdw'}, {'domain': '.cellavent.de', 'expiry': 1645634442, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.cellavent.de', 'expiry': 1645634442, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.cellavent.de', 'expiry': 1652200842, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1868721216.1644424843'}, {'domain': '.cellavent.de', 'expiry': 1644426644, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '212df6a6-6cea-493a-bd91-cd13cc537f7a'}, {'domain': 'cellavent.de', 'expiry': 1645634444, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'cellavent.de', 'expiry': 1645634444, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[Before] Cookie-Name 1: optiMonkClientId
+[Before] Cookie-Name 2: _shopify_sa_p
+[Before] Cookie-Name 3: _shopify_sa_t
+[Before] Cookie-Name 4: _shopify_y
+[Before] Cookie-Name 5: __kla_id
+[Before] Cookie-Name 6: secure_customer_sig
+[Before] Cookie-Name 7: _shopify_s
+[Before] Cookie-Name 8: _y
+[Before] Cookie-Name 9: _pin_unauth
+[Before] Cookie-Name 10: _landing_page
+[Before] Cookie-Name 11: _orig_referrer
+[Before] Cookie-Name 12: _gcl_au
+[Before] Cookie-Name 13: _s
+[Before] Cookie-Name 14: cart_currency
+[Before] Cookie-Name 15: localization
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 21
+[After] Website-Cookies: [{'domain': '.cellavent.de', 'expiry': 1652200860, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644424860033.2025451975'}, {'domain': '.cellavent.de', 'expiry': 1678120859, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '0fdfbbb089c711ec88982735231eead6'}, {'domain': '.cellavent.de', 'expiry': 1644511259, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': '0fdf9b4089c711ecb9ebd5234e738a83'}, {'domain': '.cellavent.de', 'expiry': 1644511259, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1861041948.1644424860'}, {'domain': 'cellavent.de', 'expiry': 1675960844, 'httpOnly': False, 'name': 'optiMonkClientId', 'path': '/', 'secure': False, 'value': 'bdec131c-cbbd-3772-a336-a2ce6f7b58ed'}, {'domain': '.cellavent.de', 'expiry': 1707496859, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1348933676.1644424860'}, {'domain': '.cellavent.de', 'expiry': 1644426642, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.cellavent.de', 'expiry': 1644426642, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T16%3A40%3A42.783Z'}, {'domain': '.cellavent.de', 'expiry': 1675960844, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '78bc5153-35e5-41f6-ad1c-ef8b073ab750'}, {'domain': 'cellavent.de', 'expiry': 1707496844, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MjQ4NDQsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vY2VsbGF2ZW50LmRlLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDQyNDg0NCwidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly9jZWxsYXZlbnQuZGUvIn19'}, {'domain': 'cellavent.de', 'expiry': 1675960844, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.cellavent.de', 'expiry': 1644426644, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '212df6a6-6cea-493a-bd91-cd13cc537f7a'}, {'domain': '.cellavent.de', 'expiry': 1675960844, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '78bc5153-35e5-41f6-ad1c-ef8b073ab750'}, {'domain': '.cellavent.de', 'expiry': 1644424919, 'httpOnly': False, 'name': '_gat_UA-45195652-9', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.cellavent.de', 'expiry': 1675960843, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU1EVXlOalExWmpndE9EWXhZeTAwTTJNM0xXSXpPR010WkdGbE1URTVNelF3WXpBdw'}, {'domain': '.cellavent.de', 'expiry': 1645634442, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.cellavent.de', 'expiry': 1645634442, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.cellavent.de', 'expiry': 1652200842, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1868721216.1644424843'}, {'domain': '.cellavent.de', 'expiry': 1644426644, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '212df6a6-6cea-493a-bd91-cd13cc537f7a'}, {'domain': 'cellavent.de', 'expiry': 1645634444, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'cellavent.de', 'expiry': 1645634444, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[After] Cookie-Name 1: _fbp
+[After] Cookie-Name 2: _uetvid
+[After] Cookie-Name 3: _uetsid
+[After] Cookie-Name 4: _gid
+[After] Cookie-Name 5: optiMonkClientId
+[After] Cookie-Name 6: _ga
+[After] Cookie-Name 7: _shopify_sa_p
+[After] Cookie-Name 8: _shopify_sa_t
+[After] Cookie-Name 9: _shopify_y
+[After] Cookie-Name 10: __kla_id
+[After] Cookie-Name 11: secure_customer_sig
+[After] Cookie-Name 12: _shopify_s
+[After] Cookie-Name 13: _y
+[After] Cookie-Name 14: _gat_UA-45195652-9
+[After] Cookie-Name 15: _pin_unauth
+[After] Cookie-Name 16: _landing_page
+[After] Cookie-Name 17: _orig_referrer
+[After] Cookie-Name 18: _gcl_au
+[After] Cookie-Name 19: _s
+[After] Cookie-Name 20: cart_currency
+[After] Cookie-Name 21: localization
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 6
+[Difference] Cookie-Name: 1: _gid
+[Difference] Cookie-Name: 2: _uetvid
+[Difference] Cookie-Name: 3: _gat_UA-45195652-9
+[Difference] Cookie-Name: 4: _uetsid
+[Difference] Cookie-Name: 5: _fbp
+[Difference] Cookie-Name: 6: _ga
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

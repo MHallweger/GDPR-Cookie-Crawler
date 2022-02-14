@@ -1,0 +1,71 @@
+Website 270: http://www.redandwhitestore.de/ | Created: 10.02.2022 13:32:39 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 19
+[Before] Website-Cookies: [{'domain': '.redandwhitestore.de', 'expiry': 1644498151, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'zUd4O1HeERswjw-20220210123231'}, {'domain': '.redandwhitestore.de', 'expiry': 1676032351, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': '5zhMWGVT30BkGd-20220210123231'}, {'domain': '.redandwhitestore.de', 'expiry': 1644496410, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.redandwhitestore.de', 'expiry': 1707568350, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1748597171.1644496350'}, {'domain': '.redandwhitestore.de', 'expiry': 1644498149, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.redandwhitestore.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220210123231-FhquyyOLYfut2eG7BCQjUlBw3kTKb2vVbsq9ftIdtrDA0bG7U'}, {'domain': '.redandwhitestore.de', 'expiry': 1644498149, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T12%3A32%3A29.962Z'}, {'domain': 'www.redandwhitestore.de', 'expiry': 1645705949, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': '.redandwhitestore.de', 'expiry': 1676032349, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '14adaf23-b5ed-448a-b755-c05acd2d6df5'}, {'domain': '.redandwhitestore.de', 'expiry': 1644498149, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c390342e-ce38-4e4b-864e-07aab8059972'}, {'domain': '.redandwhitestore.de', 'expiry': 1676032349, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '14adaf23-b5ed-448a-b755-c05acd2d6df5'}, {'domain': 'www.redandwhitestore.de', 'httpOnly': False, 'name': 'tms_previous_pathname', 'path': '/', 'secure': True, 'value': '/'}, {'domain': '.redandwhitestore.de', 'expiry': 1645705949, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.redandwhitestore.de', 'expiry': 1652272350, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644496350163.1381338337'}, {'domain': '.redandwhitestore.de', 'expiry': 1644582750, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1971970580.1644496350'}, {'domain': '.redandwhitestore.de', 'expiry': 1644498149, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c390342e-ce38-4e4b-864e-07aab8059972'}, {'domain': 'www.redandwhitestore.de', 'expiry': 1645705949, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.redandwhitestore.de', 'expiry': 1645705949, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.redandwhitestore.de', 'expiry': 1676032349, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: omnisendSessionID
+[Before] Cookie-Name 2: omnisendAnonymousID
+[Before] Cookie-Name 3: _gat
+[Before] Cookie-Name 4: _ga
+[Before] Cookie-Name 5: _shopify_sa_p
+[Before] Cookie-Name 6: soundestID
+[Before] Cookie-Name 7: _shopify_sa_t
+[Before] Cookie-Name 8: localization
+[Before] Cookie-Name 9: _shopify_y
+[Before] Cookie-Name 10: _shopify_s
+[Before] Cookie-Name 11: _y
+[Before] Cookie-Name 12: tms_previous_pathname
+[Before] Cookie-Name 13: _orig_referrer
+[Before] Cookie-Name 14: _fbp
+[Before] Cookie-Name 15: _gid
+[Before] Cookie-Name 16: _s
+[Before] Cookie-Name 17: cart_currency
+[Before] Cookie-Name 18: _landing_page
+[Before] Cookie-Name 19: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 20
+[After] Website-Cookies: [{'domain': 'www.redandwhitestore.de', 'expiry': 1676032365, 'httpOnly': False, 'name': 'cookieconsent_status', 'path': '/', 'secure': False, 'value': 'dismiss'}, {'domain': '.redandwhitestore.de', 'expiry': 1644498151, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'zUd4O1HeERswjw-20220210123231'}, {'domain': '.redandwhitestore.de', 'expiry': 1676032351, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': '5zhMWGVT30BkGd-20220210123231'}, {'domain': '.redandwhitestore.de', 'expiry': 1644496410, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.redandwhitestore.de', 'expiry': 1707568350, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1748597171.1644496350'}, {'domain': '.redandwhitestore.de', 'expiry': 1644498149, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.redandwhitestore.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220210123231-FhquyyOLYfut2eG7BCQjUlBw3kTKb2vVbsq9ftIdtrDA0bG7U'}, {'domain': '.redandwhitestore.de', 'expiry': 1644498149, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T12%3A32%3A29.962Z'}, {'domain': 'www.redandwhitestore.de', 'expiry': 1645705949, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': '.redandwhitestore.de', 'expiry': 1676032349, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '14adaf23-b5ed-448a-b755-c05acd2d6df5'}, {'domain': '.redandwhitestore.de', 'expiry': 1644498149, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c390342e-ce38-4e4b-864e-07aab8059972'}, {'domain': '.redandwhitestore.de', 'expiry': 1676032349, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '14adaf23-b5ed-448a-b755-c05acd2d6df5'}, {'domain': 'www.redandwhitestore.de', 'httpOnly': False, 'name': 'tms_previous_pathname', 'path': '/', 'secure': True, 'value': '/'}, {'domain': '.redandwhitestore.de', 'expiry': 1645705949, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.redandwhitestore.de', 'expiry': 1652272365, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644496350163.1381338337'}, {'domain': '.redandwhitestore.de', 'expiry': 1644582750, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1971970580.1644496350'}, {'domain': '.redandwhitestore.de', 'expiry': 1644498149, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c390342e-ce38-4e4b-864e-07aab8059972'}, {'domain': 'www.redandwhitestore.de', 'expiry': 1645705949, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.redandwhitestore.de', 'expiry': 1645705949, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.redandwhitestore.de', 'expiry': 1676032349, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: cookieconsent_status
+[After] Cookie-Name 2: omnisendSessionID
+[After] Cookie-Name 3: omnisendAnonymousID
+[After] Cookie-Name 4: _gat
+[After] Cookie-Name 5: _ga
+[After] Cookie-Name 6: _shopify_sa_p
+[After] Cookie-Name 7: soundestID
+[After] Cookie-Name 8: _shopify_sa_t
+[After] Cookie-Name 9: localization
+[After] Cookie-Name 10: _shopify_y
+[After] Cookie-Name 11: _shopify_s
+[After] Cookie-Name 12: _y
+[After] Cookie-Name 13: tms_previous_pathname
+[After] Cookie-Name 14: _orig_referrer
+[After] Cookie-Name 15: _fbp
+[After] Cookie-Name 16: _gid
+[After] Cookie-Name 17: _s
+[After] Cookie-Name 18: cart_currency
+[After] Cookie-Name 19: _landing_page
+[After] Cookie-Name 20: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gid (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: cookieconsent_status
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

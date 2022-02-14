@@ -1,0 +1,70 @@
+Website 266: http://www.nogu.design/ | Created: 09.02.2022 12:06:12 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 19
+[Before] Website-Cookies: [{'domain': 'www.nogu.design', 'expiry': 1645614363, 'httpOnly': False, 'name': 'boldCurrencyCookie', 'path': '/', 'secure': False, 'value': 'USD'}, {'domain': '.nogu.design', 'expiry': 1652180763, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644404762963.1654747980'}, {'domain': 'www.nogu.design', 'expiry': 1707476762, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MDQ3NjMsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3Lm5vZ3UuZGVzaWduLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDQwNDc2MywidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly93d3cubm9ndS5kZXNpZ24vIn19'}, {'domain': 'www.nogu.design', 'expiry': 1644408362, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.nogu.design', 'expiry': 1678568762, 'httpOnly': False, 'name': 'cto_bundle', 'path': '/', 'secure': False, 'value': '3SpnTl9laE10NzdjQ2tpM2wlMkJVN1NmOU03ZWpxTWl4QXg1RklyNDZYbHZ5RXlGOFVxOUlMTlJ2enN4R0lSd1hwSGN4RFF0ZjhNamVTRnhNa3RDcklNSnU5a2xLMnpib0hlNEpCaEZtdVRTSEhGVk8yWEZsSXVMMFRob2FiV2VzQ25qckZLVWtGSTRwcmtFdUllZndCek1MOVFHUSUzRCUzRA'}, {'domain': '.nogu.design', 'expiry': 1644406561, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.nogu.design', 'expiry': 1644406561, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T11%3A06%3A01.984Z'}, {'domain': '.nogu.design', 'expiry': 1644406562, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f7664aab-6625-4b75-9529-fb5d79932c27'}, {'domain': '.nogu.design', 'expiry': 1644406562, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f7664aab-6625-4b75-9529-fb5d79932c27'}, {'domain': '.nogu.design', 'expiry': 1675940762, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6b976a8a-bc69-4c7d-ac8b-a2917d3a7557'}, {'domain': 'www.nogu.design', 'expiry': 1644405663, 'httpOnly': False, 'name': 'boldmc-initial-conversion', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': '.www.nogu.design', 'expiry': 1675940761, 'httpOnly': False, 'name': 'currency', 'path': '/', 'secure': False, 'value': 'USD'}, {'domain': '.nogu.design', 'expiry': 1645614361, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.nogu.design', 'expiry': 1645614361, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.nogu.design', 'expiry': 1675940762, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6b976a8a-bc69-4c7d-ac8b-a2917d3a7557'}, {'domain': 'www.nogu.design', 'expiry': 1645614362, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'USD'}, {'domain': 'www.nogu.design', 'expiry': 1644405662, 'httpOnly': False, 'name': 'boldmc-localized', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': 'www.nogu.design', 'expiry': 1645614362, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'www.nogu.design', 'expiry': 1675940762, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: boldCurrencyCookie
+[Before] Cookie-Name 2: _fbp
+[Before] Cookie-Name 3: __kla_id
+[Before] Cookie-Name 4: shopify_pay_redirect
+[Before] Cookie-Name 5: cto_bundle
+[Before] Cookie-Name 6: _shopify_sa_p
+[Before] Cookie-Name 7: _shopify_sa_t
+[Before] Cookie-Name 8: _s
+[Before] Cookie-Name 9: _shopify_s
+[Before] Cookie-Name 10: _shopify_y
+[Before] Cookie-Name 11: boldmc-initial-conversion
+[Before] Cookie-Name 12: currency
+[Before] Cookie-Name 13: _landing_page
+[Before] Cookie-Name 14: _orig_referrer
+[Before] Cookie-Name 15: _y
+[Before] Cookie-Name 16: cart_currency
+[Before] Cookie-Name 17: boldmc-localized
+[Before] Cookie-Name 18: localization
+[Before] Cookie-Name 19: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 19
+[After] Website-Cookies: [{'domain': 'www.nogu.design', 'expiry': 1645614363, 'httpOnly': False, 'name': 'boldCurrencyCookie', 'path': '/', 'secure': False, 'value': 'USD'}, {'domain': '.nogu.design', 'expiry': 1652180763, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644404762963.1654747980'}, {'domain': 'www.nogu.design', 'expiry': 1707476762, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MDQ3NjMsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3Lm5vZ3UuZGVzaWduLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDQwNDc2MywidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly93d3cubm9ndS5kZXNpZ24vIn19'}, {'domain': 'www.nogu.design', 'expiry': 1644408362, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.nogu.design', 'expiry': 1678568762, 'httpOnly': False, 'name': 'cto_bundle', 'path': '/', 'secure': False, 'value': '3SpnTl9laE10NzdjQ2tpM2wlMkJVN1NmOU03ZWpxTWl4QXg1RklyNDZYbHZ5RXlGOFVxOUlMTlJ2enN4R0lSd1hwSGN4RFF0ZjhNamVTRnhNa3RDcklNSnU5a2xLMnpib0hlNEpCaEZtdVRTSEhGVk8yWEZsSXVMMFRob2FiV2VzQ25qckZLVWtGSTRwcmtFdUllZndCek1MOVFHUSUzRCUzRA'}, {'domain': '.nogu.design', 'expiry': 1644406561, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.nogu.design', 'expiry': 1644406561, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T11%3A06%3A01.984Z'}, {'domain': '.nogu.design', 'expiry': 1644406562, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f7664aab-6625-4b75-9529-fb5d79932c27'}, {'domain': '.nogu.design', 'expiry': 1644406562, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f7664aab-6625-4b75-9529-fb5d79932c27'}, {'domain': '.nogu.design', 'expiry': 1675940762, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6b976a8a-bc69-4c7d-ac8b-a2917d3a7557'}, {'domain': 'www.nogu.design', 'expiry': 1644405663, 'httpOnly': False, 'name': 'boldmc-initial-conversion', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': '.www.nogu.design', 'expiry': 1675940761, 'httpOnly': False, 'name': 'currency', 'path': '/', 'secure': False, 'value': 'USD'}, {'domain': '.nogu.design', 'expiry': 1645614361, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.nogu.design', 'expiry': 1645614361, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.nogu.design', 'expiry': 1675940762, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6b976a8a-bc69-4c7d-ac8b-a2917d3a7557'}, {'domain': 'www.nogu.design', 'expiry': 1645614362, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'USD'}, {'domain': 'www.nogu.design', 'expiry': 1644405662, 'httpOnly': False, 'name': 'boldmc-localized', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': 'www.nogu.design', 'expiry': 1645614362, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'www.nogu.design', 'expiry': 1675940762, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: boldCurrencyCookie
+[After] Cookie-Name 2: _fbp
+[After] Cookie-Name 3: __kla_id
+[After] Cookie-Name 4: shopify_pay_redirect
+[After] Cookie-Name 5: cto_bundle
+[After] Cookie-Name 6: _shopify_sa_p
+[After] Cookie-Name 7: _shopify_sa_t
+[After] Cookie-Name 8: _s
+[After] Cookie-Name 9: _shopify_s
+[After] Cookie-Name 10: _shopify_y
+[After] Cookie-Name 11: boldmc-initial-conversion
+[After] Cookie-Name 12: currency
+[After] Cookie-Name 13: _landing_page
+[After] Cookie-Name 14: _orig_referrer
+[After] Cookie-Name 15: _y
+[After] Cookie-Name 16: cart_currency
+[After] Cookie-Name 17: boldmc-localized
+[After] Cookie-Name 18: localization
+[After] Cookie-Name 19: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

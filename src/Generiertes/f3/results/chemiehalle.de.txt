@@ -1,0 +1,89 @@
+Website 358: http://www.chemiehalle.de/ | Created: 09.02.2022 15:29:07 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 29
+[Before] Website-Cookies: [{'domain': 'www.chemiehalle.de', 'expiry': 1707488945, 'httpOnly': False, 'name': '_sp_id.c64e', 'path': '/', 'secure': False, 'value': '9e5da8397e4c23ce.1644416936.1.1644416946.1644416936'}, {'domain': 'www.chemiehalle.de', 'expiry': 1675952937, 'httpOnly': False, 'name': '__smToken', 'path': '/', 'secure': False, 'value': 'fn5AZK9XMKzjCWTQvuxJbik2'}, {'domain': 'www.chemiehalle.de', 'expiry': 1647008936, 'httpOnly': False, 'name': '__smVID', 'path': '/', 'secure': False, 'value': '8868340d97380fc70aa8e82bede704e022901b8b9fd864a151a15fd91677c1b0'}, {'domain': '.chemiehalle.de', 'expiry': 1675952936, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'lbROSgAciR5K1Q-20220209142856'}, {'domain': 'www.chemiehalle.de', 'expiry': 1707488935, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MTY5MzYsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LmNoZW1pZWhhbGxlLmRlLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDQxNjkzNiwidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly93d3cuY2hlbWllaGFsbGUuZGUvIn19'}, {'domain': 'www.chemiehalle.de', 'expiry': 1645626536, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'df9cb52b6bb68075e8fd038aeeede13b'}, {'domain': '.chemiehalle.de', 'expiry': 1675952934, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': 'www.chemiehalle.de', 'expiry': 1644420535, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.chemiehalle.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T14%3A28%3A55.394Z'}, {'domain': '.chemiehalle.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2ced1909-041f-4fa4-afb4-14a2b6cf3748'}, {'domain': '.chemiehalle.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220209142856-W3ivLBJ9IOnuPoDGRJsNILTlDZ9A8dVh0iXTi1aKwFsYV8gOe'}, {'domain': 'www.chemiehalle.de', 'expiry': 1675952936, 'httpOnly': False, 'name': 'po_visitor', 'path': '/', 'secure': False, 'value': 'MPPH-VDXX8nh'}, {'domain': 'www.chemiehalle.de', 'expiry': 1644418745, 'httpOnly': False, 'name': '_sp_ses.c64e', 'path': '/', 'secure': False, 'value': '*'}, {'domain': 'www.chemiehalle.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.chemiehalle.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.chemiehalle.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2ced1909-041f-4fa4-afb4-14a2b6cf3748'}, {'domain': '.chemiehalle.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9913eaa5-436d-4a6f-a9ee-25bace55d46d'}, {'domain': '.chemiehalle.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9913eaa5-436d-4a6f-a9ee-25bace55d46d'}, {'domain': '.chemiehalle.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.chemiehalle.de', 'expiry': 1675952934, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%7D'}, {'domain': 'www.chemiehalle.de', 'expiry': 1645626541, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.chemiehalle.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.chemiehalle.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T14%3A28%3A55.363Z'}, {'domain': '.chemiehalle.de', 'expiry': 1645626534, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.chemiehalle.de', 'expiry': 1644418736, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'LQF1NXP2xh8QmN-20220209142856'}, {'domain': 'www.chemiehalle.de', 'expiry': 1645626536, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.chemiehalle.de', 'expiry': 1644418741, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.chemiehalle.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.chemiehalle.de', 'expiry': 1675952941, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _sp_id.c64e
+[Before] Cookie-Name 2: __smToken
+[Before] Cookie-Name 3: __smVID
+[Before] Cookie-Name 4: omnisendAnonymousID
+[Before] Cookie-Name 5: __kla_id
+[Before] Cookie-Name 6: cart_sig
+[Before] Cookie-Name 7: _shopify_m
+[Before] Cookie-Name 8: shopify_pay_redirect
+[Before] Cookie-Name 9: _shopify_sa_t
+[Before] Cookie-Name 10: _shopify_s
+[Before] Cookie-Name 11: soundestID
+[Before] Cookie-Name 12: po_visitor
+[Before] Cookie-Name 13: _sp_ses.c64e
+[Before] Cookie-Name 14: _shopify_evids
+[Before] Cookie-Name 15: _shopify_sa_p
+[Before] Cookie-Name 16: _s
+[Before] Cookie-Name 17: _shopify_y
+[Before] Cookie-Name 18: _y
+[Before] Cookie-Name 19: _shopify_evids
+[Before] Cookie-Name 20: _tracking_consent
+[Before] Cookie-Name 21: localization
+[Before] Cookie-Name 22: _landing_page
+[Before] Cookie-Name 23: _shopify_d
+[Before] Cookie-Name 24: _shopify_tw
+[Before] Cookie-Name 25: omnisendSessionID
+[Before] Cookie-Name 26: cart_currency
+[Before] Cookie-Name 27: _shopify_tm
+[Before] Cookie-Name 28: _orig_referrer
+[Before] Cookie-Name 29: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 29
+[After] Website-Cookies: [{'domain': 'www.chemiehalle.de', 'expiry': 1707488945, 'httpOnly': False, 'name': '_sp_id.c64e', 'path': '/', 'secure': False, 'value': '9e5da8397e4c23ce.1644416936.1.1644416946.1644416936'}, {'domain': 'www.chemiehalle.de', 'expiry': 1675952937, 'httpOnly': False, 'name': '__smToken', 'path': '/', 'secure': False, 'value': 'fn5AZK9XMKzjCWTQvuxJbik2'}, {'domain': 'www.chemiehalle.de', 'expiry': 1647008936, 'httpOnly': False, 'name': '__smVID', 'path': '/', 'secure': False, 'value': '8868340d97380fc70aa8e82bede704e022901b8b9fd864a151a15fd91677c1b0'}, {'domain': '.chemiehalle.de', 'expiry': 1675952936, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'lbROSgAciR5K1Q-20220209142856'}, {'domain': 'www.chemiehalle.de', 'expiry': 1707488935, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MTY5MzYsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LmNoZW1pZWhhbGxlLmRlLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDQxNjkzNiwidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly93d3cuY2hlbWllaGFsbGUuZGUvIn19'}, {'domain': 'www.chemiehalle.de', 'expiry': 1645626536, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'df9cb52b6bb68075e8fd038aeeede13b'}, {'domain': '.chemiehalle.de', 'expiry': 1675952934, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': 'www.chemiehalle.de', 'expiry': 1644420535, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.chemiehalle.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T14%3A28%3A55.394Z'}, {'domain': '.chemiehalle.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2ced1909-041f-4fa4-afb4-14a2b6cf3748'}, {'domain': '.chemiehalle.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220209142856-W3ivLBJ9IOnuPoDGRJsNILTlDZ9A8dVh0iXTi1aKwFsYV8gOe'}, {'domain': 'www.chemiehalle.de', 'expiry': 1675952936, 'httpOnly': False, 'name': 'po_visitor', 'path': '/', 'secure': False, 'value': 'MPPH-VDXX8nh'}, {'domain': 'www.chemiehalle.de', 'expiry': 1644418745, 'httpOnly': False, 'name': '_sp_ses.c64e', 'path': '/', 'secure': False, 'value': '*'}, {'domain': 'www.chemiehalle.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.chemiehalle.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.chemiehalle.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2ced1909-041f-4fa4-afb4-14a2b6cf3748'}, {'domain': '.chemiehalle.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9913eaa5-436d-4a6f-a9ee-25bace55d46d'}, {'domain': '.chemiehalle.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9913eaa5-436d-4a6f-a9ee-25bace55d46d'}, {'domain': '.chemiehalle.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.chemiehalle.de', 'expiry': 1675952934, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%7D'}, {'domain': 'www.chemiehalle.de', 'expiry': 1645626541, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.chemiehalle.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.chemiehalle.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T14%3A28%3A55.363Z'}, {'domain': '.chemiehalle.de', 'expiry': 1645626534, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.chemiehalle.de', 'expiry': 1644418736, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'LQF1NXP2xh8QmN-20220209142856'}, {'domain': 'www.chemiehalle.de', 'expiry': 1645626536, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.chemiehalle.de', 'expiry': 1644418741, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.chemiehalle.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.chemiehalle.de', 'expiry': 1675952941, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _sp_id.c64e
+[After] Cookie-Name 2: __smToken
+[After] Cookie-Name 3: __smVID
+[After] Cookie-Name 4: omnisendAnonymousID
+[After] Cookie-Name 5: __kla_id
+[After] Cookie-Name 6: cart_sig
+[After] Cookie-Name 7: _shopify_m
+[After] Cookie-Name 8: shopify_pay_redirect
+[After] Cookie-Name 9: _shopify_sa_t
+[After] Cookie-Name 10: _shopify_s
+[After] Cookie-Name 11: soundestID
+[After] Cookie-Name 12: po_visitor
+[After] Cookie-Name 13: _sp_ses.c64e
+[After] Cookie-Name 14: _shopify_evids
+[After] Cookie-Name 15: _shopify_sa_p
+[After] Cookie-Name 16: _s
+[After] Cookie-Name 17: _shopify_y
+[After] Cookie-Name 18: _y
+[After] Cookie-Name 19: _shopify_evids
+[After] Cookie-Name 20: _tracking_consent
+[After] Cookie-Name 21: localization
+[After] Cookie-Name 22: _landing_page
+[After] Cookie-Name 23: _shopify_d
+[After] Cookie-Name 24: _shopify_tw
+[After] Cookie-Name 25: omnisendSessionID
+[After] Cookie-Name 26: cart_currency
+[After] Cookie-Name 27: _shopify_tm
+[After] Cookie-Name 28: _orig_referrer
+[After] Cookie-Name 29: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

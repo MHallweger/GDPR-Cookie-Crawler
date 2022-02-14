@@ -1,0 +1,73 @@
+Website 219: http://www.gz-bag.de/ | Created: 10.02.2022 13:17:29 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 20
+[Before] Website-Cookies: [{'domain': 'www.gz-bag.de', 'expiry': 1645705041, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A3'}, {'domain': 'www.gz-bag.de', 'expiry': 1645705041, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5d5abede006c87ed9fd419c71cc73694'}, {'domain': '.gz-bag.de', 'expiry': 1707567440, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.951073983.1644495440'}, {'domain': '.gz-bag.de', 'expiry': 1644497240, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.gz-bag.de', 'expiry': 1644497241, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1c35a7dd-d241-4e43-b120-51c50befa93f'}, {'domain': 'www.gz-bag.de', 'expiry': 1645705041, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5d3f8836801c002552c2c05509f66388'}, {'domain': '.gz-bag.de', 'expiry': 1644495500, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.gz-bag.de', 'expiry': 1645705041, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.gz-bag.de', 'expiry': 1644497240, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T12%3A17%3A20.416Z'}, {'domain': 'www.gz-bag.de', 'expiry': 1676031440, 'httpOnly': False, 'name': 'latori_cookie_banner_consent', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.gz-bag.de', 'expiry': 1676031441, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '77ae03d8-62c3-44bc-8dc9-0b93e778c349'}, {'domain': 'www.gz-bag.de', 'expiry': 1645705041, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.gz-bag.de', 'expiry': 1644499040, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.gz-bag.de', 'expiry': 1645705039, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.gz-bag.de', 'expiry': 1676031441, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.gz-bag.de', 'expiry': 1676031441, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '77ae03d8-62c3-44bc-8dc9-0b93e778c349'}, {'domain': 'www.gz-bag.de', 'expiry': 1645705041, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644495440'}, {'domain': '.gz-bag.de', 'expiry': 1644581840, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1161197331.1644495440'}, {'domain': '.gz-bag.de', 'expiry': 1645705039, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.gz-bag.de', 'expiry': 1644497241, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1c35a7dd-d241-4e43-b120-51c50befa93f'}]
+[Before] Cookie-Name 1: cart_ver
+[Before] Cookie-Name 2: cart_sig
+[Before] Cookie-Name 3: _ga
+[Before] Cookie-Name 4: _shopify_sa_p
+[Before] Cookie-Name 5: _shopify_s
+[Before] Cookie-Name 6: cart
+[Before] Cookie-Name 7: _gat
+[Before] Cookie-Name 8: localization
+[Before] Cookie-Name 9: _shopify_sa_t
+[Before] Cookie-Name 10: latori_cookie_banner_consent
+[Before] Cookie-Name 11: _shopify_y
+[Before] Cookie-Name 12: cart_currency
+[Before] Cookie-Name 13: shopify_pay_redirect
+[Before] Cookie-Name 14: _landing_page
+[Before] Cookie-Name 15: secure_customer_sig
+[Before] Cookie-Name 16: _y
+[Before] Cookie-Name 17: cart_ts
+[Before] Cookie-Name 18: _gid
+[Before] Cookie-Name 19: _orig_referrer
+[Before] Cookie-Name 20: _s
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 20
+[After] Website-Cookies: [{'domain': 'www.gz-bag.de', 'expiry': 1645705041, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A3'}, {'domain': 'www.gz-bag.de', 'expiry': 1645705041, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5d5abede006c87ed9fd419c71cc73694'}, {'domain': '.gz-bag.de', 'expiry': 1707567440, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.951073983.1644495440'}, {'domain': '.gz-bag.de', 'expiry': 1644497240, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.gz-bag.de', 'expiry': 1644497241, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1c35a7dd-d241-4e43-b120-51c50befa93f'}, {'domain': 'www.gz-bag.de', 'expiry': 1645705041, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5d3f8836801c002552c2c05509f66388'}, {'domain': '.gz-bag.de', 'expiry': 1644495500, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.gz-bag.de', 'expiry': 1645705041, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.gz-bag.de', 'expiry': 1644497240, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T12%3A17%3A20.416Z'}, {'domain': 'www.gz-bag.de', 'expiry': 1676031440, 'httpOnly': False, 'name': 'latori_cookie_banner_consent', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.gz-bag.de', 'expiry': 1676031441, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '77ae03d8-62c3-44bc-8dc9-0b93e778c349'}, {'domain': 'www.gz-bag.de', 'expiry': 1645705041, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.gz-bag.de', 'expiry': 1644499040, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.gz-bag.de', 'expiry': 1645705039, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.gz-bag.de', 'expiry': 1676031441, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.gz-bag.de', 'expiry': 1676031441, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '77ae03d8-62c3-44bc-8dc9-0b93e778c349'}, {'domain': 'www.gz-bag.de', 'expiry': 1645705041, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644495440'}, {'domain': '.gz-bag.de', 'expiry': 1644581840, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1161197331.1644495440'}, {'domain': '.gz-bag.de', 'expiry': 1645705039, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.gz-bag.de', 'expiry': 1644497241, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1c35a7dd-d241-4e43-b120-51c50befa93f'}]
+[After] Cookie-Name 1: cart_ver
+[After] Cookie-Name 2: cart_sig
+[After] Cookie-Name 3: _ga
+[After] Cookie-Name 4: _shopify_sa_p
+[After] Cookie-Name 5: _shopify_s
+[After] Cookie-Name 6: cart
+[After] Cookie-Name 7: _gat
+[After] Cookie-Name 8: localization
+[After] Cookie-Name 9: _shopify_sa_t
+[After] Cookie-Name 10: latori_cookie_banner_consent
+[After] Cookie-Name 11: _shopify_y
+[After] Cookie-Name 12: cart_currency
+[After] Cookie-Name 13: shopify_pay_redirect
+[After] Cookie-Name 14: _landing_page
+[After] Cookie-Name 15: secure_customer_sig
+[After] Cookie-Name 16: _y
+[After] Cookie-Name 17: cart_ts
+[After] Cookie-Name 18: _gid
+[After] Cookie-Name 19: _orig_referrer
+[After] Cookie-Name 20: _s
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

@@ -1,0 +1,114 @@
+Website 27: http://www.scholl-fusspflege.de/ | Created: 09.02.2022 10:53:53 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 32
+[Before] Website-Cookies: [{'domain': 'www.scholl-fusspflege.de', 'httpOnly': False, 'name': 'snize-recommendation', 'path': '/', 'secure': False, 'value': '1rg9dma9nym'}, {'domain': 'www.scholl-fusspflege.de', 'expiry': 1645610024, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1644400424'}, {'domain': '.scholl-fusspflege.de', 'expiry': 1678096424, 'httpOnly': False, 'name': 'OptanonConsent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'isGpcEnabled=0&datestamp=Wed+Feb+09+2022+10%3A53%3A44+GMT%2B0100+(Mitteleurop%C3%A4ische+Normalzeit)&version=6.26.0&isIABGlobal=false&hosts=&genVendors=&consentId=39541bf1-f1b1-49f6-a0ea-3aa8f3583109&interactionCount=0&landingPath=https%3A%2F%2Fwww.scholl-fusspflege.de%2F&groups=C0001%3A1%2CC0003%3A0%2CC0004%3A0%2CC0002%3A0'}, {'domain': '.scholl-fusspflege.de', 'expiry': 1644402224, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': 'www.scholl-fusspflege.de', 'expiry': 1644400544, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.scholl-fusspflege.de', 'expiry': 1644400544, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.scholl-fusspflege.de', 'expiry': 1644404024, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.scholl-fusspflege.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.scholl-fusspflege.de', 'expiry': 1675936424, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.scholl-fusspflege.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T09%3A53%3A44.307Z'}, {'domain': 'www.scholl-fusspflege.de', 'expiry': 1645610024, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'gcp-us-central1%3A1'}, {'domain': 'www.scholl-fusspflege.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.scholl-fusspflege.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.scholl-fusspflege.de', 'expiry': 1675936424, 'httpOnly': False, 'name': '_hjSessionUser_756885', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImJlNWVlNmNiLWQxZWYtNWQ0Ny1iZjRjLWM3ZTBmYzQ3ZWY1OSIsImNyZWF0ZWQiOjE2NDQ0MDA0MjQ0ODcsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.scholl-fusspflege.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '59eccac3-bb05-4be1-8274-f8441ed9b8f1'}, {'domain': '.scholl-fusspflege.de', 'expiry': 1645610023, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.scholl-fusspflege.de', 'expiry': 1675936424, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22con%22%3A%7B%22GDPR%22%3A%220%22%7D%7D'}, {'domain': '.scholl-fusspflege.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T09%3A53%3A44.214Z'}, {'domain': '.scholl-fusspflege.de', 'expiry': 1644402224, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.scholl-fusspflege.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '59eccac3-bb05-4be1-8274-f8441ed9b8f1'}, {'domain': '.scholl-fusspflege.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f142475a-ddf8-4eab-a489-ba8cf036d310'}, {'domain': '.scholl-fusspflege.de', 'expiry': 1644402224, 'httpOnly': False, 'name': '_hjSession_756885', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjljZDM1ZDJhLWE4MGMtNGE4YS1hYmVmLWY0NjQ3YjYzNzc0NSIsImNyZWF0ZWQiOjE2NDQ0MDA0MjQ1MjksImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': '.scholl-fusspflege.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.scholl-fusspflege.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f142475a-ddf8-4eab-a489-ba8cf036d310'}, {'domain': '.scholl-fusspflege.de', 'expiry': 1644402224, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.scholl-fusspflege.de', 'expiry': 1675936424, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'www.scholl-fusspflege.de', 'expiry': 1645610024, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'DE'}, {'domain': '.scholl-fusspflege.de', 'expiry': 1652176424, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1245871910.1644400424'}, {'domain': 'www.scholl-fusspflege.de', 'expiry': 1645610024, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'afc024fa1d525d3e91caa884c2ab0c5e'}, {'domain': '.scholl-fusspflege.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.scholl-fusspflege.de', 'expiry': 1645610024, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'bdfbc006d1152889e9711d3a07b5fcc9'}, {'domain': 'www.scholl-fusspflege.de', 'expiry': 1645610024, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'EUR'}]
+[Before] Cookie-Name 1: snize-recommendation
+[Before] Cookie-Name 2: cart_ts
+[Before] Cookie-Name 3: OptanonConsent
+[Before] Cookie-Name 4: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 5: _hjIncludedInPageviewSample
+[Before] Cookie-Name 6: _hjIncludedInSessionSample
+[Before] Cookie-Name 7: shopify_pay_redirect
+[Before] Cookie-Name 8: _shopify_sa_p
+[Before] Cookie-Name 9: _shopify_m
+[Before] Cookie-Name 10: _shopify_sa_t
+[Before] Cookie-Name 11: cart_ver
+[Before] Cookie-Name 12: _shopify_evids
+[Before] Cookie-Name 13: _shopify_evids
+[Before] Cookie-Name 14: _hjSessionUser_756885
+[Before] Cookie-Name 15: _s
+[Before] Cookie-Name 16: _shopify_tw
+[Before] Cookie-Name 17: _tracking_consent
+[Before] Cookie-Name 18: _shopify_d
+[Before] Cookie-Name 19: _shopify_tm
+[Before] Cookie-Name 20: _shopify_s
+[Before] Cookie-Name 21: _shopify_y
+[Before] Cookie-Name 22: _hjSession_756885
+[Before] Cookie-Name 23: _landing_page
+[Before] Cookie-Name 24: _y
+[Before] Cookie-Name 25: _hjFirstSeen
+[Before] Cookie-Name 26: secure_customer_sig
+[Before] Cookie-Name 27: localization
+[Before] Cookie-Name 28: _gcl_au
+[Before] Cookie-Name 29: cart_sig
+[Before] Cookie-Name 30: _orig_referrer
+[Before] Cookie-Name 31: cart
+[Before] Cookie-Name 32: cart_currency
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 41
+[After] Website-Cookies: [{'domain': '.scholl-fusspflege.de', 'expiry': 1644486840, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1644235655.1644400440'}, {'domain': '.scholl-fusspflege.de', 'expiry': 1707472440, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.746370005.1644400440'}, {'domain': '.scholl-fusspflege.de', 'expiry': 1644404040, 'httpOnly': False, 'name': 'AMP_TOKEN', 'path': '/', 'secure': False, 'value': '%24NOT_FOUND'}, {'domain': 'www.scholl-fusspflege.de', 'expiry': 1644402239, 'httpOnly': False, 'name': '_sp_ses.15de', 'path': '/', 'secure': False, 'value': '*'}, {'domain': 'www.scholl-fusspflege.de', 'expiry': 1707472439, 'httpOnly': False, 'name': '_sp_id.15de', 'path': '/', 'secure': False, 'value': '4d3e7906a6edc2f4.1644400440.1.1644400440.1644400440'}, {'domain': '.scholl-fusspflege.de', 'expiry': 1678096439, 'httpOnly': False, 'name': 'OptanonConsent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'isGpcEnabled=0&datestamp=Wed+Feb+09+2022+10%3A53%3A59+GMT%2B0100+(Mitteleurop%C3%A4ische+Normalzeit)&version=6.26.0&isIABGlobal=false&hosts=&genVendors=&consentId=39541bf1-f1b1-49f6-a0ea-3aa8f3583109&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0003%3A1%2CC0004%3A1%2CC0002%3A1'}, {'domain': '.scholl-fusspflege.de', 'expiry': 1678096439, 'httpOnly': False, 'name': 'OptanonAlertBoxClosed', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T09:53:59.258Z'}, {'domain': 'www.scholl-fusspflege.de', 'httpOnly': False, 'name': 'snize-recommendation', 'path': '/', 'secure': False, 'value': '1rg9dma9nym'}, {'domain': 'www.scholl-fusspflege.de', 'expiry': 1645610024, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1644400424'}, {'domain': '.scholl-fusspflege.de', 'expiry': 1644402224, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': 'www.scholl-fusspflege.de', 'expiry': 1644400544, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.scholl-fusspflege.de', 'expiry': 1644404024, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.scholl-fusspflege.de', 'expiry': 1644400500, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.scholl-fusspflege.de', 'expiry': 1644402239, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.scholl-fusspflege.de', 'expiry': 1675936439, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': '.scholl-fusspflege.de', 'expiry': 1644402239, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T09%3A53%3A44.307Z'}, {'domain': 'www.scholl-fusspflege.de', 'expiry': 1645610024, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'gcp-us-central1%3A1'}, {'domain': 'www.scholl-fusspflege.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.scholl-fusspflege.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.scholl-fusspflege.de', 'expiry': 1675936424, 'httpOnly': False, 'name': '_hjSessionUser_756885', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImJlNWVlNmNiLWQxZWYtNWQ0Ny1iZjRjLWM3ZTBmYzQ3ZWY1OSIsImNyZWF0ZWQiOjE2NDQ0MDA0MjQ0ODcsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.scholl-fusspflege.de', 'expiry': 1644402239, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '59eccac3-bb05-4be1-8274-f8441ed9b8f1'}, {'domain': '.scholl-fusspflege.de', 'expiry': 1645610023, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.scholl-fusspflege.de', 'expiry': 1675936439, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22con%22%3A%7B%22GDPR%22%3A%221%22%7D%2C%22v%22%3A%222.0%22%7D'}, {'domain': '.scholl-fusspflege.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T09%3A53%3A44.214Z'}, {'domain': '.scholl-fusspflege.de', 'expiry': 1659952439, 'httpOnly': False, 'name': 'optimizelyEndUserId', 'path': '/', 'secure': False, 'value': 'oeu1644400439389r0.5585350404896088'}, {'domain': '.scholl-fusspflege.de', 'expiry': 1644402239, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.scholl-fusspflege.de', 'expiry': 1644400544, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.scholl-fusspflege.de', 'expiry': 1644402239, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '59eccac3-bb05-4be1-8274-f8441ed9b8f1'}, {'domain': '.scholl-fusspflege.de', 'expiry': 1675936439, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f142475a-ddf8-4eab-a489-ba8cf036d310'}, {'domain': '.scholl-fusspflege.de', 'expiry': 1644402224, 'httpOnly': False, 'name': '_hjSession_756885', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjljZDM1ZDJhLWE4MGMtNGE4YS1hYmVmLWY0NjQ3YjYzNzc0NSIsImNyZWF0ZWQiOjE2NDQ0MDA0MjQ1MjksImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': '.scholl-fusspflege.de', 'expiry': 1645610039, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.scholl-fusspflege.de', 'expiry': 1675936439, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f142475a-ddf8-4eab-a489-ba8cf036d310'}, {'domain': '.scholl-fusspflege.de', 'expiry': 1644402224, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.scholl-fusspflege.de', 'expiry': 1730800439, 'httpOnly': False, 'name': 'nmstat', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0a547b0d-5285-7c95-392e-ff333fdb9d95'}, {'domain': 'www.scholl-fusspflege.de', 'expiry': 1675936439, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'www.scholl-fusspflege.de', 'expiry': 1645610039, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'DE'}, {'domain': '.scholl-fusspflege.de', 'expiry': 1652176424, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1245871910.1644400424'}, {'domain': 'www.scholl-fusspflege.de', 'expiry': 1645610039, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'afc024fa1d525d3e91caa884c2ab0c5e'}, {'domain': '.scholl-fusspflege.de', 'expiry': 1645610039, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.scholl-fusspflege.de', 'expiry': 1645610024, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'bdfbc006d1152889e9711d3a07b5fcc9'}, {'domain': 'www.scholl-fusspflege.de', 'expiry': 1645610039, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'EUR'}]
+[After] Cookie-Name 1: _gid
+[After] Cookie-Name 2: _ga
+[After] Cookie-Name 3: AMP_TOKEN
+[After] Cookie-Name 4: _sp_ses.15de
+[After] Cookie-Name 5: _sp_id.15de
+[After] Cookie-Name 6: OptanonConsent
+[After] Cookie-Name 7: OptanonAlertBoxClosed
+[After] Cookie-Name 8: snize-recommendation
+[After] Cookie-Name 9: cart_ts
+[After] Cookie-Name 10: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 11: _hjIncludedInSessionSample
+[After] Cookie-Name 12: shopify_pay_redirect
+[After] Cookie-Name 13: _gat
+[After] Cookie-Name 14: _shopify_sa_p
+[After] Cookie-Name 15: _shopify_m
+[After] Cookie-Name 16: _shopify_sa_t
+[After] Cookie-Name 17: cart_ver
+[After] Cookie-Name 18: _shopify_evids
+[After] Cookie-Name 19: _shopify_evids
+[After] Cookie-Name 20: _hjSessionUser_756885
+[After] Cookie-Name 21: _s
+[After] Cookie-Name 22: _shopify_tw
+[After] Cookie-Name 23: _tracking_consent
+[After] Cookie-Name 24: _shopify_d
+[After] Cookie-Name 25: optimizelyEndUserId
+[After] Cookie-Name 26: _shopify_tm
+[After] Cookie-Name 27: _hjIncludedInPageviewSample
+[After] Cookie-Name 28: _shopify_s
+[After] Cookie-Name 29: _shopify_y
+[After] Cookie-Name 30: _hjSession_756885
+[After] Cookie-Name 31: _landing_page
+[After] Cookie-Name 32: _y
+[After] Cookie-Name 33: _hjFirstSeen
+[After] Cookie-Name 34: nmstat
+[After] Cookie-Name 35: secure_customer_sig
+[After] Cookie-Name 36: localization
+[After] Cookie-Name 37: _gcl_au
+[After] Cookie-Name 38: cart_sig
+[After] Cookie-Name 39: _orig_referrer
+[After] Cookie-Name 40: cart
+[After] Cookie-Name 41: cart_currency
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjIncludedInPageviewSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjIncludedInSessionSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 9
+[Difference] Cookie-Name: 1: OptanonAlertBoxClosed
+[Difference] Cookie-Name: 2: _ga
+[Difference] Cookie-Name: 3: _sp_ses.15de
+[Difference] Cookie-Name: 4: _gid
+[Difference] Cookie-Name: 5: optimizelyEndUserId
+[Difference] Cookie-Name: 6: _sp_id.15de
+[Difference] Cookie-Name: 7: _gat
+[Difference] Cookie-Name: 8: AMP_TOKEN
+[Difference] Cookie-Name: 9: nmstat
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

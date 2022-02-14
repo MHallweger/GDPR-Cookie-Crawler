@@ -1,0 +1,79 @@
+Website 11: http://www.tropicbeach.de/ | Created: 10.02.2022 12:15:47 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 26
+[Before] Website-Cookies: [{'domain': 'tropicbeach.de', 'httpOnly': False, 'name': 'fsb_total_price_353756', 'path': '/', 'secure': False, 'value': '0'}, {'domain': 'tropicbeach.de', 'expiry': 1645701338, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': '.tropicbeach.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'tropicbeach.de', 'httpOnly': False, 'name': 'fsb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': 'tropicbeach.de', 'expiry': 1644495337, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'tropicbeach.de', 'expiry': 1645701338, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'faa721ab8dacba9c64f953d91ff07098'}, {'domain': '.tropicbeach.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.tropicbeach.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T11%3A15%3A37.737Z'}, {'domain': 'tropicbeach.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.tropicbeach.de', 'expiry': 1676027737, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%7D'}, {'domain': 'tropicbeach.de', 'expiry': 1645701338, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644491738'}, {'domain': '.tropicbeach.de', 'expiry': 1645701337, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.tropicbeach.de', 'expiry': 1676027737, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.tropicbeach.de', 'expiry': 1652267738, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644491737735.610955442'}, {'domain': '.tropicbeach.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bb986353-761e-4b56-9dea-4a5806de4cd4'}, {'domain': '.tropicbeach.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bb986353-761e-4b56-9dea-4a5806de4cd4'}, {'domain': '.tropicbeach.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '955c6b09-2b85-42cd-9723-dc2454865039'}, {'domain': '.tropicbeach.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '955c6b09-2b85-42cd-9723-dc2454865039'}, {'domain': 'tropicbeach.de', 'expiry': 1645701338, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.tropicbeach.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'tropicbeach.de', 'expiry': 1676027738, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.tropicbeach.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'tropicbeach.de', 'expiry': 1645701338, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c3555aa27f7f3d4bb189c0b592594e21'}, {'domain': 'tropicbeach.de', 'expiry': 1645701338, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.tropicbeach.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T11%3A15%3A37.669Z'}, {'domain': '.tropicbeach.de', 'expiry': 1644493538, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[Before] Cookie-Name 1: fsb_total_price_353756
+[Before] Cookie-Name 2: cart_ver
+[Before] Cookie-Name 3: _landing_page
+[Before] Cookie-Name 4: fsb_previous_pathname
+[Before] Cookie-Name 5: shopify_pay_redirect
+[Before] Cookie-Name 6: cart
+[Before] Cookie-Name 7: _shopify_evids
+[Before] Cookie-Name 8: _shopify_sa_t
+[Before] Cookie-Name 9: _shopify_evids
+[Before] Cookie-Name 10: _tracking_consent
+[Before] Cookie-Name 11: cart_ts
+[Before] Cookie-Name 12: _shopify_tw
+[Before] Cookie-Name 13: _shopify_m
+[Before] Cookie-Name 14: _fbp
+[Before] Cookie-Name 15: _s
+[Before] Cookie-Name 16: _shopify_s
+[Before] Cookie-Name 17: _shopify_y
+[Before] Cookie-Name 18: _y
+[Before] Cookie-Name 19: cart_currency
+[Before] Cookie-Name 20: _orig_referrer
+[Before] Cookie-Name 21: secure_customer_sig
+[Before] Cookie-Name 22: _shopify_sa_p
+[Before] Cookie-Name 23: cart_sig
+[Before] Cookie-Name 24: localization
+[Before] Cookie-Name 25: _shopify_d
+[Before] Cookie-Name 26: _shopify_tm
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 26
+[After] Website-Cookies: [{'domain': '.tropicbeach.de', 'expiry': 1676027753, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': 'tropicbeach.de', 'httpOnly': False, 'name': 'fsb_total_price_353756', 'path': '/', 'secure': False, 'value': '0'}, {'domain': 'tropicbeach.de', 'expiry': 1645701338, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': 'tropicbeach.de', 'expiry': 1645701353, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'tropicbeach.de', 'expiry': 1645701353, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c3555aa27f7f3d4bb189c0b592594e21'}, {'domain': '.tropicbeach.de', 'expiry': 1645701353, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'tropicbeach.de', 'httpOnly': False, 'name': 'fsb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': 'tropicbeach.de', 'expiry': 1644495337, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'tropicbeach.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.tropicbeach.de', 'expiry': 1644493553, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T11%3A15%3A37.737Z'}, {'domain': 'tropicbeach.de', 'expiry': 1645701338, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'faa721ab8dacba9c64f953d91ff07098'}, {'domain': '.tropicbeach.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.tropicbeach.de', 'expiry': 1652267752, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644491737735.610955442'}, {'domain': '.tropicbeach.de', 'expiry': 1644493553, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bb986353-761e-4b56-9dea-4a5806de4cd4'}, {'domain': '.tropicbeach.de', 'expiry': 1644493553, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bb986353-761e-4b56-9dea-4a5806de4cd4'}, {'domain': '.tropicbeach.de', 'expiry': 1676027753, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '955c6b09-2b85-42cd-9723-dc2454865039'}, {'domain': '.tropicbeach.de', 'expiry': 1676027753, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '955c6b09-2b85-42cd-9723-dc2454865039'}, {'domain': 'tropicbeach.de', 'expiry': 1645701353, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.tropicbeach.de', 'expiry': 1645701353, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'tropicbeach.de', 'expiry': 1676027753, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.tropicbeach.de', 'expiry': 1644493553, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.tropicbeach.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T11%3A15%3A37.669Z'}, {'domain': '.tropicbeach.de', 'expiry': 1644493553, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.tropicbeach.de', 'expiry': 1676027753, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22con%22%3A%7B%22GDPR%22%3A%221%22%7D%2C%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': 'tropicbeach.de', 'expiry': 1645701338, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644491738'}, {'domain': '.tropicbeach.de', 'expiry': 1645701337, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: _shopify_m
+[After] Cookie-Name 2: fsb_total_price_353756
+[After] Cookie-Name 3: cart_ver
+[After] Cookie-Name 4: localization
+[After] Cookie-Name 5: cart_sig
+[After] Cookie-Name 6: _landing_page
+[After] Cookie-Name 7: fsb_previous_pathname
+[After] Cookie-Name 8: shopify_pay_redirect
+[After] Cookie-Name 9: _shopify_evids
+[After] Cookie-Name 10: _shopify_sa_t
+[After] Cookie-Name 11: cart
+[After] Cookie-Name 12: _shopify_evids
+[After] Cookie-Name 13: _fbp
+[After] Cookie-Name 14: _s
+[After] Cookie-Name 15: _shopify_s
+[After] Cookie-Name 16: _shopify_y
+[After] Cookie-Name 17: _y
+[After] Cookie-Name 18: cart_currency
+[After] Cookie-Name 19: _orig_referrer
+[After] Cookie-Name 20: secure_customer_sig
+[After] Cookie-Name 21: _shopify_sa_p
+[After] Cookie-Name 22: _shopify_d
+[After] Cookie-Name 23: _shopify_tm
+[After] Cookie-Name 24: _tracking_consent
+[After] Cookie-Name 25: cart_ts
+[After] Cookie-Name 26: _shopify_tw
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

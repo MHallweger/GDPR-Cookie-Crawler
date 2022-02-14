@@ -1,0 +1,54 @@
+Website 177: http://www.sueper-store.de/ | Created: 08.02.2022 22:33:37 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 12
+[Before] Website-Cookies: [{'domain': '.sueper-store.de', 'expiry': 1644357819, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '931a028b-35cc-4b93-9300-cca66cf23fd1'}, {'domain': '.sueper-store.de', 'expiry': 1644357808, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A33%3A28.841Z'}, {'domain': '.sueper-store.de', 'expiry': 1675892019, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6f2a252d-d4c9-4240-8e8e-50a87041cb58'}, {'domain': '.sueper-store.de', 'expiry': 1675892019, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6f2a252d-d4c9-4240-8e8e-50a87041cb58'}, {'domain': 'sueper-store.de', 'expiry': 1645565619, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.sueper-store.de', 'expiry': 1645565608, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.sueper-store.de', 'expiry': 1645565608, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'sueper-store.de', 'expiry': 1645565609, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '26f81b8a0cc07147d7daaa1e12c9f506'}, {'domain': '.sueper-store.de', 'expiry': 1644357819, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '931a028b-35cc-4b93-9300-cca66cf23fd1'}, {'domain': 'sueper-store.de', 'expiry': 1645565619, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.sueper-store.de', 'expiry': 1644357808, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'sueper-store.de', 'expiry': 1675892019, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _s
+[Before] Cookie-Name 2: _shopify_sa_t
+[Before] Cookie-Name 3: _y
+[Before] Cookie-Name 4: _shopify_y
+[Before] Cookie-Name 5: localization
+[Before] Cookie-Name 6: _landing_page
+[Before] Cookie-Name 7: _orig_referrer
+[Before] Cookie-Name 8: cart_sig
+[Before] Cookie-Name 9: _shopify_s
+[Before] Cookie-Name 10: cart_currency
+[Before] Cookie-Name 11: _shopify_sa_p
+[Before] Cookie-Name 12: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 12
+[After] Website-Cookies: [{'domain': '.sueper-store.de', 'expiry': 1644357819, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '931a028b-35cc-4b93-9300-cca66cf23fd1'}, {'domain': '.sueper-store.de', 'expiry': 1644357808, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A33%3A28.841Z'}, {'domain': '.sueper-store.de', 'expiry': 1675892019, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6f2a252d-d4c9-4240-8e8e-50a87041cb58'}, {'domain': '.sueper-store.de', 'expiry': 1675892019, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6f2a252d-d4c9-4240-8e8e-50a87041cb58'}, {'domain': 'sueper-store.de', 'expiry': 1645565619, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.sueper-store.de', 'expiry': 1645565608, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.sueper-store.de', 'expiry': 1645565608, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'sueper-store.de', 'expiry': 1645565609, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '26f81b8a0cc07147d7daaa1e12c9f506'}, {'domain': '.sueper-store.de', 'expiry': 1644357819, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '931a028b-35cc-4b93-9300-cca66cf23fd1'}, {'domain': 'sueper-store.de', 'expiry': 1645565619, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.sueper-store.de', 'expiry': 1644357808, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'sueper-store.de', 'expiry': 1675892019, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _s
+[After] Cookie-Name 2: _shopify_sa_t
+[After] Cookie-Name 3: _y
+[After] Cookie-Name 4: _shopify_y
+[After] Cookie-Name 5: localization
+[After] Cookie-Name 6: _landing_page
+[After] Cookie-Name 7: _orig_referrer
+[After] Cookie-Name 8: cart_sig
+[After] Cookie-Name 9: _shopify_s
+[After] Cookie-Name 10: cart_currency
+[After] Cookie-Name 11: _shopify_sa_p
+[After] Cookie-Name 12: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

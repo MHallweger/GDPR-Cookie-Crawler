@@ -1,0 +1,82 @@
+Website 17: http://www.crazychair.de/ | Created: 09.02.2022 13:48:05 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 24
+[Before] Website-Cookies: [{'domain': 'www.crazychair.de', 'expiry': 1645620476, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A2'}, {'domain': '.crazychair.de', 'expiry': 1644412676, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bf8151d0-cb67-4b71-9574-e65228a83824'}, {'domain': 'www.crazychair.de', 'expiry': 1645620476, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644410876'}, {'domain': 'www.crazychair.de', 'expiry': 1645620476, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6c3c39cb97c1beb2e18349f226caccd0'}, {'domain': '.crazychair.de', 'expiry': 1644497275, 'httpOnly': False, 'name': '__cmpcpcu1824', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '__1__'}, {'domain': 'www.crazychair.de', 'expiry': 1644414475, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.crazychair.de', 'expiry': 1644410935, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.crazychair.de', 'expiry': 1644497275, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.298036693.1644410876'}, {'domain': '.crazychair.de', 'expiry': 1644497275, 'httpOnly': False, 'name': '__cmpcvcu1824', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '__s65_s23_s24_s731_s971__'}, {'domain': '.crazychair.de', 'expiry': 1675946876, 'httpOnly': False, 'name': '_derived_epik', 'path': '/', 'secure': False, 'value': 'empty'}, {'domain': '.crazychair.de', 'expiry': 1644412675, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T12%3A47%3A55.618Z'}, {'domain': '.crazychair.de', 'expiry': 1652186876, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644410875636.171353121'}, {'domain': '.crazychair.de', 'expiry': 1644412675, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.crazychair.de', 'expiry': 1644412676, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bf8151d0-cb67-4b71-9574-e65228a83824'}, {'domain': 'www.crazychair.de', 'expiry': 1645620476, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '43748313c89445dd8bdffd8c85804c82'}, {'domain': '.crazychair.de', 'expiry': 1675946876, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cac56036-5c13-4743-b854-f868b48d63ec'}, {'domain': '.crazychair.de', 'expiry': 1675946876, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cac56036-5c13-4743-b854-f868b48d63ec'}, {'domain': '.crazychair.de', 'expiry': 1675946876, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVpXUTBNV1l5TnprdFlUTmtOQzAwTUdSakxUazVZbUV0TVRVMVpERTVaREpqT0RFeQ'}, {'domain': 'www.crazychair.de', 'expiry': 1645620476, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': 'www.crazychair.de', 'expiry': 1645620476, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.crazychair.de', 'expiry': 1645620475, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.crazychair.de', 'expiry': 1645620475, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.crazychair.de', 'expiry': 1707482875, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.915492049.1644410876'}, {'domain': 'www.crazychair.de', 'expiry': 1675946876, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: cart_ver
+[Before] Cookie-Name 2: _s
+[Before] Cookie-Name 3: cart_ts
+[Before] Cookie-Name 4: cart
+[Before] Cookie-Name 5: __cmpcpcu1824
+[Before] Cookie-Name 6: shopify_pay_redirect
+[Before] Cookie-Name 7: _gat
+[Before] Cookie-Name 8: _gid
+[Before] Cookie-Name 9: __cmpcvcu1824
+[Before] Cookie-Name 10: _derived_epik
+[Before] Cookie-Name 11: _shopify_sa_t
+[Before] Cookie-Name 12: _fbp
+[Before] Cookie-Name 13: _shopify_sa_p
+[Before] Cookie-Name 14: _shopify_s
+[Before] Cookie-Name 15: cart_sig
+[Before] Cookie-Name 16: _shopify_y
+[Before] Cookie-Name 17: _y
+[Before] Cookie-Name 18: _pin_unauth
+[Before] Cookie-Name 19: localization
+[Before] Cookie-Name 20: cart_currency
+[Before] Cookie-Name 21: _landing_page
+[Before] Cookie-Name 22: _orig_referrer
+[Before] Cookie-Name 23: _ga
+[Before] Cookie-Name 24: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 25
+[After] Website-Cookies: [{'domain': '.crazychair.de', 'expiry': 1675946890, 'httpOnly': False, 'name': '__cmpcpcu1824', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '__1_52_55__'}, {'domain': '.crazychair.de', 'expiry': 1644412691, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bf8151d0-cb67-4b71-9574-e65228a83824'}, {'domain': '.crazychair.de', 'expiry': 1675946890, 'httpOnly': False, 'name': '__cmpconsent1824', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'BPUJTBrPUJTBrAfbIBDEDXAAAAAYGAEAACAAYABYBgQ'}, {'domain': 'www.crazychair.de', 'expiry': 1645620476, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A2'}, {'domain': '.crazychair.de', 'expiry': 1644412691, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bf8151d0-cb67-4b71-9574-e65228a83824'}, {'domain': 'www.crazychair.de', 'expiry': 1645620476, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644410876'}, {'domain': 'www.crazychair.de', 'expiry': 1645620476, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6c3c39cb97c1beb2e18349f226caccd0'}, {'domain': 'www.crazychair.de', 'expiry': 1644414475, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.crazychair.de', 'expiry': 1644410935, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.crazychair.de', 'expiry': 1644497275, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.298036693.1644410876'}, {'domain': '.crazychair.de', 'expiry': 1675946890, 'httpOnly': False, 'name': '__cmpcvcu1824', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '__s94_s1052_s1494_s65_s23_s1473_s7_s1_s26_s135_s905_s1492_s24_s14_s731_s1442_s1358_s1097_s49_s2485_s971_s2492_s34_s77_s30_U__'}, {'domain': '.crazychair.de', 'expiry': 1675946876, 'httpOnly': False, 'name': '_derived_epik', 'path': '/', 'secure': False, 'value': 'empty'}, {'domain': '.crazychair.de', 'expiry': 1644412675, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T12%3A47%3A55.618Z'}, {'domain': '.crazychair.de', 'expiry': 1652186890, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644410875636.171353121'}, {'domain': '.crazychair.de', 'expiry': 1644412675, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.crazychair.de', 'expiry': 1645620476, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '43748313c89445dd8bdffd8c85804c82'}, {'domain': '.crazychair.de', 'expiry': 1675946891, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cac56036-5c13-4743-b854-f868b48d63ec'}, {'domain': '.crazychair.de', 'expiry': 1675946891, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cac56036-5c13-4743-b854-f868b48d63ec'}, {'domain': '.crazychair.de', 'expiry': 1675946876, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVpXUTBNV1l5TnprdFlUTmtOQzAwTUdSakxUazVZbUV0TVRVMVpERTVaREpqT0RFeQ'}, {'domain': 'www.crazychair.de', 'expiry': 1645620491, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'www.crazychair.de', 'expiry': 1645620491, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.crazychair.de', 'expiry': 1645620475, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.crazychair.de', 'expiry': 1645620475, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.crazychair.de', 'expiry': 1707482875, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.915492049.1644410876'}, {'domain': 'www.crazychair.de', 'expiry': 1675946891, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: __cmpcpcu1824
+[After] Cookie-Name 2: _shopify_s
+[After] Cookie-Name 3: __cmpconsent1824
+[After] Cookie-Name 4: cart_ver
+[After] Cookie-Name 5: _s
+[After] Cookie-Name 6: cart_ts
+[After] Cookie-Name 7: cart
+[After] Cookie-Name 8: shopify_pay_redirect
+[After] Cookie-Name 9: _gat
+[After] Cookie-Name 10: _gid
+[After] Cookie-Name 11: __cmpcvcu1824
+[After] Cookie-Name 12: _derived_epik
+[After] Cookie-Name 13: _shopify_sa_t
+[After] Cookie-Name 14: _fbp
+[After] Cookie-Name 15: _shopify_sa_p
+[After] Cookie-Name 16: cart_sig
+[After] Cookie-Name 17: _shopify_y
+[After] Cookie-Name 18: _y
+[After] Cookie-Name 19: _pin_unauth
+[After] Cookie-Name 20: localization
+[After] Cookie-Name 21: cart_currency
+[After] Cookie-Name 22: _landing_page
+[After] Cookie-Name 23: _orig_referrer
+[After] Cookie-Name 24: _ga
+[After] Cookie-Name 25: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: __cmpconsent1824
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

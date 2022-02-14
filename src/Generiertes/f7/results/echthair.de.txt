@@ -1,0 +1,81 @@
+Website 366: http://www.echthair.de/ | Created: 10.02.2022 19:08:39 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 23
+[Before] Website-Cookies: [{'domain': 'www.echthair.de', 'expiry': 1676052511, 'httpOnly': False, 'name': 'apay-session-set', 'path': '/', 'secure': True, 'value': 'jG%2BmwkJqtvjxOIcbuC8JC7cpf5SDY9o2DB%2FX4vnwco6yuR9SMvir%2BN3sBjR0VVA%3D'}, {'domain': 'www.echthair.de', 'expiry': 1644520111, 'httpOnly': False, 'name': 'language', 'path': '/', 'secure': False, 'value': 'de_DE'}, {'domain': 'www.echthair.de', 'expiry': 1644520111, 'httpOnly': False, 'name': 'amazon-pay-connectedAuth', 'path': '/', 'secure': False, 'value': 'connectedAuth_general'}, {'domain': '.echthair.de', 'expiry': 1676052510, 'httpOnly': False, 'name': 'OptanonConsent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'isIABGlobal=false&datestamp=Thu+Feb+10+2022+19%3A08%3A30+GMT%2B0100+(Mitteleurop%C3%A4ische+Normalzeit)&version=6.6.0&hosts=&landingPath=https%3A%2F%2Fwww.echthair.de%2F&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0'}, {'domain': 'www.echthair.de', 'expiry': 1644520110, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.echthair.de', 'expiry': 1652292509, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644516509143.821449530'}, {'domain': '.echthair.de', 'expiry': 1644516569, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.echthair.de', 'expiry': 1707588509, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.2010169317.1644516508'}, {'domain': '.echthair.de', 'expiry': 1644518310, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd2cfbfbc-4a6b-4d44-903c-7c1f7a282dce'}, {'domain': 'www.echthair.de', 'expiry': 1645726108, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': '.echthair.de', 'expiry': 1644518308, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T18%3A08%3A28.756Z'}, {'domain': '.echthair.de', 'expiry': 1644602909, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1359045123.1644516509'}, {'domain': '.echthair.de', 'expiry': 1707588508, 'httpOnly': False, 'name': '_ga_2GQTX21XWE', 'path': '/', 'secure': False, 'value': 'GS1.1.1644516508.1.1.1644516508.0'}, {'domain': '.echthair.de', 'expiry': 1645726108, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.echthair.de', 'expiry': 1676052510, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '499524d2-cc74-4471-9b6d-3172008012dc'}, {'domain': 'www.echthair.de', 'expiry': 1645726108, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.echthair.de', 'expiry': 1644518308, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.echthair.de', 'expiry': 1676052510, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '499524d2-cc74-4471-9b6d-3172008012dc'}, {'domain': '.echthair.de', 'expiry': 1652292508, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.732728089.1644516509'}, {'domain': '.echthair.de', 'expiry': 1645726108, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.echthair.de', 'expiry': 1644518310, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd2cfbfbc-4a6b-4d44-903c-7c1f7a282dce'}, {'domain': '.echthair.de', 'expiry': 1644516569, 'httpOnly': False, 'name': '_gat_UA-76790958-1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.echthair.de', 'expiry': 1676052508, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: apay-session-set
+[Before] Cookie-Name 2: language
+[Before] Cookie-Name 3: amazon-pay-connectedAuth
+[Before] Cookie-Name 4: OptanonConsent
+[Before] Cookie-Name 5: shopify_pay_redirect
+[Before] Cookie-Name 6: _fbp
+[Before] Cookie-Name 7: _gat
+[Before] Cookie-Name 8: _ga
+[Before] Cookie-Name 9: _shopify_s
+[Before] Cookie-Name 10: localization
+[Before] Cookie-Name 11: _shopify_sa_t
+[Before] Cookie-Name 12: _gid
+[Before] Cookie-Name 13: _ga_2GQTX21XWE
+[Before] Cookie-Name 14: _landing_page
+[Before] Cookie-Name 15: _y
+[Before] Cookie-Name 16: cart_currency
+[Before] Cookie-Name 17: _shopify_sa_p
+[Before] Cookie-Name 18: _shopify_y
+[Before] Cookie-Name 19: _gcl_au
+[Before] Cookie-Name 20: _orig_referrer
+[Before] Cookie-Name 21: _s
+[Before] Cookie-Name 22: _gat_UA-76790958-1
+[Before] Cookie-Name 23: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 23
+[After] Website-Cookies: [{'domain': 'www.echthair.de', 'expiry': 1676052511, 'httpOnly': False, 'name': 'apay-session-set', 'path': '/', 'secure': True, 'value': 'jG%2BmwkJqtvjxOIcbuC8JC7cpf5SDY9o2DB%2FX4vnwco6yuR9SMvir%2BN3sBjR0VVA%3D'}, {'domain': 'www.echthair.de', 'expiry': 1644520111, 'httpOnly': False, 'name': 'language', 'path': '/', 'secure': False, 'value': 'de_DE'}, {'domain': 'www.echthair.de', 'expiry': 1644520111, 'httpOnly': False, 'name': 'amazon-pay-connectedAuth', 'path': '/', 'secure': False, 'value': 'connectedAuth_general'}, {'domain': '.echthair.de', 'expiry': 1676052510, 'httpOnly': False, 'name': 'OptanonConsent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'isIABGlobal=false&datestamp=Thu+Feb+10+2022+19%3A08%3A30+GMT%2B0100+(Mitteleurop%C3%A4ische+Normalzeit)&version=6.6.0&hosts=&landingPath=https%3A%2F%2Fwww.echthair.de%2F&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0'}, {'domain': 'www.echthair.de', 'expiry': 1644520110, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.echthair.de', 'expiry': 1652292509, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644516509143.821449530'}, {'domain': '.echthair.de', 'expiry': 1644516569, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.echthair.de', 'expiry': 1707588509, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.2010169317.1644516508'}, {'domain': '.echthair.de', 'expiry': 1644518310, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd2cfbfbc-4a6b-4d44-903c-7c1f7a282dce'}, {'domain': 'www.echthair.de', 'expiry': 1645726108, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': '.echthair.de', 'expiry': 1644518308, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T18%3A08%3A28.756Z'}, {'domain': '.echthair.de', 'expiry': 1644602909, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1359045123.1644516509'}, {'domain': '.echthair.de', 'expiry': 1707588508, 'httpOnly': False, 'name': '_ga_2GQTX21XWE', 'path': '/', 'secure': False, 'value': 'GS1.1.1644516508.1.1.1644516508.0'}, {'domain': '.echthair.de', 'expiry': 1645726108, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.echthair.de', 'expiry': 1676052510, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '499524d2-cc74-4471-9b6d-3172008012dc'}, {'domain': 'www.echthair.de', 'expiry': 1645726108, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.echthair.de', 'expiry': 1644518308, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.echthair.de', 'expiry': 1676052510, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '499524d2-cc74-4471-9b6d-3172008012dc'}, {'domain': '.echthair.de', 'expiry': 1652292508, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.732728089.1644516509'}, {'domain': '.echthair.de', 'expiry': 1645726108, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.echthair.de', 'expiry': 1644518310, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd2cfbfbc-4a6b-4d44-903c-7c1f7a282dce'}, {'domain': '.echthair.de', 'expiry': 1644516569, 'httpOnly': False, 'name': '_gat_UA-76790958-1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.echthair.de', 'expiry': 1676052508, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: apay-session-set
+[After] Cookie-Name 2: language
+[After] Cookie-Name 3: amazon-pay-connectedAuth
+[After] Cookie-Name 4: OptanonConsent
+[After] Cookie-Name 5: shopify_pay_redirect
+[After] Cookie-Name 6: _fbp
+[After] Cookie-Name 7: _gat
+[After] Cookie-Name 8: _ga
+[After] Cookie-Name 9: _shopify_s
+[After] Cookie-Name 10: localization
+[After] Cookie-Name 11: _shopify_sa_t
+[After] Cookie-Name 12: _gid
+[After] Cookie-Name 13: _ga_2GQTX21XWE
+[After] Cookie-Name 14: _landing_page
+[After] Cookie-Name 15: _y
+[After] Cookie-Name 16: cart_currency
+[After] Cookie-Name 17: _shopify_sa_p
+[After] Cookie-Name 18: _shopify_y
+[After] Cookie-Name 19: _gcl_au
+[After] Cookie-Name 20: _orig_referrer
+[After] Cookie-Name 21: _s
+[After] Cookie-Name 22: _gat_UA-76790958-1
+[After] Cookie-Name 23: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

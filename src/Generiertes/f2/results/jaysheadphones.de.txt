@@ -1,0 +1,83 @@
+Website 30: http://www.jaysheadphones.de/ | Created: 09.02.2022 10:54:52 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 25
+[Before] Website-Cookies: [{'domain': '.jaysheadphones.de', 'expiry': 1707472485, 'httpOnly': False, 'name': '__mmapiwsid', 'path': '/', 'secure': True, 'value': '3f6c2505-5a39-40e0-8fe0-476fb3ad4414:59c97b341a4bebd863704549b3fdd96dcc2e691e'}, {'domain': '.jaysheadphones.de', 'expiry': 1644402283, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.jaysheadphones.de', 'expiry': 1644402283, 'httpOnly': False, 'name': '_hjSession_2016146', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjRjOGM1OTFkLWVlM2MtNGU2NC1iYzA3LTQ3NWJjNGFhZGE2NCIsImNyZWF0ZWQiOjE2NDQ0MDA0ODMzNTcsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': 'jaysheadphones.de', 'expiry': 1644400603, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.jaysheadphones.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.jaysheadphones.de', 'expiry': 1644402283, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.jaysheadphones.de', 'expiry': 1675936483, 'httpOnly': False, 'name': '_hjSessionUser_2016146', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjMzYzRjMzlkLTI1NDctNTQ3My1iOTdhLWYwYWM2MGM4N2Q2YiIsImNyZWF0ZWQiOjE2NDQ0MDA0ODMzMTEsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.jaysheadphones.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'jaysheadphones.de', 'expiry': 1707472483, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MDA0ODMsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vamF5c2hlYWRwaG9uZXMuZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NDAwNDgzLCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL2pheXNoZWFkcGhvbmVzLmRlLyJ9fQ=='}, {'domain': '.jaysheadphones.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.jaysheadphones.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T09%3A54%3A43.156Z'}, {'domain': '.jaysheadphones.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.jaysheadphones.de', 'expiry': 1675936482, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.jaysheadphones.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T09%3A54%3A43.066Z'}, {'domain': '.jaysheadphones.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'afec611b-36e4-454d-a533-7e3231a34c23'}, {'domain': '.jaysheadphones.de', 'expiry': 1645610082, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.jaysheadphones.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e4151261-c679-4319-876f-9132df50a511'}, {'domain': '.jaysheadphones.de', 'expiry': 1644402284, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'jaysheadphones.de', 'expiry': 1675936484, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.jaysheadphones.de', 'expiry': 1675936482, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%7D'}, {'domain': '.jaysheadphones.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e4151261-c679-4319-876f-9132df50a511'}, {'domain': '.jaysheadphones.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'afec611b-36e4-454d-a533-7e3231a34c23'}, {'domain': 'jaysheadphones.de', 'expiry': 1645610084, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'jaysheadphones.de', 'expiry': 1645610084, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'jaysheadphones.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[Before] Cookie-Name 1: __mmapiwsid
+[Before] Cookie-Name 2: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 3: _hjSession_2016146
+[Before] Cookie-Name 4: _hjIncludedInPageviewSample
+[Before] Cookie-Name 5: _landing_page
+[Before] Cookie-Name 6: _hjFirstSeen
+[Before] Cookie-Name 7: _hjSessionUser_2016146
+[Before] Cookie-Name 8: _orig_referrer
+[Before] Cookie-Name 9: __kla_id
+[Before] Cookie-Name 10: _shopify_sa_p
+[Before] Cookie-Name 11: _shopify_sa_t
+[Before] Cookie-Name 12: _shopify_evids
+[Before] Cookie-Name 13: _shopify_m
+[Before] Cookie-Name 14: _shopify_d
+[Before] Cookie-Name 15: _shopify_y
+[Before] Cookie-Name 16: _shopify_tw
+[Before] Cookie-Name 17: _shopify_s
+[Before] Cookie-Name 18: _shopify_tm
+[Before] Cookie-Name 19: secure_customer_sig
+[Before] Cookie-Name 20: _tracking_consent
+[Before] Cookie-Name 21: _s
+[Before] Cookie-Name 22: _y
+[Before] Cookie-Name 23: cart_currency
+[Before] Cookie-Name 24: localization
+[Before] Cookie-Name 25: _shopify_evids
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 25
+[After] Website-Cookies: [{'domain': '.jaysheadphones.de', 'expiry': 1707472485, 'httpOnly': False, 'name': '__mmapiwsid', 'path': '/', 'secure': True, 'value': '3f6c2505-5a39-40e0-8fe0-476fb3ad4414:59c97b341a4bebd863704549b3fdd96dcc2e691e'}, {'domain': '.jaysheadphones.de', 'expiry': 1644402283, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.jaysheadphones.de', 'expiry': 1644402283, 'httpOnly': False, 'name': '_hjSession_2016146', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjRjOGM1OTFkLWVlM2MtNGU2NC1iYzA3LTQ3NWJjNGFhZGE2NCIsImNyZWF0ZWQiOjE2NDQ0MDA0ODMzNTcsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': 'jaysheadphones.de', 'expiry': 1644400603, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.jaysheadphones.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.jaysheadphones.de', 'expiry': 1644402283, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.jaysheadphones.de', 'expiry': 1675936483, 'httpOnly': False, 'name': '_hjSessionUser_2016146', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjMzYzRjMzlkLTI1NDctNTQ3My1iOTdhLWYwYWM2MGM4N2Q2YiIsImNyZWF0ZWQiOjE2NDQ0MDA0ODMzMTEsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.jaysheadphones.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'jaysheadphones.de', 'expiry': 1707472483, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MDA0ODMsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vamF5c2hlYWRwaG9uZXMuZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NDAwNDgzLCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL2pheXNoZWFkcGhvbmVzLmRlLyJ9fQ=='}, {'domain': '.jaysheadphones.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.jaysheadphones.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T09%3A54%3A43.156Z'}, {'domain': '.jaysheadphones.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.jaysheadphones.de', 'expiry': 1675936482, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.jaysheadphones.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T09%3A54%3A43.066Z'}, {'domain': '.jaysheadphones.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'afec611b-36e4-454d-a533-7e3231a34c23'}, {'domain': '.jaysheadphones.de', 'expiry': 1645610082, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.jaysheadphones.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e4151261-c679-4319-876f-9132df50a511'}, {'domain': '.jaysheadphones.de', 'expiry': 1644402284, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'jaysheadphones.de', 'expiry': 1675936484, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.jaysheadphones.de', 'expiry': 1675936482, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%7D'}, {'domain': '.jaysheadphones.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e4151261-c679-4319-876f-9132df50a511'}, {'domain': '.jaysheadphones.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'afec611b-36e4-454d-a533-7e3231a34c23'}, {'domain': 'jaysheadphones.de', 'expiry': 1645610084, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'jaysheadphones.de', 'expiry': 1645610084, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'jaysheadphones.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: __mmapiwsid
+[After] Cookie-Name 2: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 3: _hjSession_2016146
+[After] Cookie-Name 4: _hjIncludedInPageviewSample
+[After] Cookie-Name 5: _landing_page
+[After] Cookie-Name 6: _hjFirstSeen
+[After] Cookie-Name 7: _hjSessionUser_2016146
+[After] Cookie-Name 8: _orig_referrer
+[After] Cookie-Name 9: __kla_id
+[After] Cookie-Name 10: _shopify_sa_p
+[After] Cookie-Name 11: _shopify_sa_t
+[After] Cookie-Name 12: _shopify_evids
+[After] Cookie-Name 13: _shopify_m
+[After] Cookie-Name 14: _shopify_d
+[After] Cookie-Name 15: _shopify_y
+[After] Cookie-Name 16: _shopify_tw
+[After] Cookie-Name 17: _shopify_s
+[After] Cookie-Name 18: _shopify_tm
+[After] Cookie-Name 19: secure_customer_sig
+[After] Cookie-Name 20: _tracking_consent
+[After] Cookie-Name 21: _s
+[After] Cookie-Name 22: _y
+[After] Cookie-Name 23: cart_currency
+[After] Cookie-Name 24: localization
+[After] Cookie-Name 25: _shopify_evids
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjIncludedInPageviewSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

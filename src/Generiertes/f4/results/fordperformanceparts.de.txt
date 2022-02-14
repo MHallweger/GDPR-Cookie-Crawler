@@ -1,0 +1,69 @@
+Website 364: http://www.fordperformanceparts.de/ | Created: 09.02.2022 19:01:21 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 18
+[Before] Website-Cookies: [{'domain': '.ford.de', 'expiry': 1675965673, 'httpOnly': False, 'name': '__zlcmid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '18Skh6rMkT1h4Cv'}, {'domain': 'shop.ford.de', 'expiry': 1707501671, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0Mjk2NzIsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vc2hvcC5mb3JkLmRlLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDQyOTY3MiwidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly9zaG9wLmZvcmQuZGUvIn19'}, {'domain': '.shop.ford.de', 'expiry': 1675965670, 'httpOnly': False, 'name': 'OptanonConsent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'isGpcEnabled=0&datestamp=Wed+Feb+09+2022+19%3A01%3A10+GMT%2B0100+(Mitteleurop%C3%A4ische+Normalzeit)&version=6.19.0&isIABGlobal=false&hosts=&landingPath=https%3A%2F%2Fshop.ford.de%2F&groups=C0003%3A0%2CC0001%3A1%2CC0002%3A0%2CC0004%3A0'}, {'domain': '.ford.de', 'expiry': 1644431469, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.ford.de', 'expiry': 1644431469, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T18%3A01%3A09.540Z'}, {'domain': '.ford.de', 'expiry': 1644429729, 'httpOnly': False, 'name': '_gat_UA-110480774-3', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.ford.de', 'expiry': 1675965671, 'httpOnly': False, 'name': '_CEFT', 'path': '/', 'secure': False, 'value': 'Q%3D%3D%3D'}, {'domain': '.ford.de', 'expiry': 1652205668, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.777852461.1644429669'}, {'domain': '.ford.de', 'expiry': 1644516069, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1272629255.1644429669'}, {'domain': '.ford.de', 'expiry': 1644431471, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '166a4d02-592e-4142-9ade-ffd3a22f60c8'}, {'domain': '.ford.de', 'expiry': 1707501669, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1206488534.1644429669'}, {'domain': '.ford.de', 'expiry': 1645639268, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.ford.de', 'expiry': 1707501669, 'httpOnly': False, 'name': '_ga_Q2G9VYSWF2', 'path': '/', 'secure': False, 'value': 'GS1.1.1644429668.2.0.1644429668.0'}, {'domain': '.ford.de', 'expiry': 1644431471, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '166a4d02-592e-4142-9ade-ffd3a22f60c8'}, {'domain': '.ford.de', 'expiry': 1675965671, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd112b4a8-8cc7-4a6c-9996-df20aae20d5f'}, {'domain': '.ford.de', 'expiry': 1645639268, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.ford.de', 'expiry': 1675965671, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd112b4a8-8cc7-4a6c-9996-df20aae20d5f'}, {'domain': 'shop.ford.de', 'expiry': 1675965671, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: __zlcmid
+[Before] Cookie-Name 2: __kla_id
+[Before] Cookie-Name 3: OptanonConsent
+[Before] Cookie-Name 4: _shopify_sa_p
+[Before] Cookie-Name 5: _shopify_sa_t
+[Before] Cookie-Name 6: _gat_UA-110480774-3
+[Before] Cookie-Name 7: _CEFT
+[Before] Cookie-Name 8: _gcl_au
+[Before] Cookie-Name 9: _gid
+[Before] Cookie-Name 10: _shopify_s
+[Before] Cookie-Name 11: _ga
+[Before] Cookie-Name 12: _orig_referrer
+[Before] Cookie-Name 13: _ga_Q2G9VYSWF2
+[Before] Cookie-Name 14: _s
+[Before] Cookie-Name 15: _y
+[Before] Cookie-Name 16: _landing_page
+[Before] Cookie-Name 17: _shopify_y
+[Before] Cookie-Name 18: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 19
+[After] Website-Cookies: [{'domain': '.shop.ford.de', 'expiry': 1675965687, 'httpOnly': False, 'name': 'OptanonConsent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'isGpcEnabled=0&datestamp=Wed+Feb+09+2022+19%3A01%3A27+GMT%2B0100+(Mitteleurop%C3%A4ische+Normalzeit)&version=6.19.0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=C0003%3A1%2CC0001%3A1%2CC0002%3A1%2CC0004%3A1'}, {'domain': '.ford.de', 'expiry': 1675965673, 'httpOnly': False, 'name': '__zlcmid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '18Skh6rMkT1h4Cv'}, {'domain': 'shop.ford.de', 'expiry': 1707501671, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0Mjk2NzIsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vc2hvcC5mb3JkLmRlLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDQyOTY3MiwidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly9zaG9wLmZvcmQuZGUvIn19'}, {'domain': '.ford.de', 'expiry': 1644431469, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.ford.de', 'expiry': 1644431469, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T18%3A01%3A09.540Z'}, {'domain': '.ford.de', 'expiry': 1644429729, 'httpOnly': False, 'name': '_gat_UA-110480774-3', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.ford.de', 'expiry': 1675965671, 'httpOnly': False, 'name': '_CEFT', 'path': '/', 'secure': False, 'value': 'Q%3D%3D%3D'}, {'domain': '.ford.de', 'expiry': 1652205668, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.777852461.1644429669'}, {'domain': '.ford.de', 'expiry': 1644516087, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1272629255.1644429669'}, {'domain': '.ford.de', 'expiry': 1644431471, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '166a4d02-592e-4142-9ade-ffd3a22f60c8'}, {'domain': '.ford.de', 'expiry': 1707501687, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1206488534.1644429669'}, {'domain': '.shop.ford.de', 'expiry': 1675965687, 'httpOnly': False, 'name': 'OptanonAlertBoxClosed', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T18:01:27.569Z'}, {'domain': '.ford.de', 'expiry': 1645639268, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.ford.de', 'expiry': 1707501669, 'httpOnly': False, 'name': '_ga_Q2G9VYSWF2', 'path': '/', 'secure': False, 'value': 'GS1.1.1644429668.2.0.1644429668.0'}, {'domain': '.ford.de', 'expiry': 1644431471, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '166a4d02-592e-4142-9ade-ffd3a22f60c8'}, {'domain': '.ford.de', 'expiry': 1675965671, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd112b4a8-8cc7-4a6c-9996-df20aae20d5f'}, {'domain': '.ford.de', 'expiry': 1645639268, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.ford.de', 'expiry': 1675965671, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd112b4a8-8cc7-4a6c-9996-df20aae20d5f'}, {'domain': 'shop.ford.de', 'expiry': 1675965671, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: OptanonConsent
+[After] Cookie-Name 2: __zlcmid
+[After] Cookie-Name 3: __kla_id
+[After] Cookie-Name 4: _shopify_sa_p
+[After] Cookie-Name 5: _shopify_sa_t
+[After] Cookie-Name 6: _gat_UA-110480774-3
+[After] Cookie-Name 7: _CEFT
+[After] Cookie-Name 8: _gcl_au
+[After] Cookie-Name 9: _gid
+[After] Cookie-Name 10: _shopify_s
+[After] Cookie-Name 11: _ga
+[After] Cookie-Name 12: OptanonAlertBoxClosed
+[After] Cookie-Name 13: _orig_referrer
+[After] Cookie-Name 14: _ga_Q2G9VYSWF2
+[After] Cookie-Name 15: _s
+[After] Cookie-Name 16: _y
+[After] Cookie-Name 17: _landing_page
+[After] Cookie-Name 18: _shopify_y
+[After] Cookie-Name 19: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: OptanonAlertBoxClosed
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

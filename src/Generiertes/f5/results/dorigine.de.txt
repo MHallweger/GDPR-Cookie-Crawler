@@ -1,0 +1,85 @@
+Website 238: http://www.dorigine.de/ | Created: 09.02.2022 20:48:50 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 8
+[Before] Website-Cookies: [{'domain': 'dorigine.de', 'expiry': 1645645721, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A2'}, {'domain': 'dorigine.de', 'expiry': 1645645721, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7816e43967374b9caacf6ddd5a5958be'}, {'domain': '.dorigine.de', 'expiry': 1645645720, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'dorigine.de', 'expiry': 1645645721, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'dorigine.de', 'expiry': 1645645721, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'df101ee0a796c9ad3c9673d5f8e62ca9'}, {'domain': '.dorigine.de', 'expiry': 1645645720, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'dorigine.de', 'expiry': 1645645721, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644436121'}, {'domain': 'dorigine.de', 'expiry': 1675972121, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: cart_ver
+[Before] Cookie-Name 2: cart_sig
+[Before] Cookie-Name 3: _landing_page
+[Before] Cookie-Name 4: cart_currency
+[Before] Cookie-Name 5: cart
+[Before] Cookie-Name 6: _orig_referrer
+[Before] Cookie-Name 7: cart_ts
+[Before] Cookie-Name 8: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 29
+[After] Website-Cookies: [{'domain': '.dorigine.de', 'expiry': 1644436196, 'httpOnly': False, 'name': '_gat_gtag_UA_162910163_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'dorigine.de', 'httpOnly': False, 'name': 'bc_tgm_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'dorigine.de', 'httpOnly': False, 'name': 'bc_tgm_ua', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'dorigine.de', 'httpOnly': False, 'name': 'bc_tgm_aw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.dorigine.de', 'expiry': 1652212136, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644436136155.1133217396'}, {'domain': '.dorigine.de', 'expiry': 1644436195, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'dorigine.de', 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'dorigine.de', 'expiry': 1675972135, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3be4f23b-9b61-455d-9e40-c109a9318a07'}, {'domain': '.dorigine.de', 'expiry': 1707508136, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.673419653.1644436136'}, {'domain': 'dorigine.de', 'httpOnly': False, 'name': 'geolizr_geodata', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '{%22as%22:%22n/a%22%2C%22asname%22:%22n/a%22%2C%22mobile%22:false%2C%22proxy%22:false%2C%22city%22:%22Polch%22%2C%22currency%22:{%22code%22:%22EUR%22}%2C%22country%22:{%22code%22:%22DE%22%2C%22country%22:%22Germany%22}%2C%22countryCode%22:%22DE%22%2C%22continent%22:%22Europe%22%2C%22continentCode%22:%22EU%22%2C%22isp%22:%22n/a%22%2C%22lat%22:50.3023%2C%22lon%22:7.3194%2C%22org%22:%22n/a%22%2C%22query%22:%2291.184.168.63%22%2C%22region%22:%22RP%22%2C%22regionName%22:%22Rheinland-Pfalz%22%2C%22status%22:%22success%22%2C%22timezone%22:%22Europe/Berlin%22%2C%22zip%22:%2256751%22%2C%22cloudflare%22:%22%22%2C%22ttl%22:0%2C%22env%22:%22PROD%22%2C%22build%22:%22maxmind%2008%20Feb%2022%2009:27%20UTC%22%2C%22currencyCode%22:%22EUR%22%2C%22countryName%22:%22Germany%22%2C%22service%22:%22ip.lovely-app.com%22}'}, {'domain': 'dorigine.de', 'httpOnly': False, 'name': 'geolizr-currency-auto', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'dorigine.de', 'httpOnly': False, 'name': 'geolizr-currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'dorigine.de', 'httpOnly': False, 'name': '_scid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8456813f-1648-4dd3-9977-e89766067c56'}, {'domain': 'dorigine.de', 'expiry': 1645645721, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7816e43967374b9caacf6ddd5a5958be'}, {'domain': 'dorigine.de', 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MzYxMzIsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vZG9yaWdpbmUuZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NDM2MTMyLCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL2RvcmlnaW5lLmRlLyJ9fQ=='}, {'domain': 'dorigine.de', 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1.1.2109072678.1644436131'}, {'domain': 'dorigine.de', 'expiry': 1675972135, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3be4f23b-9b61-455d-9e40-c109a9318a07'}, {'domain': 'dorigine.de', 'expiry': 1647028135, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0NDM2MTM1OTAyLCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjowfX0='}, {'domain': 'dorigine.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e7f34f91-78bc-4cb5-996d-e03e259ca1ee'}, {'domain': 'dorigine.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e7f34f91-78bc-4cb5-996d-e03e259ca1ee'}, {'domain': 'dorigine.de', 'expiry': 1645645721, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'df101ee0a796c9ad3c9673d5f8e62ca9'}, {'domain': 'dorigine.de', 'expiry': 1645645721, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644436121'}, {'domain': 'dorigine.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A48%3A41.034Z'}, {'domain': 'dorigine.de', 'expiry': 1675972121, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.dorigine.de', 'expiry': 1644522536, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.5988426.1644436136'}, {'domain': 'dorigine.de', 'expiry': 1645645721, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A2'}, {'domain': '.dorigine.de', 'expiry': 1645645720, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'dorigine.de', 'expiry': 1645645721, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.dorigine.de', 'expiry': 1645645720, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: _gat_gtag_UA_162910163_1
+[After] Cookie-Name 2: bc_tgm_fbp
+[After] Cookie-Name 3: bc_tgm_ua
+[After] Cookie-Name 4: bc_tgm_aw
+[After] Cookie-Name 5: _fbp
+[After] Cookie-Name 6: _gat
+[After] Cookie-Name 7: localization
+[After] Cookie-Name 8: _shopify_y
+[After] Cookie-Name 9: _ga
+[After] Cookie-Name 10: geolizr_geodata
+[After] Cookie-Name 11: geolizr-currency-auto
+[After] Cookie-Name 12: geolizr-currency
+[After] Cookie-Name 13: _scid
+[After] Cookie-Name 14: cart_sig
+[After] Cookie-Name 15: __kla_id
+[After] Cookie-Name 16: _gcl_au
+[After] Cookie-Name 17: _y
+[After] Cookie-Name 18: _bc_c_set
+[After] Cookie-Name 19: _s
+[After] Cookie-Name 20: _shopify_s
+[After] Cookie-Name 21: cart
+[After] Cookie-Name 22: cart_ts
+[After] Cookie-Name 23: _shopify_sa_t
+[After] Cookie-Name 24: secure_customer_sig
+[After] Cookie-Name 25: _gid
+[After] Cookie-Name 26: cart_ver
+[After] Cookie-Name 27: _landing_page
+[After] Cookie-Name 28: cart_currency
+[After] Cookie-Name 29: _orig_referrer
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 21
+[Difference] Cookie-Name: 1: _gat_gtag_UA_162910163_1
+[Difference] Cookie-Name: 2: localization
+[Difference] Cookie-Name: 3: _y
+[Difference] Cookie-Name: 4: bc_tgm_fbp
+[Difference] Cookie-Name: 5: _shopify_s
+[Difference] Cookie-Name: 6: _fbp
+[Difference] Cookie-Name: 7: _shopify_y
+[Difference] Cookie-Name: 8: geolizr-currency-auto
+[Difference] Cookie-Name: 9: _gid
+[Difference] Cookie-Name: 10: bc_tgm_aw
+[Difference] Cookie-Name: 11: _bc_c_set
+[Difference] Cookie-Name: 12: _shopify_sa_t
+[Difference] Cookie-Name: 13: bc_tgm_ua
+[Difference] Cookie-Name: 14: __kla_id
+[Difference] Cookie-Name: 15: _gcl_au
+[Difference] Cookie-Name: 16: geolizr_geodata
+[Difference] Cookie-Name: 17: _ga
+[Difference] Cookie-Name: 18: _scid
+[Difference] Cookie-Name: 19: _gat
+[Difference] Cookie-Name: 20: _s
+[Difference] Cookie-Name: 21: geolizr-currency
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

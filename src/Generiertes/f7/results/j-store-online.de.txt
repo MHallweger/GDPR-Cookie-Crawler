@@ -1,0 +1,71 @@
+Website 317: http://www.j-store-online.de/ | Created: 10.02.2022 18:54:44 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 22
+[Before] Website-Cookies: [{'domain': 'www.j-store-online.de', 'expiry': 1676051676, 'httpOnly': False, 'name': '_pandectes_gdpr', 'path': '/', 'secure': True, 'value': 'eyJjb3VudHJ5Ijp7ImNvZGUiOiJERSIsInN0YXRlIjoiTlciLCJkZXRlY3RlZCI6MTY0NDUxNTY3Nn0sInN0YXR1cyI6IiIsInRpbWVzdGFtcCI6bnVsbCwicHJlZmVyZW5jZXMiOm51bGx9'}, {'domain': 'www.j-store-online.de', 'expiry': 1645725269, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9ef5519dadf8c7ea6b4e966851609f06'}, {'domain': '.www.j-store-online.de', 'expiry': 1676051669, 'httpOnly': False, 'name': 'currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.j-store-online.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.j-store-online.de', 'expiry': 1676051669, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.j-store-online.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.j-store-online.de', 'expiry': 1645725269, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.j-store-online.de', 'expiry': 1645725269, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cfc34fbf48111539713c78531106ab11'}, {'domain': '.j-store-online.de', 'expiry': 1644517475, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.j-store-online.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.j-store-online.de', 'httpOnly': False, 'name': 'locale_bar_accepted', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.j-store-online.de', 'expiry': 1644519269, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'www.j-store-online.de', 'expiry': 1645725275, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.j-store-online.de', 'expiry': 1676051669, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%7D'}, {'domain': '.j-store-online.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.j-store-online.de', 'expiry': 1645725275, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.j-store-online.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A54%3A29.618Z'}, {'domain': 'www.j-store-online.de', 'expiry': 1645725269, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': 'www.j-store-online.de', 'expiry': 1645725269, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644515669'}, {'domain': 'www.j-store-online.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.j-store-online.de', 'expiry': 1676051675, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'www.j-store-online.de', 'expiry': 1645725269, 'httpOnly': True, 'name': 'keep_alive', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '95315bc6-475e-46b8-b23d-0358eddaff21'}]
+[Before] Cookie-Name 1: _pandectes_gdpr
+[Before] Cookie-Name 2: cart
+[Before] Cookie-Name 3: currency
+[Before] Cookie-Name 4: _shopify_sa_p
+[Before] Cookie-Name 5: _shopify_m
+[Before] Cookie-Name 6: _shopify_evids
+[Before] Cookie-Name 7: _shopify_tw
+[Before] Cookie-Name 8: cart_sig
+[Before] Cookie-Name 9: _shopify_tm
+[Before] Cookie-Name 10: _landing_page
+[Before] Cookie-Name 11: locale_bar_accepted
+[Before] Cookie-Name 12: shopify_pay_redirect
+[Before] Cookie-Name 13: localization
+[Before] Cookie-Name 14: _tracking_consent
+[Before] Cookie-Name 15: _orig_referrer
+[Before] Cookie-Name 16: cart_currency
+[Before] Cookie-Name 17: _shopify_d
+[Before] Cookie-Name 18: cart_ver
+[Before] Cookie-Name 19: cart_ts
+[Before] Cookie-Name 20: _shopify_evids
+[Before] Cookie-Name 21: secure_customer_sig
+[Before] Cookie-Name 22: keep_alive
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 22
+[After] Website-Cookies: [{'domain': 'www.j-store-online.de', 'expiry': 1676051689, 'httpOnly': False, 'name': '_pandectes_gdpr', 'path': '/', 'secure': True, 'value': 'eyJjb3VudHJ5Ijp7ImNvZGUiOiJERSIsInN0YXRlIjoiTlciLCJkZXRlY3RlZCI6MTY0NDUxNTY3Nn0sInN0YXR1cyI6ImFsbG93IiwidGltZXN0YW1wIjoxNjQ0NTE1Njg5LCJwcmVmZXJlbmNlcyI6MH0='}, {'domain': 'www.j-store-online.de', 'expiry': 1645725269, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9ef5519dadf8c7ea6b4e966851609f06'}, {'domain': '.www.j-store-online.de', 'expiry': 1676051669, 'httpOnly': False, 'name': 'currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.j-store-online.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.j-store-online.de', 'expiry': 1676051669, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.j-store-online.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.j-store-online.de', 'expiry': 1645725269, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.j-store-online.de', 'expiry': 1645725269, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cfc34fbf48111539713c78531106ab11'}, {'domain': '.j-store-online.de', 'expiry': 1644517475, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.j-store-online.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.j-store-online.de', 'httpOnly': False, 'name': 'locale_bar_accepted', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.j-store-online.de', 'expiry': 1644519269, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'www.j-store-online.de', 'expiry': 1645725275, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.j-store-online.de', 'expiry': 1676051669, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%7D'}, {'domain': '.j-store-online.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.j-store-online.de', 'expiry': 1645725275, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.j-store-online.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A54%3A29.618Z'}, {'domain': 'www.j-store-online.de', 'expiry': 1645725269, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': 'www.j-store-online.de', 'expiry': 1645725269, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644515669'}, {'domain': 'www.j-store-online.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.j-store-online.de', 'expiry': 1676051675, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'www.j-store-online.de', 'expiry': 1645725269, 'httpOnly': True, 'name': 'keep_alive', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '95315bc6-475e-46b8-b23d-0358eddaff21'}]
+[After] Cookie-Name 1: _pandectes_gdpr
+[After] Cookie-Name 2: cart
+[After] Cookie-Name 3: currency
+[After] Cookie-Name 4: _shopify_sa_p
+[After] Cookie-Name 5: _shopify_m
+[After] Cookie-Name 6: _shopify_evids
+[After] Cookie-Name 7: _shopify_tw
+[After] Cookie-Name 8: cart_sig
+[After] Cookie-Name 9: _shopify_tm
+[After] Cookie-Name 10: _landing_page
+[After] Cookie-Name 11: locale_bar_accepted
+[After] Cookie-Name 12: shopify_pay_redirect
+[After] Cookie-Name 13: localization
+[After] Cookie-Name 14: _tracking_consent
+[After] Cookie-Name 15: _orig_referrer
+[After] Cookie-Name 16: cart_currency
+[After] Cookie-Name 17: _shopify_d
+[After] Cookie-Name 18: cart_ver
+[After] Cookie-Name 19: cart_ts
+[After] Cookie-Name 20: _shopify_evids
+[After] Cookie-Name 21: secure_customer_sig
+[After] Cookie-Name 22: keep_alive
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

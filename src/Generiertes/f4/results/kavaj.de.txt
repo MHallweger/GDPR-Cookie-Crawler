@@ -1,0 +1,83 @@
+Website 348: http://www.kavaj.de/ | Created: 09.02.2022 18:56:27 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 24
+[Before] Website-Cookies: [{'domain': '.kavaj.de', 'expiry': 1707501380, 'httpOnly': False, 'name': '__mmapiwsid', 'path': '/', 'secure': True, 'value': '28d399ad-8bf5-4ce9-875f-dd0411c76dc0:8c3b72b69ade69a1318bf3260ce58c61b1781c47'}, {'domain': '.kavaj.de', 'expiry': 1652205379, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644429378980.499786973'}, {'domain': '.kavaj.de', 'expiry': 1675965385, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0145b311-c882-49e3-89c6-539159242402'}, {'domain': '.kavaj.de', 'expiry': 1644431178, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A56%3A18.638Z'}, {'domain': '.kavaj.de', 'expiry': 1644431178, 'httpOnly': False, 'name': '_hjSession_716307', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImNkNjE1ZjRkLTY5NTUtNDAzZS04MDg0LTAxYTI1YTE4ZmRiOSIsImNyZWF0ZWQiOjE2NDQ0MjkzNzg0MDAsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': '.kavaj.de', 'expiry': 1675965378, 'httpOnly': False, 'name': '_hjSessionUser_716307', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjU1MTRmOTBiLTdlMWYtNTFiOC05N2Y3LWQzMmJkYzQyNGU5ZiIsImNyZWF0ZWQiOjE2NDQ0MjkzNzgxNDEsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.kavaj.de', 'expiry': 1644431185, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6644db2e-0752-4d86-9f4a-251c73f3ff04'}, {'domain': 'kavaj.de', 'expiry': 1644432978, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.kavaj.de', 'expiry': 1644431178, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kavaj.de', 'expiry': 1645638977, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kavaj.de', 'expiry': 1644429437, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'kavaj.de', 'expiry': 1645638985, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.kavaj.de', 'expiry': 1707501377, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.749919112.1644429377'}, {'domain': '.kavaj.de', 'expiry': 1675965385, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0145b311-c882-49e3-89c6-539159242402'}, {'domain': 'kavaj.de', 'expiry': 1645638985, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'kavaj.de', 'httpOnly': False, 'name': 'locale_bar_accepted', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.kavaj.de', 'expiry': 1644431178, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.kavaj.de', 'expiry': 1645638977, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'kavaj.de', 'expiry': 1644429498, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.kavaj.de', 'expiry': 1644431185, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6644db2e-0752-4d86-9f4a-251c73f3ff04'}, {'domain': '.kavaj.de', 'expiry': 1644431178, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.kavaj.de', 'expiry': 1675965380, 'httpOnly': False, 'name': '_privy_11B479BEEF93E0ED1A8DAEFD', 'path': '/', 'secure': False, 'value': '%7B%22uuid%22%3A%2253990256-0d86-4e96-9b2e-8967de7a841e%22%2C%22variations%22%3A%7B%7D%2C%22country_code%22%3A%22DE%22%2C%22region_code%22%3A%22DE_%22%2C%22postal_code%22%3A%22%22%2C%22cart_value%22%3A0%7D'}, {'domain': '.kavaj.de', 'expiry': 1644515777, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.969496625.1644429377'}, {'domain': 'kavaj.de', 'expiry': 1675965385, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: __mmapiwsid
+[Before] Cookie-Name 2: _fbp
+[Before] Cookie-Name 3: _shopify_y
+[Before] Cookie-Name 4: _shopify_sa_t
+[Before] Cookie-Name 5: _hjSession_716307
+[Before] Cookie-Name 6: _hjSessionUser_716307
+[Before] Cookie-Name 7: _shopify_s
+[Before] Cookie-Name 8: shopify_pay_redirect
+[Before] Cookie-Name 9: _shopify_sa_p
+[Before] Cookie-Name 10: _orig_referrer
+[Before] Cookie-Name 11: _gat
+[Before] Cookie-Name 12: localization
+[Before] Cookie-Name 13: _ga
+[Before] Cookie-Name 14: _y
+[Before] Cookie-Name 15: cart_currency
+[Before] Cookie-Name 16: locale_bar_accepted
+[Before] Cookie-Name 17: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 18: _landing_page
+[Before] Cookie-Name 19: _hjIncludedInPageviewSample
+[Before] Cookie-Name 20: _s
+[Before] Cookie-Name 21: _hjFirstSeen
+[Before] Cookie-Name 22: _privy_11B479BEEF93E0ED1A8DAEFD
+[Before] Cookie-Name 23: _gid
+[Before] Cookie-Name 24: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 25
+[After] Website-Cookies: [{'domain': '.kavaj.de', 'expiry': 1707501380, 'httpOnly': False, 'name': '__mmapiwsid', 'path': '/', 'secure': True, 'value': '28d399ad-8bf5-4ce9-875f-dd0411c76dc0:8c3b72b69ade69a1318bf3260ce58c61b1781c47'}, {'domain': '.kavaj.de', 'expiry': 1652205393, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644429378980.499786973'}, {'domain': '.kavaj.de', 'expiry': 1675965390, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0145b311-c882-49e3-89c6-539159242402'}, {'domain': '.kavaj.de', 'expiry': 1644431178, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A56%3A18.638Z'}, {'domain': '.kavaj.de', 'expiry': 1644431178, 'httpOnly': False, 'name': '_hjSession_716307', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImNkNjE1ZjRkLTY5NTUtNDAzZS04MDg0LTAxYTI1YTE4ZmRiOSIsImNyZWF0ZWQiOjE2NDQ0MjkzNzg0MDAsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': '.kavaj.de', 'expiry': 1675965378, 'httpOnly': False, 'name': '_hjSessionUser_716307', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjU1MTRmOTBiLTdlMWYtNTFiOC05N2Y3LWQzMmJkYzQyNGU5ZiIsImNyZWF0ZWQiOjE2NDQ0MjkzNzgxNDEsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.kavaj.de', 'expiry': 1644431190, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6644db2e-0752-4d86-9f4a-251c73f3ff04'}, {'domain': 'kavaj.de', 'expiry': 1644432978, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.kavaj.de', 'expiry': 1644431178, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kavaj.de', 'expiry': 1645638977, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kavaj.de', 'expiry': 1644429437, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'kavaj.de', 'expiry': 1645638990, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.kavaj.de', 'expiry': 1707501377, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.749919112.1644429377'}, {'domain': '.kavaj.de', 'expiry': 1675965390, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0145b311-c882-49e3-89c6-539159242402'}, {'domain': 'kavaj.de', 'expiry': 1675965393, 'httpOnly': False, 'name': 'cookieconsent_dismissed', 'path': '/', 'secure': False, 'value': 'yes'}, {'domain': 'kavaj.de', 'expiry': 1645638990, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'kavaj.de', 'httpOnly': False, 'name': 'locale_bar_accepted', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.kavaj.de', 'expiry': 1644431178, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.kavaj.de', 'expiry': 1645638977, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'kavaj.de', 'expiry': 1644429498, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.kavaj.de', 'expiry': 1644431190, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6644db2e-0752-4d86-9f4a-251c73f3ff04'}, {'domain': '.kavaj.de', 'expiry': 1644431178, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.kavaj.de', 'expiry': 1675965380, 'httpOnly': False, 'name': '_privy_11B479BEEF93E0ED1A8DAEFD', 'path': '/', 'secure': False, 'value': '%7B%22uuid%22%3A%2253990256-0d86-4e96-9b2e-8967de7a841e%22%2C%22variations%22%3A%7B%7D%2C%22country_code%22%3A%22DE%22%2C%22region_code%22%3A%22DE_%22%2C%22postal_code%22%3A%22%22%2C%22cart_value%22%3A0%7D'}, {'domain': '.kavaj.de', 'expiry': 1644515777, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.969496625.1644429377'}, {'domain': 'kavaj.de', 'expiry': 1675965390, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: __mmapiwsid
+[After] Cookie-Name 2: _fbp
+[After] Cookie-Name 3: _shopify_y
+[After] Cookie-Name 4: _shopify_sa_t
+[After] Cookie-Name 5: _hjSession_716307
+[After] Cookie-Name 6: _hjSessionUser_716307
+[After] Cookie-Name 7: _shopify_s
+[After] Cookie-Name 8: shopify_pay_redirect
+[After] Cookie-Name 9: _shopify_sa_p
+[After] Cookie-Name 10: _orig_referrer
+[After] Cookie-Name 11: _gat
+[After] Cookie-Name 12: localization
+[After] Cookie-Name 13: _ga
+[After] Cookie-Name 14: _y
+[After] Cookie-Name 15: cookieconsent_dismissed
+[After] Cookie-Name 16: cart_currency
+[After] Cookie-Name 17: locale_bar_accepted
+[After] Cookie-Name 18: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 19: _landing_page
+[After] Cookie-Name 20: _hjIncludedInPageviewSample
+[After] Cookie-Name 21: _s
+[After] Cookie-Name 22: _hjFirstSeen
+[After] Cookie-Name 23: _privy_11B479BEEF93E0ED1A8DAEFD
+[After] Cookie-Name 24: _gid
+[After] Cookie-Name 25: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjIncludedInPageviewSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+[Used before] Cookie-Name: _gid (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: cookieconsent_dismissed
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

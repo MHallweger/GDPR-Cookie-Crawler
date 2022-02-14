@@ -1,0 +1,80 @@
+Website 69: http://www.aquabatos.de/ | Created: 09.02.2022 14:03:11 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 23
+[Before] Website-Cookies: [{'domain': 'www.aquabatos.de', 'httpOnly': False, 'name': 'fsb_total_price_247022', 'path': '/', 'secure': False, 'value': '0'}, {'domain': '.aquabatos.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220209130303-rnxxlx4Rgz964Ia6dvz430ahtHkYkTxP80kEK2hUB0pEwt4TF'}, {'domain': '.aquabatos.de', 'expiry': 1675947783, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'jU0c6yIaviGjYW-20220209130303'}, {'domain': '.aquabatos.de', 'expiry': 1652187782, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644411782137.1262175821'}, {'domain': '.aquabatos.de', 'expiry': 1644411841, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.aquabatos.de', 'expiry': 1644411841, 'httpOnly': False, 'name': '_gat_gtag_UA_172855174_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.aquabatos.de', 'expiry': 1707483781, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.290022460.1644411782'}, {'domain': '.aquabatos.de', 'expiry': 1644413583, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6f3f9d53-ac09-475f-a3de-54f7c7e4937d'}, {'domain': '.aquabatos.de', 'expiry': 1652187781, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.100956947.1644411782'}, {'domain': '.aquabatos.de', 'expiry': 1675947783, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ce7151e4-135e-487a-a89e-c10ebb622169'}, {'domain': 'www.aquabatos.de', 'httpOnly': False, 'name': 'fsb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.aquabatos.de', 'expiry': 1675947783, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ce7151e4-135e-487a-a89e-c10ebb622169'}, {'domain': '.aquabatos.de', 'expiry': 1645621381, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.aquabatos.de', 'expiry': 1644415382, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.aquabatos.de', 'expiry': 1644413583, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6f3f9d53-ac09-475f-a3de-54f7c7e4937d'}, {'domain': '.aquabatos.de', 'expiry': 1644413581, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A03%3A01.838Z'}, {'domain': '.aquabatos.de', 'expiry': 1645621381, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.aquabatos.de', 'expiry': 1644413583, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'EtuXJjFCw9XUZz-20220209130303'}, {'domain': '.aquabatos.de', 'expiry': 1644413581, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.aquabatos.de', 'expiry': 1644498181, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1186784662.1644411782'}, {'domain': 'www.aquabatos.de', 'expiry': 1645621383, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.aquabatos.de', 'expiry': 1645621383, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'www.aquabatos.de', 'expiry': 1675947783, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: fsb_total_price_247022
+[Before] Cookie-Name 2: soundestID
+[Before] Cookie-Name 3: omnisendAnonymousID
+[Before] Cookie-Name 4: _fbp
+[Before] Cookie-Name 5: _gat
+[Before] Cookie-Name 6: _gat_gtag_UA_172855174_1
+[Before] Cookie-Name 7: _ga
+[Before] Cookie-Name 8: _shopify_s
+[Before] Cookie-Name 9: _gcl_au
+[Before] Cookie-Name 10: _shopify_y
+[Before] Cookie-Name 11: fsb_previous_pathname
+[Before] Cookie-Name 12: _y
+[Before] Cookie-Name 13: _landing_page
+[Before] Cookie-Name 14: shopify_pay_redirect
+[Before] Cookie-Name 15: _s
+[Before] Cookie-Name 16: _shopify_sa_t
+[Before] Cookie-Name 17: _orig_referrer
+[Before] Cookie-Name 18: omnisendSessionID
+[Before] Cookie-Name 19: _shopify_sa_p
+[Before] Cookie-Name 20: _gid
+[Before] Cookie-Name 21: cart_currency
+[Before] Cookie-Name 22: localization
+[Before] Cookie-Name 23: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 23
+[After] Website-Cookies: [{'domain': 'www.aquabatos.de', 'httpOnly': False, 'name': 'fsb_total_price_247022', 'path': '/', 'secure': False, 'value': '0'}, {'domain': '.aquabatos.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220209130303-rnxxlx4Rgz964Ia6dvz430ahtHkYkTxP80kEK2hUB0pEwt4TF'}, {'domain': '.aquabatos.de', 'expiry': 1675947783, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'jU0c6yIaviGjYW-20220209130303'}, {'domain': '.aquabatos.de', 'expiry': 1652187782, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644411782137.1262175821'}, {'domain': '.aquabatos.de', 'expiry': 1644411841, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.aquabatos.de', 'expiry': 1644411841, 'httpOnly': False, 'name': '_gat_gtag_UA_172855174_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.aquabatos.de', 'expiry': 1707483781, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.290022460.1644411782'}, {'domain': '.aquabatos.de', 'expiry': 1644413583, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6f3f9d53-ac09-475f-a3de-54f7c7e4937d'}, {'domain': '.aquabatos.de', 'expiry': 1652187781, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.100956947.1644411782'}, {'domain': '.aquabatos.de', 'expiry': 1675947783, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ce7151e4-135e-487a-a89e-c10ebb622169'}, {'domain': 'www.aquabatos.de', 'httpOnly': False, 'name': 'fsb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.aquabatos.de', 'expiry': 1675947783, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ce7151e4-135e-487a-a89e-c10ebb622169'}, {'domain': '.aquabatos.de', 'expiry': 1645621381, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.aquabatos.de', 'expiry': 1644415382, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.aquabatos.de', 'expiry': 1644413583, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6f3f9d53-ac09-475f-a3de-54f7c7e4937d'}, {'domain': '.aquabatos.de', 'expiry': 1644413581, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A03%3A01.838Z'}, {'domain': '.aquabatos.de', 'expiry': 1645621381, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.aquabatos.de', 'expiry': 1644413583, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'EtuXJjFCw9XUZz-20220209130303'}, {'domain': '.aquabatos.de', 'expiry': 1644413581, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.aquabatos.de', 'expiry': 1644498181, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1186784662.1644411782'}, {'domain': 'www.aquabatos.de', 'expiry': 1645621383, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.aquabatos.de', 'expiry': 1645621383, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'www.aquabatos.de', 'expiry': 1675947783, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: fsb_total_price_247022
+[After] Cookie-Name 2: soundestID
+[After] Cookie-Name 3: omnisendAnonymousID
+[After] Cookie-Name 4: _fbp
+[After] Cookie-Name 5: _gat
+[After] Cookie-Name 6: _gat_gtag_UA_172855174_1
+[After] Cookie-Name 7: _ga
+[After] Cookie-Name 8: _shopify_s
+[After] Cookie-Name 9: _gcl_au
+[After] Cookie-Name 10: _shopify_y
+[After] Cookie-Name 11: fsb_previous_pathname
+[After] Cookie-Name 12: _y
+[After] Cookie-Name 13: _landing_page
+[After] Cookie-Name 14: shopify_pay_redirect
+[After] Cookie-Name 15: _s
+[After] Cookie-Name 16: _shopify_sa_t
+[After] Cookie-Name 17: _orig_referrer
+[After] Cookie-Name 18: omnisendSessionID
+[After] Cookie-Name 19: _shopify_sa_p
+[After] Cookie-Name 20: _gid
+[After] Cookie-Name 21: cart_currency
+[After] Cookie-Name 22: localization
+[After] Cookie-Name 23: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _gid (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

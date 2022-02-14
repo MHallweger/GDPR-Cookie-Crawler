@@ -1,0 +1,85 @@
+Website 2: http://www.verababy.de/ | Created: 10.02.2022 19:58:14 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 25
+[Before] Website-Cookies: [{'domain': 'www.verababy.de', 'httpOnly': False, 'name': 'fsb_total_price_419892', 'path': '/', 'secure': False, 'value': '0'}, {'domain': 'www.verababy.de', 'httpOnly': False, 'name': 'fsb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.verababy.de', 'expiry': 1645729083, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.verababy.de', 'expiry': 1645729086, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0d64b78973dca050f538e7928da05d68'}, {'domain': 'www.verababy.de', 'expiry': 1645729086, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': 'www.verababy.de', 'expiry': 1645729095, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.verababy.de', 'expiry': 1645729086, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644519485'}, {'domain': 'www.verababy.de', 'expiry': 1645729086, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7c2a8e7a6fe485998ad57454343eed9e'}, {'domain': 'www.verababy.de', 'httpOnly': False, 'name': 'lsContextID', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1c0MNnjjgk6z8BbPgG-KwQ'}, {'domain': '.verababy.de', 'expiry': 1676055485, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU5UTXlNakprWWpRdFkyVTJNQzAwWkRSaUxXRXhaVE10T0RVek16STBOR00zTVRabA'}, {'domain': '.verababy.de', 'expiry': 1644521284, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.verababy.de', 'expiry': 1644521284, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T18%3A58%3A04.557Z'}, {'domain': '.verababy.de', 'expiry': 1644519544, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.verababy.de', 'expiry': 1707591484, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.46622163.1644519484'}, {'domain': '.verababy.de', 'expiry': 1676055495, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7e242cb5-93d7-4df4-bf71-163372ce3b57'}, {'domain': 'www.verababy.de', 'httpOnly': False, 'name': 'lsSema-', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': ''}, {'domain': '.verababy.de', 'expiry': 1652295483, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1166330921.1644519484'}, {'domain': '.verababy.de', 'expiry': 1676055495, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7e242cb5-93d7-4df4-bf71-163372ce3b57'}, {'domain': '.verababy.de', 'expiry': 1652295485, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644519484732.280039478'}, {'domain': '.verababy.de', 'expiry': 1644605884, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1274633636.1644519484'}, {'domain': '.verababy.de', 'expiry': 1644521295, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '194475a9-4e21-4626-8c70-44af4b89bed2'}, {'domain': 'www.verababy.de', 'expiry': 1676055495, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.verababy.de', 'expiry': 1645729083, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.verababy.de', 'expiry': 1644521295, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '194475a9-4e21-4626-8c70-44af4b89bed2'}, {'domain': 'www.verababy.de', 'expiry': 1645729095, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[Before] Cookie-Name 1: fsb_total_price_419892
+[Before] Cookie-Name 2: fsb_previous_pathname
+[Before] Cookie-Name 3: _landing_page
+[Before] Cookie-Name 4: cart
+[Before] Cookie-Name 5: cart_ver
+[Before] Cookie-Name 6: cart_currency
+[Before] Cookie-Name 7: cart_ts
+[Before] Cookie-Name 8: cart_sig
+[Before] Cookie-Name 9: lsContextID
+[Before] Cookie-Name 10: _pin_unauth
+[Before] Cookie-Name 11: _shopify_sa_p
+[Before] Cookie-Name 12: _shopify_sa_t
+[Before] Cookie-Name 13: _gat
+[Before] Cookie-Name 14: _ga
+[Before] Cookie-Name 15: _shopify_y
+[Before] Cookie-Name 16: lsSema-
+[Before] Cookie-Name 17: _gcl_au
+[Before] Cookie-Name 18: _y
+[Before] Cookie-Name 19: _fbp
+[Before] Cookie-Name 20: _gid
+[Before] Cookie-Name 21: _shopify_s
+[Before] Cookie-Name 22: secure_customer_sig
+[Before] Cookie-Name 23: _orig_referrer
+[Before] Cookie-Name 24: _s
+[Before] Cookie-Name 25: localization
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 26
+[After] Website-Cookies: [{'domain': 'www.verababy.de', 'expiry': 1676055499, 'httpOnly': False, 'name': 'cookieconsent_status', 'path': '/', 'secure': False, 'value': 'dismiss'}, {'domain': 'www.verababy.de', 'httpOnly': False, 'name': 'fsb_total_price_419892', 'path': '/', 'secure': False, 'value': '0'}, {'domain': 'www.verababy.de', 'httpOnly': False, 'name': 'fsb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.verababy.de', 'expiry': 1645729083, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.verababy.de', 'expiry': 1645729086, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0d64b78973dca050f538e7928da05d68'}, {'domain': 'www.verababy.de', 'expiry': 1645729086, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': 'www.verababy.de', 'expiry': 1645729095, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.verababy.de', 'expiry': 1645729086, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644519485'}, {'domain': 'www.verababy.de', 'expiry': 1645729086, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7c2a8e7a6fe485998ad57454343eed9e'}, {'domain': 'www.verababy.de', 'httpOnly': False, 'name': 'lsContextID', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1c0MNnjjgk6z8BbPgG-KwQ'}, {'domain': '.verababy.de', 'expiry': 1676055485, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU5UTXlNakprWWpRdFkyVTJNQzAwWkRSaUxXRXhaVE10T0RVek16STBOR00zTVRabA'}, {'domain': '.verababy.de', 'expiry': 1644521284, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.verababy.de', 'expiry': 1644521284, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T18%3A58%3A04.557Z'}, {'domain': '.verababy.de', 'expiry': 1644519544, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.verababy.de', 'expiry': 1707591484, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.46622163.1644519484'}, {'domain': '.verababy.de', 'expiry': 1676055495, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7e242cb5-93d7-4df4-bf71-163372ce3b57'}, {'domain': 'www.verababy.de', 'httpOnly': False, 'name': 'lsSema-', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': ''}, {'domain': '.verababy.de', 'expiry': 1652295483, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1166330921.1644519484'}, {'domain': '.verababy.de', 'expiry': 1676055495, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7e242cb5-93d7-4df4-bf71-163372ce3b57'}, {'domain': '.verababy.de', 'expiry': 1652295499, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644519484732.280039478'}, {'domain': '.verababy.de', 'expiry': 1644605884, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1274633636.1644519484'}, {'domain': '.verababy.de', 'expiry': 1644521295, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '194475a9-4e21-4626-8c70-44af4b89bed2'}, {'domain': 'www.verababy.de', 'expiry': 1676055495, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.verababy.de', 'expiry': 1645729083, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.verababy.de', 'expiry': 1644521295, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '194475a9-4e21-4626-8c70-44af4b89bed2'}, {'domain': 'www.verababy.de', 'expiry': 1645729095, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[After] Cookie-Name 1: cookieconsent_status
+[After] Cookie-Name 2: fsb_total_price_419892
+[After] Cookie-Name 3: fsb_previous_pathname
+[After] Cookie-Name 4: _landing_page
+[After] Cookie-Name 5: cart
+[After] Cookie-Name 6: cart_ver
+[After] Cookie-Name 7: cart_currency
+[After] Cookie-Name 8: cart_ts
+[After] Cookie-Name 9: cart_sig
+[After] Cookie-Name 10: lsContextID
+[After] Cookie-Name 11: _pin_unauth
+[After] Cookie-Name 12: _shopify_sa_p
+[After] Cookie-Name 13: _shopify_sa_t
+[After] Cookie-Name 14: _gat
+[After] Cookie-Name 15: _ga
+[After] Cookie-Name 16: _shopify_y
+[After] Cookie-Name 17: lsSema-
+[After] Cookie-Name 18: _gcl_au
+[After] Cookie-Name 19: _y
+[After] Cookie-Name 20: _fbp
+[After] Cookie-Name 21: _gid
+[After] Cookie-Name 22: _shopify_s
+[After] Cookie-Name 23: secure_customer_sig
+[After] Cookie-Name 24: _orig_referrer
+[After] Cookie-Name 25: _s
+[After] Cookie-Name 26: localization
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gid (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: cookieconsent_status
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

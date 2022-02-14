@@ -1,0 +1,104 @@
+Website 2: http://www.gladskin.de/ | Created: 08.02.2022 21:34:05 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 21
+[Before] Website-Cookies: [{'domain': 'www.gladskin.de', 'expiry': 1707424446, 'httpOnly': False, 'name': '_sp_id.5d5b', 'path': '/', 'secure': False, 'value': '127998d396933612.1644352436.1.1644352446.1644352436'}, {'domain': 'www.gladskin.de', 'expiry': 1707424436, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQzNTI0MzcsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LmdsYWRza2luLmRlLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDM1MjQzNywidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly93d3cuZ2xhZHNraW4uZGUvIn19'}, {'domain': 'www.gladskin.de', 'expiry': 1644354246, 'httpOnly': False, 'name': '_sp_ses.5d5b', 'path': '/', 'secure': False, 'value': '*'}, {'domain': 'www.gladskin.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.gladskin.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.gladskin.de', 'expiry': 1675888436, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%220%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%7D'}, {'domain': '.gladskin.de', 'expiry': 1675888436, 'httpOnly': False, 'name': 'OptanonConsent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'isIABGlobal=false&datestamp=Tue+Feb+08+2022+21%3A33%3A56+GMT%2B0100+(Mitteleurop%C3%A4ische+Normalzeit)&version=6.27.0&hosts=&consentId=41c8edf1-ec01-4c6d-9c25-88c767c7d075&interactionCount=0&landingPath=https%3A%2F%2Fwww.gladskin.de%2F&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CBG13%3A0%2CC0004%3A0'}, {'domain': '.gladskin.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4182fe7b-dc88-4aeb-bb82-5fcb1f1b7ffd'}, {'domain': '.gladskin.de', 'expiry': 1675888436, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.gladskin.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4182fe7b-dc88-4aeb-bb82-5fcb1f1b7ffd'}, {'domain': '.gladskin.de', 'expiry': 1645562035, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.gladskin.de', 'expiry': 1645562036, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b197b10534d114169a04ac45e7d7cc64'}, {'domain': '.gladskin.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3b6bcffd-84d3-4251-a2d3-54d5f0ee1055'}, {'domain': '.gladskin.de', 'expiry': 1644354236, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.gladskin.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3b6bcffd-84d3-4251-a2d3-54d5f0ee1055'}, {'domain': '.gladskin.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.gladskin.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.gladskin.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T20%3A33%3A56.257Z'}, {'domain': '.gladskin.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T20%3A33%3A56.296Z'}, {'domain': '.gladskin.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.gladskin.de', 'expiry': 1675888436, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _sp_id.5d5b
+[Before] Cookie-Name 2: __kla_id
+[Before] Cookie-Name 3: _sp_ses.5d5b
+[Before] Cookie-Name 4: _shopify_evids
+[Before] Cookie-Name 5: _shopify_evids
+[Before] Cookie-Name 6: _tracking_consent
+[Before] Cookie-Name 7: OptanonConsent
+[Before] Cookie-Name 8: _y
+[Before] Cookie-Name 9: _shopify_m
+[Before] Cookie-Name 10: _shopify_y
+[Before] Cookie-Name 11: _shopify_tw
+[Before] Cookie-Name 12: cart_sig
+[Before] Cookie-Name 13: _s
+[Before] Cookie-Name 14: _shopify_tm
+[Before] Cookie-Name 15: _shopify_s
+[Before] Cookie-Name 16: _shopify_sa_p
+[Before] Cookie-Name 17: _orig_referrer
+[Before] Cookie-Name 18: _shopify_d
+[Before] Cookie-Name 19: _shopify_sa_t
+[Before] Cookie-Name 20: _landing_page
+[Before] Cookie-Name 21: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 38
+[After] Website-Cookies: [{'domain': '.gladskin.de', 'expiry': 1675888452, 'httpOnly': False, 'name': '__zlcmid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '18RkgyQldpwrgSL'}, {'domain': '.gladskin.de', 'expiry': 1644438852, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': 'q4vyjp|1644352452570|1|1|f.clarity.ms/collect'}, {'domain': 'www.gladskin.de', 'expiry': 1644352752, 'httpOnly': False, 'name': 'outbrain_cid_fetch', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': '.gladskin.de', 'expiry': 1652128452, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644352451823.1792025297'}, {'domain': '.gladskin.de', 'expiry': 1707424451, 'httpOnly': False, 'name': '_ga_PQYZEPF45S', 'path': '/', 'secure': False, 'value': 'GS1.1.1644352451.1.0.1644352451.60'}, {'domain': '.gladskin.de', 'expiry': 1644438851, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': '792c56d0891e11eca77019227cac678f'}, {'domain': '.gladskin.de', 'expiry': 1644352511, 'httpOnly': False, 'name': '_gat_UA-34152204-12', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.gladskin.de', 'expiry': 1652128451, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.141308279.1644352452'}, {'domain': 'www.gladskin.de', 'expiry': 1644354251, 'httpOnly': False, 'name': '_pk_ses.256953.5d5b', 'path': '/', 'secure': False, 'value': '*'}, {'domain': '.gladskin.de', 'expiry': 1675888451, 'httpOnly': False, 'name': 'OptanonConsent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'isIABGlobal=false&datestamp=Tue+Feb+08+2022+21%3A34%3A11+GMT%2B0100+(Mitteleurop%C3%A4ische+Normalzeit)&version=6.27.0&hosts=&consentId=41c8edf1-ec01-4c6d-9c25-88c767c7d075&interactionCount=2&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1%2CBG13%3A1'}, {'domain': '.gladskin.de', 'expiry': 1675888451, 'httpOnly': False, 'name': 'OptanonAlertBoxClosed', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T20:34:11.425Z'}, {'domain': 'www.gladskin.de', 'expiry': 1707424446, 'httpOnly': False, 'name': '_sp_id.5d5b', 'path': '/', 'secure': False, 'value': '127998d396933612.1644352436.1.1644352446.1644352436'}, {'domain': '.gladskin.de', 'expiry': 1675888452, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': 'iau5bl|1|eyt|0'}, {'domain': 'www.gladskin.de', 'expiry': 1707424436, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQzNTI0MzcsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LmdsYWRza2luLmRlLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDM1MjQzNywidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly93d3cuZ2xhZHNraW4uZGUvIn19'}, {'domain': '.gladskin.de', 'expiry': 1675888451, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22con%22%3A%7B%22GDPR%22%3A%221%22%7D%7D'}, {'domain': 'www.gladskin.de', 'expiry': 1644354246, 'httpOnly': False, 'name': '_sp_ses.5d5b', 'path': '/', 'secure': False, 'value': '*'}, {'domain': '.gladskin.de', 'expiry': 1675888451, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4182fe7b-dc88-4aeb-bb82-5fcb1f1b7ffd'}, {'domain': 'www.gladskin.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.gladskin.de', 'expiry': 1644354251, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3b6bcffd-84d3-4251-a2d3-54d5f0ee1055'}, {'domain': 'www.gladskin.de', 'expiry': 1707424451, 'httpOnly': False, 'name': '_pk_id.256953.5d5b', 'path': '/', 'secure': False, 'value': 'ee18eb0075780437.1644352452.1.1644352452.1644352452.'}, {'domain': '.gladskin.de', 'expiry': 1707424451, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.1.620468148.1644352452'}, {'domain': '.gladskin.de', 'expiry': 1645562051, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.gladskin.de', 'expiry': 1645562035, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.gladskin.de', 'expiry': 1645562051, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b197b10534d114169a04ac45e7d7cc64'}, {'domain': '.gladskin.de', 'expiry': 1644354251, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3b6bcffd-84d3-4251-a2d3-54d5f0ee1055'}, {'domain': '.gladskin.de', 'expiry': 1644352511, 'httpOnly': False, 'name': '_gat_UA-34152204-2', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.gladskin.de', 'expiry': 1644354251, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.gladskin.de', 'expiry': 1644354251, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.gladskin.de', 'expiry': 1707424451, 'httpOnly': False, 'name': '_ga_25H13QTFLR', 'path': '/', 'secure': False, 'value': 'GS1.1.1644352451.1.1.1644352451.60'}, {'domain': '.gladskin.de', 'expiry': 1645562051, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.gladskin.de', 'expiry': 1644438851, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1363954526.1644352452'}, {'domain': '.gladskin.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T20%3A33%3A56.257Z'}, {'domain': '.gladskin.de', 'expiry': 1675888451, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': '.gladskin.de', 'expiry': 1675888451, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4182fe7b-dc88-4aeb-bb82-5fcb1f1b7ffd'}, {'domain': '.gladskin.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.gladskin.de', 'expiry': 1644354251, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T20%3A33%3A56.296Z'}, {'domain': '.gladskin.de', 'expiry': 1678048451, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '792c6f20891e11ecb07e57ba6583fd94'}, {'domain': 'www.gladskin.de', 'expiry': 1675888451, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: __zlcmid
+[After] Cookie-Name 2: _clsk
+[After] Cookie-Name 3: outbrain_cid_fetch
+[After] Cookie-Name 4: _fbp
+[After] Cookie-Name 5: _ga_PQYZEPF45S
+[After] Cookie-Name 6: _uetsid
+[After] Cookie-Name 7: _gat_UA-34152204-12
+[After] Cookie-Name 8: _gcl_au
+[After] Cookie-Name 9: _pk_ses.256953.5d5b
+[After] Cookie-Name 10: OptanonConsent
+[After] Cookie-Name 11: OptanonAlertBoxClosed
+[After] Cookie-Name 12: _sp_id.5d5b
+[After] Cookie-Name 13: _clck
+[After] Cookie-Name 14: __kla_id
+[After] Cookie-Name 15: _tracking_consent
+[After] Cookie-Name 16: _sp_ses.5d5b
+[After] Cookie-Name 17: _shopify_y
+[After] Cookie-Name 18: _shopify_evids
+[After] Cookie-Name 19: _shopify_s
+[After] Cookie-Name 20: _pk_id.256953.5d5b
+[After] Cookie-Name 21: _ga
+[After] Cookie-Name 22: _landing_page
+[After] Cookie-Name 23: _shopify_tw
+[After] Cookie-Name 24: cart_sig
+[After] Cookie-Name 25: _s
+[After] Cookie-Name 26: _gat_UA-34152204-2
+[After] Cookie-Name 27: _shopify_tm
+[After] Cookie-Name 28: _shopify_sa_p
+[After] Cookie-Name 29: _ga_25H13QTFLR
+[After] Cookie-Name 30: _orig_referrer
+[After] Cookie-Name 31: _gid
+[After] Cookie-Name 32: _shopify_d
+[After] Cookie-Name 33: _shopify_m
+[After] Cookie-Name 34: _y
+[After] Cookie-Name 35: _shopify_evids
+[After] Cookie-Name 36: _shopify_sa_t
+[After] Cookie-Name 37: _uetvid
+[After] Cookie-Name 38: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 17
+[Difference] Cookie-Name: 1: _gat_UA-34152204-12
+[Difference] Cookie-Name: 2: _gid
+[Difference] Cookie-Name: 3: OptanonAlertBoxClosed
+[Difference] Cookie-Name: 4: __zlcmid
+[Difference] Cookie-Name: 5: _fbp
+[Difference] Cookie-Name: 6: _ga_25H13QTFLR
+[Difference] Cookie-Name: 7: _clsk
+[Difference] Cookie-Name: 8: _gcl_au
+[Difference] Cookie-Name: 9: _pk_id.256953.5d5b
+[Difference] Cookie-Name: 10: _uetvid
+[Difference] Cookie-Name: 11: _pk_ses.256953.5d5b
+[Difference] Cookie-Name: 12: _ga
+[Difference] Cookie-Name: 13: _uetsid
+[Difference] Cookie-Name: 14: _clck
+[Difference] Cookie-Name: 15: outbrain_cid_fetch
+[Difference] Cookie-Name: 16: _ga_PQYZEPF45S
+[Difference] Cookie-Name: 17: _gat_UA-34152204-2
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

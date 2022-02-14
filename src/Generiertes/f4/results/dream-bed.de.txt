@@ -1,0 +1,71 @@
+Website 76: http://www.dream-bed.de/ | Created: 09.02.2022 17:29:10 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 18
+[Before] Website-Cookies: [{'domain': '.hundekissen-rund.de', 'expiry': 1644510540, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.554868233.1644424141'}, {'domain': '.hundekissen-rund.de', 'expiry': 1707496140, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.761493131.1644424140'}, {'domain': '.hundekissen-rund.de', 'expiry': 1644425940, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.hundekissen-rund.de', 'expiry': 1644425940, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T16%3A29%3A00.769Z'}, {'domain': '.hundekissen-rund.de', 'expiry': 1644424200, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.hundekissen-rund.de', 'expiry': 1645633740, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'hundekissen-rund.de', 'expiry': 1675960140, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.hundekissen-rund.de', 'expiry': 1707496140, 'httpOnly': False, 'name': '_ga_ZZ70RFBJBE', 'path': '/', 'secure': False, 'value': 'GS1.1.1644424140.1.0.1644424140.0'}, {'domain': '.hundekissen-rund.de', 'expiry': 1675960140, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '60c27aae-dc9d-4339-8980-6c0cc08b99a4'}, {'domain': '.hundekissen-rund.de', 'expiry': 1644425940, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '228fd8fd-058e-45a7-bbc7-a710853123d6'}, {'domain': '.hundekissen-rund.de', 'expiry': 1644425940, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '228fd8fd-058e-45a7-bbc7-a710853123d6'}, {'domain': '.hundekissen-rund.de', 'expiry': 1675960140, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '60c27aae-dc9d-4339-8980-6c0cc08b99a4'}, {'domain': 'hundekissen-rund.de', 'expiry': 1707496142, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MjQxNDIsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vaHVuZGVraXNzZW4tcnVuZC5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQ0MjQxNDIsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vaHVuZGVraXNzZW4tcnVuZC5kZS8ifX0='}, {'domain': '.hundekissen-rund.de', 'expiry': 1644424200, 'httpOnly': False, 'name': '_gat_gtag_UA_179955598_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.hundekissen-rund.de', 'expiry': 1645633740, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.hundekissen-rund.de', 'expiry': 1652200140, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.660307267.1644424140'}, {'domain': 'hundekissen-rund.de', 'expiry': 1645633743, 'httpOnly': False, 'name': 'OT_FBPLID', 'path': '/', 'secure': False, 'value': 'fb.1.1644424143218.1644424202728'}, {'domain': 'hundekissen-rund.de', 'expiry': 1645633739, 'httpOnly': True, 'name': 'keep_alive', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '228fd8fd-058e-45a7-bbc7-a710853123d6'}]
+[Before] Cookie-Name 1: _gid
+[Before] Cookie-Name 2: _ga
+[Before] Cookie-Name 3: _shopify_sa_p
+[Before] Cookie-Name 4: _shopify_sa_t
+[Before] Cookie-Name 5: _gat
+[Before] Cookie-Name 6: _orig_referrer
+[Before] Cookie-Name 7: secure_customer_sig
+[Before] Cookie-Name 8: _ga_ZZ70RFBJBE
+[Before] Cookie-Name 9: _shopify_y
+[Before] Cookie-Name 10: _shopify_s
+[Before] Cookie-Name 11: _s
+[Before] Cookie-Name 12: _y
+[Before] Cookie-Name 13: __kla_id
+[Before] Cookie-Name 14: _gat_gtag_UA_179955598_1
+[Before] Cookie-Name 15: _landing_page
+[Before] Cookie-Name 16: _gcl_au
+[Before] Cookie-Name 17: OT_FBPLID
+[Before] Cookie-Name 18: keep_alive
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 18
+[After] Website-Cookies: [{'domain': '.hundekissen-rund.de', 'expiry': 1644510540, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.554868233.1644424141'}, {'domain': '.hundekissen-rund.de', 'expiry': 1707496140, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.761493131.1644424140'}, {'domain': '.hundekissen-rund.de', 'expiry': 1644425940, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.hundekissen-rund.de', 'expiry': 1644425940, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T16%3A29%3A00.769Z'}, {'domain': '.hundekissen-rund.de', 'expiry': 1644424200, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.hundekissen-rund.de', 'expiry': 1645633740, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'hundekissen-rund.de', 'expiry': 1675960140, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.hundekissen-rund.de', 'expiry': 1707496140, 'httpOnly': False, 'name': '_ga_ZZ70RFBJBE', 'path': '/', 'secure': False, 'value': 'GS1.1.1644424140.1.0.1644424140.0'}, {'domain': '.hundekissen-rund.de', 'expiry': 1675960140, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '60c27aae-dc9d-4339-8980-6c0cc08b99a4'}, {'domain': '.hundekissen-rund.de', 'expiry': 1644425940, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '228fd8fd-058e-45a7-bbc7-a710853123d6'}, {'domain': '.hundekissen-rund.de', 'expiry': 1644425940, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '228fd8fd-058e-45a7-bbc7-a710853123d6'}, {'domain': '.hundekissen-rund.de', 'expiry': 1675960140, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '60c27aae-dc9d-4339-8980-6c0cc08b99a4'}, {'domain': 'hundekissen-rund.de', 'expiry': 1707496142, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MjQxNDIsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vaHVuZGVraXNzZW4tcnVuZC5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQ0MjQxNDIsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vaHVuZGVraXNzZW4tcnVuZC5kZS8ifX0='}, {'domain': '.hundekissen-rund.de', 'expiry': 1644424200, 'httpOnly': False, 'name': '_gat_gtag_UA_179955598_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.hundekissen-rund.de', 'expiry': 1645633740, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.hundekissen-rund.de', 'expiry': 1652200140, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.660307267.1644424140'}, {'domain': 'hundekissen-rund.de', 'expiry': 1645633743, 'httpOnly': False, 'name': 'OT_FBPLID', 'path': '/', 'secure': False, 'value': 'fb.1.1644424143218.1644424202728'}, {'domain': 'hundekissen-rund.de', 'expiry': 1645633739, 'httpOnly': True, 'name': 'keep_alive', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '228fd8fd-058e-45a7-bbc7-a710853123d6'}]
+[After] Cookie-Name 1: _gid
+[After] Cookie-Name 2: _ga
+[After] Cookie-Name 3: _shopify_sa_p
+[After] Cookie-Name 4: _shopify_sa_t
+[After] Cookie-Name 5: _gat
+[After] Cookie-Name 6: _orig_referrer
+[After] Cookie-Name 7: secure_customer_sig
+[After] Cookie-Name 8: _ga_ZZ70RFBJBE
+[After] Cookie-Name 9: _shopify_y
+[After] Cookie-Name 10: _shopify_s
+[After] Cookie-Name 11: _s
+[After] Cookie-Name 12: _y
+[After] Cookie-Name 13: __kla_id
+[After] Cookie-Name 14: _gat_gtag_UA_179955598_1
+[After] Cookie-Name 15: _landing_page
+[After] Cookie-Name 16: _gcl_au
+[After] Cookie-Name 17: OT_FBPLID
+[After] Cookie-Name 18: keep_alive
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

@@ -1,0 +1,83 @@
+Website 386: http://www.jouelei.de/ | Created: 10.02.2022 19:14:05 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 24
+[Before] Website-Cookies: [{'domain': 'jouelei.de', 'expiry': 1707588835, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ1MTY4MzYsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vam91ZWxlaS5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQ1MTY4MzYsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vam91ZWxlaS5kZS8ifX0='}, {'domain': '.jouelei.de', 'expiry': 1678212834, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '34f95fe08a9d11ec85c66d122f533dbe'}, {'domain': '.jouelei.de', 'expiry': 1707588834, 'httpOnly': False, 'name': '_ga_7XNCJE3KLS', 'path': '/', 'secure': False, 'value': 'GS1.1.1644516834.1.0.1644516834.0'}, {'domain': '.jouelei.de', 'expiry': 1644603234, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': '34f922908a9d11ec9fc6b97f8dda65f8'}, {'domain': '.jouelei.de', 'expiry': 1644516894, 'httpOnly': False, 'name': '_gat_UA-167281961-6', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'jouelei.de', 'httpOnly': False, 'name': 'logState', 'path': '/', 'secure': False, 'value': 'loggedOut'}, {'domain': '.jouelei.de', 'expiry': 1645726433, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.jouelei.de', 'expiry': 1644518634, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.jouelei.de', 'expiry': 1644603234, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1418198958.1644516834'}, {'domain': '.jouelei.de', 'expiry': 1645726433, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.jouelei.de', 'expiry': 1652292835, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644516834475.1414162529'}, {'domain': '.jouelei.de', 'expiry': 1707588834, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.749873563.1644516834'}, {'domain': '.jouelei.de', 'expiry': 1652292834, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1135128632.1644516834'}, {'domain': '.jouelei.de', 'expiry': 1644518638, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6f18ec03-3d8c-481e-8823-12ea8ec4bd13'}, {'domain': '.jouelei.de', 'expiry': 1676052838, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7fe4c892-0dad-4a8e-8a18-2f48983cca67'}, {'domain': 'jouelei.de', 'expiry': 1647108835, 'httpOnly': False, 'name': 'Fera.Api.ServerNum', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '2'}, {'domain': 'jouelei.de', 'expiry': 1676052838, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.jouelei.de', 'expiry': 1644518638, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6f18ec03-3d8c-481e-8823-12ea8ec4bd13'}, {'domain': 'jouelei.de', 'expiry': 1802196835, 'httpOnly': False, 'name': 'banana_stand_visitor_id', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '4a6aa7f4-7691-4ac3-ac5a-f0d5aaa9b67e'}, {'domain': 'jouelei.de', 'httpOnly': False, 'name': 'landingPage', 'path': '/', 'secure': False, 'value': 'landed'}, {'domain': '.jouelei.de', 'expiry': 1676052838, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7fe4c892-0dad-4a8e-8a18-2f48983cca67'}, {'domain': 'jouelei.de', 'expiry': 1645726438, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.jouelei.de', 'expiry': 1644518634, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T18%3A13%3A54.335Z'}, {'domain': 'jouelei.de', 'expiry': 1645726438, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[Before] Cookie-Name 1: __kla_id
+[Before] Cookie-Name 2: _uetvid
+[Before] Cookie-Name 3: _ga_7XNCJE3KLS
+[Before] Cookie-Name 4: _uetsid
+[Before] Cookie-Name 5: _gat_UA-167281961-6
+[Before] Cookie-Name 6: logState
+[Before] Cookie-Name 7: _orig_referrer
+[Before] Cookie-Name 8: _shopify_sa_p
+[Before] Cookie-Name 9: _gid
+[Before] Cookie-Name 10: _landing_page
+[Before] Cookie-Name 11: _fbp
+[Before] Cookie-Name 12: _ga
+[Before] Cookie-Name 13: _gcl_au
+[Before] Cookie-Name 14: _shopify_s
+[Before] Cookie-Name 15: _shopify_y
+[Before] Cookie-Name 16: Fera.Api.ServerNum
+[Before] Cookie-Name 17: secure_customer_sig
+[Before] Cookie-Name 18: _s
+[Before] Cookie-Name 19: banana_stand_visitor_id
+[Before] Cookie-Name 20: landingPage
+[Before] Cookie-Name 21: _y
+[Before] Cookie-Name 22: cart_currency
+[Before] Cookie-Name 23: _shopify_sa_t
+[Before] Cookie-Name 24: localization
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 24
+[After] Website-Cookies: [{'domain': 'jouelei.de', 'expiry': 1707588835, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ1MTY4MzYsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vam91ZWxlaS5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQ1MTY4MzYsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vam91ZWxlaS5kZS8ifX0='}, {'domain': '.jouelei.de', 'expiry': 1678212834, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '34f95fe08a9d11ec85c66d122f533dbe'}, {'domain': '.jouelei.de', 'expiry': 1707588834, 'httpOnly': False, 'name': '_ga_7XNCJE3KLS', 'path': '/', 'secure': False, 'value': 'GS1.1.1644516834.1.0.1644516834.0'}, {'domain': '.jouelei.de', 'expiry': 1644603234, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': '34f922908a9d11ec9fc6b97f8dda65f8'}, {'domain': '.jouelei.de', 'expiry': 1644516894, 'httpOnly': False, 'name': '_gat_UA-167281961-6', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'jouelei.de', 'httpOnly': False, 'name': 'logState', 'path': '/', 'secure': False, 'value': 'loggedOut'}, {'domain': '.jouelei.de', 'expiry': 1645726433, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.jouelei.de', 'expiry': 1644518634, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.jouelei.de', 'expiry': 1644603234, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1418198958.1644516834'}, {'domain': '.jouelei.de', 'expiry': 1645726433, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.jouelei.de', 'expiry': 1652292835, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644516834475.1414162529'}, {'domain': '.jouelei.de', 'expiry': 1707588834, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.749873563.1644516834'}, {'domain': '.jouelei.de', 'expiry': 1652292834, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1135128632.1644516834'}, {'domain': '.jouelei.de', 'expiry': 1644518638, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6f18ec03-3d8c-481e-8823-12ea8ec4bd13'}, {'domain': '.jouelei.de', 'expiry': 1676052838, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7fe4c892-0dad-4a8e-8a18-2f48983cca67'}, {'domain': 'jouelei.de', 'expiry': 1647108835, 'httpOnly': False, 'name': 'Fera.Api.ServerNum', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '2'}, {'domain': 'jouelei.de', 'expiry': 1676052838, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.jouelei.de', 'expiry': 1644518638, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6f18ec03-3d8c-481e-8823-12ea8ec4bd13'}, {'domain': 'jouelei.de', 'expiry': 1802196835, 'httpOnly': False, 'name': 'banana_stand_visitor_id', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '4a6aa7f4-7691-4ac3-ac5a-f0d5aaa9b67e'}, {'domain': 'jouelei.de', 'httpOnly': False, 'name': 'landingPage', 'path': '/', 'secure': False, 'value': 'landed'}, {'domain': '.jouelei.de', 'expiry': 1676052838, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7fe4c892-0dad-4a8e-8a18-2f48983cca67'}, {'domain': 'jouelei.de', 'expiry': 1645726438, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.jouelei.de', 'expiry': 1644518634, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T18%3A13%3A54.335Z'}, {'domain': 'jouelei.de', 'expiry': 1645726438, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[After] Cookie-Name 1: __kla_id
+[After] Cookie-Name 2: _uetvid
+[After] Cookie-Name 3: _ga_7XNCJE3KLS
+[After] Cookie-Name 4: _uetsid
+[After] Cookie-Name 5: _gat_UA-167281961-6
+[After] Cookie-Name 6: logState
+[After] Cookie-Name 7: _orig_referrer
+[After] Cookie-Name 8: _shopify_sa_p
+[After] Cookie-Name 9: _gid
+[After] Cookie-Name 10: _landing_page
+[After] Cookie-Name 11: _fbp
+[After] Cookie-Name 12: _ga
+[After] Cookie-Name 13: _gcl_au
+[After] Cookie-Name 14: _shopify_s
+[After] Cookie-Name 15: _shopify_y
+[After] Cookie-Name 16: Fera.Api.ServerNum
+[After] Cookie-Name 17: secure_customer_sig
+[After] Cookie-Name 18: _s
+[After] Cookie-Name 19: banana_stand_visitor_id
+[After] Cookie-Name 20: landingPage
+[After] Cookie-Name 21: _y
+[After] Cookie-Name 22: cart_currency
+[After] Cookie-Name 23: _shopify_sa_t
+[After] Cookie-Name 24: localization
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

@@ -1,0 +1,96 @@
+Website 144: http://www.fyta.de/ | Created: 09.02.2022 20:18:15 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 31
+[Before] Website-Cookies: [{'domain': 'fyta.de', 'expiry': 1645643886, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A2'}, {'domain': 'fyta.de', 'expiry': 1802114286, 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'secure': True, 'value': 'fa0f25e7-713a-4be5-afc1-ab2959e3facc'}, {'domain': 'fyta.de', 'expiry': 1644436086, 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'secure': True, 'value': '569609a1-034d-4a6c-8b12-b6b331109f48'}, {'domain': '.fyta.de', 'expiry': 1675970285, 'httpOnly': False, 'name': 'ajs_anonymous_id', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%22e4837ce9-2991-40d5-9971-e848a86542e3%22'}, {'domain': '.fyta.de', 'expiry': 1644434345, 'httpOnly': False, 'name': '_gat_gtag_UA_207148317_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.fyta.de', 'expiry': 1644520685, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1494987483.1644434285'}, {'domain': '.fyta.de', 'expiry': 1707506284, 'httpOnly': False, 'name': '_ga_BR1QT7QMT4', 'path': '/', 'secure': False, 'value': 'GS1.1.1644434284.1.1.1644434284.0'}, {'domain': '.fyta.de', 'expiry': 1707506285, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1923369386.1644434284'}, {'domain': '.fyta.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9460aef4-3ca6-4494-afc7-363ff4f1e42e'}, {'domain': '.fyta.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.fyta.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A18%3A04.167Z'}, {'domain': '.fyta.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'fyta.de', 'expiry': 1645643886, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '56af875a5a5d0b7e3dfdba0318e90231'}, {'domain': '.fyta.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A18%3A04.160Z'}, {'domain': '.fyta.de', 'expiry': 1652210284, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.690087862.1644434284'}, {'domain': 'fyta.de', 'expiry': 1645643886, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644434286'}, {'domain': '.fyta.de', 'expiry': 1675970283, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.fyta.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.fyta.de', 'expiry': 1645643883, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.fyta.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '277cfb14-eb11-46ff-9a77-af0f4c2d7796'}, {'domain': '.fyta.de', 'expiry': 1644436086, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'fyta.de', 'expiry': 1645643886, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b1355f920c33c986be4b921f5b1278b8'}, {'domain': 'fyta.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.fyta.de', 'expiry': 1675970283, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': '.fyta.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.fyta.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9460aef4-3ca6-4494-afc7-363ff4f1e42e'}, {'domain': '.fyta.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '277cfb14-eb11-46ff-9a77-af0f4c2d7796'}, {'domain': 'fyta.de', 'expiry': 1675970286, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'fyta.de', 'expiry': 1644437884, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'fyta.de', 'expiry': 1645643886, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'fyta.de', 'expiry': 1645643886, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[Before] Cookie-Name 1: cart_ver
+[Before] Cookie-Name 2: _shg_user_id
+[Before] Cookie-Name 3: _shg_session_id
+[Before] Cookie-Name 4: ajs_anonymous_id
+[Before] Cookie-Name 5: _gat_gtag_UA_207148317_1
+[Before] Cookie-Name 6: _gid
+[Before] Cookie-Name 7: _ga_BR1QT7QMT4
+[Before] Cookie-Name 8: _ga
+[Before] Cookie-Name 9: _shopify_s
+[Before] Cookie-Name 10: _shopify_sa_p
+[Before] Cookie-Name 11: _shopify_sa_t
+[Before] Cookie-Name 12: _shopify_evids
+[Before] Cookie-Name 13: cart
+[Before] Cookie-Name 14: _shopify_d
+[Before] Cookie-Name 15: _gcl_au
+[Before] Cookie-Name 16: cart_ts
+[Before] Cookie-Name 17: _shopify_m
+[Before] Cookie-Name 18: _orig_referrer
+[Before] Cookie-Name 19: _shopify_tw
+[Before] Cookie-Name 20: _shopify_y
+[Before] Cookie-Name 21: _shopify_tm
+[Before] Cookie-Name 22: cart_sig
+[Before] Cookie-Name 23: _shopify_evids
+[Before] Cookie-Name 24: _tracking_consent
+[Before] Cookie-Name 25: _landing_page
+[Before] Cookie-Name 26: _s
+[Before] Cookie-Name 27: _y
+[Before] Cookie-Name 28: secure_customer_sig
+[Before] Cookie-Name 29: shopify_pay_redirect
+[Before] Cookie-Name 30: cart_currency
+[Before] Cookie-Name 31: localization
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 33
+[After] Website-Cookies: [{'domain': '.fyta.de', 'expiry': 1652210301, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644434301240.967420402'}, {'domain': '.fyta.de', 'expiry': 1675970300, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%221%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%7D'}, {'domain': 'fyta.de', 'expiry': 1645643886, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A2'}, {'domain': '.fyta.de', 'expiry': 1675970300, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': 'fyta.de', 'expiry': 1645643886, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644434286'}, {'domain': 'fyta.de', 'expiry': 1802114286, 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'secure': True, 'value': 'fa0f25e7-713a-4be5-afc1-ab2959e3facc'}, {'domain': 'fyta.de', 'expiry': 1644436086, 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'secure': True, 'value': '569609a1-034d-4a6c-8b12-b6b331109f48'}, {'domain': '.fyta.de', 'expiry': 1675970285, 'httpOnly': False, 'name': 'ajs_anonymous_id', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%22e4837ce9-2991-40d5-9971-e848a86542e3%22'}, {'domain': '.fyta.de', 'expiry': 1707506284, 'httpOnly': False, 'name': '_ga_BR1QT7QMT4', 'path': '/', 'secure': False, 'value': 'GS1.1.1644434284.1.1.1644434284.0'}, {'domain': '.fyta.de', 'expiry': 1707506285, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1923369386.1644434284'}, {'domain': '.fyta.de', 'expiry': 1644436100, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9460aef4-3ca6-4494-afc7-363ff4f1e42e'}, {'domain': '.fyta.de', 'expiry': 1644436100, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.fyta.de', 'expiry': 1644436100, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A18%3A04.167Z'}, {'domain': '.fyta.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'fyta.de', 'expiry': 1645643886, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '56af875a5a5d0b7e3dfdba0318e90231'}, {'domain': '.fyta.de', 'expiry': 1644434330, 'httpOnly': False, 'name': '_gali', 'path': '/', 'secure': False, 'value': 'shopify-privacy-banner-accept-button'}, {'domain': '.fyta.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A18%3A04.160Z'}, {'domain': '.fyta.de', 'expiry': 1652210284, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.690087862.1644434284'}, {'domain': '.fyta.de', 'expiry': 1675970300, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '277cfb14-eb11-46ff-9a77-af0f4c2d7796'}, {'domain': '.fyta.de', 'expiry': 1644436100, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'fyta.de', 'expiry': 1645643900, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b1355f920c33c986be4b921f5b1278b8'}, {'domain': 'fyta.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.fyta.de', 'expiry': 1644520685, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1494987483.1644434285'}, {'domain': '.fyta.de', 'expiry': 1645643900, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.fyta.de', 'expiry': 1644436100, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9460aef4-3ca6-4494-afc7-363ff4f1e42e'}, {'domain': '.fyta.de', 'expiry': 1675970300, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '277cfb14-eb11-46ff-9a77-af0f4c2d7796'}, {'domain': '.fyta.de', 'expiry': 1645643900, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.fyta.de', 'expiry': 1645643883, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'fyta.de', 'expiry': 1675970300, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.fyta.de', 'expiry': 1644434345, 'httpOnly': False, 'name': '_gat_gtag_UA_207148317_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'fyta.de', 'expiry': 1644437884, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'fyta.de', 'expiry': 1645643900, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'fyta.de', 'expiry': 1645643900, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[After] Cookie-Name 1: _fbp
+[After] Cookie-Name 2: _tracking_consent
+[After] Cookie-Name 3: cart_ver
+[After] Cookie-Name 4: _shopify_m
+[After] Cookie-Name 5: cart_ts
+[After] Cookie-Name 6: _shg_user_id
+[After] Cookie-Name 7: _shg_session_id
+[After] Cookie-Name 8: ajs_anonymous_id
+[After] Cookie-Name 9: _ga_BR1QT7QMT4
+[After] Cookie-Name 10: _ga
+[After] Cookie-Name 11: _shopify_s
+[After] Cookie-Name 12: _shopify_sa_p
+[After] Cookie-Name 13: _shopify_sa_t
+[After] Cookie-Name 14: _shopify_evids
+[After] Cookie-Name 15: cart
+[After] Cookie-Name 16: _gali
+[After] Cookie-Name 17: _shopify_d
+[After] Cookie-Name 18: _gcl_au
+[After] Cookie-Name 19: _shopify_y
+[After] Cookie-Name 20: _shopify_tm
+[After] Cookie-Name 21: cart_sig
+[After] Cookie-Name 22: _shopify_evids
+[After] Cookie-Name 23: _gid
+[After] Cookie-Name 24: _landing_page
+[After] Cookie-Name 25: _s
+[After] Cookie-Name 26: _y
+[After] Cookie-Name 27: _orig_referrer
+[After] Cookie-Name 28: _shopify_tw
+[After] Cookie-Name 29: secure_customer_sig
+[After] Cookie-Name 30: _gat_gtag_UA_207148317_1
+[After] Cookie-Name 31: shopify_pay_redirect
+[After] Cookie-Name 32: cart_currency
+[After] Cookie-Name 33: localization
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 2
+[Difference] Cookie-Name: 1: _gali
+[Difference] Cookie-Name: 2: _fbp
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

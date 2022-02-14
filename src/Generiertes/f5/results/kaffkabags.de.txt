@@ -1,0 +1,60 @@
+Website 217: http://www.kaffkabags.de/ | Created: 09.02.2022 20:42:24 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 15
+[Before] Website-Cookies: [{'domain': 'kaffkabags.de', 'httpOnly': False, 'name': 'qab_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': 'kaffkabags.de', 'expiry': 1644439334, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.kaffkabags.de', 'expiry': 1645645333, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.kaffkabags.de', 'expiry': 1644437533, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kaffkabags.de', 'expiry': 1645645333, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kaffkabags.de', 'expiry': 1644437533, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A42%3A13.797Z'}, {'domain': '.kaffkabags.de', 'expiry': 1675971733, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '30ee985a-cf21-48df-85b0-f011b5015008'}, {'domain': '.kaffkabags.de', 'expiry': 1675971736, 'httpOnly': False, 'name': '_privy_3E2807E81786BD6B493BC229', 'path': '/', 'secure': False, 'value': '%7B%22uuid%22%3A%22a553ca08-aa01-4fc5-9d5a-c366ed6f6f4f%22%7D'}, {'domain': '.kaffkabags.de', 'expiry': 1675971733, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '30ee985a-cf21-48df-85b0-f011b5015008'}, {'domain': 'kaffkabags.de', 'expiry': 1645645333, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.kaffkabags.de', 'expiry': 1652211734, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644435734439.490068549'}, {'domain': '.kaffkabags.de', 'expiry': 1644437533, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ea170626-d1ea-490d-a353-8f11ac70de4e'}, {'domain': 'kaffkabags.de', 'expiry': 1645645333, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kaffkabags.de', 'expiry': 1644437533, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ea170626-d1ea-490d-a353-8f11ac70de4e'}, {'domain': 'kaffkabags.de', 'expiry': 1675971733, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: qab_previous_pathname
+[Before] Cookie-Name 2: shopify_pay_redirect
+[Before] Cookie-Name 3: _landing_page
+[Before] Cookie-Name 4: _shopify_sa_p
+[Before] Cookie-Name 5: _orig_referrer
+[Before] Cookie-Name 6: _shopify_sa_t
+[Before] Cookie-Name 7: _shopify_y
+[Before] Cookie-Name 8: _privy_3E2807E81786BD6B493BC229
+[Before] Cookie-Name 9: _y
+[Before] Cookie-Name 10: cart_currency
+[Before] Cookie-Name 11: _fbp
+[Before] Cookie-Name 12: _shopify_s
+[Before] Cookie-Name 13: localization
+[Before] Cookie-Name 14: _s
+[Before] Cookie-Name 15: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 15
+[After] Website-Cookies: [{'domain': 'kaffkabags.de', 'expiry': 1675971750, 'httpOnly': False, 'name': 'CookieConsent', 'path': '/', 'secure': True, 'value': '{stamp:%27+DYH9zk8WywyTTpsdsi+p7AENirx6PdqmquYRgkPqmDs7p7JkBb9eA==%27%2Cnecessary:true%2Cpreferences:true%2Cstatistics:true%2Cmarketing:true%2Cver:1%2Cutc:1644435750220%2Cregion:%27de%27}'}, {'domain': 'kaffkabags.de', 'httpOnly': False, 'name': 'qab_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': 'kaffkabags.de', 'expiry': 1644439334, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.kaffkabags.de', 'expiry': 1645645333, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.kaffkabags.de', 'expiry': 1644437533, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kaffkabags.de', 'expiry': 1645645333, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kaffkabags.de', 'expiry': 1644437533, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A42%3A13.797Z'}, {'domain': '.kaffkabags.de', 'expiry': 1675971733, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '30ee985a-cf21-48df-85b0-f011b5015008'}, {'domain': '.kaffkabags.de', 'expiry': 1675971733, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '30ee985a-cf21-48df-85b0-f011b5015008'}, {'domain': 'kaffkabags.de', 'expiry': 1645645333, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.kaffkabags.de', 'expiry': 1652211749, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644435734439.490068549'}, {'domain': '.kaffkabags.de', 'expiry': 1644437533, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ea170626-d1ea-490d-a353-8f11ac70de4e'}, {'domain': 'kaffkabags.de', 'expiry': 1645645333, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kaffkabags.de', 'expiry': 1644437533, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ea170626-d1ea-490d-a353-8f11ac70de4e'}, {'domain': 'kaffkabags.de', 'expiry': 1675971733, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: CookieConsent
+[After] Cookie-Name 2: qab_previous_pathname
+[After] Cookie-Name 3: shopify_pay_redirect
+[After] Cookie-Name 4: _landing_page
+[After] Cookie-Name 5: _shopify_sa_p
+[After] Cookie-Name 6: _orig_referrer
+[After] Cookie-Name 7: _shopify_sa_t
+[After] Cookie-Name 8: _shopify_y
+[After] Cookie-Name 9: _y
+[After] Cookie-Name 10: cart_currency
+[After] Cookie-Name 11: _fbp
+[After] Cookie-Name 12: _shopify_s
+[After] Cookie-Name 13: localization
+[After] Cookie-Name 14: _s
+[After] Cookie-Name 15: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 2
+[Difference] Cookie-Name: 1: _privy_3E2807E81786BD6B493BC229
+[Difference] Cookie-Name: 2: CookieConsent
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

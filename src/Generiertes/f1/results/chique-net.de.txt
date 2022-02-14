@@ -1,0 +1,85 @@
+Website 303: http://www.chique-net.de/ | Created: 08.02.2022 23:12:24 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 26
+[Before] Website-Cookies: [{'domain': '.chique-net.de', 'expiry': 1675894337, 'httpOnly': False, 'name': '_privy_AA271D7B68283C2B2A8B5508', 'path': '/', 'secure': False, 'value': '%7B%22uuid%22%3A%22f85aa1d3-ea2e-4177-9c03-f29e6cac4a53%22%2C%22variations%22%3A%7B%7D%2C%22country_code%22%3A%22DE%22%2C%22region_code%22%3A%22DE_%22%2C%22postal_code%22%3A%22%22%7D'}, {'domain': 'www.chique-net.de', 'expiry': 1645567934, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c96cf1ede7d9314533b037f46c4a7ec5'}, {'domain': 'www.chique-net.de', 'expiry': 1645567934, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644358334'}, {'domain': '.chique-net.de', 'expiry': 1675894343, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2aff089b-af04-46e6-ba4b-e0f1344192c4'}, {'domain': 'www.chique-net.de', 'expiry': 1645567934, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7161cbbc17b698bdd1d139ff00d7969d'}, {'domain': '.chique-net.de', 'expiry': 1652134334, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644358333769.1499563076'}, {'domain': 'www.chique-net.de', 'expiry': 1644361933, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'www.chique-net.de', 'expiry': 1645567934, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A2'}, {'domain': 'www.chique-net.de', 'expiry': 1644360133, 'httpOnly': False, 'name': 'baMet_visit', 'path': '/', 'secure': False, 'value': '71fd2a8ba361499fbdfaef0135d6e8241644358333505'}, {'domain': '.chique-net.de', 'expiry': 1652134333, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.780538393.1644358333'}, {'domain': '.chique-net.de', 'expiry': 1675894333, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVptUTJZekkwTlRFdFpEZ3dOaTAwWkRrd0xXSTVObVl0TTJNMFptSTJPRGRtTkRCbQ'}, {'domain': 'www.chique-net.de', 'expiry': 1645567931, 'httpOnly': True, 'name': 'keep_alive', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f0df927f-0ccb-491b-8c12-ba1eca675fb7'}, {'domain': '.chique-net.de', 'expiry': 1644360143, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f0df927f-0ccb-491b-8c12-ba1eca675fb7'}, {'domain': '.chique-net.de', 'expiry': 1675894343, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2aff089b-af04-46e6-ba4b-e0f1344192c4'}, {'domain': 'www.chique-net.de', 'httpOnly': False, 'name': 'usb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.chique-net.de', 'expiry': 1644360143, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f0df927f-0ccb-491b-8c12-ba1eca675fb7'}, {'domain': 'www.chique-net.de', 'expiry': 1644531134, 'httpOnly': False, 'name': 'ba_cart_token', 'path': '/', 'secure': False, 'value': '7161cbbc17b698bdd1d139ff00d7969d'}, {'domain': '.chique-net.de', 'expiry': 1644360133, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T22%3A12%3A13.318Z'}, {'domain': '.chique-net.de', 'expiry': 1645567932, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.chique-net.de', 'expiry': 1644358396, 'httpOnly': False, 'name': 'baMet_baEvs', 'path': '/', 'secure': False, 'value': '%5B%5D'}, {'domain': '.chique-net.de', 'expiry': 1645567932, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.chique-net.de', 'expiry': 1645567943, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.chique-net.de', 'expiry': 1644360133, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.chique-net.de', 'expiry': 1675894343, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.chique-net.de', 'expiry': 1678545031, 'httpOnly': False, 'name': '_scid', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'c9373f3d-48b5-4a97-aee5-2f5f059bd99b'}, {'domain': 'www.chique-net.de', 'expiry': 1645567943, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'IE'}]
+[Before] Cookie-Name 1: _privy_AA271D7B68283C2B2A8B5508
+[Before] Cookie-Name 2: cart_sig
+[Before] Cookie-Name 3: cart_ts
+[Before] Cookie-Name 4: _y
+[Before] Cookie-Name 5: cart
+[Before] Cookie-Name 6: _fbp
+[Before] Cookie-Name 7: shopify_pay_redirect
+[Before] Cookie-Name 8: cart_ver
+[Before] Cookie-Name 9: baMet_visit
+[Before] Cookie-Name 10: _gcl_au
+[Before] Cookie-Name 11: _pin_unauth
+[Before] Cookie-Name 12: keep_alive
+[Before] Cookie-Name 13: _shopify_s
+[Before] Cookie-Name 14: _shopify_y
+[Before] Cookie-Name 15: usb_previous_pathname
+[Before] Cookie-Name 16: _s
+[Before] Cookie-Name 17: ba_cart_token
+[Before] Cookie-Name 18: _shopify_sa_t
+[Before] Cookie-Name 19: _orig_referrer
+[Before] Cookie-Name 20: baMet_baEvs
+[Before] Cookie-Name 21: _landing_page
+[Before] Cookie-Name 22: cart_currency
+[Before] Cookie-Name 23: _shopify_sa_p
+[Before] Cookie-Name 24: secure_customer_sig
+[Before] Cookie-Name 25: _scid
+[Before] Cookie-Name 26: localization
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 26
+[After] Website-Cookies: [{'domain': '.chique-net.de', 'expiry': 1675894337, 'httpOnly': False, 'name': '_privy_AA271D7B68283C2B2A8B5508', 'path': '/', 'secure': False, 'value': '%7B%22uuid%22%3A%22f85aa1d3-ea2e-4177-9c03-f29e6cac4a53%22%2C%22variations%22%3A%7B%7D%2C%22country_code%22%3A%22DE%22%2C%22region_code%22%3A%22DE_%22%2C%22postal_code%22%3A%22%22%7D'}, {'domain': 'www.chique-net.de', 'expiry': 1645567934, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c96cf1ede7d9314533b037f46c4a7ec5'}, {'domain': 'www.chique-net.de', 'expiry': 1645567934, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644358334'}, {'domain': '.chique-net.de', 'expiry': 1675894343, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2aff089b-af04-46e6-ba4b-e0f1344192c4'}, {'domain': 'www.chique-net.de', 'expiry': 1645567934, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7161cbbc17b698bdd1d139ff00d7969d'}, {'domain': '.chique-net.de', 'expiry': 1652134334, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644358333769.1499563076'}, {'domain': 'www.chique-net.de', 'expiry': 1644361933, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'www.chique-net.de', 'expiry': 1645567934, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A2'}, {'domain': 'www.chique-net.de', 'expiry': 1644360133, 'httpOnly': False, 'name': 'baMet_visit', 'path': '/', 'secure': False, 'value': '71fd2a8ba361499fbdfaef0135d6e8241644358333505'}, {'domain': '.chique-net.de', 'expiry': 1652134333, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.780538393.1644358333'}, {'domain': '.chique-net.de', 'expiry': 1675894333, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVptUTJZekkwTlRFdFpEZ3dOaTAwWkRrd0xXSTVObVl0TTJNMFptSTJPRGRtTkRCbQ'}, {'domain': 'www.chique-net.de', 'expiry': 1645567931, 'httpOnly': True, 'name': 'keep_alive', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f0df927f-0ccb-491b-8c12-ba1eca675fb7'}, {'domain': '.chique-net.de', 'expiry': 1644360143, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f0df927f-0ccb-491b-8c12-ba1eca675fb7'}, {'domain': '.chique-net.de', 'expiry': 1675894343, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2aff089b-af04-46e6-ba4b-e0f1344192c4'}, {'domain': 'www.chique-net.de', 'httpOnly': False, 'name': 'usb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.chique-net.de', 'expiry': 1644360143, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f0df927f-0ccb-491b-8c12-ba1eca675fb7'}, {'domain': 'www.chique-net.de', 'expiry': 1644531134, 'httpOnly': False, 'name': 'ba_cart_token', 'path': '/', 'secure': False, 'value': '7161cbbc17b698bdd1d139ff00d7969d'}, {'domain': '.chique-net.de', 'expiry': 1644360133, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T22%3A12%3A13.318Z'}, {'domain': '.chique-net.de', 'expiry': 1645567932, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.chique-net.de', 'expiry': 1644358396, 'httpOnly': False, 'name': 'baMet_baEvs', 'path': '/', 'secure': False, 'value': '%5B%5D'}, {'domain': '.chique-net.de', 'expiry': 1645567932, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.chique-net.de', 'expiry': 1645567943, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.chique-net.de', 'expiry': 1644360133, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.chique-net.de', 'expiry': 1675894343, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.chique-net.de', 'expiry': 1678545031, 'httpOnly': False, 'name': '_scid', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'c9373f3d-48b5-4a97-aee5-2f5f059bd99b'}, {'domain': 'www.chique-net.de', 'expiry': 1645567943, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'IE'}]
+[After] Cookie-Name 1: _privy_AA271D7B68283C2B2A8B5508
+[After] Cookie-Name 2: cart_sig
+[After] Cookie-Name 3: cart_ts
+[After] Cookie-Name 4: _y
+[After] Cookie-Name 5: cart
+[After] Cookie-Name 6: _fbp
+[After] Cookie-Name 7: shopify_pay_redirect
+[After] Cookie-Name 8: cart_ver
+[After] Cookie-Name 9: baMet_visit
+[After] Cookie-Name 10: _gcl_au
+[After] Cookie-Name 11: _pin_unauth
+[After] Cookie-Name 12: keep_alive
+[After] Cookie-Name 13: _shopify_s
+[After] Cookie-Name 14: _shopify_y
+[After] Cookie-Name 15: usb_previous_pathname
+[After] Cookie-Name 16: _s
+[After] Cookie-Name 17: ba_cart_token
+[After] Cookie-Name 18: _shopify_sa_t
+[After] Cookie-Name 19: _orig_referrer
+[After] Cookie-Name 20: baMet_baEvs
+[After] Cookie-Name 21: _landing_page
+[After] Cookie-Name 22: cart_currency
+[After] Cookie-Name 23: _shopify_sa_p
+[After] Cookie-Name 24: secure_customer_sig
+[After] Cookie-Name 25: _scid
+[After] Cookie-Name 26: localization
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

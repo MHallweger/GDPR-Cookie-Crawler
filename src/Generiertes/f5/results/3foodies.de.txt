@@ -1,0 +1,60 @@
+Website 192: http://www.3foodies.de/ | Created: 09.02.2022 20:34:16 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 13
+[Before] Website-Cookies: [{'domain': '.3foodies.de', 'expiry': 1644435307, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.3foodies.de', 'expiry': 1644437047, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A34%3A07.425Z'}, {'domain': '.3foodies.de', 'expiry': 1644437047, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6ea48d60-b3de-4018-99c4-c8714c159b8e'}, {'domain': '.3foodies.de', 'expiry': 1675971246, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bd15e3eb-be42-4111-9221-e07f86758446'}, {'domain': '.3foodies.de', 'expiry': 1644521647, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1084363896.1644435248'}, {'domain': '.3foodies.de', 'expiry': 1645644846, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.3foodies.de', 'expiry': 1652211247, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1296540548.1644435247'}, {'domain': '.3foodies.de', 'expiry': 1644437047, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6ea48d60-b3de-4018-99c4-c8714c159b8e'}, {'domain': '.3foodies.de', 'expiry': 1675971246, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bd15e3eb-be42-4111-9221-e07f86758446'}, {'domain': '.3foodies.de', 'expiry': 1644437047, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.3foodies.de', 'expiry': 1645644846, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.3foodies.de', 'expiry': 1707507247, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.198047269.1644435248'}, {'domain': '3foodies.de', 'expiry': 1675971246, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _gat
+[Before] Cookie-Name 2: _shopify_sa_t
+[Before] Cookie-Name 3: _shopify_s
+[Before] Cookie-Name 4: _shopify_y
+[Before] Cookie-Name 5: _gid
+[Before] Cookie-Name 6: _landing_page
+[Before] Cookie-Name 7: _gcl_au
+[Before] Cookie-Name 8: _s
+[Before] Cookie-Name 9: _y
+[Before] Cookie-Name 10: _shopify_sa_p
+[Before] Cookie-Name 11: _orig_referrer
+[Before] Cookie-Name 12: _ga
+[Before] Cookie-Name 13: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 13
+[After] Website-Cookies: [{'domain': '.3foodies.de', 'expiry': 1644435307, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.3foodies.de', 'expiry': 1644437047, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A34%3A07.425Z'}, {'domain': '.3foodies.de', 'expiry': 1644437047, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6ea48d60-b3de-4018-99c4-c8714c159b8e'}, {'domain': '.3foodies.de', 'expiry': 1675971246, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bd15e3eb-be42-4111-9221-e07f86758446'}, {'domain': '.3foodies.de', 'expiry': 1644521647, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1084363896.1644435248'}, {'domain': '.3foodies.de', 'expiry': 1645644846, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.3foodies.de', 'expiry': 1652211247, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1296540548.1644435247'}, {'domain': '.3foodies.de', 'expiry': 1644437047, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6ea48d60-b3de-4018-99c4-c8714c159b8e'}, {'domain': '.3foodies.de', 'expiry': 1675971246, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bd15e3eb-be42-4111-9221-e07f86758446'}, {'domain': '.3foodies.de', 'expiry': 1644437047, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.3foodies.de', 'expiry': 1645644846, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.3foodies.de', 'expiry': 1707507247, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.198047269.1644435248'}, {'domain': '3foodies.de', 'expiry': 1675971246, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _gat
+[After] Cookie-Name 2: _shopify_sa_t
+[After] Cookie-Name 3: _shopify_s
+[After] Cookie-Name 4: _shopify_y
+[After] Cookie-Name 5: _gid
+[After] Cookie-Name 6: _landing_page
+[After] Cookie-Name 7: _gcl_au
+[After] Cookie-Name 8: _s
+[After] Cookie-Name 9: _y
+[After] Cookie-Name 10: _shopify_sa_p
+[After] Cookie-Name 11: _orig_referrer
+[After] Cookie-Name 12: _ga
+[After] Cookie-Name 13: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

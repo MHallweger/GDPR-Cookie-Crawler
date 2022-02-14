@@ -1,0 +1,61 @@
+Website 58: http://www.cosplaysky.de/ | Created: 09.02.2022 19:49:47 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 14
+[Before] Website-Cookies: [{'domain': '.skycosplay.de', 'expiry': 1675968578, 'httpOnly': False, 'name': '_privy_54CC9F5EDDECC27B1A75ABE0', 'path': '/', 'secure': False, 'value': '%7B%22uuid%22%3A%22bfd1da9b-3bdc-4c26-94b8-631905c50915%22%7D'}, {'domain': '.skycosplay.de', 'expiry': 1644434377, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.skycosplay.de', 'expiry': 1644434377, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T18%3A49%3A37.485Z'}, {'domain': 'skycosplay.de', 'expiry': 1675968587, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.skycosplay.de', 'expiry': 1675968587, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e9f263cd-f0be-4fab-ab37-a8518bc767bd'}, {'domain': '.skycosplay.de', 'expiry': 1707504577, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1216572731.1644432577'}, {'domain': '.skycosplay.de', 'expiry': 1644434387, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cbe20936-16b7-4224-816f-fa6659159ef1'}, {'domain': '.skycosplay.de', 'expiry': 1645642176, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.skycosplay.de', 'expiry': 1644518977, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1184925840.1644432577'}, {'domain': '.skycosplay.de', 'expiry': 1645642176, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'skycosplay.de', 'httpOnly': False, 'name': 'snize-recommendation', 'path': '/', 'secure': False, 'value': 'tfd1753lnhl'}, {'domain': '.skycosplay.de', 'expiry': 1644434387, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cbe20936-16b7-4224-816f-fa6659159ef1'}, {'domain': '.skycosplay.de', 'expiry': 1675968587, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e9f263cd-f0be-4fab-ab37-a8518bc767bd'}, {'domain': '.skycosplay.de', 'expiry': 1644432637, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}]
+[Before] Cookie-Name 1: _privy_54CC9F5EDDECC27B1A75ABE0
+[Before] Cookie-Name 2: _shopify_sa_p
+[Before] Cookie-Name 3: _shopify_sa_t
+[Before] Cookie-Name 4: secure_customer_sig
+[Before] Cookie-Name 5: _shopify_y
+[Before] Cookie-Name 6: _ga
+[Before] Cookie-Name 7: _shopify_s
+[Before] Cookie-Name 8: _landing_page
+[Before] Cookie-Name 9: _gid
+[Before] Cookie-Name 10: _orig_referrer
+[Before] Cookie-Name 11: snize-recommendation
+[Before] Cookie-Name 12: _s
+[Before] Cookie-Name 13: _y
+[Before] Cookie-Name 14: _gat
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 14
+[After] Website-Cookies: [{'domain': '.skycosplay.de', 'expiry': 1675968578, 'httpOnly': False, 'name': '_privy_54CC9F5EDDECC27B1A75ABE0', 'path': '/', 'secure': False, 'value': '%7B%22uuid%22%3A%22bfd1da9b-3bdc-4c26-94b8-631905c50915%22%7D'}, {'domain': '.skycosplay.de', 'expiry': 1644434377, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.skycosplay.de', 'expiry': 1644434377, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T18%3A49%3A37.485Z'}, {'domain': 'skycosplay.de', 'expiry': 1675968587, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.skycosplay.de', 'expiry': 1675968587, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e9f263cd-f0be-4fab-ab37-a8518bc767bd'}, {'domain': '.skycosplay.de', 'expiry': 1707504577, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1216572731.1644432577'}, {'domain': '.skycosplay.de', 'expiry': 1644434387, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cbe20936-16b7-4224-816f-fa6659159ef1'}, {'domain': '.skycosplay.de', 'expiry': 1645642176, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.skycosplay.de', 'expiry': 1644518977, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1184925840.1644432577'}, {'domain': '.skycosplay.de', 'expiry': 1645642176, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'skycosplay.de', 'httpOnly': False, 'name': 'snize-recommendation', 'path': '/', 'secure': False, 'value': 'tfd1753lnhl'}, {'domain': '.skycosplay.de', 'expiry': 1644434387, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cbe20936-16b7-4224-816f-fa6659159ef1'}, {'domain': '.skycosplay.de', 'expiry': 1675968587, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e9f263cd-f0be-4fab-ab37-a8518bc767bd'}, {'domain': '.skycosplay.de', 'expiry': 1644432637, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}]
+[After] Cookie-Name 1: _privy_54CC9F5EDDECC27B1A75ABE0
+[After] Cookie-Name 2: _shopify_sa_p
+[After] Cookie-Name 3: _shopify_sa_t
+[After] Cookie-Name 4: secure_customer_sig
+[After] Cookie-Name 5: _shopify_y
+[After] Cookie-Name 6: _ga
+[After] Cookie-Name 7: _shopify_s
+[After] Cookie-Name 8: _landing_page
+[After] Cookie-Name 9: _gid
+[After] Cookie-Name 10: _orig_referrer
+[After] Cookie-Name 11: snize-recommendation
+[After] Cookie-Name 12: _s
+[After] Cookie-Name 13: _y
+[After] Cookie-Name 14: _gat
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _gat (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

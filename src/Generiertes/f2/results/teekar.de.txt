@@ -1,0 +1,75 @@
+Website 243: http://www.teekar.de/ | Created: 09.02.2022 11:59:38 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 19
+[Before] Website-Cookies: [{'domain': '.teekar.de', 'expiry': 1707476367, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.1.1307011068.1644404364'}, {'domain': 'www.teekar.de', 'expiry': 1707476366, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MDQzNjYsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LnRlZWthci5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQ0MDQzNjYsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LnRlZWthci5kZS8ifX0='}, {'domain': '.teekar.de', 'expiry': 1675940364, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU9HWTFPRFJqWTJFdE5EQTRNQzAwWW1ZeExUZzJNV1V0TmpRNVl6azJNVEV4TWpCaA'}, {'domain': '.teekar.de', 'expiry': 1707476367, 'httpOnly': False, 'name': '_ga_S8VXCC5E20', 'path': '/', 'secure': False, 'value': 'GS1.1.18ffcfc1-db6a-4e8c-9e44-5cc4f852f669.1.0.1644404367.0'}, {'domain': 'www.teekar.de', 'expiry': 1707476366, 'httpOnly': False, 'name': '_ama', 'path': '/', 'secure': False, 'value': '1307011068.1644404364'}, {'domain': '.teekar.de', 'expiry': 1644404424, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.teekar.de', 'expiry': 1652180365, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644404364881.900649333'}, {'domain': '.teekar.de', 'expiry': 1644406164, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A59%3A24.467Z'}, {'domain': '.teekar.de', 'expiry': 1644490764, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1990971584.1644404365'}, {'domain': 'www.teekar.de', 'expiry': 1675940370, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.teekar.de', 'expiry': 1675940370, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7c3ac90a-00bd-4ae6-a63a-dc9b9611a2bf'}, {'domain': '.teekar.de', 'expiry': 1644406170, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0eb4369b-af7c-45f2-a101-32e647e62e14'}, {'domain': '.teekar.de', 'expiry': 1707476364, 'httpOnly': False, 'name': '_ga_9K6FVV2DNH', 'path': '/', 'secure': False, 'value': 'GS1.1.1644404364.1.0.1644404364.60'}, {'domain': '.teekar.de', 'expiry': 1645613964, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.teekar.de', 'expiry': 1644406164, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.teekar.de', 'expiry': 1675940370, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7c3ac90a-00bd-4ae6-a63a-dc9b9611a2bf'}, {'domain': '.teekar.de', 'expiry': 1652180364, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.2026315123.1644404364'}, {'domain': '.teekar.de', 'expiry': 1645613964, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.teekar.de', 'expiry': 1644406170, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0eb4369b-af7c-45f2-a101-32e647e62e14'}]
+[Before] Cookie-Name 1: _ga
+[Before] Cookie-Name 2: __kla_id
+[Before] Cookie-Name 3: _pin_unauth
+[Before] Cookie-Name 4: _ga_S8VXCC5E20
+[Before] Cookie-Name 5: _ama
+[Before] Cookie-Name 6: _gat
+[Before] Cookie-Name 7: _fbp
+[Before] Cookie-Name 8: _shopify_sa_t
+[Before] Cookie-Name 9: _gid
+[Before] Cookie-Name 10: secure_customer_sig
+[Before] Cookie-Name 11: _shopify_y
+[Before] Cookie-Name 12: _shopify_s
+[Before] Cookie-Name 13: _ga_9K6FVV2DNH
+[Before] Cookie-Name 14: _landing_page
+[Before] Cookie-Name 15: _shopify_sa_p
+[Before] Cookie-Name 16: _y
+[Before] Cookie-Name 17: _gcl_au
+[Before] Cookie-Name 18: _orig_referrer
+[Before] Cookie-Name 19: _s
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 19
+[After] Website-Cookies: [{'domain': '.teekar.de', 'expiry': 1707476367, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.1.1307011068.1644404364'}, {'domain': 'www.teekar.de', 'expiry': 1707476366, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MDQzNjYsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LnRlZWthci5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQ0MDQzNjYsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LnRlZWthci5kZS8ifX0='}, {'domain': '.teekar.de', 'expiry': 1675940364, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU9HWTFPRFJqWTJFdE5EQTRNQzAwWW1ZeExUZzJNV1V0TmpRNVl6azJNVEV4TWpCaA'}, {'domain': '.teekar.de', 'expiry': 1707476367, 'httpOnly': False, 'name': '_ga_S8VXCC5E20', 'path': '/', 'secure': False, 'value': 'GS1.1.18ffcfc1-db6a-4e8c-9e44-5cc4f852f669.1.0.1644404367.0'}, {'domain': 'www.teekar.de', 'expiry': 1707476366, 'httpOnly': False, 'name': '_ama', 'path': '/', 'secure': False, 'value': '1307011068.1644404364'}, {'domain': '.teekar.de', 'expiry': 1644404424, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.teekar.de', 'expiry': 1652180365, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644404364881.900649333'}, {'domain': '.teekar.de', 'expiry': 1644406164, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A59%3A24.467Z'}, {'domain': '.teekar.de', 'expiry': 1644490764, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1990971584.1644404365'}, {'domain': 'www.teekar.de', 'expiry': 1675940370, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.teekar.de', 'expiry': 1675940370, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7c3ac90a-00bd-4ae6-a63a-dc9b9611a2bf'}, {'domain': '.teekar.de', 'expiry': 1644406170, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0eb4369b-af7c-45f2-a101-32e647e62e14'}, {'domain': '.teekar.de', 'expiry': 1707476364, 'httpOnly': False, 'name': '_ga_9K6FVV2DNH', 'path': '/', 'secure': False, 'value': 'GS1.1.1644404364.1.0.1644404364.60'}, {'domain': '.teekar.de', 'expiry': 1645613964, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.teekar.de', 'expiry': 1644406164, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.teekar.de', 'expiry': 1675940370, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7c3ac90a-00bd-4ae6-a63a-dc9b9611a2bf'}, {'domain': '.teekar.de', 'expiry': 1652180364, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.2026315123.1644404364'}, {'domain': '.teekar.de', 'expiry': 1645613964, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.teekar.de', 'expiry': 1644406170, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0eb4369b-af7c-45f2-a101-32e647e62e14'}]
+[After] Cookie-Name 1: _ga
+[After] Cookie-Name 2: __kla_id
+[After] Cookie-Name 3: _pin_unauth
+[After] Cookie-Name 4: _ga_S8VXCC5E20
+[After] Cookie-Name 5: _ama
+[After] Cookie-Name 6: _gat
+[After] Cookie-Name 7: _fbp
+[After] Cookie-Name 8: _shopify_sa_t
+[After] Cookie-Name 9: _gid
+[After] Cookie-Name 10: secure_customer_sig
+[After] Cookie-Name 11: _shopify_y
+[After] Cookie-Name 12: _shopify_s
+[After] Cookie-Name 13: _ga_9K6FVV2DNH
+[After] Cookie-Name 14: _landing_page
+[After] Cookie-Name 15: _shopify_sa_p
+[After] Cookie-Name 16: _y
+[After] Cookie-Name 17: _gcl_au
+[After] Cookie-Name 18: _orig_referrer
+[After] Cookie-Name 19: _s
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

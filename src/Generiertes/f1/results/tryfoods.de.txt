@@ -1,0 +1,86 @@
+Website 107: http://www.tryfoods.de/ | Created: 08.02.2022 22:12:16 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 24
+[Before] Website-Cookies: [{'domain': '.tryfoods.de', 'expiry': 1645564328, 'httpOnly': False, 'name': '__cmpcccu21865', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'aBPUHJ6QAAAAwAXABgAA'}, {'domain': '.tryfoods.de', 'expiry': 1652130728, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644354728050.1789295684'}, {'domain': '.tryfoods.de', 'expiry': 1644356527, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8fe9037e-22f0-41da-a4fc-442722b5f4a7'}, {'domain': '.tryfoods.de', 'expiry': 1644356528, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': 'www.tryfoods.de', 'expiry': 1644354848, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.tryfoods.de', 'expiry': 1644356528, 'httpOnly': False, 'name': '_hjSession_2781225', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjdmZDQ0YTgwLWM0Y2YtNDAyYy04ZDFkLWZkMzc4MDdmMWI0ZSIsImNyZWF0ZWQiOjE2NDQzNTQ3MjgwMDAsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': '.tryfoods.de', 'expiry': 1652130727, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1383873241.1644354728'}, {'domain': 'www.tryfoods.de', 'expiry': 1644354848, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.tryfoods.de', 'expiry': 1644354787, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.tryfoods.de', 'expiry': 1644441127, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.517530056.1644354728'}, {'domain': '.tryfoods.de', 'expiry': 1644356527, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.tryfoods.de', 'expiry': 1645564327, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.tryfoods.de', 'expiry': 1644356527, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8fe9037e-22f0-41da-a4fc-442722b5f4a7'}, {'domain': '.tryfoods.de', 'expiry': 1644356527, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A12%3A07.824Z'}, {'domain': 'www.tryfoods.de', 'expiry': 1675890727, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.tryfoods.de', 'expiry': 1644356527, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.tryfoods.de', 'expiry': 1645564327, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': '.tryfoods.de', 'expiry': 1675890727, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ab1d17fd-2c68-498f-8a27-71360651cb09'}, {'domain': 'www.tryfoods.de', 'expiry': 1645564327, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.tryfoods.de', 'expiry': 1675890727, 'httpOnly': False, 'name': '_hjSessionUser_2781225', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjAyMjJlZTBhLTAzOGMtNWZhMC1hZDViLWIzZGZlN2VhYWQyOCIsImNyZWF0ZWQiOjE2NDQzNTQ3Mjc5NTUsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': 'www.tryfoods.de', 'expiry': 1644358327, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.tryfoods.de', 'expiry': 1707426727, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.16228275.1644354728'}, {'domain': '.tryfoods.de', 'expiry': 1645564327, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.tryfoods.de', 'expiry': 1675890727, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ab1d17fd-2c68-498f-8a27-71360651cb09'}]
+[Before] Cookie-Name 1: __cmpcccu21865
+[Before] Cookie-Name 2: _fbp
+[Before] Cookie-Name 3: _s
+[Before] Cookie-Name 4: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 5: _hjIncludedInPageviewSample
+[Before] Cookie-Name 6: _hjSession_2781225
+[Before] Cookie-Name 7: _gcl_au
+[Before] Cookie-Name 8: _hjIncludedInSessionSample
+[Before] Cookie-Name 9: _gat
+[Before] Cookie-Name 10: _gid
+[Before] Cookie-Name 11: _shopify_sa_p
+[Before] Cookie-Name 12: _orig_referrer
+[Before] Cookie-Name 13: _shopify_s
+[Before] Cookie-Name 14: _shopify_sa_t
+[Before] Cookie-Name 15: secure_customer_sig
+[Before] Cookie-Name 16: _hjFirstSeen
+[Before] Cookie-Name 17: localization
+[Before] Cookie-Name 18: _shopify_y
+[Before] Cookie-Name 19: cart_currency
+[Before] Cookie-Name 20: _hjSessionUser_2781225
+[Before] Cookie-Name 21: shopify_pay_redirect
+[Before] Cookie-Name 22: _ga
+[Before] Cookie-Name 23: _landing_page
+[Before] Cookie-Name 24: _y
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 25
+[After] Website-Cookies: [{'domain': '.tryfoods.de', 'expiry': 1675890742, 'httpOnly': False, 'name': '__cmpcccu21865', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'aBPUHJ8dgAwAzADgA8AAIAB4ALgAwABoADwAKAAXABBAC8AIcBxIDywIOARJBPkAAA'}, {'domain': '.tryfoods.de', 'expiry': 1675890742, 'httpOnly': False, 'name': '__cmpconsent21865', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'BPUHJ8dPUHJ8dAfZ6BDEDXAAAAAAFA'}, {'domain': '.tryfoods.de', 'expiry': 1652130742, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644354728050.1789295684'}, {'domain': '.tryfoods.de', 'expiry': 1644356527, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8fe9037e-22f0-41da-a4fc-442722b5f4a7'}, {'domain': '.tryfoods.de', 'expiry': 1644356528, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': 'www.tryfoods.de', 'expiry': 1644354848, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.tryfoods.de', 'expiry': 1644356528, 'httpOnly': False, 'name': '_hjSession_2781225', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjdmZDQ0YTgwLWM0Y2YtNDAyYy04ZDFkLWZkMzc4MDdmMWI0ZSIsImNyZWF0ZWQiOjE2NDQzNTQ3MjgwMDAsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': '.tryfoods.de', 'expiry': 1652130727, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1383873241.1644354728'}, {'domain': 'www.tryfoods.de', 'expiry': 1644354848, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.tryfoods.de', 'expiry': 1644354787, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.tryfoods.de', 'expiry': 1644441127, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.517530056.1644354728'}, {'domain': '.tryfoods.de', 'expiry': 1644356527, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.tryfoods.de', 'expiry': 1645564327, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.tryfoods.de', 'expiry': 1644356527, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8fe9037e-22f0-41da-a4fc-442722b5f4a7'}, {'domain': '.tryfoods.de', 'expiry': 1644356527, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A12%3A07.824Z'}, {'domain': 'www.tryfoods.de', 'expiry': 1675890727, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.tryfoods.de', 'expiry': 1644356527, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.tryfoods.de', 'expiry': 1645564327, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': '.tryfoods.de', 'expiry': 1675890727, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ab1d17fd-2c68-498f-8a27-71360651cb09'}, {'domain': 'www.tryfoods.de', 'expiry': 1645564327, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.tryfoods.de', 'expiry': 1675890727, 'httpOnly': False, 'name': '_hjSessionUser_2781225', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjAyMjJlZTBhLTAzOGMtNWZhMC1hZDViLWIzZGZlN2VhYWQyOCIsImNyZWF0ZWQiOjE2NDQzNTQ3Mjc5NTUsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': 'www.tryfoods.de', 'expiry': 1644358327, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.tryfoods.de', 'expiry': 1707426727, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.16228275.1644354728'}, {'domain': '.tryfoods.de', 'expiry': 1645564327, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.tryfoods.de', 'expiry': 1675890727, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ab1d17fd-2c68-498f-8a27-71360651cb09'}]
+[After] Cookie-Name 1: __cmpcccu21865
+[After] Cookie-Name 2: __cmpconsent21865
+[After] Cookie-Name 3: _fbp
+[After] Cookie-Name 4: _s
+[After] Cookie-Name 5: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 6: _hjIncludedInPageviewSample
+[After] Cookie-Name 7: _hjSession_2781225
+[After] Cookie-Name 8: _gcl_au
+[After] Cookie-Name 9: _hjIncludedInSessionSample
+[After] Cookie-Name 10: _gat
+[After] Cookie-Name 11: _gid
+[After] Cookie-Name 12: _shopify_sa_p
+[After] Cookie-Name 13: _orig_referrer
+[After] Cookie-Name 14: _shopify_s
+[After] Cookie-Name 15: _shopify_sa_t
+[After] Cookie-Name 16: secure_customer_sig
+[After] Cookie-Name 17: _hjFirstSeen
+[After] Cookie-Name 18: localization
+[After] Cookie-Name 19: _shopify_y
+[After] Cookie-Name 20: cart_currency
+[After] Cookie-Name 21: _hjSessionUser_2781225
+[After] Cookie-Name 22: shopify_pay_redirect
+[After] Cookie-Name 23: _ga
+[After] Cookie-Name 24: _landing_page
+[After] Cookie-Name 25: _y
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjIncludedInPageviewSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _hjIncludedInSessionSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: __cmpconsent21865
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

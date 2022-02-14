@@ -1,0 +1,95 @@
+Website 124: http://www.pyua.de/ | Created: 10.02.2022 17:56:24 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 28
+[Before] Website-Cookies: [{'domain': '.pyua.de', 'expiry': 1652288175, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644512175317.660976403'}, {'domain': '.pyua.de', 'expiry': 1644513975, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': 'pyua.de', 'expiry': 1644512295, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'pyua.de', 'expiry': 1644512295, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.pyua.de', 'expiry': 1707584175, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1977786968.1644512175'}, {'domain': '.pyua.de', 'expiry': 1676048175, 'httpOnly': False, 'name': '_hjSessionUser_2756021', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImJiZTM2MTk4LTc3MDQtNTY1OS1hNzk3LTU5NDE2YmQwODUyZiIsImNyZWF0ZWQiOjE2NDQ1MTIxNzExNTUsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.pyua.de', 'expiry': 1644598575, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1037144865.1644512175'}, {'domain': '.pyua.de', 'expiry': 1644513975, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'pyua.de', 'expiry': 1645721774, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644512174'}, {'domain': '.pyua.de', 'expiry': 1644513981, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2ab14efc-5281-44ca-ac89-6c382246bf59'}, {'domain': '.pyua.de', 'expiry': 1644513975, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'pyua.de', 'expiry': 1645721774, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4e231ce89826477649aa058ddbef78b5'}, {'domain': '.pyua.de', 'expiry': 1644513975, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T16%3A56%3A15.024Z'}, {'domain': '.pyua.de', 'expiry': 1644512235, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'pyua.de', 'expiry': 1645721774, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '682940a2dee569039661750796747969'}, {'domain': 'pyua.de', 'expiry': 1645721770, 'httpOnly': True, 'name': 'keep_alive', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2ab14efc-5281-44ca-ac89-6c382246bf59'}, {'domain': '.pyua.de', 'expiry': 1645721770, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.pyua.de', 'expiry': 1676048181, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6f0892ec-d38b-49f8-9e7e-87317beb68b6'}, {'domain': 'pyua.de', 'expiry': 1645721781, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.pyua.de', 'expiry': 1652288171, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.29926636.1644512171'}, {'domain': 'pyua.de', 'expiry': 1676048181, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.pyua.de', 'expiry': 1644513975, 'httpOnly': False, 'name': '_hjSession_2756021', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjA0YWYzMjdkLWMxNzAtNGI1OS04NTQ0LTNjMWIzNzc2OTNmMCIsImNyZWF0ZWQiOjE2NDQ1MTIxNzUyODksImluU2FtcGxlIjpmYWxzZX0='}, {'domain': 'pyua.de', 'expiry': 1645721781, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.pyua.de', 'expiry': 1644513981, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2ab14efc-5281-44ca-ac89-6c382246bf59'}, {'domain': '.pyua.de', 'expiry': 1645721770, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'pyua.de', 'expiry': 1707584170, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ1MTIxNzEsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vcHl1YS5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQ1MTIxNzEsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vcHl1YS5kZS8ifX0='}, {'domain': 'pyua.de', 'expiry': 1645721774, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A3'}, {'domain': '.pyua.de', 'expiry': 1676048181, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6f0892ec-d38b-49f8-9e7e-87317beb68b6'}]
+[Before] Cookie-Name 1: _fbp
+[Before] Cookie-Name 2: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 3: _hjIncludedInPageviewSample
+[Before] Cookie-Name 4: _hjIncludedInSessionSample
+[Before] Cookie-Name 5: _ga
+[Before] Cookie-Name 6: _hjSessionUser_2756021
+[Before] Cookie-Name 7: _gid
+[Before] Cookie-Name 8: _shopify_sa_p
+[Before] Cookie-Name 9: cart_ts
+[Before] Cookie-Name 10: _s
+[Before] Cookie-Name 11: _hjFirstSeen
+[Before] Cookie-Name 12: cart_sig
+[Before] Cookie-Name 13: _shopify_sa_t
+[Before] Cookie-Name 14: _gat
+[Before] Cookie-Name 15: cart
+[Before] Cookie-Name 16: keep_alive
+[Before] Cookie-Name 17: _orig_referrer
+[Before] Cookie-Name 18: _y
+[Before] Cookie-Name 19: localization
+[Before] Cookie-Name 20: _gcl_au
+[Before] Cookie-Name 21: secure_customer_sig
+[Before] Cookie-Name 22: _hjSession_2756021
+[Before] Cookie-Name 23: cart_currency
+[Before] Cookie-Name 24: _shopify_s
+[Before] Cookie-Name 25: _landing_page
+[Before] Cookie-Name 26: __kla_id
+[Before] Cookie-Name 27: cart_ver
+[Before] Cookie-Name 28: _shopify_y
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 29
+[After] Website-Cookies: [{'domain': 'pyua.de', 'expiry': 1676048189, 'httpOnly': False, 'name': 'eg_cookieconsent_status', 'path': '/', 'secure': False, 'value': 'dismiss'}, {'domain': '.pyua.de', 'expiry': 1652288189, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644512175317.660976403'}, {'domain': '.pyua.de', 'expiry': 1644513975, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': 'pyua.de', 'expiry': 1644512295, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'pyua.de', 'expiry': 1644512295, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.pyua.de', 'expiry': 1707584175, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1977786968.1644512175'}, {'domain': '.pyua.de', 'expiry': 1676048175, 'httpOnly': False, 'name': '_hjSessionUser_2756021', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImJiZTM2MTk4LTc3MDQtNTY1OS1hNzk3LTU5NDE2YmQwODUyZiIsImNyZWF0ZWQiOjE2NDQ1MTIxNzExNTUsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.pyua.de', 'expiry': 1644598575, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1037144865.1644512175'}, {'domain': '.pyua.de', 'expiry': 1644513975, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'pyua.de', 'expiry': 1645721774, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644512174'}, {'domain': '.pyua.de', 'expiry': 1644513981, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2ab14efc-5281-44ca-ac89-6c382246bf59'}, {'domain': '.pyua.de', 'expiry': 1644513975, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'pyua.de', 'expiry': 1645721774, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4e231ce89826477649aa058ddbef78b5'}, {'domain': '.pyua.de', 'expiry': 1644513975, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T16%3A56%3A15.024Z'}, {'domain': '.pyua.de', 'expiry': 1644512235, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'pyua.de', 'expiry': 1645721774, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '682940a2dee569039661750796747969'}, {'domain': 'pyua.de', 'expiry': 1645721770, 'httpOnly': True, 'name': 'keep_alive', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2ab14efc-5281-44ca-ac89-6c382246bf59'}, {'domain': '.pyua.de', 'expiry': 1645721770, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.pyua.de', 'expiry': 1676048181, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6f0892ec-d38b-49f8-9e7e-87317beb68b6'}, {'domain': 'pyua.de', 'expiry': 1645721781, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.pyua.de', 'expiry': 1652288171, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.29926636.1644512171'}, {'domain': 'pyua.de', 'expiry': 1676048181, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.pyua.de', 'expiry': 1644513975, 'httpOnly': False, 'name': '_hjSession_2756021', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjA0YWYzMjdkLWMxNzAtNGI1OS04NTQ0LTNjMWIzNzc2OTNmMCIsImNyZWF0ZWQiOjE2NDQ1MTIxNzUyODksImluU2FtcGxlIjpmYWxzZX0='}, {'domain': 'pyua.de', 'expiry': 1645721781, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.pyua.de', 'expiry': 1644513981, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2ab14efc-5281-44ca-ac89-6c382246bf59'}, {'domain': '.pyua.de', 'expiry': 1645721770, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'pyua.de', 'expiry': 1707584170, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ1MTIxNzEsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vcHl1YS5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQ1MTIxNzEsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vcHl1YS5kZS8ifX0='}, {'domain': 'pyua.de', 'expiry': 1645721774, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A3'}, {'domain': '.pyua.de', 'expiry': 1676048181, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6f0892ec-d38b-49f8-9e7e-87317beb68b6'}]
+[After] Cookie-Name 1: eg_cookieconsent_status
+[After] Cookie-Name 2: _fbp
+[After] Cookie-Name 3: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 4: _hjIncludedInPageviewSample
+[After] Cookie-Name 5: _hjIncludedInSessionSample
+[After] Cookie-Name 6: _ga
+[After] Cookie-Name 7: _hjSessionUser_2756021
+[After] Cookie-Name 8: _gid
+[After] Cookie-Name 9: _shopify_sa_p
+[After] Cookie-Name 10: cart_ts
+[After] Cookie-Name 11: _s
+[After] Cookie-Name 12: _hjFirstSeen
+[After] Cookie-Name 13: cart_sig
+[After] Cookie-Name 14: _shopify_sa_t
+[After] Cookie-Name 15: _gat
+[After] Cookie-Name 16: cart
+[After] Cookie-Name 17: keep_alive
+[After] Cookie-Name 18: _orig_referrer
+[After] Cookie-Name 19: _y
+[After] Cookie-Name 20: localization
+[After] Cookie-Name 21: _gcl_au
+[After] Cookie-Name 22: secure_customer_sig
+[After] Cookie-Name 23: _hjSession_2756021
+[After] Cookie-Name 24: cart_currency
+[After] Cookie-Name 25: _shopify_s
+[After] Cookie-Name 26: _landing_page
+[After] Cookie-Name 27: __kla_id
+[After] Cookie-Name 28: cart_ver
+[After] Cookie-Name 29: _shopify_y
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjIncludedInPageviewSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjIncludedInSessionSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: eg_cookieconsent_status
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

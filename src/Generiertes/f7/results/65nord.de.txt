@@ -1,0 +1,77 @@
+Website 103: http://www.65nord.de/ | Created: 10.02.2022 17:49:38 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 22
+[Before] Website-Cookies: [{'domain': '65nord.de', 'expiry': 1676047768, 'httpOnly': False, 'name': 'optiMonkClientId', 'path': '/', 'secure': False, 'value': 'ce2381a9-2677-c16e-9b7f-7ed097ce9440'}, {'domain': '65nord.de', 'expiry': 1644515367, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.65nord.de', 'expiry': 1652287767, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.242454202.1644511767'}, {'domain': '.65nord.de', 'expiry': 1707583767, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1765666819.1644511767'}, {'domain': '.65nord.de', 'expiry': 1644598167, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.360654185.1644511767'}, {'domain': '.65nord.de', 'expiry': 1644513567, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T16%3A49%3A27.260Z'}, {'domain': '65nord.de', 'expiry': 1644515369, 'httpOnly': False, 'name': 'amazon-pay-connectedAuth', 'path': '/', 'secure': False, 'value': 'connectedAuth_general'}, {'domain': '.65nord.de', 'expiry': 1644513569, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1191f4ec-2b47-4787-b5ee-86e7422d90e8'}, {'domain': '.65nord.de', 'expiry': 1676047769, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '86cb0ee9-9ab3-4087-a5a7-885834fe8430'}, {'domain': '65nord.de', 'expiry': 1676047769, 'httpOnly': False, 'name': 'apay-session-set', 'path': '/', 'secure': True, 'value': 'ECaBe1HBJsB3Qc6w86K5zZQ205TBMxvVb3DYrol9sKYQWtZv2HC9x8lpeKZee7E%3D'}, {'domain': '65nord.de', 'expiry': 1644515369, 'httpOnly': False, 'name': 'language', 'path': '/', 'secure': False, 'value': 'de_DE'}, {'domain': '.65nord.de', 'expiry': 1644513569, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1191f4ec-2b47-4787-b5ee-86e7422d90e8'}, {'domain': '65nord.de', 'expiry': 1645721369, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.65nord.de', 'expiry': 1645721366, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '65nord.de', 'expiry': 1645721369, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.65nord.de', 'expiry': 1645721366, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.65nord.de', 'expiry': 1644513567, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.65nord.de', 'expiry': 1652287767, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644511767495.143233139'}, {'domain': '.65nord.de', 'expiry': 1644511827, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '65nord.de', 'expiry': 1707583767, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ1MTE3NjcsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vNjVub3JkLmRlLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDUxMTc2NywidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly82NW5vcmQuZGUvIn19'}, {'domain': '.65nord.de', 'expiry': 1676047769, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '86cb0ee9-9ab3-4087-a5a7-885834fe8430'}, {'domain': '65nord.de', 'expiry': 1676047769, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: optiMonkClientId
+[Before] Cookie-Name 2: shopify_pay_redirect
+[Before] Cookie-Name 3: _gcl_au
+[Before] Cookie-Name 4: _ga
+[Before] Cookie-Name 5: _gid
+[Before] Cookie-Name 6: _shopify_sa_t
+[Before] Cookie-Name 7: amazon-pay-connectedAuth
+[Before] Cookie-Name 8: _shopify_s
+[Before] Cookie-Name 9: _shopify_y
+[Before] Cookie-Name 10: apay-session-set
+[Before] Cookie-Name 11: language
+[Before] Cookie-Name 12: _s
+[Before] Cookie-Name 13: localization
+[Before] Cookie-Name 14: _landing_page
+[Before] Cookie-Name 15: cart_currency
+[Before] Cookie-Name 16: _orig_referrer
+[Before] Cookie-Name 17: _shopify_sa_p
+[Before] Cookie-Name 18: _fbp
+[Before] Cookie-Name 19: _gat
+[Before] Cookie-Name 20: __kla_id
+[Before] Cookie-Name 21: _y
+[Before] Cookie-Name 22: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 22
+[After] Website-Cookies: [{'domain': '65nord.de', 'expiry': 1676047768, 'httpOnly': False, 'name': 'optiMonkClientId', 'path': '/', 'secure': False, 'value': 'ce2381a9-2677-c16e-9b7f-7ed097ce9440'}, {'domain': '65nord.de', 'expiry': 1644515367, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.65nord.de', 'expiry': 1652287767, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.242454202.1644511767'}, {'domain': '.65nord.de', 'expiry': 1707583767, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1765666819.1644511767'}, {'domain': '.65nord.de', 'expiry': 1644598167, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.360654185.1644511767'}, {'domain': '.65nord.de', 'expiry': 1644513567, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T16%3A49%3A27.260Z'}, {'domain': '65nord.de', 'expiry': 1644515369, 'httpOnly': False, 'name': 'amazon-pay-connectedAuth', 'path': '/', 'secure': False, 'value': 'connectedAuth_general'}, {'domain': '.65nord.de', 'expiry': 1644513569, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1191f4ec-2b47-4787-b5ee-86e7422d90e8'}, {'domain': '.65nord.de', 'expiry': 1676047769, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '86cb0ee9-9ab3-4087-a5a7-885834fe8430'}, {'domain': '65nord.de', 'expiry': 1676047769, 'httpOnly': False, 'name': 'apay-session-set', 'path': '/', 'secure': True, 'value': 'ECaBe1HBJsB3Qc6w86K5zZQ205TBMxvVb3DYrol9sKYQWtZv2HC9x8lpeKZee7E%3D'}, {'domain': '65nord.de', 'expiry': 1644515369, 'httpOnly': False, 'name': 'language', 'path': '/', 'secure': False, 'value': 'de_DE'}, {'domain': '.65nord.de', 'expiry': 1644513569, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1191f4ec-2b47-4787-b5ee-86e7422d90e8'}, {'domain': '65nord.de', 'expiry': 1645721369, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.65nord.de', 'expiry': 1645721366, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '65nord.de', 'expiry': 1645721369, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.65nord.de', 'expiry': 1645721366, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.65nord.de', 'expiry': 1644513567, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.65nord.de', 'expiry': 1652287784, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644511767495.143233139'}, {'domain': '.65nord.de', 'expiry': 1644511827, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '65nord.de', 'expiry': 1707583767, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ1MTE3NjcsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vNjVub3JkLmRlLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDUxMTc2NywidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly82NW5vcmQuZGUvIn19'}, {'domain': '.65nord.de', 'expiry': 1676047769, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '86cb0ee9-9ab3-4087-a5a7-885834fe8430'}, {'domain': '65nord.de', 'expiry': 1676047769, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: optiMonkClientId
+[After] Cookie-Name 2: shopify_pay_redirect
+[After] Cookie-Name 3: _gcl_au
+[After] Cookie-Name 4: _ga
+[After] Cookie-Name 5: _gid
+[After] Cookie-Name 6: _shopify_sa_t
+[After] Cookie-Name 7: amazon-pay-connectedAuth
+[After] Cookie-Name 8: _shopify_s
+[After] Cookie-Name 9: _shopify_y
+[After] Cookie-Name 10: apay-session-set
+[After] Cookie-Name 11: language
+[After] Cookie-Name 12: _s
+[After] Cookie-Name 13: localization
+[After] Cookie-Name 14: _landing_page
+[After] Cookie-Name 15: cart_currency
+[After] Cookie-Name 16: _orig_referrer
+[After] Cookie-Name 17: _shopify_sa_p
+[After] Cookie-Name 18: _fbp
+[After] Cookie-Name 19: _gat
+[After] Cookie-Name 20: __kla_id
+[After] Cookie-Name 21: _y
+[After] Cookie-Name 22: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

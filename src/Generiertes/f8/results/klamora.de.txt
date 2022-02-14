@@ -1,0 +1,58 @@
+Website 197: http://www.klamora.de/ | Created: 10.02.2022 20:56:36 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 14
+[Before] Website-Cookies: [{'domain': '.klamora.de', 'expiry': 1652298988, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644522988182.1918603314'}, {'domain': '.klamora.de', 'expiry': 1644524787, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'klamora.de', 'expiry': 1644609388, 'httpOnly': False, 'name': '_ps_session', 'path': '/', 'secure': False, 'value': '6N5mtwwrWhKoeErjDhWep'}, {'domain': '.klamora.de', 'expiry': 1644524787, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T19%3A56%3A27.052Z'}, {'domain': '.klamora.de', 'expiry': 1676058988, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'dc4cc760-fa2c-4761-949f-73749675e67d'}, {'domain': '.klamora.de', 'expiry': 1676058988, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'dc4cc760-fa2c-4761-949f-73749675e67d'}, {'domain': 'klamora.de', 'expiry': 1645732588, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.klamora.de', 'expiry': 1644524788, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0408b453-e5e7-499d-afb7-3990e97f3219'}, {'domain': '.klamora.de', 'expiry': 1645732586, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.klamora.de', 'expiry': 1645732586, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'klamora.de', 'expiry': 1645732588, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.klamora.de', 'expiry': 1644524788, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0408b453-e5e7-499d-afb7-3990e97f3219'}, {'domain': 'klamora.de', 'expiry': 1707594988, 'httpOnly': False, 'name': '_ama', 'path': '/', 'secure': False, 'value': '6428f9df-4559-4926-912c-15a386387110'}, {'domain': 'klamora.de', 'expiry': 1676058988, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _fbp
+[Before] Cookie-Name 2: _shopify_sa_p
+[Before] Cookie-Name 3: _ps_session
+[Before] Cookie-Name 4: _shopify_sa_t
+[Before] Cookie-Name 5: _y
+[Before] Cookie-Name 6: _shopify_y
+[Before] Cookie-Name 7: cart_currency
+[Before] Cookie-Name 8: _s
+[Before] Cookie-Name 9: _orig_referrer
+[Before] Cookie-Name 10: _landing_page
+[Before] Cookie-Name 11: localization
+[Before] Cookie-Name 12: _shopify_s
+[Before] Cookie-Name 13: _ama
+[Before] Cookie-Name 14: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 14
+[After] Website-Cookies: [{'domain': '.klamora.de', 'expiry': 1652298988, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644522988182.1918603314'}, {'domain': '.klamora.de', 'expiry': 1644524787, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'klamora.de', 'expiry': 1644609388, 'httpOnly': False, 'name': '_ps_session', 'path': '/', 'secure': False, 'value': '6N5mtwwrWhKoeErjDhWep'}, {'domain': '.klamora.de', 'expiry': 1644524787, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T19%3A56%3A27.052Z'}, {'domain': '.klamora.de', 'expiry': 1676058988, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'dc4cc760-fa2c-4761-949f-73749675e67d'}, {'domain': '.klamora.de', 'expiry': 1676058988, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'dc4cc760-fa2c-4761-949f-73749675e67d'}, {'domain': 'klamora.de', 'expiry': 1645732588, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.klamora.de', 'expiry': 1644524788, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0408b453-e5e7-499d-afb7-3990e97f3219'}, {'domain': '.klamora.de', 'expiry': 1645732586, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.klamora.de', 'expiry': 1645732586, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'klamora.de', 'expiry': 1645732588, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.klamora.de', 'expiry': 1644524788, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0408b453-e5e7-499d-afb7-3990e97f3219'}, {'domain': 'klamora.de', 'expiry': 1707594988, 'httpOnly': False, 'name': '_ama', 'path': '/', 'secure': False, 'value': '6428f9df-4559-4926-912c-15a386387110'}, {'domain': 'klamora.de', 'expiry': 1676058988, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _fbp
+[After] Cookie-Name 2: _shopify_sa_p
+[After] Cookie-Name 3: _ps_session
+[After] Cookie-Name 4: _shopify_sa_t
+[After] Cookie-Name 5: _y
+[After] Cookie-Name 6: _shopify_y
+[After] Cookie-Name 7: cart_currency
+[After] Cookie-Name 8: _s
+[After] Cookie-Name 9: _orig_referrer
+[After] Cookie-Name 10: _landing_page
+[After] Cookie-Name 11: localization
+[After] Cookie-Name 12: _shopify_s
+[After] Cookie-Name 13: _ama
+[After] Cookie-Name 14: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

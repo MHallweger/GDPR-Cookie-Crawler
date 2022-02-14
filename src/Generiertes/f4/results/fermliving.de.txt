@@ -1,0 +1,78 @@
+Website 8: http://www.fermliving.de/ | Created: 09.02.2022 17:07:35 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 22
+[Before] Website-Cookies: [{'domain': '.fermliving.de', 'expiry': 1644466032, 'httpOnly': False, 'name': 'sc-traffic-source', 'path': '/', 'secure': False, 'value': 'direct'}, {'domain': '.fermliving.de', 'expiry': 1652198832, 'httpOnly': False, 'name': 'sc-bhistory', 'path': '/', 'secure': False, 'value': 'JvKBdXZVsd'}, {'domain': '.fermliving.de', 'httpOnly': False, 'name': 'aw_multi_anim_count', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2'}, {'domain': '.fermliving.de', 'httpOnly': False, 'name': 'aw_website_uuid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '244f1e49-d36a-40f8-952e-8ee2eb017184'}, {'domain': '.fermliving.de', 'expiry': 1652198831, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644422831083.1741540833'}, {'domain': '.fermliving.de', 'expiry': 1644422890, 'httpOnly': False, 'name': '_dc_gtm_UA-11801728-4', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.fermliving.de', 'expiry': 1644422890, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.fermliving.de', 'expiry': 1645632429, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.fermliving.de', 'expiry': 1644509230, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1546743636.1644422831'}, {'domain': '.fermliving.de', 'expiry': 1707494830, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.380321689.1644422831'}, {'domain': '.fermliving.de', 'expiry': 1647014831, 'httpOnly': False, 'name': 'prism_799810441', 'path': '/', 'secure': False, 'value': '7a0c0db5-515d-4b4b-9556-f3a4a1bb8ec7'}, {'domain': '.fermliving.de', 'expiry': 1675958831, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU1EVXlOalExWmpndE9EWXhZeTAwTTJNM0xXSXpPR010WkdGbE1URTVNelF3WXpBdw'}, {'domain': '.fermliving.de', 'expiry': 1644424630, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.fermliving.de', 'expiry': 1675958829, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '01b814e7-05af-4b68-a786-5cd5bda87a80'}, {'domain': 'fermliving.de', 'expiry': 1675958829, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.fermliving.de', 'expiry': 1644424630, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '56a86000-6ae8-4c89-b967-42b37bde6069'}, {'domain': '.fermliving.de', 'expiry': 1644424630, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '56a86000-6ae8-4c89-b967-42b37bde6069'}, {'domain': 'fermliving.de', 'expiry': 1647014831, 'httpOnly': False, 'name': 'ps_analytics', 'path': '/', 'sameSite': 'Strict', 'secure': False, 'value': 'wRU3jrL4J2ddANDTEp6D'}, {'domain': '.fermliving.de', 'expiry': 1675958829, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '01b814e7-05af-4b68-a786-5cd5bda87a80'}, {'domain': '.fermliving.de', 'expiry': 1644424630, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T16%3A07%3A10.837Z'}, {'domain': '.fermliving.de', 'expiry': 1675958831, 'httpOnly': False, 'name': 'hello_retail_id', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6203e6af4f8f5c7a10fe1214'}, {'domain': '.fermliving.de', 'expiry': 1645632429, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}]
+[Before] Cookie-Name 1: sc-traffic-source
+[Before] Cookie-Name 2: sc-bhistory
+[Before] Cookie-Name 3: aw_multi_anim_count
+[Before] Cookie-Name 4: aw_website_uuid
+[Before] Cookie-Name 5: _fbp
+[Before] Cookie-Name 6: _dc_gtm_UA-11801728-4
+[Before] Cookie-Name 7: _gat
+[Before] Cookie-Name 8: _orig_referrer
+[Before] Cookie-Name 9: _gid
+[Before] Cookie-Name 10: _ga
+[Before] Cookie-Name 11: prism_799810441
+[Before] Cookie-Name 12: _pin_unauth
+[Before] Cookie-Name 13: _shopify_sa_p
+[Before] Cookie-Name 14: _shopify_y
+[Before] Cookie-Name 15: secure_customer_sig
+[Before] Cookie-Name 16: _shopify_s
+[Before] Cookie-Name 17: _s
+[Before] Cookie-Name 18: ps_analytics
+[Before] Cookie-Name 19: _y
+[Before] Cookie-Name 20: _shopify_sa_t
+[Before] Cookie-Name 21: hello_retail_id
+[Before] Cookie-Name 22: _landing_page
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 21
+[After] Website-Cookies: [{'domain': '.fermliving.de', 'httpOnly': False, 'name': 'aw_multi_anim_count', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2'}, {'domain': '.fermliving.de', 'httpOnly': False, 'name': 'aw_website_uuid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '244f1e49-d36a-40f8-952e-8ee2eb017184'}, {'domain': '.fermliving.de', 'expiry': 1652198862, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644422831083.1741540833'}, {'domain': '.fermliving.de', 'expiry': 1644422890, 'httpOnly': False, 'name': '_dc_gtm_UA-11801728-4', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.fermliving.de', 'expiry': 1644422890, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.fermliving.de', 'expiry': 1645632429, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.fermliving.de', 'expiry': 1644509230, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1546743636.1644422831'}, {'domain': '.fermliving.de', 'expiry': 1707494830, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.380321689.1644422831'}, {'domain': '.fermliving.de', 'expiry': 1647014831, 'httpOnly': False, 'name': 'prism_799810441', 'path': '/', 'secure': False, 'value': '7a0c0db5-515d-4b4b-9556-f3a4a1bb8ec7'}, {'domain': '.fermliving.de', 'expiry': 1675958831, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU1EVXlOalExWmpndE9EWXhZeTAwTTJNM0xXSXpPR010WkdGbE1URTVNelF3WXpBdw'}, {'domain': '.fermliving.de', 'expiry': 1644424630, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.fermliving.de', 'expiry': 1675958829, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '01b814e7-05af-4b68-a786-5cd5bda87a80'}, {'domain': 'fermliving.de', 'expiry': 1675958829, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.fermliving.de', 'expiry': 1644424630, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '56a86000-6ae8-4c89-b967-42b37bde6069'}, {'domain': '.fermliving.de', 'expiry': 1644424630, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '56a86000-6ae8-4c89-b967-42b37bde6069'}, {'domain': 'fermliving.de', 'expiry': 1647014831, 'httpOnly': False, 'name': 'ps_analytics', 'path': '/', 'sameSite': 'Strict', 'secure': False, 'value': 'wRU3jrL4J2ddANDTEp6D'}, {'domain': '.fermliving.de', 'expiry': 1675958829, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '01b814e7-05af-4b68-a786-5cd5bda87a80'}, {'domain': 'fermliving.de', 'expiry': 1675958862, 'httpOnly': False, 'name': 'CookieConsent', 'path': '/', 'secure': True, 'value': '{stamp:%27xlQCp4EhyCEXgDOEODAfZR+IuuIUiild5kBsLkra43iDK20OljH/KA==%27%2Cnecessary:true%2Cpreferences:true%2Cstatistics:true%2Cmarketing:true%2Cver:1%2Cutc:1644422862355%2Cregion:%27de%27}'}, {'domain': '.fermliving.de', 'expiry': 1644424630, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T16%3A07%3A10.837Z'}, {'domain': '.fermliving.de', 'expiry': 1675958831, 'httpOnly': False, 'name': 'hello_retail_id', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6203e6af4f8f5c7a10fe1214'}, {'domain': '.fermliving.de', 'expiry': 1645632429, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}]
+[After] Cookie-Name 1: aw_multi_anim_count
+[After] Cookie-Name 2: aw_website_uuid
+[After] Cookie-Name 3: _fbp
+[After] Cookie-Name 4: _dc_gtm_UA-11801728-4
+[After] Cookie-Name 5: _gat
+[After] Cookie-Name 6: _orig_referrer
+[After] Cookie-Name 7: _gid
+[After] Cookie-Name 8: _ga
+[After] Cookie-Name 9: prism_799810441
+[After] Cookie-Name 10: _pin_unauth
+[After] Cookie-Name 11: _shopify_sa_p
+[After] Cookie-Name 12: _shopify_y
+[After] Cookie-Name 13: secure_customer_sig
+[After] Cookie-Name 14: _shopify_s
+[After] Cookie-Name 15: _s
+[After] Cookie-Name 16: ps_analytics
+[After] Cookie-Name 17: _y
+[After] Cookie-Name 18: CookieConsent
+[After] Cookie-Name 19: _shopify_sa_t
+[After] Cookie-Name 20: hello_retail_id
+[After] Cookie-Name 21: _landing_page
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 3
+[Difference] Cookie-Name: 1: sc-bhistory
+[Difference] Cookie-Name: 2: sc-traffic-source
+[Difference] Cookie-Name: 3: CookieConsent
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

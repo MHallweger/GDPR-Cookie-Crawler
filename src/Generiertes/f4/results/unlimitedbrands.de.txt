@@ -1,0 +1,68 @@
+Website 191: http://www.unlimitedbrands.de/ | Created: 09.02.2022 18:04:32 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 18
+[Before] Website-Cookies: [{'domain': '.unlimitedbrands.de', 'expiry': 1675962273, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'cPriettChptVzf-20220209170433'}, {'domain': '.unlimitedbrands.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220209170433-3PmR8PNnzQfwLVNnnccMPWLerptCElWgbwVy5auutEmS8IXC8'}, {'domain': '.unlimitedbrands.de', 'httpOnly': False, 'name': 'soundest-views', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.unlimitedbrands.de', 'expiry': 1644426323, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.unlimitedbrands.de', 'expiry': 1644512663, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1592336388.1644426264'}, {'domain': '.unlimitedbrands.de', 'expiry': 1644428063, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A04%3A23.634Z'}, {'domain': 'www.unlimitedbrands.de', 'expiry': 1645635862, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.unlimitedbrands.de', 'expiry': 1644428063, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '635c96c6-230a-4819-9846-593ae17e91bf'}, {'domain': '.unlimitedbrands.de', 'expiry': 1675962262, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e74efb24-7708-4f95-b4e5-7f23dcb5ea42'}, {'domain': '.unlimitedbrands.de', 'expiry': 1675962262, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e74efb24-7708-4f95-b4e5-7f23dcb5ea42'}, {'domain': '.unlimitedbrands.de', 'expiry': 1644428063, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.unlimitedbrands.de', 'expiry': 1675962262, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.unlimitedbrands.de', 'expiry': 1645635862, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.unlimitedbrands.de', 'expiry': 1644428063, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '635c96c6-230a-4819-9846-593ae17e91bf'}, {'domain': '.unlimitedbrands.de', 'expiry': 1707498263, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.636189161.1644426264'}, {'domain': '.unlimitedbrands.de', 'expiry': 1645635862, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.unlimitedbrands.de', 'expiry': 1644428073, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'tRG4sZC3QHUxjw-20220209170433'}, {'domain': 'www.unlimitedbrands.de', 'expiry': 1645635862, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}]
+[Before] Cookie-Name 1: omnisendAnonymousID
+[Before] Cookie-Name 2: soundestID
+[Before] Cookie-Name 3: soundest-views
+[Before] Cookie-Name 4: _gat
+[Before] Cookie-Name 5: _gid
+[Before] Cookie-Name 6: _shopify_sa_t
+[Before] Cookie-Name 7: localization
+[Before] Cookie-Name 8: _s
+[Before] Cookie-Name 9: _shopify_y
+[Before] Cookie-Name 10: _y
+[Before] Cookie-Name 11: _shopify_sa_p
+[Before] Cookie-Name 12: secure_customer_sig
+[Before] Cookie-Name 13: _orig_referrer
+[Before] Cookie-Name 14: _shopify_s
+[Before] Cookie-Name 15: _ga
+[Before] Cookie-Name 16: _landing_page
+[Before] Cookie-Name 17: omnisendSessionID
+[Before] Cookie-Name 18: cart_currency
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 19
+[After] Website-Cookies: [{'domain': '.unlimitedbrands.de', 'expiry': 1675962273, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'cPriettChptVzf-20220209170433'}, {'domain': '.unlimitedbrands.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220209170433-3PmR8PNnzQfwLVNnnccMPWLerptCElWgbwVy5auutEmS8IXC8'}, {'domain': '.unlimitedbrands.de', 'httpOnly': False, 'name': 'soundest-views', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.unlimitedbrands.de', 'expiry': 1644426323, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.unlimitedbrands.de', 'expiry': 1675962278, 'httpOnly': False, 'name': 'eg_cookieconsent_status', 'path': '/', 'secure': False, 'value': 'dismiss'}, {'domain': '.unlimitedbrands.de', 'expiry': 1644512663, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1592336388.1644426264'}, {'domain': '.unlimitedbrands.de', 'expiry': 1644428063, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A04%3A23.634Z'}, {'domain': 'www.unlimitedbrands.de', 'expiry': 1645635862, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.unlimitedbrands.de', 'expiry': 1644428063, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '635c96c6-230a-4819-9846-593ae17e91bf'}, {'domain': '.unlimitedbrands.de', 'expiry': 1675962262, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e74efb24-7708-4f95-b4e5-7f23dcb5ea42'}, {'domain': '.unlimitedbrands.de', 'expiry': 1675962262, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e74efb24-7708-4f95-b4e5-7f23dcb5ea42'}, {'domain': '.unlimitedbrands.de', 'expiry': 1644428063, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.unlimitedbrands.de', 'expiry': 1675962262, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.unlimitedbrands.de', 'expiry': 1645635862, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.unlimitedbrands.de', 'expiry': 1644428063, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '635c96c6-230a-4819-9846-593ae17e91bf'}, {'domain': '.unlimitedbrands.de', 'expiry': 1707498263, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.636189161.1644426264'}, {'domain': '.unlimitedbrands.de', 'expiry': 1645635862, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.unlimitedbrands.de', 'expiry': 1644428073, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'tRG4sZC3QHUxjw-20220209170433'}, {'domain': 'www.unlimitedbrands.de', 'expiry': 1645635862, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}]
+[After] Cookie-Name 1: omnisendAnonymousID
+[After] Cookie-Name 2: soundestID
+[After] Cookie-Name 3: soundest-views
+[After] Cookie-Name 4: _gat
+[After] Cookie-Name 5: eg_cookieconsent_status
+[After] Cookie-Name 6: _gid
+[After] Cookie-Name 7: _shopify_sa_t
+[After] Cookie-Name 8: localization
+[After] Cookie-Name 9: _s
+[After] Cookie-Name 10: _shopify_y
+[After] Cookie-Name 11: _y
+[After] Cookie-Name 12: _shopify_sa_p
+[After] Cookie-Name 13: secure_customer_sig
+[After] Cookie-Name 14: _orig_referrer
+[After] Cookie-Name 15: _shopify_s
+[After] Cookie-Name 16: _ga
+[After] Cookie-Name 17: _landing_page
+[After] Cookie-Name 18: omnisendSessionID
+[After] Cookie-Name 19: cart_currency
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: eg_cookieconsent_status
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

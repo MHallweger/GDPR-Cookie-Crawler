@@ -1,0 +1,59 @@
+Website 379: http://www.tacatuca.de/ | Created: 09.02.2022 19:05:53 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 4
+[Before] Website-Cookies: [{'domain': '.tacatuca.de', 'expiry': 1645639543, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.tacatuca.de', 'expiry': 1645639543, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.tacatuca.de', 'expiry': 1645639543, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.tacatuca.de', 'expiry': 1675965943, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _orig_referrer
+[Before] Cookie-Name 2: cart_currency
+[Before] Cookie-Name 3: _landing_page
+[Before] Cookie-Name 4: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 16
+[After] Website-Cookies: [{'domain': '.tacatuca.de', 'expiry': 1644430019, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.tacatuca.de', 'expiry': 1644516359, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.742135685.1644429959'}, {'domain': '.tacatuca.de', 'expiry': 1707501959, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.733020841.1644429959'}, {'domain': '.tacatuca.de', 'expiry': 1652205959, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644429959355.2022730069'}, {'domain': 'www.tacatuca.de', 'expiry': 1647021959, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0NDI5OTU5MTMxLCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjoxfX0='}, {'domain': 'www.tacatuca.de', 'httpOnly': False, 'name': '_privy_50FC05FFC7479A8D2F19224B', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22uuid%22%3A%22a1341018-0a57-466b-bdbd-dbf554dd2a9b%22%7D'}, {'domain': 'www.tacatuca.de', 'expiry': 1675965959, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b39223da-5058-426e-a6f5-06301c59affc'}, {'domain': 'www.tacatuca.de', 'expiry': 1675965959, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b39223da-5058-426e-a6f5-06301c59affc'}, {'domain': 'www.tacatuca.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '17b5f210-85d8-4822-955b-5a110d686a3c'}, {'domain': '.tacatuca.de', 'expiry': 1645639543, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.tacatuca.de', 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'www.tacatuca.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T18%3A05%3A44.747Z'}, {'domain': 'www.tacatuca.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '17b5f210-85d8-4822-955b-5a110d686a3c'}, {'domain': 'www.tacatuca.de', 'expiry': 1645639543, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.tacatuca.de', 'expiry': 1645639543, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.tacatuca.de', 'expiry': 1675965943, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _gat
+[After] Cookie-Name 2: _gid
+[After] Cookie-Name 3: _ga
+[After] Cookie-Name 4: _fbp
+[After] Cookie-Name 5: _bc_c_set
+[After] Cookie-Name 6: _privy_50FC05FFC7479A8D2F19224B
+[After] Cookie-Name 7: _y
+[After] Cookie-Name 8: _shopify_y
+[After] Cookie-Name 9: _shopify_s
+[After] Cookie-Name 10: _orig_referrer
+[After] Cookie-Name 11: localization
+[After] Cookie-Name 12: _shopify_sa_t
+[After] Cookie-Name 13: _s
+[After] Cookie-Name 14: cart_currency
+[After] Cookie-Name 15: _landing_page
+[After] Cookie-Name 16: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 12
+[Difference] Cookie-Name: 1: localization
+[Difference] Cookie-Name: 2: _gid
+[Difference] Cookie-Name: 3: _gat
+[Difference] Cookie-Name: 4: _shopify_y
+[Difference] Cookie-Name: 5: _fbp
+[Difference] Cookie-Name: 6: _s
+[Difference] Cookie-Name: 7: _shopify_s
+[Difference] Cookie-Name: 8: _ga
+[Difference] Cookie-Name: 9: _y
+[Difference] Cookie-Name: 10: _shopify_sa_t
+[Difference] Cookie-Name: 11: _privy_50FC05FFC7479A8D2F19224B
+[Difference] Cookie-Name: 12: _bc_c_set
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

@@ -1,0 +1,83 @@
+Website 114: http://www.shoesnow.de/ | Created: 09.02.2022 20:08:19 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 12
+[Before] Website-Cookies: [{'domain': 'www.shoesnow.de', 'expiry': 1645643291, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': '.shoesnow.de', 'expiry': 1645643289, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.shoesnow.de', 'expiry': 1675969689, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': 'www.shoesnow.de', 'expiry': 1645643291, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644433691'}, {'domain': 'www.shoesnow.de', 'expiry': 1645643291, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '183c8ee4952d9d26d74d9471c8621f2c'}, {'domain': '.shoesnow.de', 'expiry': 1644435491, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.shoesnow.de', 'expiry': 1675969691, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'www.shoesnow.de', 'expiry': 1645643291, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '65bd2086c1f98bdae945c2158e944e1d'}, {'domain': '.shoesnow.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.shoesnow.de', 'expiry': 1675969689, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%7D'}, {'domain': '.shoesnow.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.shoesnow.de', 'expiry': 1645643291, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}]
+[Before] Cookie-Name 1: cart_ver
+[Before] Cookie-Name 2: _shopify_tw
+[Before] Cookie-Name 3: _shopify_m
+[Before] Cookie-Name 4: cart_ts
+[Before] Cookie-Name 5: cart
+[Before] Cookie-Name 6: _shopify_tm
+[Before] Cookie-Name 7: secure_customer_sig
+[Before] Cookie-Name 8: cart_sig
+[Before] Cookie-Name 9: _orig_referrer
+[Before] Cookie-Name 10: _tracking_consent
+[Before] Cookie-Name 11: _landing_page
+[Before] Cookie-Name 12: cart_currency
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 31
+[After] Website-Cookies: [{'domain': '.shoesnow.de', 'expiry': 1644433765, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.shoesnow.de', 'expiry': 1644435505, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd08af90e-8f39-48ec-8374-85f2029f4c51'}, {'domain': '.shoesnow.de', 'expiry': 1675969705, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '521eb310-f983-4249-85c3-a3bbb411aa38'}, {'domain': '.shoesnow.de', 'expiry': 1644435505, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd08af90e-8f39-48ec-8374-85f2029f4c51'}, {'domain': '.shoesnow.de', 'expiry': 1644435505, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A08%3A09.897Z'}, {'domain': 'www.shoesnow.de', 'expiry': 1647025705, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0NDMzNzA1MTYwLCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjoxfX0='}, {'domain': 'www.shoesnow.de', 'expiry': 1645643291, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '183c8ee4952d9d26d74d9471c8621f2c'}, {'domain': 'www.shoesnow.de', 'expiry': 1645643305, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'www.shoesnow.de', 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'pending'}, {'domain': 'www.shoesnow.de', 'expiry': 1644435505, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A08%3A09.897Z'}, {'domain': 'www.shoesnow.de', 'expiry': 1644435505, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd08af90e-8f39-48ec-8374-85f2029f4c51'}, {'domain': 'www.shoesnow.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.shoesnow.de', 'expiry': 1675969705, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '521eb310-f983-4249-85c3-a3bbb411aa38'}, {'domain': 'www.shoesnow.de', 'expiry': 1675969705, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '521eb310-f983-4249-85c3-a3bbb411aa38'}, {'domain': 'www.shoesnow.de', 'expiry': 1644435505, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd08af90e-8f39-48ec-8374-85f2029f4c51'}, {'domain': 'www.shoesnow.de', 'expiry': 1645643305, 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A08%3A09.888Z'}, {'domain': 'www.shoesnow.de', 'expiry': 1645643291, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': 'www.shoesnow.de', 'expiry': 1675969705, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.shoesnow.de', 'expiry': 1675969705, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': 'www.shoesnow.de', 'expiry': 1645643305, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '65bd2086c1f98bdae945c2158e944e1d'}, {'domain': 'www.shoesnow.de', 'expiry': 1645643305, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.shoesnow.de', 'expiry': 1645643289, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.shoesnow.de', 'expiry': 1645643291, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644433691'}, {'domain': 'www.shoesnow.de', 'expiry': 1675969705, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '521eb310-f983-4249-85c3-a3bbb411aa38'}, {'domain': '.shoesnow.de', 'expiry': 1675969705, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%221%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': '.shoesnow.de', 'expiry': 1644435505, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.shoesnow.de', 'expiry': 1644520105, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.781412489.1644433706'}, {'domain': '.shoesnow.de', 'expiry': 1645643305, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.shoesnow.de', 'expiry': 1707505705, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1847590492.1644433706'}, {'domain': '.shoesnow.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.shoesnow.de', 'expiry': 1645643305, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: _gat
+[After] Cookie-Name 2: _shopify_s
+[After] Cookie-Name 3: _shopify_y
+[After] Cookie-Name 4: _s
+[After] Cookie-Name 5: _shopify_sa_t
+[After] Cookie-Name 6: _bc_c_set
+[After] Cookie-Name 7: cart
+[After] Cookie-Name 8: localization
+[After] Cookie-Name 9: shopify_pay_redirect
+[After] Cookie-Name 10: _shopify_sa_t
+[After] Cookie-Name 11: _shopify_s
+[After] Cookie-Name 12: _shopify_evids
+[After] Cookie-Name 13: _y
+[After] Cookie-Name 14: _y
+[After] Cookie-Name 15: _s
+[After] Cookie-Name 16: _shopify_d
+[After] Cookie-Name 17: cart_ver
+[After] Cookie-Name 18: secure_customer_sig
+[After] Cookie-Name 19: _shopify_m
+[After] Cookie-Name 20: cart_sig
+[After] Cookie-Name 21: cart_currency
+[After] Cookie-Name 22: _shopify_tw
+[After] Cookie-Name 23: cart_ts
+[After] Cookie-Name 24: _shopify_y
+[After] Cookie-Name 25: _tracking_consent
+[After] Cookie-Name 26: _shopify_tm
+[After] Cookie-Name 27: _gid
+[After] Cookie-Name 28: _landing_page
+[After] Cookie-Name 29: _ga
+[After] Cookie-Name 30: _shopify_evids
+[After] Cookie-Name 31: _orig_referrer
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 13
+[Difference] Cookie-Name: 1: localization
+[Difference] Cookie-Name: 2: _y
+[Difference] Cookie-Name: 3: _shopify_s
+[Difference] Cookie-Name: 4: _shopify_evids
+[Difference] Cookie-Name: 5: _shopify_d
+[Difference] Cookie-Name: 6: _shopify_y
+[Difference] Cookie-Name: 7: _gid
+[Difference] Cookie-Name: 8: _bc_c_set
+[Difference] Cookie-Name: 9: _shopify_sa_t
+[Difference] Cookie-Name: 10: _ga
+[Difference] Cookie-Name: 11: _gat
+[Difference] Cookie-Name: 12: shopify_pay_redirect
+[Difference] Cookie-Name: 13: _s
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

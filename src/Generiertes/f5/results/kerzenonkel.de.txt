@@ -1,0 +1,86 @@
+Website 237: http://www.kerzenonkel.de/ | Created: 09.02.2022 20:48:29 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 25
+[Before] Website-Cookies: [{'domain': 'kerzenonkel.de', 'expiry': 1644437901, 'httpOnly': False, 'name': 'dynamic_checkout_shown_on_cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'kerzenonkel.de', 'expiry': 1645645700, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A2'}, {'domain': 'kerzenonkel.de', 'expiry': 1645645700, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb046bccde052e32c25803d5ef7c3e1b'}, {'domain': '.kerzenonkel.de', 'expiry': 1675972098, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU1XVmpNamN3WXpBdE1HRm1ZUzAwTkdVMUxXRTNaVGd0T1dKak9UaGpaamswT0RaaA'}, {'domain': 'kerzenonkel.de', 'expiry': 1644976099, 'httpOnly': False, 'name': 'cbuid_meta', 'path': '/', 'secure': False, 'value': '{"referrer":"","href":"https://kerzenonkel.de/"}'}, {'domain': '.kerzenonkel.de', 'expiry': 1652212098, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644436098258.649770736'}, {'domain': '.kerzenonkel.de', 'expiry': 1660085298, 'httpOnly': False, 'name': 'sib_cuid', 'path': '/', 'secure': False, 'value': 'b797a268-886e-41c0-bfa5-3d9dc9a27864'}, {'domain': '.kerzenonkel.de', 'expiry': 1644522497, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1324673784.1644436098'}, {'domain': '.kerzenonkel.de', 'expiry': 1707508097, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.78849630.1644436098'}, {'domain': '.kerzenonkel.de', 'expiry': 1652212097, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.573430893.1644436098'}, {'domain': '.kerzenonkel.de', 'expiry': 1644437897, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kerzenonkel.de', 'expiry': 1644437897, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A48%3A17.863Z'}, {'domain': '.kerzenonkel.de', 'expiry': 1644437901, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '61916ccc-cd7c-45de-b19e-95b55613575b'}, {'domain': 'kerzenonkel.de', 'expiry': 1644436700, 'httpOnly': False, 'name': 'unique_interaction_id', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8bd485bf-8cd3-43e8-8eda-1877fd4b5636'}, {'domain': '.kerzenonkel.de', 'expiry': 1675972101, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '55ef3c22-431b-4b40-9642-faa28a55eed6'}, {'domain': '.kerzenonkel.de', 'expiry': 1644437901, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '61916ccc-cd7c-45de-b19e-95b55613575b'}, {'domain': 'kerzenonkel.de', 'expiry': 1645645700, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '81c5bcb74af5220e86a4a4adc4ed2a94'}, {'domain': '.kerzenonkel.de', 'expiry': 1675972101, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '55ef3c22-431b-4b40-9642-faa28a55eed6'}, {'domain': 'kerzenonkel.de', 'expiry': 1675972101, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.kerzenonkel.de', 'expiry': 1644436157, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'kerzenonkel.de', 'expiry': 1645645701, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.kerzenonkel.de', 'expiry': 1645645697, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'kerzenonkel.de', 'expiry': 1645645700, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644436100'}, {'domain': '.kerzenonkel.de', 'expiry': 1645645697, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'kerzenonkel.de', 'expiry': 1645645701, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[Before] Cookie-Name 1: dynamic_checkout_shown_on_cart
+[Before] Cookie-Name 2: cart_ver
+[Before] Cookie-Name 3: cart
+[Before] Cookie-Name 4: _pin_unauth
+[Before] Cookie-Name 5: cbuid_meta
+[Before] Cookie-Name 6: _fbp
+[Before] Cookie-Name 7: sib_cuid
+[Before] Cookie-Name 8: _gid
+[Before] Cookie-Name 9: _ga
+[Before] Cookie-Name 10: _gcl_au
+[Before] Cookie-Name 11: _shopify_sa_p
+[Before] Cookie-Name 12: _shopify_sa_t
+[Before] Cookie-Name 13: _shopify_s
+[Before] Cookie-Name 14: unique_interaction_id
+[Before] Cookie-Name 15: _shopify_y
+[Before] Cookie-Name 16: _s
+[Before] Cookie-Name 17: cart_sig
+[Before] Cookie-Name 18: _y
+[Before] Cookie-Name 19: secure_customer_sig
+[Before] Cookie-Name 20: _gat
+[Before] Cookie-Name 21: cart_currency
+[Before] Cookie-Name 22: _landing_page
+[Before] Cookie-Name 23: cart_ts
+[Before] Cookie-Name 24: _orig_referrer
+[Before] Cookie-Name 25: localization
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 25
+[After] Website-Cookies: [{'domain': 'kerzenonkel.de', 'expiry': 1644437901, 'httpOnly': False, 'name': 'dynamic_checkout_shown_on_cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'kerzenonkel.de', 'expiry': 1645645700, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A2'}, {'domain': 'kerzenonkel.de', 'expiry': 1645645700, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb046bccde052e32c25803d5ef7c3e1b'}, {'domain': '.kerzenonkel.de', 'expiry': 1675972098, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU1XVmpNamN3WXpBdE1HRm1ZUzAwTkdVMUxXRTNaVGd0T1dKak9UaGpaamswT0RaaA'}, {'domain': 'kerzenonkel.de', 'expiry': 1644976099, 'httpOnly': False, 'name': 'cbuid_meta', 'path': '/', 'secure': False, 'value': '{"referrer":"","href":"https://kerzenonkel.de/"}'}, {'domain': '.kerzenonkel.de', 'expiry': 1652212098, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644436098258.649770736'}, {'domain': '.kerzenonkel.de', 'expiry': 1660085298, 'httpOnly': False, 'name': 'sib_cuid', 'path': '/', 'secure': False, 'value': 'b797a268-886e-41c0-bfa5-3d9dc9a27864'}, {'domain': '.kerzenonkel.de', 'expiry': 1644522497, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1324673784.1644436098'}, {'domain': '.kerzenonkel.de', 'expiry': 1707508097, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.78849630.1644436098'}, {'domain': '.kerzenonkel.de', 'expiry': 1652212097, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.573430893.1644436098'}, {'domain': '.kerzenonkel.de', 'expiry': 1644437897, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kerzenonkel.de', 'expiry': 1644437897, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A48%3A17.863Z'}, {'domain': '.kerzenonkel.de', 'expiry': 1644437901, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '61916ccc-cd7c-45de-b19e-95b55613575b'}, {'domain': 'kerzenonkel.de', 'expiry': 1644436700, 'httpOnly': False, 'name': 'unique_interaction_id', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8bd485bf-8cd3-43e8-8eda-1877fd4b5636'}, {'domain': '.kerzenonkel.de', 'expiry': 1675972101, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '55ef3c22-431b-4b40-9642-faa28a55eed6'}, {'domain': '.kerzenonkel.de', 'expiry': 1644437901, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '61916ccc-cd7c-45de-b19e-95b55613575b'}, {'domain': 'kerzenonkel.de', 'expiry': 1645645700, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '81c5bcb74af5220e86a4a4adc4ed2a94'}, {'domain': '.kerzenonkel.de', 'expiry': 1675972101, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '55ef3c22-431b-4b40-9642-faa28a55eed6'}, {'domain': 'kerzenonkel.de', 'expiry': 1675972101, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.kerzenonkel.de', 'expiry': 1644436157, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'kerzenonkel.de', 'expiry': 1645645701, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.kerzenonkel.de', 'expiry': 1645645697, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'kerzenonkel.de', 'expiry': 1645645700, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644436100'}, {'domain': '.kerzenonkel.de', 'expiry': 1645645697, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'kerzenonkel.de', 'expiry': 1645645701, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[After] Cookie-Name 1: dynamic_checkout_shown_on_cart
+[After] Cookie-Name 2: cart_ver
+[After] Cookie-Name 3: cart
+[After] Cookie-Name 4: _pin_unauth
+[After] Cookie-Name 5: cbuid_meta
+[After] Cookie-Name 6: _fbp
+[After] Cookie-Name 7: sib_cuid
+[After] Cookie-Name 8: _gid
+[After] Cookie-Name 9: _ga
+[After] Cookie-Name 10: _gcl_au
+[After] Cookie-Name 11: _shopify_sa_p
+[After] Cookie-Name 12: _shopify_sa_t
+[After] Cookie-Name 13: _shopify_s
+[After] Cookie-Name 14: unique_interaction_id
+[After] Cookie-Name 15: _shopify_y
+[After] Cookie-Name 16: _s
+[After] Cookie-Name 17: cart_sig
+[After] Cookie-Name 18: _y
+[After] Cookie-Name 19: secure_customer_sig
+[After] Cookie-Name 20: _gat
+[After] Cookie-Name 21: cart_currency
+[After] Cookie-Name 22: _landing_page
+[After] Cookie-Name 23: cart_ts
+[After] Cookie-Name 24: _orig_referrer
+[After] Cookie-Name 25: localization
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _gat (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

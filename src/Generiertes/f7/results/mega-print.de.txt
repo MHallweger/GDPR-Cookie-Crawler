@@ -1,0 +1,66 @@
+Website 102: http://www.mega-print.de/ | Created: 10.02.2022 17:49:18 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 16
+[Before] Website-Cookies: [{'domain': '.mega-print.de', 'expiry': 1652287749, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1375825041.1644511749'}, {'domain': '.mega-print.de', 'expiry': 1644511809, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'mega-print.de', 'expiry': 1644515349, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.mega-print.de', 'expiry': 1644598149, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.73227949.1644511749'}, {'domain': '.mega-print.de', 'expiry': 1707583749, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.32075684.1644511749'}, {'domain': '.mega-print.de', 'expiry': 1644513551, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e7e51d21-75d1-41ff-bc97-5b1035e856f0'}, {'domain': '.mega-print.de', 'expiry': 1644513551, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e7e51d21-75d1-41ff-bc97-5b1035e856f0'}, {'domain': '.mega-print.de', 'expiry': 1645721348, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.mega-print.de', 'expiry': 1676047751, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2eca2ed9-4542-4d06-99fc-66d3d72b4622'}, {'domain': '.mega-print.de', 'expiry': 1644513549, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T16%3A49%3A09.077Z'}, {'domain': '.mega-print.de', 'expiry': 1676047751, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2eca2ed9-4542-4d06-99fc-66d3d72b4622'}, {'domain': '.mega-print.de', 'expiry': 1645721348, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.mega-print.de', 'expiry': 1644513549, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'mega-print.de', 'expiry': 1676047751, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'mega-print.de', 'expiry': 1645721351, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'mega-print.de', 'expiry': 1645721351, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[Before] Cookie-Name 1: _gcl_au
+[Before] Cookie-Name 2: _gat
+[Before] Cookie-Name 3: shopify_pay_redirect
+[Before] Cookie-Name 4: _gid
+[Before] Cookie-Name 5: _ga
+[Before] Cookie-Name 6: _s
+[Before] Cookie-Name 7: _shopify_s
+[Before] Cookie-Name 8: _orig_referrer
+[Before] Cookie-Name 9: _shopify_y
+[Before] Cookie-Name 10: _shopify_sa_t
+[Before] Cookie-Name 11: _y
+[Before] Cookie-Name 12: _landing_page
+[Before] Cookie-Name 13: _shopify_sa_p
+[Before] Cookie-Name 14: secure_customer_sig
+[Before] Cookie-Name 15: cart_currency
+[Before] Cookie-Name 16: localization
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 16
+[After] Website-Cookies: [{'domain': '.mega-print.de', 'expiry': 1652287749, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1375825041.1644511749'}, {'domain': '.mega-print.de', 'expiry': 1644511809, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'mega-print.de', 'expiry': 1644515349, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.mega-print.de', 'expiry': 1644598149, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.73227949.1644511749'}, {'domain': '.mega-print.de', 'expiry': 1707583749, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.32075684.1644511749'}, {'domain': '.mega-print.de', 'expiry': 1644513551, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e7e51d21-75d1-41ff-bc97-5b1035e856f0'}, {'domain': '.mega-print.de', 'expiry': 1644513551, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e7e51d21-75d1-41ff-bc97-5b1035e856f0'}, {'domain': '.mega-print.de', 'expiry': 1645721348, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.mega-print.de', 'expiry': 1676047751, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2eca2ed9-4542-4d06-99fc-66d3d72b4622'}, {'domain': '.mega-print.de', 'expiry': 1644513549, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T16%3A49%3A09.077Z'}, {'domain': '.mega-print.de', 'expiry': 1676047751, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2eca2ed9-4542-4d06-99fc-66d3d72b4622'}, {'domain': '.mega-print.de', 'expiry': 1645721348, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.mega-print.de', 'expiry': 1644513549, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'mega-print.de', 'expiry': 1676047751, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'mega-print.de', 'expiry': 1645721351, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'mega-print.de', 'expiry': 1645721351, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[After] Cookie-Name 1: _gcl_au
+[After] Cookie-Name 2: _gat
+[After] Cookie-Name 3: shopify_pay_redirect
+[After] Cookie-Name 4: _gid
+[After] Cookie-Name 5: _ga
+[After] Cookie-Name 6: _s
+[After] Cookie-Name 7: _shopify_s
+[After] Cookie-Name 8: _orig_referrer
+[After] Cookie-Name 9: _shopify_y
+[After] Cookie-Name 10: _shopify_sa_t
+[After] Cookie-Name 11: _y
+[After] Cookie-Name 12: _landing_page
+[After] Cookie-Name 13: _shopify_sa_p
+[After] Cookie-Name 14: secure_customer_sig
+[After] Cookie-Name 15: cart_currency
+[After] Cookie-Name 16: localization
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

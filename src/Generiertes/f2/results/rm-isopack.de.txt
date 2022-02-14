@@ -1,0 +1,96 @@
+Website 128: http://www.rm-isopack.de/ | Created: 09.02.2022 11:24:50 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 29
+[Before] Website-Cookies: [{'domain': 'rm-isopack.de', 'httpOnly': False, 'name': 'optiMonkSession', 'path': '/', 'secure': False, 'value': '1644402282'}, {'domain': 'rm-isopack.de', 'expiry': 1675938282, 'httpOnly': False, 'name': 'optiMonkClient', 'path': '/', 'secure': False, 'value': 'N4IgjAzAnALAbFEAuUBjAhs0BWLJ2oAuyADADT4AOlpFqATsiHGHAOwBmHErMqJ6KCRJhUHAEwk2AIwAcICgDsA9gBNaIAM5MAlop3EAvoYocAbsl4wYJceNniKAGwtIrNuw6XLKrsMaA==='}, {'domain': 'rm-isopack.de', 'expiry': 1645611882, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bcd90d9ba363a4bbffba0231899b0171'}, {'domain': 'rm-isopack.de', 'expiry': 1645611882, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644402282'}, {'domain': 'rm-isopack.de', 'expiry': 1645611882, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1c77f70a19f2354ccab2098f6a207068'}, {'domain': '.rm-isopack.de', 'expiry': 1644404081, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'rm-isopack.de', 'expiry': 1644402401, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.rm-isopack.de', 'expiry': 1675938282, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1b9283a3-4d10-42be-bbd6-e809dfc45085'}, {'domain': '.rm-isopack.de', 'expiry': 1644404081, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.rm-isopack.de', 'expiry': 1675938281, 'httpOnly': False, 'name': '_hjSessionUser_2425850', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjBlNTIyNWM4LTQyZWQtNTUwNi1hOGJjLTBjN2ZjMDUzNjA2MiIsImNyZWF0ZWQiOjE2NDQ0MDIyODE2MjIsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': 'rm-isopack.de', 'expiry': 1645611882, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': '.rm-isopack.de', 'expiry': 1645611880, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'rm-isopack.de', 'expiry': 1644405881, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.rm-isopack.de', 'expiry': 1645611880, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.rm-isopack.de', 'expiry': 1644404081, 'httpOnly': False, 'name': '_hjSession_2425850', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjRiYTY3ODMyLWFjYWItNDRmMy05OTQ0LTA5ZDk1NTFmZWFhOCIsImNyZWF0ZWQiOjE2NDQ0MDIyODE2MjgsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': '.rm-isopack.de', 'expiry': 1652178281, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.80327033.1644402281'}, {'domain': '.rm-isopack.de', 'expiry': 1644402341, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'rm-isopack.de', 'expiry': 1645611882, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.rm-isopack.de', 'expiry': 1644488681, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.120799172.1644402281'}, {'domain': '.rm-isopack.de', 'expiry': 1707474281, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.896592116.1644402281'}, {'domain': 'rm-isopack.de', 'expiry': 1644402401, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.rm-isopack.de', 'expiry': 1644404080, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.rm-isopack.de', 'expiry': 1644404080, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A24%3A40.984Z'}, {'domain': '.rm-isopack.de', 'expiry': 1644404082, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eb62e1b1-8260-47ba-8497-cbb0783c0e4a'}, {'domain': 'rm-isopack.de', 'expiry': 1675938282, 'httpOnly': False, 'name': 'optiMonkClientId', 'path': '/', 'secure': False, 'value': '08a5f694-1756-3d49-a51e-230cfc55211a'}, {'domain': '.rm-isopack.de', 'expiry': 1675938282, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1b9283a3-4d10-42be-bbd6-e809dfc45085'}, {'domain': 'rm-isopack.de', 'expiry': 1675938282, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.rm-isopack.de', 'expiry': 1644404082, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eb62e1b1-8260-47ba-8497-cbb0783c0e4a'}, {'domain': 'rm-isopack.de', 'expiry': 1645611882, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[Before] Cookie-Name 1: optiMonkSession
+[Before] Cookie-Name 2: optiMonkClient
+[Before] Cookie-Name 3: cart_sig
+[Before] Cookie-Name 4: cart_ts
+[Before] Cookie-Name 5: cart
+[Before] Cookie-Name 6: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 7: _hjIncludedInPageviewSample
+[Before] Cookie-Name 8: _y
+[Before] Cookie-Name 9: _hjFirstSeen
+[Before] Cookie-Name 10: _hjSessionUser_2425850
+[Before] Cookie-Name 11: cart_ver
+[Before] Cookie-Name 12: _orig_referrer
+[Before] Cookie-Name 13: shopify_pay_redirect
+[Before] Cookie-Name 14: _landing_page
+[Before] Cookie-Name 15: _hjSession_2425850
+[Before] Cookie-Name 16: _gcl_au
+[Before] Cookie-Name 17: _gat
+[Before] Cookie-Name 18: cart_currency
+[Before] Cookie-Name 19: _gid
+[Before] Cookie-Name 20: _ga
+[Before] Cookie-Name 21: _hjIncludedInSessionSample
+[Before] Cookie-Name 22: _shopify_sa_p
+[Before] Cookie-Name 23: _shopify_sa_t
+[Before] Cookie-Name 24: _s
+[Before] Cookie-Name 25: optiMonkClientId
+[Before] Cookie-Name 26: _shopify_y
+[Before] Cookie-Name 27: secure_customer_sig
+[Before] Cookie-Name 28: _shopify_s
+[Before] Cookie-Name 29: localization
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 29
+[After] Website-Cookies: [{'domain': 'rm-isopack.de', 'httpOnly': False, 'name': 'optiMonkSession', 'path': '/', 'secure': False, 'value': '1644402282'}, {'domain': 'rm-isopack.de', 'expiry': 1675938282, 'httpOnly': False, 'name': 'optiMonkClient', 'path': '/', 'secure': False, 'value': 'N4IgjAzAnALAbFEAuUBjAhs0BWLJ2oAuyADADT4AOlpFqATsiHGHAOwBmHErMqJ6KCRJhUHAEwk2AIwAcICgDsA9gBNaIAM5MAlop3EAvoYocAbsl4wYJceNniKAGwtIrNuw6XLKrsMaA==='}, {'domain': 'rm-isopack.de', 'expiry': 1645611882, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bcd90d9ba363a4bbffba0231899b0171'}, {'domain': 'rm-isopack.de', 'expiry': 1645611882, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644402282'}, {'domain': 'rm-isopack.de', 'expiry': 1645611882, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1c77f70a19f2354ccab2098f6a207068'}, {'domain': '.rm-isopack.de', 'expiry': 1644404081, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'rm-isopack.de', 'expiry': 1644402401, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.rm-isopack.de', 'expiry': 1675938282, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1b9283a3-4d10-42be-bbd6-e809dfc45085'}, {'domain': '.rm-isopack.de', 'expiry': 1644404081, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.rm-isopack.de', 'expiry': 1675938281, 'httpOnly': False, 'name': '_hjSessionUser_2425850', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjBlNTIyNWM4LTQyZWQtNTUwNi1hOGJjLTBjN2ZjMDUzNjA2MiIsImNyZWF0ZWQiOjE2NDQ0MDIyODE2MjIsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': 'rm-isopack.de', 'expiry': 1645611882, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': '.rm-isopack.de', 'expiry': 1645611880, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'rm-isopack.de', 'expiry': 1644405881, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.rm-isopack.de', 'expiry': 1645611880, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.rm-isopack.de', 'expiry': 1644404081, 'httpOnly': False, 'name': '_hjSession_2425850', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjRiYTY3ODMyLWFjYWItNDRmMy05OTQ0LTA5ZDk1NTFmZWFhOCIsImNyZWF0ZWQiOjE2NDQ0MDIyODE2MjgsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': '.rm-isopack.de', 'expiry': 1652178281, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.80327033.1644402281'}, {'domain': '.rm-isopack.de', 'expiry': 1644402341, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'rm-isopack.de', 'expiry': 1645611882, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.rm-isopack.de', 'expiry': 1644488681, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.120799172.1644402281'}, {'domain': '.rm-isopack.de', 'expiry': 1707474281, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.896592116.1644402281'}, {'domain': 'rm-isopack.de', 'expiry': 1644402401, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.rm-isopack.de', 'expiry': 1644404080, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.rm-isopack.de', 'expiry': 1644404080, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A24%3A40.984Z'}, {'domain': '.rm-isopack.de', 'expiry': 1644404082, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eb62e1b1-8260-47ba-8497-cbb0783c0e4a'}, {'domain': 'rm-isopack.de', 'expiry': 1675938282, 'httpOnly': False, 'name': 'optiMonkClientId', 'path': '/', 'secure': False, 'value': '08a5f694-1756-3d49-a51e-230cfc55211a'}, {'domain': '.rm-isopack.de', 'expiry': 1675938282, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1b9283a3-4d10-42be-bbd6-e809dfc45085'}, {'domain': 'rm-isopack.de', 'expiry': 1675938282, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.rm-isopack.de', 'expiry': 1644404082, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eb62e1b1-8260-47ba-8497-cbb0783c0e4a'}, {'domain': 'rm-isopack.de', 'expiry': 1645611882, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[After] Cookie-Name 1: optiMonkSession
+[After] Cookie-Name 2: optiMonkClient
+[After] Cookie-Name 3: cart_sig
+[After] Cookie-Name 4: cart_ts
+[After] Cookie-Name 5: cart
+[After] Cookie-Name 6: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 7: _hjIncludedInPageviewSample
+[After] Cookie-Name 8: _y
+[After] Cookie-Name 9: _hjFirstSeen
+[After] Cookie-Name 10: _hjSessionUser_2425850
+[After] Cookie-Name 11: cart_ver
+[After] Cookie-Name 12: _orig_referrer
+[After] Cookie-Name 13: shopify_pay_redirect
+[After] Cookie-Name 14: _landing_page
+[After] Cookie-Name 15: _hjSession_2425850
+[After] Cookie-Name 16: _gcl_au
+[After] Cookie-Name 17: _gat
+[After] Cookie-Name 18: cart_currency
+[After] Cookie-Name 19: _gid
+[After] Cookie-Name 20: _ga
+[After] Cookie-Name 21: _hjIncludedInSessionSample
+[After] Cookie-Name 22: _shopify_sa_p
+[After] Cookie-Name 23: _shopify_sa_t
+[After] Cookie-Name 24: _s
+[After] Cookie-Name 25: optiMonkClientId
+[After] Cookie-Name 26: _shopify_y
+[After] Cookie-Name 27: secure_customer_sig
+[After] Cookie-Name 28: _shopify_s
+[After] Cookie-Name 29: localization
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjIncludedInPageviewSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _hjIncludedInSessionSample (Hotjar (User experience tool))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

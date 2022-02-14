@@ -1,0 +1,65 @@
+Website 309: http://www.harpercollins.de/ | Created: 09.02.2022 18:44:28 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 16
+[Before] Website-Cookies: [{'domain': 'www.harpercollins.de', 'expiry': 1802108659, 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'secure': True, 'value': '8e281ece-8a3c-42e1-ab77-0dc6bdd0ba6e'}, {'domain': '.harpercollins.de', 'expiry': 1675964659, 'httpOnly': False, 'name': 'OptanonConsent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'isIABGlobal=false&datestamp=Wed+Feb+09+2022+18%3A44%3A19+GMT%2B0100+(Mitteleurop%C3%A4ische+Normalzeit)&version=6.22.0&landingPath=https%3A%2F%2Fwww.harpercollins.de%2F&groups=1%3A1%2C101%3A0%2C2%3A0%2C102%3A0%2C3%3A0%2C4%3A0%2C0_292323%3A1%2C0_292324%3A0%2C8%3A0%2C104%3A0'}, {'domain': '.harpercollins.de', 'expiry': 1644430459, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.harpercollins.de', 'expiry': 1644428717, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.harpercollins.de', 'expiry': 1644430459, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A44%3A19.365Z'}, {'domain': 'www.harpercollins.de', 'httpOnly': False, 'name': 'snize-recommendation', 'path': '/', 'secure': False, 'value': 'ephov5rtki'}, {'domain': '.harpercollins.de', 'expiry': 1644515057, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.639084478.1644428658'}, {'domain': '.harpercollins.de', 'expiry': 1644430459, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e486580a-3b5b-49df-9606-acc1c06effd0'}, {'domain': '.harpercollins.de', 'expiry': 1644430459, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e486580a-3b5b-49df-9606-acc1c06effd0'}, {'domain': '.harpercollins.de', 'expiry': 1645638256, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.harpercollins.de', 'expiry': 1675964656, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '35240ca9-6c48-419f-af1d-f5a97bd15e42'}, {'domain': '.harpercollins.de', 'expiry': 1707500657, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1361644246.1644428658'}, {'domain': 'www.harpercollins.de', 'expiry': 1644430459, 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'secure': True, 'value': '933423a0-cbb7-4c20-85bc-d9d2c75e59dd'}, {'domain': '.harpercollins.de', 'expiry': 1645638256, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.harpercollins.de', 'expiry': 1675964656, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '35240ca9-6c48-419f-af1d-f5a97bd15e42'}, {'domain': 'www.harpercollins.de', 'expiry': 1675964655, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _shg_user_id
+[Before] Cookie-Name 2: OptanonConsent
+[Before] Cookie-Name 3: _shopify_sa_p
+[Before] Cookie-Name 4: _gat
+[Before] Cookie-Name 5: _shopify_sa_t
+[Before] Cookie-Name 6: snize-recommendation
+[Before] Cookie-Name 7: _gid
+[Before] Cookie-Name 8: _s
+[Before] Cookie-Name 9: _shopify_s
+[Before] Cookie-Name 10: _landing_page
+[Before] Cookie-Name 11: _y
+[Before] Cookie-Name 12: _ga
+[Before] Cookie-Name 13: _shg_session_id
+[Before] Cookie-Name 14: _orig_referrer
+[Before] Cookie-Name 15: _shopify_y
+[Before] Cookie-Name 16: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 16
+[After] Website-Cookies: [{'domain': 'www.harpercollins.de', 'expiry': 1802108659, 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'secure': True, 'value': '8e281ece-8a3c-42e1-ab77-0dc6bdd0ba6e'}, {'domain': '.harpercollins.de', 'expiry': 1675964659, 'httpOnly': False, 'name': 'OptanonConsent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'isIABGlobal=false&datestamp=Wed+Feb+09+2022+18%3A44%3A19+GMT%2B0100+(Mitteleurop%C3%A4ische+Normalzeit)&version=6.22.0&landingPath=https%3A%2F%2Fwww.harpercollins.de%2F&groups=1%3A1%2C101%3A0%2C2%3A0%2C102%3A0%2C3%3A0%2C4%3A0%2C0_292323%3A1%2C0_292324%3A0%2C8%3A0%2C104%3A0'}, {'domain': '.harpercollins.de', 'expiry': 1644430459, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.harpercollins.de', 'expiry': 1644428717, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.harpercollins.de', 'expiry': 1644430459, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A44%3A19.365Z'}, {'domain': 'www.harpercollins.de', 'httpOnly': False, 'name': 'snize-recommendation', 'path': '/', 'secure': False, 'value': 'ephov5rtki'}, {'domain': '.harpercollins.de', 'expiry': 1644515057, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.639084478.1644428658'}, {'domain': '.harpercollins.de', 'expiry': 1644430459, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e486580a-3b5b-49df-9606-acc1c06effd0'}, {'domain': '.harpercollins.de', 'expiry': 1644430459, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e486580a-3b5b-49df-9606-acc1c06effd0'}, {'domain': '.harpercollins.de', 'expiry': 1645638256, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.harpercollins.de', 'expiry': 1675964656, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '35240ca9-6c48-419f-af1d-f5a97bd15e42'}, {'domain': '.harpercollins.de', 'expiry': 1707500657, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1361644246.1644428658'}, {'domain': 'www.harpercollins.de', 'expiry': 1644430459, 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'secure': True, 'value': '933423a0-cbb7-4c20-85bc-d9d2c75e59dd'}, {'domain': '.harpercollins.de', 'expiry': 1645638256, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.harpercollins.de', 'expiry': 1675964656, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '35240ca9-6c48-419f-af1d-f5a97bd15e42'}, {'domain': 'www.harpercollins.de', 'expiry': 1675964655, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _shg_user_id
+[After] Cookie-Name 2: OptanonConsent
+[After] Cookie-Name 3: _shopify_sa_p
+[After] Cookie-Name 4: _gat
+[After] Cookie-Name 5: _shopify_sa_t
+[After] Cookie-Name 6: snize-recommendation
+[After] Cookie-Name 7: _gid
+[After] Cookie-Name 8: _s
+[After] Cookie-Name 9: _shopify_s
+[After] Cookie-Name 10: _landing_page
+[After] Cookie-Name 11: _y
+[After] Cookie-Name 12: _ga
+[After] Cookie-Name 13: _shg_session_id
+[After] Cookie-Name 14: _orig_referrer
+[After] Cookie-Name 15: _shopify_y
+[After] Cookie-Name 16: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

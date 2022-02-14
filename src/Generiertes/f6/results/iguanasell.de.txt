@@ -1,0 +1,89 @@
+Website 277: http://www.iguanasell.de/ | Created: 10.02.2022 13:34:38 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 27
+[Before] Website-Cookies: [{'domain': 'www.iguanasell.de', 'expiry': 1802176469, 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'secure': True, 'value': 'bbceea9b-6306-4c88-92b3-c6247286c532'}, {'domain': 'www.iguanasell.de', 'expiry': 1644498269, 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'secure': True, 'value': '27b06555-6e88-42e4-abba-5028cf0ca60f'}, {'domain': 'www.iguanasell.de', 'httpOnly': False, 'name': '_okbk', 'path': '/', 'sameSite': 'Strict', 'secure': False, 'value': 'cd5%3Davailable%2Ccd4%3Dtrue%2Cvi5%3D0%2Cvi4%3D1644496469421%2Cvi3%3Dactive%2Cvi2%3Dfalse%2Cvi1%3Dfalse%2Ccd8%3Dchat%2Ccd6%3D0%2Ccd3%3Dfalse%2Ccd2%3D0%2Ccd1%3D0%2C'}, {'domain': 'www.iguanasell.de', 'httpOnly': False, 'name': '_oklv', 'path': '/', 'sameSite': 'Strict', 'secure': False, 'value': '1644496468966%2CIOMo4jwDYQzObV4H0789C0O4aaQbjoba'}, {'domain': 'www.iguanasell.de', 'httpOnly': False, 'name': 'wcsid', 'path': '/', 'sameSite': 'Strict', 'secure': False, 'value': 'IOMo4jwDYQzObV4H0789C0O4aaQbjoba'}, {'domain': 'www.iguanasell.de', 'httpOnly': False, 'name': '_ok', 'path': '/', 'sameSite': 'Strict', 'secure': False, 'value': '5407-127-10-8690'}, {'domain': 'www.iguanasell.de', 'expiry': 1707568469, 'httpOnly': False, 'name': 'olfsk', 'path': '/', 'sameSite': 'Strict', 'secure': False, 'value': 'olfsk9844660529796783'}, {'domain': 'www.iguanasell.de', 'httpOnly': False, 'name': '_okdetect', 'path': '/', 'sameSite': 'Strict', 'secure': False, 'value': '%7B%22token%22%3A%2216444964692350%22%2C%22proto%22%3A%22about%3A%22%2C%22host%22%3A%22%22%7D'}, {'domain': 'www.iguanasell.de', 'expiry': 1707568469, 'httpOnly': False, 'name': 'hblid', 'path': '/', 'sameSite': 'Strict', 'secure': False, 'value': 'FZ5G2AEUyyKgxPba0789C0OkbaD4abQP'}, {'domain': '.iguanasell.de', 'expiry': 1652272469, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644496468954.1631888384'}, {'domain': 'www.iguanasell.de', 'expiry': 1707568469, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0OTY0NzAsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LmlndWFuYXNlbGwuZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NDk2NDcwLCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL3d3dy5pZ3VhbmFzZWxsLmRlLyJ9fQ=='}, {'domain': 'www.iguanasell.de', 'expiry': 1645706067, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.iguanasell.de', 'expiry': 1707568468, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1349077160.1644496469'}, {'domain': 'www.iguanasell.de', 'expiry': 1644500068, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.iguanasell.de', 'expiry': 1644496528, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.iguanasell.de', 'expiry': 1644582868, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1180642019.1644496469'}, {'domain': '.iguanasell.de', 'expiry': 1644498268, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.iguanasell.de', 'expiry': 1676032467, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'dac9a8e5-9000-457a-bb32-45f7b65a52b2'}, {'domain': '.iguanasell.de', 'expiry': 1644498268, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T12%3A34%3A28.666Z'}, {'domain': 'www.iguanasell.de', 'expiry': 1676032467, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.iguanasell.de', 'expiry': 1652272468, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.699626585.1644496468'}, {'domain': '.iguanasell.de', 'expiry': 1644498268, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '499d481a-974d-4d16-a959-f15eb05eded2'}, {'domain': '.iguanasell.de', 'expiry': 1645706067, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.iguanasell.de', 'expiry': 1645706067, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.iguanasell.de', 'expiry': 1676032467, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'dac9a8e5-9000-457a-bb32-45f7b65a52b2'}, {'domain': '.iguanasell.de', 'expiry': 1644498268, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '499d481a-974d-4d16-a959-f15eb05eded2'}, {'domain': 'www.iguanasell.de', 'expiry': 1645706067, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}]
+[Before] Cookie-Name 1: _shg_user_id
+[Before] Cookie-Name 2: _shg_session_id
+[Before] Cookie-Name 3: _okbk
+[Before] Cookie-Name 4: _oklv
+[Before] Cookie-Name 5: wcsid
+[Before] Cookie-Name 6: _ok
+[Before] Cookie-Name 7: olfsk
+[Before] Cookie-Name 8: _okdetect
+[Before] Cookie-Name 9: hblid
+[Before] Cookie-Name 10: _fbp
+[Before] Cookie-Name 11: __kla_id
+[Before] Cookie-Name 12: cart_currency
+[Before] Cookie-Name 13: _ga
+[Before] Cookie-Name 14: shopify_pay_redirect
+[Before] Cookie-Name 15: _gat
+[Before] Cookie-Name 16: _gid
+[Before] Cookie-Name 17: _shopify_sa_p
+[Before] Cookie-Name 18: _shopify_y
+[Before] Cookie-Name 19: _shopify_sa_t
+[Before] Cookie-Name 20: secure_customer_sig
+[Before] Cookie-Name 21: _gcl_au
+[Before] Cookie-Name 22: _shopify_s
+[Before] Cookie-Name 23: _landing_page
+[Before] Cookie-Name 24: _orig_referrer
+[Before] Cookie-Name 25: _y
+[Before] Cookie-Name 26: _s
+[Before] Cookie-Name 27: localization
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 27
+[After] Website-Cookies: [{'domain': 'www.iguanasell.de', 'expiry': 1802176469, 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'secure': True, 'value': 'bbceea9b-6306-4c88-92b3-c6247286c532'}, {'domain': 'www.iguanasell.de', 'expiry': 1644498269, 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'secure': True, 'value': '27b06555-6e88-42e4-abba-5028cf0ca60f'}, {'domain': 'www.iguanasell.de', 'httpOnly': False, 'name': '_okbk', 'path': '/', 'sameSite': 'Strict', 'secure': False, 'value': 'cd5%3Davailable%2Ccd4%3Dtrue%2Cvi5%3D0%2Cvi4%3D1644496469421%2Cvi3%3Dactive%2Cvi2%3Dfalse%2Cvi1%3Dfalse%2Ccd8%3Dchat%2Ccd6%3D0%2Ccd3%3Dfalse%2Ccd2%3D0%2Ccd1%3D0%2C'}, {'domain': 'www.iguanasell.de', 'httpOnly': False, 'name': '_oklv', 'path': '/', 'sameSite': 'Strict', 'secure': False, 'value': '1644496468966%2CIOMo4jwDYQzObV4H0789C0O4aaQbjoba'}, {'domain': 'www.iguanasell.de', 'httpOnly': False, 'name': 'wcsid', 'path': '/', 'sameSite': 'Strict', 'secure': False, 'value': 'IOMo4jwDYQzObV4H0789C0O4aaQbjoba'}, {'domain': 'www.iguanasell.de', 'httpOnly': False, 'name': '_ok', 'path': '/', 'sameSite': 'Strict', 'secure': False, 'value': '5407-127-10-8690'}, {'domain': 'www.iguanasell.de', 'expiry': 1707568469, 'httpOnly': False, 'name': 'olfsk', 'path': '/', 'sameSite': 'Strict', 'secure': False, 'value': 'olfsk9844660529796783'}, {'domain': 'www.iguanasell.de', 'httpOnly': False, 'name': '_okdetect', 'path': '/', 'sameSite': 'Strict', 'secure': False, 'value': '%7B%22token%22%3A%2216444964692350%22%2C%22proto%22%3A%22about%3A%22%2C%22host%22%3A%22%22%7D'}, {'domain': 'www.iguanasell.de', 'expiry': 1707568469, 'httpOnly': False, 'name': 'hblid', 'path': '/', 'sameSite': 'Strict', 'secure': False, 'value': 'FZ5G2AEUyyKgxPba0789C0OkbaD4abQP'}, {'domain': '.iguanasell.de', 'expiry': 1652272469, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644496468954.1631888384'}, {'domain': 'www.iguanasell.de', 'expiry': 1707568469, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0OTY0NzAsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LmlndWFuYXNlbGwuZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NDk2NDcwLCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL3d3dy5pZ3VhbmFzZWxsLmRlLyJ9fQ=='}, {'domain': 'www.iguanasell.de', 'expiry': 1645706067, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.iguanasell.de', 'expiry': 1707568468, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1349077160.1644496469'}, {'domain': 'www.iguanasell.de', 'expiry': 1644500068, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.iguanasell.de', 'expiry': 1644496528, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.iguanasell.de', 'expiry': 1644582868, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1180642019.1644496469'}, {'domain': '.iguanasell.de', 'expiry': 1644498268, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.iguanasell.de', 'expiry': 1676032467, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'dac9a8e5-9000-457a-bb32-45f7b65a52b2'}, {'domain': '.iguanasell.de', 'expiry': 1644498268, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T12%3A34%3A28.666Z'}, {'domain': 'www.iguanasell.de', 'expiry': 1676032467, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.iguanasell.de', 'expiry': 1652272468, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.699626585.1644496468'}, {'domain': '.iguanasell.de', 'expiry': 1644498268, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '499d481a-974d-4d16-a959-f15eb05eded2'}, {'domain': '.iguanasell.de', 'expiry': 1645706067, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.iguanasell.de', 'expiry': 1645706067, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.iguanasell.de', 'expiry': 1676032467, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'dac9a8e5-9000-457a-bb32-45f7b65a52b2'}, {'domain': '.iguanasell.de', 'expiry': 1644498268, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '499d481a-974d-4d16-a959-f15eb05eded2'}, {'domain': 'www.iguanasell.de', 'expiry': 1645706067, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}]
+[After] Cookie-Name 1: _shg_user_id
+[After] Cookie-Name 2: _shg_session_id
+[After] Cookie-Name 3: _okbk
+[After] Cookie-Name 4: _oklv
+[After] Cookie-Name 5: wcsid
+[After] Cookie-Name 6: _ok
+[After] Cookie-Name 7: olfsk
+[After] Cookie-Name 8: _okdetect
+[After] Cookie-Name 9: hblid
+[After] Cookie-Name 10: _fbp
+[After] Cookie-Name 11: __kla_id
+[After] Cookie-Name 12: cart_currency
+[After] Cookie-Name 13: _ga
+[After] Cookie-Name 14: shopify_pay_redirect
+[After] Cookie-Name 15: _gat
+[After] Cookie-Name 16: _gid
+[After] Cookie-Name 17: _shopify_sa_p
+[After] Cookie-Name 18: _shopify_y
+[After] Cookie-Name 19: _shopify_sa_t
+[After] Cookie-Name 20: secure_customer_sig
+[After] Cookie-Name 21: _gcl_au
+[After] Cookie-Name 22: _shopify_s
+[After] Cookie-Name 23: _landing_page
+[After] Cookie-Name 24: _orig_referrer
+[After] Cookie-Name 25: _y
+[After] Cookie-Name 26: _s
+[After] Cookie-Name 27: localization
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

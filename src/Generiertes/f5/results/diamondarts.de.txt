@@ -1,0 +1,76 @@
+Website 295: http://www.diamondarts.de/ | Created: 09.02.2022 21:07:12 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 21
+[Before] Website-Cookies: [{'domain': 'diamondarts.de', 'expiry': 1647029225, 'httpOnly': False, 'name': 'hash_key', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '62041ee9275180478539e4a8'}, {'domain': 'diamondarts.de', 'expiry': 1644439324, 'httpOnly': False, 'name': 'ssw_visitor', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'ssw_visitor1644437224970'}, {'domain': 'diamondarts.de', 'expiry': 1707509223, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MzcyMjMsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vZGlhbW9uZGFydHMuZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NDM3MjIzLCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL2RpYW1vbmRhcnRzLmRlLyJ9fQ=='}, {'domain': 'diamondarts.de', 'httpOnly': False, 'name': 'lsSema-removeEventListener', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': ''}, {'domain': '.diamondarts.de', 'expiry': 1675973222, 'httpOnly': False, 'name': 'scm_currency_count', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'diamondarts.de', 'expiry': 1675973222, 'httpOnly': False, 'name': 'po_visitor', 'path': '/', 'secure': False, 'value': 'hXzBGP8N5Bt1'}, {'domain': '.diamondarts.de', 'expiry': 1675973232, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '56c40950-850b-475d-b938-9126e18de28d'}, {'domain': '.diamondarts.de', 'expiry': 1644439021, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T20%3A07%3A01.533Z'}, {'domain': '.diamondarts.de', 'expiry': 1707509221, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.48456687.1644437221'}, {'domain': '.diamondarts.de', 'expiry': 1644439032, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'deef37d9-d10c-44d2-8bdb-b1abd7174ade'}, {'domain': '.diamondarts.de', 'expiry': 1675973232, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '56c40950-850b-475d-b938-9126e18de28d'}, {'domain': 'diamondarts.de', 'httpOnly': False, 'name': 'hesid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'ba4f0559-7adf-5e36-6289-7a87cbb81bfe'}, {'domain': 'diamondarts.de', 'httpOnly': False, 'name': 'lsContextID', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'i-261trj70SjZCx6dxIu3A'}, {'domain': '.diamondarts.de', 'expiry': 1645646820, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.diamondarts.de', 'expiry': 1644439032, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'deef37d9-d10c-44d2-8bdb-b1abd7174ade'}, {'domain': '.diamondarts.de', 'expiry': 1644523621, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.206771154.1644437221'}, {'domain': '.diamondarts.de', 'expiry': 1645646820, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'diamondarts.de', 'expiry': 1644523625, 'httpOnly': False, 'name': '_ssw_cart_data', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'eyJjYXJ0X3Rva2VuIjoiY2FkMWY5MzE3ZDQxM2U4MjdmM2Y5M2ExODRhMjEyMjkifQ%3D%3D'}, {'domain': '.diamondarts.de', 'expiry': 1644437281, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.diamondarts.de', 'expiry': 1644439021, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'diamondarts.de', 'expiry': 1675973232, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: hash_key
+[Before] Cookie-Name 2: ssw_visitor
+[Before] Cookie-Name 3: __kla_id
+[Before] Cookie-Name 4: lsSema-removeEventListener
+[Before] Cookie-Name 5: scm_currency_count
+[Before] Cookie-Name 6: po_visitor
+[Before] Cookie-Name 7: _y
+[Before] Cookie-Name 8: _shopify_sa_t
+[Before] Cookie-Name 9: _ga
+[Before] Cookie-Name 10: _shopify_s
+[Before] Cookie-Name 11: _shopify_y
+[Before] Cookie-Name 12: hesid
+[Before] Cookie-Name 13: lsContextID
+[Before] Cookie-Name 14: _orig_referrer
+[Before] Cookie-Name 15: _s
+[Before] Cookie-Name 16: _gid
+[Before] Cookie-Name 17: _landing_page
+[Before] Cookie-Name 18: _ssw_cart_data
+[Before] Cookie-Name 19: _gat
+[Before] Cookie-Name 20: _shopify_sa_p
+[Before] Cookie-Name 21: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 21
+[After] Website-Cookies: [{'domain': 'diamondarts.de', 'expiry': 1647029225, 'httpOnly': False, 'name': 'hash_key', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '62041ee9275180478539e4a8'}, {'domain': 'diamondarts.de', 'expiry': 1644439324, 'httpOnly': False, 'name': 'ssw_visitor', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'ssw_visitor1644437224970'}, {'domain': 'diamondarts.de', 'expiry': 1707509223, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MzcyMjMsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vZGlhbW9uZGFydHMuZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NDM3MjIzLCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL2RpYW1vbmRhcnRzLmRlLyJ9fQ=='}, {'domain': 'diamondarts.de', 'httpOnly': False, 'name': 'lsSema-removeEventListener', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': ''}, {'domain': '.diamondarts.de', 'expiry': 1675973222, 'httpOnly': False, 'name': 'scm_currency_count', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'diamondarts.de', 'expiry': 1675973222, 'httpOnly': False, 'name': 'po_visitor', 'path': '/', 'secure': False, 'value': 'hXzBGP8N5Bt1'}, {'domain': '.diamondarts.de', 'expiry': 1675973232, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '56c40950-850b-475d-b938-9126e18de28d'}, {'domain': '.diamondarts.de', 'expiry': 1644439021, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T20%3A07%3A01.533Z'}, {'domain': '.diamondarts.de', 'expiry': 1707509221, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.48456687.1644437221'}, {'domain': '.diamondarts.de', 'expiry': 1644439032, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'deef37d9-d10c-44d2-8bdb-b1abd7174ade'}, {'domain': '.diamondarts.de', 'expiry': 1675973232, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '56c40950-850b-475d-b938-9126e18de28d'}, {'domain': 'diamondarts.de', 'httpOnly': False, 'name': 'hesid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'ba4f0559-7adf-5e36-6289-7a87cbb81bfe'}, {'domain': 'diamondarts.de', 'httpOnly': False, 'name': 'lsContextID', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'i-261trj70SjZCx6dxIu3A'}, {'domain': '.diamondarts.de', 'expiry': 1645646820, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.diamondarts.de', 'expiry': 1644439032, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'deef37d9-d10c-44d2-8bdb-b1abd7174ade'}, {'domain': '.diamondarts.de', 'expiry': 1644523621, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.206771154.1644437221'}, {'domain': '.diamondarts.de', 'expiry': 1645646820, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'diamondarts.de', 'expiry': 1644523625, 'httpOnly': False, 'name': '_ssw_cart_data', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'eyJjYXJ0X3Rva2VuIjoiY2FkMWY5MzE3ZDQxM2U4MjdmM2Y5M2ExODRhMjEyMjkifQ%3D%3D'}, {'domain': '.diamondarts.de', 'expiry': 1644437281, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.diamondarts.de', 'expiry': 1644439021, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'diamondarts.de', 'expiry': 1675973232, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: hash_key
+[After] Cookie-Name 2: ssw_visitor
+[After] Cookie-Name 3: __kla_id
+[After] Cookie-Name 4: lsSema-removeEventListener
+[After] Cookie-Name 5: scm_currency_count
+[After] Cookie-Name 6: po_visitor
+[After] Cookie-Name 7: _y
+[After] Cookie-Name 8: _shopify_sa_t
+[After] Cookie-Name 9: _ga
+[After] Cookie-Name 10: _shopify_s
+[After] Cookie-Name 11: _shopify_y
+[After] Cookie-Name 12: hesid
+[After] Cookie-Name 13: lsContextID
+[After] Cookie-Name 14: _orig_referrer
+[After] Cookie-Name 15: _s
+[After] Cookie-Name 16: _gid
+[After] Cookie-Name 17: _landing_page
+[After] Cookie-Name 18: _ssw_cart_data
+[After] Cookie-Name 19: _gat
+[After] Cookie-Name 20: _shopify_sa_p
+[After] Cookie-Name 21: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _gat (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

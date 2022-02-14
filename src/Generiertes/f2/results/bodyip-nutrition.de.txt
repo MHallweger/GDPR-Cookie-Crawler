@@ -1,0 +1,71 @@
+Website 146: http://www.bodyip-nutrition.de/ | Created: 09.02.2022 11:30:43 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 17
+[Before] Website-Cookies: [{'domain': '.bodyip-nutrition.de', 'expiry': 1652178634, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644402633963.1465813246'}, {'domain': '.bodyip-nutrition.de', 'expiry': 1644489033, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.903826035.1644402634'}, {'domain': '.bodyip-nutrition.de', 'expiry': 1707474633, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.878014732.1644402634'}, {'domain': '.www.bodyip-nutrition.de', 'expiry': 1675938634, 'httpOnly': False, 'name': 'scm_bannerslider_app', 'path': '/', 'secure': False, 'value': 'installed'}, {'domain': '.bodyip-nutrition.de', 'expiry': 1644404433, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd34e1ee2-a87c-4023-b7d6-15b11bf522aa'}, {'domain': '.bodyip-nutrition.de', 'expiry': 1675938633, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b061a00b-100d-44cf-b2b9-f72f499c3e2b'}, {'domain': '.bodyip-nutrition.de', 'expiry': 1644404433, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd34e1ee2-a87c-4023-b7d6-15b11bf522aa'}, {'domain': '.bodyip-nutrition.de', 'expiry': 1645612233, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.bodyip-nutrition.de', 'expiry': 1644404433, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A30%3A33.755Z'}, {'domain': '.www.bodyip-nutrition.de', 'expiry': 1675938634, 'httpOnly': False, 'name': 'scm_bannerslider_count', 'path': '/', 'secure': False, 'value': '0'}, {'domain': '.bodyip-nutrition.de', 'expiry': 1652178633, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.2070469441.1644402634'}, {'domain': '.bodyip-nutrition.de', 'expiry': 1645612233, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.bodyip-nutrition.de', 'expiry': 1675938633, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU9HWTFPRFJqWTJFdE5EQTRNQzAwWW1ZeExUZzJNV1V0TmpRNVl6azJNVEV4TWpCaA'}, {'domain': '.bodyip-nutrition.de', 'expiry': 1644404433, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.bodyip-nutrition.de', 'expiry': 1644402693, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.bodyip-nutrition.de', 'expiry': 1675938633, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b061a00b-100d-44cf-b2b9-f72f499c3e2b'}, {'domain': 'www.bodyip-nutrition.de', 'expiry': 1675938633, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _fbp
+[Before] Cookie-Name 2: _gid
+[Before] Cookie-Name 3: _ga
+[Before] Cookie-Name 4: scm_bannerslider_app
+[Before] Cookie-Name 5: _shopify_s
+[Before] Cookie-Name 6: _y
+[Before] Cookie-Name 7: _s
+[Before] Cookie-Name 8: _landing_page
+[Before] Cookie-Name 9: _shopify_sa_t
+[Before] Cookie-Name 10: scm_bannerslider_count
+[Before] Cookie-Name 11: _gcl_au
+[Before] Cookie-Name 12: _orig_referrer
+[Before] Cookie-Name 13: _pin_unauth
+[Before] Cookie-Name 14: _shopify_sa_p
+[Before] Cookie-Name 15: _gat
+[Before] Cookie-Name 16: _shopify_y
+[Before] Cookie-Name 17: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 19
+[After] Website-Cookies: [{'domain': 'www.bodyip-nutrition.de', 'expiry': 1652175048, 'httpOnly': False, 'name': 'cookieoptimizer_details', 'path': '/', 'secure': False, 'value': '{"consentDate":1644402648840,"user":"f196ccaa-9f35-4187-ab4c-89b4d8b39512","expireDays":90,"consent":"allow"}'}, {'domain': 'www.bodyip-nutrition.de', 'expiry': 1652175048, 'httpOnly': False, 'name': 'cookieoptimizer_consent', 'path': '/', 'secure': False, 'value': 'allow'}, {'domain': '.bodyip-nutrition.de', 'expiry': 1652178648, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644402633963.1465813246'}, {'domain': '.bodyip-nutrition.de', 'expiry': 1644489033, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.903826035.1644402634'}, {'domain': '.bodyip-nutrition.de', 'expiry': 1707474633, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.878014732.1644402634'}, {'domain': '.www.bodyip-nutrition.de', 'expiry': 1675938634, 'httpOnly': False, 'name': 'scm_bannerslider_app', 'path': '/', 'secure': False, 'value': 'installed'}, {'domain': '.bodyip-nutrition.de', 'expiry': 1644404433, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd34e1ee2-a87c-4023-b7d6-15b11bf522aa'}, {'domain': '.bodyip-nutrition.de', 'expiry': 1675938633, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b061a00b-100d-44cf-b2b9-f72f499c3e2b'}, {'domain': '.bodyip-nutrition.de', 'expiry': 1644404433, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd34e1ee2-a87c-4023-b7d6-15b11bf522aa'}, {'domain': '.bodyip-nutrition.de', 'expiry': 1645612233, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.bodyip-nutrition.de', 'expiry': 1644404433, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A30%3A33.755Z'}, {'domain': '.www.bodyip-nutrition.de', 'expiry': 1675938634, 'httpOnly': False, 'name': 'scm_bannerslider_count', 'path': '/', 'secure': False, 'value': '0'}, {'domain': '.bodyip-nutrition.de', 'expiry': 1652178633, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.2070469441.1644402634'}, {'domain': '.bodyip-nutrition.de', 'expiry': 1645612233, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.bodyip-nutrition.de', 'expiry': 1675938633, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU9HWTFPRFJqWTJFdE5EQTRNQzAwWW1ZeExUZzJNV1V0TmpRNVl6azJNVEV4TWpCaA'}, {'domain': '.bodyip-nutrition.de', 'expiry': 1644404433, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.bodyip-nutrition.de', 'expiry': 1644402693, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.bodyip-nutrition.de', 'expiry': 1675938633, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b061a00b-100d-44cf-b2b9-f72f499c3e2b'}, {'domain': 'www.bodyip-nutrition.de', 'expiry': 1675938633, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: cookieoptimizer_details
+[After] Cookie-Name 2: cookieoptimizer_consent
+[After] Cookie-Name 3: _fbp
+[After] Cookie-Name 4: _gid
+[After] Cookie-Name 5: _ga
+[After] Cookie-Name 6: scm_bannerslider_app
+[After] Cookie-Name 7: _shopify_s
+[After] Cookie-Name 8: _y
+[After] Cookie-Name 9: _s
+[After] Cookie-Name 10: _landing_page
+[After] Cookie-Name 11: _shopify_sa_t
+[After] Cookie-Name 12: scm_bannerslider_count
+[After] Cookie-Name 13: _gcl_au
+[After] Cookie-Name 14: _orig_referrer
+[After] Cookie-Name 15: _pin_unauth
+[After] Cookie-Name 16: _shopify_sa_p
+[After] Cookie-Name 17: _gat
+[After] Cookie-Name 18: _shopify_y
+[After] Cookie-Name 19: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _gat (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 2
+[Difference] Cookie-Name: 1: cookieoptimizer_details
+[Difference] Cookie-Name: 2: cookieoptimizer_consent
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

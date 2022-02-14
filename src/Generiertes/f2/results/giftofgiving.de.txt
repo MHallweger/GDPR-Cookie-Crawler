@@ -1,0 +1,94 @@
+Website 310: http://www.giftofgiving.de/ | Created: 09.02.2022 12:18:58 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 29
+[Before] Website-Cookies: [{'domain': '.giftofgiving.de', 'expiry': 1690539538, 'httpOnly': False, 'name': 'ku1-vid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': 'bdc45f2d-e1bd-fefe-3ec1-0f32e1841a24'}, {'domain': '.giftofgiving.de', 'httpOnly': False, 'name': 'ku1-sid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': 'to8-J_dg_oMdA-TEpC_AG'}, {'domain': '.giftofgiving.de', 'expiry': 1644491938, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': '1388a6e0899a11ec856e0971da6db286'}, {'domain': 'giftofgiving.de', 'expiry': 1645615132, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0393d5bb1faa6a1f30044f0794c25713'}, {'domain': 'giftofgiving.de', 'expiry': 1645615132, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eae22656929becdec0c1738e6294531d'}, {'domain': '.giftofgiving.de', 'expiry': 1644407328, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T11%3A18%3A48.825Z'}, {'domain': '.giftofgiving.de', 'expiry': 1652181529, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644405529007.1916948235'}, {'domain': 'giftofgiving.de', 'expiry': 1644409137, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.giftofgiving.de', 'expiry': 1644491928, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1106335519.1644405529'}, {'domain': '.giftofgiving.de', 'expiry': 1678101538, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '1388be10899a11ecb401f950e6bc8c7e'}, {'domain': 'giftofgiving.de', 'expiry': 1645615132, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A2'}, {'domain': '.giftofgiving.de', 'expiry': 1707477528, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1423502457.1644405529'}, {'domain': 'giftofgiving.de', 'expiry': 1707477528, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MDU1MjksInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vZ2lmdG9mZ2l2aW5nLmRlLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDQwNTUyOSwidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly9naWZ0b2ZnaXZpbmcuZGUvIn19'}, {'domain': '.giftofgiving.de', 'expiry': 1675941538, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8a9b1510-b322-4bb4-a5ed-c11d63643888'}, {'domain': '.giftofgiving.de', 'expiry': 1644407328, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.giftofgiving.de', 'expiry': 1652181528, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1415812673.1644405529'}, {'domain': '.giftofgiving.de', 'expiry': 1645615128, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.giftofgiving.de', 'expiry': 1645615128, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.giftofgiving.de', 'expiry': 1675941529, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU9HWTFPRFJqWTJFdE5EQTRNQzAwWW1ZeExUZzJNV1V0TmpRNVl6azJNVEV4TWpCaA'}, {'domain': '.giftofgiving.de', 'expiry': 1644405588, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'giftofgiving.de', 'expiry': 1644407338, 'httpOnly': False, 'name': 'dynamic_checkout_shown_on_cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'giftofgiving.de', 'expiry': 1645615132, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644405532'}, {'domain': '.giftofgiving.de', 'expiry': 1644407338, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '61a85da3-c305-4af6-94fb-338997187d57'}, {'domain': 'giftofgiving.de', 'expiry': 1645615138, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'giftofgiving.de', 'expiry': 1645615138, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.giftofgiving.de', 'expiry': 1644407338, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '61a85da3-c305-4af6-94fb-338997187d57'}, {'domain': '.giftofgiving.de', 'expiry': 1675941538, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8a9b1510-b322-4bb4-a5ed-c11d63643888'}, {'domain': 'giftofgiving.de', 'expiry': 1675941538, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'giftofgiving.de', 'expiry': 1645615127, 'httpOnly': True, 'name': 'keep_alive', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '61a85da3-c305-4af6-94fb-338997187d57'}]
+[Before] Cookie-Name 1: ku1-vid
+[Before] Cookie-Name 2: ku1-sid
+[Before] Cookie-Name 3: _uetsid
+[Before] Cookie-Name 4: cart_sig
+[Before] Cookie-Name 5: cart
+[Before] Cookie-Name 6: _shopify_sa_t
+[Before] Cookie-Name 7: _fbp
+[Before] Cookie-Name 8: shopify_pay_redirect
+[Before] Cookie-Name 9: _gid
+[Before] Cookie-Name 10: _uetvid
+[Before] Cookie-Name 11: cart_ver
+[Before] Cookie-Name 12: _ga
+[Before] Cookie-Name 13: __kla_id
+[Before] Cookie-Name 14: _shopify_y
+[Before] Cookie-Name 15: _shopify_sa_p
+[Before] Cookie-Name 16: _gcl_au
+[Before] Cookie-Name 17: _landing_page
+[Before] Cookie-Name 18: _orig_referrer
+[Before] Cookie-Name 19: _pin_unauth
+[Before] Cookie-Name 20: _gat
+[Before] Cookie-Name 21: dynamic_checkout_shown_on_cart
+[Before] Cookie-Name 22: cart_ts
+[Before] Cookie-Name 23: _s
+[Before] Cookie-Name 24: cart_currency
+[Before] Cookie-Name 25: localization
+[Before] Cookie-Name 26: _shopify_s
+[Before] Cookie-Name 27: _y
+[Before] Cookie-Name 28: secure_customer_sig
+[Before] Cookie-Name 29: keep_alive
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 29
+[After] Website-Cookies: [{'domain': '.giftofgiving.de', 'expiry': 1690539538, 'httpOnly': False, 'name': 'ku1-vid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': 'bdc45f2d-e1bd-fefe-3ec1-0f32e1841a24'}, {'domain': '.giftofgiving.de', 'httpOnly': False, 'name': 'ku1-sid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': 'to8-J_dg_oMdA-TEpC_AG'}, {'domain': '.giftofgiving.de', 'expiry': 1644491938, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': '1388a6e0899a11ec856e0971da6db286'}, {'domain': 'giftofgiving.de', 'expiry': 1645615132, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0393d5bb1faa6a1f30044f0794c25713'}, {'domain': 'giftofgiving.de', 'expiry': 1645615132, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eae22656929becdec0c1738e6294531d'}, {'domain': '.giftofgiving.de', 'expiry': 1644407328, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T11%3A18%3A48.825Z'}, {'domain': '.giftofgiving.de', 'expiry': 1652181529, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644405529007.1916948235'}, {'domain': 'giftofgiving.de', 'expiry': 1644409137, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.giftofgiving.de', 'expiry': 1644491928, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1106335519.1644405529'}, {'domain': '.giftofgiving.de', 'expiry': 1678101538, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '1388be10899a11ecb401f950e6bc8c7e'}, {'domain': 'giftofgiving.de', 'expiry': 1645615132, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A2'}, {'domain': '.giftofgiving.de', 'expiry': 1707477528, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1423502457.1644405529'}, {'domain': 'giftofgiving.de', 'expiry': 1707477528, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MDU1MjksInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vZ2lmdG9mZ2l2aW5nLmRlLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDQwNTUyOSwidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly9naWZ0b2ZnaXZpbmcuZGUvIn19'}, {'domain': '.giftofgiving.de', 'expiry': 1675941538, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8a9b1510-b322-4bb4-a5ed-c11d63643888'}, {'domain': '.giftofgiving.de', 'expiry': 1644407328, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.giftofgiving.de', 'expiry': 1652181528, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1415812673.1644405529'}, {'domain': '.giftofgiving.de', 'expiry': 1645615128, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.giftofgiving.de', 'expiry': 1645615128, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.giftofgiving.de', 'expiry': 1675941529, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU9HWTFPRFJqWTJFdE5EQTRNQzAwWW1ZeExUZzJNV1V0TmpRNVl6azJNVEV4TWpCaA'}, {'domain': '.giftofgiving.de', 'expiry': 1644405588, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'giftofgiving.de', 'expiry': 1644407338, 'httpOnly': False, 'name': 'dynamic_checkout_shown_on_cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'giftofgiving.de', 'expiry': 1645615132, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644405532'}, {'domain': '.giftofgiving.de', 'expiry': 1644407338, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '61a85da3-c305-4af6-94fb-338997187d57'}, {'domain': 'giftofgiving.de', 'expiry': 1645615138, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'giftofgiving.de', 'expiry': 1645615138, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.giftofgiving.de', 'expiry': 1644407338, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '61a85da3-c305-4af6-94fb-338997187d57'}, {'domain': '.giftofgiving.de', 'expiry': 1675941538, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8a9b1510-b322-4bb4-a5ed-c11d63643888'}, {'domain': 'giftofgiving.de', 'expiry': 1675941538, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'giftofgiving.de', 'expiry': 1645615127, 'httpOnly': True, 'name': 'keep_alive', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '61a85da3-c305-4af6-94fb-338997187d57'}]
+[After] Cookie-Name 1: ku1-vid
+[After] Cookie-Name 2: ku1-sid
+[After] Cookie-Name 3: _uetsid
+[After] Cookie-Name 4: cart_sig
+[After] Cookie-Name 5: cart
+[After] Cookie-Name 6: _shopify_sa_t
+[After] Cookie-Name 7: _fbp
+[After] Cookie-Name 8: shopify_pay_redirect
+[After] Cookie-Name 9: _gid
+[After] Cookie-Name 10: _uetvid
+[After] Cookie-Name 11: cart_ver
+[After] Cookie-Name 12: _ga
+[After] Cookie-Name 13: __kla_id
+[After] Cookie-Name 14: _shopify_y
+[After] Cookie-Name 15: _shopify_sa_p
+[After] Cookie-Name 16: _gcl_au
+[After] Cookie-Name 17: _landing_page
+[After] Cookie-Name 18: _orig_referrer
+[After] Cookie-Name 19: _pin_unauth
+[After] Cookie-Name 20: _gat
+[After] Cookie-Name 21: dynamic_checkout_shown_on_cart
+[After] Cookie-Name 22: cart_ts
+[After] Cookie-Name 23: _s
+[After] Cookie-Name 24: cart_currency
+[After] Cookie-Name 25: localization
+[After] Cookie-Name 26: _shopify_s
+[After] Cookie-Name 27: _y
+[After] Cookie-Name 28: secure_customer_sig
+[After] Cookie-Name 29: keep_alive
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _gat (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

@@ -1,0 +1,83 @@
+Website 345: http://www.nordik.design/ | Created: 08.02.2022 23:23:59 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 24
+[Before] Website-Cookies: [{'domain': '.nordik.design', 'expiry': 1644360829, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'AVllbanJIB2kb9-20220208222349'}, {'domain': '.nordik.design', 'expiry': 1644445428, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1638907617.1644359028'}, {'domain': '.nordik.design', 'expiry': 1675895029, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': '1Rovy2cTa37zCl-20220208222349'}, {'domain': '.nordik.design', 'httpOnly': False, 'name': 'soundest-views', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.nordik.design', 'expiry': 1644359088, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.nordik.design', 'expiry': 1707431028, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.920430085.1644359028'}, {'domain': '.nordik.design', 'expiry': 1644360829, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f527d101-9775-4f9d-8203-3679ab137449'}, {'domain': '.nordik.design', 'expiry': 1644360828, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.nordik.design', 'expiry': 1675895027, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVptUTJZekkwTlRFdFpEZ3dOaTAwWkRrd0xXSTVObVl0TTJNMFptSTJPRGRtTkRCbQ'}, {'domain': 'nordik.design', 'expiry': 1644362627, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.nordik.design', 'expiry': 1675895026, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22con%22%3A%7B%22CCPA%22%3A%22%22%7D%2C%22lim%22%3A%5B%22CCPA%22%5D%2C%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%7D'}, {'domain': '.nordik.design', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220208222349-iKfRj2okKYGKT6ZqJILb06Gm24zohiVm4joZ5kqCKiGIWHTzP'}, {'domain': 'nordik.design', 'expiry': 1644963827, 'httpOnly': False, 'name': 'mailing_list_delay_popup', 'path': '/', 'secure': False, 'value': 'expires_seven_days'}, {'domain': '.nordik.design', 'expiry': 1675895029, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e3fc9a31-c917-4585-bcd6-14094082165f'}, {'domain': '.nordik.design', 'expiry': 1645568626, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.nordik.design', 'expiry': 1644360829, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f527d101-9775-4f9d-8203-3679ab137449'}, {'domain': '.nordik.design', 'expiry': 1675895029, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e3fc9a31-c917-4585-bcd6-14094082165f'}, {'domain': 'nordik.design', 'expiry': 1645568629, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'USD'}, {'domain': 'nordik.design', 'expiry': 1675895029, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.nordik.design', 'expiry': 1652135028, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644359028381.823188519'}, {'domain': '.nordik.design', 'expiry': 1652135028, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1094549679.1644359028'}, {'domain': '.nordik.design', 'expiry': 1644360828, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T22%3A23%3A48.176Z'}, {'domain': 'nordik.design', 'expiry': 1645568629, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'US'}, {'domain': '.nordik.design', 'expiry': 1645568626, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[Before] Cookie-Name 1: omnisendSessionID
+[Before] Cookie-Name 2: _gid
+[Before] Cookie-Name 3: omnisendAnonymousID
+[Before] Cookie-Name 4: soundest-views
+[Before] Cookie-Name 5: _gat
+[Before] Cookie-Name 6: _ga
+[Before] Cookie-Name 7: _shopify_s
+[Before] Cookie-Name 8: _shopify_sa_p
+[Before] Cookie-Name 9: _pin_unauth
+[Before] Cookie-Name 10: shopify_pay_redirect
+[Before] Cookie-Name 11: _tracking_consent
+[Before] Cookie-Name 12: soundestID
+[Before] Cookie-Name 13: mailing_list_delay_popup
+[Before] Cookie-Name 14: _shopify_y
+[Before] Cookie-Name 15: _landing_page
+[Before] Cookie-Name 16: _s
+[Before] Cookie-Name 17: _y
+[Before] Cookie-Name 18: cart_currency
+[Before] Cookie-Name 19: secure_customer_sig
+[Before] Cookie-Name 20: _fbp
+[Before] Cookie-Name 21: _gcl_au
+[Before] Cookie-Name 22: _shopify_sa_t
+[Before] Cookie-Name 23: localization
+[Before] Cookie-Name 24: _orig_referrer
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 24
+[After] Website-Cookies: [{'domain': '.nordik.design', 'expiry': 1644360829, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'AVllbanJIB2kb9-20220208222349'}, {'domain': '.nordik.design', 'expiry': 1644445428, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1638907617.1644359028'}, {'domain': '.nordik.design', 'expiry': 1675895029, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': '1Rovy2cTa37zCl-20220208222349'}, {'domain': '.nordik.design', 'httpOnly': False, 'name': 'soundest-views', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.nordik.design', 'expiry': 1644359088, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.nordik.design', 'expiry': 1707431028, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.920430085.1644359028'}, {'domain': '.nordik.design', 'expiry': 1644360829, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f527d101-9775-4f9d-8203-3679ab137449'}, {'domain': '.nordik.design', 'expiry': 1644360828, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.nordik.design', 'expiry': 1675895027, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVptUTJZekkwTlRFdFpEZ3dOaTAwWkRrd0xXSTVObVl0TTJNMFptSTJPRGRtTkRCbQ'}, {'domain': 'nordik.design', 'expiry': 1644362627, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.nordik.design', 'expiry': 1675895026, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22con%22%3A%7B%22CCPA%22%3A%22%22%7D%2C%22lim%22%3A%5B%22CCPA%22%5D%2C%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%7D'}, {'domain': '.nordik.design', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220208222349-iKfRj2okKYGKT6ZqJILb06Gm24zohiVm4joZ5kqCKiGIWHTzP'}, {'domain': 'nordik.design', 'expiry': 1644963827, 'httpOnly': False, 'name': 'mailing_list_delay_popup', 'path': '/', 'secure': False, 'value': 'expires_seven_days'}, {'domain': '.nordik.design', 'expiry': 1675895029, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e3fc9a31-c917-4585-bcd6-14094082165f'}, {'domain': '.nordik.design', 'expiry': 1645568626, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.nordik.design', 'expiry': 1644360829, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f527d101-9775-4f9d-8203-3679ab137449'}, {'domain': '.nordik.design', 'expiry': 1675895029, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e3fc9a31-c917-4585-bcd6-14094082165f'}, {'domain': 'nordik.design', 'expiry': 1645568629, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'USD'}, {'domain': 'nordik.design', 'expiry': 1675895029, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.nordik.design', 'expiry': 1652135028, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644359028381.823188519'}, {'domain': '.nordik.design', 'expiry': 1652135028, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1094549679.1644359028'}, {'domain': '.nordik.design', 'expiry': 1644360828, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T22%3A23%3A48.176Z'}, {'domain': 'nordik.design', 'expiry': 1645568629, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'US'}, {'domain': '.nordik.design', 'expiry': 1645568626, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: omnisendSessionID
+[After] Cookie-Name 2: _gid
+[After] Cookie-Name 3: omnisendAnonymousID
+[After] Cookie-Name 4: soundest-views
+[After] Cookie-Name 5: _gat
+[After] Cookie-Name 6: _ga
+[After] Cookie-Name 7: _shopify_s
+[After] Cookie-Name 8: _shopify_sa_p
+[After] Cookie-Name 9: _pin_unauth
+[After] Cookie-Name 10: shopify_pay_redirect
+[After] Cookie-Name 11: _tracking_consent
+[After] Cookie-Name 12: soundestID
+[After] Cookie-Name 13: mailing_list_delay_popup
+[After] Cookie-Name 14: _shopify_y
+[After] Cookie-Name 15: _landing_page
+[After] Cookie-Name 16: _s
+[After] Cookie-Name 17: _y
+[After] Cookie-Name 18: cart_currency
+[After] Cookie-Name 19: secure_customer_sig
+[After] Cookie-Name 20: _fbp
+[After] Cookie-Name 21: _gcl_au
+[After] Cookie-Name 22: _shopify_sa_t
+[After] Cookie-Name 23: localization
+[After] Cookie-Name 24: _orig_referrer
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

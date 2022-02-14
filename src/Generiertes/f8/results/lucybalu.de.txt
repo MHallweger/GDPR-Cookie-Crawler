@@ -1,0 +1,93 @@
+Website 104: http://www.lucybalu.de/ | Created: 10.02.2022 20:28:10 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 28
+[Before] Website-Cookies: [{'domain': 'www.lucybalu.de', 'expiry': 1707593280, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ1MjEyODEsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3Lmx1Y3liYWx1LmRlLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDUyMTI4MSwidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly93d3cubHVjeWJhbHUuZGUvIn19'}, {'domain': 'www.lucybalu.de', 'expiry': 1645730879, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': '.www.lucybalu.de', 'expiry': 1676057280, 'httpOnly': False, 'name': 'geo_data', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': '{%22as%22:%22n/a%22%2C%22asname%22:%22n/a%22%2C%22mobile%22:false%2C%22proxy%22:false%2C%22city%22:%22Polch%22%2C%22currency%22:{%22code%22:%22EUR%22}%2C%22country%22:{%22code%22:%22DE%22%2C%22country%22:%22Germany%22}%2C%22countryCode%22:%22DE%22%2C%22continent%22:%22Europe%22%2C%22continentCode%22:%22EU%22%2C%22isp%22:%22n/a%22%2C%22lat%22:50.3023%2C%22lon%22:7.3194%2C%22org%22:%22n/a%22%2C%22query%22:%2291.184.168.63%22%2C%22region%22:%22RP%22%2C%22regionName%22:%22Rheinland-Pfalz%22%2C%22status%22:%22success%22%2C%22timezone%22:%22Europe/Berlin%22%2C%22zip%22:%2256751%22%2C%22cloudflare%22:%22%22%2C%22ttl%22:0%2C%22env%22:%22PROD%22%2C%22build%22:%22maxmind%2008%20Feb%2022%2009:27%20UTC%22%2C%22currencyCode%22:%22EUR%22%2C%22countryName%22:%22Germany%22%2C%22service%22:%22ip.lovely-app.com%22}'}, {'domain': '.lucybalu.de', 'expiry': 1678217279, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '8e9c9c908aa711ec86513bd0bdefd05b'}, {'domain': '.lucybalu.de', 'expiry': 1644607679, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1679310172.1644521280'}, {'domain': '.lucybalu.de', 'expiry': 1676057280, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': '1pfykm9|1|eyv|0'}, {'domain': '.lucybalu.de', 'expiry': 1676057280, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU56YzFZbVU0WW1VdFpUazFaUzAwTUdSakxXSmtaVEF0WlRJNU9UQmpaRFF4TkdRMg'}, {'domain': '.lucybalu.de', 'expiry': 1707593279, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.671149942.1644521280'}, {'domain': '.lucybalu.de', 'expiry': 1644523079, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.lucybalu.de', 'expiry': 1644607680, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': '1hx3nvg|1644521280843|1|1|i.clarity.ms/collect'}, {'domain': 'www.lucybalu.de', 'expiry': 1676057280, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.lucybalu.de', 'expiry': 1644521339, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.lucybalu.de', 'expiry': 1644523079, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T19%3A27%3A59.360Z'}, {'domain': '.lucybalu.de', 'expiry': 1652297278, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.920250803.1644521279'}, {'domain': 'www.lucybalu.de', 'expiry': 1644524879, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'www.lucybalu.de', 'expiry': 1645730879, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b56bc2d17aaba881699c818b506e67ce'}, {'domain': '.lucybalu.de', 'expiry': 1645730878, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.lucybalu.de', 'expiry': 1644523080, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6fe59ce2-5f62-4c7f-bd6a-0ce61c5df762'}, {'domain': '.lucybalu.de', 'expiry': 1644523080, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6fe59ce2-5f62-4c7f-bd6a-0ce61c5df762'}, {'domain': '.lucybalu.de', 'expiry': 1676057280, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '32240e54-6bf5-4be4-9041-5e98300a9d26'}, {'domain': '.lucybalu.de', 'expiry': 1676057280, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '32240e54-6bf5-4be4-9041-5e98300a9d26'}, {'domain': 'www.lucybalu.de', 'expiry': 1645730879, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b566e681baafe3c42795c73bb4547b3d'}, {'domain': '.lucybalu.de', 'expiry': 1645730878, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.lucybalu.de', 'expiry': 1645730879, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644521279'}, {'domain': '.lucybalu.de', 'expiry': 1644607679, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': '8e9cb1608aa711ec8d9fe99728576935'}, {'domain': 'www.lucybalu.de', 'expiry': 1645730880, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.lucybalu.de', 'expiry': 1652297280, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644521279879.359368942'}, {'domain': 'www.lucybalu.de', 'expiry': 1645730880, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}]
+[Before] Cookie-Name 1: __kla_id
+[Before] Cookie-Name 2: cart_ver
+[Before] Cookie-Name 3: geo_data
+[Before] Cookie-Name 4: _uetvid
+[Before] Cookie-Name 5: _gid
+[Before] Cookie-Name 6: _clck
+[Before] Cookie-Name 7: _pin_unauth
+[Before] Cookie-Name 8: _ga
+[Before] Cookie-Name 9: _shopify_sa_p
+[Before] Cookie-Name 10: _clsk
+[Before] Cookie-Name 11: secure_customer_sig
+[Before] Cookie-Name 12: _gat
+[Before] Cookie-Name 13: _shopify_sa_t
+[Before] Cookie-Name 14: _gcl_au
+[Before] Cookie-Name 15: shopify_pay_redirect
+[Before] Cookie-Name 16: cart_sig
+[Before] Cookie-Name 17: _landing_page
+[Before] Cookie-Name 18: _shopify_s
+[Before] Cookie-Name 19: _s
+[Before] Cookie-Name 20: _y
+[Before] Cookie-Name 21: _shopify_y
+[Before] Cookie-Name 22: cart
+[Before] Cookie-Name 23: _orig_referrer
+[Before] Cookie-Name 24: cart_ts
+[Before] Cookie-Name 25: _uetsid
+[Before] Cookie-Name 26: localization
+[Before] Cookie-Name 27: _fbp
+[Before] Cookie-Name 28: cart_currency
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 29
+[After] Website-Cookies: [{'domain': 'www.lucybalu.de', 'expiry': 1647113296, 'httpOnly': False, 'name': 'fixed-message', 'path': '/', 'secure': False, 'value': 'dismiss'}, {'domain': 'www.lucybalu.de', 'expiry': 1707593280, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ1MjEyODEsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3Lmx1Y3liYWx1LmRlLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDUyMTI4MSwidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly93d3cubHVjeWJhbHUuZGUvIn19'}, {'domain': 'www.lucybalu.de', 'expiry': 1645730879, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': '.www.lucybalu.de', 'expiry': 1676057280, 'httpOnly': False, 'name': 'geo_data', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': '{%22as%22:%22n/a%22%2C%22asname%22:%22n/a%22%2C%22mobile%22:false%2C%22proxy%22:false%2C%22city%22:%22Polch%22%2C%22currency%22:{%22code%22:%22EUR%22}%2C%22country%22:{%22code%22:%22DE%22%2C%22country%22:%22Germany%22}%2C%22countryCode%22:%22DE%22%2C%22continent%22:%22Europe%22%2C%22continentCode%22:%22EU%22%2C%22isp%22:%22n/a%22%2C%22lat%22:50.3023%2C%22lon%22:7.3194%2C%22org%22:%22n/a%22%2C%22query%22:%2291.184.168.63%22%2C%22region%22:%22RP%22%2C%22regionName%22:%22Rheinland-Pfalz%22%2C%22status%22:%22success%22%2C%22timezone%22:%22Europe/Berlin%22%2C%22zip%22:%2256751%22%2C%22cloudflare%22:%22%22%2C%22ttl%22:0%2C%22env%22:%22PROD%22%2C%22build%22:%22maxmind%2008%20Feb%2022%2009:27%20UTC%22%2C%22currencyCode%22:%22EUR%22%2C%22countryName%22:%22Germany%22%2C%22service%22:%22ip.lovely-app.com%22}'}, {'domain': '.lucybalu.de', 'expiry': 1678217279, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '8e9c9c908aa711ec86513bd0bdefd05b'}, {'domain': '.lucybalu.de', 'expiry': 1644607679, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1679310172.1644521280'}, {'domain': '.lucybalu.de', 'expiry': 1676057280, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': '1pfykm9|1|eyv|0'}, {'domain': '.lucybalu.de', 'expiry': 1676057280, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU56YzFZbVU0WW1VdFpUazFaUzAwTUdSakxXSmtaVEF0WlRJNU9UQmpaRFF4TkdRMg'}, {'domain': '.lucybalu.de', 'expiry': 1707593279, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.671149942.1644521280'}, {'domain': '.lucybalu.de', 'expiry': 1644523079, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.lucybalu.de', 'expiry': 1644607680, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': '1hx3nvg|1644521280843|1|1|i.clarity.ms/collect'}, {'domain': 'www.lucybalu.de', 'expiry': 1676057296, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.lucybalu.de', 'expiry': 1644521339, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.lucybalu.de', 'expiry': 1644523079, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T19%3A27%3A59.360Z'}, {'domain': '.lucybalu.de', 'expiry': 1652297278, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.920250803.1644521279'}, {'domain': 'www.lucybalu.de', 'expiry': 1644524879, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'www.lucybalu.de', 'expiry': 1645730879, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b56bc2d17aaba881699c818b506e67ce'}, {'domain': '.lucybalu.de', 'expiry': 1645730878, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.lucybalu.de', 'expiry': 1644523097, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6fe59ce2-5f62-4c7f-bd6a-0ce61c5df762'}, {'domain': '.lucybalu.de', 'expiry': 1644523097, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6fe59ce2-5f62-4c7f-bd6a-0ce61c5df762'}, {'domain': '.lucybalu.de', 'expiry': 1676057297, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '32240e54-6bf5-4be4-9041-5e98300a9d26'}, {'domain': '.lucybalu.de', 'expiry': 1676057297, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '32240e54-6bf5-4be4-9041-5e98300a9d26'}, {'domain': 'www.lucybalu.de', 'expiry': 1645730879, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b566e681baafe3c42795c73bb4547b3d'}, {'domain': '.lucybalu.de', 'expiry': 1645730878, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.lucybalu.de', 'expiry': 1645730879, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644521279'}, {'domain': '.lucybalu.de', 'expiry': 1644607679, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': '8e9cb1608aa711ec8d9fe99728576935'}, {'domain': 'www.lucybalu.de', 'expiry': 1645730896, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.lucybalu.de', 'expiry': 1652297296, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644521279879.359368942'}, {'domain': 'www.lucybalu.de', 'expiry': 1645730896, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}]
+[After] Cookie-Name 1: fixed-message
+[After] Cookie-Name 2: __kla_id
+[After] Cookie-Name 3: cart_ver
+[After] Cookie-Name 4: geo_data
+[After] Cookie-Name 5: _uetvid
+[After] Cookie-Name 6: _gid
+[After] Cookie-Name 7: _clck
+[After] Cookie-Name 8: _pin_unauth
+[After] Cookie-Name 9: _ga
+[After] Cookie-Name 10: _shopify_sa_p
+[After] Cookie-Name 11: _clsk
+[After] Cookie-Name 12: secure_customer_sig
+[After] Cookie-Name 13: _gat
+[After] Cookie-Name 14: _shopify_sa_t
+[After] Cookie-Name 15: _gcl_au
+[After] Cookie-Name 16: shopify_pay_redirect
+[After] Cookie-Name 17: cart_sig
+[After] Cookie-Name 18: _landing_page
+[After] Cookie-Name 19: _shopify_s
+[After] Cookie-Name 20: _s
+[After] Cookie-Name 21: _y
+[After] Cookie-Name 22: _shopify_y
+[After] Cookie-Name 23: cart
+[After] Cookie-Name 24: _orig_referrer
+[After] Cookie-Name 25: cart_ts
+[After] Cookie-Name 26: _uetsid
+[After] Cookie-Name 27: localization
+[After] Cookie-Name 28: _fbp
+[After] Cookie-Name 29: cart_currency
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _clck (Microsoft Clarity (User experience tool))
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _clsk (Microsoft Clarity (User experience tool))
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: fixed-message
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

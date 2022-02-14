@@ -1,0 +1,67 @@
+Website 252: http://www.your-happy-home.de/ | Created: 10.02.2022 21:13:06 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 17
+[Before] Website-Cookies: [{'domain': 'your-happy-home.de', 'expiry': 1676059978, 'httpOnly': False, 'name': 'optiMonkClient', 'path': '/', 'secure': False, 'value': 'N4IgjATGCcAcBsIBcoDGBDZoDMWTtQBdkAGAGnwAdLSLUAnZEAVgDNntVZUBTE2AEYB2WCTFhYQsKgAs2HiAoA7APYATWiADOTAJZLdxAL5GKrAG7Iw8GTOYRs0ERQA2lpNdv3HzkKsruYCZAA=='}, {'domain': 'your-happy-home.de', 'expiry': 1644610376, 'httpOnly': False, 'name': '_shopify_scrts', 'path': '/', 'secure': False, 'value': 'your-happy-home.de'}, {'domain': '.your-happy-home.de', 'expiry': 1707595975, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.25080019.1644523976'}, {'domain': '.your-happy-home.de', 'expiry': 1644525775, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T20%3A12%3A55.772Z'}, {'domain': '.your-happy-home.de', 'expiry': 1676059988, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5278a64a-dd52-41d5-af60-183069d4a04f'}, {'domain': '.your-happy-home.de', 'expiry': 1644525788, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a25f24a2-b47d-42eb-b7af-cd313361f27f'}, {'domain': '.your-happy-home.de', 'expiry': 1644610375, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.67883208.1644523976'}, {'domain': '.your-happy-home.de', 'expiry': 1676059988, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5278a64a-dd52-41d5-af60-183069d4a04f'}, {'domain': '.your-happy-home.de', 'expiry': 1652299975, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.675647835.1644523976'}, {'domain': '.your-happy-home.de', 'expiry': 1644525788, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a25f24a2-b47d-42eb-b7af-cd313361f27f'}, {'domain': '.your-happy-home.de', 'expiry': 1644525775, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.your-happy-home.de', 'expiry': 1645733575, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.your-happy-home.de', 'expiry': 1645733575, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'your-happy-home.de', 'httpOnly': False, 'name': 'optiMonkSession', 'path': '/', 'secure': False, 'value': '1644523978'}, {'domain': 'your-happy-home.de', 'expiry': 1676059978, 'httpOnly': False, 'name': 'optiMonkClientId', 'path': '/', 'secure': False, 'value': '5a54bf85-9964-4358-0ba8-9c14759218fa'}, {'domain': '.your-happy-home.de', 'expiry': 1644524035, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'your-happy-home.de', 'expiry': 1676059988, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: optiMonkClient
+[Before] Cookie-Name 2: _shopify_scrts
+[Before] Cookie-Name 3: _ga
+[Before] Cookie-Name 4: _shopify_sa_t
+[Before] Cookie-Name 5: _y
+[Before] Cookie-Name 6: _shopify_s
+[Before] Cookie-Name 7: _gid
+[Before] Cookie-Name 8: _shopify_y
+[Before] Cookie-Name 9: _gcl_au
+[Before] Cookie-Name 10: _s
+[Before] Cookie-Name 11: _shopify_sa_p
+[Before] Cookie-Name 12: _landing_page
+[Before] Cookie-Name 13: _orig_referrer
+[Before] Cookie-Name 14: optiMonkSession
+[Before] Cookie-Name 15: optiMonkClientId
+[Before] Cookie-Name 16: _gat
+[Before] Cookie-Name 17: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 17
+[After] Website-Cookies: [{'domain': 'your-happy-home.de', 'expiry': 1676059978, 'httpOnly': False, 'name': 'optiMonkClient', 'path': '/', 'secure': False, 'value': 'N4IgjATGCcAcBsIBcoDGBDZoDMWTtQBdkAGAGnwAdLSLUAnZEAVgDNntVZUBTE2AEYB2WCTFhYQsKgAs2HiAoA7APYATWiADOTAJZLdxAL5GKrAG7Iw8GTOYRs0ERQA2lpNdv3HzkKsruYCZAA=='}, {'domain': 'your-happy-home.de', 'expiry': 1644610376, 'httpOnly': False, 'name': '_shopify_scrts', 'path': '/', 'secure': False, 'value': 'your-happy-home.de'}, {'domain': '.your-happy-home.de', 'expiry': 1707595975, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.25080019.1644523976'}, {'domain': '.your-happy-home.de', 'expiry': 1644525775, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T20%3A12%3A55.772Z'}, {'domain': '.your-happy-home.de', 'expiry': 1676059988, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5278a64a-dd52-41d5-af60-183069d4a04f'}, {'domain': '.your-happy-home.de', 'expiry': 1644525788, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a25f24a2-b47d-42eb-b7af-cd313361f27f'}, {'domain': '.your-happy-home.de', 'expiry': 1644610375, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.67883208.1644523976'}, {'domain': '.your-happy-home.de', 'expiry': 1676059988, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5278a64a-dd52-41d5-af60-183069d4a04f'}, {'domain': '.your-happy-home.de', 'expiry': 1652299975, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.675647835.1644523976'}, {'domain': '.your-happy-home.de', 'expiry': 1644525788, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a25f24a2-b47d-42eb-b7af-cd313361f27f'}, {'domain': '.your-happy-home.de', 'expiry': 1644525775, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.your-happy-home.de', 'expiry': 1645733575, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.your-happy-home.de', 'expiry': 1645733575, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'your-happy-home.de', 'httpOnly': False, 'name': 'optiMonkSession', 'path': '/', 'secure': False, 'value': '1644523978'}, {'domain': 'your-happy-home.de', 'expiry': 1676059978, 'httpOnly': False, 'name': 'optiMonkClientId', 'path': '/', 'secure': False, 'value': '5a54bf85-9964-4358-0ba8-9c14759218fa'}, {'domain': '.your-happy-home.de', 'expiry': 1644524035, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'your-happy-home.de', 'expiry': 1676059988, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: optiMonkClient
+[After] Cookie-Name 2: _shopify_scrts
+[After] Cookie-Name 3: _ga
+[After] Cookie-Name 4: _shopify_sa_t
+[After] Cookie-Name 5: _y
+[After] Cookie-Name 6: _shopify_s
+[After] Cookie-Name 7: _gid
+[After] Cookie-Name 8: _shopify_y
+[After] Cookie-Name 9: _gcl_au
+[After] Cookie-Name 10: _s
+[After] Cookie-Name 11: _shopify_sa_p
+[After] Cookie-Name 12: _landing_page
+[After] Cookie-Name 13: _orig_referrer
+[After] Cookie-Name 14: optiMonkSession
+[After] Cookie-Name 15: optiMonkClientId
+[After] Cookie-Name 16: _gat
+[After] Cookie-Name 17: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _gat (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

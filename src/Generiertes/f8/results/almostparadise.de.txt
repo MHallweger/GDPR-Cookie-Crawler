@@ -1,0 +1,85 @@
+Website 11: http://www.almostparadise.de/ | Created: 10.02.2022 20:00:42 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 23
+[Before] Website-Cookies: [{'domain': '.almostparadise.de', 'expiry': 1707591633, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.1.1101689253.1644519634'}, {'domain': 'almostparadise.de', 'expiry': 1644523233, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.almostparadise.de', 'expiry': 1707591633, 'httpOnly': False, 'name': '_ga_4J6Q2S8SGD', 'path': '/', 'secure': False, 'value': 'GS1.1.1644519633.1.0.1644519633.0'}, {'domain': '.almostparadise.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T19%3A00%3A33.422Z'}, {'domain': '.almostparadise.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'almostparadise.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.almostparadise.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T19%3A00%3A33.378Z'}, {'domain': '.almostparadise.de', 'expiry': 1676055633, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.almostparadise.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0b946454-7a28-46af-9dcf-c15c6996f38c'}, {'domain': '.almostparadise.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '75e237b9-5b67-4a8c-b57f-a47690b3aaaa'}, {'domain': 'almostparadise.de', 'expiry': 1645729234, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.almostparadise.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.almostparadise.de', 'expiry': 1652295634, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644519633658.539993288'}, {'domain': '.almostparadise.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.almostparadise.de', 'expiry': 1645729233, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.almostparadise.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'almostparadise.de', 'expiry': 1645729233, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.almostparadise.de', 'expiry': 1644521434, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.almostparadise.de', 'expiry': 1676055633, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%7D'}, {'domain': '.almostparadise.de', 'expiry': 1652295633, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.750006833.1644519633'}, {'domain': '.almostparadise.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0b946454-7a28-46af-9dcf-c15c6996f38c'}, {'domain': '.almostparadise.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '75e237b9-5b67-4a8c-b57f-a47690b3aaaa'}, {'domain': 'almostparadise.de', 'expiry': 1676055634, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _ga
+[Before] Cookie-Name 2: shopify_pay_redirect
+[Before] Cookie-Name 3: _ga_4J6Q2S8SGD
+[Before] Cookie-Name 4: _shopify_sa_t
+[Before] Cookie-Name 5: _shopify_evids
+[Before] Cookie-Name 6: _shopify_evids
+[Before] Cookie-Name 7: _shopify_d
+[Before] Cookie-Name 8: _shopify_m
+[Before] Cookie-Name 9: _s
+[Before] Cookie-Name 10: _y
+[Before] Cookie-Name 11: localization
+[Before] Cookie-Name 12: _landing_page
+[Before] Cookie-Name 13: _fbp
+[Before] Cookie-Name 14: _shopify_sa_p
+[Before] Cookie-Name 15: _shopify_tw
+[Before] Cookie-Name 16: _orig_referrer
+[Before] Cookie-Name 17: cart_currency
+[Before] Cookie-Name 18: _shopify_tm
+[Before] Cookie-Name 19: _tracking_consent
+[Before] Cookie-Name 20: _gcl_au
+[Before] Cookie-Name 21: _shopify_s
+[Before] Cookie-Name 22: _shopify_y
+[Before] Cookie-Name 23: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 28
+[After] Website-Cookies: [{'domain': '.almostparadise.de', 'expiry': 1676055647, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22con%22%3A%7B%22GDPR%22%3A%221%22%7D%7D'}, {'domain': '.almostparadise.de', 'expiry': 1676055647, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': 'almostparadise.de', 'expiry': 1645729247, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': 'almostparadise.de', 'expiry': 1645729247, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2dbee2608c1a1742d8775d25e81250d8'}, {'domain': 'almostparadise.de', 'expiry': 1645729247, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644519647'}, {'domain': '.almostparadise.de', 'expiry': 1644521447, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0b946454-7a28-46af-9dcf-c15c6996f38c'}, {'domain': 'almostparadise.de', 'expiry': 1676055647, 'httpOnly': False, 'name': 'eg_cookieconsent_status', 'path': '/', 'secure': False, 'value': 'dismiss'}, {'domain': '.almostparadise.de', 'expiry': 1707591633, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.1.1101689253.1644519634'}, {'domain': 'almostparadise.de', 'expiry': 1644523233, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.almostparadise.de', 'expiry': 1676055647, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '75e237b9-5b67-4a8c-b57f-a47690b3aaaa'}, {'domain': '.almostparadise.de', 'expiry': 1707591633, 'httpOnly': False, 'name': '_ga_4J6Q2S8SGD', 'path': '/', 'secure': False, 'value': 'GS1.1.1644519633.1.0.1644519633.0'}, {'domain': 'almostparadise.de', 'expiry': 1645729247, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '75a8ee0e7d7388103814820091bb3772'}, {'domain': '.almostparadise.de', 'expiry': 1644521447, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T19%3A00%3A33.422Z'}, {'domain': '.almostparadise.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'almostparadise.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.almostparadise.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T19%3A00%3A33.378Z'}, {'domain': '.almostparadise.de', 'expiry': 1644521447, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0b946454-7a28-46af-9dcf-c15c6996f38c'}, {'domain': '.almostparadise.de', 'expiry': 1676055647, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '75e237b9-5b67-4a8c-b57f-a47690b3aaaa'}, {'domain': 'almostparadise.de', 'expiry': 1645729247, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.almostparadise.de', 'expiry': 1645729247, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.almostparadise.de', 'expiry': 1652295647, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644519633658.539993288'}, {'domain': 'almostparadise.de', 'expiry': 1676055647, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.almostparadise.de', 'expiry': 1652295633, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.750006833.1644519633'}, {'domain': '.almostparadise.de', 'expiry': 1645729247, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.almostparadise.de', 'expiry': 1644521447, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.almostparadise.de', 'expiry': 1645729233, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'almostparadise.de', 'expiry': 1645729247, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.almostparadise.de', 'expiry': 1644521447, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: _tracking_consent
+[After] Cookie-Name 2: _shopify_m
+[After] Cookie-Name 3: cart_ver
+[After] Cookie-Name 4: cart_sig
+[After] Cookie-Name 5: cart_ts
+[After] Cookie-Name 6: _shopify_s
+[After] Cookie-Name 7: eg_cookieconsent_status
+[After] Cookie-Name 8: _ga
+[After] Cookie-Name 9: shopify_pay_redirect
+[After] Cookie-Name 10: _shopify_y
+[After] Cookie-Name 11: _ga_4J6Q2S8SGD
+[After] Cookie-Name 12: cart
+[After] Cookie-Name 13: _shopify_sa_t
+[After] Cookie-Name 14: _shopify_evids
+[After] Cookie-Name 15: _shopify_evids
+[After] Cookie-Name 16: _shopify_d
+[After] Cookie-Name 17: _s
+[After] Cookie-Name 18: _y
+[After] Cookie-Name 19: localization
+[After] Cookie-Name 20: _landing_page
+[After] Cookie-Name 21: _fbp
+[After] Cookie-Name 22: secure_customer_sig
+[After] Cookie-Name 23: _gcl_au
+[After] Cookie-Name 24: _orig_referrer
+[After] Cookie-Name 25: _shopify_sa_p
+[After] Cookie-Name 26: _shopify_tw
+[After] Cookie-Name 27: cart_currency
+[After] Cookie-Name 28: _shopify_tm
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 5
+[Difference] Cookie-Name: 1: cart
+[Difference] Cookie-Name: 2: eg_cookieconsent_status
+[Difference] Cookie-Name: 3: cart_sig
+[Difference] Cookie-Name: 4: cart_ts
+[Difference] Cookie-Name: 5: cart_ver
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

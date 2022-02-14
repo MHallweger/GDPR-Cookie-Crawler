@@ -1,0 +1,118 @@
+Website 122: http://www.yoursuperfoods.de/ | Created: 10.02.2022 12:48:28 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 41
+[Before] Website-Cookies: [{'domain': '.yoursuperfoods.de', 'expiry': 1644495498, 'httpOnly': False, 'name': '_ju_pn', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.yoursuperfoods.de', 'httpOnly': False, 'name': 'snize-recommendation', 'path': '/', 'secure': False, 'value': '6s7ylaqvdtm'}, {'domain': '.yoursuperfoods.de', 'expiry': 1676029701, 'httpOnly': False, 'name': '_ju_dc', 'path': '/', 'secure': False, 'value': '5863b31b-8a67-11ec-b45e-8d792162f199'}, {'domain': '.yoursuperfoods.de', 'expiry': 1647085700, 'httpOnly': False, 'name': '_ju_dn', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.yoursuperfoods.de', 'expiry': 1644580100, 'httpOnly': False, 'name': '_ju_dm', 'path': '/', 'secure': False, 'value': 'cookie'}, {'domain': 'www.yoursuperfoods.de', 'expiry': 1644495497, 'httpOnly': False, 'name': '_ju_v', 'path': '/', 'secure': True, 'value': '4.1_5.05'}, {'domain': '.yoursuperfoods.de', 'expiry': 1678189699, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '577839d08a6711ec9e6dc333685941c4'}, {'domain': 'www.yoursuperfoods.de', 'expiry': 1802173699, 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'secure': True, 'value': '973dc3a3-ef63-43f3-a337-4a528be4d292'}, {'domain': 'www.yoursuperfoods.de', 'expiry': 1645703309, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.www.yoursuperfoods.de', 'expiry': 1676029698, 'httpOnly': False, 'name': 'geo_data', 'path': '/', 'secure': False, 'value': '{%22as%22:%22AS9063%20VSE%20NET%20GmbH%22%2C%22city%22:%22Kierspe%22%2C%22country%22:%22Germany%22%2C%22countryCode%22:%22DE%22%2C%22isp%22:%22VSE%20NET%20GmbH%22%2C%22lat%22:51.134%2C%22lon%22:7.59075%2C%22org%22:%22Innogy%20Fttx%22%2C%22query%22:%2291.184.168.63%22%2C%22region%22:%22NW%22%2C%22regionName%22:%22North%20Rhine-Westphalia%22%2C%22status%22:%22success%22%2C%22timezone%22:%22Europe/Berlin%22%2C%22zip%22:%2258566%22}'}, {'domain': '.yoursuperfoods.de', 'expiry': 1959853698, 'httpOnly': False, 'name': 'amplitude_idyoursuperfoods.de', 'path': '/', 'secure': False, 'value': 'eyJkZXZpY2VJZCI6ImYxOTU3NjRjLWVmODAtNDU5MS04MmY3LWM0ZjM4ZDAyZTRhNFIiLCJ1c2VySWQiOm51bGwsIm9wdE91dCI6ZmFsc2UsInNlc3Npb25JZCI6MTY0NDQ5MzY5ODU3MCwibGFzdEV2ZW50VGltZSI6MTY0NDQ5MzY5ODU3MCwiZXZlbnRJZCI6MCwiaWRlbnRpZnlJZCI6MCwic2VxdWVuY2VOdW1iZXIiOjB9'}, {'domain': 'www.yoursuperfoods.de', 'expiry': 1707565698, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0OTM2OTgsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LnlvdXJzdXBlcmZvb2RzLmRlLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDQ5MzY5OCwidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly93d3cueW91cnN1cGVyZm9vZHMuZGUvIn19'}, {'domain': '.yoursuperfoods.de', 'expiry': 1644495498, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.yoursuperfoods.de', 'expiry': 1644495498, 'httpOnly': False, 'name': '_hjSession_1157858', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjFkM2FiNzRkLTc3MDktNDkzMy05MzZhLWE3NjI1ODBhMzljYiIsImNyZWF0ZWQiOjE2NDQ0OTM2OTg0MzksImluU2FtcGxlIjpmYWxzZX0='}, {'domain': '.yoursuperfoods.de', 'httpOnly': False, 'name': 'IR_gbd', 'path': '/', 'secure': False, 'value': 'yoursuperfoods.de'}, {'domain': '.yoursuperfoods.de', 'expiry': 1678657699, 'httpOnly': False, 'name': 'cto_bundle', 'path': '/', 'secure': False, 'value': '6E5JD193djV3Mzd0eFdBc1RzZ012NU51c3Z5NDNMelJaJTJCUWhkc3klMkZNVFdSUVRwJTJGT0FrejJCbWclMkJ0UEhVcHJHMUpUbzVnaXZGTGNYd1ZFN1NYeTdPOUNoVWclMkZHWjh6bXV4NXRYRXJOeFQwOTNpUTRJdU1wYXZBWmpUOTk0UFh0NmduSVJqZ0RPRVo4VUZTaGhIRUFKU2s1QXlBJTNEJTNE'}, {'domain': '.yoursuperfoods.de', 'httpOnly': False, 'name': 'IR_11078', 'path': '/', 'secure': False, 'value': '1644493698268%7C0%7C1644493698268%7C%7C'}, {'domain': '.yoursuperfoods.de', 'expiry': 1644495498, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T11%3A48%3A18.493Z'}, {'domain': '.yoursuperfoods.de', 'expiry': 1676029698, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVpqUXdaRGd3Wm1RdFpqUTJOQzAwWmpkaUxXRXhaakF0Wmpkak5EZGtPVEEwWkRVdw'}, {'domain': '.yoursuperfoods.de', 'expiry': 1652269698, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1457471255.1644493698'}, {'domain': '.yoursuperfoods.de', 'expiry': 1644495498, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': 'www.yoursuperfoods.de', 'expiry': 1959853699, 'httpOnly': False, 'name': 'octane%2Fshopify%2Fuid', 'path': '/', 'secure': False, 'value': '39d1e79aacedfa339e0f9352ff72361174b6bacdab49ad4ac0dd53f149fbf915e4396945806a8556bd6958dbfb251c8c5ed82b7ec32a471ba90035e7'}, {'domain': '.yoursuperfoods.de', 'expiry': 1644495509, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f5a5df56-c514-41ed-bbdf-918be5f3f426'}, {'domain': '.yoursuperfoods.de', 'expiry': 1644580099, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': '57781c908a6711ec93021d5505315071'}, {'domain': '.yoursuperfoods.de', 'expiry': 1676029709, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6328a0a2-751f-4de3-b512-cf1a8eded415'}, {'domain': 'www.yoursuperfoods.de', 'expiry': 1644497298, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.yoursuperfoods.de', 'expiry': 1676029698, 'httpOnly': False, 'name': '_hjSessionUser_1157858', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjkxMmQ2ZDAxLTUwODAtNWQxNS05ZWFkLWVlODJiM2NiN2M1YSIsImNyZWF0ZWQiOjE2NDQ0OTM2OTgyOTksImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.yoursuperfoods.de', 'expiry': 1676029709, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6328a0a2-751f-4de3-b512-cf1a8eded415'}, {'domain': '.yoursuperfoods.de', 'expiry': 1652269699, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644493699147.295015019'}, {'domain': '.yoursuperfoods.de', 'expiry': 1644495498, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.yoursuperfoods.de', 'expiry': 1676029698, 'httpOnly': False, 'name': 'OptanonConsent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'isGpcEnabled=0&datestamp=Thu+Feb+10+2022+12%3A48%3A18+GMT%2B0100+(Mitteleurop%C3%A4ische+Normalzeit)&version=6.24.0&isIABGlobal=false&hosts=&landingPath=https%3A%2F%2Fwww.yoursuperfoods.de%2F&groups=C0003%3A0%2CC0002%3A0%2CC0004%3A0%2CC0005%3A0%2CC0001%3A1'}, {'domain': 'www.yoursuperfoods.de', 'expiry': 1707565699, 'httpOnly': False, 'name': '_sp_id.ef13', 'path': '/', 'secure': False, 'value': '52faaa2b109fd9fe.1644493698.1.1644493700.1644493698'}, {'domain': 'www.yoursuperfoods.de', 'expiry': 1676029697, 'httpOnly': False, 'name': 'ba-pr-id', 'path': '/', 'secure': False, 'value': ''}, {'domain': 'www.yoursuperfoods.de', 'expiry': 1644495499, 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'secure': True, 'value': '034054c9-67b1-4316-9f63-34c56345375c'}, {'domain': 'www.yoursuperfoods.de', 'expiry': 1644495497, 'httpOnly': False, 'name': '_shopify_country', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'Germany'}, {'domain': 'www.yoursuperfoods.de', 'expiry': 1676029709, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'www.yoursuperfoods.de', 'expiry': 1645703309, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.yoursuperfoods.de', 'expiry': 1645703297, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.yoursuperfoods.de', 'expiry': 1644495509, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f5a5df56-c514-41ed-bbdf-918be5f3f426'}, {'domain': 'www.yoursuperfoods.de', 'expiry': 1644495499, 'httpOnly': False, 'name': '_sp_ses.ef13', 'path': '/', 'secure': False, 'value': '*'}, {'domain': '.yoursuperfoods.de', 'expiry': 1645703297, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[Before] Cookie-Name 1: _ju_pn
+[Before] Cookie-Name 2: snize-recommendation
+[Before] Cookie-Name 3: _ju_dc
+[Before] Cookie-Name 4: _ju_dn
+[Before] Cookie-Name 5: _ju_dm
+[Before] Cookie-Name 6: _ju_v
+[Before] Cookie-Name 7: _uetvid
+[Before] Cookie-Name 8: _shg_user_id
+[Before] Cookie-Name 9: localization
+[Before] Cookie-Name 10: geo_data
+[Before] Cookie-Name 11: amplitude_idyoursuperfoods.de
+[Before] Cookie-Name 12: __kla_id
+[Before] Cookie-Name 13: _hjFirstSeen
+[Before] Cookie-Name 14: _hjSession_1157858
+[Before] Cookie-Name 15: IR_gbd
+[Before] Cookie-Name 16: cto_bundle
+[Before] Cookie-Name 17: IR_11078
+[Before] Cookie-Name 18: _shopify_sa_t
+[Before] Cookie-Name 19: _pin_unauth
+[Before] Cookie-Name 20: _gcl_au
+[Before] Cookie-Name 21: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 22: octane%2Fshopify%2Fuid
+[Before] Cookie-Name 23: _shopify_s
+[Before] Cookie-Name 24: _uetsid
+[Before] Cookie-Name 25: _shopify_y
+[Before] Cookie-Name 26: shopify_pay_redirect
+[Before] Cookie-Name 27: _hjSessionUser_1157858
+[Before] Cookie-Name 28: _y
+[Before] Cookie-Name 29: _fbp
+[Before] Cookie-Name 30: _shopify_sa_p
+[Before] Cookie-Name 31: OptanonConsent
+[Before] Cookie-Name 32: _sp_id.ef13
+[Before] Cookie-Name 33: ba-pr-id
+[Before] Cookie-Name 34: _shg_session_id
+[Before] Cookie-Name 35: _shopify_country
+[Before] Cookie-Name 36: secure_customer_sig
+[Before] Cookie-Name 37: cart_currency
+[Before] Cookie-Name 38: _landing_page
+[Before] Cookie-Name 39: _s
+[Before] Cookie-Name 40: _sp_ses.ef13
+[Before] Cookie-Name 41: _orig_referrer
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 41
+[After] Website-Cookies: [{'domain': '.yoursuperfoods.de', 'expiry': 1644495498, 'httpOnly': False, 'name': '_ju_pn', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.yoursuperfoods.de', 'httpOnly': False, 'name': 'snize-recommendation', 'path': '/', 'secure': False, 'value': '6s7ylaqvdtm'}, {'domain': '.yoursuperfoods.de', 'expiry': 1676029701, 'httpOnly': False, 'name': '_ju_dc', 'path': '/', 'secure': False, 'value': '5863b31b-8a67-11ec-b45e-8d792162f199'}, {'domain': '.yoursuperfoods.de', 'expiry': 1647085700, 'httpOnly': False, 'name': '_ju_dn', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.yoursuperfoods.de', 'expiry': 1644580100, 'httpOnly': False, 'name': '_ju_dm', 'path': '/', 'secure': False, 'value': 'cookie'}, {'domain': 'www.yoursuperfoods.de', 'expiry': 1644495497, 'httpOnly': False, 'name': '_ju_v', 'path': '/', 'secure': True, 'value': '4.1_5.05'}, {'domain': '.yoursuperfoods.de', 'expiry': 1678189699, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '577839d08a6711ec9e6dc333685941c4'}, {'domain': 'www.yoursuperfoods.de', 'expiry': 1802173699, 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'secure': True, 'value': '973dc3a3-ef63-43f3-a337-4a528be4d292'}, {'domain': 'www.yoursuperfoods.de', 'expiry': 1645703309, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.www.yoursuperfoods.de', 'expiry': 1676029698, 'httpOnly': False, 'name': 'geo_data', 'path': '/', 'secure': False, 'value': '{%22as%22:%22AS9063%20VSE%20NET%20GmbH%22%2C%22city%22:%22Kierspe%22%2C%22country%22:%22Germany%22%2C%22countryCode%22:%22DE%22%2C%22isp%22:%22VSE%20NET%20GmbH%22%2C%22lat%22:51.134%2C%22lon%22:7.59075%2C%22org%22:%22Innogy%20Fttx%22%2C%22query%22:%2291.184.168.63%22%2C%22region%22:%22NW%22%2C%22regionName%22:%22North%20Rhine-Westphalia%22%2C%22status%22:%22success%22%2C%22timezone%22:%22Europe/Berlin%22%2C%22zip%22:%2258566%22}'}, {'domain': '.yoursuperfoods.de', 'expiry': 1959853698, 'httpOnly': False, 'name': 'amplitude_idyoursuperfoods.de', 'path': '/', 'secure': False, 'value': 'eyJkZXZpY2VJZCI6ImYxOTU3NjRjLWVmODAtNDU5MS04MmY3LWM0ZjM4ZDAyZTRhNFIiLCJ1c2VySWQiOm51bGwsIm9wdE91dCI6ZmFsc2UsInNlc3Npb25JZCI6MTY0NDQ5MzY5ODU3MCwibGFzdEV2ZW50VGltZSI6MTY0NDQ5MzY5ODU3MCwiZXZlbnRJZCI6MCwiaWRlbnRpZnlJZCI6MCwic2VxdWVuY2VOdW1iZXIiOjB9'}, {'domain': 'www.yoursuperfoods.de', 'expiry': 1707565698, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0OTM2OTgsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LnlvdXJzdXBlcmZvb2RzLmRlLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDQ5MzY5OCwidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly93d3cueW91cnN1cGVyZm9vZHMuZGUvIn19'}, {'domain': '.yoursuperfoods.de', 'expiry': 1644495498, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.yoursuperfoods.de', 'expiry': 1644495498, 'httpOnly': False, 'name': '_hjSession_1157858', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjFkM2FiNzRkLTc3MDktNDkzMy05MzZhLWE3NjI1ODBhMzljYiIsImNyZWF0ZWQiOjE2NDQ0OTM2OTg0MzksImluU2FtcGxlIjpmYWxzZX0='}, {'domain': '.yoursuperfoods.de', 'httpOnly': False, 'name': 'IR_gbd', 'path': '/', 'secure': False, 'value': 'yoursuperfoods.de'}, {'domain': '.yoursuperfoods.de', 'expiry': 1678657699, 'httpOnly': False, 'name': 'cto_bundle', 'path': '/', 'secure': False, 'value': '6E5JD193djV3Mzd0eFdBc1RzZ012NU51c3Z5NDNMelJaJTJCUWhkc3klMkZNVFdSUVRwJTJGT0FrejJCbWclMkJ0UEhVcHJHMUpUbzVnaXZGTGNYd1ZFN1NYeTdPOUNoVWclMkZHWjh6bXV4NXRYRXJOeFQwOTNpUTRJdU1wYXZBWmpUOTk0UFh0NmduSVJqZ0RPRVo4VUZTaGhIRUFKU2s1QXlBJTNEJTNE'}, {'domain': '.yoursuperfoods.de', 'httpOnly': False, 'name': 'IR_11078', 'path': '/', 'secure': False, 'value': '1644493698268%7C0%7C1644493698268%7C%7C'}, {'domain': '.yoursuperfoods.de', 'expiry': 1644495498, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T11%3A48%3A18.493Z'}, {'domain': '.yoursuperfoods.de', 'expiry': 1676029698, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVpqUXdaRGd3Wm1RdFpqUTJOQzAwWmpkaUxXRXhaakF0Wmpkak5EZGtPVEEwWkRVdw'}, {'domain': '.yoursuperfoods.de', 'expiry': 1652269698, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1457471255.1644493698'}, {'domain': '.yoursuperfoods.de', 'expiry': 1644495498, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': 'www.yoursuperfoods.de', 'expiry': 1959853699, 'httpOnly': False, 'name': 'octane%2Fshopify%2Fuid', 'path': '/', 'secure': False, 'value': '39d1e79aacedfa339e0f9352ff72361174b6bacdab49ad4ac0dd53f149fbf915e4396945806a8556bd6958dbfb251c8c5ed82b7ec32a471ba90035e7'}, {'domain': '.yoursuperfoods.de', 'expiry': 1644495509, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f5a5df56-c514-41ed-bbdf-918be5f3f426'}, {'domain': '.yoursuperfoods.de', 'expiry': 1644580099, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': '57781c908a6711ec93021d5505315071'}, {'domain': '.yoursuperfoods.de', 'expiry': 1676029709, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6328a0a2-751f-4de3-b512-cf1a8eded415'}, {'domain': 'www.yoursuperfoods.de', 'expiry': 1644497298, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.yoursuperfoods.de', 'expiry': 1676029698, 'httpOnly': False, 'name': '_hjSessionUser_1157858', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjkxMmQ2ZDAxLTUwODAtNWQxNS05ZWFkLWVlODJiM2NiN2M1YSIsImNyZWF0ZWQiOjE2NDQ0OTM2OTgyOTksImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.yoursuperfoods.de', 'expiry': 1676029709, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6328a0a2-751f-4de3-b512-cf1a8eded415'}, {'domain': '.yoursuperfoods.de', 'expiry': 1652269699, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644493699147.295015019'}, {'domain': '.yoursuperfoods.de', 'expiry': 1644495498, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.yoursuperfoods.de', 'expiry': 1676029698, 'httpOnly': False, 'name': 'OptanonConsent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'isGpcEnabled=0&datestamp=Thu+Feb+10+2022+12%3A48%3A18+GMT%2B0100+(Mitteleurop%C3%A4ische+Normalzeit)&version=6.24.0&isIABGlobal=false&hosts=&landingPath=https%3A%2F%2Fwww.yoursuperfoods.de%2F&groups=C0003%3A0%2CC0002%3A0%2CC0004%3A0%2CC0005%3A0%2CC0001%3A1'}, {'domain': 'www.yoursuperfoods.de', 'expiry': 1707565699, 'httpOnly': False, 'name': '_sp_id.ef13', 'path': '/', 'secure': False, 'value': '52faaa2b109fd9fe.1644493698.1.1644493700.1644493698'}, {'domain': 'www.yoursuperfoods.de', 'expiry': 1676029697, 'httpOnly': False, 'name': 'ba-pr-id', 'path': '/', 'secure': False, 'value': ''}, {'domain': 'www.yoursuperfoods.de', 'expiry': 1644495499, 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'secure': True, 'value': '034054c9-67b1-4316-9f63-34c56345375c'}, {'domain': 'www.yoursuperfoods.de', 'expiry': 1644495497, 'httpOnly': False, 'name': '_shopify_country', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'Germany'}, {'domain': 'www.yoursuperfoods.de', 'expiry': 1676029709, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'www.yoursuperfoods.de', 'expiry': 1645703309, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.yoursuperfoods.de', 'expiry': 1645703297, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.yoursuperfoods.de', 'expiry': 1644495509, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f5a5df56-c514-41ed-bbdf-918be5f3f426'}, {'domain': 'www.yoursuperfoods.de', 'expiry': 1644495499, 'httpOnly': False, 'name': '_sp_ses.ef13', 'path': '/', 'secure': False, 'value': '*'}, {'domain': '.yoursuperfoods.de', 'expiry': 1645703297, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: _ju_pn
+[After] Cookie-Name 2: snize-recommendation
+[After] Cookie-Name 3: _ju_dc
+[After] Cookie-Name 4: _ju_dn
+[After] Cookie-Name 5: _ju_dm
+[After] Cookie-Name 6: _ju_v
+[After] Cookie-Name 7: _uetvid
+[After] Cookie-Name 8: _shg_user_id
+[After] Cookie-Name 9: localization
+[After] Cookie-Name 10: geo_data
+[After] Cookie-Name 11: amplitude_idyoursuperfoods.de
+[After] Cookie-Name 12: __kla_id
+[After] Cookie-Name 13: _hjFirstSeen
+[After] Cookie-Name 14: _hjSession_1157858
+[After] Cookie-Name 15: IR_gbd
+[After] Cookie-Name 16: cto_bundle
+[After] Cookie-Name 17: IR_11078
+[After] Cookie-Name 18: _shopify_sa_t
+[After] Cookie-Name 19: _pin_unauth
+[After] Cookie-Name 20: _gcl_au
+[After] Cookie-Name 21: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 22: octane%2Fshopify%2Fuid
+[After] Cookie-Name 23: _shopify_s
+[After] Cookie-Name 24: _uetsid
+[After] Cookie-Name 25: _shopify_y
+[After] Cookie-Name 26: shopify_pay_redirect
+[After] Cookie-Name 27: _hjSessionUser_1157858
+[After] Cookie-Name 28: _y
+[After] Cookie-Name 29: _fbp
+[After] Cookie-Name 30: _shopify_sa_p
+[After] Cookie-Name 31: OptanonConsent
+[After] Cookie-Name 32: _sp_id.ef13
+[After] Cookie-Name 33: ba-pr-id
+[After] Cookie-Name 34: _shg_session_id
+[After] Cookie-Name 35: _shopify_country
+[After] Cookie-Name 36: secure_customer_sig
+[After] Cookie-Name 37: cart_currency
+[After] Cookie-Name 38: _landing_page
+[After] Cookie-Name 39: _s
+[After] Cookie-Name 40: _sp_ses.ef13
+[After] Cookie-Name 41: _orig_referrer
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

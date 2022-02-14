@@ -1,0 +1,59 @@
+Website 7: http://www.qineva.de/ | Created: 09.02.2022 17:07:00 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 4
+[Before] Website-Cookies: [{'domain': '.qineva.shop', 'expiry': 1645632410, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.qineva.shop', 'expiry': 1645632410, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'qineva.shop', 'expiry': 1645632411, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': 'qineva.shop', 'expiry': 1675958811, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _orig_referrer
+[Before] Cookie-Name 2: _landing_page
+[Before] Cookie-Name 3: cart_currency
+[Before] Cookie-Name 4: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 16
+[After] Website-Cookies: [{'domain': '.qineva.shop', 'expiry': 1644422885, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.qineva.shop', 'expiry': 1644509225, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1731032565.1644422826'}, {'domain': '.qineva.shop', 'expiry': 1707494825, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1320366785.1644422826'}, {'domain': 'qineva.shop', 'expiry': 1647014825, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0NDIyODI1OTA4LCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjowfX0='}, {'domain': 'qineva.shop', 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MjI4MTIsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vcWluZXZhLnNob3AvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NDIyODEyLCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL3FpbmV2YS5zaG9wLyJ9fQ=='}, {'domain': 'qineva.shop', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7b3f6a55-ea13-4eea-a5ba-ba06fec113ac'}, {'domain': 'qineva.shop', 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'qineva.shop', 'expiry': 1675958825, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b4e5cf98-a552-4439-b78a-ca4a494c2c37'}, {'domain': 'qineva.shop', 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'pending'}, {'domain': 'qineva.shop', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7b3f6a55-ea13-4eea-a5ba-ba06fec113ac'}, {'domain': '.qineva.shop', 'expiry': 1645632410, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'qineva.shop', 'expiry': 1675958811, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.qineva.shop', 'expiry': 1645632410, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'qineva.shop', 'expiry': 1645632411, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': 'qineva.shop', 'expiry': 1675958825, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b4e5cf98-a552-4439-b78a-ca4a494c2c37'}, {'domain': 'qineva.shop', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T16%3A06%3A51.206Z'}]
+[After] Cookie-Name 1: _gat
+[After] Cookie-Name 2: _gid
+[After] Cookie-Name 3: _ga
+[After] Cookie-Name 4: _bc_c_set
+[After] Cookie-Name 5: __kla_id
+[After] Cookie-Name 6: _s
+[After] Cookie-Name 7: localization
+[After] Cookie-Name 8: _shopify_y
+[After] Cookie-Name 9: shopify_pay_redirect
+[After] Cookie-Name 10: _shopify_s
+[After] Cookie-Name 11: _landing_page
+[After] Cookie-Name 12: secure_customer_sig
+[After] Cookie-Name 13: _orig_referrer
+[After] Cookie-Name 14: cart_currency
+[After] Cookie-Name 15: _y
+[After] Cookie-Name 16: _shopify_sa_t
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 12
+[Difference] Cookie-Name: 1: shopify_pay_redirect
+[Difference] Cookie-Name: 2: __kla_id
+[Difference] Cookie-Name: 3: localization
+[Difference] Cookie-Name: 4: _gid
+[Difference] Cookie-Name: 5: _gat
+[Difference] Cookie-Name: 6: _shopify_y
+[Difference] Cookie-Name: 7: _s
+[Difference] Cookie-Name: 8: _shopify_s
+[Difference] Cookie-Name: 9: _ga
+[Difference] Cookie-Name: 10: _y
+[Difference] Cookie-Name: 11: _shopify_sa_t
+[Difference] Cookie-Name: 12: _bc_c_set
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

@@ -1,0 +1,75 @@
+Website 341: http://www.tivoliaudio.de/ | Created: 08.02.2022 23:22:50 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 21
+[Before] Website-Cookies: [{'domain': '.tivoliaudio.eu', 'expiry': 1707430962, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.1.243692769.1644358961'}, {'domain': 'tivoliaudio.eu', 'expiry': 1645568561, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6c9e2a88c4de42048aaca45580a53a8c'}, {'domain': 'tivoliaudio.eu', 'expiry': 1645568561, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c86095cdddbe1904bebb75fd5007d1f8'}, {'domain': '.tivoliaudio.eu', 'expiry': 1707430970, 'httpOnly': False, 'name': '_ga_S8VXCC5E20', 'path': '/', 'secure': False, 'value': 'GS1.1.1d1ec2ce-423c-47e4-8f48-47806bc52c68.1.0.1644358970.0'}, {'domain': 'tivoliaudio.eu', 'expiry': 1645568561, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644358961'}, {'domain': 'tivoliaudio.eu', 'expiry': 1707430962, 'httpOnly': False, 'name': '_ama', 'path': '/', 'secure': False, 'value': '243692769.1644358961'}, {'domain': '.tivoliaudio.eu', 'expiry': 1652134961, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644358960933.864899740'}, {'domain': '.tivoliaudio.eu', 'expiry': 1644359020, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.tivoliaudio.eu', 'expiry': 1644445360, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.513998151.1644358961'}, {'domain': '.tivoliaudio.eu', 'expiry': 1675894965, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a9774e43-cb1f-4d47-852d-6cb0607f2e20'}, {'domain': '.tivoliaudio.eu', 'expiry': 1644360760, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.tivoliaudio.eu', 'expiry': 1644360760, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T22%3A22%3A40.775Z'}, {'domain': '.tivoliaudio.eu', 'expiry': 1644360765, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '07e105da-25c6-4648-9d88-d6be203ca844'}, {'domain': 'tivoliaudio.eu', 'expiry': 1645568562, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.tivoliaudio.eu', 'expiry': 1644360765, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '07e105da-25c6-4648-9d88-d6be203ca844'}, {'domain': '.tivoliaudio.eu', 'expiry': 1645568560, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'tivoliaudio.eu', 'expiry': 1645568561, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A2'}, {'domain': '.tivoliaudio.eu', 'expiry': 1645568560, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'tivoliaudio.eu', 'expiry': 1645568565, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.tivoliaudio.eu', 'expiry': 1675894965, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a9774e43-cb1f-4d47-852d-6cb0607f2e20'}, {'domain': 'tivoliaudio.eu', 'expiry': 1675894965, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _ga
+[Before] Cookie-Name 2: cart_sig
+[Before] Cookie-Name 3: cart
+[Before] Cookie-Name 4: _ga_S8VXCC5E20
+[Before] Cookie-Name 5: cart_ts
+[Before] Cookie-Name 6: _ama
+[Before] Cookie-Name 7: _fbp
+[Before] Cookie-Name 8: _gat
+[Before] Cookie-Name 9: _gid
+[Before] Cookie-Name 10: _y
+[Before] Cookie-Name 11: _shopify_sa_p
+[Before] Cookie-Name 12: _shopify_sa_t
+[Before] Cookie-Name 13: _shopify_s
+[Before] Cookie-Name 14: cart_currency
+[Before] Cookie-Name 15: _s
+[Before] Cookie-Name 16: _landing_page
+[Before] Cookie-Name 17: cart_ver
+[Before] Cookie-Name 18: _orig_referrer
+[Before] Cookie-Name 19: localization
+[Before] Cookie-Name 20: _shopify_y
+[Before] Cookie-Name 21: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 21
+[After] Website-Cookies: [{'domain': '.tivoliaudio.eu', 'expiry': 1707430962, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.1.243692769.1644358961'}, {'domain': 'tivoliaudio.eu', 'expiry': 1645568561, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6c9e2a88c4de42048aaca45580a53a8c'}, {'domain': 'tivoliaudio.eu', 'expiry': 1645568561, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c86095cdddbe1904bebb75fd5007d1f8'}, {'domain': '.tivoliaudio.eu', 'expiry': 1707430970, 'httpOnly': False, 'name': '_ga_S8VXCC5E20', 'path': '/', 'secure': False, 'value': 'GS1.1.1d1ec2ce-423c-47e4-8f48-47806bc52c68.1.0.1644358970.0'}, {'domain': 'tivoliaudio.eu', 'expiry': 1645568561, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644358961'}, {'domain': 'tivoliaudio.eu', 'expiry': 1707430962, 'httpOnly': False, 'name': '_ama', 'path': '/', 'secure': False, 'value': '243692769.1644358961'}, {'domain': '.tivoliaudio.eu', 'expiry': 1652134961, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644358960933.864899740'}, {'domain': '.tivoliaudio.eu', 'expiry': 1644359020, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.tivoliaudio.eu', 'expiry': 1644445360, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.513998151.1644358961'}, {'domain': '.tivoliaudio.eu', 'expiry': 1675894965, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a9774e43-cb1f-4d47-852d-6cb0607f2e20'}, {'domain': '.tivoliaudio.eu', 'expiry': 1644360760, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.tivoliaudio.eu', 'expiry': 1644360760, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T22%3A22%3A40.775Z'}, {'domain': '.tivoliaudio.eu', 'expiry': 1644360765, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '07e105da-25c6-4648-9d88-d6be203ca844'}, {'domain': 'tivoliaudio.eu', 'expiry': 1645568562, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.tivoliaudio.eu', 'expiry': 1644360765, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '07e105da-25c6-4648-9d88-d6be203ca844'}, {'domain': '.tivoliaudio.eu', 'expiry': 1645568560, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'tivoliaudio.eu', 'expiry': 1645568561, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A2'}, {'domain': '.tivoliaudio.eu', 'expiry': 1645568560, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'tivoliaudio.eu', 'expiry': 1645568565, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.tivoliaudio.eu', 'expiry': 1675894965, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a9774e43-cb1f-4d47-852d-6cb0607f2e20'}, {'domain': 'tivoliaudio.eu', 'expiry': 1675894965, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _ga
+[After] Cookie-Name 2: cart_sig
+[After] Cookie-Name 3: cart
+[After] Cookie-Name 4: _ga_S8VXCC5E20
+[After] Cookie-Name 5: cart_ts
+[After] Cookie-Name 6: _ama
+[After] Cookie-Name 7: _fbp
+[After] Cookie-Name 8: _gat
+[After] Cookie-Name 9: _gid
+[After] Cookie-Name 10: _y
+[After] Cookie-Name 11: _shopify_sa_p
+[After] Cookie-Name 12: _shopify_sa_t
+[After] Cookie-Name 13: _shopify_s
+[After] Cookie-Name 14: cart_currency
+[After] Cookie-Name 15: _s
+[After] Cookie-Name 16: _landing_page
+[After] Cookie-Name 17: cart_ver
+[After] Cookie-Name 18: _orig_referrer
+[After] Cookie-Name 19: localization
+[After] Cookie-Name 20: _shopify_y
+[After] Cookie-Name 21: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

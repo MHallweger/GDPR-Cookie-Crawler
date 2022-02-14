@@ -1,0 +1,83 @@
+Website 215: http://www.dreiguerteltiere.de/ | Created: 10.02.2022 18:24:01 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 23
+[Before] Website-Cookies: [{'domain': 'dreiguerteltiere.de', 'expiry': 1707585832, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ1MTM4MzMsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vZHJlaWd1ZXJ0ZWx0aWVyZS5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQ1MTM4MzMsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vZHJlaWd1ZXJ0ZWx0aWVyZS5kZS8ifX0='}, {'domain': '.dreiguerteltiere.de', 'expiry': 1652289832, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644513831985.619838458'}, {'domain': 'dreiguerteltiere.de', 'httpOnly': False, 'name': 'locale_bar_accepted', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.dreiguerteltiere.de', 'expiry': 1678209831, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '37413a208a9611ecab4c65a21256be72'}, {'domain': 'dreiguerteltiere.de', 'expiry': 1644517431, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.dreiguerteltiere.de', 'expiry': 1652289831, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1370985411.1644513832'}, {'domain': '.dreiguerteltiere.de', 'expiry': 1644513891, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.dreiguerteltiere.de', 'expiry': 1707585831, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1932955533.1644513832'}, {'domain': '.dreiguerteltiere.de', 'expiry': 1644515631, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A23%3A51.457Z'}, {'domain': '.dreiguerteltiere.de', 'expiry': 1644600231, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1819913908.1644513832'}, {'domain': '.dreiguerteltiere.de', 'expiry': 1676049834, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ea77a092-436b-407a-9b32-8172474cf53e'}, {'domain': '.dreiguerteltiere.de', 'expiry': 1676049832, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': '1cex0q|1|eyv|0'}, {'domain': '.dreiguerteltiere.de', 'expiry': 1644515631, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'dreiguerteltiere.de', 'expiry': 1645723434, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.dreiguerteltiere.de', 'expiry': 1676049834, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ea77a092-436b-407a-9b32-8172474cf53e'}, {'domain': '.dreiguerteltiere.de', 'expiry': 1645723431, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.dreiguerteltiere.de', 'expiry': 1645723431, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.dreiguerteltiere.de', 'expiry': 1644600231, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': '374110608a9611ecac38d759b7485e79'}, {'domain': '.dreiguerteltiere.de', 'expiry': 1644515634, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '33137a42-d803-43d1-b610-cece16999a1b'}, {'domain': '.dreiguerteltiere.de', 'expiry': 1644515634, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '33137a42-d803-43d1-b610-cece16999a1b'}, {'domain': 'dreiguerteltiere.de', 'expiry': 1645723434, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.dreiguerteltiere.de', 'expiry': 1644600233, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': '158fspq|1644513833128|1|1|b.clarity.ms/collect'}, {'domain': 'dreiguerteltiere.de', 'expiry': 1676049834, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: __kla_id
+[Before] Cookie-Name 2: _fbp
+[Before] Cookie-Name 3: locale_bar_accepted
+[Before] Cookie-Name 4: _uetvid
+[Before] Cookie-Name 5: shopify_pay_redirect
+[Before] Cookie-Name 6: _gcl_au
+[Before] Cookie-Name 7: _gat
+[Before] Cookie-Name 8: _ga
+[Before] Cookie-Name 9: _shopify_sa_t
+[Before] Cookie-Name 10: _gid
+[Before] Cookie-Name 11: _shopify_y
+[Before] Cookie-Name 12: _clck
+[Before] Cookie-Name 13: _shopify_sa_p
+[Before] Cookie-Name 14: cart_currency
+[Before] Cookie-Name 15: _y
+[Before] Cookie-Name 16: _landing_page
+[Before] Cookie-Name 17: _orig_referrer
+[Before] Cookie-Name 18: _uetsid
+[Before] Cookie-Name 19: _s
+[Before] Cookie-Name 20: _shopify_s
+[Before] Cookie-Name 21: localization
+[Before] Cookie-Name 22: _clsk
+[Before] Cookie-Name 23: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 24
+[After] Website-Cookies: [{'domain': 'dreiguerteltiere.de', 'expiry': 1676049846, 'httpOnly': False, 'name': 'cookieconsent_status', 'path': '/', 'secure': False, 'value': 'dismiss'}, {'domain': 'dreiguerteltiere.de', 'expiry': 1707585832, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ1MTM4MzMsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vZHJlaWd1ZXJ0ZWx0aWVyZS5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQ1MTM4MzMsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vZHJlaWd1ZXJ0ZWx0aWVyZS5kZS8ifX0='}, {'domain': '.dreiguerteltiere.de', 'expiry': 1652289846, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644513831985.619838458'}, {'domain': 'dreiguerteltiere.de', 'httpOnly': False, 'name': 'locale_bar_accepted', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.dreiguerteltiere.de', 'expiry': 1678209831, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '37413a208a9611ecab4c65a21256be72'}, {'domain': 'dreiguerteltiere.de', 'expiry': 1644517431, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.dreiguerteltiere.de', 'expiry': 1644600231, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1819913908.1644513832'}, {'domain': '.dreiguerteltiere.de', 'expiry': 1652289831, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1370985411.1644513832'}, {'domain': '.dreiguerteltiere.de', 'expiry': 1644513891, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.dreiguerteltiere.de', 'expiry': 1676049834, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ea77a092-436b-407a-9b32-8172474cf53e'}, {'domain': '.dreiguerteltiere.de', 'expiry': 1707585831, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1932955533.1644513832'}, {'domain': '.dreiguerteltiere.de', 'expiry': 1644515631, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A23%3A51.457Z'}, {'domain': '.dreiguerteltiere.de', 'expiry': 1644515634, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '33137a42-d803-43d1-b610-cece16999a1b'}, {'domain': '.dreiguerteltiere.de', 'expiry': 1676049834, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ea77a092-436b-407a-9b32-8172474cf53e'}, {'domain': '.dreiguerteltiere.de', 'expiry': 1676049832, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': '1cex0q|1|eyv|0'}, {'domain': '.dreiguerteltiere.de', 'expiry': 1645723431, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.dreiguerteltiere.de', 'expiry': 1644515631, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'dreiguerteltiere.de', 'expiry': 1676049834, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'dreiguerteltiere.de', 'expiry': 1645723434, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.dreiguerteltiere.de', 'expiry': 1645723431, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.dreiguerteltiere.de', 'expiry': 1644600231, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': '374110608a9611ecac38d759b7485e79'}, {'domain': '.dreiguerteltiere.de', 'expiry': 1644515634, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '33137a42-d803-43d1-b610-cece16999a1b'}, {'domain': 'dreiguerteltiere.de', 'expiry': 1645723434, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.dreiguerteltiere.de', 'expiry': 1644600233, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': '158fspq|1644513833128|1|1|b.clarity.ms/collect'}]
+[After] Cookie-Name 1: cookieconsent_status
+[After] Cookie-Name 2: __kla_id
+[After] Cookie-Name 3: _fbp
+[After] Cookie-Name 4: locale_bar_accepted
+[After] Cookie-Name 5: _uetvid
+[After] Cookie-Name 6: shopify_pay_redirect
+[After] Cookie-Name 7: _gid
+[After] Cookie-Name 8: _gcl_au
+[After] Cookie-Name 9: _gat
+[After] Cookie-Name 10: _y
+[After] Cookie-Name 11: _ga
+[After] Cookie-Name 12: _shopify_sa_t
+[After] Cookie-Name 13: _shopify_s
+[After] Cookie-Name 14: _shopify_y
+[After] Cookie-Name 15: _clck
+[After] Cookie-Name 16: _orig_referrer
+[After] Cookie-Name 17: _shopify_sa_p
+[After] Cookie-Name 18: secure_customer_sig
+[After] Cookie-Name 19: cart_currency
+[After] Cookie-Name 20: _landing_page
+[After] Cookie-Name 21: _uetsid
+[After] Cookie-Name 22: _s
+[After] Cookie-Name 23: localization
+[After] Cookie-Name 24: _clsk
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _clck (Microsoft Clarity (User experience tool))
+[Used before] Cookie-Name: _clsk (Microsoft Clarity (User experience tool))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: cookieconsent_status
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

@@ -1,0 +1,76 @@
+Website 226: http://www.livbergen.de/ | Created: 09.02.2022 20:45:13 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 21
+[Before] Website-Cookies: [{'domain': 'livbergen.de', 'expiry': 1675971906, 'httpOnly': False, 'name': 'wishlist_customer_id', 'path': '/', 'secure': False, 'value': '0'}, {'domain': 'livbergen.de', 'expiry': 1675971906, 'httpOnly': False, 'name': 'bookmarkeditems', 'path': '/', 'secure': False, 'value': '{"items":[]}'}, {'domain': 'livbergen.de', 'expiry': 1675971906, 'httpOnly': False, 'name': 'wishlist_id', 'path': '/', 'secure': False, 'value': '1662464829274nb5hpdte5'}, {'domain': 'livbergen.de', 'expiry': 1644439504, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.livbergen.de', 'expiry': 1675971904, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU1XVmpNamN3WXpBdE1HRm1ZUzAwTkdVMUxXRTNaVGd0T1dKak9UaGpaamswT0RaaA'}, {'domain': '.livbergen.de', 'expiry': 1652211905, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644435904557.394802004'}, {'domain': '.livbergen.de', 'expiry': 1644435964, 'httpOnly': False, 'name': '_gat_gtag_UA_177069583_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.livbergen.de', 'expiry': 1644435964, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.livbergen.de', 'expiry': 1644522304, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1384598466.1644435904'}, {'domain': '.livbergen.de', 'expiry': 1707507904, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.301177159.1644435904'}, {'domain': '.livbergen.de', 'expiry': 1644437704, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.livbergen.de', 'expiry': 1644437704, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A45%3A04.072Z'}, {'domain': '.livbergen.de', 'expiry': 1675971903, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ed3fe415-b6af-4d4d-929e-12d53da9a160'}, {'domain': '.livbergen.de', 'expiry': 1644437704, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ad9c996b-b150-472b-8184-3ee0f2706922'}, {'domain': '.livbergen.de', 'expiry': 1644437704, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ad9c996b-b150-472b-8184-3ee0f2706922'}, {'domain': 'livbergen.de', 'expiry': 1645645502, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.livbergen.de', 'expiry': 1645645503, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'livbergen.de', 'expiry': 1675971902, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.livbergen.de', 'expiry': 1645645503, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'livbergen.de', 'expiry': 1645645502, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': '.livbergen.de', 'expiry': 1675971903, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ed3fe415-b6af-4d4d-929e-12d53da9a160'}]
+[Before] Cookie-Name 1: wishlist_customer_id
+[Before] Cookie-Name 2: bookmarkeditems
+[Before] Cookie-Name 3: wishlist_id
+[Before] Cookie-Name 4: shopify_pay_redirect
+[Before] Cookie-Name 5: _pin_unauth
+[Before] Cookie-Name 6: _fbp
+[Before] Cookie-Name 7: _gat_gtag_UA_177069583_1
+[Before] Cookie-Name 8: _gat
+[Before] Cookie-Name 9: _gid
+[Before] Cookie-Name 10: _ga
+[Before] Cookie-Name 11: _shopify_sa_p
+[Before] Cookie-Name 12: _shopify_sa_t
+[Before] Cookie-Name 13: _shopify_y
+[Before] Cookie-Name 14: _shopify_s
+[Before] Cookie-Name 15: _s
+[Before] Cookie-Name 16: cart_currency
+[Before] Cookie-Name 17: _landing_page
+[Before] Cookie-Name 18: secure_customer_sig
+[Before] Cookie-Name 19: _orig_referrer
+[Before] Cookie-Name 20: localization
+[Before] Cookie-Name 21: _y
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 21
+[After] Website-Cookies: [{'domain': 'livbergen.de', 'expiry': 1675971906, 'httpOnly': False, 'name': 'wishlist_customer_id', 'path': '/', 'secure': False, 'value': '0'}, {'domain': 'livbergen.de', 'expiry': 1675971906, 'httpOnly': False, 'name': 'bookmarkeditems', 'path': '/', 'secure': False, 'value': '{"items":[]}'}, {'domain': 'livbergen.de', 'expiry': 1675971906, 'httpOnly': False, 'name': 'wishlist_id', 'path': '/', 'secure': False, 'value': '1662464829274nb5hpdte5'}, {'domain': 'livbergen.de', 'expiry': 1644439504, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.livbergen.de', 'expiry': 1675971904, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU1XVmpNamN3WXpBdE1HRm1ZUzAwTkdVMUxXRTNaVGd0T1dKak9UaGpaamswT0RaaA'}, {'domain': '.livbergen.de', 'expiry': 1652211905, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644435904557.394802004'}, {'domain': '.livbergen.de', 'expiry': 1644435964, 'httpOnly': False, 'name': '_gat_gtag_UA_177069583_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.livbergen.de', 'expiry': 1644435964, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.livbergen.de', 'expiry': 1644522304, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1384598466.1644435904'}, {'domain': '.livbergen.de', 'expiry': 1707507904, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.301177159.1644435904'}, {'domain': '.livbergen.de', 'expiry': 1644437704, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.livbergen.de', 'expiry': 1644437704, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A45%3A04.072Z'}, {'domain': '.livbergen.de', 'expiry': 1675971903, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ed3fe415-b6af-4d4d-929e-12d53da9a160'}, {'domain': '.livbergen.de', 'expiry': 1644437704, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ad9c996b-b150-472b-8184-3ee0f2706922'}, {'domain': '.livbergen.de', 'expiry': 1644437704, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ad9c996b-b150-472b-8184-3ee0f2706922'}, {'domain': 'livbergen.de', 'expiry': 1645645502, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.livbergen.de', 'expiry': 1645645503, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'livbergen.de', 'expiry': 1675971902, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.livbergen.de', 'expiry': 1645645503, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'livbergen.de', 'expiry': 1645645502, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': '.livbergen.de', 'expiry': 1675971903, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ed3fe415-b6af-4d4d-929e-12d53da9a160'}]
+[After] Cookie-Name 1: wishlist_customer_id
+[After] Cookie-Name 2: bookmarkeditems
+[After] Cookie-Name 3: wishlist_id
+[After] Cookie-Name 4: shopify_pay_redirect
+[After] Cookie-Name 5: _pin_unauth
+[After] Cookie-Name 6: _fbp
+[After] Cookie-Name 7: _gat_gtag_UA_177069583_1
+[After] Cookie-Name 8: _gat
+[After] Cookie-Name 9: _gid
+[After] Cookie-Name 10: _ga
+[After] Cookie-Name 11: _shopify_sa_p
+[After] Cookie-Name 12: _shopify_sa_t
+[After] Cookie-Name 13: _shopify_y
+[After] Cookie-Name 14: _shopify_s
+[After] Cookie-Name 15: _s
+[After] Cookie-Name 16: cart_currency
+[After] Cookie-Name 17: _landing_page
+[After] Cookie-Name 18: secure_customer_sig
+[After] Cookie-Name 19: _orig_referrer
+[After] Cookie-Name 20: localization
+[After] Cookie-Name 21: _y
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

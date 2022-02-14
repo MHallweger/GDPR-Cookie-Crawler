@@ -1,0 +1,75 @@
+Website 303: http://www.dolceterra.de/ | Created: 09.02.2022 21:09:30 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 20
+[Before] Website-Cookies: [{'domain': 'www.dolceterra.de', 'expiry': 1644439162, 'httpOnly': False, 'name': '_sp_ses.3672', 'path': '/', 'secure': False, 'value': '*'}, {'domain': '.dolceterra.de', 'expiry': 1675973361, 'httpOnly': False, 'name': '_privy_34F9DE72B7EFB3263F417A39', 'path': '/', 'secure': False, 'value': '%7B%22uuid%22%3A%2251286054-bc27-4ea1-b933-f226ecf05c00%22%7D'}, {'domain': 'www.dolceterra.de', 'expiry': 1675973361, 'httpOnly': False, 'name': 'po_visitor', 'path': '/', 'secure': False, 'value': 'm6zWXA-Orb0v'}, {'domain': 'www.dolceterra.de', 'httpOnly': False, 'name': 'lsSema-removeEventListener', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': ''}, {'domain': 'www.dolceterra.de', 'httpOnly': False, 'name': 'lsContextID', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'GrhygClqaEi5ciwtUNpx8A'}, {'domain': '.dolceterra.de', 'expiry': 1652213360, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644437359625.799733747'}, {'domain': '.dolceterra.de', 'expiry': 1644437419, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.dolceterra.de', 'expiry': 1644523759, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1338057909.1644437359'}, {'domain': 'www.dolceterra.de', 'expiry': 1675973360, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.dolceterra.de', 'expiry': 1675973360, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '31c9bb34-0989-4365-b927-90d3631f1f07'}, {'domain': '.dolceterra.de', 'expiry': 1707509359, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1415023534.1644437359'}, {'domain': '.dolceterra.de', 'expiry': 1644439159, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T20%3A09%3A19.272Z'}, {'domain': 'www.dolceterra.de', 'expiry': 1707509362, 'httpOnly': False, 'name': '_sp_id.3672', 'path': '/', 'secure': False, 'value': 'f58bbb56fc8d2047.1644437362.1.1644437362.1644437362'}, {'domain': '.dolceterra.de', 'expiry': 1644439160, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f506dfc6-a5cc-4507-8c35-15ee2754b63b'}, {'domain': '.dolceterra.de', 'expiry': 1652213359, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.609437503.1644437359'}, {'domain': '.dolceterra.de', 'expiry': 1644439160, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f506dfc6-a5cc-4507-8c35-15ee2754b63b'}, {'domain': '.dolceterra.de', 'expiry': 1675973360, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '31c9bb34-0989-4365-b927-90d3631f1f07'}, {'domain': '.dolceterra.de', 'expiry': 1645646959, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.dolceterra.de', 'expiry': 1645646959, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.dolceterra.de', 'expiry': 1644439159, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[Before] Cookie-Name 1: _sp_ses.3672
+[Before] Cookie-Name 2: _privy_34F9DE72B7EFB3263F417A39
+[Before] Cookie-Name 3: po_visitor
+[Before] Cookie-Name 4: lsSema-removeEventListener
+[Before] Cookie-Name 5: lsContextID
+[Before] Cookie-Name 6: _fbp
+[Before] Cookie-Name 7: _gat
+[Before] Cookie-Name 8: _gid
+[Before] Cookie-Name 9: secure_customer_sig
+[Before] Cookie-Name 10: _y
+[Before] Cookie-Name 11: _ga
+[Before] Cookie-Name 12: _shopify_sa_t
+[Before] Cookie-Name 13: _sp_id.3672
+[Before] Cookie-Name 14: _shopify_s
+[Before] Cookie-Name 15: _gcl_au
+[Before] Cookie-Name 16: _s
+[Before] Cookie-Name 17: _shopify_y
+[Before] Cookie-Name 18: _landing_page
+[Before] Cookie-Name 19: _orig_referrer
+[Before] Cookie-Name 20: _shopify_sa_p
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 20
+[After] Website-Cookies: [{'domain': 'www.dolceterra.de', 'expiry': 1644439162, 'httpOnly': False, 'name': '_sp_ses.3672', 'path': '/', 'secure': False, 'value': '*'}, {'domain': '.dolceterra.de', 'expiry': 1675973361, 'httpOnly': False, 'name': '_privy_34F9DE72B7EFB3263F417A39', 'path': '/', 'secure': False, 'value': '%7B%22uuid%22%3A%2251286054-bc27-4ea1-b933-f226ecf05c00%22%7D'}, {'domain': 'www.dolceterra.de', 'expiry': 1675973361, 'httpOnly': False, 'name': 'po_visitor', 'path': '/', 'secure': False, 'value': 'm6zWXA-Orb0v'}, {'domain': 'www.dolceterra.de', 'httpOnly': False, 'name': 'lsSema-removeEventListener', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': ''}, {'domain': 'www.dolceterra.de', 'httpOnly': False, 'name': 'lsContextID', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'GrhygClqaEi5ciwtUNpx8A'}, {'domain': '.dolceterra.de', 'expiry': 1652213360, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644437359625.799733747'}, {'domain': '.dolceterra.de', 'expiry': 1644437419, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.dolceterra.de', 'expiry': 1644523759, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1338057909.1644437359'}, {'domain': 'www.dolceterra.de', 'expiry': 1675973360, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.dolceterra.de', 'expiry': 1675973360, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '31c9bb34-0989-4365-b927-90d3631f1f07'}, {'domain': '.dolceterra.de', 'expiry': 1707509359, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1415023534.1644437359'}, {'domain': '.dolceterra.de', 'expiry': 1644439159, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T20%3A09%3A19.272Z'}, {'domain': 'www.dolceterra.de', 'expiry': 1707509362, 'httpOnly': False, 'name': '_sp_id.3672', 'path': '/', 'secure': False, 'value': 'f58bbb56fc8d2047.1644437362.1.1644437362.1644437362'}, {'domain': '.dolceterra.de', 'expiry': 1644439160, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f506dfc6-a5cc-4507-8c35-15ee2754b63b'}, {'domain': '.dolceterra.de', 'expiry': 1652213359, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.609437503.1644437359'}, {'domain': '.dolceterra.de', 'expiry': 1644439160, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f506dfc6-a5cc-4507-8c35-15ee2754b63b'}, {'domain': '.dolceterra.de', 'expiry': 1675973360, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '31c9bb34-0989-4365-b927-90d3631f1f07'}, {'domain': '.dolceterra.de', 'expiry': 1645646959, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.dolceterra.de', 'expiry': 1645646959, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.dolceterra.de', 'expiry': 1644439159, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: _sp_ses.3672
+[After] Cookie-Name 2: _privy_34F9DE72B7EFB3263F417A39
+[After] Cookie-Name 3: po_visitor
+[After] Cookie-Name 4: lsSema-removeEventListener
+[After] Cookie-Name 5: lsContextID
+[After] Cookie-Name 6: _fbp
+[After] Cookie-Name 7: _gat
+[After] Cookie-Name 8: _gid
+[After] Cookie-Name 9: secure_customer_sig
+[After] Cookie-Name 10: _y
+[After] Cookie-Name 11: _ga
+[After] Cookie-Name 12: _shopify_sa_t
+[After] Cookie-Name 13: _sp_id.3672
+[After] Cookie-Name 14: _shopify_s
+[After] Cookie-Name 15: _gcl_au
+[After] Cookie-Name 16: _s
+[After] Cookie-Name 17: _shopify_y
+[After] Cookie-Name 18: _landing_page
+[After] Cookie-Name 19: _orig_referrer
+[After] Cookie-Name 20: _shopify_sa_p
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

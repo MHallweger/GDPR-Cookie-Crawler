@@ -1,0 +1,109 @@
+Website 39: http://www.everdrop.de/ | Created: 08.02.2022 21:51:12 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 25
+[Before] Website-Cookies: [{'domain': '.everdrop.de', 'expiry': 1678540161, 'httpOnly': False, 'name': '_scid', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '33f140d2-f889-482f-9f44-142dd94f6c22'}, {'domain': 'www.everdrop.de', 'expiry': 1645563062, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': 'www.everdrop.de', 'expiry': 1645563062, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e91d19fd2ef08eb605f73ac466a94312'}, {'domain': 'www.everdrop.de', 'expiry': 1645563062, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'dc6f4fbf00f7e5446a20fe22d320af53'}, {'domain': '.everdrop.de', 'expiry': 1645563060, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.everdrop.de', 'expiry': 1707425461, 'httpOnly': False, 'name': '_ga_2HBENRYPXX', 'path': '/', 'secure': False, 'value': 'GS1.1.1644353460.1.1.1644353461.59'}, {'domain': 'www.everdrop.de', 'expiry': 1645563062, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.everdrop.de', 'expiry': 1644355262, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5c1e15f3-5bdf-4eaa-85eb-ac969b2269f7'}, {'domain': '.everdrop.de', 'expiry': 1652129462, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644353460986.1764048915'}, {'domain': '.everdrop.de', 'expiry': 1644439861, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.673011707.1644353461'}, {'domain': 'www.everdrop.de', 'expiry': 1644355260, 'httpOnly': False, 'name': '_shopify_country', 'path': '/', 'secure': False, 'value': 'Germany'}, {'domain': '.everdrop.de', 'expiry': 1644355261, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.everdrop.de', 'expiry': 1652129460, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1578938846.1644353461'}, {'domain': '.everdrop.de', 'expiry': 1675889462, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9fc50c9c-81bc-4f6d-a8c5-482406e9ac1c'}, {'domain': '.everdrop.de', 'expiry': 1644355262, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5c1e15f3-5bdf-4eaa-85eb-ac969b2269f7'}, {'domain': '.everdrop.de', 'expiry': 1675889462, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9fc50c9c-81bc-4f6d-a8c5-482406e9ac1c'}, {'domain': 'www.everdrop.de', 'expiry': 1707425461, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQzNTM0NjEsInZhbHVlIjoiaHR0cHM6Ly93d3cuZXZlcmRyb3AuZGUvIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LmV2ZXJkcm9wLmRlLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDM1MzQ2MSwidmFsdWUiOiJodHRwczovL3d3dy5ldmVyZHJvcC5kZS8iLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly93d3cuZXZlcmRyb3AuZGUvIn19'}, {'domain': '.everdrop.de', 'expiry': 1645563060, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.everdrop.de', 'expiry': 1645563062, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644353462'}, {'domain': '.everdrop.de', 'expiry': 1644353521, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.everdrop.de', 'expiry': 1707425461, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.221576805.1644353461'}, {'domain': '.everdrop.de', 'expiry': 1644355261, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T20%3A51%3A01.213Z'}, {'domain': 'www.everdrop.de', 'expiry': 1645563062, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.everdrop.de', 'expiry': 1651968000, 'httpOnly': False, 'name': '_gaexp', 'path': '/', 'secure': False, 'value': 'GAX1.2.GqvEPY3PTBiXjgyse-W4XQ.19102.1!iroP67kZTc-orAsSgbEnPA.19102.0!y7bpi286S9OCTv3Cq7C1Nw.19120.0'}, {'domain': 'www.everdrop.de', 'expiry': 1675889462, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _scid
+[Before] Cookie-Name 2: cart_ver
+[Before] Cookie-Name 3: cart_sig
+[Before] Cookie-Name 4: cart
+[Before] Cookie-Name 5: _landing_page
+[Before] Cookie-Name 6: _ga_2HBENRYPXX
+[Before] Cookie-Name 7: localization
+[Before] Cookie-Name 8: _shopify_s
+[Before] Cookie-Name 9: _fbp
+[Before] Cookie-Name 10: _gid
+[Before] Cookie-Name 11: _shopify_country
+[Before] Cookie-Name 12: _shopify_sa_p
+[Before] Cookie-Name 13: _gcl_au
+[Before] Cookie-Name 14: _shopify_y
+[Before] Cookie-Name 15: _s
+[Before] Cookie-Name 16: _y
+[Before] Cookie-Name 17: __kla_id
+[Before] Cookie-Name 18: _orig_referrer
+[Before] Cookie-Name 19: cart_ts
+[Before] Cookie-Name 20: _gat
+[Before] Cookie-Name 21: _ga
+[Before] Cookie-Name 22: _shopify_sa_t
+[Before] Cookie-Name 23: cart_currency
+[Before] Cookie-Name 24: _gaexp
+[Before] Cookie-Name 25: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 38
+[After] Website-Cookies: [{'domain': '.everdrop.de', 'expiry': 1675889480, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': 'xy8vbr|1|eyt|0'}, {'domain': '.everdrop.de', 'expiry': 1675889479, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVptUTJZekkwTlRFdFpEZ3dOaTAwWkRrd0xXSTVObVl0TTJNMFptSTJPRGRtTkRCbQ'}, {'domain': '.everdrop.de', 'expiry': 1644355279, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.everdrop.de', 'expiry': 1644355279, 'httpOnly': False, 'name': '_hjSession_1839666', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImY4ZWY2OWM4LTk3MGQtNDExZi1hMTFhLWI2NjExZmY0MzUxNiIsImNyZWF0ZWQiOjE2NDQzNTM0NzkyMjUsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': '.everdrop.de', 'expiry': 1675889479, 'httpOnly': False, 'name': '_hjSessionUser_1839666', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjNiNjZkNzYwLWMzYjktNWZlMi1iOTFmLTBiY2Q0MmM3M2RiNSIsImNyZWF0ZWQiOjE2NDQzNTM0NzkyMTgsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.everdrop.de', 'expiry': 1644439880, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': '1ukujbp|1644353480288|1|1|a.clarity.ms/collect'}, {'domain': '.everdrop.de', 'expiry': 1678049479, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': 'dd9aec30892011ecad6cd39592580d74'}, {'domain': 'www.everdrop.de', 'expiry': 1644353599, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.everdrop.de', 'expiry': 1678540161, 'httpOnly': False, 'name': '_scid', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '33f140d2-f889-482f-9f44-142dd94f6c22'}, {'domain': 'www.everdrop.de', 'expiry': 1645563062, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': 'www.everdrop.de', 'expiry': 1644353779, 'httpOnly': False, 'name': 'outbrain_cid_fetch', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': 'www.everdrop.de', 'expiry': 1645563062, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e91d19fd2ef08eb605f73ac466a94312'}, {'domain': 'www.everdrop.de', 'expiry': 1645563062, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'dc6f4fbf00f7e5446a20fe22d320af53'}, {'domain': '.everdrop.de', 'expiry': 1645563060, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.everdrop.de', 'expiry': 1707425461, 'httpOnly': False, 'name': '_ga_2HBENRYPXX', 'path': '/', 'secure': False, 'value': 'GS1.1.1644353460.1.1.1644353461.59'}, {'domain': 'www.everdrop.de', 'expiry': 1645563062, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.everdrop.de', 'expiry': 1644355262, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5c1e15f3-5bdf-4eaa-85eb-ac969b2269f7'}, {'domain': '.everdrop.de', 'expiry': 1652129478, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644353460986.1764048915'}, {'domain': '.everdrop.de', 'expiry': 1644439861, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.673011707.1644353461'}, {'domain': 'www.everdrop.de', 'expiry': 1644355260, 'httpOnly': False, 'name': '_shopify_country', 'path': '/', 'secure': False, 'value': 'Germany'}, {'domain': '.everdrop.de', 'expiry': 1644355261, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.everdrop.de', 'expiry': 1644355279, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.everdrop.de', 'expiry': 1652129460, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1578938846.1644353461'}, {'domain': '.everdrop.de', 'expiry': 1675889462, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9fc50c9c-81bc-4f6d-a8c5-482406e9ac1c'}, {'domain': '.everdrop.de', 'expiry': 1644355262, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5c1e15f3-5bdf-4eaa-85eb-ac969b2269f7'}, {'domain': '.everdrop.de', 'expiry': 1675889462, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9fc50c9c-81bc-4f6d-a8c5-482406e9ac1c'}, {'domain': 'www.everdrop.de', 'expiry': 1707425461, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQzNTM0NjEsInZhbHVlIjoiaHR0cHM6Ly93d3cuZXZlcmRyb3AuZGUvIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LmV2ZXJkcm9wLmRlLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDM1MzQ2MSwidmFsdWUiOiJodHRwczovL3d3dy5ldmVyZHJvcC5kZS8iLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly93d3cuZXZlcmRyb3AuZGUvIn19'}, {'domain': '.everdrop.de', 'expiry': 1645563060, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.everdrop.de', 'expiry': 1645563062, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644353462'}, {'domain': '.everdrop.de', 'expiry': 1644353521, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.everdrop.de', 'expiry': 1644439879, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': 'dd9aaa90892011ec8a463b5bdc5967c0'}, {'domain': 'www.everdrop.de', 'expiry': 1675889478, 'httpOnly': False, 'name': 'CookieConsent', 'path': '/', 'secure': True, 'value': '{stamp:%27vo5IsKB0jIII4VFpRtziJeIqOjlKE9trsttdwgT9Q5G8+UhTnVNEGQ==%27%2Cnecessary:true%2Cpreferences:true%2Cstatistics:true%2Cmarketing:true%2Cver:1%2Cutc:1644353478409%2Cregion:%27de%27}'}, {'domain': '.everdrop.de', 'expiry': 1707425461, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.221576805.1644353461'}, {'domain': '.everdrop.de', 'expiry': 1644355261, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T20%3A51%3A01.213Z'}, {'domain': 'www.everdrop.de', 'expiry': 1645563062, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.everdrop.de', 'expiry': 1707425479, 'httpOnly': False, 'name': '_tq_id.TV-8172273609-1.ae17', 'path': '/', 'secure': False, 'value': 'd951be1c703ecbab.1644353479.0.1644353479..'}, {'domain': '.everdrop.de', 'expiry': 1651968000, 'httpOnly': False, 'name': '_gaexp', 'path': '/', 'secure': False, 'value': 'GAX1.2.GqvEPY3PTBiXjgyse-W4XQ.19102.1!iroP67kZTc-orAsSgbEnPA.19102.0!y7bpi286S9OCTv3Cq7C1Nw.19120.0'}, {'domain': 'www.everdrop.de', 'expiry': 1675889462, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _clck
+[After] Cookie-Name 2: _pin_unauth
+[After] Cookie-Name 3: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 4: _hjSession_1839666
+[After] Cookie-Name 5: _hjSessionUser_1839666
+[After] Cookie-Name 6: _clsk
+[After] Cookie-Name 7: _uetvid
+[After] Cookie-Name 8: _hjIncludedInSessionSample
+[After] Cookie-Name 9: _scid
+[After] Cookie-Name 10: cart_ver
+[After] Cookie-Name 11: outbrain_cid_fetch
+[After] Cookie-Name 12: cart_sig
+[After] Cookie-Name 13: cart
+[After] Cookie-Name 14: _landing_page
+[After] Cookie-Name 15: _ga_2HBENRYPXX
+[After] Cookie-Name 16: localization
+[After] Cookie-Name 17: _shopify_s
+[After] Cookie-Name 18: _fbp
+[After] Cookie-Name 19: _gid
+[After] Cookie-Name 20: _shopify_country
+[After] Cookie-Name 21: _shopify_sa_p
+[After] Cookie-Name 22: _hjFirstSeen
+[After] Cookie-Name 23: _gcl_au
+[After] Cookie-Name 24: _shopify_y
+[After] Cookie-Name 25: _s
+[After] Cookie-Name 26: _y
+[After] Cookie-Name 27: __kla_id
+[After] Cookie-Name 28: _orig_referrer
+[After] Cookie-Name 29: cart_ts
+[After] Cookie-Name 30: _gat
+[After] Cookie-Name 31: _uetsid
+[After] Cookie-Name 32: CookieConsent
+[After] Cookie-Name 33: _ga
+[After] Cookie-Name 34: _shopify_sa_t
+[After] Cookie-Name 35: cart_currency
+[After] Cookie-Name 36: _tq_id.TV-8172273609-1.ae17
+[After] Cookie-Name 37: _gaexp
+[After] Cookie-Name 38: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 13
+[Difference] Cookie-Name: 1: _pin_unauth
+[Difference] Cookie-Name: 2: _hjFirstSeen
+[Difference] Cookie-Name: 3: _clsk
+[Difference] Cookie-Name: 4: CookieConsent
+[Difference] Cookie-Name: 5: _hjIncludedInSessionSample
+[Difference] Cookie-Name: 6: _uetvid
+[Difference] Cookie-Name: 7: _tq_id.TV-8172273609-1.ae17
+[Difference] Cookie-Name: 8: _hjSession_1839666
+[Difference] Cookie-Name: 9: _uetsid
+[Difference] Cookie-Name: 10: _clck
+[Difference] Cookie-Name: 11: _hjAbsoluteSessionInProgress
+[Difference] Cookie-Name: 12: outbrain_cid_fetch
+[Difference] Cookie-Name: 13: _hjSessionUser_1839666
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

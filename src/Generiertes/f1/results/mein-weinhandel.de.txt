@@ -1,0 +1,81 @@
+Website 94: http://www.mein-weinhandel.de/ | Created: 08.02.2022 22:08:20 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 4
+[Before] Website-Cookies: [{'domain': '.mein-weinhandel.de', 'expiry': 1645564090, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.mein-weinhandel.de', 'expiry': 1645564090, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.mein-weinhandel.de', 'expiry': 1645564090, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': 'www.mein-weinhandel.de', 'expiry': 1675890490, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _landing_page
+[Before] Cookie-Name 2: _orig_referrer
+[Before] Cookie-Name 3: cart_currency
+[Before] Cookie-Name 4: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 30
+[After] Website-Cookies: [{'domain': '.mein-weinhandel.de', 'expiry': 1644354567, 'httpOnly': False, 'name': '_gat_gtag_UA_60680582_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.mein-weinhandel.de', 'expiry': 1644356309, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4295c1da-071c-47a5-9b1d-1b59ac3c35ac'}, {'domain': '.mein-weinhandel.de', 'expiry': 1675890509, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6579ce0a-82d9-4747-8d6c-5ab03510bc65'}, {'domain': '.mein-weinhandel.de', 'expiry': 1675890509, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6579ce0a-82d9-4747-8d6c-5ab03510bc65'}, {'domain': 'www.mein-weinhandel.de', 'httpOnly': False, 'name': 'bc_tgm_aw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.mein-weinhandel.de', 'expiry': 1646946506, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0MzU0NTA2ODI5LCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjowfX0='}, {'domain': 'www.mein-weinhandel.de', 'httpOnly': False, 'name': '_ga', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'GA1.2.578136754.1644354491'}, {'domain': 'www.mein-weinhandel.de', 'expiry': 1645564109, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'www.mein-weinhandel.de', 'httpOnly': False, 'name': 'bc_tgm_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.mein-weinhandel.de', 'httpOnly': False, 'name': 'bc_tgm_ua', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.mein-weinhandel.de', 'httpOnly': False, 'name': 'po_visitor', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4a_u9v-G7qYG'}, {'domain': 'www.mein-weinhandel.de', 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1.1.813745746.1644354491'}, {'domain': 'www.mein-weinhandel.de', 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'pending'}, {'domain': '.mein-weinhandel.de', 'expiry': 1644356309, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4295c1da-071c-47a5-9b1d-1b59ac3c35ac'}, {'domain': 'www.mein-weinhandel.de', 'expiry': 1645564109, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.mein-weinhandel.de', 'expiry': 1675890506, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6579ce0a-82d9-4747-8d6c-5ab03510bc65'}, {'domain': 'www.mein-weinhandel.de', 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644354506806.2022571055'}, {'domain': 'www.mein-weinhandel.de', 'httpOnly': False, 'name': '_sp_ses.f764', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '*'}, {'domain': 'www.mein-weinhandel.de', 'expiry': 1644356306, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4295c1da-071c-47a5-9b1d-1b59ac3c35ac'}, {'domain': 'www.mein-weinhandel.de', 'expiry': 1675890506, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6579ce0a-82d9-4747-8d6c-5ab03510bc65'}, {'domain': '.mein-weinhandel.de', 'expiry': 1644440907, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.688496990.1644354491'}, {'domain': '.mein-weinhandel.de', 'expiry': 1645564090, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.mein-weinhandel.de', 'expiry': 1707426507, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.578136754.1644354491'}, {'domain': '.mein-weinhandel.de', 'expiry': 1645564090, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.mein-weinhandel.de', 'httpOnly': False, 'name': '_gat', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.mein-weinhandel.de', 'expiry': 1644356306, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A08%3A10.879Z'}, {'domain': 'www.mein-weinhandel.de', 'httpOnly': False, 'name': '_sp_id.f764', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c6fc56bcfabd8c4c.1644354501.1.1644354501.1644354501'}, {'domain': 'www.mein-weinhandel.de', 'httpOnly': False, 'name': '_gid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'GA1.2.688496990.1644354491'}, {'domain': 'www.mein-weinhandel.de', 'expiry': 1644356306, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4295c1da-071c-47a5-9b1d-1b59ac3c35ac'}, {'domain': 'www.mein-weinhandel.de', 'expiry': 1675890509, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _gat_gtag_UA_60680582_1
+[After] Cookie-Name 2: _shopify_s
+[After] Cookie-Name 3: _shopify_y
+[After] Cookie-Name 4: _y
+[After] Cookie-Name 5: bc_tgm_aw
+[After] Cookie-Name 6: _bc_c_set
+[After] Cookie-Name 7: _ga
+[After] Cookie-Name 8: localization
+[After] Cookie-Name 9: bc_tgm_fbp
+[After] Cookie-Name 10: bc_tgm_ua
+[After] Cookie-Name 11: po_visitor
+[After] Cookie-Name 12: _gcl_au
+[After] Cookie-Name 13: shopify_pay_redirect
+[After] Cookie-Name 14: _s
+[After] Cookie-Name 15: cart_currency
+[After] Cookie-Name 16: _shopify_y
+[After] Cookie-Name 17: _fbp
+[After] Cookie-Name 18: _sp_ses.f764
+[After] Cookie-Name 19: _shopify_s
+[After] Cookie-Name 20: _y
+[After] Cookie-Name 21: _gid
+[After] Cookie-Name 22: _landing_page
+[After] Cookie-Name 23: _ga
+[After] Cookie-Name 24: _orig_referrer
+[After] Cookie-Name 25: _gat
+[After] Cookie-Name 26: _shopify_sa_t
+[After] Cookie-Name 27: _sp_id.f764
+[After] Cookie-Name 28: _gid
+[After] Cookie-Name 29: _s
+[After] Cookie-Name 30: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 20
+[Difference] Cookie-Name: 1: po_visitor
+[Difference] Cookie-Name: 2: _sp_id.f764
+[Difference] Cookie-Name: 3: _shopify_y
+[Difference] Cookie-Name: 4: _bc_c_set
+[Difference] Cookie-Name: 5: _gid
+[Difference] Cookie-Name: 6: _y
+[Difference] Cookie-Name: 7: _sp_ses.f764
+[Difference] Cookie-Name: 8: _fbp
+[Difference] Cookie-Name: 9: bc_tgm_aw
+[Difference] Cookie-Name: 10: _ga
+[Difference] Cookie-Name: 11: _shopify_sa_t
+[Difference] Cookie-Name: 12: bc_tgm_ua
+[Difference] Cookie-Name: 13: _s
+[Difference] Cookie-Name: 14: localization
+[Difference] Cookie-Name: 15: shopify_pay_redirect
+[Difference] Cookie-Name: 16: _gcl_au
+[Difference] Cookie-Name: 17: _shopify_s
+[Difference] Cookie-Name: 18: _gat_gtag_UA_60680582_1
+[Difference] Cookie-Name: 19: bc_tgm_fbp
+[Difference] Cookie-Name: 20: _gat
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

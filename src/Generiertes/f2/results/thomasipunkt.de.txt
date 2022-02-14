@@ -1,0 +1,77 @@
+Website 178: http://www.thomasipunkt.de/ | Created: 09.02.2022 11:39:57 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 8
+[Before] Website-Cookies: [{'domain': 'thomasipunkt.de', 'expiry': 1645612789, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644403188'}, {'domain': 'thomasipunkt.de', 'expiry': 1645612789, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': 'thomasipunkt.de', 'expiry': 1645612789, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '58d9c9f24c55efe1a6ebb4496bfab4c6'}, {'domain': '.thomasipunkt.de', 'expiry': 1645612787, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.thomasipunkt.de', 'expiry': 1645612787, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'thomasipunkt.de', 'expiry': 1645612789, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'thomasipunkt.de', 'expiry': 1645612789, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '25ada512be4606ed8c11085320d33354'}, {'domain': 'thomasipunkt.de', 'expiry': 1675939189, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: cart_ts
+[Before] Cookie-Name 2: cart_ver
+[Before] Cookie-Name 3: cart_sig
+[Before] Cookie-Name 4: _orig_referrer
+[Before] Cookie-Name 5: _landing_page
+[Before] Cookie-Name 6: cart_currency
+[Before] Cookie-Name 7: cart
+[Before] Cookie-Name 8: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 25
+[After] Website-Cookies: [{'domain': 'thomasipunkt.de', 'expiry': 1646995202, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0NDAzMjAyMzg2LCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjowfX0='}, {'domain': 'thomasipunkt.de', 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'thomasipunkt.de', 'httpOnly': False, 'name': '_ga', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'GA1.2.429986677.1644403188'}, {'domain': 'thomasipunkt.de', 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'thomasipunkt.de', 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': 'thomasipunkt.de', 'httpOnly': False, 'name': '_hjSession_2588906', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjgwMGU0ZDMzLWEwMWYtNDIxOC05NDUxLTcwZDQ5Mjk5ZGIwMyIsImNyZWF0ZWQiOjE2NDQ0MDMxODg0NDQsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': 'thomasipunkt.de', 'expiry': 1675939202, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6f772ed5-01d6-465e-adbb-85ab80c6aeb4'}, {'domain': 'thomasipunkt.de', 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'thomasipunkt.de', 'expiry': 1644405002, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3aa50e02-c41b-4f06-9b86-3e3a9ce63005'}, {'domain': 'thomasipunkt.de', 'httpOnly': False, 'name': '_gat', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'thomasipunkt.de', 'expiry': 1644405002, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3aa50e02-c41b-4f06-9b86-3e3a9ce63005'}, {'domain': 'thomasipunkt.de', 'expiry': 1645612789, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '25ada512be4606ed8c11085320d33354'}, {'domain': 'thomasipunkt.de', 'expiry': 1645612789, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644403188'}, {'domain': 'thomasipunkt.de', 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.thomasipunkt.de', 'expiry': 1645612787, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'thomasipunkt.de', 'expiry': 1675939202, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6f772ed5-01d6-465e-adbb-85ab80c6aeb4'}, {'domain': 'thomasipunkt.de', 'expiry': 1645612789, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'thomasipunkt.de', 'expiry': 1645612789, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': 'thomasipunkt.de', 'expiry': 1644405002, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A39%3A48.272Z'}, {'domain': 'thomasipunkt.de', 'expiry': 1645612789, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '58d9c9f24c55efe1a6ebb4496bfab4c6'}, {'domain': 'thomasipunkt.de', 'expiry': 1675939189, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.thomasipunkt.de', 'expiry': 1645612787, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'thomasipunkt.de', 'httpOnly': False, 'name': '_hjSessionUser_2588906', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjllZDNjYmIzLTI5NDQtNWM2NS04MmFiLWZlNGVmNzFhMDk1ZiIsImNyZWF0ZWQiOjE2NDQ0MDMxODgzNjMsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': 'thomasipunkt.de', 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644403202367.576504837'}, {'domain': 'thomasipunkt.de', 'httpOnly': False, 'name': '_gid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'GA1.2.874624892.1644403188'}]
+[After] Cookie-Name 1: _bc_c_set
+[After] Cookie-Name 2: localization
+[After] Cookie-Name 3: _ga
+[After] Cookie-Name 4: _hjFirstSeen
+[After] Cookie-Name 5: _hjIncludedInSessionSample
+[After] Cookie-Name 6: _hjSession_2588906
+[After] Cookie-Name 7: _shopify_y
+[After] Cookie-Name 8: _hjIncludedInPageviewSample
+[After] Cookie-Name 9: _s
+[After] Cookie-Name 10: _gat
+[After] Cookie-Name 11: _shopify_s
+[After] Cookie-Name 12: cart
+[After] Cookie-Name 13: cart_ts
+[After] Cookie-Name 14: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 15: _landing_page
+[After] Cookie-Name 16: _y
+[After] Cookie-Name 17: cart_currency
+[After] Cookie-Name 18: cart_ver
+[After] Cookie-Name 19: _shopify_sa_t
+[After] Cookie-Name 20: cart_sig
+[After] Cookie-Name 21: secure_customer_sig
+[After] Cookie-Name 22: _orig_referrer
+[After] Cookie-Name 23: _hjSessionUser_2588906
+[After] Cookie-Name 24: _fbp
+[After] Cookie-Name 25: _gid
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 17
+[Difference] Cookie-Name: 1: localization
+[Difference] Cookie-Name: 2: _hjFirstSeen
+[Difference] Cookie-Name: 3: _y
+[Difference] Cookie-Name: 4: _shopify_y
+[Difference] Cookie-Name: 5: _ga
+[Difference] Cookie-Name: 6: _hjIncludedInSessionSample
+[Difference] Cookie-Name: 7: _hjIncludedInPageviewSample
+[Difference] Cookie-Name: 8: _shopify_s
+[Difference] Cookie-Name: 9: _shopify_sa_t
+[Difference] Cookie-Name: 10: _hjSession_2588906
+[Difference] Cookie-Name: 11: _fbp
+[Difference] Cookie-Name: 12: _hjSessionUser_2588906
+[Difference] Cookie-Name: 13: _bc_c_set
+[Difference] Cookie-Name: 14: _gat
+[Difference] Cookie-Name: 15: _hjAbsoluteSessionInProgress
+[Difference] Cookie-Name: 16: _s
+[Difference] Cookie-Name: 17: _gid
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

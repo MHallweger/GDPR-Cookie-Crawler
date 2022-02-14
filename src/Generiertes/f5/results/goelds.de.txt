@@ -1,0 +1,99 @@
+Website 67: http://www.goelds.de/ | Created: 09.02.2022 19:52:48 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 34
+[Before] Website-Cookies: [{'domain': 'goelds.de', 'httpOnly': False, 'name': 'locale_bar_accepted', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'goelds.de', 'httpOnly': False, 'name': 'fsb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': 'goelds.de', 'httpOnly': False, 'name': 'rmc_logged_in_at', 'path': '/', 'secure': False, 'value': 'null'}, {'domain': 'goelds.de', 'expiry': 1647024760, 'httpOnly': False, 'name': 'hash_key', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '62040d781afcf140d6615990'}, {'domain': 'goelds.de', 'expiry': 1644434859, 'httpOnly': False, 'name': 'ssw_visitor', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'ssw_visitor1644432759844'}, {'domain': '.goelds.de', 'expiry': 1675968755, 'httpOnly': False, 'name': 'amp_0d882e', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bokmqRVgkOSCoKhJQfqF68.YzRjMmRkZGYtNTQ2MC00NjkwLWIwYjQtMDVjOGVhNDk5ZmJk..1frft92kb.1frft935r.1.4.5'}, {'domain': 'goelds.de', 'expiry': 1644519160, 'httpOnly': False, 'name': '_ssw_cart_data', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'eyJjYXJ0X3Rva2VuIjoiNGU5NTExYTdlY2NlOTQ0MjdmZWI0MWVhMzJkZjkxNTEifQ%3D%3D'}, {'domain': '.goelds.de', 'expiry': 1652208755, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644432754598.480246948'}, {'domain': '.goelds.de', 'expiry': 1644432814, 'httpOnly': False, 'name': '_gat_gtag_UA_85526346_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.goelds.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.goelds.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd19d64bc-e414-42b0-9e59-a71425957476'}, {'domain': 'goelds.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.goelds.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.goelds.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T18%3A52%3A34.543Z'}, {'domain': '.goelds.de', 'expiry': 1707504754, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.1.41926617.1644432754'}, {'domain': '.goelds.de', 'expiry': 1644434563, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.goelds.de', 'expiry': 1644519154, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1588066091.1644432754'}, {'domain': '.goelds.de', 'expiry': 1645642353, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.goelds.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2ec34355-f737-4fa1-a436-f4cf04aa63c6'}, {'domain': '.goelds.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd19d64bc-e414-42b0-9e59-a71425957476'}, {'domain': '.goelds.de', 'expiry': 1707504754, 'httpOnly': False, 'name': '_ga_0EYKZXJZK4', 'path': '/', 'secure': False, 'value': 'GS1.1.1644432753.1.0.1644432753.0'}, {'domain': '.goelds.de', 'expiry': 1675968753, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': 'goelds.de', 'expiry': 1645642363, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.goelds.de', 'expiry': 1675968753, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.goelds.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2ec34355-f737-4fa1-a436-f4cf04aa63c6'}, {'domain': '.goelds.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.goelds.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T18%3A52%3A34.558Z'}, {'domain': 'goelds.de', 'httpOnly': False, 'name': 'hesid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '96299baa-4960-6de6-3fbc-403dd0406951'}, {'domain': '.goelds.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'goelds.de', 'httpOnly': False, 'name': 'fsb_total_price_415875', 'path': '/', 'secure': False, 'value': '0'}, {'domain': '.goelds.de', 'expiry': 1652208753, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.660909662.1644432753'}, {'domain': 'goelds.de', 'expiry': 1644436362, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'goelds.de', 'expiry': 1645642363, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'goelds.de', 'expiry': 1675968763, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: locale_bar_accepted
+[Before] Cookie-Name 2: fsb_previous_pathname
+[Before] Cookie-Name 3: rmc_logged_in_at
+[Before] Cookie-Name 4: hash_key
+[Before] Cookie-Name 5: ssw_visitor
+[Before] Cookie-Name 6: amp_0d882e
+[Before] Cookie-Name 7: _ssw_cart_data
+[Before] Cookie-Name 8: _fbp
+[Before] Cookie-Name 9: _gat_gtag_UA_85526346_1
+[Before] Cookie-Name 10: _shopify_sa_p
+[Before] Cookie-Name 11: _shopify_y
+[Before] Cookie-Name 12: _shopify_evids
+[Before] Cookie-Name 13: _shopify_evids
+[Before] Cookie-Name 14: _shopify_d
+[Before] Cookie-Name 15: _ga
+[Before] Cookie-Name 16: _shopify_tm
+[Before] Cookie-Name 17: _gid
+[Before] Cookie-Name 18: _shopify_tw
+[Before] Cookie-Name 19: _shopify_s
+[Before] Cookie-Name 20: _y
+[Before] Cookie-Name 21: _ga_0EYKZXJZK4
+[Before] Cookie-Name 22: _tracking_consent
+[Before] Cookie-Name 23: cart_currency
+[Before] Cookie-Name 24: _shopify_m
+[Before] Cookie-Name 25: _s
+[Before] Cookie-Name 26: _orig_referrer
+[Before] Cookie-Name 27: _shopify_sa_t
+[Before] Cookie-Name 28: hesid
+[Before] Cookie-Name 29: _landing_page
+[Before] Cookie-Name 30: fsb_total_price_415875
+[Before] Cookie-Name 31: _gcl_au
+[Before] Cookie-Name 32: shopify_pay_redirect
+[Before] Cookie-Name 33: localization
+[Before] Cookie-Name 34: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 34
+[After] Website-Cookies: [{'domain': 'goelds.de', 'httpOnly': False, 'name': 'locale_bar_accepted', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'goelds.de', 'httpOnly': False, 'name': 'fsb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': 'goelds.de', 'httpOnly': False, 'name': 'rmc_logged_in_at', 'path': '/', 'secure': False, 'value': 'null'}, {'domain': 'goelds.de', 'expiry': 1647024760, 'httpOnly': False, 'name': 'hash_key', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '62040d781afcf140d6615990'}, {'domain': 'goelds.de', 'expiry': 1644434859, 'httpOnly': False, 'name': 'ssw_visitor', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'ssw_visitor1644432759844'}, {'domain': '.goelds.de', 'expiry': 1675968755, 'httpOnly': False, 'name': 'amp_0d882e', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bokmqRVgkOSCoKhJQfqF68.YzRjMmRkZGYtNTQ2MC00NjkwLWIwYjQtMDVjOGVhNDk5ZmJk..1frft92kb.1frft935r.1.4.5'}, {'domain': 'goelds.de', 'expiry': 1644519160, 'httpOnly': False, 'name': '_ssw_cart_data', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'eyJjYXJ0X3Rva2VuIjoiNGU5NTExYTdlY2NlOTQ0MjdmZWI0MWVhMzJkZjkxNTEifQ%3D%3D'}, {'domain': '.goelds.de', 'expiry': 1652208774, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644432754598.480246948'}, {'domain': '.goelds.de', 'expiry': 1644432814, 'httpOnly': False, 'name': '_gat_gtag_UA_85526346_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.goelds.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.goelds.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd19d64bc-e414-42b0-9e59-a71425957476'}, {'domain': 'goelds.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.goelds.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.goelds.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T18%3A52%3A34.543Z'}, {'domain': '.goelds.de', 'expiry': 1707504754, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.1.41926617.1644432754'}, {'domain': '.goelds.de', 'expiry': 1644434563, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.goelds.de', 'expiry': 1644519154, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1588066091.1644432754'}, {'domain': '.goelds.de', 'expiry': 1645642353, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.goelds.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2ec34355-f737-4fa1-a436-f4cf04aa63c6'}, {'domain': '.goelds.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd19d64bc-e414-42b0-9e59-a71425957476'}, {'domain': '.goelds.de', 'expiry': 1707504754, 'httpOnly': False, 'name': '_ga_0EYKZXJZK4', 'path': '/', 'secure': False, 'value': 'GS1.1.1644432753.1.0.1644432753.0'}, {'domain': '.goelds.de', 'expiry': 1675968753, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': 'goelds.de', 'expiry': 1645642363, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.goelds.de', 'expiry': 1675968753, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.goelds.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2ec34355-f737-4fa1-a436-f4cf04aa63c6'}, {'domain': '.goelds.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.goelds.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T18%3A52%3A34.558Z'}, {'domain': 'goelds.de', 'httpOnly': False, 'name': 'hesid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '96299baa-4960-6de6-3fbc-403dd0406951'}, {'domain': '.goelds.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'goelds.de', 'httpOnly': False, 'name': 'fsb_total_price_415875', 'path': '/', 'secure': False, 'value': '0'}, {'domain': '.goelds.de', 'expiry': 1652208753, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.660909662.1644432753'}, {'domain': 'goelds.de', 'expiry': 1644436362, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'goelds.de', 'expiry': 1645642363, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'goelds.de', 'expiry': 1675968763, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: locale_bar_accepted
+[After] Cookie-Name 2: fsb_previous_pathname
+[After] Cookie-Name 3: rmc_logged_in_at
+[After] Cookie-Name 4: hash_key
+[After] Cookie-Name 5: ssw_visitor
+[After] Cookie-Name 6: amp_0d882e
+[After] Cookie-Name 7: _ssw_cart_data
+[After] Cookie-Name 8: _fbp
+[After] Cookie-Name 9: _gat_gtag_UA_85526346_1
+[After] Cookie-Name 10: _shopify_sa_p
+[After] Cookie-Name 11: _shopify_y
+[After] Cookie-Name 12: _shopify_evids
+[After] Cookie-Name 13: _shopify_evids
+[After] Cookie-Name 14: _shopify_d
+[After] Cookie-Name 15: _ga
+[After] Cookie-Name 16: _shopify_tm
+[After] Cookie-Name 17: _gid
+[After] Cookie-Name 18: _shopify_tw
+[After] Cookie-Name 19: _shopify_s
+[After] Cookie-Name 20: _y
+[After] Cookie-Name 21: _ga_0EYKZXJZK4
+[After] Cookie-Name 22: _tracking_consent
+[After] Cookie-Name 23: cart_currency
+[After] Cookie-Name 24: _shopify_m
+[After] Cookie-Name 25: _s
+[After] Cookie-Name 26: _orig_referrer
+[After] Cookie-Name 27: _shopify_sa_t
+[After] Cookie-Name 28: hesid
+[After] Cookie-Name 29: _landing_page
+[After] Cookie-Name 30: fsb_total_price_415875
+[After] Cookie-Name 31: _gcl_au
+[After] Cookie-Name 32: shopify_pay_redirect
+[After] Cookie-Name 33: localization
+[After] Cookie-Name 34: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

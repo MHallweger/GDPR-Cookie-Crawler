@@ -1,0 +1,87 @@
+Website 267: http://www.sergiz.de/ | Created: 09.02.2022 15:02:19 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 27
+[Before] Website-Cookies: [{'domain': 'sergiz.de', 'httpOnly': True, 'name': 'wrapin_session', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'eyJpdiI6Ijc3UHlNcHN0YTJtMVBEMHFpSWJERHc9PSIsInZhbHVlIjoiRi9yZWkyVzd5c3ZOaERuUUJSaUdhZ3k1ZWVPb0VzSFhFMlp6b0VCSU5UenZnSnd0bCt3SDhUc29UaGRDSi9kSWcrd2NWS2E2UXdxVXZMSUJFazdCWW85dVB0ejYrSGtvZDBzS0ttRUxSN1ViL04xZ3JSb3lNdGtkeW5FWHJWWGgiLCJtYWMiOiIwNzUzNTBkMDA4M2RmOWUxYjcyNWJlM2NlZWUxNmNjMzA4YWE3OWU5ZjYwODczODYyZWJlOTZlYWFhYjFkNjg4In0%3D'}, {'domain': '.sergiz.de', 'expiry': 1652191330, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.287903364.1644415330'}, {'domain': 'sergiz.de', 'expiry': 1644422531, 'httpOnly': False, 'name': 'XSRF-TOKEN', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'eyJpdiI6Im53OVRHTzVCM2d2Ni9ZTklyK2F6eFE9PSIsInZhbHVlIjoiemxlL0E1d1NSYTZyQndSa0hMTERwS1lKUUsrVXlIMUQ2Rkk1eW1wR0ZsNTdpNGtPMldqMmNNSFJRcHBEMXVkdFFhdndFdlo1dmxESGtzeGRkVnZDSTU4TkowVFBseVdyWGp3STVYVGlpRmxCKzUwb2dFMEptT3g3QzJjNkNjUloiLCJtYWMiOiIxNGRlY2NkNWUyMTc5NzA1OTBlMWRkMzVlOTQ0MDk5ODE5OGUyMzc3NGVjNjc3ZDMwYWJlMjE4ZTI1MjQ1ZmVmIn0%3D'}, {'domain': '.sergiz.de', 'expiry': 1675951332, 'httpOnly': False, 'name': 'SREC_SESSION', 'path': '/', 'secure': False, 'value': 'V1.1644415332733'}, {'domain': 'sergiz.de', 'expiry': 1675951332, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.sergiz.de', 'expiry': 1644415390, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.sergiz.de', 'expiry': 1652191330, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644415330440.706767376'}, {'domain': '.sergiz.de', 'expiry': 1707487330, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1953146124.1644415330'}, {'domain': '.sergiz.de', 'expiry': 1644417130, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.sergiz.de', 'expiry': 1644501730, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1439915084.1644415330'}, {'domain': '.sergiz.de', 'expiry': 1644415390, 'httpOnly': False, 'name': '_gat_gtag_UA_157768286_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'sergiz.de', 'httpOnly': False, 'name': 'epb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.sergiz.de', 'expiry': 1675951330, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVptTTFOVEprWVRRdE1qSXdaQzAwTXpNNUxUbGxNemd0TVRNME9UZzRaalk0TkRRMA'}, {'domain': 'sergiz.de', 'httpOnly': False, 'name': 'qab_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.sergiz.de', 'expiry': 1678602028, 'httpOnly': False, 'name': '_scid', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'ba508a92-5c97-4b30-b575-89338f7071c7'}, {'domain': '.sergiz.de', 'expiry': 1644417132, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5212b109-4687-4f54-9a0c-8fbf1e265e57'}, {'domain': '.sergiz.de', 'expiry': 1675951332, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ddbdc36d-5f7d-4371-8653-5a1c2ce266b9'}, {'domain': '.sergiz.de', 'expiry': 1644417132, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5212b109-4687-4f54-9a0c-8fbf1e265e57'}, {'domain': 'sergiz.de', 'expiry': 1645624932, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.sergiz.de', 'expiry': 1675951332, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ddbdc36d-5f7d-4371-8653-5a1c2ce266b9'}, {'domain': '.sergiz.de', 'expiry': 1644417130, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T14%3A02%3A10.133Z'}, {'domain': '.sergiz.de', 'expiry': 1645624929, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'sergiz.de', 'httpOnly': False, 'name': '__brLastSetCartToken', 'path': '/', 'secure': False, 'value': ''}, {'domain': 'sergiz.de', 'expiry': 1645624932, 'httpOnly': False, 'name': 'docapp-coupon', 'path': '/', 'secure': False, 'value': '%7B%22codes%22%3A%5B%5D%2C%22hash%22%3Anull%7D'}, {'domain': '.sergiz.de', 'expiry': 1645624929, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'sergiz.de', 'expiry': 1647007332, 'httpOnly': False, 'name': '_pandectes_gdpr', 'path': '/', 'secure': True, 'value': 'eyJzdGF0dXMiOiIiLCJ0aW1lc3RhbXAiOm51bGwsInByZWZlcmVuY2VzIjpudWxsfQ=='}, {'domain': 'sergiz.de', 'expiry': 1645624932, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}]
+[Before] Cookie-Name 1: wrapin_session
+[Before] Cookie-Name 2: _gcl_au
+[Before] Cookie-Name 3: XSRF-TOKEN
+[Before] Cookie-Name 4: SREC_SESSION
+[Before] Cookie-Name 5: secure_customer_sig
+[Before] Cookie-Name 6: _gat
+[Before] Cookie-Name 7: _fbp
+[Before] Cookie-Name 8: _ga
+[Before] Cookie-Name 9: _shopify_sa_p
+[Before] Cookie-Name 10: _gid
+[Before] Cookie-Name 11: _gat_gtag_UA_157768286_1
+[Before] Cookie-Name 12: epb_previous_pathname
+[Before] Cookie-Name 13: _pin_unauth
+[Before] Cookie-Name 14: qab_previous_pathname
+[Before] Cookie-Name 15: _scid
+[Before] Cookie-Name 16: _s
+[Before] Cookie-Name 17: _shopify_y
+[Before] Cookie-Name 18: _shopify_s
+[Before] Cookie-Name 19: localization
+[Before] Cookie-Name 20: _y
+[Before] Cookie-Name 21: _shopify_sa_t
+[Before] Cookie-Name 22: _landing_page
+[Before] Cookie-Name 23: __brLastSetCartToken
+[Before] Cookie-Name 24: docapp-coupon
+[Before] Cookie-Name 25: _orig_referrer
+[Before] Cookie-Name 26: _pandectes_gdpr
+[Before] Cookie-Name 27: cart_currency
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 27
+[After] Website-Cookies: [{'domain': 'sergiz.de', 'httpOnly': True, 'name': 'wrapin_session', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'eyJpdiI6Ijc3UHlNcHN0YTJtMVBEMHFpSWJERHc9PSIsInZhbHVlIjoiRi9yZWkyVzd5c3ZOaERuUUJSaUdhZ3k1ZWVPb0VzSFhFMlp6b0VCSU5UenZnSnd0bCt3SDhUc29UaGRDSi9kSWcrd2NWS2E2UXdxVXZMSUJFazdCWW85dVB0ejYrSGtvZDBzS0ttRUxSN1ViL04xZ3JSb3lNdGtkeW5FWHJWWGgiLCJtYWMiOiIwNzUzNTBkMDA4M2RmOWUxYjcyNWJlM2NlZWUxNmNjMzA4YWE3OWU5ZjYwODczODYyZWJlOTZlYWFhYjFkNjg4In0%3D'}, {'domain': '.sergiz.de', 'expiry': 1652191330, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.287903364.1644415330'}, {'domain': 'sergiz.de', 'expiry': 1644422531, 'httpOnly': False, 'name': 'XSRF-TOKEN', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'eyJpdiI6Im53OVRHTzVCM2d2Ni9ZTklyK2F6eFE9PSIsInZhbHVlIjoiemxlL0E1d1NSYTZyQndSa0hMTERwS1lKUUsrVXlIMUQ2Rkk1eW1wR0ZsNTdpNGtPMldqMmNNSFJRcHBEMXVkdFFhdndFdlo1dmxESGtzeGRkVnZDSTU4TkowVFBseVdyWGp3STVYVGlpRmxCKzUwb2dFMEptT3g3QzJjNkNjUloiLCJtYWMiOiIxNGRlY2NkNWUyMTc5NzA1OTBlMWRkMzVlOTQ0MDk5ODE5OGUyMzc3NGVjNjc3ZDMwYWJlMjE4ZTI1MjQ1ZmVmIn0%3D'}, {'domain': '.sergiz.de', 'expiry': 1675951332, 'httpOnly': False, 'name': 'SREC_SESSION', 'path': '/', 'secure': False, 'value': 'V1.1644415332733'}, {'domain': 'sergiz.de', 'expiry': 1675951332, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.sergiz.de', 'expiry': 1644415390, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.sergiz.de', 'expiry': 1652191345, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644415330440.706767376'}, {'domain': '.sergiz.de', 'expiry': 1707487330, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1953146124.1644415330'}, {'domain': '.sergiz.de', 'expiry': 1644417130, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.sergiz.de', 'expiry': 1644501730, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1439915084.1644415330'}, {'domain': '.sergiz.de', 'expiry': 1644415390, 'httpOnly': False, 'name': '_gat_gtag_UA_157768286_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'sergiz.de', 'httpOnly': False, 'name': 'epb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.sergiz.de', 'expiry': 1675951330, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVptTTFOVEprWVRRdE1qSXdaQzAwTXpNNUxUbGxNemd0TVRNME9UZzRaalk0TkRRMA'}, {'domain': 'sergiz.de', 'httpOnly': False, 'name': 'qab_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.sergiz.de', 'expiry': 1678602028, 'httpOnly': False, 'name': '_scid', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'ba508a92-5c97-4b30-b575-89338f7071c7'}, {'domain': '.sergiz.de', 'expiry': 1644417132, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5212b109-4687-4f54-9a0c-8fbf1e265e57'}, {'domain': '.sergiz.de', 'expiry': 1675951332, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ddbdc36d-5f7d-4371-8653-5a1c2ce266b9'}, {'domain': '.sergiz.de', 'expiry': 1644417132, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5212b109-4687-4f54-9a0c-8fbf1e265e57'}, {'domain': 'sergiz.de', 'expiry': 1645624932, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.sergiz.de', 'expiry': 1675951332, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ddbdc36d-5f7d-4371-8653-5a1c2ce266b9'}, {'domain': '.sergiz.de', 'expiry': 1644417130, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T14%3A02%3A10.133Z'}, {'domain': '.sergiz.de', 'expiry': 1645624929, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'sergiz.de', 'httpOnly': False, 'name': '__brLastSetCartToken', 'path': '/', 'secure': False, 'value': ''}, {'domain': 'sergiz.de', 'expiry': 1645624932, 'httpOnly': False, 'name': 'docapp-coupon', 'path': '/', 'secure': False, 'value': '%7B%22codes%22%3A%5B%5D%2C%22hash%22%3Anull%7D'}, {'domain': '.sergiz.de', 'expiry': 1645624929, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'sergiz.de', 'expiry': 1647007345, 'httpOnly': False, 'name': '_pandectes_gdpr', 'path': '/', 'secure': True, 'value': 'eyJzdGF0dXMiOiJhbGxvdyIsInRpbWVzdGFtcCI6MTY0NDQxNTM0NSwicHJlZmVyZW5jZXMiOjB9'}, {'domain': 'sergiz.de', 'expiry': 1645624932, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}]
+[After] Cookie-Name 1: wrapin_session
+[After] Cookie-Name 2: _gcl_au
+[After] Cookie-Name 3: XSRF-TOKEN
+[After] Cookie-Name 4: SREC_SESSION
+[After] Cookie-Name 5: secure_customer_sig
+[After] Cookie-Name 6: _gat
+[After] Cookie-Name 7: _fbp
+[After] Cookie-Name 8: _ga
+[After] Cookie-Name 9: _shopify_sa_p
+[After] Cookie-Name 10: _gid
+[After] Cookie-Name 11: _gat_gtag_UA_157768286_1
+[After] Cookie-Name 12: epb_previous_pathname
+[After] Cookie-Name 13: _pin_unauth
+[After] Cookie-Name 14: qab_previous_pathname
+[After] Cookie-Name 15: _scid
+[After] Cookie-Name 16: _s
+[After] Cookie-Name 17: _shopify_y
+[After] Cookie-Name 18: _shopify_s
+[After] Cookie-Name 19: localization
+[After] Cookie-Name 20: _y
+[After] Cookie-Name 21: _shopify_sa_t
+[After] Cookie-Name 22: _landing_page
+[After] Cookie-Name 23: __brLastSetCartToken
+[After] Cookie-Name 24: docapp-coupon
+[After] Cookie-Name 25: _orig_referrer
+[After] Cookie-Name 26: _pandectes_gdpr
+[After] Cookie-Name 27: cart_currency
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

@@ -1,0 +1,107 @@
+Website 223: http://www.standxt.de/ | Created: 09.02.2022 18:14:03 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 8
+[Before] Website-Cookies: [{'domain': '.standxt.de', 'expiry': 1644428635, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.standxt.de', 'expiry': 1675962834, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22lim%22%3A%5B%22GDPR%22%5D%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%7D'}, {'domain': '.standxt.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.standxt.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.standxt.de', 'expiry': 1675962834, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': 'standxt.de', 'expiry': 1645636435, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.standxt.de', 'expiry': 1645636434, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'standxt.de', 'expiry': 1675962835, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _shopify_tm
+[Before] Cookie-Name 2: _tracking_consent
+[Before] Cookie-Name 3: _landing_page
+[Before] Cookie-Name 4: _orig_referrer
+[Before] Cookie-Name 5: _shopify_m
+[Before] Cookie-Name 6: cart_currency
+[Before] Cookie-Name 7: _shopify_tw
+[Before] Cookie-Name 8: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 43
+[After] Website-Cookies: [{'domain': '.standxt.de', 'expiry': 1652202850, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644426849931.920892075'}, {'domain': '.standxt.de', 'expiry': 1675962849, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%2C%22CCPA%22%3A%221%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%7D'}, {'domain': 'standxt.de', 'expiry': 1645636449, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '156f01174ff7d68ccd41e8d49d6f811a'}, {'domain': '.standxt.de', 'expiry': 1675962849, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': 'standxt.de', 'expiry': 1645636449, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '82192ecd635213b36faeca2c3d54a272'}, {'domain': 'standxt.de', 'expiry': 1645636449, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644426849'}, {'domain': '.standxt.de', 'expiry': 1644426909, 'httpOnly': False, 'name': '_gat_gtag_UA_146960301_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.standxt.de', 'expiry': 1707498849, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1133190360.1644426850'}, {'domain': 'standxt.de', 'httpOnly': False, 'name': 'bc_tgm_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'standxt.de', 'httpOnly': False, 'name': 'bc_tgm_ua', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.standxt.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c05b8de9-1561-4c63-ac14-ad72b0893144'}, {'domain': 'standxt.de', 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'pending'}, {'domain': 'standxt.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'standxt.de', 'expiry': 1645636449, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': 'standxt.de', 'httpOnly': False, 'name': '_hjSessionUser_1631158', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImY3OWY2NzNhLWM2YTEtNTQ0OC04M2U5LWExMGVmMjZjYjk0NyIsImNyZWF0ZWQiOjE2NDQ0MjY4MzQ3NTksImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': 'standxt.de', 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'standxt.de', 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.standxt.de', 'expiry': 1644426909, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.standxt.de', 'expiry': 1644513249, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1498563599.1644426850'}, {'domain': 'standxt.de', 'expiry': 1647018849, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0NDI2ODQ5MjY1LCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjowfX0='}, {'domain': 'standxt.de', 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'standxt.de', 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': 'standxt.de', 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MjY4MzUsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vc3RhbmR4dC5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQ0MjY4MzUsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vc3RhbmR4dC5kZS8ifX0='}, {'domain': 'standxt.de', 'httpOnly': False, 'name': '_hjSession_1631158', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImUxMzZlNDIyLTkxNmMtNDQ1OS1iNDk0LTJmNjBiMTVkZTllZiIsImNyZWF0ZWQiOjE2NDQ0MjY4MzQ5NzksImluU2FtcGxlIjpmYWxzZX0='}, {'domain': '.standxt.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c05b8de9-1561-4c63-ac14-ad72b0893144'}, {'domain': '.standxt.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f68c9941-91ab-4aad-8693-756474e5e3bf'}, {'domain': '.standxt.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A13%3A54.647Z'}, {'domain': 'standxt.de', 'expiry': 1645636449, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'standxt.de', 'expiry': 1675962849, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f68c9941-91ab-4aad-8693-756474e5e3bf'}, {'domain': 'standxt.de', 'expiry': 1675962849, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'standxt.de', 'expiry': 1644428649, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c05b8de9-1561-4c63-ac14-ad72b0893144'}, {'domain': '.standxt.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'standxt.de', 'expiry': 1644428649, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c05b8de9-1561-4c63-ac14-ad72b0893144'}, {'domain': 'standxt.de', 'expiry': 1675962849, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f68c9941-91ab-4aad-8693-756474e5e3bf'}, {'domain': '.standxt.de', 'expiry': 1644428649, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.standxt.de', 'expiry': 1645636434, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'standxt.de', 'expiry': 1645636449, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'standxt.de', 'httpOnly': False, 'name': 'bc_tgm_aw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'standxt.de', 'expiry': 1644428649, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A13%3A54.647Z'}, {'domain': '.standxt.de', 'expiry': 1645636449, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'standxt.de', 'expiry': 1645636449, 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A13%3A54.639Z'}, {'domain': '.standxt.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f68c9941-91ab-4aad-8693-756474e5e3bf'}, {'domain': '.standxt.de', 'expiry': 1645636449, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: _fbp
+[After] Cookie-Name 2: _tracking_consent
+[After] Cookie-Name 3: cart
+[After] Cookie-Name 4: _shopify_m
+[After] Cookie-Name 5: cart_sig
+[After] Cookie-Name 6: cart_ts
+[After] Cookie-Name 7: _gat_gtag_UA_146960301_1
+[After] Cookie-Name 8: _ga
+[After] Cookie-Name 9: bc_tgm_fbp
+[After] Cookie-Name 10: bc_tgm_ua
+[After] Cookie-Name 11: _s
+[After] Cookie-Name 12: shopify_pay_redirect
+[After] Cookie-Name 13: _shopify_evids
+[After] Cookie-Name 14: cart_ver
+[After] Cookie-Name 15: _hjSessionUser_1631158
+[After] Cookie-Name 16: _hjFirstSeen
+[After] Cookie-Name 17: _hjIncludedInSessionSample
+[After] Cookie-Name 18: _gat
+[After] Cookie-Name 19: _gid
+[After] Cookie-Name 20: _bc_c_set
+[After] Cookie-Name 21: _hjIncludedInPageviewSample
+[After] Cookie-Name 22: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 23: __kla_id
+[After] Cookie-Name 24: _hjSession_1631158
+[After] Cookie-Name 25: _shopify_s
+[After] Cookie-Name 26: _y
+[After] Cookie-Name 27: _shopify_sa_t
+[After] Cookie-Name 28: cart_currency
+[After] Cookie-Name 29: _y
+[After] Cookie-Name 30: secure_customer_sig
+[After] Cookie-Name 31: _shopify_s
+[After] Cookie-Name 32: _shopify_evids
+[After] Cookie-Name 33: _s
+[After] Cookie-Name 34: _shopify_y
+[After] Cookie-Name 35: _shopify_tm
+[After] Cookie-Name 36: _shopify_tw
+[After] Cookie-Name 37: localization
+[After] Cookie-Name 38: bc_tgm_aw
+[After] Cookie-Name 39: _shopify_sa_t
+[After] Cookie-Name 40: _landing_page
+[After] Cookie-Name 41: _shopify_d
+[After] Cookie-Name 42: _shopify_y
+[After] Cookie-Name 43: _orig_referrer
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 29
+[Difference] Cookie-Name: 1: _shopify_evids
+[Difference] Cookie-Name: 2: _gat_gtag_UA_146960301_1
+[Difference] Cookie-Name: 3: _gat
+[Difference] Cookie-Name: 4: _shopify_y
+[Difference] Cookie-Name: 5: _hjFirstSeen
+[Difference] Cookie-Name: 6: _hjIncludedInPageviewSample
+[Difference] Cookie-Name: 7: _hjSession_1631158
+[Difference] Cookie-Name: 8: cart_ts
+[Difference] Cookie-Name: 9: _ga
+[Difference] Cookie-Name: 10: _y
+[Difference] Cookie-Name: 11: _shopify_sa_t
+[Difference] Cookie-Name: 12: bc_tgm_fbp
+[Difference] Cookie-Name: 13: cart
+[Difference] Cookie-Name: 14: _hjIncludedInSessionSample
+[Difference] Cookie-Name: 15: _hjAbsoluteSessionInProgress
+[Difference] Cookie-Name: 16: _bc_c_set
+[Difference] Cookie-Name: 17: shopify_pay_redirect
+[Difference] Cookie-Name: 18: cart_sig
+[Difference] Cookie-Name: 19: __kla_id
+[Difference] Cookie-Name: 20: _gid
+[Difference] Cookie-Name: 21: localization
+[Difference] Cookie-Name: 22: _fbp
+[Difference] Cookie-Name: 23: _shopify_d
+[Difference] Cookie-Name: 24: _s
+[Difference] Cookie-Name: 25: _shopify_s
+[Difference] Cookie-Name: 26: bc_tgm_ua
+[Difference] Cookie-Name: 27: _hjSessionUser_1631158
+[Difference] Cookie-Name: 28: cart_ver
+[Difference] Cookie-Name: 29: bc_tgm_aw
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

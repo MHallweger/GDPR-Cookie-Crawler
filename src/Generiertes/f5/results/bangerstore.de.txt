@@ -1,0 +1,63 @@
+Website 260: http://www.bangerstore.de/ | Created: 09.02.2022 20:56:11 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 17
+[Before] Website-Cookies: [{'domain': '.bangerstore.de', 'expiry': 1644438363, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.bangerstore.de', 'expiry': 1675972557, 'httpOnly': False, 'name': 'swym-cu_ct', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'undefined'}, {'domain': '.bangerstore.de', 'expiry': 1675972557, 'httpOnly': False, 'name': 'swym-email', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'null'}, {'domain': '.bangerstore.de', 'expiry': 1644438357, 'httpOnly': False, 'name': 'swym-o_s', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'true'}, {'domain': 'bangerstore.de', 'expiry': 1645646156, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.bangerstore.de', 'expiry': 1675972556, 'httpOnly': False, 'name': 'swym-pid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"1h9PVOvH8DXY2LZcUHHx/jKDo4BXoKDUtiWSQ6+0ol4="'}, {'domain': '.bangerstore.de', 'expiry': 1675972556, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'aed060da-4b42-44a2-8df0-259a9896a1fa'}, {'domain': '.bangerstore.de', 'expiry': 1675972556, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'aed060da-4b42-44a2-8df0-259a9896a1fa'}, {'domain': '.bangerstore.de', 'expiry': 1675972557, 'httpOnly': False, 'name': 'swym-swymRegid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"mdltW1kyPkrfT2lpoWdifr85_00iD02VGDMJpoR3TiEvnQnXVvW7QKJbNb8g2oj7TPLNVw7d2_ZyAIQaCN9ZTZZSMWHv0jJjOX5G6OCYjLkGOEFmiSnDWtEo2qOBSpLox6ZUF4CBblZcmnqZnFCGE7HdytJhlRRwvzXZIvYce4o"'}, {'domain': '.bangerstore.de', 'expiry': 1644438358, 'httpOnly': False, 'name': 'swym-session-id', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"r93q2m0otnjklhsr3k5ppg0px1y1r7qa8hthdntb154kjwl457o3xshandb5x3z6"'}, {'domain': 'bangerstore.de', 'expiry': 1645646156, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': '.bangerstore.de', 'expiry': 1645646156, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.bangerstore.de', 'expiry': 1644438363, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '074c696a-2eee-4e96-8b3a-53233f5431bf'}, {'domain': '.bangerstore.de', 'expiry': 1644438363, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A56%3A03.373Z'}, {'domain': '.bangerstore.de', 'expiry': 1645646156, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.bangerstore.de', 'expiry': 1644438363, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '074c696a-2eee-4e96-8b3a-53233f5431bf'}, {'domain': 'bangerstore.de', 'expiry': 1675972556, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _shopify_sa_p
+[Before] Cookie-Name 2: swym-cu_ct
+[Before] Cookie-Name 3: swym-email
+[Before] Cookie-Name 4: swym-o_s
+[Before] Cookie-Name 5: cart_currency
+[Before] Cookie-Name 6: swym-pid
+[Before] Cookie-Name 7: _y
+[Before] Cookie-Name 8: _shopify_y
+[Before] Cookie-Name 9: swym-swymRegid
+[Before] Cookie-Name 10: swym-session-id
+[Before] Cookie-Name 11: localization
+[Before] Cookie-Name 12: _orig_referrer
+[Before] Cookie-Name 13: _s
+[Before] Cookie-Name 14: _shopify_sa_t
+[Before] Cookie-Name 15: _landing_page
+[Before] Cookie-Name 16: _shopify_s
+[Before] Cookie-Name 17: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 17
+[After] Website-Cookies: [{'domain': '.bangerstore.de', 'expiry': 1644438363, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.bangerstore.de', 'expiry': 1675972557, 'httpOnly': False, 'name': 'swym-cu_ct', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'undefined'}, {'domain': '.bangerstore.de', 'expiry': 1675972557, 'httpOnly': False, 'name': 'swym-email', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'null'}, {'domain': '.bangerstore.de', 'expiry': 1644438357, 'httpOnly': False, 'name': 'swym-o_s', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'true'}, {'domain': 'bangerstore.de', 'expiry': 1645646156, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.bangerstore.de', 'expiry': 1675972556, 'httpOnly': False, 'name': 'swym-pid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"1h9PVOvH8DXY2LZcUHHx/jKDo4BXoKDUtiWSQ6+0ol4="'}, {'domain': '.bangerstore.de', 'expiry': 1675972556, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'aed060da-4b42-44a2-8df0-259a9896a1fa'}, {'domain': '.bangerstore.de', 'expiry': 1675972556, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'aed060da-4b42-44a2-8df0-259a9896a1fa'}, {'domain': '.bangerstore.de', 'expiry': 1675972557, 'httpOnly': False, 'name': 'swym-swymRegid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"mdltW1kyPkrfT2lpoWdifr85_00iD02VGDMJpoR3TiEvnQnXVvW7QKJbNb8g2oj7TPLNVw7d2_ZyAIQaCN9ZTZZSMWHv0jJjOX5G6OCYjLkGOEFmiSnDWtEo2qOBSpLox6ZUF4CBblZcmnqZnFCGE7HdytJhlRRwvzXZIvYce4o"'}, {'domain': '.bangerstore.de', 'expiry': 1644438358, 'httpOnly': False, 'name': 'swym-session-id', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"r93q2m0otnjklhsr3k5ppg0px1y1r7qa8hthdntb154kjwl457o3xshandb5x3z6"'}, {'domain': 'bangerstore.de', 'expiry': 1645646156, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': '.bangerstore.de', 'expiry': 1645646156, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.bangerstore.de', 'expiry': 1644438363, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '074c696a-2eee-4e96-8b3a-53233f5431bf'}, {'domain': '.bangerstore.de', 'expiry': 1644438363, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A56%3A03.373Z'}, {'domain': '.bangerstore.de', 'expiry': 1645646156, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.bangerstore.de', 'expiry': 1644438363, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '074c696a-2eee-4e96-8b3a-53233f5431bf'}, {'domain': 'bangerstore.de', 'expiry': 1675972556, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _shopify_sa_p
+[After] Cookie-Name 2: swym-cu_ct
+[After] Cookie-Name 3: swym-email
+[After] Cookie-Name 4: swym-o_s
+[After] Cookie-Name 5: cart_currency
+[After] Cookie-Name 6: swym-pid
+[After] Cookie-Name 7: _y
+[After] Cookie-Name 8: _shopify_y
+[After] Cookie-Name 9: swym-swymRegid
+[After] Cookie-Name 10: swym-session-id
+[After] Cookie-Name 11: localization
+[After] Cookie-Name 12: _orig_referrer
+[After] Cookie-Name 13: _s
+[After] Cookie-Name 14: _shopify_sa_t
+[After] Cookie-Name 15: _landing_page
+[After] Cookie-Name 16: _shopify_s
+[After] Cookie-Name 17: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is NOT GDPR compliant!

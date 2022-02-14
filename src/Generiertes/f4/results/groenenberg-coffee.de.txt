@@ -1,0 +1,80 @@
+Website 182: http://www.groenenberg-coffee.de/ | Created: 09.02.2022 18:01:43 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 23
+[Before] Website-Cookies: [{'domain': '.groenenberg-coffee.de', 'expiry': 1644512494, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': 'thqs0j|1644426094637|1|1|e.clarity.ms/collect'}, {'domain': '.groenenberg-coffee.de', 'expiry': 1675962094, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': 'mkbanu|1|eyu|0'}, {'domain': '.groenenberg-coffee.de', 'expiry': 1678122093, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': 'eee84fe089c911ecbd6469db7547268c'}, {'domain': '.groenenberg-coffee.de', 'expiry': 1675962105, 'httpOnly': False, 'name': '__zlcmid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '18Skh6TDQX2U70z'}, {'domain': '.groenenberg-coffee.de', 'expiry': 1644512493, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': 'eee8411089c911eca37547d8182944c7'}, {'domain': '.groenenberg-coffee.de', 'expiry': 1707498093, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1707111451.1644426093'}, {'domain': '.groenenberg-coffee.de', 'expiry': 1652202093, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1678223400.1644426093'}, {'domain': 'groenenberg-coffee.de', 'httpOnly': False, 'name': 'newsletter_delay', 'path': '/', 'secure': False, 'value': 'value'}, {'domain': '.groenenberg-coffee.de', 'expiry': 1644427893, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1c3a4be2-e8dc-4238-b500-478e26376d85'}, {'domain': '.groenenberg-coffee.de', 'expiry': 1644512493, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1589135315.1644426093'}, {'domain': 'groenenberg-coffee.de', 'expiry': 1645635693, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': '.groenenberg-coffee.de', 'expiry': 1645635692, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'groenenberg-coffee.de', 'expiry': 1645635693, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.groenenberg-coffee.de', 'expiry': 1644427893, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1c3a4be2-e8dc-4238-b500-478e26376d85'}, {'domain': '.groenenberg-coffee.de', 'expiry': 1644427892, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'groenenberg-coffee.de', 'expiry': 1644427892, 'httpOnly': False, 'name': 'dynamic_checkout_shown_on_cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.groenenberg-coffee.de', 'expiry': 1675962093, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8a1dd750-79b4-48d9-9620-52bc1fba47a2'}, {'domain': 'groenenberg-coffee.de', 'expiry': 1675962093, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.groenenberg-coffee.de', 'expiry': 1644427892, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A01%3A32.990Z'}, {'domain': '.groenenberg-coffee.de', 'expiry': 1652202093, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644426093241.1172761280'}, {'domain': '.groenenberg-coffee.de', 'expiry': 1675962093, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8a1dd750-79b4-48d9-9620-52bc1fba47a2'}, {'domain': '.groenenberg-coffee.de', 'expiry': 1644426153, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.groenenberg-coffee.de', 'expiry': 1645635692, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[Before] Cookie-Name 1: _clsk
+[Before] Cookie-Name 2: _clck
+[Before] Cookie-Name 3: _uetvid
+[Before] Cookie-Name 4: __zlcmid
+[Before] Cookie-Name 5: _uetsid
+[Before] Cookie-Name 6: _ga
+[Before] Cookie-Name 7: _gcl_au
+[Before] Cookie-Name 8: newsletter_delay
+[Before] Cookie-Name 9: _s
+[Before] Cookie-Name 10: _gid
+[Before] Cookie-Name 11: localization
+[Before] Cookie-Name 12: _landing_page
+[Before] Cookie-Name 13: cart_currency
+[Before] Cookie-Name 14: _shopify_s
+[Before] Cookie-Name 15: _shopify_sa_p
+[Before] Cookie-Name 16: dynamic_checkout_shown_on_cart
+[Before] Cookie-Name 17: _y
+[Before] Cookie-Name 18: secure_customer_sig
+[Before] Cookie-Name 19: _shopify_sa_t
+[Before] Cookie-Name 20: _fbp
+[Before] Cookie-Name 21: _shopify_y
+[Before] Cookie-Name 22: _gat
+[Before] Cookie-Name 23: _orig_referrer
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 23
+[After] Website-Cookies: [{'domain': '.groenenberg-coffee.de', 'expiry': 1644512494, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': 'thqs0j|1644426094637|1|1|e.clarity.ms/collect'}, {'domain': '.groenenberg-coffee.de', 'expiry': 1675962094, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': 'mkbanu|1|eyu|0'}, {'domain': '.groenenberg-coffee.de', 'expiry': 1678122093, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': 'eee84fe089c911ecbd6469db7547268c'}, {'domain': '.groenenberg-coffee.de', 'expiry': 1675962105, 'httpOnly': False, 'name': '__zlcmid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '18Skh6TDQX2U70z'}, {'domain': '.groenenberg-coffee.de', 'expiry': 1644512493, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': 'eee8411089c911eca37547d8182944c7'}, {'domain': '.groenenberg-coffee.de', 'expiry': 1707498093, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1707111451.1644426093'}, {'domain': '.groenenberg-coffee.de', 'expiry': 1652202093, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1678223400.1644426093'}, {'domain': 'groenenberg-coffee.de', 'httpOnly': False, 'name': 'newsletter_delay', 'path': '/', 'secure': False, 'value': 'value'}, {'domain': '.groenenberg-coffee.de', 'expiry': 1644427910, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1c3a4be2-e8dc-4238-b500-478e26376d85'}, {'domain': '.groenenberg-coffee.de', 'expiry': 1644512493, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1589135315.1644426093'}, {'domain': 'groenenberg-coffee.de', 'expiry': 1645635710, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': '.groenenberg-coffee.de', 'expiry': 1645635692, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'groenenberg-coffee.de', 'expiry': 1645635710, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.groenenberg-coffee.de', 'expiry': 1644427910, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1c3a4be2-e8dc-4238-b500-478e26376d85'}, {'domain': '.groenenberg-coffee.de', 'expiry': 1644427892, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'groenenberg-coffee.de', 'expiry': 1644427892, 'httpOnly': False, 'name': 'dynamic_checkout_shown_on_cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.groenenberg-coffee.de', 'expiry': 1675962110, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8a1dd750-79b4-48d9-9620-52bc1fba47a2'}, {'domain': 'groenenberg-coffee.de', 'expiry': 1675962110, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.groenenberg-coffee.de', 'expiry': 1644427892, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A01%3A32.990Z'}, {'domain': '.groenenberg-coffee.de', 'expiry': 1652202109, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644426093241.1172761280'}, {'domain': '.groenenberg-coffee.de', 'expiry': 1675962110, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8a1dd750-79b4-48d9-9620-52bc1fba47a2'}, {'domain': '.groenenberg-coffee.de', 'expiry': 1644426153, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.groenenberg-coffee.de', 'expiry': 1645635692, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: _clsk
+[After] Cookie-Name 2: _clck
+[After] Cookie-Name 3: _uetvid
+[After] Cookie-Name 4: __zlcmid
+[After] Cookie-Name 5: _uetsid
+[After] Cookie-Name 6: _ga
+[After] Cookie-Name 7: _gcl_au
+[After] Cookie-Name 8: newsletter_delay
+[After] Cookie-Name 9: _s
+[After] Cookie-Name 10: _gid
+[After] Cookie-Name 11: localization
+[After] Cookie-Name 12: _landing_page
+[After] Cookie-Name 13: cart_currency
+[After] Cookie-Name 14: _shopify_s
+[After] Cookie-Name 15: _shopify_sa_p
+[After] Cookie-Name 16: dynamic_checkout_shown_on_cart
+[After] Cookie-Name 17: _y
+[After] Cookie-Name 18: secure_customer_sig
+[After] Cookie-Name 19: _shopify_sa_t
+[After] Cookie-Name 20: _fbp
+[After] Cookie-Name 21: _shopify_y
+[After] Cookie-Name 22: _gat
+[After] Cookie-Name 23: _orig_referrer
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _clsk (Microsoft Clarity (User experience tool))
+[Used before] Cookie-Name: _clck (Microsoft Clarity (User experience tool))
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gat (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

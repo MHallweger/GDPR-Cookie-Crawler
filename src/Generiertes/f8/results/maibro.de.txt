@@ -1,0 +1,91 @@
+Website 21: http://www.maibro.de/ | Created: 10.02.2022 20:03:36 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 8
+[Before] Website-Cookies: [{'domain': '.maibro.de', 'expiry': 1645729403, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.maibro.de', 'expiry': 1644521613, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.maibro.de', 'expiry': 1676055803, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': '.maibro.de', 'expiry': 1676055803, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.maibro.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'maibro.de', 'expiry': 1645729413, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.maibro.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'maibro.de', 'expiry': 1676055813, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _shopify_tw
+[Before] Cookie-Name 2: _shopify_tm
+[Before] Cookie-Name 3: _tracking_consent
+[Before] Cookie-Name 4: _shopify_m
+[Before] Cookie-Name 5: _orig_referrer
+[Before] Cookie-Name 6: cart_currency
+[Before] Cookie-Name 7: _landing_page
+[Before] Cookie-Name 8: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 35
+[After] Website-Cookies: [{'domain': '.maibro.de', 'expiry': 1652295823, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644519822682.1019195951'}, {'domain': '.maibro.de', 'expiry': 1644519882, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.maibro.de', 'expiry': 1707591822, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.491844074.1644519823'}, {'domain': 'maibro.de', 'expiry': 1645729422, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5eb52659759295919993dfc73b93565a'}, {'domain': '.maibro.de', 'expiry': 1644606222, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.244478613.1644519823'}, {'domain': '.maibro.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.maibro.de', 'expiry': 1644521622, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f7c5b8c3-689b-4db2-bf4a-4e1f1753840f'}, {'domain': '.maibro.de', 'expiry': 1676055822, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8cbb0628-7e39-4919-b2f9-c429aa1c71ee'}, {'domain': '.maibro.de', 'expiry': 1676055822, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8cbb0628-7e39-4919-b2f9-c429aa1c71ee'}, {'domain': 'maibro.de', 'expiry': 1644521621, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T19%3A03%3A23.903Z'}, {'domain': '.maibro.de', 'expiry': 1644521622, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T19%3A03%3A23.903Z'}, {'domain': 'maibro.de', 'expiry': 1645729422, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644519822'}, {'domain': 'maibro.de', 'httpOnly': False, 'name': '_lo_uid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '307261-1644519812196-d8a07f569d222d71'}, {'domain': 'maibro.de', 'httpOnly': False, 'name': '_lorid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '307261-1644519812196-1267daafba6a766a'}, {'domain': 'maibro.de', 'httpOnly': False, 'name': '_lo_v', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.maibro.de', 'expiry': 1676055822, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%221%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%7D'}, {'domain': 'maibro.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'maibro.de', 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'pending'}, {'domain': 'maibro.de', 'expiry': 1645729422, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': '.maibro.de', 'expiry': 1644521622, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f7c5b8c3-689b-4db2-bf4a-4e1f1753840f'}, {'domain': 'maibro.de', 'expiry': 1645729422, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'maibro.de', 'expiry': 1644521621, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f7c5b8c3-689b-4db2-bf4a-4e1f1753840f'}, {'domain': '.maibro.de', 'expiry': 1645729422, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'maibro.de', 'expiry': 1644521621, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f7c5b8c3-689b-4db2-bf4a-4e1f1753840f'}, {'domain': '.maibro.de', 'expiry': 1645729422, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'maibro.de', 'expiry': 1676055821, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8cbb0628-7e39-4919-b2f9-c429aa1c71ee'}, {'domain': 'maibro.de', 'expiry': 1645729421, 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T19%3A03%3A23.886Z'}, {'domain': 'maibro.de', 'expiry': 1647111821, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0NTE5ODIxODY4LCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjoxfX0='}, {'domain': 'maibro.de', 'expiry': 1645729422, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.maibro.de', 'expiry': 1676055822, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': 'maibro.de', 'expiry': 1676055821, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8cbb0628-7e39-4919-b2f9-c429aa1c71ee'}, {'domain': 'maibro.de', 'expiry': 1676055822, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'maibro.de', 'expiry': 1645729422, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f09441e2d885f4fa77082fd9988fc55e'}, {'domain': '.maibro.de', 'expiry': 1645729403, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.maibro.de', 'expiry': 1644521622, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: _fbp
+[After] Cookie-Name 2: _gat
+[After] Cookie-Name 3: _ga
+[After] Cookie-Name 4: cart
+[After] Cookie-Name 5: _gid
+[After] Cookie-Name 6: _shopify_evids
+[After] Cookie-Name 7: _shopify_s
+[After] Cookie-Name 8: _shopify_y
+[After] Cookie-Name 9: _y
+[After] Cookie-Name 10: _shopify_sa_t
+[After] Cookie-Name 11: _shopify_sa_t
+[After] Cookie-Name 12: cart_ts
+[After] Cookie-Name 13: _lo_uid
+[After] Cookie-Name 14: _lorid
+[After] Cookie-Name 15: _lo_v
+[After] Cookie-Name 16: _tracking_consent
+[After] Cookie-Name 17: _shopify_evids
+[After] Cookie-Name 18: shopify_pay_redirect
+[After] Cookie-Name 19: cart_ver
+[After] Cookie-Name 20: _s
+[After] Cookie-Name 21: localization
+[After] Cookie-Name 22: _shopify_s
+[After] Cookie-Name 23: _orig_referrer
+[After] Cookie-Name 24: _s
+[After] Cookie-Name 25: _landing_page
+[After] Cookie-Name 26: _y
+[After] Cookie-Name 27: _shopify_d
+[After] Cookie-Name 28: _bc_c_set
+[After] Cookie-Name 29: cart_currency
+[After] Cookie-Name 30: _shopify_m
+[After] Cookie-Name 31: _shopify_y
+[After] Cookie-Name 32: secure_customer_sig
+[After] Cookie-Name 33: cart_sig
+[After] Cookie-Name 34: _shopify_tw
+[After] Cookie-Name 35: _shopify_tm
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 21
+[Difference] Cookie-Name: 1: _lorid
+[Difference] Cookie-Name: 2: cart
+[Difference] Cookie-Name: 3: _fbp
+[Difference] Cookie-Name: 4: cart_sig
+[Difference] Cookie-Name: 5: _shopify_y
+[Difference] Cookie-Name: 6: _lo_uid
+[Difference] Cookie-Name: 7: _shopify_s
+[Difference] Cookie-Name: 8: _s
+[Difference] Cookie-Name: 9: _ga
+[Difference] Cookie-Name: 10: _shopify_evids
+[Difference] Cookie-Name: 11: cart_ts
+[Difference] Cookie-Name: 12: _gat
+[Difference] Cookie-Name: 13: _gid
+[Difference] Cookie-Name: 14: localization
+[Difference] Cookie-Name: 15: _lo_v
+[Difference] Cookie-Name: 16: cart_ver
+[Difference] Cookie-Name: 17: _shopify_sa_t
+[Difference] Cookie-Name: 18: _y
+[Difference] Cookie-Name: 19: _shopify_d
+[Difference] Cookie-Name: 20: _bc_c_set
+[Difference] Cookie-Name: 21: shopify_pay_redirect
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

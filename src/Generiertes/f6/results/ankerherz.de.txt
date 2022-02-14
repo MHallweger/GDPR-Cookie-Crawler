@@ -1,0 +1,93 @@
+Website 41: http://www.ankerherz.de/ | Created: 10.02.2022 12:24:50 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 28
+[Before] Website-Cookies: [{'domain': '.ankerherz.de', 'httpOnly': False, 'name': 'soundest-views', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.ankerherz.de', 'expiry': 1644494082, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'Fyx5II30GT5Sxb-20220210112442'}, {'domain': '.ankerherz.de', 'expiry': 1678656282, 'httpOnly': False, 'name': 'cto_bundle', 'path': '/', 'secure': False, 'value': 'uD2J6l9QJTJGR0FUZndGYm1tMlM5RllUY1liM21Jb1ZVMUFta3I2aFdNeVklMkJHc042aW1DbnFGZE1kcWpNamN5em5IcEV2cTdwNExYaTNCVTgwQzhoUU5ubVRhRkFFQ3JvdmpxaVZRWHV1T3dBWXBnclFwd1hkWG84TkowcVNwYiUyRmxLd3kxSFprY1pmdiUyRjZoUFNYZnhpZENvcUpZUSUzRCUzRA'}, {'domain': '.ankerherz.de', 'expiry': 1676028282, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'WjcvyiPNZE6epO-20220210112442'}, {'domain': '.ankerherz.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220210112442-OxOsSjUlx1Kcr1MoVjYoWITsdmyh4fPmUlPJd1YzFszq5pD9H'}, {'domain': 'www.ankerherz.de', 'expiry': 1644495881, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'www.ankerherz.de', 'expiry': 1644492401, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.ankerherz.de', 'expiry': 1644494081, 'httpOnly': False, 'name': '_hjSession_2818463', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImZiZjYzMDhhLTVjMDUtNGM4My05NmEyLTc3MDhiNTFlMGEwMSIsImNyZWF0ZWQiOjE2NDQ0OTIyODE1MDAsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': '.ankerherz.de', 'expiry': 1644494081, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.ankerherz.de', 'expiry': 1676028281, 'httpOnly': False, 'name': '_hjSessionUser_2818463', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjJjM2NjMTk0LWNiYmItNTJlZi04YTg5LThkMzhiMTk3NTNjNCIsImNyZWF0ZWQiOjE2NDQ0OTIyODA4NTUsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.ankerherz.de', 'expiry': 1652268282, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644492281676.788316082'}, {'domain': '.ankerherz.de', 'expiry': 1676028281, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVpqUXdaRGd3Wm1RdFpqUTJOQzAwWmpkaUxXRXhaakF0Wmpkak5EZGtPVEEwWkRVdw'}, {'domain': '.ankerherz.de', 'expiry': 1644494081, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T11%3A24%3A41.249Z'}, {'domain': '.ankerherz.de', 'expiry': 1644494083, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '60d30d46-6385-4f9e-aba0-a1ca6467d22f'}, {'domain': '.ankerherz.de', 'expiry': 1676028283, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c80f220f-e38d-40c7-8db7-5677a76061b8'}, {'domain': '.ankerherz.de', 'expiry': 1676028283, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c80f220f-e38d-40c7-8db7-5677a76061b8'}, {'domain': 'www.ankerherz.de', 'expiry': 1644492401, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.ankerherz.de', 'expiry': 1645701880, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.ankerherz.de', 'expiry': 1644492341, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.ankerherz.de', 'expiry': 1644494083, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '60d30d46-6385-4f9e-aba0-a1ca6467d22f'}, {'domain': '.ankerherz.de', 'expiry': 1644578681, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.108129733.1644492281'}, {'domain': '.ankerherz.de', 'expiry': 1645701880, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.ankerherz.de', 'expiry': 1645701882, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.ankerherz.de', 'expiry': 1707564281, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1367161258.1644492281'}, {'domain': 'www.ankerherz.de', 'expiry': 1676028283, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.ankerherz.de', 'expiry': 1644494081, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.ankerherz.de', 'expiry': 1644494081, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.ankerherz.de', 'expiry': 1645701883, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[Before] Cookie-Name 1: soundest-views
+[Before] Cookie-Name 2: omnisendSessionID
+[Before] Cookie-Name 3: cto_bundle
+[Before] Cookie-Name 4: omnisendAnonymousID
+[Before] Cookie-Name 5: soundestID
+[Before] Cookie-Name 6: shopify_pay_redirect
+[Before] Cookie-Name 7: _hjIncludedInPageviewSample
+[Before] Cookie-Name 8: _hjSession_2818463
+[Before] Cookie-Name 9: _hjFirstSeen
+[Before] Cookie-Name 10: _hjSessionUser_2818463
+[Before] Cookie-Name 11: _fbp
+[Before] Cookie-Name 12: _pin_unauth
+[Before] Cookie-Name 13: _shopify_sa_t
+[Before] Cookie-Name 14: _shopify_s
+[Before] Cookie-Name 15: _shopify_y
+[Before] Cookie-Name 16: _y
+[Before] Cookie-Name 17: _hjIncludedInSessionSample
+[Before] Cookie-Name 18: _landing_page
+[Before] Cookie-Name 19: _gat
+[Before] Cookie-Name 20: _s
+[Before] Cookie-Name 21: _gid
+[Before] Cookie-Name 22: _orig_referrer
+[Before] Cookie-Name 23: cart_currency
+[Before] Cookie-Name 24: _ga
+[Before] Cookie-Name 25: secure_customer_sig
+[Before] Cookie-Name 26: _shopify_sa_p
+[Before] Cookie-Name 27: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 28: localization
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 29
+[After] Website-Cookies: [{'domain': '.ankerherz.de', 'httpOnly': False, 'name': 'soundest-views', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.ankerherz.de', 'expiry': 1644494082, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'Fyx5II30GT5Sxb-20220210112442'}, {'domain': '.ankerherz.de', 'expiry': 1678656282, 'httpOnly': False, 'name': 'cto_bundle', 'path': '/', 'secure': False, 'value': 'uD2J6l9QJTJGR0FUZndGYm1tMlM5RllUY1liM21Jb1ZVMUFta3I2aFdNeVklMkJHc042aW1DbnFGZE1kcWpNamN5em5IcEV2cTdwNExYaTNCVTgwQzhoUU5ubVRhRkFFQ3JvdmpxaVZRWHV1T3dBWXBnclFwd1hkWG84TkowcVNwYiUyRmxLd3kxSFprY1pmdiUyRjZoUFNYZnhpZENvcUpZUSUzRCUzRA'}, {'domain': '.ankerherz.de', 'expiry': 1676028282, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'WjcvyiPNZE6epO-20220210112442'}, {'domain': '.ankerherz.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220210112442-OxOsSjUlx1Kcr1MoVjYoWITsdmyh4fPmUlPJd1YzFszq5pD9H'}, {'domain': 'www.ankerherz.de', 'expiry': 1644495881, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'www.ankerherz.de', 'expiry': 1644492401, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.ankerherz.de', 'expiry': 1644494081, 'httpOnly': False, 'name': '_hjSession_2818463', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImZiZjYzMDhhLTVjMDUtNGM4My05NmEyLTc3MDhiNTFlMGEwMSIsImNyZWF0ZWQiOjE2NDQ0OTIyODE1MDAsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': '.ankerherz.de', 'expiry': 1644494081, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.ankerherz.de', 'expiry': 1676028281, 'httpOnly': False, 'name': '_hjSessionUser_2818463', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjJjM2NjMTk0LWNiYmItNTJlZi04YTg5LThkMzhiMTk3NTNjNCIsImNyZWF0ZWQiOjE2NDQ0OTIyODA4NTUsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.ankerherz.de', 'expiry': 1652268295, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644492281676.788316082'}, {'domain': '.ankerherz.de', 'expiry': 1676028281, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVpqUXdaRGd3Wm1RdFpqUTJOQzAwWmpkaUxXRXhaakF0Wmpkak5EZGtPVEEwWkRVdw'}, {'domain': '.ankerherz.de', 'expiry': 1644494081, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T11%3A24%3A41.249Z'}, {'domain': '.ankerherz.de', 'expiry': 1644494083, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '60d30d46-6385-4f9e-aba0-a1ca6467d22f'}, {'domain': '.ankerherz.de', 'expiry': 1676028283, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c80f220f-e38d-40c7-8db7-5677a76061b8'}, {'domain': '.ankerherz.de', 'expiry': 1676028283, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c80f220f-e38d-40c7-8db7-5677a76061b8'}, {'domain': 'www.ankerherz.de', 'expiry': 1644492401, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.ankerherz.de', 'expiry': 1645701880, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.ankerherz.de', 'expiry': 1644492341, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.ankerherz.de', 'expiry': 1644494083, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '60d30d46-6385-4f9e-aba0-a1ca6467d22f'}, {'domain': '.ankerherz.de', 'expiry': 1644578681, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.108129733.1644492281'}, {'domain': '.ankerherz.de', 'expiry': 1645701880, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.ankerherz.de', 'expiry': 1645701882, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.ankerherz.de', 'expiry': 1707564281, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1367161258.1644492281'}, {'domain': 'www.ankerherz.de', 'expiry': 1676028283, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.ankerherz.de', 'expiry': 1644494081, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.ankerherz.de', 'expiry': 1675596295, 'httpOnly': False, 'name': 'accepts_cookies', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': '.ankerherz.de', 'expiry': 1644494081, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.ankerherz.de', 'expiry': 1645701883, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[After] Cookie-Name 1: soundest-views
+[After] Cookie-Name 2: omnisendSessionID
+[After] Cookie-Name 3: cto_bundle
+[After] Cookie-Name 4: omnisendAnonymousID
+[After] Cookie-Name 5: soundestID
+[After] Cookie-Name 6: shopify_pay_redirect
+[After] Cookie-Name 7: _hjIncludedInPageviewSample
+[After] Cookie-Name 8: _hjSession_2818463
+[After] Cookie-Name 9: _hjFirstSeen
+[After] Cookie-Name 10: _hjSessionUser_2818463
+[After] Cookie-Name 11: _fbp
+[After] Cookie-Name 12: _pin_unauth
+[After] Cookie-Name 13: _shopify_sa_t
+[After] Cookie-Name 14: _shopify_s
+[After] Cookie-Name 15: _shopify_y
+[After] Cookie-Name 16: _y
+[After] Cookie-Name 17: _hjIncludedInSessionSample
+[After] Cookie-Name 18: _landing_page
+[After] Cookie-Name 19: _gat
+[After] Cookie-Name 20: _s
+[After] Cookie-Name 21: _gid
+[After] Cookie-Name 22: _orig_referrer
+[After] Cookie-Name 23: cart_currency
+[After] Cookie-Name 24: _ga
+[After] Cookie-Name 25: secure_customer_sig
+[After] Cookie-Name 26: _shopify_sa_p
+[After] Cookie-Name 27: accepts_cookies
+[After] Cookie-Name 28: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 29: localization
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _hjIncludedInPageviewSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _hjIncludedInSessionSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: accepts_cookies
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

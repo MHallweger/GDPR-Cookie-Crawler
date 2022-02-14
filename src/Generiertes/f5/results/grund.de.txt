@@ -1,0 +1,74 @@
+Website 34: http://www.grund.de/ | Created: 09.02.2022 19:42:28 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 13
+[Before] Website-Cookies: [{'domain': '.grund.de', 'expiry': 1675968140, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': '.grund.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a900a17c-6ceb-4aa2-b3e7-baf175d08760'}, {'domain': '.grund.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.grund.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '40f2ab1d-0c7a-4bea-831d-3e0623bbf7c9'}, {'domain': 'grund.de', 'expiry': 1675968140, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.grund.de', 'expiry': 1645641737, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.grund.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '40f2ab1d-0c7a-4bea-831d-3e0623bbf7c9'}, {'domain': '.grund.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.grund.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a900a17c-6ceb-4aa2-b3e7-baf175d08760'}, {'domain': '.grund.de', 'expiry': 1675968137, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.grund.de', 'expiry': 1675968139, 'httpOnly': False, 'name': '_privy_8F46D4FB6CDA8A41A8A4B61D', 'path': '/', 'secure': False, 'value': '%7B%22uuid%22%3A%2248a43177-6505-40b7-be76-c4ddca2ee871%22%7D'}, {'domain': '.grund.de', 'expiry': 1644432198, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.grund.de', 'expiry': 1644433940, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[Before] Cookie-Name 1: _tracking_consent
+[Before] Cookie-Name 2: _shopify_s
+[Before] Cookie-Name 3: _landing_page
+[Before] Cookie-Name 4: _shopify_y
+[Before] Cookie-Name 5: secure_customer_sig
+[Before] Cookie-Name 6: _shopify_tw
+[Before] Cookie-Name 7: _y
+[Before] Cookie-Name 8: _orig_referrer
+[Before] Cookie-Name 9: _s
+[Before] Cookie-Name 10: _shopify_m
+[Before] Cookie-Name 11: _privy_8F46D4FB6CDA8A41A8A4B61D
+[Before] Cookie-Name 12: _gat
+[Before] Cookie-Name 13: _shopify_tm
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 23
+[After] Website-Cookies: [{'domain': '.grund.de', 'expiry': 1644518554, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': '111nchg|1644432154973|1|1|f.clarity.ms/collect'}, {'domain': '.grund.de', 'expiry': 1678128153, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '0b63582089d811ecb845235645d9dc15'}, {'domain': '.grund.de', 'expiry': 1707504153, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1821373216.1644432138'}, {'domain': '.grund.de', 'expiry': 1675968154, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': '2ef14r|1|eyu|0'}, {'domain': '.grund.de', 'expiry': 1644518553, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.756513034.1644432154'}, {'domain': '.grund.de', 'expiry': 1652208153, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.257407402.1644432154'}, {'domain': 'grund.de', 'expiry': 1647024154, 'httpOnly': False, 'name': 'CookieScriptConsent', 'path': '/', 'secure': True, 'value': '{"action":"accept","categories":"[\\"performance\\",\\"targeting\\"]","key":"7d6922f1-6b37-43f4-9346-d1f617538dad"}'}, {'domain': '.grund.de', 'expiry': 1652208154, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644432153593.1782093059'}, {'domain': '.grund.de', 'expiry': 1675968140, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': '.grund.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a900a17c-6ceb-4aa2-b3e7-baf175d08760'}, {'domain': '.grund.de', 'expiry': 1644518553, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': '0b632ab089d811ecbed0fd65778e926f'}, {'domain': '.grund.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.grund.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '40f2ab1d-0c7a-4bea-831d-3e0623bbf7c9'}, {'domain': 'grund.de', 'expiry': 1675968140, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.grund.de', 'expiry': 1645641737, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.grund.de', 'expiry': 1644432213, 'httpOnly': False, 'name': '_gat_UA-161184832-1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.grund.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '40f2ab1d-0c7a-4bea-831d-3e0623bbf7c9'}, {'domain': '.grund.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.grund.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a900a17c-6ceb-4aa2-b3e7-baf175d08760'}, {'domain': '.grund.de', 'expiry': 1675968137, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.grund.de', 'expiry': 1675968139, 'httpOnly': False, 'name': '_privy_8F46D4FB6CDA8A41A8A4B61D', 'path': '/', 'secure': False, 'value': '%7B%22uuid%22%3A%2248a43177-6505-40b7-be76-c4ddca2ee871%22%7D'}, {'domain': '.grund.de', 'expiry': 1644432198, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.grund.de', 'expiry': 1644433940, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: _clsk
+[After] Cookie-Name 2: _uetvid
+[After] Cookie-Name 3: _ga
+[After] Cookie-Name 4: _clck
+[After] Cookie-Name 5: _gid
+[After] Cookie-Name 6: _gcl_au
+[After] Cookie-Name 7: CookieScriptConsent
+[After] Cookie-Name 8: _fbp
+[After] Cookie-Name 9: _tracking_consent
+[After] Cookie-Name 10: _shopify_s
+[After] Cookie-Name 11: _uetsid
+[After] Cookie-Name 12: _landing_page
+[After] Cookie-Name 13: _shopify_y
+[After] Cookie-Name 14: secure_customer_sig
+[After] Cookie-Name 15: _shopify_tw
+[After] Cookie-Name 16: _gat_UA-161184832-1
+[After] Cookie-Name 17: _y
+[After] Cookie-Name 18: _orig_referrer
+[After] Cookie-Name 19: _s
+[After] Cookie-Name 20: _shopify_m
+[After] Cookie-Name 21: _privy_8F46D4FB6CDA8A41A8A4B61D
+[After] Cookie-Name 22: _gat
+[After] Cookie-Name 23: _shopify_tm
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gat (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 10
+[Difference] Cookie-Name: 1: _gat_UA-161184832-1
+[Difference] Cookie-Name: 2: _uetvid
+[Difference] Cookie-Name: 3: _clck
+[Difference] Cookie-Name: 4: _fbp
+[Difference] Cookie-Name: 5: _gid
+[Difference] Cookie-Name: 6: CookieScriptConsent
+[Difference] Cookie-Name: 7: _gcl_au
+[Difference] Cookie-Name: 8: _ga
+[Difference] Cookie-Name: 9: _uetsid
+[Difference] Cookie-Name: 10: _clsk
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

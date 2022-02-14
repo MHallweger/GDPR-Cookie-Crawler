@@ -1,0 +1,70 @@
+Website 303: http://www.spera.de/ | Created: 09.02.2022 18:42:42 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 17
+[Before] Website-Cookies: [{'domain': '.spera.de', 'expiry': 1644514954, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': '1mrtz94|1644428554478|1|1|h.clarity.ms/collect'}, {'domain': '.spera.de', 'expiry': 1644514953, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': 'a945e00089cf11ecb18f3f2060c9379f'}, {'domain': '.spera.de', 'expiry': 1652204553, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644428553208.787185132'}, {'domain': '.spera.de', 'expiry': 1644428613, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.spera.de', 'expiry': 1644514953, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.239180450.1644428553'}, {'domain': '.spera.de', 'expiry': 1644430352, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.spera.de', 'expiry': 1678124553, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': 'a945f5d089cf11ec90b275bdeadb7265'}, {'domain': '.spera.de', 'expiry': 1645638152, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.spera.de', 'expiry': 1644430352, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b56c6c02-5a28-4fc0-a516-929f10e3aece'}, {'domain': '.spera.de', 'expiry': 1707500553, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.71104368.1644428553'}, {'domain': '.spera.de', 'expiry': 1675964554, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': 'x0woiw|1|eyu|0'}, {'domain': '.spera.de', 'expiry': 1644430352, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A42%3A32.939Z'}, {'domain': '.spera.de', 'expiry': 1675964552, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8b16979a-73a6-4b4a-b938-fce23a2d993d'}, {'domain': '.spera.de', 'expiry': 1675964552, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8b16979a-73a6-4b4a-b938-fce23a2d993d'}, {'domain': '.spera.de', 'expiry': 1645638152, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.spera.de', 'expiry': 1644430352, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b56c6c02-5a28-4fc0-a516-929f10e3aece'}, {'domain': 'www.spera.de', 'expiry': 1675964552, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _clsk
+[Before] Cookie-Name 2: _uetsid
+[Before] Cookie-Name 3: _fbp
+[Before] Cookie-Name 4: _gat
+[Before] Cookie-Name 5: _gid
+[Before] Cookie-Name 6: _shopify_sa_p
+[Before] Cookie-Name 7: _uetvid
+[Before] Cookie-Name 8: _landing_page
+[Before] Cookie-Name 9: _shopify_s
+[Before] Cookie-Name 10: _ga
+[Before] Cookie-Name 11: _clck
+[Before] Cookie-Name 12: _shopify_sa_t
+[Before] Cookie-Name 13: _y
+[Before] Cookie-Name 14: _shopify_y
+[Before] Cookie-Name 15: _orig_referrer
+[Before] Cookie-Name 16: _s
+[Before] Cookie-Name 17: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 17
+[After] Website-Cookies: [{'domain': '.spera.de', 'expiry': 1644514954, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': '1mrtz94|1644428554478|1|1|h.clarity.ms/collect'}, {'domain': '.spera.de', 'expiry': 1644514953, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': 'a945e00089cf11ecb18f3f2060c9379f'}, {'domain': '.spera.de', 'expiry': 1652204553, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644428553208.787185132'}, {'domain': '.spera.de', 'expiry': 1644428613, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.spera.de', 'expiry': 1644514953, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.239180450.1644428553'}, {'domain': '.spera.de', 'expiry': 1644430352, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.spera.de', 'expiry': 1678124553, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': 'a945f5d089cf11ec90b275bdeadb7265'}, {'domain': '.spera.de', 'expiry': 1645638152, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.spera.de', 'expiry': 1644430352, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b56c6c02-5a28-4fc0-a516-929f10e3aece'}, {'domain': '.spera.de', 'expiry': 1707500553, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.71104368.1644428553'}, {'domain': '.spera.de', 'expiry': 1675964554, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': 'x0woiw|1|eyu|0'}, {'domain': '.spera.de', 'expiry': 1644430352, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A42%3A32.939Z'}, {'domain': '.spera.de', 'expiry': 1675964552, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8b16979a-73a6-4b4a-b938-fce23a2d993d'}, {'domain': '.spera.de', 'expiry': 1675964552, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8b16979a-73a6-4b4a-b938-fce23a2d993d'}, {'domain': '.spera.de', 'expiry': 1645638152, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.spera.de', 'expiry': 1644430352, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b56c6c02-5a28-4fc0-a516-929f10e3aece'}, {'domain': 'www.spera.de', 'expiry': 1675964552, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _clsk
+[After] Cookie-Name 2: _uetsid
+[After] Cookie-Name 3: _fbp
+[After] Cookie-Name 4: _gat
+[After] Cookie-Name 5: _gid
+[After] Cookie-Name 6: _shopify_sa_p
+[After] Cookie-Name 7: _uetvid
+[After] Cookie-Name 8: _landing_page
+[After] Cookie-Name 9: _shopify_s
+[After] Cookie-Name 10: _ga
+[After] Cookie-Name 11: _clck
+[After] Cookie-Name 12: _shopify_sa_t
+[After] Cookie-Name 13: _y
+[After] Cookie-Name 14: _shopify_y
+[After] Cookie-Name 15: _orig_referrer
+[After] Cookie-Name 16: _s
+[After] Cookie-Name 17: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _clsk (Microsoft Clarity (User experience tool))
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _clck (Microsoft Clarity (User experience tool))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

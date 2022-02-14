@@ -1,0 +1,94 @@
+Website 381: http://www.herr-von-welt.de/ | Created: 09.02.2022 19:06:38 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 8
+[Before] Website-Cookies: [{'domain': '.herr-von-welt.de', 'expiry': 1675965987, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.herr-von-welt.de', 'expiry': 1644431789, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.herr-von-welt.de', 'expiry': 1675965987, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': '.herr-von-welt.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.herr-von-welt.de', 'expiry': 1645639587, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'herr-von-welt.de', 'expiry': 1645639589, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.herr-von-welt.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'herr-von-welt.de', 'expiry': 1675965989, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _shopify_m
+[Before] Cookie-Name 2: _shopify_tm
+[Before] Cookie-Name 3: _tracking_consent
+[Before] Cookie-Name 4: _orig_referrer
+[Before] Cookie-Name 5: _shopify_tw
+[Before] Cookie-Name 6: cart_currency
+[Before] Cookie-Name 7: _landing_page
+[Before] Cookie-Name 8: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 36
+[After] Website-Cookies: [{'domain': '.herr-von-welt.de', 'expiry': 1644516404, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.188672970.1644430005'}, {'domain': '.herr-von-welt.de', 'expiry': 1707502004, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.577073933.1644430005'}, {'domain': 'herr-von-welt.de', 'expiry': 1645639604, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5d0a0ea55156132fb40f53a76c62b1b4'}, {'domain': '.herr-von-welt.de', 'expiry': 1675966004, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '58c5424b-b4e5-4bc3-93fb-3c5d2e2c09a3'}, {'domain': '.herr-von-welt.de', 'expiry': 1675966004, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU1EVXlOalExWmpndE9EWXhZeTAwTTJNM0xXSXpPR010WkdGbE1URTVNelF3WXpBdw'}, {'domain': '.herr-von-welt.de', 'expiry': 1644431804, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T18%3A06%3A43.958Z'}, {'domain': 'herr-von-welt.de', 'expiry': 1645639604, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a5acec37bf91be4a01be1c3fa809d4a5'}, {'domain': '.herr-von-welt.de', 'expiry': 1645639587, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'herr-von-welt.de', 'expiry': 1645639604, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644430004'}, {'domain': 'herr-von-welt.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.herr-von-welt.de', 'expiry': 1644431804, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd05548cd-3617-4ad8-9381-a221f76ff6f3'}, {'domain': '.herr-von-welt.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T18%3A06%3A43.945Z'}, {'domain': '.herr-von-welt.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.herr-von-welt.de', 'expiry': 1645639604, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'herr-von-welt.de', 'httpOnly': False, 'name': 'sib_cuid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd66d164e-9e22-46be-bc2b-b76dbda23323'}, {'domain': 'herr-von-welt.de', 'httpOnly': False, 'name': 'cbuid_meta', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '{"referrer":"","href":"https://herr-von-welt.de/"}'}, {'domain': '.herr-von-welt.de', 'expiry': 1644431804, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'herr-von-welt.de', 'expiry': 1645639604, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.herr-von-welt.de', 'expiry': 1652206004, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.923699276.1644430005'}, {'domain': '.herr-von-welt.de', 'expiry': 1644430064, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'herr-von-welt.de', 'expiry': 1675966003, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '58c5424b-b4e5-4bc3-93fb-3c5d2e2c09a3'}, {'domain': 'herr-von-welt.de', 'expiry': 1644431803, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd05548cd-3617-4ad8-9381-a221f76ff6f3'}, {'domain': '.herr-von-welt.de', 'expiry': 1644431804, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd05548cd-3617-4ad8-9381-a221f76ff6f3'}, {'domain': 'herr-von-welt.de', 'expiry': 1644431803, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd05548cd-3617-4ad8-9381-a221f76ff6f3'}, {'domain': '.herr-von-welt.de', 'expiry': 1675966004, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22con%22%3A%7B%22GDPR%22%3A%221%22%7D%2C%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': 'herr-von-welt.de', 'expiry': 1675966003, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '58c5424b-b4e5-4bc3-93fb-3c5d2e2c09a3'}, {'domain': '.herr-von-welt.de', 'expiry': 1675966004, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': '.herr-von-welt.de', 'expiry': 1675966004, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '58c5424b-b4e5-4bc3-93fb-3c5d2e2c09a3'}, {'domain': '.herr-von-welt.de', 'expiry': 1644431804, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.herr-von-welt.de', 'expiry': 1644430064, 'httpOnly': False, 'name': '_gat_gtag_UA_75043880_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'herr-von-welt.de', 'expiry': 1645639604, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'herr-von-welt.de', 'expiry': 1645639604, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': '.herr-von-welt.de', 'expiry': 1645639604, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.herr-von-welt.de', 'expiry': 1652206005, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644430004638.718626644'}, {'domain': 'herr-von-welt.de', 'expiry': 1647022003, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0NDMwMDAzODkzLCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjowfX0='}, {'domain': 'herr-von-welt.de', 'expiry': 1675966004, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _gid
+[After] Cookie-Name 2: _ga
+[After] Cookie-Name 3: cart
+[After] Cookie-Name 4: _shopify_y
+[After] Cookie-Name 5: _pin_unauth
+[After] Cookie-Name 6: _shopify_sa_t
+[After] Cookie-Name 7: cart_sig
+[After] Cookie-Name 8: _shopify_tw
+[After] Cookie-Name 9: cart_ts
+[After] Cookie-Name 10: _shopify_evids
+[After] Cookie-Name 11: _shopify_s
+[After] Cookie-Name 12: _shopify_d
+[After] Cookie-Name 13: _shopify_evids
+[After] Cookie-Name 14: _orig_referrer
+[After] Cookie-Name 15: sib_cuid
+[After] Cookie-Name 16: cbuid_meta
+[After] Cookie-Name 17: _shopify_tm
+[After] Cookie-Name 18: cart_currency
+[After] Cookie-Name 19: _gcl_au
+[After] Cookie-Name 20: _gat
+[After] Cookie-Name 21: _shopify_y
+[After] Cookie-Name 22: _shopify_s
+[After] Cookie-Name 23: _s
+[After] Cookie-Name 24: _s
+[After] Cookie-Name 25: _tracking_consent
+[After] Cookie-Name 26: _y
+[After] Cookie-Name 27: _shopify_m
+[After] Cookie-Name 28: _y
+[After] Cookie-Name 29: _shopify_sa_p
+[After] Cookie-Name 30: _gat_gtag_UA_75043880_1
+[After] Cookie-Name 31: localization
+[After] Cookie-Name 32: cart_ver
+[After] Cookie-Name 33: _landing_page
+[After] Cookie-Name 34: _fbp
+[After] Cookie-Name 35: _bc_c_set
+[After] Cookie-Name 36: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 23
+[Difference] Cookie-Name: 1: _shopify_evids
+[Difference] Cookie-Name: 2: cart_sig
+[Difference] Cookie-Name: 3: _shopify_sa_p
+[Difference] Cookie-Name: 4: _gid
+[Difference] Cookie-Name: 5: localization
+[Difference] Cookie-Name: 6: _gcl_au
+[Difference] Cookie-Name: 7: _gat
+[Difference] Cookie-Name: 8: _gat_gtag_UA_75043880_1
+[Difference] Cookie-Name: 9: _shopify_y
+[Difference] Cookie-Name: 10: cbuid_meta
+[Difference] Cookie-Name: 11: _fbp
+[Difference] Cookie-Name: 12: _shopify_d
+[Difference] Cookie-Name: 13: _s
+[Difference] Cookie-Name: 14: _shopify_s
+[Difference] Cookie-Name: 15: cart_ts
+[Difference] Cookie-Name: 16: sib_cuid
+[Difference] Cookie-Name: 17: _ga
+[Difference] Cookie-Name: 18: _y
+[Difference] Cookie-Name: 19: cart_ver
+[Difference] Cookie-Name: 20: _shopify_sa_t
+[Difference] Cookie-Name: 21: cart
+[Difference] Cookie-Name: 22: _pin_unauth
+[Difference] Cookie-Name: 23: _bc_c_set
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

@@ -1,0 +1,100 @@
+Website 99: http://www.your-pureness.de/ | Created: 09.02.2022 11:16:23 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 29
+[Before] Website-Cookies: [{'domain': '.your-pureness.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f7c00566-424e-4fe2-85e9-841a02274848'}, {'domain': '.your-pureness.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f7c00566-424e-4fe2-85e9-841a02274848'}, {'domain': '.your-pureness.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5da8f321-d4c7-4c11-8d75-af752e40d11e'}, {'domain': '.your-pureness.de', 'expiry': 1644403569, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.your-pureness.de', 'expiry': 1675937769, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': 'marketing%2Canalytics'}, {'domain': '.your-pureness.de', 'expiry': 1675937768, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%7D'}, {'domain': '.your-pureness.de', 'expiry': 1644488169, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1121981431.1644401769'}, {'domain': '.your-pureness.de', 'expiry': 1644403570, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.your-pureness.de', 'expiry': 1644488169, 'httpOnly': False, 'name': '_goo_Fg3ld', 'path': '/', 'secure': False, 'value': 'edd4cHidhs34fd4sd5546sdfnslkj'}, {'domain': 'www.your-pureness.de', 'expiry': 1644405369, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.your-pureness.de', 'expiry': 1652177769, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.408345534.1644401769'}, {'domain': 'www.your-pureness.de', 'expiry': 1644401889, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.your-pureness.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.your-pureness.de', 'expiry': 1645611370, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.your-pureness.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.your-pureness.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A16%3A08.994Z'}, {'domain': '.your-pureness.de', 'expiry': 1644403569, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.your-pureness.de', 'expiry': 1644402371, 'httpOnly': False, 'name': 'popupNewsletter', 'path': '/', 'secure': False, 'value': 'disable'}, {'domain': '.your-pureness.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.your-pureness.de', 'expiry': 1675937769, 'httpOnly': False, 'name': '_hjSessionUser_2155926', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImUzNmUxNzMwLWRiMGUtNWM2Yy1iMmNjLTM5OWIzYzA0MmE5NiIsImNyZWF0ZWQiOjE2NDQ0MDE3Njk3NjgsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.your-pureness.de', 'expiry': 1675937768, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.your-pureness.de', 'expiry': 1645611368, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.your-pureness.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5da8f321-d4c7-4c11-8d75-af752e40d11e'}, {'domain': '.your-pureness.de', 'expiry': 1644401829, 'httpOnly': False, 'name': '_gat_UA-132431582-1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.your-pureness.de', 'expiry': 1644403569, 'httpOnly': False, 'name': '_hjSession_2155926', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjU3NTc1MjUzLTZkMTEtNDIwZS1hOGVkLTc0ZTA3ODQ1MGQ3NSIsImNyZWF0ZWQiOjE2NDQ0MDE3Njk3ODQsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': '.your-pureness.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.your-pureness.de', 'expiry': 1645611370, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.your-pureness.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.your-pureness.de', 'expiry': 1675937770, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _shopify_s
+[Before] Cookie-Name 2: _s
+[Before] Cookie-Name 3: _y
+[Before] Cookie-Name 4: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 5: cookieconsent_preferences_disabled
+[Before] Cookie-Name 6: _tracking_consent
+[Before] Cookie-Name 7: _gid
+[Before] Cookie-Name 8: _shopify_tm
+[Before] Cookie-Name 9: _goo_Fg3ld
+[Before] Cookie-Name 10: shopify_pay_redirect
+[Before] Cookie-Name 11: _gcl_au
+[Before] Cookie-Name 12: _hjIncludedInPageviewSample
+[Before] Cookie-Name 13: _shopify_sa_p
+[Before] Cookie-Name 14: cart_currency
+[Before] Cookie-Name 15: _shopify_evids
+[Before] Cookie-Name 16: _shopify_d
+[Before] Cookie-Name 17: _hjFirstSeen
+[Before] Cookie-Name 18: popupNewsletter
+[Before] Cookie-Name 19: _orig_referrer
+[Before] Cookie-Name 20: _hjSessionUser_2155926
+[Before] Cookie-Name 21: _shopify_m
+[Before] Cookie-Name 22: _shopify_tw
+[Before] Cookie-Name 23: _shopify_y
+[Before] Cookie-Name 24: _gat_UA-132431582-1
+[Before] Cookie-Name 25: _hjSession_2155926
+[Before] Cookie-Name 26: _shopify_evids
+[Before] Cookie-Name 27: localization
+[Before] Cookie-Name 28: _landing_page
+[Before] Cookie-Name 29: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 34
+[After] Website-Cookies: [{'domain': 'www.your-pureness.de', 'expiry': 1645611390, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3ad420800d46b7b34d5d2c599c1bb872'}, {'domain': 'www.your-pureness.de', 'expiry': 1675937789, 'httpOnly': False, 'name': 'cookieconsent_status', 'path': '/', 'secure': False, 'value': 'allow'}, {'domain': 'www.your-pureness.de', 'expiry': 1645611390, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': '.your-pureness.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f7c00566-424e-4fe2-85e9-841a02274848'}, {'domain': '.your-pureness.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f7c00566-424e-4fe2-85e9-841a02274848'}, {'domain': '.your-pureness.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5da8f321-d4c7-4c11-8d75-af752e40d11e'}, {'domain': '.your-pureness.de', 'expiry': 1644403569, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.your-pureness.de', 'expiry': 1645611390, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '026058f29684c90fc63946fd38ecfd77'}, {'domain': 'www.your-pureness.de', 'expiry': 1675937789, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': 'marketing%2Canalytics'}, {'domain': '.your-pureness.de', 'expiry': 1675937790, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%220%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%7D'}, {'domain': '.your-pureness.de', 'expiry': 1644488169, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1121981431.1644401769'}, {'domain': '.your-pureness.de', 'expiry': 1644403590, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.your-pureness.de', 'expiry': 1644488169, 'httpOnly': False, 'name': '_goo_Fg3ld', 'path': '/', 'secure': False, 'value': 'edd4cHidhs34fd4sd5546sdfnslkj'}, {'domain': '.your-pureness.de', 'expiry': 1644403569, 'httpOnly': False, 'name': '_hjSession_2155926', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjU3NTc1MjUzLTZkMTEtNDIwZS1hOGVkLTc0ZTA3ODQ1MGQ3NSIsImNyZWF0ZWQiOjE2NDQ0MDE3Njk3ODQsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': 'www.your-pureness.de', 'expiry': 1644405369, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.your-pureness.de', 'expiry': 1652177769, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.408345534.1644401769'}, {'domain': 'www.your-pureness.de', 'expiry': 1644401889, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.your-pureness.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.your-pureness.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A16%3A08.994Z'}, {'domain': '.your-pureness.de', 'expiry': 1644403569, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.your-pureness.de', 'expiry': 1644402371, 'httpOnly': False, 'name': 'popupNewsletter', 'path': '/', 'secure': False, 'value': 'disable'}, {'domain': '.your-pureness.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.your-pureness.de', 'expiry': 1675937769, 'httpOnly': False, 'name': '_hjSessionUser_2155926', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImUzNmUxNzMwLWRiMGUtNWM2Yy1iMmNjLTM5OWIzYzA0MmE5NiIsImNyZWF0ZWQiOjE2NDQ0MDE3Njk3NjgsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': 'www.your-pureness.de', 'expiry': 1645611390, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644401790'}, {'domain': '.your-pureness.de', 'expiry': 1675937790, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.your-pureness.de', 'expiry': 1645611368, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.your-pureness.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5da8f321-d4c7-4c11-8d75-af752e40d11e'}, {'domain': '.your-pureness.de', 'expiry': 1644401829, 'httpOnly': False, 'name': '_gat_UA-132431582-1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.your-pureness.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.your-pureness.de', 'expiry': 1645611390, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.your-pureness.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.your-pureness.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.your-pureness.de', 'expiry': 1645611390, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.your-pureness.de', 'expiry': 1675937790, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: cart
+[After] Cookie-Name 2: cookieconsent_status
+[After] Cookie-Name 3: cart_ver
+[After] Cookie-Name 4: _shopify_s
+[After] Cookie-Name 5: _s
+[After] Cookie-Name 6: _y
+[After] Cookie-Name 7: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 8: cart_sig
+[After] Cookie-Name 9: cookieconsent_preferences_disabled
+[After] Cookie-Name 10: _tracking_consent
+[After] Cookie-Name 11: _gid
+[After] Cookie-Name 12: _shopify_tm
+[After] Cookie-Name 13: _goo_Fg3ld
+[After] Cookie-Name 14: _hjSession_2155926
+[After] Cookie-Name 15: shopify_pay_redirect
+[After] Cookie-Name 16: _gcl_au
+[After] Cookie-Name 17: _hjIncludedInPageviewSample
+[After] Cookie-Name 18: _shopify_sa_p
+[After] Cookie-Name 19: _shopify_d
+[After] Cookie-Name 20: _hjFirstSeen
+[After] Cookie-Name 21: popupNewsletter
+[After] Cookie-Name 22: _orig_referrer
+[After] Cookie-Name 23: _hjSessionUser_2155926
+[After] Cookie-Name 24: cart_ts
+[After] Cookie-Name 25: _shopify_m
+[After] Cookie-Name 26: _shopify_tw
+[After] Cookie-Name 27: _shopify_y
+[After] Cookie-Name 28: _gat_UA-132431582-1
+[After] Cookie-Name 29: _shopify_evids
+[After] Cookie-Name 30: localization
+[After] Cookie-Name 31: _landing_page
+[After] Cookie-Name 32: _shopify_evids
+[After] Cookie-Name 33: cart_currency
+[After] Cookie-Name 34: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _hjIncludedInPageviewSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 5
+[Difference] Cookie-Name: 1: cart_ts
+[Difference] Cookie-Name: 2: cart_ver
+[Difference] Cookie-Name: 3: cookieconsent_status
+[Difference] Cookie-Name: 4: cart
+[Difference] Cookie-Name: 5: cart_sig
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

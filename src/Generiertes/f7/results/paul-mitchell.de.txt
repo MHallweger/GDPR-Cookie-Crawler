@@ -1,0 +1,90 @@
+Website 300: http://www.paul-mitchell.de/ | Created: 10.02.2022 18:48:43 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 22
+[Before] Website-Cookies: [{'domain': 'paulmitchell.de', 'expiry': 1647107317, 'httpOnly': False, 'name': 'uslk_umm_103845_s', 'path': '/', 'secure': False, 'value': 'ewAiAHYAZQByAHMAaQBvAG4AIgA6ACIAMQAiACwAIgBkAGEAdABhACIAOgB7ACIAcgBlAGEAdQB0AGgAIgA6AGYAYQBsAHMAZQB9AH0A'}, {'domain': '.paulmitchell.de', 'expiry': 1644517113, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'paulmitchell.de', 'expiry': 1644515433, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.paulmitchell.de', 'expiry': 1644517113, 'httpOnly': False, 'name': '_hjSession_1902181', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjM1OTQ0OGZlLTIyYTMtNDU0MC1iODZhLTVmMzM3NWZmYmZiNyIsImNyZWF0ZWQiOjE2NDQ1MTUzMTM4NDcsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': '.paulmitchell.de', 'expiry': 1676051313, 'httpOnly': False, 'name': '_hjSessionUser_1902181', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjNmMzA5ZDZkLWI4M2UtNTQ4Mi1hMTMyLWZkNzZmNmI1NWY2MCIsImNyZWF0ZWQiOjE2NDQ1MTUzMTI3ODgsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': 'paulmitchell.de', 'expiry': 1645724913, 'httpOnly': False, 'name': 'popup', 'path': '/', 'secure': False, 'value': 'open'}, {'domain': '.paulmitchell.de', 'expiry': 1644517112, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'paulmitchell.de', 'expiry': 1644515433, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.paulmitchell.de', 'expiry': 1645724912, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.paulmitchell.de', 'expiry': 1644517115, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bfbefc99-41b9-4415-b7eb-f61aa141068e'}, {'domain': '.paulmitchell.de', 'expiry': 1676051315, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7e0e5f36-ce3d-4b69-8a09-b9ebbfc50817'}, {'domain': '.paulmitchell.de', 'expiry': 1644517112, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A48%3A32.696Z'}, {'domain': '.paulmitchell.de', 'expiry': 1676051312, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU56Vm1OR1JqWWprdE1ESTBPQzAwTkRVekxUbGlaVEF0TVdZellUWm1ZelV6TXpGbQ'}, {'domain': '.paulmitchell.de', 'expiry': 1676051315, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7e0e5f36-ce3d-4b69-8a09-b9ebbfc50817'}, {'domain': '.paulmitchell.de', 'expiry': 1644517113, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'paulmitchell.de', 'expiry': 1644518913, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'paulmitchell.de', 'expiry': 1676051315, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'paulmitchell.de', 'expiry': 1645724915, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'paulmitchell.de', 'expiry': 1645724915, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.paulmitchell.de', 'expiry': 1644517115, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bfbefc99-41b9-4415-b7eb-f61aa141068e'}, {'domain': '.paulmitchell.de', 'expiry': 1676051313, 'httpOnly': False, 'name': 'OptanonConsent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'isGpcEnabled=0&datestamp=Thu+Feb+10+2022+18%3A48%3A33+GMT%2B0100+(Mitteleurop%C3%A4ische+Normalzeit)&version=6.30.0&isIABGlobal=false&hosts=&consentId=cd3d4deb-f48c-4798-a8ec-75ea02437e22&interactionCount=0&landingPath=https%3A%2F%2Fpaulmitchell.de%2F&groups=C0003%3A1%2CC0005%3A0%2CC0002%3A0%2CC0004%3A0%2CC0001%3A1'}, {'domain': '.paulmitchell.de', 'expiry': 1645724912, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}]
+[Before] Cookie-Name 1: uslk_umm_103845_s
+[Before] Cookie-Name 2: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 3: _hjIncludedInSessionSample
+[Before] Cookie-Name 4: _hjSession_1902181
+[Before] Cookie-Name 5: _hjSessionUser_1902181
+[Before] Cookie-Name 6: popup
+[Before] Cookie-Name 7: _shopify_sa_p
+[Before] Cookie-Name 8: _hjIncludedInPageviewSample
+[Before] Cookie-Name 9: _orig_referrer
+[Before] Cookie-Name 10: _shopify_s
+[Before] Cookie-Name 11: _y
+[Before] Cookie-Name 12: _shopify_sa_t
+[Before] Cookie-Name 13: _pin_unauth
+[Before] Cookie-Name 14: _shopify_y
+[Before] Cookie-Name 15: _hjFirstSeen
+[Before] Cookie-Name 16: shopify_pay_redirect
+[Before] Cookie-Name 17: secure_customer_sig
+[Before] Cookie-Name 18: localization
+[Before] Cookie-Name 19: cart_currency
+[Before] Cookie-Name 20: _s
+[Before] Cookie-Name 21: OptanonConsent
+[Before] Cookie-Name 22: _landing_page
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 29
+[After] Website-Cookies: [{'domain': 'paulmitchell.de', 'expiry': 1802195329, 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'secure': True, 'value': '9470658f-eca5-4c79-ad50-b1dddb806e6a'}, {'domain': 'paulmitchell.de', 'expiry': 1644517129, 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'secure': True, 'value': 'ed07c614-5d0c-4a34-95b1-281ce85c963c'}, {'domain': '.paulmitchell.de', 'expiry': 1676051329, 'httpOnly': False, 'name': 'OptanonConsent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'isGpcEnabled=0&datestamp=Thu+Feb+10+2022+18%3A48%3A49+GMT%2B0100+(Mitteleurop%C3%A4ische+Normalzeit)&version=6.30.0&isIABGlobal=false&hosts=&consentId=cd3d4deb-f48c-4798-a8ec-75ea02437e22&interactionCount=2&landingPath=NotLandingPage&groups=C0003%3A1%2CC0005%3A1%2CC0002%3A1%2CC0004%3A1%2CC0001%3A1'}, {'domain': '.paulmitchell.de', 'expiry': 1676051329, 'httpOnly': False, 'name': 'OptanonAlertBoxClosed', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17:48:49.552Z'}, {'domain': '.paulmitchell.de', 'expiry': 1652291330, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644515329805.1129777715'}, {'domain': '.paulmitchell.de', 'expiry': 1644515389, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'paulmitchell.de', 'expiry': 1647107317, 'httpOnly': False, 'name': 'uslk_umm_103845_s', 'path': '/', 'secure': False, 'value': 'ewAiAHYAZQByAHMAaQBvAG4AIgA6ACIAMQAiACwAIgBkAGEAdABhACIAOgB7ACIAcgBlAGEAdQB0AGgAIgA6AGYAYQBsAHMAZQB9AH0A'}, {'domain': '.paulmitchell.de', 'expiry': 1644601729, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.632848279.1644515330'}, {'domain': '.paulmitchell.de', 'expiry': 1644517113, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.paulmitchell.de', 'expiry': 1676051329, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7e0e5f36-ce3d-4b69-8a09-b9ebbfc50817'}, {'domain': 'paulmitchell.de', 'expiry': 1644515433, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.paulmitchell.de', 'expiry': 1644517113, 'httpOnly': False, 'name': '_hjSession_1902181', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjM1OTQ0OGZlLTIyYTMtNDU0MC1iODZhLTVmMzM3NWZmYmZiNyIsImNyZWF0ZWQiOjE2NDQ1MTUzMTM4NDcsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': '.paulmitchell.de', 'expiry': 1644517113, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.paulmitchell.de', 'expiry': 1645724912, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.paulmitchell.de', 'expiry': 1676051313, 'httpOnly': False, 'name': '_hjSessionUser_1902181', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjNmMzA5ZDZkLWI4M2UtNTQ4Mi1hMTMyLWZkNzZmNmI1NWY2MCIsImNyZWF0ZWQiOjE2NDQ1MTUzMTI3ODgsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.paulmitchell.de', 'expiry': 1676051329, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7e0e5f36-ce3d-4b69-8a09-b9ebbfc50817'}, {'domain': 'paulmitchell.de', 'expiry': 1645724913, 'httpOnly': False, 'name': 'popup', 'path': '/', 'secure': False, 'value': 'open'}, {'domain': '.paulmitchell.de', 'expiry': 1644517112, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'paulmitchell.de', 'expiry': 1644515433, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.paulmitchell.de', 'expiry': 1644517129, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bfbefc99-41b9-4415-b7eb-f61aa141068e'}, {'domain': '.paulmitchell.de', 'expiry': 1644517112, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A48%3A32.696Z'}, {'domain': '.paulmitchell.de', 'expiry': 1676051312, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU56Vm1OR1JqWWprdE1ESTBPQzAwTkRVekxUbGlaVEF0TVdZellUWm1ZelV6TXpGbQ'}, {'domain': '.paulmitchell.de', 'expiry': 1707587329, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.220100635.1644515330'}, {'domain': 'paulmitchell.de', 'expiry': 1644518913, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'paulmitchell.de', 'expiry': 1676051329, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'paulmitchell.de', 'expiry': 1645724929, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'paulmitchell.de', 'expiry': 1645724929, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.paulmitchell.de', 'expiry': 1644517129, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bfbefc99-41b9-4415-b7eb-f61aa141068e'}, {'domain': '.paulmitchell.de', 'expiry': 1645724912, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}]
+[After] Cookie-Name 1: _shg_user_id
+[After] Cookie-Name 2: _shg_session_id
+[After] Cookie-Name 3: OptanonConsent
+[After] Cookie-Name 4: OptanonAlertBoxClosed
+[After] Cookie-Name 5: _fbp
+[After] Cookie-Name 6: _gat
+[After] Cookie-Name 7: uslk_umm_103845_s
+[After] Cookie-Name 8: _gid
+[After] Cookie-Name 9: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 10: _y
+[After] Cookie-Name 11: _hjIncludedInSessionSample
+[After] Cookie-Name 12: _hjSession_1902181
+[After] Cookie-Name 13: _hjFirstSeen
+[After] Cookie-Name 14: _orig_referrer
+[After] Cookie-Name 15: _hjSessionUser_1902181
+[After] Cookie-Name 16: _shopify_y
+[After] Cookie-Name 17: popup
+[After] Cookie-Name 18: _shopify_sa_p
+[After] Cookie-Name 19: _hjIncludedInPageviewSample
+[After] Cookie-Name 20: _shopify_s
+[After] Cookie-Name 21: _shopify_sa_t
+[After] Cookie-Name 22: _pin_unauth
+[After] Cookie-Name 23: _ga
+[After] Cookie-Name 24: shopify_pay_redirect
+[After] Cookie-Name 25: secure_customer_sig
+[After] Cookie-Name 26: localization
+[After] Cookie-Name 27: cart_currency
+[After] Cookie-Name 28: _s
+[After] Cookie-Name 29: _landing_page
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjIncludedInSessionSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjIncludedInPageviewSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 7
+[Difference] Cookie-Name: 1: _ga
+[Difference] Cookie-Name: 2: _shg_user_id
+[Difference] Cookie-Name: 3: OptanonAlertBoxClosed
+[Difference] Cookie-Name: 4: _gat
+[Difference] Cookie-Name: 5: _fbp
+[Difference] Cookie-Name: 6: _shg_session_id
+[Difference] Cookie-Name: 7: _gid
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

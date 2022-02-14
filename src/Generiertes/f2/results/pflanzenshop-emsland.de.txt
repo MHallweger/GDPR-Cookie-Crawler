@@ -1,0 +1,86 @@
+Website 278: http://www.pflanzenshop-emsland.de/ | Created: 09.02.2022 12:09:40 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 24
+[Before] Website-Cookies: [{'domain': 'pflanzenshop-emsland.de', 'expiry': 1644491371, 'httpOnly': False, 'name': 'updatechatycounter', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'yes'}, {'domain': 'pflanzenshop-emsland.de', 'expiry': 1645009771, 'httpOnly': False, 'name': 'chaty_settings', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '[{"k":"cs4235","v":"2022-02-09T11:09:31.418Z"}]'}, {'domain': '.pflanzenshop-emsland.de', 'expiry': 1644406771, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f5c5f270-778a-4f4e-9aff-4d9fe8992384'}, {'domain': 'pflanzenshop-emsland.de', 'expiry': 1644491371, 'httpOnly': False, 'name': 'updatechtwidgetvisitor_0', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'yes'}, {'domain': 'pflanzenshop-emsland.de', 'expiry': 1644491371, 'httpOnly': False, 'name': 'chaty_traffic_source', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'true'}, {'domain': '.pflanzenshop-emsland.de', 'expiry': 1645614568, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.pflanzenshop-emsland.de', 'expiry': 1675940969, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': '1jql8wv|1|eyu|0'}, {'domain': 'pflanzenshop-emsland.de', 'expiry': 1644408569, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.pflanzenshop-emsland.de', 'expiry': 1652180969, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644404969107.1131433987'}, {'domain': '.pflanzenshop-emsland.de', 'expiry': 1652180968, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1416280928.1644404969'}, {'domain': '.pflanzenshop-emsland.de', 'expiry': 1644405028, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.pflanzenshop-emsland.de', 'expiry': 1644491370, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': 'dy0r5t|1644404970283|1|1|h.clarity.ms/collect'}, {'domain': '.pflanzenshop-emsland.de', 'expiry': 1644491368, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1404216572.1644404969'}, {'domain': '.pflanzenshop-emsland.de', 'expiry': 1644406771, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f5c5f270-778a-4f4e-9aff-4d9fe8992384'}, {'domain': '.pflanzenshop-emsland.de', 'expiry': 1707476968, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1657034949.1644404969'}, {'domain': 'pflanzenshop-emsland.de', 'expiry': 1675940971, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.pflanzenshop-emsland.de', 'expiry': 1644406768, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T11%3A09%3A28.867Z'}, {'domain': '.pflanzenshop-emsland.de', 'expiry': 1675940971, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '699516e5-a79a-4793-969d-aec25cc14cbe'}, {'domain': '.pflanzenshop-emsland.de', 'expiry': 1644406768, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'pflanzenshop-emsland.de', 'expiry': 1645614569, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.pflanzenshop-emsland.de', 'expiry': 1645614568, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'pflanzenshop-emsland.de', 'expiry': 1645614571, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.pflanzenshop-emsland.de', 'expiry': 1675940971, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '699516e5-a79a-4793-969d-aec25cc14cbe'}, {'domain': 'pflanzenshop-emsland.de', 'expiry': 1645009771, 'httpOnly': False, 'name': 'chaty_status_string', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '[{"k":"cwds4235","v":"2022-02-09T11:09:31.419Z"},{"k":"cwds4235_whatsapp","v":"2022-02-09T11:09:31.419Z"},{"k":"cwds4235_phone","v":"2022-02-09T11:09:31.419Z"},{"k":"cwds4235_email","v":"2022-02-09T11:09:31.420Z"}]'}]
+[Before] Cookie-Name 1: updatechatycounter
+[Before] Cookie-Name 2: chaty_settings
+[Before] Cookie-Name 3: _s
+[Before] Cookie-Name 4: updatechtwidgetvisitor_0
+[Before] Cookie-Name 5: chaty_traffic_source
+[Before] Cookie-Name 6: _orig_referrer
+[Before] Cookie-Name 7: _clck
+[Before] Cookie-Name 8: shopify_pay_redirect
+[Before] Cookie-Name 9: _fbp
+[Before] Cookie-Name 10: _gcl_au
+[Before] Cookie-Name 11: _gat
+[Before] Cookie-Name 12: _clsk
+[Before] Cookie-Name 13: _gid
+[Before] Cookie-Name 14: _shopify_s
+[Before] Cookie-Name 15: _ga
+[Before] Cookie-Name 16: secure_customer_sig
+[Before] Cookie-Name 17: _shopify_sa_t
+[Before] Cookie-Name 18: _shopify_y
+[Before] Cookie-Name 19: _shopify_sa_p
+[Before] Cookie-Name 20: cart_currency
+[Before] Cookie-Name 21: _landing_page
+[Before] Cookie-Name 22: localization
+[Before] Cookie-Name 23: _y
+[Before] Cookie-Name 24: chaty_status_string
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 26
+[After] Website-Cookies: [{'domain': 'pflanzenshop-emsland.de', 'expiry': 1675940986, 'httpOnly': False, 'name': 'cookieconsent_status', 'path': '/', 'secure': False, 'value': 'dismiss'}, {'domain': 'pflanzenshop-emsland.de', 'expiry': 1675940986, 'httpOnly': False, 'name': 'mvv_cookie_consent', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': 'pflanzenshop-emsland.de', 'expiry': 1644491371, 'httpOnly': False, 'name': 'updatechatycounter', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'yes'}, {'domain': 'pflanzenshop-emsland.de', 'expiry': 1645009771, 'httpOnly': False, 'name': 'chaty_settings', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '[{"k":"cs4235","v":"2022-02-09T11:09:31.418Z"}]'}, {'domain': '.pflanzenshop-emsland.de', 'expiry': 1644406771, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f5c5f270-778a-4f4e-9aff-4d9fe8992384'}, {'domain': 'pflanzenshop-emsland.de', 'expiry': 1644491371, 'httpOnly': False, 'name': 'updatechtwidgetvisitor_0', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'yes'}, {'domain': 'pflanzenshop-emsland.de', 'expiry': 1644491371, 'httpOnly': False, 'name': 'chaty_traffic_source', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'true'}, {'domain': '.pflanzenshop-emsland.de', 'expiry': 1645614568, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.pflanzenshop-emsland.de', 'expiry': 1675940969, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': '1jql8wv|1|eyu|0'}, {'domain': 'pflanzenshop-emsland.de', 'expiry': 1644408569, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.pflanzenshop-emsland.de', 'expiry': 1652180986, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644404969107.1131433987'}, {'domain': '.pflanzenshop-emsland.de', 'expiry': 1652180968, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1416280928.1644404969'}, {'domain': '.pflanzenshop-emsland.de', 'expiry': 1644405028, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.pflanzenshop-emsland.de', 'expiry': 1644491370, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': 'dy0r5t|1644404970283|1|1|h.clarity.ms/collect'}, {'domain': '.pflanzenshop-emsland.de', 'expiry': 1644491368, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1404216572.1644404969'}, {'domain': '.pflanzenshop-emsland.de', 'expiry': 1644406771, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f5c5f270-778a-4f4e-9aff-4d9fe8992384'}, {'domain': '.pflanzenshop-emsland.de', 'expiry': 1707476968, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1657034949.1644404969'}, {'domain': 'pflanzenshop-emsland.de', 'expiry': 1675940971, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.pflanzenshop-emsland.de', 'expiry': 1644406768, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T11%3A09%3A28.867Z'}, {'domain': '.pflanzenshop-emsland.de', 'expiry': 1675940971, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '699516e5-a79a-4793-969d-aec25cc14cbe'}, {'domain': '.pflanzenshop-emsland.de', 'expiry': 1644406768, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'pflanzenshop-emsland.de', 'expiry': 1645614569, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.pflanzenshop-emsland.de', 'expiry': 1645614568, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'pflanzenshop-emsland.de', 'expiry': 1645614571, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.pflanzenshop-emsland.de', 'expiry': 1675940971, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '699516e5-a79a-4793-969d-aec25cc14cbe'}, {'domain': 'pflanzenshop-emsland.de', 'expiry': 1645009771, 'httpOnly': False, 'name': 'chaty_status_string', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '[{"k":"cwds4235","v":"2022-02-09T11:09:31.419Z"},{"k":"cwds4235_whatsapp","v":"2022-02-09T11:09:31.419Z"},{"k":"cwds4235_phone","v":"2022-02-09T11:09:31.419Z"},{"k":"cwds4235_email","v":"2022-02-09T11:09:31.420Z"}]'}]
+[After] Cookie-Name 1: cookieconsent_status
+[After] Cookie-Name 2: mvv_cookie_consent
+[After] Cookie-Name 3: updatechatycounter
+[After] Cookie-Name 4: chaty_settings
+[After] Cookie-Name 5: _s
+[After] Cookie-Name 6: updatechtwidgetvisitor_0
+[After] Cookie-Name 7: chaty_traffic_source
+[After] Cookie-Name 8: _orig_referrer
+[After] Cookie-Name 9: _clck
+[After] Cookie-Name 10: shopify_pay_redirect
+[After] Cookie-Name 11: _fbp
+[After] Cookie-Name 12: _gcl_au
+[After] Cookie-Name 13: _gat
+[After] Cookie-Name 14: _clsk
+[After] Cookie-Name 15: _gid
+[After] Cookie-Name 16: _shopify_s
+[After] Cookie-Name 17: _ga
+[After] Cookie-Name 18: secure_customer_sig
+[After] Cookie-Name 19: _shopify_sa_t
+[After] Cookie-Name 20: _shopify_y
+[After] Cookie-Name 21: _shopify_sa_p
+[After] Cookie-Name 22: cart_currency
+[After] Cookie-Name 23: _landing_page
+[After] Cookie-Name 24: localization
+[After] Cookie-Name 25: _y
+[After] Cookie-Name 26: chaty_status_string
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _clck (Microsoft Clarity (User experience tool))
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _clsk (Microsoft Clarity (User experience tool))
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 2
+[Difference] Cookie-Name: 1: mvv_cookie_consent
+[Difference] Cookie-Name: 2: cookieconsent_status
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

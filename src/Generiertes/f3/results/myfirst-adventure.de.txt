@@ -1,0 +1,32 @@
+Website 100: http://www.myfirst-adventure.de/ | Created: 09.02.2022 14:12:32 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: False
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: False
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 3
+[Before] Website-Cookies: [{'domain': '.sedo.com', 'expiry': 1644414141, 'httpOnly': True, 'name': '__cf_bm', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'JJ52AU0JUFiJzUMuWdp55o1v9NQYB6.DPFrzgPwojFg-1644412341-0-AY9Cuj2cFUNknv4efziFlGIsVwJleyO1cNrQFYnUX7/6rby4jiRuVp4E5ybN3lXlar9lYdfEKrF9/n/QabcMyXKgSTy2+LJQ1YiPRMcPwhx1+mCJ7H2fLvy4nYjJxAHRQiuAixm1yytSSE08II/SFwl7lKXg9KABZAo+q6ARX3RM'}, {'domain': 'sedo.com', 'expiry': 1644671540, 'httpOnly': True, 'name': 'session', 'path': '/', 'secure': True, 'value': 'f462c826e96072b6ccaf163ad352f875'}, {'domain': 'sedo.com', 'expiry': 1644498740, 'httpOnly': True, 'name': 'campaignId', 'path': '/', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: __cf_bm
+[Before] Cookie-Name 2: session
+[Before] Cookie-Name 3: campaignId
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 3
+[After] Website-Cookies: [{'domain': '.sedo.com', 'expiry': 1644414141, 'httpOnly': True, 'name': '__cf_bm', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'JJ52AU0JUFiJzUMuWdp55o1v9NQYB6.DPFrzgPwojFg-1644412341-0-AY9Cuj2cFUNknv4efziFlGIsVwJleyO1cNrQFYnUX7/6rby4jiRuVp4E5ybN3lXlar9lYdfEKrF9/n/QabcMyXKgSTy2+LJQ1YiPRMcPwhx1+mCJ7H2fLvy4nYjJxAHRQiuAixm1yytSSE08II/SFwl7lKXg9KABZAo+q6ARX3RM'}, {'domain': 'sedo.com', 'expiry': 1644671540, 'httpOnly': True, 'name': 'session', 'path': '/', 'secure': True, 'value': 'f462c826e96072b6ccaf163ad352f875'}, {'domain': 'sedo.com', 'expiry': 1644498740, 'httpOnly': True, 'name': 'campaignId', 'path': '/', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: __cf_bm
+[After] Cookie-Name 2: session
+[After] Cookie-Name 3: campaignId
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is NOT GDPR compliant!

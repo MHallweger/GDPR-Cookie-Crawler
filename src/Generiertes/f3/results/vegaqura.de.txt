@@ -1,0 +1,78 @@
+Website 367: http://www.vegaqura.de/ | Created: 09.02.2022 15:32:28 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 23
+[Before] Website-Cookies: [{'domain': '.vegaqura.de', 'expiry': 1644418938, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.vegaqura.de', 'expiry': 1644417258, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.vegaqura.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T14%3A32%3A17.787Z'}, {'domain': '.vegaqura.de', 'expiry': 1644418938, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.vegaqura.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.vegaqura.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T14%3A32%3A17.770Z'}, {'domain': '.vegaqura.de', 'expiry': 1675953136, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.vegaqura.de', 'expiry': 1644418938, 'httpOnly': False, 'name': '_hjSession_2196939', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImQ5MmUzYzgzLTkyOTYtNDg3My05MTMzLTYzZWZjMmIzNTU2MyIsImNyZWF0ZWQiOjE2NDQ0MTcxMzgxMDQsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': '.vegaqura.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '40922c4f-a486-436c-8583-3e9a46ff5a9c'}, {'domain': 'www.vegaqura.de', 'expiry': 1675953136, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.vegaqura.de', 'expiry': 1644418938, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.vegaqura.de', 'expiry': 1675953138, 'httpOnly': False, 'name': '_hjSessionUser_2196939', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjczMmRiOTRkLTI5NDItNWQ5YS05MWI1LThkZjdhYWJkMDA4ZCIsImNyZWF0ZWQiOjE2NDQ0MTcxMzgwOTYsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.vegaqura.de', 'expiry': 1645626736, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.vegaqura.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7ed38d78-2565-4e95-b440-763672766448'}, {'domain': '.vegaqura.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.vegaqura.de', 'expiry': 1675953136, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%7D'}, {'domain': 'www.vegaqura.de', 'expiry': 1645626736, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.vegaqura.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.vegaqura.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '40922c4f-a486-436c-8583-3e9a46ff5a9c'}, {'domain': '.vegaqura.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.vegaqura.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7ed38d78-2565-4e95-b440-763672766448'}, {'domain': '.vegaqura.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.vegaqura.de', 'expiry': 1645626736, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'NL'}]
+[Before] Cookie-Name 1: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 2: _hjIncludedInPageviewSample
+[Before] Cookie-Name 3: _shopify_sa_t
+[Before] Cookie-Name 4: _hjFirstSeen
+[Before] Cookie-Name 5: _shopify_evids
+[Before] Cookie-Name 6: _shopify_d
+[Before] Cookie-Name 7: _shopify_m
+[Before] Cookie-Name 8: _hjSession_2196939
+[Before] Cookie-Name 9: _shopify_y
+[Before] Cookie-Name 10: secure_customer_sig
+[Before] Cookie-Name 11: _shopify_tm
+[Before] Cookie-Name 12: _hjSessionUser_2196939
+[Before] Cookie-Name 13: _shopify_tw
+[Before] Cookie-Name 14: _s
+[Before] Cookie-Name 15: _shopify_evids
+[Before] Cookie-Name 16: _tracking_consent
+[Before] Cookie-Name 17: cart_currency
+[Before] Cookie-Name 18: _landing_page
+[Before] Cookie-Name 19: _y
+[Before] Cookie-Name 20: _shopify_sa_p
+[Before] Cookie-Name 21: _shopify_s
+[Before] Cookie-Name 22: _orig_referrer
+[Before] Cookie-Name 23: localization
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 23
+[After] Website-Cookies: [{'domain': '.vegaqura.de', 'expiry': 1644418938, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.vegaqura.de', 'expiry': 1644417258, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.vegaqura.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T14%3A32%3A17.787Z'}, {'domain': '.vegaqura.de', 'expiry': 1644418938, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.vegaqura.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.vegaqura.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T14%3A32%3A17.770Z'}, {'domain': '.vegaqura.de', 'expiry': 1675953136, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.vegaqura.de', 'expiry': 1644418938, 'httpOnly': False, 'name': '_hjSession_2196939', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImQ5MmUzYzgzLTkyOTYtNDg3My05MTMzLTYzZWZjMmIzNTU2MyIsImNyZWF0ZWQiOjE2NDQ0MTcxMzgxMDQsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': '.vegaqura.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '40922c4f-a486-436c-8583-3e9a46ff5a9c'}, {'domain': 'www.vegaqura.de', 'expiry': 1675953136, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.vegaqura.de', 'expiry': 1644418938, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.vegaqura.de', 'expiry': 1675953138, 'httpOnly': False, 'name': '_hjSessionUser_2196939', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjczMmRiOTRkLTI5NDItNWQ5YS05MWI1LThkZjdhYWJkMDA4ZCIsImNyZWF0ZWQiOjE2NDQ0MTcxMzgwOTYsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.vegaqura.de', 'expiry': 1645626736, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.vegaqura.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7ed38d78-2565-4e95-b440-763672766448'}, {'domain': '.vegaqura.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.vegaqura.de', 'expiry': 1675953136, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%7D'}, {'domain': 'www.vegaqura.de', 'expiry': 1645626736, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.vegaqura.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.vegaqura.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '40922c4f-a486-436c-8583-3e9a46ff5a9c'}, {'domain': '.vegaqura.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.vegaqura.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7ed38d78-2565-4e95-b440-763672766448'}, {'domain': '.vegaqura.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.vegaqura.de', 'expiry': 1645626736, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'NL'}]
+[After] Cookie-Name 1: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 2: _hjIncludedInPageviewSample
+[After] Cookie-Name 3: _shopify_sa_t
+[After] Cookie-Name 4: _hjFirstSeen
+[After] Cookie-Name 5: _shopify_evids
+[After] Cookie-Name 6: _shopify_d
+[After] Cookie-Name 7: _shopify_m
+[After] Cookie-Name 8: _hjSession_2196939
+[After] Cookie-Name 9: _shopify_y
+[After] Cookie-Name 10: secure_customer_sig
+[After] Cookie-Name 11: _shopify_tm
+[After] Cookie-Name 12: _hjSessionUser_2196939
+[After] Cookie-Name 13: _shopify_tw
+[After] Cookie-Name 14: _s
+[After] Cookie-Name 15: _shopify_evids
+[After] Cookie-Name 16: _tracking_consent
+[After] Cookie-Name 17: cart_currency
+[After] Cookie-Name 18: _landing_page
+[After] Cookie-Name 19: _y
+[After] Cookie-Name 20: _shopify_sa_p
+[After] Cookie-Name 21: _shopify_s
+[After] Cookie-Name 22: _orig_referrer
+[After] Cookie-Name 23: localization
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjIncludedInPageviewSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

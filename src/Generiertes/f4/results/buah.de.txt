@@ -1,0 +1,75 @@
+Website 183: http://www.buah.de/ | Created: 09.02.2022 18:02:05 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 8
+[Before] Website-Cookies: [{'domain': 'buah.de', 'expiry': 1645635715, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A2'}, {'domain': 'buah.de', 'expiry': 1645635715, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bad469bb15c97a193a640b5d1b306787'}, {'domain': 'buah.de', 'expiry': 1645635715, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9267405b7640a0a724e3ee085ef1dec8'}, {'domain': '.buah.de', 'expiry': 1645635714, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.buah.de', 'expiry': 1645635714, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'buah.de', 'expiry': 1645635715, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644426115'}, {'domain': 'buah.de', 'expiry': 1645635715, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'buah.de', 'expiry': 1675962115, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: cart_ver
+[Before] Cookie-Name 2: cart
+[Before] Cookie-Name 3: cart_sig
+[Before] Cookie-Name 4: _landing_page
+[Before] Cookie-Name 5: _orig_referrer
+[Before] Cookie-Name 6: cart_ts
+[Before] Cookie-Name 7: cart_currency
+[Before] Cookie-Name 8: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 24
+[After] Website-Cookies: [{'domain': 'buah.de', 'expiry': 1675962115, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'buah.de', 'expiry': 1645635715, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'buah.de', 'expiry': 1644427931, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5b1accd3-f004-4dc8-a2bb-5eeca1038dd5'}, {'domain': 'buah.de', 'httpOnly': False, 'name': 'cto_bundle', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3caGrV8xRFlTc0hKU25vWGJvQTNkaTMwQkZ4eEp1Y21yMk5WbnJpTzBKT2VzQnUxV3RmRVp4N1o4dkcxZUNTZzhBUnVZSW55aHNnOXFPRkhkT0oxazBiV0tacUNlTmtRN0UlMkZrMjF0NUwwUWZZJTJGQlpFVDVCb1FzQzd2YlklMkJSdWphSDQlMkZ5eUpKR05mTG5KS1pLNkhiMzgyNUdXQSUzRCUzRA'}, {'domain': '.buah.de', 'expiry': 1707498131, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.360806029.1644426131'}, {'domain': 'buah.de', 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'buah.de', 'expiry': 1675962131, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f0256e13-30ec-4107-b754-4d778b0b4856'}, {'domain': 'buah.de', 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'dWlkPU1EVXlOalExWmpndE9EWXhZeTAwTTJNM0xXSXpPR010WkdGbE1URTVNelF3WXpBdw'}, {'domain': '.buah.de', 'expiry': 1644512531, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.894563688.1644426131'}, {'domain': 'buah.de', 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'dbb2ac8a-8c71-4a56-a07f-4aaa62514d94'}, {'domain': 'buah.de', 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0b8e77ca-63d4-41be-9fad-7d5fc31fd801'}, {'domain': '.buah.de', 'expiry': 1644426191, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'buah.de', 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MjYxMTYsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vYnVhaC5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQ0MjYxMTYsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vYnVhaC5kZS8ifX0='}, {'domain': 'buah.de', 'expiry': 1644427931, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A01%3A54.831Z'}, {'domain': 'buah.de', 'expiry': 1645635715, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644426115'}, {'domain': 'buah.de', 'expiry': 1644427931, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5b1accd3-f004-4dc8-a2bb-5eeca1038dd5'}, {'domain': 'buah.de', 'expiry': 1675962131, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f0256e13-30ec-4107-b754-4d778b0b4856'}, {'domain': 'buah.de', 'expiry': 1645635715, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A2'}, {'domain': 'buah.de', 'expiry': 1645635715, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bad469bb15c97a193a640b5d1b306787'}, {'domain': 'buah.de', 'expiry': 1645635715, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9267405b7640a0a724e3ee085ef1dec8'}, {'domain': '.buah.de', 'expiry': 1645635714, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.buah.de', 'expiry': 1652202132, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644426131656.2136894918'}, {'domain': '.buah.de', 'expiry': 1645635714, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'buah.de', 'expiry': 1647018131, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0NDI2MTMxMjUyLCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjowfX0='}]
+[After] Cookie-Name 1: secure_customer_sig
+[After] Cookie-Name 2: cart_currency
+[After] Cookie-Name 3: _s
+[After] Cookie-Name 4: cto_bundle
+[After] Cookie-Name 5: _ga
+[After] Cookie-Name 6: localization
+[After] Cookie-Name 7: _shopify_y
+[After] Cookie-Name 8: _pin_unauth
+[After] Cookie-Name 9: _gid
+[After] Cookie-Name 10: _shg_session_id
+[After] Cookie-Name 11: _shg_user_id
+[After] Cookie-Name 12: _gat
+[After] Cookie-Name 13: __kla_id
+[After] Cookie-Name 14: _shopify_sa_t
+[After] Cookie-Name 15: cart_ts
+[After] Cookie-Name 16: _shopify_s
+[After] Cookie-Name 17: _y
+[After] Cookie-Name 18: cart_ver
+[After] Cookie-Name 19: cart
+[After] Cookie-Name 20: cart_sig
+[After] Cookie-Name 21: _landing_page
+[After] Cookie-Name 22: _fbp
+[After] Cookie-Name 23: _orig_referrer
+[After] Cookie-Name 24: _bc_c_set
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 16
+[Difference] Cookie-Name: 1: __kla_id
+[Difference] Cookie-Name: 2: localization
+[Difference] Cookie-Name: 3: _gid
+[Difference] Cookie-Name: 4: _gat
+[Difference] Cookie-Name: 5: _shg_session_id
+[Difference] Cookie-Name: 6: _shopify_y
+[Difference] Cookie-Name: 7: _fbp
+[Difference] Cookie-Name: 8: _s
+[Difference] Cookie-Name: 9: _shopify_s
+[Difference] Cookie-Name: 10: _ga
+[Difference] Cookie-Name: 11: _y
+[Difference] Cookie-Name: 12: cto_bundle
+[Difference] Cookie-Name: 13: _shopify_sa_t
+[Difference] Cookie-Name: 14: _shg_user_id
+[Difference] Cookie-Name: 15: _pin_unauth
+[Difference] Cookie-Name: 16: _bc_c_set
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

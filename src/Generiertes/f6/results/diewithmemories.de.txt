@@ -1,0 +1,80 @@
+Website 131: http://www.diewithmemories.de/ | Created: 10.02.2022 12:50:51 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 23
+[Before] Website-Cookies: [{'domain': '.diewithmemories.de', 'expiry': 1676029839, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22con%22%3A%7B%22GDPR%22%3A%220%22%7D%7D'}, {'domain': 'diewithmemories.de', 'expiry': 1645703441, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '693d26e132188a914186e192d9f8bbc6'}, {'domain': '.diewithmemories.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'diewithmemories.de', 'expiry': 1647085840, 'httpOnly': False, 'name': '_pandectes_gdpr', 'path': '/', 'secure': True, 'value': 'eyJjb3VudHJ5Ijp7ImNvZGUiOiJERSIsInN0YXRlIjoiTlciLCJkZXRlY3RlZCI6MTY0NDQ5Mzg0MH0sInN0YXR1cyI6IiIsInRpbWVzdGFtcCI6bnVsbCwicHJlZmVyZW5jZXMiOjd9'}, {'domain': '.diewithmemories.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T11%3A50%3A38.433Z'}, {'domain': '.diewithmemories.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.diewithmemories.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T11%3A50%3A38.327Z'}, {'domain': '.diewithmemories.de', 'expiry': 1676029839, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': 'diewithmemories.de', 'expiry': 1645703439, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644493839'}, {'domain': 'diewithmemories.de', 'expiry': 1645703439, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '72679e56c764c3855cb694ede8c52e79'}, {'domain': 'diewithmemories.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.diewithmemories.de', 'expiry': 1645703437, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.diewithmemories.de', 'expiry': 1644495641, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.diewithmemories.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ba9016a4-e5a4-4780-872e-24fc07e3b52f'}, {'domain': '.diewithmemories.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.diewithmemories.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ba9016a4-e5a4-4780-872e-24fc07e3b52f'}, {'domain': '.diewithmemories.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a9bab300-bca8-47da-82c3-256159cd8270'}, {'domain': 'diewithmemories.de', 'expiry': 1645703439, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': 'diewithmemories.de', 'expiry': 1645703441, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'diewithmemories.de', 'expiry': 1676029841, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.diewithmemories.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'diewithmemories.de', 'expiry': 1645703441, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.diewithmemories.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a9bab300-bca8-47da-82c3-256159cd8270'}]
+[Before] Cookie-Name 1: _tracking_consent
+[Before] Cookie-Name 2: cart_sig
+[Before] Cookie-Name 3: _shopify_sa_p
+[Before] Cookie-Name 4: _pandectes_gdpr
+[Before] Cookie-Name 5: _shopify_sa_t
+[Before] Cookie-Name 6: _shopify_evids
+[Before] Cookie-Name 7: _shopify_d
+[Before] Cookie-Name 8: _shopify_m
+[Before] Cookie-Name 9: cart_ts
+[Before] Cookie-Name 10: cart
+[Before] Cookie-Name 11: _shopify_evids
+[Before] Cookie-Name 12: _shopify_tw
+[Before] Cookie-Name 13: _shopify_tm
+[Before] Cookie-Name 14: _shopify_s
+[Before] Cookie-Name 15: _orig_referrer
+[Before] Cookie-Name 16: _s
+[Before] Cookie-Name 17: _y
+[Before] Cookie-Name 18: cart_ver
+[Before] Cookie-Name 19: localization
+[Before] Cookie-Name 20: secure_customer_sig
+[Before] Cookie-Name 21: _landing_page
+[Before] Cookie-Name 22: cart_currency
+[Before] Cookie-Name 23: _shopify_y
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 27
+[After] Website-Cookies: [{'domain': 'diewithmemories.de', 'expiry': 1647085857, 'httpOnly': False, 'name': '_pandectes_gdpr', 'path': '/', 'secure': True, 'value': 'eyJjb3VudHJ5Ijp7ImNvZGUiOiJERSIsInN0YXRlIjoiTlciLCJkZXRlY3RlZCI6MTY0NDQ5Mzg0MH0sInN0YXR1cyI6ImFsbG93IiwidGltZXN0YW1wIjoxNjQ0NDkzODU3LCJwcmVmZXJlbmNlcyI6MCwiaWQiOiI2MjA0ZmMyMTI1MGJlNTgyZDE5NTJiYTcifQ=='}, {'domain': '.diewithmemories.de', 'expiry': 1644580257, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.932654480.1644493858'}, {'domain': '.diewithmemories.de', 'expiry': 1676029857, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%221%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': '.diewithmemories.de', 'expiry': 1707565857, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1011680711.1644493858'}, {'domain': '.diewithmemories.de', 'expiry': 1652269858, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644493857997.1009609675'}, {'domain': '.diewithmemories.de', 'expiry': 1676029857, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': 'diewithmemories.de', 'expiry': 1645703457, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '693d26e132188a914186e192d9f8bbc6'}, {'domain': '.diewithmemories.de', 'expiry': 1644495657, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ba9016a4-e5a4-4780-872e-24fc07e3b52f'}, {'domain': '.diewithmemories.de', 'expiry': 1644495657, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'diewithmemories.de', 'expiry': 1645703439, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644493839'}, {'domain': '.diewithmemories.de', 'expiry': 1644495657, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T11%3A50%3A38.433Z'}, {'domain': '.diewithmemories.de', 'expiry': 1645703457, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.diewithmemories.de', 'expiry': 1645703437, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.diewithmemories.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.diewithmemories.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T11%3A50%3A38.327Z'}, {'domain': 'diewithmemories.de', 'expiry': 1645703439, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '72679e56c764c3855cb694ede8c52e79'}, {'domain': 'diewithmemories.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.diewithmemories.de', 'expiry': 1676029857, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a9bab300-bca8-47da-82c3-256159cd8270'}, {'domain': '.diewithmemories.de', 'expiry': 1644495657, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.diewithmemories.de', 'expiry': 1645703457, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.diewithmemories.de', 'expiry': 1644495657, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ba9016a4-e5a4-4780-872e-24fc07e3b52f'}, {'domain': '.diewithmemories.de', 'expiry': 1676029857, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a9bab300-bca8-47da-82c3-256159cd8270'}, {'domain': 'diewithmemories.de', 'expiry': 1645703439, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': 'diewithmemories.de', 'expiry': 1645703457, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'diewithmemories.de', 'expiry': 1676029857, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.diewithmemories.de', 'expiry': 1644493917, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'diewithmemories.de', 'expiry': 1645703457, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}]
+[After] Cookie-Name 1: _pandectes_gdpr
+[After] Cookie-Name 2: _gid
+[After] Cookie-Name 3: _tracking_consent
+[After] Cookie-Name 4: _ga
+[After] Cookie-Name 5: _fbp
+[After] Cookie-Name 6: _shopify_m
+[After] Cookie-Name 7: cart_sig
+[After] Cookie-Name 8: _shopify_s
+[After] Cookie-Name 9: _shopify_sa_p
+[After] Cookie-Name 10: cart_ts
+[After] Cookie-Name 11: _shopify_sa_t
+[After] Cookie-Name 12: _landing_page
+[After] Cookie-Name 13: _shopify_tw
+[After] Cookie-Name 14: _shopify_evids
+[After] Cookie-Name 15: _shopify_d
+[After] Cookie-Name 16: cart
+[After] Cookie-Name 17: _shopify_evids
+[After] Cookie-Name 18: _shopify_y
+[After] Cookie-Name 19: _shopify_tm
+[After] Cookie-Name 20: _orig_referrer
+[After] Cookie-Name 21: _s
+[After] Cookie-Name 22: _y
+[After] Cookie-Name 23: cart_ver
+[After] Cookie-Name 24: localization
+[After] Cookie-Name 25: secure_customer_sig
+[After] Cookie-Name 26: _gat
+[After] Cookie-Name 27: cart_currency
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 4
+[Difference] Cookie-Name: 1: _gid
+[Difference] Cookie-Name: 2: _fbp
+[Difference] Cookie-Name: 3: _gat
+[Difference] Cookie-Name: 4: _ga
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is NOT GDPR compliant!

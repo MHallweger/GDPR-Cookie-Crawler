@@ -1,0 +1,50 @@
+Website 149: http://www.hypure.de/ | Created: 10.02.2022 20:42:35 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 10
+[Before] Website-Cookies: [{'domain': 'hypure.de', 'expiry': 1707594147, 'httpOnly': False, 'name': '_ama', 'path': '/', 'secure': False, 'value': '1df360b0-cbb8-484f-a3ce-0b9f08b7e942'}, {'domain': '.hypure.de', 'expiry': 1644523947, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.hypure.de', 'expiry': 1644523947, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T19%3A42%3A27.247Z'}, {'domain': '.hypure.de', 'expiry': 1676058147, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3adb4429-5c59-4867-b0c2-645ecade747e'}, {'domain': '.hypure.de', 'expiry': 1644523947, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2ac382bf-ce15-49f6-924e-4ad896ed420e'}, {'domain': 'hypure.de', 'expiry': 1676058147, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.hypure.de', 'expiry': 1644523947, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2ac382bf-ce15-49f6-924e-4ad896ed420e'}, {'domain': '.hypure.de', 'expiry': 1645731746, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2Fpassword'}, {'domain': '.hypure.de', 'expiry': 1676058147, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3adb4429-5c59-4867-b0c2-645ecade747e'}, {'domain': '.hypure.de', 'expiry': 1645731746, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[Before] Cookie-Name 1: _ama
+[Before] Cookie-Name 2: _shopify_sa_p
+[Before] Cookie-Name 3: _shopify_sa_t
+[Before] Cookie-Name 4: _shopify_y
+[Before] Cookie-Name 5: _shopify_s
+[Before] Cookie-Name 6: secure_customer_sig
+[Before] Cookie-Name 7: _s
+[Before] Cookie-Name 8: _landing_page
+[Before] Cookie-Name 9: _y
+[Before] Cookie-Name 10: _orig_referrer
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 10
+[After] Website-Cookies: [{'domain': 'hypure.de', 'expiry': 1707594147, 'httpOnly': False, 'name': '_ama', 'path': '/', 'secure': False, 'value': '1df360b0-cbb8-484f-a3ce-0b9f08b7e942'}, {'domain': '.hypure.de', 'expiry': 1644523947, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.hypure.de', 'expiry': 1644523947, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T19%3A42%3A27.247Z'}, {'domain': '.hypure.de', 'expiry': 1676058147, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3adb4429-5c59-4867-b0c2-645ecade747e'}, {'domain': '.hypure.de', 'expiry': 1644523947, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2ac382bf-ce15-49f6-924e-4ad896ed420e'}, {'domain': 'hypure.de', 'expiry': 1676058147, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.hypure.de', 'expiry': 1644523947, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2ac382bf-ce15-49f6-924e-4ad896ed420e'}, {'domain': '.hypure.de', 'expiry': 1645731746, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2Fpassword'}, {'domain': '.hypure.de', 'expiry': 1676058147, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3adb4429-5c59-4867-b0c2-645ecade747e'}, {'domain': '.hypure.de', 'expiry': 1645731746, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: _ama
+[After] Cookie-Name 2: _shopify_sa_p
+[After] Cookie-Name 3: _shopify_sa_t
+[After] Cookie-Name 4: _shopify_y
+[After] Cookie-Name 5: _shopify_s
+[After] Cookie-Name 6: secure_customer_sig
+[After] Cookie-Name 7: _s
+[After] Cookie-Name 8: _landing_page
+[After] Cookie-Name 9: _y
+[After] Cookie-Name 10: _orig_referrer
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

@@ -1,0 +1,85 @@
+Website 291: http://www.fontis-shop.de/ | Created: 09.02.2022 12:13:40 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 8
+[Before] Website-Cookies: [{'domain': '.fontis-shop.de', 'expiry': 1644407010, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.fontis-shop.de', 'expiry': 1675941209, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22lim%22%3A%5B%22GDPR%22%5D%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%7D'}, {'domain': '.fontis-shop.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.fontis-shop.de', 'expiry': 1645614809, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.fontis-shop.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.fontis-shop.de', 'expiry': 1675941209, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': 'www.fontis-shop.de', 'expiry': 1645614810, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.fontis-shop.de', 'expiry': 1675941210, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _shopify_tm
+[Before] Cookie-Name 2: _tracking_consent
+[Before] Cookie-Name 3: _landing_page
+[Before] Cookie-Name 4: _shopify_tw
+[Before] Cookie-Name 5: _orig_referrer
+[Before] Cookie-Name 6: _shopify_m
+[Before] Cookie-Name 7: cart_currency
+[Before] Cookie-Name 8: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 32
+[After] Website-Cookies: [{'domain': '.fontis-shop.de', 'expiry': 1644405286, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.fontis-shop.de', 'expiry': 1644491626, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.2093451728.1644405226'}, {'domain': '.fontis-shop.de', 'expiry': 1707477226, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1480314204.1644405226'}, {'domain': '.fontis-shop.de', 'expiry': 1675941226, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': 'www.fontis-shop.de', 'expiry': 1645614826, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '62dfbdcbe9b3c8b636c6be65c9fc1a74'}, {'domain': '.fontis-shop.de', 'expiry': 1644407026, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '591d1f87-065f-441b-9b3a-86bd208c1e58'}, {'domain': '.fontis-shop.de', 'expiry': 1675941226, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b39cb2c9-dca0-4bca-acd9-415510297ebb'}, {'domain': '.fontis-shop.de', 'expiry': 1644407026, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '591d1f87-065f-441b-9b3a-86bd208c1e58'}, {'domain': '.fontis-shop.de', 'expiry': 1645614826, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.fontis-shop.de', 'expiry': 1644407026, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.fontis-shop.de', 'expiry': 1644407026, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T11%3A13%3A30.231Z'}, {'domain': 'www.fontis-shop.de', 'expiry': 1644407025, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '591d1f87-065f-441b-9b3a-86bd208c1e58'}, {'domain': 'www.fontis-shop.de', 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'pending'}, {'domain': '.fontis-shop.de', 'expiry': 1675941226, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b39cb2c9-dca0-4bca-acd9-415510297ebb'}, {'domain': '.fontis-shop.de', 'expiry': 1675941226, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22lim%22%3A%5B%22GDPR%22%5D%2C%22con%22%3A%7B%22GDPR%22%3A%221%22%7D%2C%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%7D'}, {'domain': 'www.fontis-shop.de', 'expiry': 1645614826, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': 'www.fontis-shop.de', 'expiry': 1645614825, 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T11%3A13%3A29.975Z'}, {'domain': 'www.fontis-shop.de', 'expiry': 1645614826, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644405225'}, {'domain': 'www.fontis-shop.de', 'expiry': 1646997225, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0NDA1MjI1NTExLCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjoxfX0='}, {'domain': 'www.fontis-shop.de', 'expiry': 1675941225, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b39cb2c9-dca0-4bca-acd9-415510297ebb'}, {'domain': 'www.fontis-shop.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.fontis-shop.de', 'expiry': 1645614826, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'www.fontis-shop.de', 'expiry': 1645614826, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '39859cba7825cd0a298e3e2cb47bbf78'}, {'domain': '.fontis-shop.de', 'expiry': 1645614826, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.fontis-shop.de', 'expiry': 1644407025, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T11%3A13%3A30.231Z'}, {'domain': '.fontis-shop.de', 'expiry': 1645614809, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.fontis-shop.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.fontis-shop.de', 'expiry': 1675941225, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b39cb2c9-dca0-4bca-acd9-415510297ebb'}, {'domain': 'www.fontis-shop.de', 'httpOnly': False, 'name': 'geolizr_geodata', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '{%22as%22:%22n/a%22%2C%22asname%22:%22n/a%22%2C%22mobile%22:false%2C%22proxy%22:false%2C%22city%22:%22Polch%22%2C%22currency%22:{%22code%22:%22EUR%22}%2C%22country%22:{%22code%22:%22DE%22%2C%22country%22:%22Germany%22}%2C%22countryCode%22:%22DE%22%2C%22continent%22:%22Europe%22%2C%22continentCode%22:%22EU%22%2C%22isp%22:%22n/a%22%2C%22lat%22:50.3023%2C%22lon%22:7.3194%2C%22org%22:%22n/a%22%2C%22query%22:%2291.184.168.63%22%2C%22region%22:%22RP%22%2C%22regionName%22:%22Rheinland-Pfalz%22%2C%22status%22:%22success%22%2C%22timezone%22:%22Europe/Berlin%22%2C%22zip%22:%2256751%22%2C%22cloudflare%22:%22%22%2C%22ttl%22:0%2C%22env%22:%22PROD%22%2C%22build%22:%22maxmind%2008%20Feb%2022%2009:27%20UTC%22%2C%22currencyCode%22:%22EUR%22%2C%22countryName%22:%22Germany%22%2C%22service%22:%22ip.lovely-app.com%22}'}, {'domain': 'www.fontis-shop.de', 'expiry': 1675941226, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'www.fontis-shop.de', 'expiry': 1644407025, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '591d1f87-065f-441b-9b3a-86bd208c1e58'}, {'domain': 'www.fontis-shop.de', 'expiry': 1645614826, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}]
+[After] Cookie-Name 1: _gat
+[After] Cookie-Name 2: _gid
+[After] Cookie-Name 3: _ga
+[After] Cookie-Name 4: _shopify_m
+[After] Cookie-Name 5: cart
+[After] Cookie-Name 6: _shopify_s
+[After] Cookie-Name 7: _shopify_y
+[After] Cookie-Name 8: _s
+[After] Cookie-Name 9: _orig_referrer
+[After] Cookie-Name 10: _shopify_tm
+[After] Cookie-Name 11: _shopify_sa_t
+[After] Cookie-Name 12: _shopify_s
+[After] Cookie-Name 13: shopify_pay_redirect
+[After] Cookie-Name 14: _y
+[After] Cookie-Name 15: _tracking_consent
+[After] Cookie-Name 16: cart_ver
+[After] Cookie-Name 17: _shopify_d
+[After] Cookie-Name 18: cart_ts
+[After] Cookie-Name 19: _bc_c_set
+[After] Cookie-Name 20: _y
+[After] Cookie-Name 21: _shopify_evids
+[After] Cookie-Name 22: localization
+[After] Cookie-Name 23: cart_sig
+[After] Cookie-Name 24: _landing_page
+[After] Cookie-Name 25: _shopify_sa_t
+[After] Cookie-Name 26: _shopify_tw
+[After] Cookie-Name 27: _shopify_evids
+[After] Cookie-Name 28: _shopify_y
+[After] Cookie-Name 29: geolizr_geodata
+[After] Cookie-Name 30: secure_customer_sig
+[After] Cookie-Name 31: _s
+[After] Cookie-Name 32: cart_currency
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 18
+[Difference] Cookie-Name: 1: localization
+[Difference] Cookie-Name: 2: cart
+[Difference] Cookie-Name: 3: _shopify_y
+[Difference] Cookie-Name: 4: _ga
+[Difference] Cookie-Name: 5: geolizr_geodata
+[Difference] Cookie-Name: 6: cart_ts
+[Difference] Cookie-Name: 7: _shopify_s
+[Difference] Cookie-Name: 8: _shopify_sa_t
+[Difference] Cookie-Name: 9: cart_ver
+[Difference] Cookie-Name: 10: _shopify_d
+[Difference] Cookie-Name: 11: _bc_c_set
+[Difference] Cookie-Name: 12: _gat
+[Difference] Cookie-Name: 13: _shopify_evids
+[Difference] Cookie-Name: 14: shopify_pay_redirect
+[Difference] Cookie-Name: 15: _s
+[Difference] Cookie-Name: 16: cart_sig
+[Difference] Cookie-Name: 17: _gid
+[Difference] Cookie-Name: 18: _y
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

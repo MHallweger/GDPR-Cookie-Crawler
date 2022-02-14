@@ -1,0 +1,73 @@
+Website 67: http://www.deadstuff.de/ | Created: 09.02.2022 14:02:33 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 21
+[Before] Website-Cookies: [{'domain': '.deadstuff.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'deadstuff.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.deadstuff.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.deadstuff.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bbae20a0-6359-4407-94b1-b2db26b551b4'}, {'domain': 'deadstuff.de', 'expiry': 1675947743, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.deadstuff.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bbae20a0-6359-4407-94b1-b2db26b551b4'}, {'domain': '.deadstuff.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A02%3A24.041Z'}, {'domain': '.deadstuff.de', 'expiry': 1675947743, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.deadstuff.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.deadstuff.de', 'expiry': 1645621343, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.deadstuff.de', 'expiry': 1675947743, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': '.deadstuff.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '115493ba-1abb-43cc-ab5b-bcea77d63185'}, {'domain': 'deadstuff.de', 'expiry': 1645621343, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.deadstuff.de', 'expiry': 1707483743, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1167394971.1644411744'}, {'domain': '.deadstuff.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.deadstuff.de', 'expiry': 1644498143, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.347518629.1644411744'}, {'domain': '.deadstuff.de', 'expiry': 1644413544, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.deadstuff.de', 'expiry': 1644411803, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.deadstuff.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '115493ba-1abb-43cc-ab5b-bcea77d63185'}, {'domain': '.deadstuff.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A02%3A24.064Z'}, {'domain': 'deadstuff.de', 'expiry': 1645621343, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': ''}]
+[Before] Cookie-Name 1: _shopify_sa_p
+[Before] Cookie-Name 2: _shopify_evids
+[Before] Cookie-Name 3: _shopify_evids
+[Before] Cookie-Name 4: _shopify_s
+[Before] Cookie-Name 5: secure_customer_sig
+[Before] Cookie-Name 6: _s
+[Before] Cookie-Name 7: _shopify_d
+[Before] Cookie-Name 8: _shopify_m
+[Before] Cookie-Name 9: _landing_page
+[Before] Cookie-Name 10: _shopify_tw
+[Before] Cookie-Name 11: _tracking_consent
+[Before] Cookie-Name 12: _y
+[Before] Cookie-Name 13: cart_currency
+[Before] Cookie-Name 14: _ga
+[Before] Cookie-Name 15: _orig_referrer
+[Before] Cookie-Name 16: _gid
+[Before] Cookie-Name 17: _shopify_tm
+[Before] Cookie-Name 18: _gat
+[Before] Cookie-Name 19: _shopify_y
+[Before] Cookie-Name 20: _shopify_sa_t
+[Before] Cookie-Name 21: localization
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 22
+[After] Website-Cookies: [{'domain': '.deadstuff.de', 'expiry': 1644413560, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'deadstuff.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.deadstuff.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.deadstuff.de', 'expiry': 1644413560, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bbae20a0-6359-4407-94b1-b2db26b551b4'}, {'domain': 'deadstuff.de', 'expiry': 1675947759, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.deadstuff.de', 'expiry': 1644413560, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bbae20a0-6359-4407-94b1-b2db26b551b4'}, {'domain': '.deadstuff.de', 'expiry': 1675947760, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': '.deadstuff.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A02%3A24.041Z'}, {'domain': '.deadstuff.de', 'expiry': 1645621360, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.deadstuff.de', 'expiry': 1675947760, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '115493ba-1abb-43cc-ab5b-bcea77d63185'}, {'domain': 'deadstuff.de', 'expiry': 1645621359, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.deadstuff.de', 'expiry': 1675947760, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%221%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%7D'}, {'domain': '.deadstuff.de', 'expiry': 1645621343, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.deadstuff.de', 'expiry': 1707483743, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1167394971.1644411744'}, {'domain': '.deadstuff.de', 'expiry': 1645621360, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'deadstuff.de', 'expiry': 1645621359, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '10613934e3afbe0b14cdf74650856b02'}, {'domain': '.deadstuff.de', 'expiry': 1644498143, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.347518629.1644411744'}, {'domain': '.deadstuff.de', 'expiry': 1644413560, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.deadstuff.de', 'expiry': 1644411803, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.deadstuff.de', 'expiry': 1675947760, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '115493ba-1abb-43cc-ab5b-bcea77d63185'}, {'domain': '.deadstuff.de', 'expiry': 1644413560, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A02%3A24.064Z'}, {'domain': 'deadstuff.de', 'expiry': 1645621359, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: _shopify_sa_p
+[After] Cookie-Name 2: _shopify_evids
+[After] Cookie-Name 3: _shopify_evids
+[After] Cookie-Name 4: _shopify_s
+[After] Cookie-Name 5: secure_customer_sig
+[After] Cookie-Name 6: _s
+[After] Cookie-Name 7: _shopify_m
+[After] Cookie-Name 8: _shopify_d
+[After] Cookie-Name 9: _landing_page
+[After] Cookie-Name 10: _y
+[After] Cookie-Name 11: cart_currency
+[After] Cookie-Name 12: _tracking_consent
+[After] Cookie-Name 13: _shopify_tw
+[After] Cookie-Name 14: _ga
+[After] Cookie-Name 15: _orig_referrer
+[After] Cookie-Name 16: cart_sig
+[After] Cookie-Name 17: _gid
+[After] Cookie-Name 18: _shopify_tm
+[After] Cookie-Name 19: _gat
+[After] Cookie-Name 20: _shopify_y
+[After] Cookie-Name 21: _shopify_sa_t
+[After] Cookie-Name 22: localization
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _gat (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: cart_sig
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

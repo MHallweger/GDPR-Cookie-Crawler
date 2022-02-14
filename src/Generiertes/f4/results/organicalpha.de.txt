@@ -1,0 +1,93 @@
+Website 187: http://www.organicalpha.de/ | Created: 09.02.2022 18:03:27 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 27
+[Before] Website-Cookies: [{'domain': 'alphafoods.de', 'expiry': 1707498198, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MjYxOTksInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vYWxwaGFmb29kcy5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQ0MjYxOTksInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vYWxwaGFmb29kcy5kZS8ifX0='}, {'domain': 'alphafoods.de', 'expiry': 1644429799, 'httpOnly': False, 'name': 'motivator_initialised_34266', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'alphafoods.de', 'expiry': 1645635798, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A2'}, {'domain': 'alphafoods.de', 'expiry': 1645635798, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '388f86ae755026dc5b14feaad18405da'}, {'domain': 'alphafoods.de', 'expiry': 1645635798, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644426198'}, {'domain': 'alphafoods.de', 'expiry': 1645635798, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.alphafoods.de', 'expiry': 1675962199, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7c9bfad8-7397-4076-8d7e-8f10888e4aeb'}, {'domain': '.alphafoods.de', 'expiry': 1645635796, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.alphafoods.de', 'expiry': 1675962197, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU1EVXlOalExWmpndE9EWXhZeTAwTTJNM0xXSXpPR010WkdGbE1URTVNelF3WXpBdw'}, {'domain': '.alphafoods.de', 'expiry': 1707498197, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.724448065.1644426197'}, {'domain': '.alphafoods.de', 'expiry': 1644427997, 'httpOnly': False, 'name': '_hjSession_2619123', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImVkOTgxNWFkLTUxODItNDBmNi05OGYxLTNhMTk3ODU2MmY3OCIsImNyZWF0ZWQiOjE2NDQ0MjYxOTczOTksImluU2FtcGxlIjpmYWxzZX0='}, {'domain': '.alphafoods.de', 'expiry': 1675962197, 'httpOnly': False, 'name': '_hjSessionUser_2619123', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjhlYmYwNTBiLWZjYjgtNWQ4Mi1iZjdkLTUxYmViNDJiMTQxYiIsImNyZWF0ZWQiOjE2NDQ0MjYxOTcyOTUsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.alphafoods.de', 'expiry': 1644427997, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.alphafoods.de', 'expiry': 1644427997, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': 'alphafoods.de', 'expiry': 1675962199, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.alphafoods.de', 'expiry': 1644426257, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'alphafoods.de', 'expiry': 1645635798, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1034c942e45c97b13f2592d3c96e2653'}, {'domain': '.alphafoods.de', 'expiry': 1644427996, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.alphafoods.de', 'expiry': 1644427996, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A03%3A16.986Z'}, {'domain': '.alphafoods.de', 'expiry': 1644427999, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cf70cb35-5d67-4ba0-b38d-8451deb5ec0a'}, {'domain': '.alphafoods.de', 'expiry': 1652202197, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1289072097.1644426197'}, {'domain': 'alphafoods.de', 'expiry': 1644429799, 'httpOnly': False, 'name': 'motivator_last_total', 'path': '/', 'secure': False, 'value': '0'}, {'domain': '.alphafoods.de', 'expiry': 1645635796, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.alphafoods.de', 'expiry': 1675962199, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7c9bfad8-7397-4076-8d7e-8f10888e4aeb'}, {'domain': '.alphafoods.de', 'expiry': 1652202198, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644426197897.2056591626'}, {'domain': '.alphafoods.de', 'expiry': 1644512597, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1615854296.1644426197'}, {'domain': '.alphafoods.de', 'expiry': 1644427999, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cf70cb35-5d67-4ba0-b38d-8451deb5ec0a'}]
+[Before] Cookie-Name 1: __kla_id
+[Before] Cookie-Name 2: motivator_initialised_34266
+[Before] Cookie-Name 3: cart_ver
+[Before] Cookie-Name 4: cart_sig
+[Before] Cookie-Name 5: cart_ts
+[Before] Cookie-Name 6: localization
+[Before] Cookie-Name 7: _y
+[Before] Cookie-Name 8: _orig_referrer
+[Before] Cookie-Name 9: _pin_unauth
+[Before] Cookie-Name 10: _ga
+[Before] Cookie-Name 11: _hjSession_2619123
+[Before] Cookie-Name 12: _hjSessionUser_2619123
+[Before] Cookie-Name 13: _hjFirstSeen
+[Before] Cookie-Name 14: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 15: secure_customer_sig
+[Before] Cookie-Name 16: _gat
+[Before] Cookie-Name 17: cart
+[Before] Cookie-Name 18: _shopify_sa_p
+[Before] Cookie-Name 19: _shopify_sa_t
+[Before] Cookie-Name 20: _shopify_s
+[Before] Cookie-Name 21: _gcl_au
+[Before] Cookie-Name 22: motivator_last_total
+[Before] Cookie-Name 23: _landing_page
+[Before] Cookie-Name 24: _shopify_y
+[Before] Cookie-Name 25: _fbp
+[Before] Cookie-Name 26: _gid
+[Before] Cookie-Name 27: _s
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 27
+[After] Website-Cookies: [{'domain': 'alphafoods.de', 'expiry': 1707498198, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MjYxOTksInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vYWxwaGFmb29kcy5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQ0MjYxOTksInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vYWxwaGFmb29kcy5kZS8ifX0='}, {'domain': 'alphafoods.de', 'expiry': 1644429799, 'httpOnly': False, 'name': 'motivator_initialised_34266', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'alphafoods.de', 'expiry': 1645635798, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A2'}, {'domain': 'alphafoods.de', 'expiry': 1645635798, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '388f86ae755026dc5b14feaad18405da'}, {'domain': 'alphafoods.de', 'expiry': 1645635798, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644426198'}, {'domain': 'alphafoods.de', 'expiry': 1645635798, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.alphafoods.de', 'expiry': 1675962199, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7c9bfad8-7397-4076-8d7e-8f10888e4aeb'}, {'domain': '.alphafoods.de', 'expiry': 1645635796, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.alphafoods.de', 'expiry': 1675962197, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU1EVXlOalExWmpndE9EWXhZeTAwTTJNM0xXSXpPR010WkdGbE1URTVNelF3WXpBdw'}, {'domain': '.alphafoods.de', 'expiry': 1707498197, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.724448065.1644426197'}, {'domain': '.alphafoods.de', 'expiry': 1644427997, 'httpOnly': False, 'name': '_hjSession_2619123', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImVkOTgxNWFkLTUxODItNDBmNi05OGYxLTNhMTk3ODU2MmY3OCIsImNyZWF0ZWQiOjE2NDQ0MjYxOTczOTksImluU2FtcGxlIjpmYWxzZX0='}, {'domain': '.alphafoods.de', 'expiry': 1675962197, 'httpOnly': False, 'name': '_hjSessionUser_2619123', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjhlYmYwNTBiLWZjYjgtNWQ4Mi1iZjdkLTUxYmViNDJiMTQxYiIsImNyZWF0ZWQiOjE2NDQ0MjYxOTcyOTUsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.alphafoods.de', 'expiry': 1644427997, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.alphafoods.de', 'expiry': 1644427997, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': 'alphafoods.de', 'expiry': 1675962199, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.alphafoods.de', 'expiry': 1644426257, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'alphafoods.de', 'expiry': 1645635798, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1034c942e45c97b13f2592d3c96e2653'}, {'domain': '.alphafoods.de', 'expiry': 1644427996, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.alphafoods.de', 'expiry': 1644427996, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A03%3A16.986Z'}, {'domain': '.alphafoods.de', 'expiry': 1644427999, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cf70cb35-5d67-4ba0-b38d-8451deb5ec0a'}, {'domain': '.alphafoods.de', 'expiry': 1652202197, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1289072097.1644426197'}, {'domain': 'alphafoods.de', 'expiry': 1644429799, 'httpOnly': False, 'name': 'motivator_last_total', 'path': '/', 'secure': False, 'value': '0'}, {'domain': '.alphafoods.de', 'expiry': 1645635796, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.alphafoods.de', 'expiry': 1675962199, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7c9bfad8-7397-4076-8d7e-8f10888e4aeb'}, {'domain': '.alphafoods.de', 'expiry': 1652202198, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644426197897.2056591626'}, {'domain': '.alphafoods.de', 'expiry': 1644512597, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1615854296.1644426197'}, {'domain': '.alphafoods.de', 'expiry': 1644427999, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cf70cb35-5d67-4ba0-b38d-8451deb5ec0a'}]
+[After] Cookie-Name 1: __kla_id
+[After] Cookie-Name 2: motivator_initialised_34266
+[After] Cookie-Name 3: cart_ver
+[After] Cookie-Name 4: cart_sig
+[After] Cookie-Name 5: cart_ts
+[After] Cookie-Name 6: localization
+[After] Cookie-Name 7: _y
+[After] Cookie-Name 8: _orig_referrer
+[After] Cookie-Name 9: _pin_unauth
+[After] Cookie-Name 10: _ga
+[After] Cookie-Name 11: _hjSession_2619123
+[After] Cookie-Name 12: _hjSessionUser_2619123
+[After] Cookie-Name 13: _hjFirstSeen
+[After] Cookie-Name 14: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 15: secure_customer_sig
+[After] Cookie-Name 16: _gat
+[After] Cookie-Name 17: cart
+[After] Cookie-Name 18: _shopify_sa_p
+[After] Cookie-Name 19: _shopify_sa_t
+[After] Cookie-Name 20: _shopify_s
+[After] Cookie-Name 21: _gcl_au
+[After] Cookie-Name 22: motivator_last_total
+[After] Cookie-Name 23: _landing_page
+[After] Cookie-Name 24: _shopify_y
+[After] Cookie-Name 25: _fbp
+[After] Cookie-Name 26: _gid
+[After] Cookie-Name 27: _s
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gid (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

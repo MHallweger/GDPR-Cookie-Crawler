@@ -1,0 +1,78 @@
+Website 194: http://www.der-ritzler.de/ | Created: 09.02.2022 18:05:32 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 21
+[Before] Website-Cookies: [{'domain': '.der-ritzler.de', 'expiry': 1644512723, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': '1k7ifhj|1644426323340|1|1|h.clarity.ms/collect'}, {'domain': 'www.der-ritzler.de', 'expiry': 1644429922, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.der-ritzler.de', 'expiry': 1678122322, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '77b227b089ca11eca51e13bdc9902132'}, {'domain': '.der-ritzler.de', 'expiry': 1675962322, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': 'ozfeqn|1|eyu|0'}, {'domain': '.der-ritzler.de', 'expiry': 1644512721, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.554504999.1644426321'}, {'domain': '.der-ritzler.de', 'expiry': 1707498321, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1202252370.1644426321'}, {'domain': '.der-ritzler.de', 'expiry': 1645635921, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.der-ritzler.de', 'expiry': 1675962321, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6c69fa02-4945-4ed9-83fd-9f18a06da56e'}, {'domain': '.der-ritzler.de', 'expiry': 1644428121, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.der-ritzler.de', 'expiry': 1644428121, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7253fa60-9c3e-4f70-a27c-59533d314438'}, {'domain': '.der-ritzler.de', 'expiry': 1675962321, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6c69fa02-4945-4ed9-83fd-9f18a06da56e'}, {'domain': '.der-ritzler.de', 'expiry': 1644428121, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A05%3A21.446Z'}, {'domain': '.der-ritzler.de', 'expiry': 1645635921, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.der-ritzler.de', 'expiry': 1645635921, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.der-ritzler.de', 'expiry': 1644512722, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': '77b1ff7089ca11ec8308256ff9d8eae8'}, {'domain': 'www.der-ritzler.de', 'expiry': 1645635921, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': ''}, {'domain': '.der-ritzler.de', 'expiry': 1675962321, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU1EVXlOalExWmpndE9EWXhZeTAwTTJNM0xXSXpPR010WkdGbE1URTVNelF3WXpBdw'}, {'domain': '.der-ritzler.de', 'expiry': 1652202321, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.2016662718.1644426322'}, {'domain': '.der-ritzler.de', 'expiry': 1644426381, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.der-ritzler.de', 'expiry': 1644428121, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7253fa60-9c3e-4f70-a27c-59533d314438'}, {'domain': 'www.der-ritzler.de', 'expiry': 1675962321, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _clsk
+[Before] Cookie-Name 2: shopify_pay_redirect
+[Before] Cookie-Name 3: _uetvid
+[Before] Cookie-Name 4: _clck
+[Before] Cookie-Name 5: _gid
+[Before] Cookie-Name 6: _ga
+[Before] Cookie-Name 7: _landing_page
+[Before] Cookie-Name 8: _shopify_y
+[Before] Cookie-Name 9: _shopify_sa_p
+[Before] Cookie-Name 10: _s
+[Before] Cookie-Name 11: _y
+[Before] Cookie-Name 12: _shopify_sa_t
+[Before] Cookie-Name 13: _orig_referrer
+[Before] Cookie-Name 14: cart_currency
+[Before] Cookie-Name 15: _uetsid
+[Before] Cookie-Name 16: localization
+[Before] Cookie-Name 17: _pin_unauth
+[Before] Cookie-Name 18: _gcl_au
+[Before] Cookie-Name 19: _gat
+[Before] Cookie-Name 20: _shopify_s
+[Before] Cookie-Name 21: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 21
+[After] Website-Cookies: [{'domain': '.der-ritzler.de', 'expiry': 1644512723, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': '1k7ifhj|1644426323340|1|1|h.clarity.ms/collect'}, {'domain': 'www.der-ritzler.de', 'expiry': 1644429922, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.der-ritzler.de', 'expiry': 1678122322, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '77b227b089ca11eca51e13bdc9902132'}, {'domain': '.der-ritzler.de', 'expiry': 1675962322, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': 'ozfeqn|1|eyu|0'}, {'domain': '.der-ritzler.de', 'expiry': 1644512721, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.554504999.1644426321'}, {'domain': '.der-ritzler.de', 'expiry': 1707498321, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1202252370.1644426321'}, {'domain': '.der-ritzler.de', 'expiry': 1645635921, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.der-ritzler.de', 'expiry': 1675962321, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6c69fa02-4945-4ed9-83fd-9f18a06da56e'}, {'domain': '.der-ritzler.de', 'expiry': 1644428121, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.der-ritzler.de', 'expiry': 1644428121, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7253fa60-9c3e-4f70-a27c-59533d314438'}, {'domain': '.der-ritzler.de', 'expiry': 1675962321, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6c69fa02-4945-4ed9-83fd-9f18a06da56e'}, {'domain': '.der-ritzler.de', 'expiry': 1644428121, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A05%3A21.446Z'}, {'domain': '.der-ritzler.de', 'expiry': 1645635921, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.der-ritzler.de', 'expiry': 1645635921, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.der-ritzler.de', 'expiry': 1644512722, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': '77b1ff7089ca11ec8308256ff9d8eae8'}, {'domain': 'www.der-ritzler.de', 'expiry': 1645635921, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': ''}, {'domain': '.der-ritzler.de', 'expiry': 1675962321, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU1EVXlOalExWmpndE9EWXhZeTAwTTJNM0xXSXpPR010WkdGbE1URTVNelF3WXpBdw'}, {'domain': '.der-ritzler.de', 'expiry': 1652202321, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.2016662718.1644426322'}, {'domain': '.der-ritzler.de', 'expiry': 1644426381, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.der-ritzler.de', 'expiry': 1644428121, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7253fa60-9c3e-4f70-a27c-59533d314438'}, {'domain': 'www.der-ritzler.de', 'expiry': 1675962321, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _clsk
+[After] Cookie-Name 2: shopify_pay_redirect
+[After] Cookie-Name 3: _uetvid
+[After] Cookie-Name 4: _clck
+[After] Cookie-Name 5: _gid
+[After] Cookie-Name 6: _ga
+[After] Cookie-Name 7: _landing_page
+[After] Cookie-Name 8: _shopify_y
+[After] Cookie-Name 9: _shopify_sa_p
+[After] Cookie-Name 10: _s
+[After] Cookie-Name 11: _y
+[After] Cookie-Name 12: _shopify_sa_t
+[After] Cookie-Name 13: _orig_referrer
+[After] Cookie-Name 14: cart_currency
+[After] Cookie-Name 15: _uetsid
+[After] Cookie-Name 16: localization
+[After] Cookie-Name 17: _pin_unauth
+[After] Cookie-Name 18: _gcl_au
+[After] Cookie-Name 19: _gat
+[After] Cookie-Name 20: _shopify_s
+[After] Cookie-Name 21: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _clsk (Microsoft Clarity (User experience tool))
+[Used before] Cookie-Name: _clck (Microsoft Clarity (User experience tool))
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _gat (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

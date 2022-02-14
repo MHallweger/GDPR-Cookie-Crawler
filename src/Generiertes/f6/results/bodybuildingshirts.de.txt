@@ -1,0 +1,78 @@
+Website 143: http://www.bodybuildingshirts.de/ | Created: 10.02.2022 12:54:43 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 23
+[Before] Website-Cookies: [{'domain': 'bodybuildingshirts.de', 'httpOnly': False, 'name': 'fsb_total_price_340084', 'path': '/', 'secure': False, 'value': '0'}, {'domain': '.bodybuildingshirts.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220210115434-lv6QqTRjLs2RkjiCsnAcY6rPEz9eAY4rR3nY7Ll71Y9m9Y3ld'}, {'domain': 'bodybuildingshirts.de', 'httpOnly': False, 'name': 'fsb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.bodybuildingshirts.de', 'expiry': 1676030073, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVpqUXdaRGd3Wm1RdFpqUTJOQzAwWmpkaUxXRXhaakF0Wmpkak5EZGtPVEEwWkRVdw'}, {'domain': '.bodybuildingshirts.de', 'expiry': 1652270073, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.539035189.1644494073'}, {'domain': 'bodybuildingshirts.de', 'expiry': 1644497673, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.bodybuildingshirts.de', 'expiry': 1676030073, 'httpOnly': False, 'name': 'bab_original', 'path': '/', 'secure': False, 'value': 'de'}, {'domain': '.bodybuildingshirts.de', 'expiry': 1676030084, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a553f759-7662-4286-a471-eb6b40cca754'}, {'domain': 'bodybuildingshirts.de', 'httpOnly': False, 'name': 'locale_bar_accepted', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.bodybuildingshirts.de', 'expiry': 1644495884, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '826e05f8-7274-4ae1-967d-17b0a648f39a'}, {'domain': '.bodybuildingshirts.de', 'expiry': 1652270074, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644494073589.123865095'}, {'domain': '.bodybuildingshirts.de', 'expiry': 1645703672, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.bodybuildingshirts.de', 'expiry': 1644495884, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '826e05f8-7274-4ae1-967d-17b0a648f39a'}, {'domain': '.bodybuildingshirts.de', 'expiry': 1644495873, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.bodybuildingshirts.de', 'expiry': 1644495873, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T11%3A54%3A33.225Z'}, {'domain': '.bodybuildingshirts.de', 'expiry': 1676030084, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a553f759-7662-4286-a471-eb6b40cca754'}, {'domain': 'bodybuildingshirts.de', 'expiry': 1645703684, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.bodybuildingshirts.de', 'expiry': 1645703672, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.bodybuildingshirts.de', 'expiry': 1676030073, 'httpOnly': False, 'name': 'bab_locale', 'path': '/', 'secure': False, 'value': 'de'}, {'domain': '.bodybuildingshirts.de', 'expiry': 1644495874, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'bMIN2zvflAHRe2-20220210115434'}, {'domain': '.bodybuildingshirts.de', 'expiry': 1676030074, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'md0dMAOldMuGMZ-20220210115434'}, {'domain': 'bodybuildingshirts.de', 'expiry': 1645703684, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'bodybuildingshirts.de', 'expiry': 1676030084, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: fsb_total_price_340084
+[Before] Cookie-Name 2: soundestID
+[Before] Cookie-Name 3: fsb_previous_pathname
+[Before] Cookie-Name 4: _pin_unauth
+[Before] Cookie-Name 5: _gcl_au
+[Before] Cookie-Name 6: shopify_pay_redirect
+[Before] Cookie-Name 7: bab_original
+[Before] Cookie-Name 8: _shopify_y
+[Before] Cookie-Name 9: locale_bar_accepted
+[Before] Cookie-Name 10: _shopify_s
+[Before] Cookie-Name 11: _fbp
+[Before] Cookie-Name 12: _orig_referrer
+[Before] Cookie-Name 13: _s
+[Before] Cookie-Name 14: _shopify_sa_p
+[Before] Cookie-Name 15: _shopify_sa_t
+[Before] Cookie-Name 16: _y
+[Before] Cookie-Name 17: localization
+[Before] Cookie-Name 18: _landing_page
+[Before] Cookie-Name 19: bab_locale
+[Before] Cookie-Name 20: omnisendSessionID
+[Before] Cookie-Name 21: omnisendAnonymousID
+[Before] Cookie-Name 22: cart_currency
+[Before] Cookie-Name 23: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 24
+[After] Website-Cookies: [{'domain': 'bodybuildingshirts.de', 'httpOnly': False, 'name': 'fsb_total_price_340084', 'path': '/', 'secure': False, 'value': '0'}, {'domain': '.bodybuildingshirts.de', 'expiry': 1652270073, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.539035189.1644494073'}, {'domain': '.bodybuildingshirts.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220210115434-lv6QqTRjLs2RkjiCsnAcY6rPEz9eAY4rR3nY7Ll71Y9m9Y3ld'}, {'domain': '.bodybuildingshirts.de', 'expiry': 1676030074, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'md0dMAOldMuGMZ-20220210115434'}, {'domain': 'bodybuildingshirts.de', 'httpOnly': False, 'name': 'fsb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.bodybuildingshirts.de', 'expiry': 1644495873, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T11%3A54%3A33.225Z'}, {'domain': '.bodybuildingshirts.de', 'expiry': 1676030073, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVpqUXdaRGd3Wm1RdFpqUTJOQzAwWmpkaUxXRXhaakF0Wmpkak5EZGtPVEEwWkRVdw'}, {'domain': 'bodybuildingshirts.de', 'expiry': 1676030084, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'bodybuildingshirts.de', 'expiry': 1644497673, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.bodybuildingshirts.de', 'expiry': 1676030073, 'httpOnly': False, 'name': 'bab_original', 'path': '/', 'secure': False, 'value': 'de'}, {'domain': '.bodybuildingshirts.de', 'expiry': 1676030084, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a553f759-7662-4286-a471-eb6b40cca754'}, {'domain': 'bodybuildingshirts.de', 'httpOnly': False, 'name': 'locale_bar_accepted', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'bodybuildingshirts.de', 'expiry': 1645703684, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.bodybuildingshirts.de', 'expiry': 1644495884, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '826e05f8-7274-4ae1-967d-17b0a648f39a'}, {'domain': '.bodybuildingshirts.de', 'expiry': 1644495884, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '826e05f8-7274-4ae1-967d-17b0a648f39a'}, {'domain': '.bodybuildingshirts.de', 'expiry': 1652270089, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644494073589.123865095'}, {'domain': '.bodybuildingshirts.de', 'expiry': 1645703672, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.bodybuildingshirts.de', 'expiry': 1644495873, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.bodybuildingshirts.de', 'expiry': 1676030084, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a553f759-7662-4286-a471-eb6b40cca754'}, {'domain': 'bodybuildingshirts.de', 'expiry': 1676030089, 'httpOnly': False, 'name': 'cookieconsent_status', 'path': '/', 'secure': False, 'value': 'dismiss'}, {'domain': 'bodybuildingshirts.de', 'expiry': 1645703684, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.bodybuildingshirts.de', 'expiry': 1645703672, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.bodybuildingshirts.de', 'expiry': 1676030073, 'httpOnly': False, 'name': 'bab_locale', 'path': '/', 'secure': False, 'value': 'de'}, {'domain': '.bodybuildingshirts.de', 'expiry': 1644495874, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'bMIN2zvflAHRe2-20220210115434'}]
+[After] Cookie-Name 1: fsb_total_price_340084
+[After] Cookie-Name 2: _gcl_au
+[After] Cookie-Name 3: soundestID
+[After] Cookie-Name 4: omnisendAnonymousID
+[After] Cookie-Name 5: fsb_previous_pathname
+[After] Cookie-Name 6: _shopify_sa_t
+[After] Cookie-Name 7: _pin_unauth
+[After] Cookie-Name 8: secure_customer_sig
+[After] Cookie-Name 9: shopify_pay_redirect
+[After] Cookie-Name 10: bab_original
+[After] Cookie-Name 11: _shopify_y
+[After] Cookie-Name 12: locale_bar_accepted
+[After] Cookie-Name 13: cart_currency
+[After] Cookie-Name 14: _s
+[After] Cookie-Name 15: _shopify_s
+[After] Cookie-Name 16: _fbp
+[After] Cookie-Name 17: _orig_referrer
+[After] Cookie-Name 18: _shopify_sa_p
+[After] Cookie-Name 19: _y
+[After] Cookie-Name 20: cookieconsent_status
+[After] Cookie-Name 21: localization
+[After] Cookie-Name 22: _landing_page
+[After] Cookie-Name 23: bab_locale
+[After] Cookie-Name 24: omnisendSessionID
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: cookieconsent_status
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

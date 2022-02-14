@@ -1,0 +1,90 @@
+Website 167: http://www.kruut.de/ | Created: 10.02.2022 18:09:57 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 21
+[Before] Website-Cookies: [{'domain': '.kruut.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '28d98ca6-c890-4585-ba15-9f847379f92d'}, {'domain': '.kruut.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '28d98ca6-c890-4585-ba15-9f847379f92d'}, {'domain': 'kruut.de', 'expiry': 1644516589, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'kruut.de', 'expiry': 1707584989, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ1MTI5OTAsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8va3J1dXQuZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NTEyOTkwLCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL2tydXV0LmRlLyJ9fQ=='}, {'domain': 'kruut.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kruut.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'kruut.de', 'expiry': 1676048989, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': 'analytics%2Cfunctionality%2Cmarketing'}, {'domain': '.kruut.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kruut.de', 'expiry': 1676048988, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.kruut.de', 'expiry': 1644514790, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kruut.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '408afc22-6623-4041-997a-0e724f6c1bb3'}, {'domain': '.kruut.de', 'expiry': 1676048988, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%7D'}, {'domain': '.kruut.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '408afc22-6623-4041-997a-0e724f6c1bb3'}, {'domain': '.kruut.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'kruut.de', 'expiry': 1645722590, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'kruut.de', 'expiry': 1645722590, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'kruut.de', 'httpOnly': False, 'name': 'locale_bar_accepted', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.kruut.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A09%3A49.281Z'}, {'domain': '.kruut.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kruut.de', 'expiry': 1645722588, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'kruut.de', 'expiry': 1676048990, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _s
+[Before] Cookie-Name 2: _shopify_s
+[Before] Cookie-Name 3: shopify_pay_redirect
+[Before] Cookie-Name 4: __kla_id
+[Before] Cookie-Name 5: _shopify_evids
+[Before] Cookie-Name 6: _shopify_evids
+[Before] Cookie-Name 7: cookieconsent_preferences_disabled
+[Before] Cookie-Name 8: _orig_referrer
+[Before] Cookie-Name 9: _shopify_m
+[Before] Cookie-Name 10: _shopify_tm
+[Before] Cookie-Name 11: _shopify_y
+[Before] Cookie-Name 12: _tracking_consent
+[Before] Cookie-Name 13: _y
+[Before] Cookie-Name 14: _landing_page
+[Before] Cookie-Name 15: cart_currency
+[Before] Cookie-Name 16: localization
+[Before] Cookie-Name 17: locale_bar_accepted
+[Before] Cookie-Name 18: _shopify_d
+[Before] Cookie-Name 19: _shopify_sa_p
+[Before] Cookie-Name 20: _shopify_tw
+[Before] Cookie-Name 21: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 31
+[After] Website-Cookies: [{'domain': '.kruut.de', 'expiry': 1652289004, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644513004019.1513437228'}, {'domain': '.kruut.de', 'expiry': 1644513063, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.kruut.de', 'expiry': 1644599403, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.687199888.1644513004'}, {'domain': '.kruut.de', 'expiry': 1676049003, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22con%22%3A%7B%22GDPR%22%3A%221%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%7D'}, {'domain': '.kruut.de', 'expiry': 1676049003, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': '.kruut.de', 'expiry': 1652289003, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.781369173.1644513004'}, {'domain': 'kruut.de', 'expiry': 1645722603, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': '.kruut.de', 'expiry': 1707585003, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.425274512.1644513004'}, {'domain': 'kruut.de', 'expiry': 1645722603, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8283b706ac49b8db880d76618401acf0'}, {'domain': '.kruut.de', 'expiry': 1644514803, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'kruut.de', 'expiry': 1676049003, 'httpOnly': False, 'name': 'cookieconsent_status', 'path': '/', 'secure': False, 'value': 'allow'}, {'domain': '.kruut.de', 'expiry': 1676049003, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '408afc22-6623-4041-997a-0e724f6c1bb3'}, {'domain': 'kruut.de', 'httpOnly': False, 'name': 'locale_bar_accepted', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.kruut.de', 'expiry': 1644514803, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '28d98ca6-c890-4585-ba15-9f847379f92d'}, {'domain': '.kruut.de', 'expiry': 1644514803, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '28d98ca6-c890-4585-ba15-9f847379f92d'}, {'domain': '.kruut.de', 'expiry': 1645722603, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'kruut.de', 'expiry': 1644516589, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.kruut.de', 'expiry': 1645722588, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'kruut.de', 'expiry': 1676049003, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.kruut.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kruut.de', 'expiry': 1645722603, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'kruut.de', 'expiry': 1645722603, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644513003'}, {'domain': 'kruut.de', 'expiry': 1676049003, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': 'analytics%2Cfunctionality%2Cmarketing'}, {'domain': '.kruut.de', 'expiry': 1644514803, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kruut.de', 'expiry': 1676049003, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '408afc22-6623-4041-997a-0e724f6c1bb3'}, {'domain': 'kruut.de', 'expiry': 1707584989, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ1MTI5OTAsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8va3J1dXQuZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NTEyOTkwLCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL2tydXV0LmRlLyJ9fQ=='}, {'domain': 'kruut.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'kruut.de', 'expiry': 1645722603, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'kruut.de', 'expiry': 1645722603, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.kruut.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A09%3A49.281Z'}, {'domain': 'kruut.de', 'expiry': 1645722603, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '720ab5d8311196812d05705ca77571bc'}]
+[After] Cookie-Name 1: _fbp
+[After] Cookie-Name 2: _gat
+[After] Cookie-Name 3: _gid
+[After] Cookie-Name 4: _tracking_consent
+[After] Cookie-Name 5: _shopify_m
+[After] Cookie-Name 6: _gcl_au
+[After] Cookie-Name 7: cart_ver
+[After] Cookie-Name 8: _ga
+[After] Cookie-Name 9: cart
+[After] Cookie-Name 10: _shopify_sa_p
+[After] Cookie-Name 11: cookieconsent_status
+[After] Cookie-Name 12: _shopify_y
+[After] Cookie-Name 13: locale_bar_accepted
+[After] Cookie-Name 14: _s
+[After] Cookie-Name 15: _shopify_s
+[After] Cookie-Name 16: _orig_referrer
+[After] Cookie-Name 17: shopify_pay_redirect
+[After] Cookie-Name 18: _shopify_tw
+[After] Cookie-Name 19: secure_customer_sig
+[After] Cookie-Name 20: _shopify_evids
+[After] Cookie-Name 21: _landing_page
+[After] Cookie-Name 22: cart_ts
+[After] Cookie-Name 23: cookieconsent_preferences_disabled
+[After] Cookie-Name 24: _shopify_tm
+[After] Cookie-Name 25: _y
+[After] Cookie-Name 26: __kla_id
+[After] Cookie-Name 27: _shopify_evids
+[After] Cookie-Name 28: cart_currency
+[After] Cookie-Name 29: localization
+[After] Cookie-Name 30: _shopify_d
+[After] Cookie-Name 31: cart_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 10
+[Difference] Cookie-Name: 1: cookieconsent_status
+[Difference] Cookie-Name: 2: _ga
+[Difference] Cookie-Name: 3: _gcl_au
+[Difference] Cookie-Name: 4: cart_ver
+[Difference] Cookie-Name: 5: _gid
+[Difference] Cookie-Name: 6: cart
+[Difference] Cookie-Name: 7: cart_sig
+[Difference] Cookie-Name: 8: _gat
+[Difference] Cookie-Name: 9: _fbp
+[Difference] Cookie-Name: 10: cart_ts
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

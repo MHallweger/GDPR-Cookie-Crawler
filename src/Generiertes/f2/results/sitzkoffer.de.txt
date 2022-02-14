@@ -1,0 +1,75 @@
+Website 119: http://www.sitzkoffer.de/ | Created: 09.02.2022 11:22:16 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 8
+[Before] Website-Cookies: [{'domain': '.sitzkoffer.de', 'expiry': 1675938127, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.sitzkoffer.de', 'expiry': 1645611727, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'sitzkoffer.de', 'expiry': 1645611728, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.sitzkoffer.de', 'expiry': 1675938127, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%7D'}, {'domain': '.sitzkoffer.de', 'expiry': 1644403928, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.sitzkoffer.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.sitzkoffer.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'sitzkoffer.de', 'expiry': 1675938128, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _shopify_m
+[Before] Cookie-Name 2: _shopify_tw
+[Before] Cookie-Name 3: cart_currency
+[Before] Cookie-Name 4: _tracking_consent
+[Before] Cookie-Name 5: _shopify_tm
+[Before] Cookie-Name 6: _landing_page
+[Before] Cookie-Name 7: _orig_referrer
+[Before] Cookie-Name 8: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 26
+[After] Website-Cookies: [{'domain': '.sitzkoffer.de', 'expiry': 1675938142, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%221%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%7D'}, {'domain': '.sitzkoffer.de', 'expiry': 1675938142, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': 'sitzkoffer.de', 'expiry': 1675938141, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '71510656-268b-490d-9978-ca0917b142fc'}, {'domain': '.sitzkoffer.de', 'expiry': 1675938142, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '71510656-268b-490d-9978-ca0917b142fc'}, {'domain': 'sitzkoffer.de', 'expiry': 1645611742, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': 'sitzkoffer.de', 'expiry': 1645611742, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644402142'}, {'domain': '.sitzkoffer.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A22%3A22.022Z'}, {'domain': '.sitzkoffer.de', 'expiry': 1644403942, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e8ef0258-88db-4f93-afdd-5a1f630b6a43'}, {'domain': '.sitzkoffer.de', 'expiry': 1645611727, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.sitzkoffer.de', 'expiry': 1644403942, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A22%3A22.032Z'}, {'domain': 'sitzkoffer.de', 'expiry': 1646994141, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0NDAyMTQxOTc1LCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjoxfX0='}, {'domain': 'sitzkoffer.de', 'expiry': 1645611742, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5650de6ba703d65fddc59644f3413384'}, {'domain': 'sitzkoffer.de', 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'pending'}, {'domain': 'sitzkoffer.de', 'expiry': 1644403941, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e8ef0258-88db-4f93-afdd-5a1f630b6a43'}, {'domain': 'sitzkoffer.de', 'expiry': 1645611742, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.sitzkoffer.de', 'expiry': 1675938142, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '71510656-268b-490d-9978-ca0917b142fc'}, {'domain': 'sitzkoffer.de', 'expiry': 1645611742, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '86a0301a6f8e9a25f8157d5c238750ae'}, {'domain': 'sitzkoffer.de', 'expiry': 1645611742, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'sitzkoffer.de', 'expiry': 1675938142, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'sitzkoffer.de', 'expiry': 1644403941, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e8ef0258-88db-4f93-afdd-5a1f630b6a43'}, {'domain': '.sitzkoffer.de', 'expiry': 1644403942, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e8ef0258-88db-4f93-afdd-5a1f630b6a43'}, {'domain': 'sitzkoffer.de', 'expiry': 1675938141, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '71510656-268b-490d-9978-ca0917b142fc'}, {'domain': '.sitzkoffer.de', 'expiry': 1644403942, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.sitzkoffer.de', 'expiry': 1644403942, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.sitzkoffer.de', 'expiry': 1645611742, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.sitzkoffer.de', 'expiry': 1645611742, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: _tracking_consent
+[After] Cookie-Name 2: _shopify_m
+[After] Cookie-Name 3: _y
+[After] Cookie-Name 4: _y
+[After] Cookie-Name 5: cart_ver
+[After] Cookie-Name 6: cart_ts
+[After] Cookie-Name 7: _shopify_d
+[After] Cookie-Name 8: _s
+[After] Cookie-Name 9: _shopify_tw
+[After] Cookie-Name 10: _shopify_sa_t
+[After] Cookie-Name 11: _bc_c_set
+[After] Cookie-Name 12: cart
+[After] Cookie-Name 13: shopify_pay_redirect
+[After] Cookie-Name 14: _shopify_s
+[After] Cookie-Name 15: cart_currency
+[After] Cookie-Name 16: _shopify_y
+[After] Cookie-Name 17: cart_sig
+[After] Cookie-Name 18: localization
+[After] Cookie-Name 19: secure_customer_sig
+[After] Cookie-Name 20: _s
+[After] Cookie-Name 21: _shopify_s
+[After] Cookie-Name 22: _shopify_y
+[After] Cookie-Name 23: _shopify_tm
+[After] Cookie-Name 24: _shopify_sa_p
+[After] Cookie-Name 25: _landing_page
+[After] Cookie-Name 26: _orig_referrer
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 14
+[Difference] Cookie-Name: 1: localization
+[Difference] Cookie-Name: 2: _y
+[Difference] Cookie-Name: 3: _shopify_y
+[Difference] Cookie-Name: 4: cart_ts
+[Difference] Cookie-Name: 5: _shopify_s
+[Difference] Cookie-Name: 6: _shopify_sa_t
+[Difference] Cookie-Name: 7: cart_ver
+[Difference] Cookie-Name: 8: _shopify_d
+[Difference] Cookie-Name: 9: cart_sig
+[Difference] Cookie-Name: 10: _bc_c_set
+[Difference] Cookie-Name: 11: shopify_pay_redirect
+[Difference] Cookie-Name: 12: _s
+[Difference] Cookie-Name: 13: _shopify_sa_p
+[Difference] Cookie-Name: 14: cart
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

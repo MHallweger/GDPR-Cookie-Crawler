@@ -1,0 +1,87 @@
+Website 7: http://www.teak24.de/ | Created: 10.02.2022 17:19:46 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 26
+[Before] Website-Cookies: [{'domain': 'teak24.de', 'expiry': 1802189976, 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'secure': True, 'value': '3a771ed7-5d41-47b8-93ed-3628456ff493'}, {'domain': 'teak24.de', 'expiry': 1644511776, 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'secure': True, 'value': '01e5876a-b675-432e-a4fc-fc7293ac1062'}, {'domain': 'teak24.de', 'expiry': 1644510095, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.teak24.de', 'expiry': 1644511775, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'teak24.de', 'expiry': 1644513575, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.teak24.de', 'expiry': 1676045975, 'httpOnly': False, 'name': '_hjSessionUser_1778545', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjEzMjNiNDRlLTY3NmUtNTEwYS1iY2QyLTMyMzZkNjExZWI0NyIsImNyZWF0ZWQiOjE2NDQ1MDk5NzU2NDIsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.teak24.de', 'expiry': 1644511774, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.teak24.de', 'expiry': 1652285975, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644509975226.1994923798'}, {'domain': '.teak24.de', 'expiry': 1644510034, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.teak24.de', 'expiry': 1644596376, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.241446587.1644509975'}, {'domain': '.teak24.de', 'expiry': 1707581976, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.65624765.1644509975'}, {'domain': '.teak24.de', 'expiry': 1644511775, 'httpOnly': False, 'name': '_hjSession_1778545', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImMyYjYyYjZjLWRlNDctNDVmNy1iZmQ3LWMzNGY2OWY5NDMyNiIsImNyZWF0ZWQiOjE2NDQ1MDk5NzU2OTIsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': '.teak24.de', 'expiry': 1652285974, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.481933546.1644509975'}, {'domain': 'teak24.de', 'expiry': 1645719585, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.teak24.de', 'expiry': 1644511785, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3480087c-c198-4dc8-a065-e3e6f6417241'}, {'domain': '.teak24.de', 'expiry': 1676045985, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd06de4f8-d0ab-47a0-9026-abcefe33e3d1'}, {'domain': 'teak24.de', 'httpOnly': False, 'name': 'fsb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.teak24.de', 'expiry': 1644511775, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.teak24.de', 'expiry': 1644511774, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T16%3A19%3A34.806Z'}, {'domain': '.teak24.de', 'expiry': 1644510036, 'httpOnly': False, 'name': '_gat_UA-115981425-1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.teak24.de', 'expiry': 1645719574, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'teak24.de', 'expiry': 1645719585, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.teak24.de', 'expiry': 1644511785, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3480087c-c198-4dc8-a065-e3e6f6417241'}, {'domain': '.teak24.de', 'expiry': 1645719574, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.teak24.de', 'expiry': 1676045985, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd06de4f8-d0ab-47a0-9026-abcefe33e3d1'}, {'domain': 'teak24.de', 'expiry': 1676045985, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _shg_user_id
+[Before] Cookie-Name 2: _shg_session_id
+[Before] Cookie-Name 3: _hjIncludedInPageviewSample
+[Before] Cookie-Name 4: _hjFirstSeen
+[Before] Cookie-Name 5: shopify_pay_redirect
+[Before] Cookie-Name 6: _hjSessionUser_1778545
+[Before] Cookie-Name 7: _shopify_sa_p
+[Before] Cookie-Name 8: _fbp
+[Before] Cookie-Name 9: _gat
+[Before] Cookie-Name 10: _gid
+[Before] Cookie-Name 11: _ga
+[Before] Cookie-Name 12: _hjSession_1778545
+[Before] Cookie-Name 13: _gcl_au
+[Before] Cookie-Name 14: localization
+[Before] Cookie-Name 15: _shopify_s
+[Before] Cookie-Name 16: _shopify_y
+[Before] Cookie-Name 17: fsb_previous_pathname
+[Before] Cookie-Name 18: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 19: _shopify_sa_t
+[Before] Cookie-Name 20: _gat_UA-115981425-1
+[Before] Cookie-Name 21: _landing_page
+[Before] Cookie-Name 22: cart_currency
+[Before] Cookie-Name 23: _s
+[Before] Cookie-Name 24: _orig_referrer
+[Before] Cookie-Name 25: _y
+[Before] Cookie-Name 26: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 26
+[After] Website-Cookies: [{'domain': 'teak24.de', 'expiry': 1802189976, 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'secure': True, 'value': '3a771ed7-5d41-47b8-93ed-3628456ff493'}, {'domain': 'teak24.de', 'expiry': 1644511776, 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'secure': True, 'value': '01e5876a-b675-432e-a4fc-fc7293ac1062'}, {'domain': 'teak24.de', 'expiry': 1644510095, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.teak24.de', 'expiry': 1644511775, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'teak24.de', 'expiry': 1644513575, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.teak24.de', 'expiry': 1676045975, 'httpOnly': False, 'name': '_hjSessionUser_1778545', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjEzMjNiNDRlLTY3NmUtNTEwYS1iY2QyLTMyMzZkNjExZWI0NyIsImNyZWF0ZWQiOjE2NDQ1MDk5NzU2NDIsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.teak24.de', 'expiry': 1644511774, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.teak24.de', 'expiry': 1652285991, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644509975226.1994923798'}, {'domain': '.teak24.de', 'expiry': 1644510034, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.teak24.de', 'expiry': 1644596376, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.241446587.1644509975'}, {'domain': '.teak24.de', 'expiry': 1707581976, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.65624765.1644509975'}, {'domain': '.teak24.de', 'expiry': 1644511775, 'httpOnly': False, 'name': '_hjSession_1778545', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImMyYjYyYjZjLWRlNDctNDVmNy1iZmQ3LWMzNGY2OWY5NDMyNiIsImNyZWF0ZWQiOjE2NDQ1MDk5NzU2OTIsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': '.teak24.de', 'expiry': 1652285974, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.481933546.1644509975'}, {'domain': 'teak24.de', 'expiry': 1645719585, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.teak24.de', 'expiry': 1644511785, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3480087c-c198-4dc8-a065-e3e6f6417241'}, {'domain': '.teak24.de', 'expiry': 1676045985, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd06de4f8-d0ab-47a0-9026-abcefe33e3d1'}, {'domain': 'teak24.de', 'httpOnly': False, 'name': 'fsb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.teak24.de', 'expiry': 1644511775, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.teak24.de', 'expiry': 1644511774, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T16%3A19%3A34.806Z'}, {'domain': '.teak24.de', 'expiry': 1644510036, 'httpOnly': False, 'name': '_gat_UA-115981425-1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.teak24.de', 'expiry': 1645719574, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'teak24.de', 'expiry': 1645719585, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.teak24.de', 'expiry': 1644511785, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3480087c-c198-4dc8-a065-e3e6f6417241'}, {'domain': '.teak24.de', 'expiry': 1645719574, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.teak24.de', 'expiry': 1676045985, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd06de4f8-d0ab-47a0-9026-abcefe33e3d1'}, {'domain': 'teak24.de', 'expiry': 1676045985, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _shg_user_id
+[After] Cookie-Name 2: _shg_session_id
+[After] Cookie-Name 3: _hjIncludedInPageviewSample
+[After] Cookie-Name 4: _hjFirstSeen
+[After] Cookie-Name 5: shopify_pay_redirect
+[After] Cookie-Name 6: _hjSessionUser_1778545
+[After] Cookie-Name 7: _shopify_sa_p
+[After] Cookie-Name 8: _fbp
+[After] Cookie-Name 9: _gat
+[After] Cookie-Name 10: _gid
+[After] Cookie-Name 11: _ga
+[After] Cookie-Name 12: _hjSession_1778545
+[After] Cookie-Name 13: _gcl_au
+[After] Cookie-Name 14: localization
+[After] Cookie-Name 15: _shopify_s
+[After] Cookie-Name 16: _shopify_y
+[After] Cookie-Name 17: fsb_previous_pathname
+[After] Cookie-Name 18: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 19: _shopify_sa_t
+[After] Cookie-Name 20: _gat_UA-115981425-1
+[After] Cookie-Name 21: _landing_page
+[After] Cookie-Name 22: cart_currency
+[After] Cookie-Name 23: _s
+[After] Cookie-Name 24: _orig_referrer
+[After] Cookie-Name 25: _y
+[After] Cookie-Name 26: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _hjIncludedInPageviewSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

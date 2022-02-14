@@ -1,0 +1,88 @@
+Website 324: http://www.venenengel.de/ | Created: 08.02.2022 23:17:51 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 27
+[Before] Website-Cookies: [{'domain': '.venenengel.de', 'expiry': 1690492663, 'httpOnly': False, 'name': 'ku1-vid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': '15631649-97c4-21b8-9e78-32584f2e23e3'}, {'domain': '.venenengel.de', 'httpOnly': False, 'name': '_g1598951024', 'path': '/', 'secure': False, 'value': 'RVVS'}, {'domain': 'venenengel.de', 'expiry': 1645568260, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644358661'}, {'domain': 'venenengel.de', 'expiry': 1645568260, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3e616cf0c33f277305a7484b85772606'}, {'domain': '.venenengel.de', 'expiry': 1644360461, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T22%3A17%3A41.428Z'}, {'domain': '.venenengel.de', 'expiry': 1652134661, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1215015905.1644358662'}, {'domain': '.venenengel.de', 'expiry': 1644360461, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'venenengel.de', 'expiry': 1644362261, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.venenengel.de', 'httpOnly': False, 'name': 'ku1-sid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': 'c5O3kwsrIVMAt8m21hfhM'}, {'domain': 'venenengel.de', 'expiry': 1645568260, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A2'}, {'domain': '.venenengel.de', 'expiry': 1644358721, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'venenengel.de', 'httpOnly': False, 'name': 'qab_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.venenengel.de', 'expiry': 1644360462, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd669da41-2c70-413c-8e88-58977b76bd87'}, {'domain': '.venenengel.de', 'expiry': 1644360462, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd669da41-2c70-413c-8e88-58977b76bd87'}, {'domain': 'venenengel.de', 'httpOnly': False, 'name': 'locale_bar_accepted', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.venenengel.de', 'expiry': 1675894662, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '60032ba9-7703-48ec-8a53-dd7984ea2b0a'}, {'domain': '.venenengel.de', 'expiry': 1675894662, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '60032ba9-7703-48ec-8a53-dd7984ea2b0a'}, {'domain': 'venenengel.de', 'httpOnly': False, 'name': 'testCookie', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.venenengel.de', 'expiry': 1645568261, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.venenengel.de', 'expiry': 1652134662, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644358661766.64080269'}, {'domain': '.venenengel.de', 'expiry': 1644445061, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1538141837.1644358661'}, {'domain': 'venenengel.de', 'expiry': 1645568261, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.venenengel.de', 'expiry': 1707430661, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.2073596405.1644358661'}, {'domain': 'venenengel.de', 'expiry': 1645568261, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.venenengel.de', 'expiry': 1645568261, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'venenengel.de', 'expiry': 1645568260, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6a86158f0169f8264cfc30fe24e39b14'}, {'domain': 'venenengel.de', 'expiry': 1675894661, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: ku1-vid
+[Before] Cookie-Name 2: _g1598951024
+[Before] Cookie-Name 3: cart_ts
+[Before] Cookie-Name 4: cart
+[Before] Cookie-Name 5: _shopify_sa_t
+[Before] Cookie-Name 6: _gcl_au
+[Before] Cookie-Name 7: _shopify_sa_p
+[Before] Cookie-Name 8: shopify_pay_redirect
+[Before] Cookie-Name 9: ku1-sid
+[Before] Cookie-Name 10: cart_ver
+[Before] Cookie-Name 11: _gat
+[Before] Cookie-Name 12: qab_previous_pathname
+[Before] Cookie-Name 13: _s
+[Before] Cookie-Name 14: _shopify_s
+[Before] Cookie-Name 15: locale_bar_accepted
+[Before] Cookie-Name 16: _shopify_y
+[Before] Cookie-Name 17: _y
+[Before] Cookie-Name 18: testCookie
+[Before] Cookie-Name 19: _orig_referrer
+[Before] Cookie-Name 20: _fbp
+[Before] Cookie-Name 21: _gid
+[Before] Cookie-Name 22: cart_currency
+[Before] Cookie-Name 23: _ga
+[Before] Cookie-Name 24: localization
+[Before] Cookie-Name 25: _landing_page
+[Before] Cookie-Name 26: cart_sig
+[Before] Cookie-Name 27: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 28
+[After] Website-Cookies: [{'domain': 'venenengel.de', 'expiry': 1646950676, 'httpOnly': False, 'name': 'cookie_notice', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.venenengel.de', 'expiry': 1690492663, 'httpOnly': False, 'name': 'ku1-vid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': '15631649-97c4-21b8-9e78-32584f2e23e3'}, {'domain': '.venenengel.de', 'httpOnly': False, 'name': '_g1598951024', 'path': '/', 'secure': False, 'value': 'RVVS'}, {'domain': 'venenengel.de', 'expiry': 1645568260, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644358661'}, {'domain': 'venenengel.de', 'expiry': 1645568260, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3e616cf0c33f277305a7484b85772606'}, {'domain': '.venenengel.de', 'expiry': 1644360461, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T22%3A17%3A41.428Z'}, {'domain': '.venenengel.de', 'expiry': 1652134661, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1215015905.1644358662'}, {'domain': '.venenengel.de', 'expiry': 1644360461, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'venenengel.de', 'expiry': 1644362261, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.venenengel.de', 'httpOnly': False, 'name': 'ku1-sid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': 'c5O3kwsrIVMAt8m21hfhM'}, {'domain': 'venenengel.de', 'expiry': 1645568260, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A2'}, {'domain': '.venenengel.de', 'expiry': 1644358721, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'venenengel.de', 'httpOnly': False, 'name': 'qab_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.venenengel.de', 'expiry': 1644360462, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd669da41-2c70-413c-8e88-58977b76bd87'}, {'domain': '.venenengel.de', 'expiry': 1644360462, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd669da41-2c70-413c-8e88-58977b76bd87'}, {'domain': 'venenengel.de', 'httpOnly': False, 'name': 'locale_bar_accepted', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.venenengel.de', 'expiry': 1675894662, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '60032ba9-7703-48ec-8a53-dd7984ea2b0a'}, {'domain': '.venenengel.de', 'expiry': 1675894662, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '60032ba9-7703-48ec-8a53-dd7984ea2b0a'}, {'domain': 'venenengel.de', 'httpOnly': False, 'name': 'testCookie', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.venenengel.de', 'expiry': 1645568261, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.venenengel.de', 'expiry': 1652134662, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644358661766.64080269'}, {'domain': '.venenengel.de', 'expiry': 1644445061, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1538141837.1644358661'}, {'domain': 'venenengel.de', 'expiry': 1645568261, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.venenengel.de', 'expiry': 1707430661, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.2073596405.1644358661'}, {'domain': 'venenengel.de', 'expiry': 1645568261, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.venenengel.de', 'expiry': 1645568261, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'venenengel.de', 'expiry': 1645568260, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6a86158f0169f8264cfc30fe24e39b14'}, {'domain': 'venenengel.de', 'expiry': 1675894661, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: cookie_notice
+[After] Cookie-Name 2: ku1-vid
+[After] Cookie-Name 3: _g1598951024
+[After] Cookie-Name 4: cart_ts
+[After] Cookie-Name 5: cart
+[After] Cookie-Name 6: _shopify_sa_t
+[After] Cookie-Name 7: _gcl_au
+[After] Cookie-Name 8: _shopify_sa_p
+[After] Cookie-Name 9: shopify_pay_redirect
+[After] Cookie-Name 10: ku1-sid
+[After] Cookie-Name 11: cart_ver
+[After] Cookie-Name 12: _gat
+[After] Cookie-Name 13: qab_previous_pathname
+[After] Cookie-Name 14: _s
+[After] Cookie-Name 15: _shopify_s
+[After] Cookie-Name 16: locale_bar_accepted
+[After] Cookie-Name 17: _shopify_y
+[After] Cookie-Name 18: _y
+[After] Cookie-Name 19: testCookie
+[After] Cookie-Name 20: _orig_referrer
+[After] Cookie-Name 21: _fbp
+[After] Cookie-Name 22: _gid
+[After] Cookie-Name 23: cart_currency
+[After] Cookie-Name 24: _ga
+[After] Cookie-Name 25: localization
+[After] Cookie-Name 26: _landing_page
+[After] Cookie-Name 27: cart_sig
+[After] Cookie-Name 28: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: cookie_notice
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

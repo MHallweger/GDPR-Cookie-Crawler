@@ -1,0 +1,88 @@
+Website 380: http://www.skinlabo.de/ | Created: 08.02.2022 23:35:19 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 22
+[Before] Website-Cookies: [{'domain': 'skinlabo.de', 'expiry': 1675895710, 'httpOnly': False, 'name': 'po_visitor', 'path': '/', 'secure': False, 'value': 'WqvXqzhezK65'}, {'domain': 'skinlabo.de', 'httpOnly': False, 'name': 'change_state', 'path': '/', 'secure': False, 'value': 'changed'}, {'domain': '.skinlabo.de', 'expiry': 1678546402, 'httpOnly': False, 'name': '_scid', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '958a959a-1fd7-45c6-a1a9-e0b7eec5f416'}, {'domain': '.skinlabo.de', 'expiry': 1644446104, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.973697175.1644359705'}, {'domain': '.skinlabo.de', 'expiry': 1707431704, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.385372822.1644359705'}, {'domain': '.skinlabo.de', 'expiry': 1659911712, 'httpOnly': False, 'name': 'messagesUtk', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '8983a7fb8aa5485b84ee8232bbf4afb0'}, {'domain': '.skinlabo.de', 'expiry': 1652135705, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644359705124.366742004'}, {'domain': '.skinlabo.de', 'expiry': 1644361504, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.skinlabo.de', 'expiry': 1644361504, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T22%3A35%3A04.686Z'}, {'domain': 'skinlabo.de', 'expiry': 1645569316, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'skinlabo.de', 'expiry': 1644361503, 'httpOnly': False, 'name': '_shopify_country', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'Germany'}, {'domain': '.skinlabo.de', 'expiry': 1690493711, 'httpOnly': False, 'name': 'ku1-vid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': 'bb3865e3-6ace-8a67-52fd-9e3cab6714a5'}, {'domain': '.skinlabo.de', 'expiry': 1644361516, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6375e4e0-af7b-4527-9270-01bbf8d7d2d6'}, {'domain': '.skinlabo.de', 'expiry': 1644361516, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6375e4e0-af7b-4527-9270-01bbf8d7d2d6'}, {'domain': '.skinlabo.de', 'expiry': 1675895716, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '00f4c247-7dd2-4e3e-8c02-d2b4fb26710e'}, {'domain': '.skinlabo.de', 'httpOnly': False, 'name': 'ku1-sid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': '-xou9KUL_Gq3m4mCpDBF3'}, {'domain': '.skinlabo.de', 'expiry': 1644359764, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.skinlabo.de', 'expiry': 1645569303, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.skinlabo.de', 'expiry': 1645569303, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'skinlabo.de', 'expiry': 1645569314, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.skinlabo.de', 'expiry': 1675895716, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '00f4c247-7dd2-4e3e-8c02-d2b4fb26710e'}, {'domain': 'skinlabo.de', 'expiry': 1675895716, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: po_visitor
+[Before] Cookie-Name 2: change_state
+[Before] Cookie-Name 3: _scid
+[Before] Cookie-Name 4: _gid
+[Before] Cookie-Name 5: _ga
+[Before] Cookie-Name 6: messagesUtk
+[Before] Cookie-Name 7: _fbp
+[Before] Cookie-Name 8: _shopify_sa_p
+[Before] Cookie-Name 9: _shopify_sa_t
+[Before] Cookie-Name 10: localization
+[Before] Cookie-Name 11: _shopify_country
+[Before] Cookie-Name 12: ku1-vid
+[Before] Cookie-Name 13: _shopify_s
+[Before] Cookie-Name 14: _s
+[Before] Cookie-Name 15: _y
+[Before] Cookie-Name 16: ku1-sid
+[Before] Cookie-Name 17: _gat
+[Before] Cookie-Name 18: _landing_page
+[Before] Cookie-Name 19: _orig_referrer
+[Before] Cookie-Name 20: cart_currency
+[Before] Cookie-Name 21: _shopify_y
+[Before] Cookie-Name 22: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 29
+[After] Website-Cookies: [{'domain': '.skinlabo.de', 'expiry': 1652135725, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1665433807.1644359726'}, {'domain': '.skinlabo.de', 'expiry': 1644964525, 'httpOnly': False, 'name': '__hs_initial_opt_in', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'true'}, {'domain': '.skinlabo.de', 'expiry': 1678055725, 'httpOnly': False, 'name': 'hubspotutk', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2218b696d24767e6c62d1b3ef140dcc7'}, {'domain': 'skinlabo.de', 'expiry': 1675895710, 'httpOnly': False, 'name': 'po_visitor', 'path': '/', 'secure': False, 'value': 'WqvXqzhezK65'}, {'domain': 'skinlabo.de', 'httpOnly': False, 'name': 'change_state', 'path': '/', 'secure': False, 'value': 'changed'}, {'domain': '.skinlabo.de', 'expiry': 1678546402, 'httpOnly': False, 'name': '_scid', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '958a959a-1fd7-45c6-a1a9-e0b7eec5f416'}, {'domain': '.skinlabo.de', 'expiry': 1644446104, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.973697175.1644359705'}, {'domain': '.skinlabo.de', 'expiry': 1707431704, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.385372822.1644359705'}, {'domain': '.skinlabo.de', 'expiry': 1690493711, 'httpOnly': False, 'name': 'ku1-vid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': 'bb3865e3-6ace-8a67-52fd-9e3cab6714a5'}, {'domain': '.skinlabo.de', 'expiry': 1659911712, 'httpOnly': False, 'name': 'messagesUtk', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '8983a7fb8aa5485b84ee8232bbf4afb0'}, {'domain': '.skinlabo.de', 'expiry': 1652135725, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644359705124.366742004'}, {'domain': '.skinlabo.de', 'expiry': 1644361504, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.skinlabo.de', 'expiry': 1644361504, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T22%3A35%3A04.686Z'}, {'domain': 'skinlabo.de', 'expiry': 1645569316, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'skinlabo.de', 'expiry': 1645569314, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.skinlabo.de', 'expiry': 1675895716, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '00f4c247-7dd2-4e3e-8c02-d2b4fb26710e'}, {'domain': 'skinlabo.de', 'expiry': 1644361503, 'httpOnly': False, 'name': '_shopify_country', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'Germany'}, {'domain': '.skinlabo.de', 'expiry': 1644361516, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6375e4e0-af7b-4527-9270-01bbf8d7d2d6'}, {'domain': '.skinlabo.de', 'httpOnly': False, 'name': '__hssrc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.skinlabo.de', 'expiry': 1644361516, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6375e4e0-af7b-4527-9270-01bbf8d7d2d6'}, {'domain': '.skinlabo.de', 'httpOnly': False, 'name': 'ku1-sid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': '-xou9KUL_Gq3m4mCpDBF3'}, {'domain': '.skinlabo.de', 'expiry': 1644361525, 'httpOnly': False, 'name': '__hssc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '188025079.1.1644359711263'}, {'domain': '.skinlabo.de', 'expiry': 1678055725, 'httpOnly': False, 'name': '__hstc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '188025079.2218b696d24767e6c62d1b3ef140dcc7.1644359711263.1644359711263.1644359711263.1'}, {'domain': '.skinlabo.de', 'expiry': 1644359764, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.skinlabo.de', 'expiry': 1645569303, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.skinlabo.de', 'expiry': 1678055725, 'httpOnly': False, 'name': '__hs_opt_out', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'no'}, {'domain': '.skinlabo.de', 'expiry': 1645569303, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.skinlabo.de', 'expiry': 1675895716, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '00f4c247-7dd2-4e3e-8c02-d2b4fb26710e'}, {'domain': 'skinlabo.de', 'expiry': 1675895716, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _gcl_au
+[After] Cookie-Name 2: __hs_initial_opt_in
+[After] Cookie-Name 3: hubspotutk
+[After] Cookie-Name 4: po_visitor
+[After] Cookie-Name 5: change_state
+[After] Cookie-Name 6: _scid
+[After] Cookie-Name 7: _gid
+[After] Cookie-Name 8: _ga
+[After] Cookie-Name 9: ku1-vid
+[After] Cookie-Name 10: messagesUtk
+[After] Cookie-Name 11: _fbp
+[After] Cookie-Name 12: _shopify_sa_p
+[After] Cookie-Name 13: _shopify_sa_t
+[After] Cookie-Name 14: localization
+[After] Cookie-Name 15: cart_currency
+[After] Cookie-Name 16: _y
+[After] Cookie-Name 17: _shopify_country
+[After] Cookie-Name 18: _shopify_s
+[After] Cookie-Name 19: __hssrc
+[After] Cookie-Name 20: _s
+[After] Cookie-Name 21: ku1-sid
+[After] Cookie-Name 22: __hssc
+[After] Cookie-Name 23: __hstc
+[After] Cookie-Name 24: _gat
+[After] Cookie-Name 25: _landing_page
+[After] Cookie-Name 26: __hs_opt_out
+[After] Cookie-Name 27: _orig_referrer
+[After] Cookie-Name 28: _shopify_y
+[After] Cookie-Name 29: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gat (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 7
+[Difference] Cookie-Name: 1: __hstc
+[Difference] Cookie-Name: 2: __hssc
+[Difference] Cookie-Name: 3: __hssrc
+[Difference] Cookie-Name: 4: __hs_opt_out
+[Difference] Cookie-Name: 5: __hs_initial_opt_in
+[Difference] Cookie-Name: 6: _gcl_au
+[Difference] Cookie-Name: 7: hubspotutk
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

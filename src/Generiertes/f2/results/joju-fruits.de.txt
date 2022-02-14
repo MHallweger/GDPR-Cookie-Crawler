@@ -1,0 +1,59 @@
+Website 281: http://www.joju-fruits.de/ | Created: 09.02.2022 12:10:28 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 13
+[Before] Website-Cookies: [{'domain': '.joju-fruits.de', 'expiry': 1644405077, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.joju-fruits.de', 'expiry': 1644491417, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1239081617.1644405018'}, {'domain': '.joju-fruits.de', 'expiry': 1644406817, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.joju-fruits.de', 'expiry': 1652181018, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644405017948.340389163'}, {'domain': '.joju-fruits.de', 'expiry': 1644406817, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T11%3A10%3A17.717Z'}, {'domain': '.joju-fruits.de', 'expiry': 1707477017, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1628069836.1644405018'}, {'domain': '.joju-fruits.de', 'expiry': 1644406817, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f1a10ff9-69f0-471b-9115-ff0e49090eca'}, {'domain': '.joju-fruits.de', 'expiry': 1675941017, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8c3dfd5d-faba-4fdd-86a1-a8c3cae33e1d'}, {'domain': '.joju-fruits.de', 'expiry': 1644406817, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f1a10ff9-69f0-471b-9115-ff0e49090eca'}, {'domain': '.joju-fruits.de', 'expiry': 1675941017, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8c3dfd5d-faba-4fdd-86a1-a8c3cae33e1d'}, {'domain': '.joju-fruits.de', 'expiry': 1645614617, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.joju-fruits.de', 'expiry': 1645614617, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.joju-fruits.de', 'expiry': 1675941017, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _gat
+[Before] Cookie-Name 2: _gid
+[Before] Cookie-Name 3: _shopify_sa_p
+[Before] Cookie-Name 4: _fbp
+[Before] Cookie-Name 5: _shopify_sa_t
+[Before] Cookie-Name 6: _ga
+[Before] Cookie-Name 7: _shopify_s
+[Before] Cookie-Name 8: _shopify_y
+[Before] Cookie-Name 9: _s
+[Before] Cookie-Name 10: _y
+[Before] Cookie-Name 11: _landing_page
+[Before] Cookie-Name 12: _orig_referrer
+[Before] Cookie-Name 13: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 14
+[After] Website-Cookies: [{'domain': '.joju-fruits.de', 'expiry': 1644405077, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.www.joju-fruits.de', 'expiry': 1675941034, 'httpOnly': False, 'name': 'europeancookielaw', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': '.joju-fruits.de', 'expiry': 1644491417, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1239081617.1644405018'}, {'domain': '.joju-fruits.de', 'expiry': 1644406817, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.joju-fruits.de', 'expiry': 1652181034, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644405017948.340389163'}, {'domain': '.joju-fruits.de', 'expiry': 1644406817, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T11%3A10%3A17.717Z'}, {'domain': '.joju-fruits.de', 'expiry': 1707477017, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1628069836.1644405018'}, {'domain': '.joju-fruits.de', 'expiry': 1644406817, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f1a10ff9-69f0-471b-9115-ff0e49090eca'}, {'domain': '.joju-fruits.de', 'expiry': 1675941017, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8c3dfd5d-faba-4fdd-86a1-a8c3cae33e1d'}, {'domain': '.joju-fruits.de', 'expiry': 1644406817, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f1a10ff9-69f0-471b-9115-ff0e49090eca'}, {'domain': '.joju-fruits.de', 'expiry': 1675941017, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8c3dfd5d-faba-4fdd-86a1-a8c3cae33e1d'}, {'domain': '.joju-fruits.de', 'expiry': 1645614617, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.joju-fruits.de', 'expiry': 1645614617, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.joju-fruits.de', 'expiry': 1675941017, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _gat
+[After] Cookie-Name 2: europeancookielaw
+[After] Cookie-Name 3: _gid
+[After] Cookie-Name 4: _shopify_sa_p
+[After] Cookie-Name 5: _fbp
+[After] Cookie-Name 6: _shopify_sa_t
+[After] Cookie-Name 7: _ga
+[After] Cookie-Name 8: _shopify_s
+[After] Cookie-Name 9: _shopify_y
+[After] Cookie-Name 10: _s
+[After] Cookie-Name 11: _y
+[After] Cookie-Name 12: _landing_page
+[After] Cookie-Name 13: _orig_referrer
+[After] Cookie-Name 14: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: europeancookielaw
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

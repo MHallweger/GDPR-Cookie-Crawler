@@ -1,0 +1,77 @@
+Website 25: http://www.corset-story.de/ | Created: 10.02.2022 20:06:00 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 20
+[Before] Website-Cookies: [{'domain': '.corset-story.de', 'expiry': 1644606342, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': 'pimbpm|1644519942787|1|1|h.clarity.ms/collect'}, {'domain': '.corset-story.de', 'expiry': 1690653952, 'httpOnly': False, 'name': 'ku1-vid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': 'ed6c3447-aee2-18f1-9452-de73b5068b07'}, {'domain': '.corset-story.de', 'expiry': 1652295943, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644519942650.1339317433'}, {'domain': '.corset-story.de', 'expiry': 1707591942, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1231365840.1644519943'}, {'domain': 'corset-story.de', 'expiry': 1707591951, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ1MTk5NTIsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vY29yc2V0LXN0b3J5LmRlLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDUxOTk1MiwidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly9jb3JzZXQtc3RvcnkuZGUvIn19'}, {'domain': '.corset-story.de', 'expiry': 1678215941, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '70bfb2a08aa411ec974b69691250a9cf'}, {'domain': '.corset-story.de', 'expiry': 1644606341, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': '70bf7d508aa411eca4a46ddc2742c9e9'}, {'domain': '.corset-story.de', 'expiry': 1644521742, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T19%3A05%3A42.450Z'}, {'domain': '.corset-story.de', 'expiry': 1644521754, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e46e72ee-41e7-46cb-b532-9c5249b034e0'}, {'domain': '.corset-story.de', 'expiry': 1644520002, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.corset-story.de', 'expiry': 1644521742, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.corset-story.de', 'expiry': 1645729540, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.corset-story.de', 'expiry': 1676055954, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3d35f5b1-80f7-4ff0-9ce1-c849b4f19298'}, {'domain': '.corset-story.de', 'expiry': 1644521754, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e46e72ee-41e7-46cb-b532-9c5249b034e0'}, {'domain': '.corset-story.de', 'expiry': 1676055954, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3d35f5b1-80f7-4ff0-9ce1-c849b4f19298'}, {'domain': '.corset-story.de', 'expiry': 1645729540, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.corset-story.de', 'httpOnly': False, 'name': 'ku1-sid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': 'Y1vISjksD-7EwX2KqJvSP'}, {'domain': '.corset-story.de', 'expiry': 1676055942, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': '6g2a73|1|eyv|0'}, {'domain': '.corset-story.de', 'expiry': 1644606342, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1295537432.1644519943'}, {'domain': 'corset-story.de', 'expiry': 1676055954, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _clsk
+[Before] Cookie-Name 2: ku1-vid
+[Before] Cookie-Name 3: _fbp
+[Before] Cookie-Name 4: _ga
+[Before] Cookie-Name 5: __kla_id
+[Before] Cookie-Name 6: _uetvid
+[Before] Cookie-Name 7: _uetsid
+[Before] Cookie-Name 8: _shopify_sa_t
+[Before] Cookie-Name 9: _shopify_s
+[Before] Cookie-Name 10: _gat
+[Before] Cookie-Name 11: _shopify_sa_p
+[Before] Cookie-Name 12: _landing_page
+[Before] Cookie-Name 13: _shopify_y
+[Before] Cookie-Name 14: _s
+[Before] Cookie-Name 15: _y
+[Before] Cookie-Name 16: _orig_referrer
+[Before] Cookie-Name 17: ku1-sid
+[Before] Cookie-Name 18: _clck
+[Before] Cookie-Name 19: _gid
+[Before] Cookie-Name 20: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 20
+[After] Website-Cookies: [{'domain': '.corset-story.de', 'expiry': 1644606342, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': 'pimbpm|1644519942787|1|1|h.clarity.ms/collect'}, {'domain': '.corset-story.de', 'expiry': 1690653952, 'httpOnly': False, 'name': 'ku1-vid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': 'ed6c3447-aee2-18f1-9452-de73b5068b07'}, {'domain': '.corset-story.de', 'expiry': 1652295943, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644519942650.1339317433'}, {'domain': '.corset-story.de', 'expiry': 1707591942, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1231365840.1644519943'}, {'domain': 'corset-story.de', 'expiry': 1707591951, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ1MTk5NTIsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vY29yc2V0LXN0b3J5LmRlLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDUxOTk1MiwidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly9jb3JzZXQtc3RvcnkuZGUvIn19'}, {'domain': '.corset-story.de', 'expiry': 1678215941, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '70bfb2a08aa411ec974b69691250a9cf'}, {'domain': '.corset-story.de', 'expiry': 1644606341, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': '70bf7d508aa411eca4a46ddc2742c9e9'}, {'domain': '.corset-story.de', 'expiry': 1644521742, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T19%3A05%3A42.450Z'}, {'domain': '.corset-story.de', 'expiry': 1644521754, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e46e72ee-41e7-46cb-b532-9c5249b034e0'}, {'domain': '.corset-story.de', 'expiry': 1644520002, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.corset-story.de', 'expiry': 1644521742, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.corset-story.de', 'expiry': 1645729540, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.corset-story.de', 'expiry': 1676055954, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3d35f5b1-80f7-4ff0-9ce1-c849b4f19298'}, {'domain': '.corset-story.de', 'expiry': 1644521754, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e46e72ee-41e7-46cb-b532-9c5249b034e0'}, {'domain': '.corset-story.de', 'expiry': 1676055954, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3d35f5b1-80f7-4ff0-9ce1-c849b4f19298'}, {'domain': '.corset-story.de', 'expiry': 1645729540, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.corset-story.de', 'httpOnly': False, 'name': 'ku1-sid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': 'Y1vISjksD-7EwX2KqJvSP'}, {'domain': '.corset-story.de', 'expiry': 1676055942, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': '6g2a73|1|eyv|0'}, {'domain': '.corset-story.de', 'expiry': 1644606342, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1295537432.1644519943'}, {'domain': 'corset-story.de', 'expiry': 1676055954, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _clsk
+[After] Cookie-Name 2: ku1-vid
+[After] Cookie-Name 3: _fbp
+[After] Cookie-Name 4: _ga
+[After] Cookie-Name 5: __kla_id
+[After] Cookie-Name 6: _uetvid
+[After] Cookie-Name 7: _uetsid
+[After] Cookie-Name 8: _shopify_sa_t
+[After] Cookie-Name 9: _shopify_s
+[After] Cookie-Name 10: _gat
+[After] Cookie-Name 11: _shopify_sa_p
+[After] Cookie-Name 12: _landing_page
+[After] Cookie-Name 13: _shopify_y
+[After] Cookie-Name 14: _s
+[After] Cookie-Name 15: _y
+[After] Cookie-Name 16: _orig_referrer
+[After] Cookie-Name 17: ku1-sid
+[After] Cookie-Name 18: _clck
+[After] Cookie-Name 19: _gid
+[After] Cookie-Name 20: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _clsk (Microsoft Clarity (User experience tool))
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _clck (Microsoft Clarity (User experience tool))
+[Used before] Cookie-Name: _gid (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

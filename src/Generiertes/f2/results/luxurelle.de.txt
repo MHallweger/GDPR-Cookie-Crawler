@@ -1,0 +1,63 @@
+Website 287: http://www.luxurelle.de/ | Created: 09.02.2022 12:12:24 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 4
+[Before] Website-Cookies: [{'domain': '.luxurelle.de', 'expiry': 1645614731, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'luxurelle.de', 'expiry': 1645614731, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.luxurelle.de', 'expiry': 1645614731, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'luxurelle.de', 'expiry': 1675941131, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _orig_referrer
+[Before] Cookie-Name 2: cart_currency
+[Before] Cookie-Name 3: _landing_page
+[Before] Cookie-Name 4: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 20
+[After] Website-Cookies: [{'domain': '.luxurelle.de', 'expiry': 1675941151, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7b2f8c9e-3dfe-415f-957c-b1a91d3dd762'}, {'domain': '.luxurelle.de', 'expiry': 1644406951, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c452edd7-c354-425f-8fbb-9c2ddd391d24'}, {'domain': '.luxurelle.de', 'expiry': 1644491550, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1946333452.1644405151'}, {'domain': '.luxurelle.de', 'expiry': 1707477150, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.139409386.1644405151'}, {'domain': 'luxurelle.de', 'expiry': 1646997150, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0NDA1MTUwNjMyLCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjowfX0='}, {'domain': 'luxurelle.de', 'expiry': 1675941151, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'luxurelle.de', 'expiry': 1645614751, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.luxurelle.de', 'expiry': 1644406951, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c452edd7-c354-425f-8fbb-9c2ddd391d24'}, {'domain': 'luxurelle.de', 'expiry': 1644406950, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c452edd7-c354-425f-8fbb-9c2ddd391d24'}, {'domain': 'luxurelle.de', 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'pending'}, {'domain': '.luxurelle.de', 'expiry': 1644405210, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'luxurelle.de', 'expiry': 1644406950, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T11%3A12%3A12.384Z'}, {'domain': 'luxurelle.de', 'expiry': 1675941150, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7b2f8c9e-3dfe-415f-957c-b1a91d3dd762'}, {'domain': 'luxurelle.de', 'expiry': 1675941150, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7b2f8c9e-3dfe-415f-957c-b1a91d3dd762'}, {'domain': '.luxurelle.de', 'expiry': 1652181151, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644405150879.1571918699'}, {'domain': 'luxurelle.de', 'expiry': 1644406950, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c452edd7-c354-425f-8fbb-9c2ddd391d24'}, {'domain': '.luxurelle.de', 'expiry': 1675941151, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7b2f8c9e-3dfe-415f-957c-b1a91d3dd762'}, {'domain': '.luxurelle.de', 'expiry': 1645614731, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'luxurelle.de', 'expiry': 1645614751, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.luxurelle.de', 'expiry': 1645614731, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}]
+[After] Cookie-Name 1: _shopify_y
+[After] Cookie-Name 2: _s
+[After] Cookie-Name 3: _gid
+[After] Cookie-Name 4: _ga
+[After] Cookie-Name 5: _bc_c_set
+[After] Cookie-Name 6: secure_customer_sig
+[After] Cookie-Name 7: localization
+[After] Cookie-Name 8: _shopify_s
+[After] Cookie-Name 9: _shopify_s
+[After] Cookie-Name 10: shopify_pay_redirect
+[After] Cookie-Name 11: _gat
+[After] Cookie-Name 12: _shopify_sa_t
+[After] Cookie-Name 13: _y
+[After] Cookie-Name 14: _shopify_y
+[After] Cookie-Name 15: _fbp
+[After] Cookie-Name 16: _s
+[After] Cookie-Name 17: _y
+[After] Cookie-Name 18: _orig_referrer
+[After] Cookie-Name 19: cart_currency
+[After] Cookie-Name 20: _landing_page
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 12
+[Difference] Cookie-Name: 1: localization
+[Difference] Cookie-Name: 2: _shopify_y
+[Difference] Cookie-Name: 3: _ga
+[Difference] Cookie-Name: 4: _shopify_s
+[Difference] Cookie-Name: 5: _shopify_sa_t
+[Difference] Cookie-Name: 6: _fbp
+[Difference] Cookie-Name: 7: _bc_c_set
+[Difference] Cookie-Name: 8: _gat
+[Difference] Cookie-Name: 9: shopify_pay_redirect
+[Difference] Cookie-Name: 10: _s
+[Difference] Cookie-Name: 11: _gid
+[Difference] Cookie-Name: 12: _y
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

@@ -1,0 +1,74 @@
+Website 218: http://www.wirliebentrends.de/ | Created: 10.02.2022 13:17:10 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 19
+[Before] Website-Cookies: [{'domain': '.wirliebentrends.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.wirliebentrends.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.wirliebentrends.de', 'expiry': 1645705021, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.wirliebentrends.de', 'expiry': 1644499022, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.wirliebentrends.de', 'expiry': 1676031421, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.wirliebentrends.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '98e3bdc4-ac9f-4d09-a7b2-f839274e7c89'}, {'domain': '.wirliebentrends.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '751dbe86-ac9f-46b1-8e6b-7c2901b8dc98'}, {'domain': '.wirliebentrends.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T12%3A17%3A01.935Z'}, {'domain': '.wirliebentrends.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '98e3bdc4-ac9f-4d09-a7b2-f839274e7c89'}, {'domain': 'www.wirliebentrends.de', 'expiry': 1645705022, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.wirliebentrends.de', 'expiry': 1644497222, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.wirliebentrends.de', 'expiry': 1676031421, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22v%22%3A%222.0%22%7D'}, {'domain': '.wirliebentrends.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.wirliebentrends.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T12%3A17%3A01.924Z'}, {'domain': 'www.wirliebentrends.de', 'expiry': 1645705022, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.wirliebentrends.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.wirliebentrends.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '751dbe86-ac9f-46b1-8e6b-7c2901b8dc98'}, {'domain': 'www.wirliebentrends.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.wirliebentrends.de', 'expiry': 1676031422, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _shopify_sa_p
+[Before] Cookie-Name 2: _shopify_evids
+[Before] Cookie-Name 3: _shopify_tw
+[Before] Cookie-Name 4: shopify_pay_redirect
+[Before] Cookie-Name 5: _shopify_m
+[Before] Cookie-Name 6: _shopify_y
+[Before] Cookie-Name 7: _s
+[Before] Cookie-Name 8: _shopify_sa_t
+[Before] Cookie-Name 9: _y
+[Before] Cookie-Name 10: cart_currency
+[Before] Cookie-Name 11: _shopify_tm
+[Before] Cookie-Name 12: _tracking_consent
+[Before] Cookie-Name 13: _landing_page
+[Before] Cookie-Name 14: _shopify_d
+[Before] Cookie-Name 15: localization
+[Before] Cookie-Name 16: _orig_referrer
+[Before] Cookie-Name 17: _shopify_s
+[Before] Cookie-Name 18: _shopify_evids
+[Before] Cookie-Name 19: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 24
+[After] Website-Cookies: [{'domain': '.wirliebentrends.de', 'expiry': 1652271437, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644495436764.1912295191'}, {'domain': 'www.wirliebentrends.de', 'expiry': 1645705036, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.wirliebentrends.de', 'expiry': 1645705036, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd83b1a16858a465972e93363a7c0b9b2'}, {'domain': '.wirliebentrends.de', 'expiry': 1644497236, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.wirliebentrends.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.wirliebentrends.de', 'expiry': 1676031436, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': 'www.wirliebentrends.de', 'expiry': 1644499022, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.wirliebentrends.de', 'expiry': 1676031436, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '98e3bdc4-ac9f-4d09-a7b2-f839274e7c89'}, {'domain': '.wirliebentrends.de', 'expiry': 1644497236, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '751dbe86-ac9f-46b1-8e6b-7c2901b8dc98'}, {'domain': 'www.wirliebentrends.de', 'expiry': 1645705036, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': '.wirliebentrends.de', 'expiry': 1644497236, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T12%3A17%3A01.935Z'}, {'domain': '.wirliebentrends.de', 'expiry': 1676031436, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '98e3bdc4-ac9f-4d09-a7b2-f839274e7c89'}, {'domain': '.wirliebentrends.de', 'expiry': 1645705021, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.wirliebentrends.de', 'expiry': 1644497236, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.wirliebentrends.de', 'expiry': 1676031436, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22con%22%3A%7B%22GDPR%22%3A%221%22%7D%2C%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': 'www.wirliebentrends.de', 'expiry': 1645705036, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4dc45a8a1993d2a3d37fa69e7b101029'}, {'domain': '.wirliebentrends.de', 'expiry': 1645705036, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.wirliebentrends.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T12%3A17%3A01.924Z'}, {'domain': 'www.wirliebentrends.de', 'expiry': 1645705036, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'www.wirliebentrends.de', 'expiry': 1645705036, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644495435'}, {'domain': '.wirliebentrends.de', 'expiry': 1645705036, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.wirliebentrends.de', 'expiry': 1644497236, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '751dbe86-ac9f-46b1-8e6b-7c2901b8dc98'}, {'domain': 'www.wirliebentrends.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.wirliebentrends.de', 'expiry': 1676031436, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _fbp
+[After] Cookie-Name 2: cart_currency
+[After] Cookie-Name 3: cart
+[After] Cookie-Name 4: _shopify_sa_p
+[After] Cookie-Name 5: _shopify_evids
+[After] Cookie-Name 6: _shopify_m
+[After] Cookie-Name 7: shopify_pay_redirect
+[After] Cookie-Name 8: _shopify_y
+[After] Cookie-Name 9: _s
+[After] Cookie-Name 10: cart_ver
+[After] Cookie-Name 11: _shopify_sa_t
+[After] Cookie-Name 12: _y
+[After] Cookie-Name 13: _shopify_tw
+[After] Cookie-Name 14: _shopify_tm
+[After] Cookie-Name 15: _tracking_consent
+[After] Cookie-Name 16: cart_sig
+[After] Cookie-Name 17: _landing_page
+[After] Cookie-Name 18: _shopify_d
+[After] Cookie-Name 19: localization
+[After] Cookie-Name 20: cart_ts
+[After] Cookie-Name 21: _orig_referrer
+[After] Cookie-Name 22: _shopify_s
+[After] Cookie-Name 23: _shopify_evids
+[After] Cookie-Name 24: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 5
+[Difference] Cookie-Name: 1: cart
+[Difference] Cookie-Name: 2: cart_ts
+[Difference] Cookie-Name: 3: cart_ver
+[Difference] Cookie-Name: 4: cart_sig
+[Difference] Cookie-Name: 5: _fbp
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is NOT GDPR compliant!

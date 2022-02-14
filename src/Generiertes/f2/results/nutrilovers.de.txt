@@ -1,0 +1,100 @@
+Website 18: http://www.nutrilovers.de/ | Created: 09.02.2022 10:51:03 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 33
+[Before] Website-Cookies: [{'domain': '.nutrilovers.de', 'expiry': 1678096253, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': 'c4512e60898d11ecb11633e077e00f15'}, {'domain': '.nutrilovers.de', 'expiry': 1644486653, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': 'c450c3c0898d11ecb65921d78b3288dc'}, {'domain': 'www.nutrilovers.de', 'expiry': 1675936253, 'httpOnly': False, 'name': 'po_visitor', 'path': '/', 'secure': False, 'value': 'xTEB2Z_OBtHF'}, {'domain': '.nutrilovers.de', 'expiry': 1644407452, 'httpOnly': False, 'name': 'fm_sid_4551595850504A4259515A51415C4C5E595C585F5D5D', 'path': '/', 'secure': False, 'value': '1644400252664z0.8035919632532353'}, {'domain': '.nutrilovers.de', 'httpOnly': False, 'name': '9089091c-431e-42ea-aaff-72f9e6482795', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1'}, {'domain': '.nutrilovers.de', 'expiry': 1675936252, 'httpOnly': False, 'name': 'zarget_user_id', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9089091c-431e-42ea-aaff-72f9e6482795'}, {'domain': '.nutrilovers.de', 'expiry': 1675936251, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU9HWTFPRFJqWTJFdE5EQTRNQzAwWW1ZeExUZzJNV1V0TmpRNVl6azJNVEV4TWpCaA'}, {'domain': '.nutrilovers.de', 'expiry': 1675936252, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': 'y1nymw|1|eyu|0'}, {'domain': 'www.nutrilovers.de', 'httpOnly': False, 'name': '9089091c-431e-42ea-aaff-72f9e6482795', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.nutrilovers.de', 'expiry': 1817200251, 'httpOnly': False, 'name': 'ri_thumb_session', 'path': '/', 'secure': False, 'value': '1644400251788'}, {'domain': '.nutrilovers.de', 'expiry': 1652176252, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644400251584.157971881'}, {'domain': '.nutrilovers.de', 'expiry': 1707472251, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.421822280.1644400251'}, {'domain': 'www.nutrilovers.de', 'expiry': 1644486651, 'httpOnly': False, 'name': 'theme_scientist', 'path': '/', 'secure': False, 'value': '2%2F9%2F2022%2C%2010%3A50%3A51%20AM'}, {'domain': '.nutrilovers.de', 'expiry': 1644400311, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.nutrilovers.de', 'expiry': 1707472251, 'httpOnly': False, 'name': '_ga_XWJ6KELSQG', 'path': '/', 'secure': False, 'value': 'GS1.1.1644400251.1.0.1644400251.60'}, {'domain': '.nutrilovers.de', 'expiry': 1644486653, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': '1la9jnk|1644400253252|1|1|j.clarity.ms/collect'}, {'domain': 'www.nutrilovers.de', 'expiry': 1644403852, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.nutrilovers.de', 'expiry': 1675936263, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd7e0373b-b68e-4c92-ad68-27b06ee44c36'}, {'domain': '.nutrilovers.de', 'expiry': 1644400311, 'httpOnly': False, 'name': '_gat_UA-90777809-1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.nutrilovers.de', 'expiry': 1644486651, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1312997328.1644400251'}, {'domain': '.nutrilovers.de', 'expiry': 1644402051, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.nutrilovers.de', 'expiry': 1652176251, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1509938956.1644400251'}, {'domain': 'www.nutrilovers.de', 'expiry': 1645609854, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.nutrilovers.de', 'expiry': 1675936263, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd7e0373b-b68e-4c92-ad68-27b06ee44c36'}, {'domain': '.nutrilovers.de', 'expiry': 1707472251, 'httpOnly': False, 'name': '_ga_9VC5XYB29F', 'path': '/', 'secure': False, 'value': 'GS1.1.1644400251.1.0.1644400251.60'}, {'domain': '.nutrilovers.de', 'expiry': 1645609849, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.nutrilovers.de', 'expiry': 1644402063, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ebae8a3b-a23a-4199-a990-08fcc353b948'}, {'domain': '.nutrilovers.de', 'expiry': 1645609849, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.www.nutrilovers.de', 'expiry': 1646992251, 'httpOnly': False, 'name': 'CURRENTIPADDRESS', 'path': '/', 'secure': False, 'value': '91.184.168.63'}, {'domain': 'www.nutrilovers.de', 'expiry': 1675936263, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.nutrilovers.de', 'expiry': 1644402051, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T09%3A50%3A51.551Z'}, {'domain': 'www.nutrilovers.de', 'expiry': 1645609863, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.nutrilovers.de', 'expiry': 1644402063, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ebae8a3b-a23a-4199-a990-08fcc353b948'}]
+[Before] Cookie-Name 1: _uetvid
+[Before] Cookie-Name 2: _uetsid
+[Before] Cookie-Name 3: po_visitor
+[Before] Cookie-Name 4: fm_sid_4551595850504A4259515A51415C4C5E595C585F5D5D
+[Before] Cookie-Name 5: 9089091c-431e-42ea-aaff-72f9e6482795
+[Before] Cookie-Name 6: zarget_user_id
+[Before] Cookie-Name 7: _pin_unauth
+[Before] Cookie-Name 8: _clck
+[Before] Cookie-Name 9: 9089091c-431e-42ea-aaff-72f9e6482795
+[Before] Cookie-Name 10: ri_thumb_session
+[Before] Cookie-Name 11: _fbp
+[Before] Cookie-Name 12: _ga
+[Before] Cookie-Name 13: theme_scientist
+[Before] Cookie-Name 14: _gat
+[Before] Cookie-Name 15: _ga_XWJ6KELSQG
+[Before] Cookie-Name 16: _clsk
+[Before] Cookie-Name 17: shopify_pay_redirect
+[Before] Cookie-Name 18: _y
+[Before] Cookie-Name 19: _gat_UA-90777809-1
+[Before] Cookie-Name 20: _gid
+[Before] Cookie-Name 21: _shopify_sa_p
+[Before] Cookie-Name 22: _gcl_au
+[Before] Cookie-Name 23: cart_currency
+[Before] Cookie-Name 24: _shopify_y
+[Before] Cookie-Name 25: _ga_9VC5XYB29F
+[Before] Cookie-Name 26: _orig_referrer
+[Before] Cookie-Name 27: _s
+[Before] Cookie-Name 28: _landing_page
+[Before] Cookie-Name 29: CURRENTIPADDRESS
+[Before] Cookie-Name 30: secure_customer_sig
+[Before] Cookie-Name 31: _shopify_sa_t
+[Before] Cookie-Name 32: localization
+[Before] Cookie-Name 33: _shopify_s
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 33
+[After] Website-Cookies: [{'domain': '.nutrilovers.de', 'expiry': 1678096253, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': 'c4512e60898d11ecb11633e077e00f15'}, {'domain': '.nutrilovers.de', 'expiry': 1644486653, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': 'c450c3c0898d11ecb65921d78b3288dc'}, {'domain': 'www.nutrilovers.de', 'expiry': 1675936253, 'httpOnly': False, 'name': 'po_visitor', 'path': '/', 'secure': False, 'value': 'xTEB2Z_OBtHF'}, {'domain': '.nutrilovers.de', 'expiry': 1644407452, 'httpOnly': False, 'name': 'fm_sid_4551595850504A4259515A51415C4C5E595C585F5D5D', 'path': '/', 'secure': False, 'value': '1644400252664z0.8035919632532353'}, {'domain': '.nutrilovers.de', 'httpOnly': False, 'name': '9089091c-431e-42ea-aaff-72f9e6482795', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1'}, {'domain': '.nutrilovers.de', 'expiry': 1675936252, 'httpOnly': False, 'name': 'zarget_user_id', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9089091c-431e-42ea-aaff-72f9e6482795'}, {'domain': '.nutrilovers.de', 'expiry': 1675936251, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU9HWTFPRFJqWTJFdE5EQTRNQzAwWW1ZeExUZzJNV1V0TmpRNVl6azJNVEV4TWpCaA'}, {'domain': '.nutrilovers.de', 'expiry': 1675936252, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': 'y1nymw|1|eyu|0'}, {'domain': 'www.nutrilovers.de', 'httpOnly': False, 'name': '9089091c-431e-42ea-aaff-72f9e6482795', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.nutrilovers.de', 'expiry': 1817200251, 'httpOnly': False, 'name': 'ri_thumb_session', 'path': '/', 'secure': False, 'value': '1644400251788'}, {'domain': '.nutrilovers.de', 'expiry': 1652176268, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644400251584.157971881'}, {'domain': '.nutrilovers.de', 'expiry': 1707472251, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.421822280.1644400251'}, {'domain': 'www.nutrilovers.de', 'expiry': 1644486651, 'httpOnly': False, 'name': 'theme_scientist', 'path': '/', 'secure': False, 'value': '2%2F9%2F2022%2C%2010%3A50%3A51%20AM'}, {'domain': '.nutrilovers.de', 'expiry': 1644400311, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.nutrilovers.de', 'expiry': 1707472251, 'httpOnly': False, 'name': '_ga_XWJ6KELSQG', 'path': '/', 'secure': False, 'value': 'GS1.1.1644400251.1.0.1644400251.60'}, {'domain': '.nutrilovers.de', 'expiry': 1644486653, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': '1la9jnk|1644400253252|1|1|j.clarity.ms/collect'}, {'domain': 'www.nutrilovers.de', 'expiry': 1644403852, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.nutrilovers.de', 'expiry': 1675936269, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd7e0373b-b68e-4c92-ad68-27b06ee44c36'}, {'domain': '.nutrilovers.de', 'expiry': 1644400311, 'httpOnly': False, 'name': '_gat_UA-90777809-1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.nutrilovers.de', 'expiry': 1644486651, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1312997328.1644400251'}, {'domain': '.nutrilovers.de', 'expiry': 1644402051, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.nutrilovers.de', 'expiry': 1652176251, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1509938956.1644400251'}, {'domain': 'www.nutrilovers.de', 'expiry': 1645609869, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.nutrilovers.de', 'expiry': 1675936269, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd7e0373b-b68e-4c92-ad68-27b06ee44c36'}, {'domain': '.nutrilovers.de', 'expiry': 1707472251, 'httpOnly': False, 'name': '_ga_9VC5XYB29F', 'path': '/', 'secure': False, 'value': 'GS1.1.1644400251.1.0.1644400251.60'}, {'domain': '.nutrilovers.de', 'expiry': 1645609849, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.nutrilovers.de', 'expiry': 1644402069, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ebae8a3b-a23a-4199-a990-08fcc353b948'}, {'domain': '.nutrilovers.de', 'expiry': 1645609849, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.www.nutrilovers.de', 'expiry': 1646992251, 'httpOnly': False, 'name': 'CURRENTIPADDRESS', 'path': '/', 'secure': False, 'value': '91.184.168.63'}, {'domain': 'www.nutrilovers.de', 'expiry': 1675936269, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.nutrilovers.de', 'expiry': 1644402051, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T09%3A50%3A51.551Z'}, {'domain': 'www.nutrilovers.de', 'expiry': 1645609869, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.nutrilovers.de', 'expiry': 1644402069, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ebae8a3b-a23a-4199-a990-08fcc353b948'}]
+[After] Cookie-Name 1: _uetvid
+[After] Cookie-Name 2: _uetsid
+[After] Cookie-Name 3: po_visitor
+[After] Cookie-Name 4: fm_sid_4551595850504A4259515A51415C4C5E595C585F5D5D
+[After] Cookie-Name 5: 9089091c-431e-42ea-aaff-72f9e6482795
+[After] Cookie-Name 6: zarget_user_id
+[After] Cookie-Name 7: _pin_unauth
+[After] Cookie-Name 8: _clck
+[After] Cookie-Name 9: 9089091c-431e-42ea-aaff-72f9e6482795
+[After] Cookie-Name 10: ri_thumb_session
+[After] Cookie-Name 11: _fbp
+[After] Cookie-Name 12: _ga
+[After] Cookie-Name 13: theme_scientist
+[After] Cookie-Name 14: _gat
+[After] Cookie-Name 15: _ga_XWJ6KELSQG
+[After] Cookie-Name 16: _clsk
+[After] Cookie-Name 17: shopify_pay_redirect
+[After] Cookie-Name 18: _y
+[After] Cookie-Name 19: _gat_UA-90777809-1
+[After] Cookie-Name 20: _gid
+[After] Cookie-Name 21: _shopify_sa_p
+[After] Cookie-Name 22: _gcl_au
+[After] Cookie-Name 23: cart_currency
+[After] Cookie-Name 24: _shopify_y
+[After] Cookie-Name 25: _ga_9VC5XYB29F
+[After] Cookie-Name 26: _orig_referrer
+[After] Cookie-Name 27: _s
+[After] Cookie-Name 28: _landing_page
+[After] Cookie-Name 29: CURRENTIPADDRESS
+[After] Cookie-Name 30: secure_customer_sig
+[After] Cookie-Name 31: _shopify_sa_t
+[After] Cookie-Name 32: localization
+[After] Cookie-Name 33: _shopify_s
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _clck (Microsoft Clarity (User experience tool))
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _clsk (Microsoft Clarity (User experience tool))
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

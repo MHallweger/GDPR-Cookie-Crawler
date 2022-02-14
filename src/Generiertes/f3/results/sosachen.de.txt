@@ -1,0 +1,86 @@
+Website 155: http://www.sosachen.de/ | Created: 09.02.2022 14:29:20 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 25
+[Before] Website-Cookies: [{'domain': 'sosachen.de', 'expiry': 1645622952, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A2'}, {'domain': 'sosachen.de', 'expiry': 1645622952, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '01c9ef6084944fa0ac9cba2ec8d1dd51'}, {'domain': 'sosachen.de', 'httpOnly': False, 'name': 'fsb_total_price_345616', 'path': '/', 'secure': False, 'value': '0'}, {'domain': '.sosachen.de', 'expiry': 1644415151, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A29%3A11.114Z'}, {'domain': '.sosachen.de', 'expiry': 1644413411, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'sosachen.de', 'expiry': 1644416951, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'sosachen.de', 'httpOnly': False, 'name': 'fsb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.sosachen.de', 'expiry': 1644499751, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.404989133.1644413351'}, {'domain': '.sosachen.de', 'expiry': 1675949351, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVptTTFOVEprWVRRdE1qSXdaQzAwTXpNNUxUbGxNemd0TVRNME9UZzRaalk0TkRRMA'}, {'domain': 'sosachen.de', 'expiry': 1645622955, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.sosachen.de', 'expiry': 1707485351, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.664793668.1644413351'}, {'domain': '.sosachen.de', 'expiry': 1644415151, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'sosachen.de', 'expiry': 1675949355, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.sosachen.de', 'expiry': 1644415155, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'df09ade0-af0d-4df1-9f48-fd3f6ee897bf'}, {'domain': '.sosachen.de', 'expiry': 1675949355, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '00660ae4-0222-4f50-9a5f-0e621cce2f4a'}, {'domain': '.sosachen.de', 'expiry': 1675949355, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '00660ae4-0222-4f50-9a5f-0e621cce2f4a'}, {'domain': '.sosachen.de', 'expiry': 1652189351, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644413351348.1458557436'}, {'domain': '.sosachen.de', 'expiry': 1645622950, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.sosachen.de', 'expiry': 1645622950, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'sosachen.de', 'expiry': 1644415150, 'httpOnly': False, 'name': 'dynamic_checkout_shown_on_cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.sosachen.de', 'expiry': 1652189351, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.744130049.1644413351'}, {'domain': 'sosachen.de', 'expiry': 1645622955, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.sosachen.de', 'expiry': 1644415155, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'df09ade0-af0d-4df1-9f48-fd3f6ee897bf'}, {'domain': 'sosachen.de', 'expiry': 1645622952, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644413353'}, {'domain': 'sosachen.de', 'expiry': 1645622952, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '94990a2a9e66a2ad123abc6f5b847f62'}]
+[Before] Cookie-Name 1: cart_ver
+[Before] Cookie-Name 2: cart_sig
+[Before] Cookie-Name 3: fsb_total_price_345616
+[Before] Cookie-Name 4: _shopify_sa_t
+[Before] Cookie-Name 5: _gat
+[Before] Cookie-Name 6: shopify_pay_redirect
+[Before] Cookie-Name 7: fsb_previous_pathname
+[Before] Cookie-Name 8: _gid
+[Before] Cookie-Name 9: _pin_unauth
+[Before] Cookie-Name 10: cart_currency
+[Before] Cookie-Name 11: _ga
+[Before] Cookie-Name 12: _shopify_sa_p
+[Before] Cookie-Name 13: secure_customer_sig
+[Before] Cookie-Name 14: _s
+[Before] Cookie-Name 15: _y
+[Before] Cookie-Name 16: _shopify_y
+[Before] Cookie-Name 17: _fbp
+[Before] Cookie-Name 18: _landing_page
+[Before] Cookie-Name 19: _orig_referrer
+[Before] Cookie-Name 20: dynamic_checkout_shown_on_cart
+[Before] Cookie-Name 21: _gcl_au
+[Before] Cookie-Name 22: localization
+[Before] Cookie-Name 23: _shopify_s
+[Before] Cookie-Name 24: cart_ts
+[Before] Cookie-Name 25: cart
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 25
+[After] Website-Cookies: [{'domain': 'sosachen.de', 'expiry': 1645622952, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A2'}, {'domain': 'sosachen.de', 'expiry': 1645622952, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '01c9ef6084944fa0ac9cba2ec8d1dd51'}, {'domain': 'sosachen.de', 'httpOnly': False, 'name': 'fsb_total_price_345616', 'path': '/', 'secure': False, 'value': '0'}, {'domain': '.sosachen.de', 'expiry': 1644415151, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A29%3A11.114Z'}, {'domain': '.sosachen.de', 'expiry': 1644413411, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'sosachen.de', 'expiry': 1644416951, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'sosachen.de', 'httpOnly': False, 'name': 'fsb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.sosachen.de', 'expiry': 1644499751, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.404989133.1644413351'}, {'domain': '.sosachen.de', 'expiry': 1675949351, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVptTTFOVEprWVRRdE1qSXdaQzAwTXpNNUxUbGxNemd0TVRNME9UZzRaalk0TkRRMA'}, {'domain': 'sosachen.de', 'expiry': 1645622955, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.sosachen.de', 'expiry': 1707485351, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.664793668.1644413351'}, {'domain': '.sosachen.de', 'expiry': 1644415151, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'sosachen.de', 'expiry': 1675949355, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.sosachen.de', 'expiry': 1644415155, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'df09ade0-af0d-4df1-9f48-fd3f6ee897bf'}, {'domain': '.sosachen.de', 'expiry': 1675949355, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '00660ae4-0222-4f50-9a5f-0e621cce2f4a'}, {'domain': '.sosachen.de', 'expiry': 1675949355, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '00660ae4-0222-4f50-9a5f-0e621cce2f4a'}, {'domain': '.sosachen.de', 'expiry': 1652189351, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644413351348.1458557436'}, {'domain': '.sosachen.de', 'expiry': 1645622950, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.sosachen.de', 'expiry': 1645622950, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'sosachen.de', 'expiry': 1644415150, 'httpOnly': False, 'name': 'dynamic_checkout_shown_on_cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.sosachen.de', 'expiry': 1652189351, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.744130049.1644413351'}, {'domain': 'sosachen.de', 'expiry': 1645622955, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.sosachen.de', 'expiry': 1644415155, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'df09ade0-af0d-4df1-9f48-fd3f6ee897bf'}, {'domain': 'sosachen.de', 'expiry': 1645622952, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644413353'}, {'domain': 'sosachen.de', 'expiry': 1645622952, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '94990a2a9e66a2ad123abc6f5b847f62'}]
+[After] Cookie-Name 1: cart_ver
+[After] Cookie-Name 2: cart_sig
+[After] Cookie-Name 3: fsb_total_price_345616
+[After] Cookie-Name 4: _shopify_sa_t
+[After] Cookie-Name 5: _gat
+[After] Cookie-Name 6: shopify_pay_redirect
+[After] Cookie-Name 7: fsb_previous_pathname
+[After] Cookie-Name 8: _gid
+[After] Cookie-Name 9: _pin_unauth
+[After] Cookie-Name 10: cart_currency
+[After] Cookie-Name 11: _ga
+[After] Cookie-Name 12: _shopify_sa_p
+[After] Cookie-Name 13: secure_customer_sig
+[After] Cookie-Name 14: _s
+[After] Cookie-Name 15: _y
+[After] Cookie-Name 16: _shopify_y
+[After] Cookie-Name 17: _fbp
+[After] Cookie-Name 18: _landing_page
+[After] Cookie-Name 19: _orig_referrer
+[After] Cookie-Name 20: dynamic_checkout_shown_on_cart
+[After] Cookie-Name 21: _gcl_au
+[After] Cookie-Name 22: localization
+[After] Cookie-Name 23: _shopify_s
+[After] Cookie-Name 24: cart_ts
+[After] Cookie-Name 25: cart
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

@@ -1,0 +1,64 @@
+Website 356: http://www.celyoung.de/ | Created: 09.02.2022 18:58:53 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 16
+[Before] Website-Cookies: [{'domain': 'celyoung.de', 'expiry': 1707501524, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0Mjk1MjQsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vY2VseW91bmcuZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NDI5NTI0LCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL2NlbHlvdW5nLmRlLyJ9fQ=='}, {'domain': 'celyoung.de', 'expiry': 1644433123, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.celyoung.de', 'expiry': 1652205522, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1415550038.1644429523'}, {'domain': '.celyoung.de', 'expiry': 1644431322, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.celyoung.de', 'expiry': 1644431322, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A58%3A42.852Z'}, {'domain': '.celyoung.de', 'expiry': 1675965533, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '637331f0-17e7-47ea-9f06-e6ec16c5c970'}, {'domain': '.celyoung.de', 'expiry': 1707501522, 'httpOnly': False, 'name': '_ga_845QS8C7DY', 'path': '/', 'secure': False, 'value': 'GS1.1.1644429522.1.0.1644429522.0'}, {'domain': '.celyoung.de', 'expiry': 1675965533, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '637331f0-17e7-47ea-9f06-e6ec16c5c970'}, {'domain': '.celyoung.de', 'expiry': 1645639122, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.celyoung.de', 'expiry': 1645639122, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.celyoung.de', 'expiry': 1644431333, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7ef0b161-3c5b-408b-92c6-6022843a3e32'}, {'domain': 'celyoung.de', 'expiry': 1645639133, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'celyoung.de', 'expiry': 1645639133, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.celyoung.de', 'expiry': 1707501522, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.1.928131330.1644429523'}, {'domain': '.celyoung.de', 'expiry': 1644431333, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7ef0b161-3c5b-408b-92c6-6022843a3e32'}, {'domain': 'celyoung.de', 'expiry': 1675965533, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: __kla_id
+[Before] Cookie-Name 2: shopify_pay_redirect
+[Before] Cookie-Name 3: _gcl_au
+[Before] Cookie-Name 4: _shopify_sa_p
+[Before] Cookie-Name 5: _shopify_sa_t
+[Before] Cookie-Name 6: _y
+[Before] Cookie-Name 7: _ga_845QS8C7DY
+[Before] Cookie-Name 8: _shopify_y
+[Before] Cookie-Name 9: _landing_page
+[Before] Cookie-Name 10: _orig_referrer
+[Before] Cookie-Name 11: _shopify_s
+[Before] Cookie-Name 12: cart_currency
+[Before] Cookie-Name 13: localization
+[Before] Cookie-Name 14: _ga
+[Before] Cookie-Name 15: _s
+[Before] Cookie-Name 16: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 17
+[After] Website-Cookies: [{'domain': 'celyoung.de', 'expiry': 1675965539, 'httpOnly': False, 'name': 'CookieConsent', 'path': '/', 'secure': True, 'value': '{stamp:%27S37J/yfTXC7+NYyV8Poprui2w+AY7pWAwAAGikc71oWl6ZNf9dnXrg==%27%2Cnecessary:true%2Cpreferences:true%2Cstatistics:true%2Cmarketing:true%2Cver:1%2Cutc:1644429539279%2Cregion:%27de%27}'}, {'domain': 'celyoung.de', 'expiry': 1707501524, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0Mjk1MjQsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vY2VseW91bmcuZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NDI5NTI0LCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL2NlbHlvdW5nLmRlLyJ9fQ=='}, {'domain': 'celyoung.de', 'expiry': 1644433123, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.celyoung.de', 'expiry': 1652205522, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1415550038.1644429523'}, {'domain': '.celyoung.de', 'expiry': 1644431322, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.celyoung.de', 'expiry': 1644431322, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A58%3A42.852Z'}, {'domain': '.celyoung.de', 'expiry': 1675965533, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '637331f0-17e7-47ea-9f06-e6ec16c5c970'}, {'domain': '.celyoung.de', 'expiry': 1707501522, 'httpOnly': False, 'name': '_ga_845QS8C7DY', 'path': '/', 'secure': False, 'value': 'GS1.1.1644429522.1.0.1644429522.0'}, {'domain': '.celyoung.de', 'expiry': 1675965533, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '637331f0-17e7-47ea-9f06-e6ec16c5c970'}, {'domain': '.celyoung.de', 'expiry': 1645639122, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.celyoung.de', 'expiry': 1645639122, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.celyoung.de', 'expiry': 1644431333, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7ef0b161-3c5b-408b-92c6-6022843a3e32'}, {'domain': 'celyoung.de', 'expiry': 1645639133, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'celyoung.de', 'expiry': 1645639133, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.celyoung.de', 'expiry': 1707501522, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.1.928131330.1644429523'}, {'domain': '.celyoung.de', 'expiry': 1644431333, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7ef0b161-3c5b-408b-92c6-6022843a3e32'}, {'domain': 'celyoung.de', 'expiry': 1675965533, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: CookieConsent
+[After] Cookie-Name 2: __kla_id
+[After] Cookie-Name 3: shopify_pay_redirect
+[After] Cookie-Name 4: _gcl_au
+[After] Cookie-Name 5: _shopify_sa_p
+[After] Cookie-Name 6: _shopify_sa_t
+[After] Cookie-Name 7: _y
+[After] Cookie-Name 8: _ga_845QS8C7DY
+[After] Cookie-Name 9: _shopify_y
+[After] Cookie-Name 10: _landing_page
+[After] Cookie-Name 11: _orig_referrer
+[After] Cookie-Name 12: _shopify_s
+[After] Cookie-Name 13: cart_currency
+[After] Cookie-Name 14: localization
+[After] Cookie-Name 15: _ga
+[After] Cookie-Name 16: _s
+[After] Cookie-Name 17: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: CookieConsent
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

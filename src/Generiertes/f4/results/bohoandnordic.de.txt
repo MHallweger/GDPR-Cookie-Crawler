@@ -1,0 +1,106 @@
+Website 279: http://www.bohoandnordic.de/ | Created: 09.02.2022 18:31:53 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 29
+[Before] Website-Cookies: [{'domain': '.bohoandnordic.de', 'expiry': 1644449504, 'httpOnly': False, 'name': 'rpsid', 'path': '/', 'secure': False, 'value': '18a924da-9869-4678-b951-248f28dcb8eb'}, {'domain': '.bohoandnordic.de', 'expiry': 1761622304, 'httpOnly': False, 'name': 'rptkn', 'path': '/', 'secure': False, 'value': 'livingharmony2041'}, {'domain': 'www.bohoandnordic.de', 'expiry': 1644427937, 'httpOnly': False, 'name': 'rp_firstName', 'path': '/', 'secure': False, 'value': ''}, {'domain': 'www.bohoandnordic.de', 'expiry': 1644427937, 'httpOnly': False, 'name': 'rp_customer_id', 'path': '/', 'secure': False, 'value': ''}, {'domain': '.bohoandnordic.de', 'expiry': 1675963904, 'httpOnly': False, 'name': 'cookieyes-advertisement', 'path': '/', 'secure': False, 'value': 'no'}, {'domain': '.bohoandnordic.de', 'expiry': 1675963904, 'httpOnly': False, 'name': 'cookieyes-performance', 'path': '/', 'secure': False, 'value': 'no'}, {'domain': 'www.bohoandnordic.de', 'expiry': 1707499904, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0Mjc5MDQsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LmJvaG9hbmRub3JkaWMuZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NDI3OTA0LCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL3d3dy5ib2hvYW5kbm9yZGljLmRlLyJ9fQ=='}, {'domain': '.bohoandnordic.de', 'expiry': 1675963904, 'httpOnly': False, 'name': 'cookieyes-analytics', 'path': '/', 'secure': False, 'value': 'no'}, {'domain': '.bohoandnordic.de', 'expiry': 1675963904, 'httpOnly': False, 'name': 'cookieyesID', 'path': '/', 'secure': False, 'value': 'NVdrMHhJSlhBTmYwT3JxZGdxOFNoYXR4dUFxMlVwcmU='}, {'domain': '.bohoandnordic.de', 'expiry': 1675963903, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU1EVXlOalExWmpndE9EWXhZeTAwTTJNM0xXSXpPR010WkdGbE1URTVNelF3WXpBdw'}, {'domain': 'www.bohoandnordic.de', 'expiry': 1644514303, 'httpOnly': False, 'name': 'cky-active-check', 'path': '/', 'secure': False, 'value': 'yes'}, {'domain': '.bohoandnordic.de', 'expiry': 1644429705, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '82daaa07-c41d-4886-b1d5-1efcd4700a26'}, {'domain': '.bohoandnordic.de', 'expiry': 1761622304, 'httpOnly': False, 'name': 'rpdid', 'path': '/', 'secure': False, 'value': '0bf2f39c-924c-431c-930a-c3bb08a77e8b'}, {'domain': '.bohoandnordic.de', 'expiry': 1652203904, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644427904287.339015362'}, {'domain': '.bohoandnordic.de', 'expiry': 1644429703, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A31%3A43.845Z'}, {'domain': 'www.bohoandnordic.de', 'expiry': 1675963905, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.bohoandnordic.de', 'expiry': 1675963904, 'httpOnly': False, 'name': 'cookieyes-necessary', 'path': '/', 'secure': False, 'value': 'yes'}, {'domain': '.bohoandnordic.de', 'expiry': 1675963904, 'httpOnly': False, 'name': 'cky-consent', 'path': '/', 'secure': False, 'value': 'no'}, {'domain': '.bohoandnordic.de', 'expiry': 1644429705, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '82daaa07-c41d-4886-b1d5-1efcd4700a26'}, {'domain': '.bohoandnordic.de', 'expiry': 1675963905, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '94c91960-2b8a-4309-ad99-9e5898dc513f'}, {'domain': '.bohoandnordic.de', 'expiry': 1675963904, 'httpOnly': False, 'name': 'cookieyes-functional', 'path': '/', 'secure': False, 'value': 'no'}, {'domain': '.bohoandnordic.de', 'expiry': 1675963905, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '94c91960-2b8a-4309-ad99-9e5898dc513f'}, {'domain': '.bohoandnordic.de', 'expiry': 1644429703, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.bohoandnordic.de', 'expiry': 1645637505, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.bohoandnordic.de', 'expiry': 1644427937, 'httpOnly': False, 'name': 'rp_lastName', 'path': '/', 'secure': False, 'value': ''}, {'domain': '.bohoandnordic.de', 'expiry': 1645637503, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.bohoandnordic.de', 'expiry': 1644427937, 'httpOnly': False, 'name': 'rp_email', 'path': '/', 'secure': False, 'value': ''}, {'domain': '.bohoandnordic.de', 'expiry': 1645637503, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.bohoandnordic.de', 'expiry': 1645637505, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[Before] Cookie-Name 1: rpsid
+[Before] Cookie-Name 2: rptkn
+[Before] Cookie-Name 3: rp_firstName
+[Before] Cookie-Name 4: rp_customer_id
+[Before] Cookie-Name 5: cookieyes-advertisement
+[Before] Cookie-Name 6: cookieyes-performance
+[Before] Cookie-Name 7: __kla_id
+[Before] Cookie-Name 8: cookieyes-analytics
+[Before] Cookie-Name 9: cookieyesID
+[Before] Cookie-Name 10: _pin_unauth
+[Before] Cookie-Name 11: cky-active-check
+[Before] Cookie-Name 12: _shopify_s
+[Before] Cookie-Name 13: rpdid
+[Before] Cookie-Name 14: _fbp
+[Before] Cookie-Name 15: _shopify_sa_t
+[Before] Cookie-Name 16: secure_customer_sig
+[Before] Cookie-Name 17: cookieyes-necessary
+[Before] Cookie-Name 18: cky-consent
+[Before] Cookie-Name 19: _s
+[Before] Cookie-Name 20: _shopify_y
+[Before] Cookie-Name 21: cookieyes-functional
+[Before] Cookie-Name 22: _y
+[Before] Cookie-Name 23: _shopify_sa_p
+[Before] Cookie-Name 24: cart_currency
+[Before] Cookie-Name 25: rp_lastName
+[Before] Cookie-Name 26: _orig_referrer
+[Before] Cookie-Name 27: rp_email
+[Before] Cookie-Name 28: _landing_page
+[Before] Cookie-Name 29: localization
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 38
+[After] Website-Cookies: [{'domain': '.bohoandnordic.de', 'expiry': 1644429718, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.bohoandnordic.de', 'expiry': 1644429718, 'httpOnly': False, 'name': '_hjSession_1820793', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImRmNzRmOTFlLTAxZTgtNGVjYi1hMTRlLTYzNTFjYTE2YzIzMiIsImNyZWF0ZWQiOjE2NDQ0Mjc5MTg4MzYsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': '.bohoandnordic.de', 'expiry': 1675963918, 'httpOnly': False, 'name': '_hjSessionUser_1820793', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6Ijg4YWRmMmYwLThiZDMtNTZkNC1hZGVmLWYxM2FkODdmODU2NiIsImNyZWF0ZWQiOjE2NDQ0Mjc5MTg4MTgsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.bohoandnordic.de', 'expiry': 1644427978, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.bohoandnordic.de', 'expiry': 1644514318, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1991568955.1644427918'}, {'domain': '.bohoandnordic.de', 'expiry': 1707499918, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.203211395.1644427918'}, {'domain': '.bohoandnordic.de', 'expiry': 1675963918, 'httpOnly': False, 'name': 'cookieyes-advertisement', 'path': '/', 'secure': False, 'value': 'yes'}, {'domain': '.bohoandnordic.de', 'expiry': 1675963918, 'httpOnly': False, 'name': 'cookieyes-performance', 'path': '/', 'secure': False, 'value': 'yes'}, {'domain': '.bohoandnordic.de', 'expiry': 1675963918, 'httpOnly': False, 'name': 'cookieyes-analytics', 'path': '/', 'secure': False, 'value': 'yes'}, {'domain': '.bohoandnordic.de', 'expiry': 1675963918, 'httpOnly': False, 'name': 'cookieyes-functional', 'path': '/', 'secure': False, 'value': 'yes'}, {'domain': '.bohoandnordic.de', 'expiry': 1644449504, 'httpOnly': False, 'name': 'rpsid', 'path': '/', 'secure': False, 'value': '18a924da-9869-4678-b951-248f28dcb8eb'}, {'domain': '.bohoandnordic.de', 'expiry': 1761622304, 'httpOnly': False, 'name': 'rptkn', 'path': '/', 'secure': False, 'value': 'livingharmony2041'}, {'domain': '.bohoandnordic.de', 'expiry': 1652203918, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644427904287.339015362'}, {'domain': '.bohoandnordic.de', 'expiry': 1644429703, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A31%3A43.845Z'}, {'domain': '.bohoandnordic.de', 'expiry': 1761622304, 'httpOnly': False, 'name': 'rpdid', 'path': '/', 'secure': False, 'value': '0bf2f39c-924c-431c-930a-c3bb08a77e8b'}, {'domain': '.bohoandnordic.de', 'expiry': 1645637503, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.bohoandnordic.de', 'expiry': 1644427937, 'httpOnly': False, 'name': 'rp_lastName', 'path': '/', 'secure': False, 'value': ''}, {'domain': 'www.bohoandnordic.de', 'expiry': 1707499904, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0Mjc5MDQsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LmJvaG9hbmRub3JkaWMuZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NDI3OTA0LCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL3d3dy5ib2hvYW5kbm9yZGljLmRlLyJ9fQ=='}, {'domain': 'www.bohoandnordic.de', 'expiry': 1644428038, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.bohoandnordic.de', 'expiry': 1675963918, 'httpOnly': False, 'name': 'cky-action', 'path': '/', 'secure': False, 'value': 'yes'}, {'domain': '.bohoandnordic.de', 'expiry': 1675963904, 'httpOnly': False, 'name': 'cookieyesID', 'path': '/', 'secure': False, 'value': 'NVdrMHhJSlhBTmYwT3JxZGdxOFNoYXR4dUFxMlVwcmU='}, {'domain': '.bohoandnordic.de', 'expiry': 1675963903, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU1EVXlOalExWmpndE9EWXhZeTAwTTJNM0xXSXpPR010WkdGbE1URTVNelF3WXpBdw'}, {'domain': 'www.bohoandnordic.de', 'expiry': 1644427937, 'httpOnly': False, 'name': 'rp_customer_id', 'path': '/', 'secure': False, 'value': ''}, {'domain': 'www.bohoandnordic.de', 'expiry': 1644514303, 'httpOnly': False, 'name': 'cky-active-check', 'path': '/', 'secure': False, 'value': 'yes'}, {'domain': '.bohoandnordic.de', 'expiry': 1644429705, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '82daaa07-c41d-4886-b1d5-1efcd4700a26'}, {'domain': 'www.bohoandnordic.de', 'expiry': 1644427937, 'httpOnly': False, 'name': 'rp_firstName', 'path': '/', 'secure': False, 'value': ''}, {'domain': '.bohoandnordic.de', 'expiry': 1644429705, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '82daaa07-c41d-4886-b1d5-1efcd4700a26'}, {'domain': '.bohoandnordic.de', 'expiry': 1675963905, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '94c91960-2b8a-4309-ad99-9e5898dc513f'}, {'domain': '.bohoandnordic.de', 'expiry': 1675963905, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '94c91960-2b8a-4309-ad99-9e5898dc513f'}, {'domain': '.bohoandnordic.de', 'expiry': 1675963918, 'httpOnly': False, 'name': 'cky-consent', 'path': '/', 'secure': False, 'value': 'yes'}, {'domain': 'www.bohoandnordic.de', 'expiry': 1675963905, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.bohoandnordic.de', 'expiry': 1675963918, 'httpOnly': False, 'name': 'cookieyes-necessary', 'path': '/', 'secure': False, 'value': 'yes'}, {'domain': '.bohoandnordic.de', 'expiry': 1644429703, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.bohoandnordic.de', 'expiry': 1645637505, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.bohoandnordic.de', 'expiry': 1644427937, 'httpOnly': False, 'name': 'rp_email', 'path': '/', 'secure': False, 'value': ''}, {'domain': '.bohoandnordic.de', 'expiry': 1644429718, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.bohoandnordic.de', 'expiry': 1645637503, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.bohoandnordic.de', 'expiry': 1645637505, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 2: _hjSession_1820793
+[After] Cookie-Name 3: _hjSessionUser_1820793
+[After] Cookie-Name 4: _gat
+[After] Cookie-Name 5: _gid
+[After] Cookie-Name 6: _ga
+[After] Cookie-Name 7: cookieyes-advertisement
+[After] Cookie-Name 8: cookieyes-performance
+[After] Cookie-Name 9: cookieyes-analytics
+[After] Cookie-Name 10: cookieyes-functional
+[After] Cookie-Name 11: rpsid
+[After] Cookie-Name 12: rptkn
+[After] Cookie-Name 13: _fbp
+[After] Cookie-Name 14: _shopify_sa_t
+[After] Cookie-Name 15: rpdid
+[After] Cookie-Name 16: _orig_referrer
+[After] Cookie-Name 17: rp_lastName
+[After] Cookie-Name 18: __kla_id
+[After] Cookie-Name 19: _hjIncludedInPageviewSample
+[After] Cookie-Name 20: cky-action
+[After] Cookie-Name 21: cookieyesID
+[After] Cookie-Name 22: _pin_unauth
+[After] Cookie-Name 23: rp_customer_id
+[After] Cookie-Name 24: cky-active-check
+[After] Cookie-Name 25: _shopify_s
+[After] Cookie-Name 26: rp_firstName
+[After] Cookie-Name 27: _s
+[After] Cookie-Name 28: _shopify_y
+[After] Cookie-Name 29: _y
+[After] Cookie-Name 30: cky-consent
+[After] Cookie-Name 31: secure_customer_sig
+[After] Cookie-Name 32: cookieyes-necessary
+[After] Cookie-Name 33: _shopify_sa_p
+[After] Cookie-Name 34: cart_currency
+[After] Cookie-Name 35: rp_email
+[After] Cookie-Name 36: _hjFirstSeen
+[After] Cookie-Name 37: _landing_page
+[After] Cookie-Name 38: localization
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 9
+[Difference] Cookie-Name: 1: _hjSession_1820793
+[Difference] Cookie-Name: 2: _gat
+[Difference] Cookie-Name: 3: _hjFirstSeen
+[Difference] Cookie-Name: 4: _hjSessionUser_1820793
+[Difference] Cookie-Name: 5: _hjIncludedInPageviewSample
+[Difference] Cookie-Name: 6: _ga
+[Difference] Cookie-Name: 7: cky-action
+[Difference] Cookie-Name: 8: _hjAbsoluteSessionInProgress
+[Difference] Cookie-Name: 9: _gid
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

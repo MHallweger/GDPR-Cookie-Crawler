@@ -1,0 +1,93 @@
+Website 26: http://www.goldblack.de/ | Created: 10.02.2022 17:26:21 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 33
+[Before] Website-Cookies: [{'domain': 'goldblack.de', 'expiry': 1676046374, 'httpOnly': False, 'name': '_pandectes_gdpr', 'path': '/', 'secure': True, 'value': 'eyJjb3VudHJ5Ijp7ImNvZGUiOiJERSIsInN0YXRlIjoiTlciLCJkZXRlY3RlZCI6MTY0NDUxMDM3NH0sInN0YXR1cyI6IiIsInRpbWVzdGFtcCI6bnVsbCwicHJlZmVyZW5jZXMiOm51bGx9'}, {'domain': '.goldblack.de', 'expiry': 1690644374, 'httpOnly': False, 'name': 'ku1-vid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': '09337002-f1e5-aa1b-5aec-3cccacc7e382'}, {'domain': '.goldblack.de', 'expiry': 1676046373, 'httpOnly': False, 'name': '_privy_1711FA7DFA0864F5E3682653', 'path': '/', 'secure': False, 'value': '%7B%22uuid%22%3A%22bdd0189e-d4d4-4196-a4bd-841896ff703b%22%2C%22variations%22%3A%7B%7D%2C%22country_code%22%3A%22DE%22%2C%22region_code%22%3A%22DE_%22%2C%22postal_code%22%3A%22%22%2C%22cart_value%22%3A0%7D'}, {'domain': 'goldblack.de', 'expiry': 1645719973, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A2'}, {'domain': 'goldblack.de', 'expiry': 1645719973, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '30d963e898b9f92377e141701a1afdb1'}, {'domain': 'goldblack.de', 'expiry': 1644510973, 'httpOnly': False, 'name': 'unique_interaction_id', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9694f65a-f534-41f3-b56e-673badfa8040'}, {'domain': 'goldblack.de', 'expiry': 1645719973, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4630d7293ee502c3e2893cfb1964013f'}, {'domain': 'goldblack.de', 'expiry': 1802190372, 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'secure': True, 'value': '0dd06424-142c-4da2-8c8c-08c7ddb1f2ea'}, {'domain': 'goldblack.de', 'expiry': 1644512172, 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'secure': True, 'value': '38df16a6-6297-4de4-a1c2-d97a5f8be588'}, {'domain': '.goldblack.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'goldblack.de', 'expiry': 1644513972, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.goldblack.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'faa10679-fb96-4637-8983-1d1b114e0ea1'}, {'domain': '.goldblack.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'faa10679-fb96-4637-8983-1d1b114e0ea1'}, {'domain': '.goldblack.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T16%3A26%3A12.625Z'}, {'domain': 'goldblack.de', 'expiry': 1645719973, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644510373'}, {'domain': '.goldblack.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T16%3A26%3A12.410Z'}, {'domain': '.goldblack.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.goldblack.de', 'expiry': 1676046372, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.goldblack.de', 'expiry': 1676046372, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22lim%22%3A%5B%22GDPR%22%5D%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%7D'}, {'domain': 'goldblack.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.goldblack.de', 'expiry': 1645719972, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'goldblack.de', 'expiry': 1707582373, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ1MTAzNzMsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vZ29sZGJsYWNrLmRlLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDUxMDM3MywidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly9nb2xkYmxhY2suZGUvIn19'}, {'domain': '.goldblack.de', 'expiry': 1644512173, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'goldblack.de', 'expiry': 1645719973, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.goldblack.de', 'httpOnly': False, 'name': 'ku1-sid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': 'zBLtNjcqGDv0jRwUaiWH9'}, {'domain': 'goldblack.de', 'httpOnly': True, 'name': 'wrapin_session', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'eyJpdiI6ImJOaG1GTDFISy9DbG15WXl6NHF2cGc9PSIsInZhbHVlIjoiVVlsemtBSVRPd1RGczIxeXlubGszd2hsSlR6ZWJOcWUzWUVoeGpqZ2Z6OEVQZ0RZeFl0WXh3dENxb3Jac3BkcE5HaS9oRE5WUGRxV1BwelYyYndjcXJCY2VHdjkrU0hua2RxcmRDMVhwUFl4WkN5azh6TTdNd0Rtd0dFaG81dGMiLCJtYWMiOiIxMzNhYzQzODdmMmRiY2VjZmFiMmZkZmFjMTllMTdlOTJhMjlmZDc1NjZlNmVhYzYyMjI2OGU1NTgyZDJlMjZiIn0%3D'}, {'domain': 'goldblack.de', 'expiry': 1644517573, 'httpOnly': False, 'name': 'XSRF-TOKEN', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'eyJpdiI6IjRPZnNIM2hrVy84MU1RQzdVSUJFNkE9PSIsInZhbHVlIjoiSXpYdTZRMi9JcUpucnkra0VnMFdzdTdZaVdTclJzV0JTVDhRdjYyK0JndUExS0VUaG81LzYxQ1JNRS9RRWo1TnBWNHlaQnFTOWRLREtEREVUcFVKZVRUbVNjdGtoaGw3bmFoNGIzNU9qVGV6LzNOc0pqTHpRN1hqVmtEblErZWUiLCJtYWMiOiJjMzcxY2VmMDhkNjFlOTk3NzViMzZlMzI4YzNkYTU4YzUzNjkwZDA5Mjg1ZmFmZmI4MmM2NTE4ZTBiZWJmZjA4In0%3D'}, {'domain': '.goldblack.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.goldblack.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f629a11c-8d9b-4991-b910-69c7ff3a909d'}, {'domain': '.goldblack.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f629a11c-8d9b-4991-b910-69c7ff3a909d'}, {'domain': '.goldblack.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'goldblack.de', 'expiry': 1645719973, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': 'goldblack.de', 'expiry': 1676046373, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _pandectes_gdpr
+[Before] Cookie-Name 2: ku1-vid
+[Before] Cookie-Name 3: _privy_1711FA7DFA0864F5E3682653
+[Before] Cookie-Name 4: cart_ver
+[Before] Cookie-Name 5: cart_sig
+[Before] Cookie-Name 6: unique_interaction_id
+[Before] Cookie-Name 7: cart
+[Before] Cookie-Name 8: _shg_user_id
+[Before] Cookie-Name 9: _shg_session_id
+[Before] Cookie-Name 10: _shopify_sa_p
+[Before] Cookie-Name 11: shopify_pay_redirect
+[Before] Cookie-Name 12: _shopify_y
+[Before] Cookie-Name 13: _y
+[Before] Cookie-Name 14: _shopify_sa_t
+[Before] Cookie-Name 15: cart_ts
+[Before] Cookie-Name 16: _shopify_d
+[Before] Cookie-Name 17: _shopify_evids
+[Before] Cookie-Name 18: _shopify_m
+[Before] Cookie-Name 19: _tracking_consent
+[Before] Cookie-Name 20: _shopify_evids
+[Before] Cookie-Name 21: _shopify_tw
+[Before] Cookie-Name 22: __kla_id
+[Before] Cookie-Name 23: _shopify_tm
+[Before] Cookie-Name 24: cart_currency
+[Before] Cookie-Name 25: ku1-sid
+[Before] Cookie-Name 26: wrapin_session
+[Before] Cookie-Name 27: XSRF-TOKEN
+[Before] Cookie-Name 28: _orig_referrer
+[Before] Cookie-Name 29: _s
+[Before] Cookie-Name 30: _shopify_s
+[Before] Cookie-Name 31: _landing_page
+[Before] Cookie-Name 32: localization
+[Before] Cookie-Name 33: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 33
+[After] Website-Cookies: [{'domain': 'goldblack.de', 'expiry': 1676046387, 'httpOnly': False, 'name': '_pandectes_gdpr', 'path': '/', 'secure': True, 'value': 'eyJjb3VudHJ5Ijp7ImNvZGUiOiJERSIsInN0YXRlIjoiTlciLCJkZXRlY3RlZCI6MTY0NDUxMDM3NH0sInN0YXR1cyI6ImRpc21pc3MiLCJ0aW1lc3RhbXAiOjE2NDQ1MTAzODcsInByZWZlcmVuY2VzIjowfQ=='}, {'domain': '.goldblack.de', 'expiry': 1690644374, 'httpOnly': False, 'name': 'ku1-vid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': '09337002-f1e5-aa1b-5aec-3cccacc7e382'}, {'domain': '.goldblack.de', 'expiry': 1676046373, 'httpOnly': False, 'name': '_privy_1711FA7DFA0864F5E3682653', 'path': '/', 'secure': False, 'value': '%7B%22uuid%22%3A%22bdd0189e-d4d4-4196-a4bd-841896ff703b%22%2C%22variations%22%3A%7B%7D%2C%22country_code%22%3A%22DE%22%2C%22region_code%22%3A%22DE_%22%2C%22postal_code%22%3A%22%22%2C%22cart_value%22%3A0%7D'}, {'domain': 'goldblack.de', 'expiry': 1645719973, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A2'}, {'domain': 'goldblack.de', 'expiry': 1645719973, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '30d963e898b9f92377e141701a1afdb1'}, {'domain': 'goldblack.de', 'expiry': 1644510973, 'httpOnly': False, 'name': 'unique_interaction_id', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9694f65a-f534-41f3-b56e-673badfa8040'}, {'domain': 'goldblack.de', 'expiry': 1645719973, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4630d7293ee502c3e2893cfb1964013f'}, {'domain': 'goldblack.de', 'expiry': 1644512172, 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'secure': True, 'value': '38df16a6-6297-4de4-a1c2-d97a5f8be588'}, {'domain': 'goldblack.de', 'expiry': 1802190372, 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'secure': True, 'value': '0dd06424-142c-4da2-8c8c-08c7ddb1f2ea'}, {'domain': '.goldblack.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'goldblack.de', 'expiry': 1644513972, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.goldblack.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'faa10679-fb96-4637-8983-1d1b114e0ea1'}, {'domain': '.goldblack.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'faa10679-fb96-4637-8983-1d1b114e0ea1'}, {'domain': '.goldblack.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T16%3A26%3A12.625Z'}, {'domain': 'goldblack.de', 'expiry': 1645719973, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644510373'}, {'domain': '.goldblack.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T16%3A26%3A12.410Z'}, {'domain': '.goldblack.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.goldblack.de', 'expiry': 1676046372, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.goldblack.de', 'expiry': 1676046372, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22lim%22%3A%5B%22GDPR%22%5D%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%7D'}, {'domain': 'goldblack.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.goldblack.de', 'expiry': 1645719972, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'goldblack.de', 'expiry': 1707582373, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ1MTAzNzMsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vZ29sZGJsYWNrLmRlLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDUxMDM3MywidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly9nb2xkYmxhY2suZGUvIn19'}, {'domain': '.goldblack.de', 'expiry': 1644512187, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'goldblack.de', 'expiry': 1645719987, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.goldblack.de', 'httpOnly': False, 'name': 'ku1-sid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': 'zBLtNjcqGDv0jRwUaiWH9'}, {'domain': 'goldblack.de', 'httpOnly': True, 'name': 'wrapin_session', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'eyJpdiI6ImJOaG1GTDFISy9DbG15WXl6NHF2cGc9PSIsInZhbHVlIjoiVVlsemtBSVRPd1RGczIxeXlubGszd2hsSlR6ZWJOcWUzWUVoeGpqZ2Z6OEVQZ0RZeFl0WXh3dENxb3Jac3BkcE5HaS9oRE5WUGRxV1BwelYyYndjcXJCY2VHdjkrU0hua2RxcmRDMVhwUFl4WkN5azh6TTdNd0Rtd0dFaG81dGMiLCJtYWMiOiIxMzNhYzQzODdmMmRiY2VjZmFiMmZkZmFjMTllMTdlOTJhMjlmZDc1NjZlNmVhYzYyMjI2OGU1NTgyZDJlMjZiIn0%3D'}, {'domain': 'goldblack.de', 'expiry': 1644517573, 'httpOnly': False, 'name': 'XSRF-TOKEN', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'eyJpdiI6IjRPZnNIM2hrVy84MU1RQzdVSUJFNkE9PSIsInZhbHVlIjoiSXpYdTZRMi9JcUpucnkra0VnMFdzdTdZaVdTclJzV0JTVDhRdjYyK0JndUExS0VUaG81LzYxQ1JNRS9RRWo1TnBWNHlaQnFTOWRLREtEREVUcFVKZVRUbVNjdGtoaGw3bmFoNGIzNU9qVGV6LzNOc0pqTHpRN1hqVmtEblErZWUiLCJtYWMiOiJjMzcxY2VmMDhkNjFlOTk3NzViMzZlMzI4YzNkYTU4YzUzNjkwZDA5Mjg1ZmFmZmI4MmM2NTE4ZTBiZWJmZjA4In0%3D'}, {'domain': '.goldblack.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.goldblack.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f629a11c-8d9b-4991-b910-69c7ff3a909d'}, {'domain': '.goldblack.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f629a11c-8d9b-4991-b910-69c7ff3a909d'}, {'domain': '.goldblack.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'goldblack.de', 'expiry': 1645719987, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'goldblack.de', 'expiry': 1676046387, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _pandectes_gdpr
+[After] Cookie-Name 2: ku1-vid
+[After] Cookie-Name 3: _privy_1711FA7DFA0864F5E3682653
+[After] Cookie-Name 4: cart_ver
+[After] Cookie-Name 5: cart_sig
+[After] Cookie-Name 6: unique_interaction_id
+[After] Cookie-Name 7: cart
+[After] Cookie-Name 8: _shg_session_id
+[After] Cookie-Name 9: _shg_user_id
+[After] Cookie-Name 10: _shopify_sa_p
+[After] Cookie-Name 11: shopify_pay_redirect
+[After] Cookie-Name 12: _shopify_y
+[After] Cookie-Name 13: _y
+[After] Cookie-Name 14: _shopify_sa_t
+[After] Cookie-Name 15: cart_ts
+[After] Cookie-Name 16: _shopify_d
+[After] Cookie-Name 17: _shopify_evids
+[After] Cookie-Name 18: _shopify_m
+[After] Cookie-Name 19: _tracking_consent
+[After] Cookie-Name 20: _shopify_evids
+[After] Cookie-Name 21: _shopify_tw
+[After] Cookie-Name 22: __kla_id
+[After] Cookie-Name 23: _shopify_tm
+[After] Cookie-Name 24: cart_currency
+[After] Cookie-Name 25: ku1-sid
+[After] Cookie-Name 26: wrapin_session
+[After] Cookie-Name 27: XSRF-TOKEN
+[After] Cookie-Name 28: _orig_referrer
+[After] Cookie-Name 29: _s
+[After] Cookie-Name 30: _shopify_s
+[After] Cookie-Name 31: _landing_page
+[After] Cookie-Name 32: localization
+[After] Cookie-Name 33: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

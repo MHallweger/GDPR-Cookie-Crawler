@@ -1,0 +1,86 @@
+Website 373: http://www.pippaundfritz.de/ | Created: 09.02.2022 15:34:04 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 25
+[Before] Website-Cookies: [{'domain': 'pippaundfritz.de', 'expiry': 1675953237, 'httpOnly': False, 'name': '_pandectes_gdpr', 'path': '/', 'secure': True, 'value': 'eyJjb3VudHJ5Ijp7ImNvZGUiOiJERSIsInN0YXRlIjoiTlciLCJkZXRlY3RlZCI6MTY0NDQxNzIzN30sInN0YXR1cyI6IiIsInRpbWVzdGFtcCI6bnVsbCwicHJlZmVyZW5jZXMiOjd9'}, {'domain': 'pippaundfritz.de', 'expiry': 1645626836, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': 'pippaundfritz.de', 'expiry': 1645626836, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '221761dedd66545c94671907783dc30a'}, {'domain': '.pippaundfritz.de', 'expiry': 1675953236, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22con%22%3A%7B%22GDPR%22%3A%220%22%7D%2C%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': 'pippaundfritz.de', 'expiry': 1675953237, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.pippaundfritz.de', 'expiry': 1652193235, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1697582194.1644417236'}, {'domain': '.pippaundfritz.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T14%3A33%3A55.471Z'}, {'domain': 'pippaundfritz.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.pippaundfritz.de', 'expiry': 1675953236, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': 'pippaundfritz.de', 'expiry': 1645626837, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.pippaundfritz.de', 'expiry': 1645626834, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.pippaundfritz.de', 'expiry': 1644419037, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.pippaundfritz.de', 'expiry': 1652193236, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'secure': False, 'value': 'fb.1.1644417235655.1267334463'}, {'domain': '.pippaundfritz.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7d5d29a0-177a-49b3-a1b8-dd74c0c654b1'}, {'domain': '.pippaundfritz.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8986361f-7f8e-44e2-b8a8-5d781b21dcfe'}, {'domain': 'pippaundfritz.de', 'expiry': 1645626837, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3c6e83eb89354f2f7dbbd75f89db9f67'}, {'domain': '.pippaundfritz.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7d5d29a0-177a-49b3-a1b8-dd74c0c654b1'}, {'domain': 'pippaundfritz.de', 'expiry': 1645626836, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644417236'}, {'domain': '.pippaundfritz.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T14%3A33%3A55.590Z'}, {'domain': '.pippaundfritz.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.pippaundfritz.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8986361f-7f8e-44e2-b8a8-5d781b21dcfe'}, {'domain': '.pippaundfritz.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.pippaundfritz.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.pippaundfritz.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'pippaundfritz.de', 'expiry': 1645626837, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[Before] Cookie-Name 1: _pandectes_gdpr
+[Before] Cookie-Name 2: cart_ver
+[Before] Cookie-Name 3: cart
+[Before] Cookie-Name 4: _tracking_consent
+[Before] Cookie-Name 5: secure_customer_sig
+[Before] Cookie-Name 6: _gcl_au
+[Before] Cookie-Name 7: _shopify_d
+[Before] Cookie-Name 8: _shopify_evids
+[Before] Cookie-Name 9: _shopify_m
+[Before] Cookie-Name 10: cart_currency
+[Before] Cookie-Name 11: _shopify_tw
+[Before] Cookie-Name 12: _shopify_tm
+[Before] Cookie-Name 13: _fbp
+[Before] Cookie-Name 14: _shopify_s
+[Before] Cookie-Name 15: _shopify_y
+[Before] Cookie-Name 16: cart_sig
+[Before] Cookie-Name 17: _s
+[Before] Cookie-Name 18: cart_ts
+[Before] Cookie-Name 19: _shopify_sa_t
+[Before] Cookie-Name 20: _shopify_sa_p
+[Before] Cookie-Name 21: _y
+[Before] Cookie-Name 22: _shopify_evids
+[Before] Cookie-Name 23: _orig_referrer
+[Before] Cookie-Name 24: _landing_page
+[Before] Cookie-Name 25: localization
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 26
+[After] Website-Cookies: [{'domain': '.pippaundfritz.de', 'expiry': 1675953252, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.pippaundfritz.de', 'expiry': 1644503651, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1393272381.1644417251'}, {'domain': 'pippaundfritz.de', 'expiry': 1645626836, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': '.pippaundfritz.de', 'expiry': 1644417310, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'pippaundfritz.de', 'expiry': 1645626836, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '221761dedd66545c94671907783dc30a'}, {'domain': '.pippaundfritz.de', 'expiry': 1675953252, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22con%22%3A%7B%22GDPR%22%3A%220%22%7D%7D'}, {'domain': 'pippaundfritz.de', 'expiry': 1675953252, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.pippaundfritz.de', 'expiry': 1652193235, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1697582194.1644417236'}, {'domain': 'pippaundfritz.de', 'expiry': 1645626852, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.pippaundfritz.de', 'expiry': 1645626834, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.pippaundfritz.de', 'expiry': 1644419052, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.pippaundfritz.de', 'expiry': 1652193251, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'secure': False, 'value': 'fb.1.1644417235655.1267334463'}, {'domain': '.pippaundfritz.de', 'expiry': 1644419052, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7d5d29a0-177a-49b3-a1b8-dd74c0c654b1'}, {'domain': '.pippaundfritz.de', 'expiry': 1675953252, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8986361f-7f8e-44e2-b8a8-5d781b21dcfe'}, {'domain': '.pippaundfritz.de', 'expiry': 1675953251, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVptTTFOVEprWVRRdE1qSXdaQzAwTXpNNUxUbGxNemd0TVRNME9UZzRaalk0TkRRMA'}, {'domain': 'pippaundfritz.de', 'expiry': 1645626852, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3c6e83eb89354f2f7dbbd75f89db9f67'}, {'domain': '.pippaundfritz.de', 'expiry': 1644419052, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7d5d29a0-177a-49b3-a1b8-dd74c0c654b1'}, {'domain': 'pippaundfritz.de', 'expiry': 1645626836, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644417236'}, {'domain': '.pippaundfritz.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T14%3A34%3A11.283Z'}, {'domain': '.pippaundfritz.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.pippaundfritz.de', 'expiry': 1675953252, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8986361f-7f8e-44e2-b8a8-5d781b21dcfe'}, {'domain': 'pippaundfritz.de', 'expiry': 1675953250, 'httpOnly': False, 'name': '_pandectes_gdpr', 'path': '/', 'secure': True, 'value': 'eyJjb3VudHJ5Ijp7ImNvZGUiOiJERSIsInN0YXRlIjoiTlciLCJkZXRlY3RlZCI6MTY0NDQxNzIzN30sInN0YXR1cyI6ImFsbG93IiwidGltZXN0YW1wIjoxNjQ0NDE3MjUwLCJwcmVmZXJlbmNlcyI6MCwiaWQiOiI2MjAzZDBlMjM3ODY5NmQ5Yzk2ZGU4MDQifQ=='}, {'domain': '.pippaundfritz.de', 'expiry': 1707489251, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.314765903.1644417251'}, {'domain': '.pippaundfritz.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.pippaundfritz.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'pippaundfritz.de', 'expiry': 1645626852, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[After] Cookie-Name 1: _shopify_m
+[After] Cookie-Name 2: _gid
+[After] Cookie-Name 3: cart_ver
+[After] Cookie-Name 4: _gat
+[After] Cookie-Name 5: cart
+[After] Cookie-Name 6: _tracking_consent
+[After] Cookie-Name 7: secure_customer_sig
+[After] Cookie-Name 8: _gcl_au
+[After] Cookie-Name 9: cart_currency
+[After] Cookie-Name 10: _shopify_tw
+[After] Cookie-Name 11: _shopify_tm
+[After] Cookie-Name 12: _fbp
+[After] Cookie-Name 13: _shopify_s
+[After] Cookie-Name 14: _shopify_y
+[After] Cookie-Name 15: _pin_unauth
+[After] Cookie-Name 16: cart_sig
+[After] Cookie-Name 17: _s
+[After] Cookie-Name 18: cart_ts
+[After] Cookie-Name 19: _shopify_sa_t
+[After] Cookie-Name 20: _shopify_sa_p
+[After] Cookie-Name 21: _y
+[After] Cookie-Name 22: _pandectes_gdpr
+[After] Cookie-Name 23: _ga
+[After] Cookie-Name 24: _orig_referrer
+[After] Cookie-Name 25: _landing_page
+[After] Cookie-Name 26: localization
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 6
+[Difference] Cookie-Name: 1: _shopify_d
+[Difference] Cookie-Name: 2: _pin_unauth
+[Difference] Cookie-Name: 3: _gid
+[Difference] Cookie-Name: 4: _gat
+[Difference] Cookie-Name: 5: _shopify_evids
+[Difference] Cookie-Name: 6: _ga
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

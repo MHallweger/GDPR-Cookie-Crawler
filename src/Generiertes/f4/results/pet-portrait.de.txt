@@ -1,0 +1,101 @@
+Website 349: http://www.pet-portrait.de/ | Created: 09.02.2022 18:56:56 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 33
+[Before] Website-Cookies: [{'domain': '.pet-portrait.de', 'httpOnly': False, 'name': 'ku1-sid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': 'xxKvrewE8OjYUlYShjmP8'}, {'domain': 'pet-portrait.de', 'expiry': 1675965408, 'httpOnly': False, 'name': 'optiMonkClientId', 'path': '/', 'secure': False, 'value': '1185bdea-4e69-c8d9-44f6-ce07879c5514'}, {'domain': '.pet-portrait.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220209175648-NXuBefMWt4qr7Iypdhb2c1gLnvrtuMNir8XqE64oYZVA4HJ9Z'}, {'domain': '.pet-portrait.de', 'expiry': 1644429458, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.pet-portrait.de', 'expiry': 1675965398, 'httpOnly': False, 'name': '_hjSessionUser_2513046', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImQxZDM0YTUxLThlZDktNTc5OC05YTJmLWM4MTc3MTI0YmY1YiIsImNyZWF0ZWQiOjE2NDQ0MjkzOTg5MzgsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': 'pet-portrait.de', 'expiry': 1645639008, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.pet-portrait.de', 'expiry': 1644515798, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.103149808.1644429399'}, {'domain': '.pet-portrait.de', 'expiry': 1675965409, 'httpOnly': False, 'name': 'SREC_SESSION', 'path': '/', 'secure': False, 'value': 'V1.1644429409523'}, {'domain': '.pet-portrait.de', 'expiry': 1644431198, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.pet-portrait.de', 'expiry': 1644431198, 'httpOnly': False, 'name': '_hjSession_2513046', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjYxMzk3OTc3LTgwM2QtNDQ1MC04YWY1LTkyNDAwYWI1NjExNyIsImNyZWF0ZWQiOjE2NDQ0MjkzOTg5NDcsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': '.pet-portrait.de', 'expiry': 1707501398, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.355422317.1644429398'}, {'domain': '.pet-portrait.de', 'expiry': 1690563408, 'httpOnly': False, 'name': 'ku1-vid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': 'c3203f70-c08e-1665-0ddf-02742a0550e9'}, {'domain': '.pet-portrait.de', 'expiry': 1644431208, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '96f89134-c4c0-4902-8d70-6592e18eb332'}, {'domain': '.pet-portrait.de', 'expiry': 1644431198, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A56%3A38.602Z'}, {'domain': '.pet-portrait.de', 'expiry': 1644431198, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.pet-portrait.de', 'expiry': 1644431198, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.pet-portrait.de', 'expiry': 1652205398, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.620305925.1644429398'}, {'domain': '.pet-portrait.de', 'expiry': 1652205399, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644429398732.1965037311'}, {'domain': '.pet-portrait.de', 'expiry': 1644429458, 'httpOnly': False, 'name': '_gat_gtag_UA_181891261_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.pet-portrait.de', 'expiry': 1675965408, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'CEKjaSIVcAnSdj-20220209175648'}, {'domain': '.pet-portrait.de', 'expiry': 1645638996, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.pet-portrait.de', 'expiry': 1675965408, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8d0ed523-eb8f-4eb6-b110-ba3e2b8aa61b'}, {'domain': '.pet-portrait.de', 'expiry': 1644429458, 'httpOnly': False, 'name': '_gat_UA-181891261-1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'pet-portrait.de', 'expiry': 1645639008, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.pet-portrait.de', 'expiry': 1644431208, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '96f89134-c4c0-4902-8d70-6592e18eb332'}, {'domain': '.pet-portrait.de', 'expiry': 1645638996, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'pet-portrait.de', 'httpOnly': False, 'name': 'usb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': 'pet-portrait.de', 'expiry': 1644429518, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'pet-portrait.de', 'httpOnly': False, 'name': '__brLastSetCartToken', 'path': '/', 'secure': False, 'value': ''}, {'domain': '.pet-portrait.de', 'expiry': 1644431208, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': '9r0gmuh17PYIln-20220209175648'}, {'domain': '.pet-portrait.de', 'expiry': 1675965408, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8d0ed523-eb8f-4eb6-b110-ba3e2b8aa61b'}, {'domain': '.pet-portrait.de', 'expiry': 1707501398, 'httpOnly': False, 'name': '_ga_KNJKGJHJGF', 'path': '/', 'secure': False, 'value': 'GS1.1.1644429398.1.0.1644429398.60'}, {'domain': 'pet-portrait.de', 'expiry': 1675965408, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: ku1-sid
+[Before] Cookie-Name 2: optiMonkClientId
+[Before] Cookie-Name 3: soundestID
+[Before] Cookie-Name 4: _gat
+[Before] Cookie-Name 5: _hjSessionUser_2513046
+[Before] Cookie-Name 6: localization
+[Before] Cookie-Name 7: _gid
+[Before] Cookie-Name 8: SREC_SESSION
+[Before] Cookie-Name 9: _hjFirstSeen
+[Before] Cookie-Name 10: _hjSession_2513046
+[Before] Cookie-Name 11: _ga
+[Before] Cookie-Name 12: ku1-vid
+[Before] Cookie-Name 13: _shopify_s
+[Before] Cookie-Name 14: _shopify_sa_t
+[Before] Cookie-Name 15: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 16: _shopify_sa_p
+[Before] Cookie-Name 17: _gcl_au
+[Before] Cookie-Name 18: _fbp
+[Before] Cookie-Name 19: _gat_gtag_UA_181891261_1
+[Before] Cookie-Name 20: omnisendAnonymousID
+[Before] Cookie-Name 21: _landing_page
+[Before] Cookie-Name 22: _shopify_y
+[Before] Cookie-Name 23: _gat_UA-181891261-1
+[Before] Cookie-Name 24: cart_currency
+[Before] Cookie-Name 25: _s
+[Before] Cookie-Name 26: _orig_referrer
+[Before] Cookie-Name 27: usb_previous_pathname
+[Before] Cookie-Name 28: _hjIncludedInPageviewSample
+[Before] Cookie-Name 29: __brLastSetCartToken
+[Before] Cookie-Name 30: omnisendSessionID
+[Before] Cookie-Name 31: _y
+[Before] Cookie-Name 32: _ga_KNJKGJHJGF
+[Before] Cookie-Name 33: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 33
+[After] Website-Cookies: [{'domain': '.pet-portrait.de', 'httpOnly': False, 'name': 'ku1-sid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': 'xxKvrewE8OjYUlYShjmP8'}, {'domain': 'pet-portrait.de', 'expiry': 1675965408, 'httpOnly': False, 'name': 'optiMonkClientId', 'path': '/', 'secure': False, 'value': '1185bdea-4e69-c8d9-44f6-ce07879c5514'}, {'domain': '.pet-portrait.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220209175648-NXuBefMWt4qr7Iypdhb2c1gLnvrtuMNir8XqE64oYZVA4HJ9Z'}, {'domain': '.pet-portrait.de', 'expiry': 1644429458, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.pet-portrait.de', 'expiry': 1675965398, 'httpOnly': False, 'name': '_hjSessionUser_2513046', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImQxZDM0YTUxLThlZDktNTc5OC05YTJmLWM4MTc3MTI0YmY1YiIsImNyZWF0ZWQiOjE2NDQ0MjkzOTg5MzgsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': 'pet-portrait.de', 'expiry': 1645639008, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.pet-portrait.de', 'expiry': 1644515798, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.103149808.1644429399'}, {'domain': '.pet-portrait.de', 'expiry': 1675965409, 'httpOnly': False, 'name': 'SREC_SESSION', 'path': '/', 'secure': False, 'value': 'V1.1644429409523'}, {'domain': '.pet-portrait.de', 'expiry': 1644431198, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.pet-portrait.de', 'expiry': 1644431198, 'httpOnly': False, 'name': '_hjSession_2513046', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjYxMzk3OTc3LTgwM2QtNDQ1MC04YWY1LTkyNDAwYWI1NjExNyIsImNyZWF0ZWQiOjE2NDQ0MjkzOTg5NDcsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': '.pet-portrait.de', 'expiry': 1707501398, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.355422317.1644429398'}, {'domain': '.pet-portrait.de', 'expiry': 1690563408, 'httpOnly': False, 'name': 'ku1-vid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': 'c3203f70-c08e-1665-0ddf-02742a0550e9'}, {'domain': '.pet-portrait.de', 'expiry': 1644431208, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '96f89134-c4c0-4902-8d70-6592e18eb332'}, {'domain': '.pet-portrait.de', 'expiry': 1644431198, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A56%3A38.602Z'}, {'domain': '.pet-portrait.de', 'expiry': 1644431198, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.pet-portrait.de', 'expiry': 1644431198, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.pet-portrait.de', 'expiry': 1652205398, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.620305925.1644429398'}, {'domain': '.pet-portrait.de', 'expiry': 1652205399, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644429398732.1965037311'}, {'domain': '.pet-portrait.de', 'expiry': 1644429458, 'httpOnly': False, 'name': '_gat_gtag_UA_181891261_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.pet-portrait.de', 'expiry': 1675965408, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'CEKjaSIVcAnSdj-20220209175648'}, {'domain': '.pet-portrait.de', 'expiry': 1645638996, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.pet-portrait.de', 'expiry': 1675965408, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8d0ed523-eb8f-4eb6-b110-ba3e2b8aa61b'}, {'domain': '.pet-portrait.de', 'expiry': 1644429458, 'httpOnly': False, 'name': '_gat_UA-181891261-1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'pet-portrait.de', 'expiry': 1645639008, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.pet-portrait.de', 'expiry': 1644431208, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '96f89134-c4c0-4902-8d70-6592e18eb332'}, {'domain': '.pet-portrait.de', 'expiry': 1645638996, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'pet-portrait.de', 'httpOnly': False, 'name': 'usb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': 'pet-portrait.de', 'expiry': 1644429518, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'pet-portrait.de', 'httpOnly': False, 'name': '__brLastSetCartToken', 'path': '/', 'secure': False, 'value': ''}, {'domain': '.pet-portrait.de', 'expiry': 1644431208, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': '9r0gmuh17PYIln-20220209175648'}, {'domain': '.pet-portrait.de', 'expiry': 1675965408, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8d0ed523-eb8f-4eb6-b110-ba3e2b8aa61b'}, {'domain': '.pet-portrait.de', 'expiry': 1707501398, 'httpOnly': False, 'name': '_ga_KNJKGJHJGF', 'path': '/', 'secure': False, 'value': 'GS1.1.1644429398.1.0.1644429398.60'}, {'domain': 'pet-portrait.de', 'expiry': 1675965408, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: ku1-sid
+[After] Cookie-Name 2: optiMonkClientId
+[After] Cookie-Name 3: soundestID
+[After] Cookie-Name 4: _gat
+[After] Cookie-Name 5: _hjSessionUser_2513046
+[After] Cookie-Name 6: localization
+[After] Cookie-Name 7: _gid
+[After] Cookie-Name 8: SREC_SESSION
+[After] Cookie-Name 9: _hjFirstSeen
+[After] Cookie-Name 10: _hjSession_2513046
+[After] Cookie-Name 11: _ga
+[After] Cookie-Name 12: ku1-vid
+[After] Cookie-Name 13: _shopify_s
+[After] Cookie-Name 14: _shopify_sa_t
+[After] Cookie-Name 15: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 16: _shopify_sa_p
+[After] Cookie-Name 17: _gcl_au
+[After] Cookie-Name 18: _fbp
+[After] Cookie-Name 19: _gat_gtag_UA_181891261_1
+[After] Cookie-Name 20: omnisendAnonymousID
+[After] Cookie-Name 21: _landing_page
+[After] Cookie-Name 22: _shopify_y
+[After] Cookie-Name 23: _gat_UA-181891261-1
+[After] Cookie-Name 24: cart_currency
+[After] Cookie-Name 25: _s
+[After] Cookie-Name 26: _orig_referrer
+[After] Cookie-Name 27: usb_previous_pathname
+[After] Cookie-Name 28: _hjIncludedInPageviewSample
+[After] Cookie-Name 29: __brLastSetCartToken
+[After] Cookie-Name 30: omnisendSessionID
+[After] Cookie-Name 31: _y
+[After] Cookie-Name 32: _ga_KNJKGJHJGF
+[After] Cookie-Name 33: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _hjIncludedInPageviewSample (Hotjar (User experience tool))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

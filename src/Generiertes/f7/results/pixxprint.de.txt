@@ -1,0 +1,101 @@
+Website 43: http://www.pixxprint.de/ | Created: 10.02.2022 17:31:55 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 33
+[Before] Website-Cookies: [{'domain': 'pixxprint.de', 'expiry': 4798110707, 'httpOnly': False, 'name': 'LD_R', 'path': '/', 'secure': False, 'value': ''}, {'domain': 'pixxprint.de', 'expiry': 1644511007, 'httpOnly': False, 'name': 'LD_S', 'path': '/', 'secure': False, 'value': '1644510707596'}, {'domain': 'pixxprint.de', 'expiry': 1644597106, 'httpOnly': True, 'name': '_secure_session_id', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '0ab953b227f53dee3addd130da7bea5a'}, {'domain': 'pixxprint.de', 'expiry': 1644510815, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.pixxprint.de', 'expiry': 1644512495, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.pixxprint.de', 'expiry': 1644512495, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.pixxprint.de', 'expiry': 1676046695, 'httpOnly': False, 'name': '_hjSessionUser_1464169', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjNhMmY0MDczLTZhMWItNTJjYy1hNzM2LWZkMWY5MTg0ZWNjZCIsImNyZWF0ZWQiOjE2NDQ1MTA2OTQ5ODksImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.pixxprint.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T16%3A31%3A34.877Z'}, {'domain': '.pixxprint.de', 'expiry': 1644510754, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'pixxprint.de', 'expiry': 4798110707, 'httpOnly': False, 'name': 'LD_T', 'path': '/', 'secure': False, 'value': 'bde4bf31-70bc-4a9a-a9f3-d6e1ce414f77'}, {'domain': '.pixxprint.de', 'expiry': 1707582694, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1142244857.1644510695'}, {'domain': '.pixxprint.de', 'expiry': 1644510754, 'httpOnly': False, 'name': '_gat_UA-145252485-1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'pixxprint.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'pixxprint.de', 'expiry': 4798110707, 'httpOnly': False, 'name': 'LD_U', 'path': '/', 'secure': False, 'value': 'https%3A%2F%2Fpixxprint.de%2F'}, {'domain': '.pixxprint.de', 'expiry': 1652286694, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1097738896.1644510695'}, {'domain': '.pixxprint.de', 'expiry': 1645720294, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.pixxprint.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2aac83a4-55a0-4586-a1ad-8b6b494a0d8a'}, {'domain': '.pixxprint.de', 'expiry': 1644597094, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1505853607.1644510695'}, {'domain': '.pixxprint.de', 'expiry': 1644512508, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.pixxprint.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7480ea1c-31c0-483b-8ac4-e12fef917e54'}, {'domain': '.pixxprint.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.pixxprint.de', 'expiry': 1676046694, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%7D'}, {'domain': '.pixxprint.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2aac83a4-55a0-4586-a1ad-8b6b494a0d8a'}, {'domain': '.pixxprint.de', 'expiry': 1652286695, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644510695054.1888222923'}, {'domain': '.pixxprint.de', 'expiry': 1676046694, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.pixxprint.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T16%3A31%3A34.927Z'}, {'domain': '.pixxprint.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7480ea1c-31c0-483b-8ac4-e12fef917e54'}, {'domain': 'pixxprint.de', 'expiry': 1676046707, 'httpOnly': False, 'name': '_pandectes_gdpr', 'path': '/', 'secure': True, 'value': 'eyJzdGF0dXMiOiIiLCJ0aW1lc3RhbXAiOm51bGwsInByZWZlcmVuY2VzIjpudWxsfQ=='}, {'domain': '.pixxprint.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.pixxprint.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.pixxprint.de', 'expiry': 1644512495, 'httpOnly': False, 'name': '_hjSession_1464169', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjlmMWYyYTg2LWNhMWMtNGRmZS1iOGRmLTlmMWE2N2Q4NjBjMiIsImNyZWF0ZWQiOjE2NDQ1MTA2OTUwNjcsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': '.pixxprint.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'pixxprint.de', 'expiry': 1676046708, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: LD_R
+[Before] Cookie-Name 2: LD_S
+[Before] Cookie-Name 3: _secure_session_id
+[Before] Cookie-Name 4: _hjIncludedInPageviewSample
+[Before] Cookie-Name 5: _hjFirstSeen
+[Before] Cookie-Name 6: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 7: _hjSessionUser_1464169
+[Before] Cookie-Name 8: _shopify_d
+[Before] Cookie-Name 9: _gat
+[Before] Cookie-Name 10: LD_T
+[Before] Cookie-Name 11: _ga
+[Before] Cookie-Name 12: _gat_UA-145252485-1
+[Before] Cookie-Name 13: _shopify_evids
+[Before] Cookie-Name 14: LD_U
+[Before] Cookie-Name 15: _gcl_au
+[Before] Cookie-Name 16: _shopify_tw
+[Before] Cookie-Name 17: _y
+[Before] Cookie-Name 18: _gid
+[Before] Cookie-Name 19: _shopify_tm
+[Before] Cookie-Name 20: _shopify_s
+[Before] Cookie-Name 21: _landing_page
+[Before] Cookie-Name 22: _tracking_consent
+[Before] Cookie-Name 23: _shopify_y
+[Before] Cookie-Name 24: _fbp
+[Before] Cookie-Name 25: _shopify_m
+[Before] Cookie-Name 26: _shopify_sa_t
+[Before] Cookie-Name 27: _s
+[Before] Cookie-Name 28: _pandectes_gdpr
+[Before] Cookie-Name 29: _shopify_evids
+[Before] Cookie-Name 30: _orig_referrer
+[Before] Cookie-Name 31: _hjSession_1464169
+[Before] Cookie-Name 32: _shopify_sa_p
+[Before] Cookie-Name 33: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 33
+[After] Website-Cookies: [{'domain': 'pixxprint.de', 'expiry': 4798110707, 'httpOnly': False, 'name': 'LD_R', 'path': '/', 'secure': False, 'value': ''}, {'domain': 'pixxprint.de', 'expiry': 1644511007, 'httpOnly': False, 'name': 'LD_S', 'path': '/', 'secure': False, 'value': '1644510707596'}, {'domain': 'pixxprint.de', 'expiry': 1644597106, 'httpOnly': True, 'name': '_secure_session_id', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '0ab953b227f53dee3addd130da7bea5a'}, {'domain': 'pixxprint.de', 'expiry': 1644510815, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.pixxprint.de', 'expiry': 1644512495, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.pixxprint.de', 'expiry': 1644512495, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.pixxprint.de', 'expiry': 1676046695, 'httpOnly': False, 'name': '_hjSessionUser_1464169', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjNhMmY0MDczLTZhMWItNTJjYy1hNzM2LWZkMWY5MTg0ZWNjZCIsImNyZWF0ZWQiOjE2NDQ1MTA2OTQ5ODksImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.pixxprint.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T16%3A31%3A34.877Z'}, {'domain': '.pixxprint.de', 'expiry': 1644510754, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'pixxprint.de', 'expiry': 4798110707, 'httpOnly': False, 'name': 'LD_T', 'path': '/', 'secure': False, 'value': 'bde4bf31-70bc-4a9a-a9f3-d6e1ce414f77'}, {'domain': '.pixxprint.de', 'expiry': 1707582694, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1142244857.1644510695'}, {'domain': '.pixxprint.de', 'expiry': 1644510754, 'httpOnly': False, 'name': '_gat_UA-145252485-1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'pixxprint.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'pixxprint.de', 'expiry': 4798110707, 'httpOnly': False, 'name': 'LD_U', 'path': '/', 'secure': False, 'value': 'https%3A%2F%2Fpixxprint.de%2F'}, {'domain': '.pixxprint.de', 'expiry': 1652286694, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1097738896.1644510695'}, {'domain': '.pixxprint.de', 'expiry': 1645720294, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.pixxprint.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2aac83a4-55a0-4586-a1ad-8b6b494a0d8a'}, {'domain': '.pixxprint.de', 'expiry': 1644597094, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1505853607.1644510695'}, {'domain': '.pixxprint.de', 'expiry': 1644512508, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.pixxprint.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7480ea1c-31c0-483b-8ac4-e12fef917e54'}, {'domain': '.pixxprint.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.pixxprint.de', 'expiry': 1676046694, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%7D'}, {'domain': '.pixxprint.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2aac83a4-55a0-4586-a1ad-8b6b494a0d8a'}, {'domain': '.pixxprint.de', 'expiry': 1652286720, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644510695054.1888222923'}, {'domain': '.pixxprint.de', 'expiry': 1676046694, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.pixxprint.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T16%3A31%3A34.927Z'}, {'domain': '.pixxprint.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7480ea1c-31c0-483b-8ac4-e12fef917e54'}, {'domain': 'pixxprint.de', 'expiry': 1676046720, 'httpOnly': False, 'name': '_pandectes_gdpr', 'path': '/', 'secure': True, 'value': 'eyJzdGF0dXMiOiJhbGxvdyIsInRpbWVzdGFtcCI6MTY0NDUxMDcyMCwicHJlZmVyZW5jZXMiOjB9'}, {'domain': '.pixxprint.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.pixxprint.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.pixxprint.de', 'expiry': 1644512495, 'httpOnly': False, 'name': '_hjSession_1464169', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjlmMWYyYTg2LWNhMWMtNGRmZS1iOGRmLTlmMWE2N2Q4NjBjMiIsImNyZWF0ZWQiOjE2NDQ1MTA2OTUwNjcsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': '.pixxprint.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'pixxprint.de', 'expiry': 1676046708, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: LD_R
+[After] Cookie-Name 2: LD_S
+[After] Cookie-Name 3: _secure_session_id
+[After] Cookie-Name 4: _hjIncludedInPageviewSample
+[After] Cookie-Name 5: _hjFirstSeen
+[After] Cookie-Name 6: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 7: _hjSessionUser_1464169
+[After] Cookie-Name 8: _shopify_d
+[After] Cookie-Name 9: _gat
+[After] Cookie-Name 10: LD_T
+[After] Cookie-Name 11: _ga
+[After] Cookie-Name 12: _gat_UA-145252485-1
+[After] Cookie-Name 13: _shopify_evids
+[After] Cookie-Name 14: LD_U
+[After] Cookie-Name 15: _gcl_au
+[After] Cookie-Name 16: _shopify_tw
+[After] Cookie-Name 17: _y
+[After] Cookie-Name 18: _gid
+[After] Cookie-Name 19: _shopify_tm
+[After] Cookie-Name 20: _shopify_s
+[After] Cookie-Name 21: _landing_page
+[After] Cookie-Name 22: _tracking_consent
+[After] Cookie-Name 23: _shopify_y
+[After] Cookie-Name 24: _fbp
+[After] Cookie-Name 25: _shopify_m
+[After] Cookie-Name 26: _shopify_sa_t
+[After] Cookie-Name 27: _s
+[After] Cookie-Name 28: _pandectes_gdpr
+[After] Cookie-Name 29: _shopify_evids
+[After] Cookie-Name 30: _orig_referrer
+[After] Cookie-Name 31: _hjSession_1464169
+[After] Cookie-Name 32: _shopify_sa_p
+[After] Cookie-Name 33: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _hjIncludedInPageviewSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

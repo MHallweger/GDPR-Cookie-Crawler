@@ -1,0 +1,87 @@
+Website 171: http://www.microrenti.de/ | Created: 10.02.2022 20:49:02 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 12
+[Before] Website-Cookies: [{'domain': 'microrenti.de', 'expiry': 1645732134, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A2'}, {'domain': 'microrenti.de', 'expiry': 1645732134, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cb72d3d1d90f9e4986c321769e0a6d65'}, {'domain': 'microrenti.de', 'expiry': 1645732134, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '890a495e2b32064e6b237d30a5c9e844'}, {'domain': '.microrenti.de', 'expiry': 1676058533, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22v%22%3A%222.0%22%7D'}, {'domain': '.microrenti.de', 'expiry': 1676058533, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.microrenti.de', 'expiry': 1645732133, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'microrenti.de', 'expiry': 1676058534, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.microrenti.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'microrenti.de', 'expiry': 1645732134, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644522533'}, {'domain': '.microrenti.de', 'expiry': 1644524334, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.microrenti.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'microrenti.de', 'expiry': 1645732134, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}]
+[Before] Cookie-Name 1: cart_ver
+[Before] Cookie-Name 2: cart_sig
+[Before] Cookie-Name 3: cart
+[Before] Cookie-Name 4: _tracking_consent
+[Before] Cookie-Name 5: _shopify_m
+[Before] Cookie-Name 6: _shopify_tw
+[Before] Cookie-Name 7: secure_customer_sig
+[Before] Cookie-Name 8: _orig_referrer
+[Before] Cookie-Name 9: cart_ts
+[Before] Cookie-Name 10: _shopify_tm
+[Before] Cookie-Name 11: _landing_page
+[Before] Cookie-Name 12: cart_currency
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 33
+[After] Website-Cookies: [{'domain': '.microrenti.de', 'expiry': 1652298548, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644522548342.46422909'}, {'domain': '.microrenti.de', 'expiry': 1644522608, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.microrenti.de', 'expiry': 1644608948, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1872573221.1644522548'}, {'domain': '.microrenti.de', 'expiry': 1707594548, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1954715792.1644522548'}, {'domain': '.microrenti.de', 'expiry': 1676058548, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%221%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': '.microrenti.de', 'expiry': 1644524348, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T19%3A48%3A53.334Z'}, {'domain': '.microrenti.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.microrenti.de', 'expiry': 1676058548, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '541fb39b-8c87-4cc5-9766-93d18019e47e'}, {'domain': 'microrenti.de', 'expiry': 1676058548, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'microrenti.de', 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'pending'}, {'domain': 'microrenti.de', 'expiry': 1645732148, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'microrenti.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'microrenti.de', 'expiry': 1645732147, 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T19%3A48%3A53.325Z'}, {'domain': 'microrenti.de', 'expiry': 1676058547, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '541fb39b-8c87-4cc5-9766-93d18019e47e'}, {'domain': '.microrenti.de', 'expiry': 1676058548, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '541fb39b-8c87-4cc5-9766-93d18019e47e'}, {'domain': '.microrenti.de', 'expiry': 1676058548, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU56YzFZbVU0WW1VdFpUazFaUzAwTUdSakxXSmtaVEF0WlRJNU9UQmpaRFF4TkdRMg'}, {'domain': '.microrenti.de', 'expiry': 1644524348, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.microrenti.de', 'expiry': 1644524348, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c4359eb8-551f-4198-93af-689564fa5b6d'}, {'domain': 'microrenti.de', 'expiry': 1645732148, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cb72d3d1d90f9e4986c321769e0a6d65'}, {'domain': 'microrenti.de', 'expiry': 1645732134, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '890a495e2b32064e6b237d30a5c9e844'}, {'domain': 'microrenti.de', 'expiry': 1645732134, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644522533'}, {'domain': '.microrenti.de', 'expiry': 1645732133, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.microrenti.de', 'expiry': 1644524348, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c4359eb8-551f-4198-93af-689564fa5b6d'}, {'domain': 'microrenti.de', 'expiry': 1676058547, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '541fb39b-8c87-4cc5-9766-93d18019e47e'}, {'domain': 'microrenti.de', 'expiry': 1644524347, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c4359eb8-551f-4198-93af-689564fa5b6d'}, {'domain': 'microrenti.de', 'expiry': 1647114547, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0NTIyNTQ3NTczLCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjowfX0='}, {'domain': '.microrenti.de', 'expiry': 1645732148, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.microrenti.de', 'expiry': 1676058548, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': 'microrenti.de', 'expiry': 1644524347, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c4359eb8-551f-4198-93af-689564fa5b6d'}, {'domain': 'microrenti.de', 'expiry': 1645732134, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A2'}, {'domain': '.microrenti.de', 'expiry': 1645732148, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'microrenti.de', 'expiry': 1645732148, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'microrenti.de', 'expiry': 1644524347, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T19%3A48%3A53.334Z'}]
+[After] Cookie-Name 1: _fbp
+[After] Cookie-Name 2: _gat
+[After] Cookie-Name 3: _gid
+[After] Cookie-Name 4: _ga
+[After] Cookie-Name 5: _tracking_consent
+[After] Cookie-Name 6: _shopify_sa_t
+[After] Cookie-Name 7: _shopify_evids
+[After] Cookie-Name 8: _shopify_y
+[After] Cookie-Name 9: secure_customer_sig
+[After] Cookie-Name 10: shopify_pay_redirect
+[After] Cookie-Name 11: localization
+[After] Cookie-Name 12: _shopify_evids
+[After] Cookie-Name 13: _shopify_d
+[After] Cookie-Name 14: _y
+[After] Cookie-Name 15: _y
+[After] Cookie-Name 16: _pin_unauth
+[After] Cookie-Name 17: _shopify_tm
+[After] Cookie-Name 18: _s
+[After] Cookie-Name 19: cart_sig
+[After] Cookie-Name 20: cart
+[After] Cookie-Name 21: cart_ts
+[After] Cookie-Name 22: _shopify_tw
+[After] Cookie-Name 23: _shopify_s
+[After] Cookie-Name 24: _shopify_y
+[After] Cookie-Name 25: _s
+[After] Cookie-Name 26: _bc_c_set
+[After] Cookie-Name 27: _landing_page
+[After] Cookie-Name 28: _shopify_m
+[After] Cookie-Name 29: _shopify_s
+[After] Cookie-Name 30: cart_ver
+[After] Cookie-Name 31: _orig_referrer
+[After] Cookie-Name 32: cart_currency
+[After] Cookie-Name 33: _shopify_sa_t
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 15
+[Difference] Cookie-Name: 1: _fbp
+[Difference] Cookie-Name: 2: _shopify_y
+[Difference] Cookie-Name: 3: _shopify_s
+[Difference] Cookie-Name: 4: _s
+[Difference] Cookie-Name: 5: _pin_unauth
+[Difference] Cookie-Name: 6: _ga
+[Difference] Cookie-Name: 7: _shopify_evids
+[Difference] Cookie-Name: 8: _gat
+[Difference] Cookie-Name: 9: _gid
+[Difference] Cookie-Name: 10: localization
+[Difference] Cookie-Name: 11: _shopify_sa_t
+[Difference] Cookie-Name: 12: _y
+[Difference] Cookie-Name: 13: _shopify_d
+[Difference] Cookie-Name: 14: _bc_c_set
+[Difference] Cookie-Name: 15: shopify_pay_redirect
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

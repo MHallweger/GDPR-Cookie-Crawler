@@ -1,0 +1,85 @@
+Website 273: http://www.babbelfuerunternehmen.de/ | Created: 09.02.2022 15:04:14 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 25
+[Before] Website-Cookies: [{'domain': 'www.babbelfuerunternehmen.de', 'httpOnly': False, 'name': '_ZB_STATIC_DR_location', 'path': '/', 'secure': False, 'value': '2885165,6255148,2921044,2921044,2847618'}, {'domain': '.babbelfuerunternehmen.de', 'expiry': 1659967445, 'httpOnly': False, 'name': 'messagesUtk', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '4bfa195701f5491d901a8f9b503ebfb2'}, {'domain': 'www.babbelfuerunternehmen.de', 'expiry': 1645625043, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': '.babbelfuerunternehmen.de', 'expiry': 1678111444, 'httpOnly': False, 'name': '__hstc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '23226021.074730dc08aca94c10903a371037fa09.1644415444664.1644415444664.1644415444664.1'}, {'domain': '.babbelfuerunternehmen.de', 'httpOnly': False, 'name': '__hssrc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.babbelfuerunternehmen.de', 'expiry': 1678111444, 'httpOnly': False, 'name': 'hubspotutk', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '074730dc08aca94c10903a371037fa09'}, {'domain': '.babbelfuerunternehmen.de', 'expiry': 1644417244, 'httpOnly': False, 'name': '__hssc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '23226021.1.1644415444664'}, {'domain': '.babbelfuerunternehmen.de', 'expiry': 1675951444, 'httpOnly': False, 'name': 'OptanonConsent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'isIABGlobal=false&datestamp=Wed+Feb+09+2022+15%3A04%3A04+GMT%2B0100+(Mitteleurop%C3%A4ische+Normalzeit)&version=6.15.0&hosts=&consentId=7fcbe885-dc7c-4f9e-941a-434b3b927191&interactionCount=0&landingPath=https%3A%2F%2Fwww.babbelfuerunternehmen.de%2F&groups=C0002%3A0%2CC0004%3A0%2CC0003%3A0%2CC0001%3A1'}, {'domain': '.babbelfuerunternehmen.de', 'expiry': 1644501843, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.893029064.1644415444'}, {'domain': '.babbelfuerunternehmen.de', 'expiry': 1707487443, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.159190698.1644415444'}, {'domain': 'www.babbelfuerunternehmen.de', 'httpOnly': False, 'name': '_ZB_STATIC_SS_1588141_DR_MF_currentSessionEnable', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': '.babbelfuerunternehmen.de', 'expiry': 1644417243, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.babbelfuerunternehmen.de', 'expiry': 1644417243, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T14%3A04%3A03.685Z'}, {'domain': '.babbelfuerunternehmen.de', 'expiry': 1652191443, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.380972357.1644415444'}, {'domain': '.babbelfuerunternehmen.de', 'expiry': 1644417243, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b5f94ee6-e98e-4be2-bb3f-160d37fd69e3'}, {'domain': '.babbelfuerunternehmen.de', 'expiry': 1675951443, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'befc45f9-387a-4d90-98f2-421d5f032e8e'}, {'domain': '.babbelfuerunternehmen.de', 'expiry': 1644417243, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b5f94ee6-e98e-4be2-bb3f-160d37fd69e3'}, {'domain': '.babbelfuerunternehmen.de', 'expiry': 1675951443, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'befc45f9-387a-4d90-98f2-421d5f032e8e'}, {'domain': 'www.babbelfuerunternehmen.de', 'expiry': 1645625043, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.babbelfuerunternehmen.de', 'expiry': 1645625043, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.babbelfuerunternehmen.de', 'expiry': 1675951445, 'httpOnly': False, 'name': '_ZB_STATIC_1588141_DR_MF_lastTime', 'path': '/', 'secure': False, 'value': '1644415445517'}, {'domain': 'www.babbelfuerunternehmen.de', 'expiry': 1675951443, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.babbelfuerunternehmen.de', 'expiry': 1645625043, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.babbelfuerunternehmen.de', 'expiry': 1644419044, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'www.babbelfuerunternehmen.de', 'expiry': 1644417243, 'httpOnly': False, 'name': '_shopify_country', 'path': '/', 'secure': False, 'value': 'Germany'}]
+[Before] Cookie-Name 1: _ZB_STATIC_DR_location
+[Before] Cookie-Name 2: messagesUtk
+[Before] Cookie-Name 3: localization
+[Before] Cookie-Name 4: __hstc
+[Before] Cookie-Name 5: __hssrc
+[Before] Cookie-Name 6: hubspotutk
+[Before] Cookie-Name 7: __hssc
+[Before] Cookie-Name 8: OptanonConsent
+[Before] Cookie-Name 9: _gid
+[Before] Cookie-Name 10: _ga
+[Before] Cookie-Name 11: _ZB_STATIC_SS_1588141_DR_MF_currentSessionEnable
+[Before] Cookie-Name 12: _shopify_sa_p
+[Before] Cookie-Name 13: _shopify_sa_t
+[Before] Cookie-Name 14: _gcl_au
+[Before] Cookie-Name 15: _shopify_s
+[Before] Cookie-Name 16: _shopify_y
+[Before] Cookie-Name 17: _s
+[Before] Cookie-Name 18: _y
+[Before] Cookie-Name 19: cart_currency
+[Before] Cookie-Name 20: _landing_page
+[Before] Cookie-Name 21: _ZB_STATIC_1588141_DR_MF_lastTime
+[Before] Cookie-Name 22: secure_customer_sig
+[Before] Cookie-Name 23: _orig_referrer
+[Before] Cookie-Name 24: shopify_pay_redirect
+[Before] Cookie-Name 25: _shopify_country
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 25
+[After] Website-Cookies: [{'domain': 'www.babbelfuerunternehmen.de', 'httpOnly': False, 'name': '_ZB_STATIC_DR_location', 'path': '/', 'secure': False, 'value': '2885165,6255148,2921044,2921044,2847618'}, {'domain': '.babbelfuerunternehmen.de', 'expiry': 1659967445, 'httpOnly': False, 'name': 'messagesUtk', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '4bfa195701f5491d901a8f9b503ebfb2'}, {'domain': 'www.babbelfuerunternehmen.de', 'expiry': 1645625043, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': '.babbelfuerunternehmen.de', 'expiry': 1678111444, 'httpOnly': False, 'name': '__hstc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '23226021.074730dc08aca94c10903a371037fa09.1644415444664.1644415444664.1644415444664.1'}, {'domain': '.babbelfuerunternehmen.de', 'httpOnly': False, 'name': '__hssrc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.babbelfuerunternehmen.de', 'expiry': 1678111444, 'httpOnly': False, 'name': 'hubspotutk', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '074730dc08aca94c10903a371037fa09'}, {'domain': '.babbelfuerunternehmen.de', 'expiry': 1644417244, 'httpOnly': False, 'name': '__hssc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '23226021.1.1644415444664'}, {'domain': '.babbelfuerunternehmen.de', 'expiry': 1675951444, 'httpOnly': False, 'name': 'OptanonConsent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'isIABGlobal=false&datestamp=Wed+Feb+09+2022+15%3A04%3A04+GMT%2B0100+(Mitteleurop%C3%A4ische+Normalzeit)&version=6.15.0&hosts=&consentId=7fcbe885-dc7c-4f9e-941a-434b3b927191&interactionCount=0&landingPath=https%3A%2F%2Fwww.babbelfuerunternehmen.de%2F&groups=C0002%3A0%2CC0004%3A0%2CC0003%3A0%2CC0001%3A1'}, {'domain': '.babbelfuerunternehmen.de', 'expiry': 1644501843, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.893029064.1644415444'}, {'domain': '.babbelfuerunternehmen.de', 'expiry': 1707487443, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.159190698.1644415444'}, {'domain': 'www.babbelfuerunternehmen.de', 'httpOnly': False, 'name': '_ZB_STATIC_SS_1588141_DR_MF_currentSessionEnable', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': '.babbelfuerunternehmen.de', 'expiry': 1644417243, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.babbelfuerunternehmen.de', 'expiry': 1644417243, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T14%3A04%3A03.685Z'}, {'domain': '.babbelfuerunternehmen.de', 'expiry': 1652191443, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.380972357.1644415444'}, {'domain': '.babbelfuerunternehmen.de', 'expiry': 1644417243, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b5f94ee6-e98e-4be2-bb3f-160d37fd69e3'}, {'domain': '.babbelfuerunternehmen.de', 'expiry': 1675951443, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'befc45f9-387a-4d90-98f2-421d5f032e8e'}, {'domain': '.babbelfuerunternehmen.de', 'expiry': 1644417243, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b5f94ee6-e98e-4be2-bb3f-160d37fd69e3'}, {'domain': '.babbelfuerunternehmen.de', 'expiry': 1675951443, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'befc45f9-387a-4d90-98f2-421d5f032e8e'}, {'domain': 'www.babbelfuerunternehmen.de', 'expiry': 1645625043, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.babbelfuerunternehmen.de', 'expiry': 1645625043, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.babbelfuerunternehmen.de', 'expiry': 1675951445, 'httpOnly': False, 'name': '_ZB_STATIC_1588141_DR_MF_lastTime', 'path': '/', 'secure': False, 'value': '1644415445517'}, {'domain': 'www.babbelfuerunternehmen.de', 'expiry': 1675951443, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.babbelfuerunternehmen.de', 'expiry': 1645625043, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.babbelfuerunternehmen.de', 'expiry': 1644419044, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'www.babbelfuerunternehmen.de', 'expiry': 1644417243, 'httpOnly': False, 'name': '_shopify_country', 'path': '/', 'secure': False, 'value': 'Germany'}]
+[After] Cookie-Name 1: _ZB_STATIC_DR_location
+[After] Cookie-Name 2: messagesUtk
+[After] Cookie-Name 3: localization
+[After] Cookie-Name 4: __hstc
+[After] Cookie-Name 5: __hssrc
+[After] Cookie-Name 6: hubspotutk
+[After] Cookie-Name 7: __hssc
+[After] Cookie-Name 8: OptanonConsent
+[After] Cookie-Name 9: _gid
+[After] Cookie-Name 10: _ga
+[After] Cookie-Name 11: _ZB_STATIC_SS_1588141_DR_MF_currentSessionEnable
+[After] Cookie-Name 12: _shopify_sa_p
+[After] Cookie-Name 13: _shopify_sa_t
+[After] Cookie-Name 14: _gcl_au
+[After] Cookie-Name 15: _shopify_s
+[After] Cookie-Name 16: _shopify_y
+[After] Cookie-Name 17: _s
+[After] Cookie-Name 18: _y
+[After] Cookie-Name 19: cart_currency
+[After] Cookie-Name 20: _landing_page
+[After] Cookie-Name 21: _ZB_STATIC_1588141_DR_MF_lastTime
+[After] Cookie-Name 22: secure_customer_sig
+[After] Cookie-Name 23: _orig_referrer
+[After] Cookie-Name 24: shopify_pay_redirect
+[After] Cookie-Name 25: _shopify_country
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: hubspotutk (HubSpot (CRM-System))
+[Used before] Cookie-Name: __hssc (HubSpot (CRM-System))
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

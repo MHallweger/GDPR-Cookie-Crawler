@@ -1,0 +1,73 @@
+Website 362: http://www.persh.de/ | Created: 10.02.2022 14:00:02 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 4
+[Before] Website-Cookies: [{'domain': 'persh.de', 'expiry': 1645707593, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.persh.de', 'expiry': 1645707592, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.persh.de', 'expiry': 1645707592, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'persh.de', 'expiry': 1676033993, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: cart_currency
+[Before] Cookie-Name 2: _landing_page
+[Before] Cookie-Name 3: _orig_referrer
+[Before] Cookie-Name 4: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 23
+[After] Website-Cookies: [{'domain': '.persh.de', 'expiry': 1644498067, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.persh.de', 'expiry': 1707570007, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1484097283.1644498008'}, {'domain': '.persh.de', 'expiry': 1652274007, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1991646079.1644498008'}, {'domain': 'persh.de', 'httpOnly': False, 'name': '_hjSessionUser_2078964', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjI2ZGEwZDAwLWU5ZTEtNWY3Mi1hN2M2LTI0MzczNDM1ZTk2MSIsImNyZWF0ZWQiOjE2NDQ0OTc5OTM4MzEsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': 'persh.de', 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'persh.de', 'expiry': 1647090007, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0NDk4MDA3NjY3LCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjowfX0='}, {'domain': 'persh.de', 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'persh.de', 'httpOnly': False, 'name': '_hjSession_2078964', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImNmODA4MWU2LTc5MmQtNGY4YS1iZmQ5LWUzYzUxZGMyMGY5MSIsImNyZWF0ZWQiOjE2NDQ0OTc5OTM4NDEsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': 'persh.de', 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': 'persh.de', 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'dWlkPVpqUXdaRGd3Wm1RdFpqUTJOQzAwWmpkaUxXRXhaakF0Wmpkak5EZGtPVEEwWkRVdw'}, {'domain': 'persh.de', 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0OTc5OTQsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vcGVyc2guZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NDk3OTk0LCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL3BlcnNoLmRlLyJ9fQ=='}, {'domain': 'persh.de', 'expiry': 1644499807, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T12%3A59%3A53.022Z'}, {'domain': 'persh.de', 'expiry': 1676034007, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7e9e11b4-ed6a-4fc2-bb6e-3695259abf2b'}, {'domain': 'persh.de', 'expiry': 1676034007, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7e9e11b4-ed6a-4fc2-bb6e-3695259abf2b'}, {'domain': 'persh.de', 'expiry': 1645707593, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.persh.de', 'expiry': 1644584407, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1705298201.1644498008'}, {'domain': 'persh.de', 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'persh.de', 'expiry': 1676033993, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'persh.de', 'expiry': 1644499807, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4607449a-3db7-46a0-8928-0b1e62042d73'}, {'domain': '.persh.de', 'expiry': 1652274008, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644498007972.6476770'}, {'domain': '.persh.de', 'expiry': 1645707592, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'persh.de', 'expiry': 1644499807, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4607449a-3db7-46a0-8928-0b1e62042d73'}, {'domain': '.persh.de', 'expiry': 1645707592, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: _gat
+[After] Cookie-Name 2: _ga
+[After] Cookie-Name 3: _gcl_au
+[After] Cookie-Name 4: _hjSessionUser_2078964
+[After] Cookie-Name 5: _hjFirstSeen
+[After] Cookie-Name 6: _bc_c_set
+[After] Cookie-Name 7: _hjIncludedInPageviewSample
+[After] Cookie-Name 8: _hjSession_2078964
+[After] Cookie-Name 9: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 10: _pin_unauth
+[After] Cookie-Name 11: __kla_id
+[After] Cookie-Name 12: _shopify_sa_t
+[After] Cookie-Name 13: _shopify_y
+[After] Cookie-Name 14: _y
+[After] Cookie-Name 15: cart_currency
+[After] Cookie-Name 16: _gid
+[After] Cookie-Name 17: localization
+[After] Cookie-Name 18: secure_customer_sig
+[After] Cookie-Name 19: _s
+[After] Cookie-Name 20: _fbp
+[After] Cookie-Name 21: _landing_page
+[After] Cookie-Name 22: _shopify_s
+[After] Cookie-Name 23: _orig_referrer
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 19
+[Difference] Cookie-Name: 1: localization
+[Difference] Cookie-Name: 2: _gid
+[Difference] Cookie-Name: 3: _y
+[Difference] Cookie-Name: 4: _bc_c_set
+[Difference] Cookie-Name: 5: _gcl_au
+[Difference] Cookie-Name: 6: _hjAbsoluteSessionInProgress
+[Difference] Cookie-Name: 7: _hjSessionUser_2078964
+[Difference] Cookie-Name: 8: _pin_unauth
+[Difference] Cookie-Name: 9: __kla_id
+[Difference] Cookie-Name: 10: _hjFirstSeen
+[Difference] Cookie-Name: 11: _fbp
+[Difference] Cookie-Name: 12: _shopify_s
+[Difference] Cookie-Name: 13: _s
+[Difference] Cookie-Name: 14: _gat
+[Difference] Cookie-Name: 15: _hjSession_2078964
+[Difference] Cookie-Name: 16: _hjIncludedInPageviewSample
+[Difference] Cookie-Name: 17: _ga
+[Difference] Cookie-Name: 18: _shopify_y
+[Difference] Cookie-Name: 19: _shopify_sa_t
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

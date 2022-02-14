@@ -1,0 +1,61 @@
+Website 164: http://www.handingo.de/ | Created: 09.02.2022 11:36:01 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 4
+[Before] Website-Cookies: [{'domain': '.handingo.de', 'expiry': 1645612550, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'handingo.de', 'expiry': 1645612552, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.handingo.de', 'expiry': 1645612550, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'handingo.de', 'expiry': 1675938952, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _orig_referrer
+[Before] Cookie-Name 2: cart_currency
+[Before] Cookie-Name 3: _landing_page
+[Before] Cookie-Name 4: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 19
+[After] Website-Cookies: [{'domain': '.handingo.de', 'expiry': 1675938966, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5783f3cb-cb1f-4f89-a680-a612aa7f9809'}, {'domain': '.handingo.de', 'expiry': 1644404766, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '53578c6b-2108-4080-8cde-1c5eb7ec636d'}, {'domain': '.handingo.de', 'expiry': 1644489366, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.42889143.1644402967'}, {'domain': '.handingo.de', 'expiry': 1707474966, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1992813486.1644402967'}, {'domain': 'handingo.de', 'expiry': 1646994966, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0NDAyOTY2NDg2LCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjowfX0='}, {'domain': '.handingo.de', 'expiry': 1645612550, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'handingo.de', 'expiry': 1644404766, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A35%3A51.475Z'}, {'domain': 'handingo.de', 'expiry': 1644404766, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fc3c09c7-7762-4a37-ae19-4f66a0fe4533'}, {'domain': 'handingo.de', 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MDI5NTIsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vaGFuZGluZ28uZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NDAyOTUyLCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL2hhbmRpbmdvLmRlLyJ9fQ=='}, {'domain': 'handingo.de', 'expiry': 1675938966, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9cb32ba5-cc39-447a-a83c-b2fbca3862c5'}, {'domain': 'handingo.de', 'expiry': 1645612566, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'handingo.de', 'expiry': 1645612566, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.handingo.de', 'expiry': 1644404766, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '53578c6b-2108-4080-8cde-1c5eb7ec636d'}, {'domain': 'handingo.de', 'expiry': 1675938966, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'handingo.de', 'expiry': 1675938966, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9cb32ba5-cc39-447a-a83c-b2fbca3862c5'}, {'domain': '.handingo.de', 'expiry': 1675938966, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5783f3cb-cb1f-4f89-a680-a612aa7f9809'}, {'domain': 'handingo.de', 'expiry': 1644404766, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fc3c09c7-7762-4a37-ae19-4f66a0fe4533'}, {'domain': '.handingo.de', 'expiry': 1644403026, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.handingo.de', 'expiry': 1645612550, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}]
+[After] Cookie-Name 1: _shopify_y
+[After] Cookie-Name 2: _s
+[After] Cookie-Name 3: _gid
+[After] Cookie-Name 4: _ga
+[After] Cookie-Name 5: _bc_c_set
+[After] Cookie-Name 6: _orig_referrer
+[After] Cookie-Name 7: _shopify_sa_t
+[After] Cookie-Name 8: _s
+[After] Cookie-Name 9: __kla_id
+[After] Cookie-Name 10: _y
+[After] Cookie-Name 11: cart_currency
+[After] Cookie-Name 12: localization
+[After] Cookie-Name 13: _shopify_s
+[After] Cookie-Name 14: secure_customer_sig
+[After] Cookie-Name 15: _shopify_y
+[After] Cookie-Name 16: _y
+[After] Cookie-Name 17: _shopify_s
+[After] Cookie-Name 18: _gat
+[After] Cookie-Name 19: _landing_page
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 11
+[Difference] Cookie-Name: 1: localization
+[Difference] Cookie-Name: 2: _shopify_sa_t
+[Difference] Cookie-Name: 3: _shopify_y
+[Difference] Cookie-Name: 4: _bc_c_set
+[Difference] Cookie-Name: 5: _gat
+[Difference] Cookie-Name: 6: _shopify_s
+[Difference] Cookie-Name: 7: _ga
+[Difference] Cookie-Name: 8: _s
+[Difference] Cookie-Name: 9: _gid
+[Difference] Cookie-Name: 10: __kla_id
+[Difference] Cookie-Name: 11: _y
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

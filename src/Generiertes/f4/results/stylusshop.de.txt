@@ -1,0 +1,65 @@
+Website 228: http://www.stylusshop.de/ | Created: 09.02.2022 18:15:31 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 16
+[Before] Website-Cookies: [{'domain': '.stylusshop.de', 'expiry': 1644427521, 'httpOnly': False, 'name': '_first_pageview', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.stylusshop.de', 'expiry': 1652202922, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644426922182.1656968959'}, {'domain': '.stylusshop.de', 'expiry': 1644428721, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.stylusshop.de', 'expiry': 1675962922, 'httpOnly': False, 'name': '_jsuid', 'path': '/', 'secure': False, 'value': '382252852'}, {'domain': '.stylusshop.de', 'expiry': 1644428721, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A15%3A21.617Z'}, {'domain': '.stylusshop.de', 'expiry': 1644426981, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.stylusshop.de', 'expiry': 1707498921, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.2009376657.1644426922'}, {'domain': '.stylusshop.de', 'expiry': 1707498921, 'httpOnly': False, 'name': 'sc_is_visitor_unique', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'rx7954522.1644426922.97909BF300A54F391DABC6E9DED5E7AD.1.1.1.1.1.1.1.1.1'}, {'domain': '.stylusshop.de', 'expiry': 1644513321, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.305298056.1644426922'}, {'domain': '.stylusshop.de', 'expiry': 1644428721, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '874ccde0-08fb-4272-8052-96111b823f6f'}, {'domain': '.stylusshop.de', 'expiry': 1675962920, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0358fc12-41d8-4106-bbf7-887cc12f8e8f'}, {'domain': '.stylusshop.de', 'expiry': 1644428721, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '874ccde0-08fb-4272-8052-96111b823f6f'}, {'domain': '.stylusshop.de', 'expiry': 1675962920, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0358fc12-41d8-4106-bbf7-887cc12f8e8f'}, {'domain': '.stylusshop.de', 'expiry': 1645636520, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.stylusshop.de', 'expiry': 1645636520, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.stylusshop.de', 'expiry': 1675962920, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _first_pageview
+[Before] Cookie-Name 2: _fbp
+[Before] Cookie-Name 3: _shopify_sa_p
+[Before] Cookie-Name 4: _jsuid
+[Before] Cookie-Name 5: _shopify_sa_t
+[Before] Cookie-Name 6: _gat
+[Before] Cookie-Name 7: _ga
+[Before] Cookie-Name 8: sc_is_visitor_unique
+[Before] Cookie-Name 9: _gid
+[Before] Cookie-Name 10: _shopify_s
+[Before] Cookie-Name 11: _shopify_y
+[Before] Cookie-Name 12: _s
+[Before] Cookie-Name 13: _y
+[Before] Cookie-Name 14: _landing_page
+[Before] Cookie-Name 15: _orig_referrer
+[Before] Cookie-Name 16: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 17
+[After] Website-Cookies: [{'domain': 'www.stylusshop.de', 'expiry': 1675962937, 'httpOnly': False, 'name': 'cookieconsent_status', 'path': '/', 'secure': False, 'value': 'dismiss'}, {'domain': '.stylusshop.de', 'expiry': 1644427521, 'httpOnly': False, 'name': '_first_pageview', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.stylusshop.de', 'expiry': 1652202937, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644426922182.1656968959'}, {'domain': '.stylusshop.de', 'expiry': 1644428721, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.stylusshop.de', 'expiry': 1675962922, 'httpOnly': False, 'name': '_jsuid', 'path': '/', 'secure': False, 'value': '382252852'}, {'domain': '.stylusshop.de', 'expiry': 1644428721, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A15%3A21.617Z'}, {'domain': '.stylusshop.de', 'expiry': 1644426981, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.stylusshop.de', 'expiry': 1707498921, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.2009376657.1644426922'}, {'domain': '.stylusshop.de', 'expiry': 1707498921, 'httpOnly': False, 'name': 'sc_is_visitor_unique', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'rx7954522.1644426922.97909BF300A54F391DABC6E9DED5E7AD.1.1.1.1.1.1.1.1.1'}, {'domain': '.stylusshop.de', 'expiry': 1644513321, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.305298056.1644426922'}, {'domain': '.stylusshop.de', 'expiry': 1644428721, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '874ccde0-08fb-4272-8052-96111b823f6f'}, {'domain': '.stylusshop.de', 'expiry': 1675962920, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0358fc12-41d8-4106-bbf7-887cc12f8e8f'}, {'domain': '.stylusshop.de', 'expiry': 1644428721, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '874ccde0-08fb-4272-8052-96111b823f6f'}, {'domain': '.stylusshop.de', 'expiry': 1675962920, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0358fc12-41d8-4106-bbf7-887cc12f8e8f'}, {'domain': '.stylusshop.de', 'expiry': 1645636520, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.stylusshop.de', 'expiry': 1645636520, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.stylusshop.de', 'expiry': 1675962920, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: cookieconsent_status
+[After] Cookie-Name 2: _first_pageview
+[After] Cookie-Name 3: _fbp
+[After] Cookie-Name 4: _shopify_sa_p
+[After] Cookie-Name 5: _jsuid
+[After] Cookie-Name 6: _shopify_sa_t
+[After] Cookie-Name 7: _gat
+[After] Cookie-Name 8: _ga
+[After] Cookie-Name 9: sc_is_visitor_unique
+[After] Cookie-Name 10: _gid
+[After] Cookie-Name 11: _shopify_s
+[After] Cookie-Name 12: _shopify_y
+[After] Cookie-Name 13: _s
+[After] Cookie-Name 14: _y
+[After] Cookie-Name 15: _landing_page
+[After] Cookie-Name 16: _orig_referrer
+[After] Cookie-Name 17: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: cookieconsent_status
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

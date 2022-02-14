@@ -1,0 +1,90 @@
+Website 198: http://www.thebarn.de/ | Created: 10.02.2022 18:19:02 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 28
+[Before] Website-Cookies: [{'domain': 'de.thebarn.de', 'expiry': 1645723134, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A2'}, {'domain': 'de.thebarn.de', 'expiry': 1645723134, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644513535'}, {'domain': 'de.thebarn.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'de.thebarn.de', 'expiry': 1645723134, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'de.thebarn.de', 'expiry': 1644517134, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'de.thebarn.de', 'expiry': 1645723134, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bdbc97fef84c8ad11f36fd29ac11456c'}, {'domain': '.thebarn.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A18%3A54.084Z'}, {'domain': '.thebarn.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A18%3A54.044Z'}, {'domain': 'de.thebarn.de', 'expiry': 1676049535, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.thebarn.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'de.thebarn.de', 'expiry': 1644515333, 'httpOnly': False, 'name': '_shopify_country', 'path': '/', 'secure': False, 'value': 'Germany'}, {'domain': '.thebarn.de', 'expiry': 1644599934, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.963872404.1644513532'}, {'domain': '.thebarn.de', 'expiry': 1644513592, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'de.thebarn.de', 'expiry': 1707585534, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ1MTM1MzUsInZhbHVlIjoiaHR0cHM6Ly93d3cudGhlYmFybi5kZS8iLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly9kZS50aGViYXJuLmRlLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDUxMzUzNSwidmFsdWUiOiJodHRwczovL3d3dy50aGViYXJuLmRlLyIsImZpcnN0X3BhZ2UiOiJodHRwczovL2RlLnRoZWJhcm4uZGUvIn19'}, {'domain': '.thebarn.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bba58d8f-f188-4797-934b-b0d1de885100'}, {'domain': '.thebarn.de', 'expiry': 1676049531, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.thebarn.de', 'expiry': 1644515335, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.thebarn.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8e06f5b9-5f23-4ea4-aa4f-6421cd1d3554'}, {'domain': '.thebarn.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'de.thebarn.de', 'expiry': 1645723134, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8b14216f5145411e9c2884b86a9c3081'}, {'domain': '.thebarn.de', 'expiry': 1645723131, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.thebarn.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8e06f5b9-5f23-4ea4-aa4f-6421cd1d3554'}, {'domain': '.thebarn.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.thebarn.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.thebarn.de', 'expiry': 1707585534, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1392199515.1644513532'}, {'domain': '.thebarn.de', 'expiry': 1676049531, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': 'de.thebarn.de', 'expiry': 1645723134, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.thebarn.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bba58d8f-f188-4797-934b-b0d1de885100'}]
+[Before] Cookie-Name 1: cart_ver
+[Before] Cookie-Name 2: cart_ts
+[Before] Cookie-Name 3: _shopify_evids
+[Before] Cookie-Name 4: localization
+[Before] Cookie-Name 5: shopify_pay_redirect
+[Before] Cookie-Name 6: cart_sig
+[Before] Cookie-Name 7: _shopify_sa_t
+[Before] Cookie-Name 8: _shopify_d
+[Before] Cookie-Name 9: secure_customer_sig
+[Before] Cookie-Name 10: _shopify_sa_p
+[Before] Cookie-Name 11: _shopify_country
+[Before] Cookie-Name 12: _gid
+[Before] Cookie-Name 13: _gat
+[Before] Cookie-Name 14: __kla_id
+[Before] Cookie-Name 15: _shopify_y
+[Before] Cookie-Name 16: _shopify_m
+[Before] Cookie-Name 17: _shopify_tm
+[Before] Cookie-Name 18: _shopify_s
+[Before] Cookie-Name 19: _shopify_evids
+[Before] Cookie-Name 20: cart
+[Before] Cookie-Name 21: _shopify_tw
+[Before] Cookie-Name 22: _s
+[Before] Cookie-Name 23: _orig_referrer
+[Before] Cookie-Name 24: _landing_page
+[Before] Cookie-Name 25: _ga
+[Before] Cookie-Name 26: _tracking_consent
+[Before] Cookie-Name 27: cart_currency
+[Before] Cookie-Name 28: _y
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 28
+[After] Website-Cookies: [{'domain': 'de.thebarn.de', 'expiry': 1645723134, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A2'}, {'domain': 'de.thebarn.de', 'expiry': 1645723134, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644513535'}, {'domain': 'de.thebarn.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'de.thebarn.de', 'expiry': 1645723134, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'de.thebarn.de', 'expiry': 1644517134, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'de.thebarn.de', 'expiry': 1645723134, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bdbc97fef84c8ad11f36fd29ac11456c'}, {'domain': '.thebarn.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A18%3A54.084Z'}, {'domain': '.thebarn.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A18%3A54.044Z'}, {'domain': 'de.thebarn.de', 'expiry': 1676049535, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.thebarn.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'de.thebarn.de', 'expiry': 1644515333, 'httpOnly': False, 'name': '_shopify_country', 'path': '/', 'secure': False, 'value': 'Germany'}, {'domain': '.thebarn.de', 'expiry': 1644599934, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.963872404.1644513532'}, {'domain': '.thebarn.de', 'expiry': 1644513592, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'de.thebarn.de', 'expiry': 1707585534, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ1MTM1MzUsInZhbHVlIjoiaHR0cHM6Ly93d3cudGhlYmFybi5kZS8iLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly9kZS50aGViYXJuLmRlLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDUxMzUzNSwidmFsdWUiOiJodHRwczovL3d3dy50aGViYXJuLmRlLyIsImZpcnN0X3BhZ2UiOiJodHRwczovL2RlLnRoZWJhcm4uZGUvIn19'}, {'domain': '.thebarn.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bba58d8f-f188-4797-934b-b0d1de885100'}, {'domain': '.thebarn.de', 'expiry': 1676049531, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.thebarn.de', 'expiry': 1644515335, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.thebarn.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8e06f5b9-5f23-4ea4-aa4f-6421cd1d3554'}, {'domain': '.thebarn.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'de.thebarn.de', 'expiry': 1645723134, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8b14216f5145411e9c2884b86a9c3081'}, {'domain': '.thebarn.de', 'expiry': 1645723131, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.thebarn.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8e06f5b9-5f23-4ea4-aa4f-6421cd1d3554'}, {'domain': '.thebarn.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.thebarn.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.thebarn.de', 'expiry': 1707585534, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1392199515.1644513532'}, {'domain': '.thebarn.de', 'expiry': 1676049531, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': 'de.thebarn.de', 'expiry': 1645723134, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.thebarn.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bba58d8f-f188-4797-934b-b0d1de885100'}]
+[After] Cookie-Name 1: cart_ver
+[After] Cookie-Name 2: cart_ts
+[After] Cookie-Name 3: _shopify_evids
+[After] Cookie-Name 4: localization
+[After] Cookie-Name 5: shopify_pay_redirect
+[After] Cookie-Name 6: cart_sig
+[After] Cookie-Name 7: _shopify_sa_t
+[After] Cookie-Name 8: _shopify_d
+[After] Cookie-Name 9: secure_customer_sig
+[After] Cookie-Name 10: _shopify_sa_p
+[After] Cookie-Name 11: _shopify_country
+[After] Cookie-Name 12: _gid
+[After] Cookie-Name 13: _gat
+[After] Cookie-Name 14: __kla_id
+[After] Cookie-Name 15: _shopify_y
+[After] Cookie-Name 16: _shopify_m
+[After] Cookie-Name 17: _shopify_tm
+[After] Cookie-Name 18: _shopify_s
+[After] Cookie-Name 19: _shopify_evids
+[After] Cookie-Name 20: cart
+[After] Cookie-Name 21: _shopify_tw
+[After] Cookie-Name 22: _s
+[After] Cookie-Name 23: _orig_referrer
+[After] Cookie-Name 24: _landing_page
+[After] Cookie-Name 25: _ga
+[After] Cookie-Name 26: _tracking_consent
+[After] Cookie-Name 27: cart_currency
+[After] Cookie-Name 28: _y
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

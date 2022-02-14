@@ -1,0 +1,97 @@
+Website 192: http://www.viktilabs.de/ | Created: 10.02.2022 18:17:17 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 29
+[Before] Website-Cookies: [{'domain': 'www.viktilabs.de', 'httpOnly': False, 'name': 'snize-recommendation', 'path': '/', 'secure': False, 'value': '7c2symis5df'}, {'domain': 'www.viktilabs.de', 'expiry': 1676049428, 'httpOnly': False, 'name': '_growthhero_last_visit', 'path': '/', 'secure': False, 'value': 'Thu, 10 Feb 2022 17:17:08 GMT'}, {'domain': 'www.viktilabs.de', 'expiry': 1644599828, 'httpOnly': False, 'name': '_growthhero_uid', 'path': '/', 'secure': False, 'value': 'c3a3b615-cdc1-447d-ad5c-769356c412b5'}, {'domain': 'www.viktilabs.de', 'expiry': 1645723029, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.viktilabs.de', 'expiry': 1644515227, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.viktilabs.de', 'expiry': 1644515227, 'httpOnly': False, 'name': '_hjSession_2564843', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjNlZTEzYzk2LTUxYWYtNDk0Mi04MzE0LWI5NWRjMzYyZjg0YyIsImNyZWF0ZWQiOjE2NDQ1MTM0Mjc4MTUsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': 'www.viktilabs.de', 'expiry': 1644513547, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.viktilabs.de', 'expiry': 1644513547, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.viktilabs.de', 'expiry': 1644515227, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.viktilabs.de', 'expiry': 1676049427, 'httpOnly': False, 'name': '_hjSessionUser_2564843', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImQwNWRlZGZlLTFiMjUtNTFmMS05MzU3LTRjNzI5YjRjZGQ2YiIsImNyZWF0ZWQiOjE2NDQ1MTM0Mjc0NjEsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.viktilabs.de', 'expiry': 1676049429, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd9d234cb-3340-49f5-91bc-d6236915c5bf'}, {'domain': 'www.viktilabs.de', 'expiry': 1644515227, 'httpOnly': False, 'name': 'baMet_visit', 'path': '/', 'secure': False, 'value': '7996713f32e5486ba69f51126f67deec1644513427530'}, {'domain': '.viktilabs.de', 'expiry': 1644513487, 'httpOnly': False, 'name': '_dc_gtm_UA-147709842-1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.viktilabs.de', 'expiry': 1644515229, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a836e5ad-1cfe-4bb0-a339-5ab185e10c83'}, {'domain': '.viktilabs.de', 'expiry': 1644513487, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.viktilabs.de', 'expiry': 1645723026, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.viktilabs.de', 'expiry': 1644599827, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1807006389.1644513427'}, {'domain': '.viktilabs.de', 'expiry': 1652289427, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.356275847.1644513427'}, {'domain': '.viktilabs.de', 'expiry': 1644515227, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A17%3A07.122Z'}, {'domain': '.viktilabs.de', 'expiry': 1676049427, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU56Vm1OR1JqWWprdE1ESTBPQzAwTkRVekxUbGlaVEF0TVdZellUWm1ZelV6TXpGbQ'}, {'domain': '.viktilabs.de', 'expiry': 1707585427, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1694285049.1644513427'}, {'domain': '.viktilabs.de', 'expiry': 1644515229, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a836e5ad-1cfe-4bb0-a339-5ab185e10c83'}, {'domain': '.viktilabs.de', 'expiry': 1644515227, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.viktilabs.de', 'expiry': 1676049429, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd9d234cb-3340-49f5-91bc-d6236915c5bf'}, {'domain': '.viktilabs.de', 'expiry': 1652289427, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644513427410.731375233'}, {'domain': '.viktilabs.de', 'expiry': 1645723026, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.viktilabs.de', 'expiry': 1644515226, 'httpOnly': False, 'name': '_shopify_country', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'Germany'}, {'domain': 'www.viktilabs.de', 'expiry': 1645723029, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.viktilabs.de', 'expiry': 1676049429, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: snize-recommendation
+[Before] Cookie-Name 2: _growthhero_last_visit
+[Before] Cookie-Name 3: _growthhero_uid
+[Before] Cookie-Name 4: localization
+[Before] Cookie-Name 5: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 6: _hjSession_2564843
+[Before] Cookie-Name 7: _hjIncludedInPageviewSample
+[Before] Cookie-Name 8: _hjIncludedInSessionSample
+[Before] Cookie-Name 9: _hjFirstSeen
+[Before] Cookie-Name 10: _hjSessionUser_2564843
+[Before] Cookie-Name 11: _shopify_y
+[Before] Cookie-Name 12: baMet_visit
+[Before] Cookie-Name 13: _dc_gtm_UA-147709842-1
+[Before] Cookie-Name 14: _shopify_s
+[Before] Cookie-Name 15: _gat
+[Before] Cookie-Name 16: _landing_page
+[Before] Cookie-Name 17: _gid
+[Before] Cookie-Name 18: _gcl_au
+[Before] Cookie-Name 19: _shopify_sa_t
+[Before] Cookie-Name 20: _pin_unauth
+[Before] Cookie-Name 21: _ga
+[Before] Cookie-Name 22: _s
+[Before] Cookie-Name 23: _shopify_sa_p
+[Before] Cookie-Name 24: _y
+[Before] Cookie-Name 25: _fbp
+[Before] Cookie-Name 26: _orig_referrer
+[Before] Cookie-Name 27: _shopify_country
+[Before] Cookie-Name 28: cart_currency
+[Before] Cookie-Name 29: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 27
+[After] Website-Cookies: [{'domain': 'www.viktilabs.de', 'httpOnly': False, 'name': 'snize-recommendation', 'path': '/', 'secure': False, 'value': '7c2symis5df'}, {'domain': 'www.viktilabs.de', 'expiry': 1645723029, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.viktilabs.de', 'expiry': 1644515227, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': 'www.viktilabs.de', 'expiry': 1644513547, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': 'www.viktilabs.de', 'expiry': 1644513547, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.viktilabs.de', 'expiry': 1644515227, 'httpOnly': False, 'name': '_hjSession_2564843', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjNlZTEzYzk2LTUxYWYtNDk0Mi04MzE0LWI5NWRjMzYyZjg0YyIsImNyZWF0ZWQiOjE2NDQ1MTM0Mjc4MTUsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': '.viktilabs.de', 'expiry': 1644515227, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.viktilabs.de', 'expiry': 1676049427, 'httpOnly': False, 'name': '_hjSessionUser_2564843', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImQwNWRlZGZlLTFiMjUtNTFmMS05MzU3LTRjNzI5YjRjZGQ2YiIsImNyZWF0ZWQiOjE2NDQ1MTM0Mjc0NjEsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.viktilabs.de', 'expiry': 1644513487, 'httpOnly': False, 'name': '_dc_gtm_UA-147709842-1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.viktilabs.de', 'expiry': 1644515229, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a836e5ad-1cfe-4bb0-a339-5ab185e10c83'}, {'domain': '.viktilabs.de', 'expiry': 1644513487, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.viktilabs.de', 'expiry': 1645723026, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.viktilabs.de', 'expiry': 1644599827, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1807006389.1644513427'}, {'domain': '.viktilabs.de', 'expiry': 1652289427, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.356275847.1644513427'}, {'domain': '.viktilabs.de', 'expiry': 1644515227, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A17%3A07.122Z'}, {'domain': '.viktilabs.de', 'expiry': 1676049427, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU56Vm1OR1JqWWprdE1ESTBPQzAwTkRVekxUbGlaVEF0TVdZellUWm1ZelV6TXpGbQ'}, {'domain': '.viktilabs.de', 'expiry': 1707585427, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1694285049.1644513427'}, {'domain': '.viktilabs.de', 'expiry': 1676049429, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd9d234cb-3340-49f5-91bc-d6236915c5bf'}, {'domain': '.viktilabs.de', 'expiry': 1644515229, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a836e5ad-1cfe-4bb0-a339-5ab185e10c83'}, {'domain': '.viktilabs.de', 'expiry': 1644515227, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.viktilabs.de', 'expiry': 1676049429, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd9d234cb-3340-49f5-91bc-d6236915c5bf'}, {'domain': 'www.viktilabs.de', 'expiry': 1676049443, 'httpOnly': False, 'name': 'CookieConsent', 'path': '/', 'secure': True, 'value': '{stamp:%27+YSim74pD+A/dhR0WwabKubMG3ufxT83unjXTkgI63PLS70npXe43Q==%27%2Cnecessary:true%2Cpreferences:true%2Cstatistics:true%2Cmarketing:true%2Cver:1%2Cutc:1644513443148%2Cregion:%27de%27}'}, {'domain': '.viktilabs.de', 'expiry': 1652289443, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644513427410.731375233'}, {'domain': '.viktilabs.de', 'expiry': 1645723026, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.viktilabs.de', 'expiry': 1644515226, 'httpOnly': False, 'name': '_shopify_country', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'Germany'}, {'domain': 'www.viktilabs.de', 'expiry': 1645723029, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.viktilabs.de', 'expiry': 1676049429, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: snize-recommendation
+[After] Cookie-Name 2: localization
+[After] Cookie-Name 3: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 4: _hjIncludedInSessionSample
+[After] Cookie-Name 5: _hjIncludedInPageviewSample
+[After] Cookie-Name 6: _hjSession_2564843
+[After] Cookie-Name 7: _hjFirstSeen
+[After] Cookie-Name 8: _hjSessionUser_2564843
+[After] Cookie-Name 9: _dc_gtm_UA-147709842-1
+[After] Cookie-Name 10: _shopify_s
+[After] Cookie-Name 11: _gat
+[After] Cookie-Name 12: _landing_page
+[After] Cookie-Name 13: _gid
+[After] Cookie-Name 14: _gcl_au
+[After] Cookie-Name 15: _shopify_sa_t
+[After] Cookie-Name 16: _pin_unauth
+[After] Cookie-Name 17: _ga
+[After] Cookie-Name 18: _shopify_y
+[After] Cookie-Name 19: _s
+[After] Cookie-Name 20: _shopify_sa_p
+[After] Cookie-Name 21: _y
+[After] Cookie-Name 22: CookieConsent
+[After] Cookie-Name 23: _fbp
+[After] Cookie-Name 24: _orig_referrer
+[After] Cookie-Name 25: _shopify_country
+[After] Cookie-Name 26: cart_currency
+[After] Cookie-Name 27: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjIncludedInPageviewSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjIncludedInSessionSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 4
+[Difference] Cookie-Name: 1: _growthhero_uid
+[Difference] Cookie-Name: 2: CookieConsent
+[Difference] Cookie-Name: 3: _growthhero_last_visit
+[Difference] Cookie-Name: 4: baMet_visit
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

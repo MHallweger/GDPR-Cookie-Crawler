@@ -1,0 +1,68 @@
+Website 275: http://www.goldeneskleeblatt.de/ | Created: 09.02.2022 15:04:43 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 19
+[Before] Website-Cookies: [{'domain': '.goldeneskleeblatt.com', 'expiry': 1660082674, 'httpOnly': False, 'name': 'sib_cuid', 'path': '/', 'secure': False, 'value': '5b534818-862f-4da8-a965-6a314b5f1de2'}, {'domain': 'goldeneskleeblatt.com', 'expiry': 1644419073, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.goldeneskleeblatt.com', 'expiry': 1644415533, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.goldeneskleeblatt.com', 'expiry': 1644501873, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1591625344.1644415473'}, {'domain': 'goldeneskleeblatt.com', 'expiry': 1644955474, 'httpOnly': False, 'name': 'cbuid_meta', 'path': '/', 'secure': False, 'value': '{"referrer":"","href":"https://goldeneskleeblatt.com/"}'}, {'domain': '.goldeneskleeblatt.com', 'expiry': 1644417272, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T14%3A04%3A32.928Z'}, {'domain': '.goldeneskleeblatt.com', 'expiry': 1644417275, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'aba69fcf-f88d-441f-8c01-bd02623a332a'}, {'domain': 'goldeneskleeblatt.com', 'httpOnly': False, 'name': 'locale_bar_accepted', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.goldeneskleeblatt.com', 'expiry': 1675951475, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '279e7b6e-fd56-4618-a31e-9995b3c76e4a'}, {'domain': '.goldeneskleeblatt.com', 'expiry': 1707487473, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1004875981.1644415473'}, {'domain': '.goldeneskleeblatt.com', 'expiry': 1644417275, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'aba69fcf-f88d-441f-8c01-bd02623a332a'}, {'domain': '.goldeneskleeblatt.com', 'expiry': 1675951475, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '279e7b6e-fd56-4618-a31e-9995b3c76e4a'}, {'domain': '.goldeneskleeblatt.com', 'expiry': 1644417272, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.goldeneskleeblatt.com', 'expiry': 1645625072, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'goldeneskleeblatt.com', 'expiry': 1645625075, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.goldeneskleeblatt.com', 'expiry': 1652191473, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644415473382.2006851364'}, {'domain': '.goldeneskleeblatt.com', 'expiry': 1645625072, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'goldeneskleeblatt.com', 'expiry': 1645625075, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'goldeneskleeblatt.com', 'expiry': 1675951475, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: sib_cuid
+[Before] Cookie-Name 2: shopify_pay_redirect
+[Before] Cookie-Name 3: _gat
+[Before] Cookie-Name 4: _gid
+[Before] Cookie-Name 5: cbuid_meta
+[Before] Cookie-Name 6: _shopify_sa_t
+[Before] Cookie-Name 7: _shopify_s
+[Before] Cookie-Name 8: locale_bar_accepted
+[Before] Cookie-Name 9: _shopify_y
+[Before] Cookie-Name 10: _ga
+[Before] Cookie-Name 11: _s
+[Before] Cookie-Name 12: _y
+[Before] Cookie-Name 13: _shopify_sa_p
+[Before] Cookie-Name 14: _landing_page
+[Before] Cookie-Name 15: cart_currency
+[Before] Cookie-Name 16: _fbp
+[Before] Cookie-Name 17: _orig_referrer
+[Before] Cookie-Name 18: localization
+[Before] Cookie-Name 19: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 19
+[After] Website-Cookies: [{'domain': '.goldeneskleeblatt.com', 'expiry': 1660082674, 'httpOnly': False, 'name': 'sib_cuid', 'path': '/', 'secure': False, 'value': '5b534818-862f-4da8-a965-6a314b5f1de2'}, {'domain': 'goldeneskleeblatt.com', 'expiry': 1644419073, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.goldeneskleeblatt.com', 'expiry': 1644415533, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.goldeneskleeblatt.com', 'expiry': 1644501873, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1591625344.1644415473'}, {'domain': 'goldeneskleeblatt.com', 'expiry': 1644955474, 'httpOnly': False, 'name': 'cbuid_meta', 'path': '/', 'secure': False, 'value': '{"referrer":"","href":"https://goldeneskleeblatt.com/"}'}, {'domain': '.goldeneskleeblatt.com', 'expiry': 1644417272, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T14%3A04%3A32.928Z'}, {'domain': '.goldeneskleeblatt.com', 'expiry': 1644417275, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'aba69fcf-f88d-441f-8c01-bd02623a332a'}, {'domain': 'goldeneskleeblatt.com', 'httpOnly': False, 'name': 'locale_bar_accepted', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.goldeneskleeblatt.com', 'expiry': 1675951475, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '279e7b6e-fd56-4618-a31e-9995b3c76e4a'}, {'domain': '.goldeneskleeblatt.com', 'expiry': 1707487473, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1004875981.1644415473'}, {'domain': '.goldeneskleeblatt.com', 'expiry': 1644417275, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'aba69fcf-f88d-441f-8c01-bd02623a332a'}, {'domain': '.goldeneskleeblatt.com', 'expiry': 1675951475, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '279e7b6e-fd56-4618-a31e-9995b3c76e4a'}, {'domain': '.goldeneskleeblatt.com', 'expiry': 1644417272, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.goldeneskleeblatt.com', 'expiry': 1645625072, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'goldeneskleeblatt.com', 'expiry': 1645625075, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.goldeneskleeblatt.com', 'expiry': 1652191488, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644415473382.2006851364'}, {'domain': '.goldeneskleeblatt.com', 'expiry': 1645625072, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'goldeneskleeblatt.com', 'expiry': 1645625075, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'goldeneskleeblatt.com', 'expiry': 1675951475, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: sib_cuid
+[After] Cookie-Name 2: shopify_pay_redirect
+[After] Cookie-Name 3: _gat
+[After] Cookie-Name 4: _gid
+[After] Cookie-Name 5: cbuid_meta
+[After] Cookie-Name 6: _shopify_sa_t
+[After] Cookie-Name 7: _shopify_s
+[After] Cookie-Name 8: locale_bar_accepted
+[After] Cookie-Name 9: _shopify_y
+[After] Cookie-Name 10: _ga
+[After] Cookie-Name 11: _s
+[After] Cookie-Name 12: _y
+[After] Cookie-Name 13: _shopify_sa_p
+[After] Cookie-Name 14: _landing_page
+[After] Cookie-Name 15: cart_currency
+[After] Cookie-Name 16: _fbp
+[After] Cookie-Name 17: _orig_referrer
+[After] Cookie-Name 18: localization
+[After] Cookie-Name 19: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

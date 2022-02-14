@@ -1,0 +1,100 @@
+Website 50: http://www.uwaldu.de/ | Created: 08.02.2022 21:54:10 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 4
+[Before] Website-Cookies: [{'domain': '.uwaldu.de', 'expiry': 1645563238, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'uwaldu.de', 'expiry': 1645563249, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.uwaldu.de', 'expiry': 1645563238, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'uwaldu.de', 'expiry': 1675889649, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _landing_page
+[Before] Cookie-Name 2: cart_currency
+[Before] Cookie-Name 3: _orig_referrer
+[Before] Cookie-Name 4: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 38
+[After] Website-Cookies: [{'domain': '.uwaldu.de', 'expiry': 1644353716, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.uwaldu.de', 'expiry': 1644440056, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1929991770.1644353657'}, {'domain': '.uwaldu.de', 'expiry': 1644355456, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.uwaldu.de', 'expiry': 1644355456, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T20%3A54%3A16.662Z'}, {'domain': '.uwaldu.de', 'expiry': 1644355456, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '03c55aae-7eaf-4b7a-99b1-38c9498a21d7'}, {'domain': '.uwaldu.de', 'expiry': 1644355456, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '03c55aae-7eaf-4b7a-99b1-38c9498a21d7'}, {'domain': 'uwaldu.de', 'httpOnly': False, 'name': 'swym-o_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'true'}, {'domain': 'uwaldu.de', 'httpOnly': False, 'name': 'swym-swymRegid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '"CRFUzLWRaXfnTjq73JbTgaYh0aEUOGRoWgbiam046WJnkAnU_8fgUawRv-WadqJUTnoSRjgioma9Pnsitu10V6jWGkEd5HVNqMC63l8adYrHAUOlM_ktznoDZtDdwir7o68_TY7LbTUJPHNN9ace8g_1yrUdOHTZ3INfyTvgVeE"'}, {'domain': 'uwaldu.de', 'httpOnly': False, 'name': 'swym-cu_ct', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '"0dabe5d7f4a8176778bf15aef44c7422"'}, {'domain': 'uwaldu.de', 'httpOnly': False, 'name': 'baMet_visit', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9e6e06996b8243bfa8baa2f3d66f20b91644353639612'}, {'domain': '.uwaldu.de', 'expiry': 1707425656, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.927356862.1644353657'}, {'domain': 'uwaldu.de', 'httpOnly': False, 'name': 'baMet_baEvs', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%5B%5D'}, {'domain': 'uwaldu.de', 'httpOnly': False, 'name': 'lsContextID', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'YQ_xJDyLk0G0x0N8lMuxwg'}, {'domain': 'uwaldu.de', 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'uwaldu.de', 'expiry': 1644355456, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '03c55aae-7eaf-4b7a-99b1-38c9498a21d7'}, {'domain': 'uwaldu.de', 'httpOnly': False, 'name': 'lsSema-', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'uwaldu.de', 'httpOnly': False, 'name': '_ks_scriptVersion', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '308'}, {'domain': 'uwaldu.de', 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQzNTM2NDEsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vdXdhbGR1LmRlLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDM1MzY0MSwidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly91d2FsZHUuZGUvIn19'}, {'domain': 'uwaldu.de', 'httpOnly': False, 'name': 'swym-email', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'null'}, {'domain': 'uwaldu.de', 'httpOnly': False, 'name': '_ks_scriptVersionChecked', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'true'}, {'domain': 'uwaldu.de', 'httpOnly': False, 'name': 'swym-session-id', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '"cqpy46ew16i4q6cyfi17kldz41fkgqdf3re0dd0kryb76izcs7wui6z9ge5wqh88"'}, {'domain': 'uwaldu.de', 'expiry': 1644355456, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '03c55aae-7eaf-4b7a-99b1-38c9498a21d7'}, {'domain': 'uwaldu.de', 'httpOnly': False, 'name': 'fsb_previous_pathname', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '/'}, {'domain': 'uwaldu.de', 'httpOnly': False, 'name': 'usb_previous_pathname', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '/'}, {'domain': '.uwaldu.de', 'expiry': 1644355457, 'httpOnly': False, 'name': 'swym-session-id', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"cqpy46ew16i4q6cyfi17kldz41fkgqdf3re0dd0kryb76izcs7wui6z9ge5wqh88"'}, {'domain': 'uwaldu.de', 'expiry': 1675889649, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'uwaldu.de', 'httpOnly': False, 'name': '__brLastSetCartToken', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'uwaldu.de', 'httpOnly': False, 'name': 'landingPage', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'landed'}, {'domain': 'uwaldu.de', 'httpOnly': False, 'name': 'logState', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'loggedOut'}, {'domain': 'uwaldu.de', 'httpOnly': False, 'name': 'swym-pid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '"C+ReVjusK/QAWM8v1Sy4cCLLPVAa2PM6m6KVLrUpZLs="'}, {'domain': 'uwaldu.de', 'expiry': 1675889656, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0614b4c0-b5e7-49c4-ad75-8a781d1cdf38'}, {'domain': 'uwaldu.de', 'expiry': 1675889656, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0614b4c0-b5e7-49c4-ad75-8a781d1cdf38'}, {'domain': '.uwaldu.de', 'expiry': 1645563238, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.uwaldu.de', 'expiry': 1652129658, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644353657388.5109450297'}, {'domain': 'uwaldu.de', 'httpOnly': False, 'name': 'epb_previous_pathname', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '/'}, {'domain': 'uwaldu.de', 'expiry': 1645563249, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'uwaldu.de', 'expiry': 1646945656, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0MzUzNjU2NTc3LCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjoxfX0='}, {'domain': '.uwaldu.de', 'expiry': 1645563238, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: _gat
+[After] Cookie-Name 2: _gid
+[After] Cookie-Name 3: _shopify_sa_p
+[After] Cookie-Name 4: _shopify_sa_t
+[After] Cookie-Name 5: _shopify_s
+[After] Cookie-Name 6: _s
+[After] Cookie-Name 7: swym-o_s
+[After] Cookie-Name 8: swym-swymRegid
+[After] Cookie-Name 9: swym-cu_ct
+[After] Cookie-Name 10: baMet_visit
+[After] Cookie-Name 11: _ga
+[After] Cookie-Name 12: baMet_baEvs
+[After] Cookie-Name 13: lsContextID
+[After] Cookie-Name 14: localization
+[After] Cookie-Name 15: _shopify_s
+[After] Cookie-Name 16: lsSema-
+[After] Cookie-Name 17: _ks_scriptVersion
+[After] Cookie-Name 18: __kla_id
+[After] Cookie-Name 19: swym-email
+[After] Cookie-Name 20: _ks_scriptVersionChecked
+[After] Cookie-Name 21: swym-session-id
+[After] Cookie-Name 22: _s
+[After] Cookie-Name 23: fsb_previous_pathname
+[After] Cookie-Name 24: usb_previous_pathname
+[After] Cookie-Name 25: swym-session-id
+[After] Cookie-Name 26: secure_customer_sig
+[After] Cookie-Name 27: __brLastSetCartToken
+[After] Cookie-Name 28: landingPage
+[After] Cookie-Name 29: logState
+[After] Cookie-Name 30: swym-pid
+[After] Cookie-Name 31: _y
+[After] Cookie-Name 32: _shopify_y
+[After] Cookie-Name 33: _landing_page
+[After] Cookie-Name 34: _fbp
+[After] Cookie-Name 35: epb_previous_pathname
+[After] Cookie-Name 36: cart_currency
+[After] Cookie-Name 37: _bc_c_set
+[After] Cookie-Name 38: _orig_referrer
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 31
+[Difference] Cookie-Name: 1: swym-o_s
+[Difference] Cookie-Name: 2: lsSema-
+[Difference] Cookie-Name: 3: _shopify_y
+[Difference] Cookie-Name: 4: _gid
+[Difference] Cookie-Name: 5: _y
+[Difference] Cookie-Name: 6: _shopify_sa_p
+[Difference] Cookie-Name: 7: __kla_id
+[Difference] Cookie-Name: 8: landingPage
+[Difference] Cookie-Name: 9: _fbp
+[Difference] Cookie-Name: 10: _shopify_sa_t
+[Difference] Cookie-Name: 11: swym-session-id
+[Difference] Cookie-Name: 12: baMet_visit
+[Difference] Cookie-Name: 13: __brLastSetCartToken
+[Difference] Cookie-Name: 14: epb_previous_pathname
+[Difference] Cookie-Name: 15: swym-pid
+[Difference] Cookie-Name: 16: swym-swymRegid
+[Difference] Cookie-Name: 17: _shopify_s
+[Difference] Cookie-Name: 18: _ks_scriptVersion
+[Difference] Cookie-Name: 19: usb_previous_pathname
+[Difference] Cookie-Name: 20: logState
+[Difference] Cookie-Name: 21: _bc_c_set
+[Difference] Cookie-Name: 22: swym-email
+[Difference] Cookie-Name: 23: _ga
+[Difference] Cookie-Name: 24: lsContextID
+[Difference] Cookie-Name: 25: swym-cu_ct
+[Difference] Cookie-Name: 26: _s
+[Difference] Cookie-Name: 27: baMet_baEvs
+[Difference] Cookie-Name: 28: localization
+[Difference] Cookie-Name: 29: _ks_scriptVersionChecked
+[Difference] Cookie-Name: 30: _gat
+[Difference] Cookie-Name: 31: fsb_previous_pathname
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

@@ -1,0 +1,80 @@
+Website 263: http://www.timesystem.de/ | Created: 09.02.2022 20:57:07 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 24
+[Before] Website-Cookies: [{'domain': 'timesystem.de', 'expiry': 1645646219, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': 'timesystem.de', 'expiry': 1645646219, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '28e015e5d415e6a08c6e7b7c99ace5d0'}, {'domain': 'timesystem.de', 'expiry': 1645646219, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644436619'}, {'domain': 'timesystem.de', 'expiry': 1645646219, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'timesystem.de', 'expiry': 1645646217, 'httpOnly': False, 'name': 'boldCurrencyCookie', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': 'timesystem.de', 'expiry': 1644437517, 'httpOnly': False, 'name': 'boldmc-initial-conversion', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': 'timesystem.de', 'expiry': 1644437517, 'httpOnly': False, 'name': 'boldmc-localized', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': '.timesystem.de', 'expiry': 1645646216, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'timesystem.de', 'expiry': 1644440217, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.timesystem.de', 'expiry': 1644523017, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1209810420.1644436617'}, {'domain': 'timesystem.de', 'expiry': 1645646219, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'timesystem.de', 'expiry': 1644438417, 'httpOnly': False, 'name': '__atuvs', 'path': '/', 'secure': False, 'value': '62041c8943b1585b000'}, {'domain': 'timesystem.de', 'expiry': 1645646219, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6e7f9cc15d3be5701b2d2ae1c93fe31d'}, {'domain': '.timesystem.de', 'expiry': 1644438419, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6a953bac-1ca3-4752-9f6f-37ca24ef658b'}, {'domain': '.timesystem.de', 'expiry': 1644438417, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A56%3A57.210Z'}, {'domain': '.timesystem.de', 'expiry': 1645646216, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.timesystem.de', 'expiry': 1644438417, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.timesystem.de', 'expiry': 1675972619, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f56f30ce-1e28-4c4f-a2d9-b456d845c3ca'}, {'domain': '.timesystem.de', 'expiry': 1675972619, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f56f30ce-1e28-4c4f-a2d9-b456d845c3ca'}, {'domain': '.timesystem.de', 'expiry': 1707508617, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.320718668.1644436617'}, {'domain': 'timesystem.de', 'expiry': 1678391817, 'httpOnly': False, 'name': '__atuvc', 'path': '/', 'secure': False, 'value': '1%7C6'}, {'domain': '.timesystem.de', 'expiry': 1644438419, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6a953bac-1ca3-4752-9f6f-37ca24ef658b'}, {'domain': '.timesystem.de', 'expiry': 1644436677, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'timesystem.de', 'expiry': 1675972619, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: cart_ver
+[Before] Cookie-Name 2: cart_sig
+[Before] Cookie-Name 3: cart_ts
+[Before] Cookie-Name 4: localization
+[Before] Cookie-Name 5: boldCurrencyCookie
+[Before] Cookie-Name 6: boldmc-initial-conversion
+[Before] Cookie-Name 7: boldmc-localized
+[Before] Cookie-Name 8: _orig_referrer
+[Before] Cookie-Name 9: shopify_pay_redirect
+[Before] Cookie-Name 10: _gid
+[Before] Cookie-Name 11: cart_currency
+[Before] Cookie-Name 12: __atuvs
+[Before] Cookie-Name 13: cart
+[Before] Cookie-Name 14: _shopify_s
+[Before] Cookie-Name 15: _shopify_sa_t
+[Before] Cookie-Name 16: _landing_page
+[Before] Cookie-Name 17: _shopify_sa_p
+[Before] Cookie-Name 18: _shopify_y
+[Before] Cookie-Name 19: _y
+[Before] Cookie-Name 20: _ga
+[Before] Cookie-Name 21: __atuvc
+[Before] Cookie-Name 22: _s
+[Before] Cookie-Name 23: _gat
+[Before] Cookie-Name 24: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 24
+[After] Website-Cookies: [{'domain': 'timesystem.de', 'expiry': 1645646219, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': 'timesystem.de', 'expiry': 1645646219, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '28e015e5d415e6a08c6e7b7c99ace5d0'}, {'domain': 'timesystem.de', 'expiry': 1645646219, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644436619'}, {'domain': 'timesystem.de', 'expiry': 1645646219, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'timesystem.de', 'expiry': 1645646217, 'httpOnly': False, 'name': 'boldCurrencyCookie', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': 'timesystem.de', 'expiry': 1644437517, 'httpOnly': False, 'name': 'boldmc-initial-conversion', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': 'timesystem.de', 'expiry': 1644437517, 'httpOnly': False, 'name': 'boldmc-localized', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': '.timesystem.de', 'expiry': 1645646216, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'timesystem.de', 'expiry': 1644440217, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.timesystem.de', 'expiry': 1644523017, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1209810420.1644436617'}, {'domain': 'timesystem.de', 'expiry': 1645646219, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'timesystem.de', 'expiry': 1644438417, 'httpOnly': False, 'name': '__atuvs', 'path': '/', 'secure': False, 'value': '62041c8943b1585b000'}, {'domain': 'timesystem.de', 'expiry': 1645646219, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6e7f9cc15d3be5701b2d2ae1c93fe31d'}, {'domain': '.timesystem.de', 'expiry': 1644438419, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6a953bac-1ca3-4752-9f6f-37ca24ef658b'}, {'domain': '.timesystem.de', 'expiry': 1644438417, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A56%3A57.210Z'}, {'domain': '.timesystem.de', 'expiry': 1645646216, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.timesystem.de', 'expiry': 1644438417, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.timesystem.de', 'expiry': 1675972619, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f56f30ce-1e28-4c4f-a2d9-b456d845c3ca'}, {'domain': '.timesystem.de', 'expiry': 1675972619, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f56f30ce-1e28-4c4f-a2d9-b456d845c3ca'}, {'domain': '.timesystem.de', 'expiry': 1707508617, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.320718668.1644436617'}, {'domain': 'timesystem.de', 'expiry': 1678391817, 'httpOnly': False, 'name': '__atuvc', 'path': '/', 'secure': False, 'value': '1%7C6'}, {'domain': '.timesystem.de', 'expiry': 1644438419, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6a953bac-1ca3-4752-9f6f-37ca24ef658b'}, {'domain': '.timesystem.de', 'expiry': 1644436677, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'timesystem.de', 'expiry': 1675972619, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: cart_ver
+[After] Cookie-Name 2: cart_sig
+[After] Cookie-Name 3: cart_ts
+[After] Cookie-Name 4: localization
+[After] Cookie-Name 5: boldCurrencyCookie
+[After] Cookie-Name 6: boldmc-initial-conversion
+[After] Cookie-Name 7: boldmc-localized
+[After] Cookie-Name 8: _orig_referrer
+[After] Cookie-Name 9: shopify_pay_redirect
+[After] Cookie-Name 10: _gid
+[After] Cookie-Name 11: cart_currency
+[After] Cookie-Name 12: __atuvs
+[After] Cookie-Name 13: cart
+[After] Cookie-Name 14: _shopify_s
+[After] Cookie-Name 15: _shopify_sa_t
+[After] Cookie-Name 16: _landing_page
+[After] Cookie-Name 17: _shopify_sa_p
+[After] Cookie-Name 18: _shopify_y
+[After] Cookie-Name 19: _y
+[After] Cookie-Name 20: _ga
+[After] Cookie-Name 21: __atuvc
+[After] Cookie-Name 22: _s
+[After] Cookie-Name 23: _gat
+[After] Cookie-Name 24: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gat (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

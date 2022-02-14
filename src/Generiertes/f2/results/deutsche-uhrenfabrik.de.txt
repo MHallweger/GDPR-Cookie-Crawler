@@ -1,0 +1,69 @@
+Website 80: http://www.deutsche-uhrenfabrik.de/ | Created: 09.02.2022 11:10:31 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 18
+[Before] Website-Cookies: [{'domain': 'www.deutsche-uhrenfabrik.de', 'expiry': 1644401723, 'httpOnly': False, 'name': 'trustedsite_tm_float_seen', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.deutsche-uhrenfabrik.de', 'expiry': 1644487823, 'httpOnly': False, 'name': 'trustedsite_visit', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.deutsche-uhrenfabrik.de', 'httpOnly': False, 'name': 'qab_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.deutsche-uhrenfabrik.de', 'expiry': 1644401481, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.deutsche-uhrenfabrik.de', 'expiry': 1652177422, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644401421721.165726073'}, {'domain': '.deutsche-uhrenfabrik.de', 'expiry': 1644487821, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.663938000.1644401422'}, {'domain': '.deutsche-uhrenfabrik.de', 'expiry': 1707473420, 'httpOnly': False, 'name': '_ga_8JB0VHSE37', 'path': '/', 'secure': False, 'value': 'GS1.1.1644401420.1.0.1644401420.60'}, {'domain': '.deutsche-uhrenfabrik.de', 'expiry': 1644403221, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A10%3A21.485Z'}, {'domain': '.deutsche-uhrenfabrik.de', 'expiry': 1644403221, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.deutsche-uhrenfabrik.de', 'expiry': 1707473421, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.89580981.1644401420'}, {'domain': '.deutsche-uhrenfabrik.de', 'expiry': 1644403222, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7bc671b2-6be3-4c0a-a082-bbc796c5c21d'}, {'domain': 'www.deutsche-uhrenfabrik.de', 'httpOnly': False, 'name': 'p', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1'}, {'domain': '.deutsche-uhrenfabrik.de', 'expiry': 1645611020, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.deutsche-uhrenfabrik.de', 'expiry': 1644403222, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7bc671b2-6be3-4c0a-a082-bbc796c5c21d'}, {'domain': 'www.deutsche-uhrenfabrik.de', 'expiry': 1675937420, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.deutsche-uhrenfabrik.de', 'expiry': 1675937422, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2e050cc6-e09a-4353-8c49-461731b1744a'}, {'domain': '.deutsche-uhrenfabrik.de', 'expiry': 1675937422, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2e050cc6-e09a-4353-8c49-461731b1744a'}, {'domain': '.deutsche-uhrenfabrik.de', 'expiry': 1645611020, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[Before] Cookie-Name 1: trustedsite_tm_float_seen
+[Before] Cookie-Name 2: trustedsite_visit
+[Before] Cookie-Name 3: qab_previous_pathname
+[Before] Cookie-Name 4: _gat
+[Before] Cookie-Name 5: _fbp
+[Before] Cookie-Name 6: _gid
+[Before] Cookie-Name 7: _ga_8JB0VHSE37
+[Before] Cookie-Name 8: _shopify_sa_t
+[Before] Cookie-Name 9: _shopify_sa_p
+[Before] Cookie-Name 10: _ga
+[Before] Cookie-Name 11: _shopify_s
+[Before] Cookie-Name 12: p
+[Before] Cookie-Name 13: _landing_page
+[Before] Cookie-Name 14: _s
+[Before] Cookie-Name 15: secure_customer_sig
+[Before] Cookie-Name 16: _y
+[Before] Cookie-Name 17: _shopify_y
+[Before] Cookie-Name 18: _orig_referrer
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 18
+[After] Website-Cookies: [{'domain': 'www.deutsche-uhrenfabrik.de', 'expiry': 1644401723, 'httpOnly': False, 'name': 'trustedsite_tm_float_seen', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.deutsche-uhrenfabrik.de', 'expiry': 1644487823, 'httpOnly': False, 'name': 'trustedsite_visit', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.deutsche-uhrenfabrik.de', 'httpOnly': False, 'name': 'qab_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.deutsche-uhrenfabrik.de', 'expiry': 1644401481, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.deutsche-uhrenfabrik.de', 'expiry': 1652177422, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644401421721.165726073'}, {'domain': '.deutsche-uhrenfabrik.de', 'expiry': 1644487821, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.663938000.1644401422'}, {'domain': '.deutsche-uhrenfabrik.de', 'expiry': 1707473420, 'httpOnly': False, 'name': '_ga_8JB0VHSE37', 'path': '/', 'secure': False, 'value': 'GS1.1.1644401420.1.0.1644401420.60'}, {'domain': '.deutsche-uhrenfabrik.de', 'expiry': 1644403221, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A10%3A21.485Z'}, {'domain': '.deutsche-uhrenfabrik.de', 'expiry': 1644403221, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.deutsche-uhrenfabrik.de', 'expiry': 1707473421, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.89580981.1644401420'}, {'domain': '.deutsche-uhrenfabrik.de', 'expiry': 1644403222, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7bc671b2-6be3-4c0a-a082-bbc796c5c21d'}, {'domain': 'www.deutsche-uhrenfabrik.de', 'httpOnly': False, 'name': 'p', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1'}, {'domain': '.deutsche-uhrenfabrik.de', 'expiry': 1645611020, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.deutsche-uhrenfabrik.de', 'expiry': 1644403222, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7bc671b2-6be3-4c0a-a082-bbc796c5c21d'}, {'domain': 'www.deutsche-uhrenfabrik.de', 'expiry': 1675937420, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.deutsche-uhrenfabrik.de', 'expiry': 1675937422, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2e050cc6-e09a-4353-8c49-461731b1744a'}, {'domain': '.deutsche-uhrenfabrik.de', 'expiry': 1675937422, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2e050cc6-e09a-4353-8c49-461731b1744a'}, {'domain': '.deutsche-uhrenfabrik.de', 'expiry': 1645611020, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: trustedsite_tm_float_seen
+[After] Cookie-Name 2: trustedsite_visit
+[After] Cookie-Name 3: qab_previous_pathname
+[After] Cookie-Name 4: _gat
+[After] Cookie-Name 5: _fbp
+[After] Cookie-Name 6: _gid
+[After] Cookie-Name 7: _ga_8JB0VHSE37
+[After] Cookie-Name 8: _shopify_sa_t
+[After] Cookie-Name 9: _shopify_sa_p
+[After] Cookie-Name 10: _ga
+[After] Cookie-Name 11: _shopify_s
+[After] Cookie-Name 12: p
+[After] Cookie-Name 13: _landing_page
+[After] Cookie-Name 14: _s
+[After] Cookie-Name 15: secure_customer_sig
+[After] Cookie-Name 16: _y
+[After] Cookie-Name 17: _shopify_y
+[After] Cookie-Name 18: _orig_referrer
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

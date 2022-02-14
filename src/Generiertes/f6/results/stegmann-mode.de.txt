@@ -1,0 +1,100 @@
+Website 214: http://www.stegmann-mode.de/ | Created: 10.02.2022 13:15:55 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 28
+[Before] Website-Cookies: [{'domain': '.www.stegmann-mode.de', 'expiry': 1676031356, 'httpOnly': False, 'name': 'swym-cu_ct', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"33a7c5237ef23487156851df3b6b3541"'}, {'domain': 'www.stegmann-mode.de', 'httpOnly': False, 'name': 'snize-recommendation', 'path': '/', 'secure': False, 'value': 'v5yn3c6bz5'}, {'domain': '.stegmann-mode.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.www.stegmann-mode.de', 'expiry': 1676031345, 'httpOnly': False, 'name': 'swym-email', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'null'}, {'domain': '.www.stegmann-mode.de', 'expiry': 1676031345, 'httpOnly': False, 'name': 'swym-swymRegid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"OS799R7m8eduI_gkbqOmDx3q9hSO-7QMT66ULDPtTh8ZhHl1acZ0H1EwdVbBm6RqkqoEEMzEMq3x7_mfDB1r_CPKyIDtxLNCIYKiaO_0oMAcYFDpVEfrBc0lwQPm5ooQ6bJx7xEBI3coUyeDp4nl5DCmYCP1JO7WKqnfnR4eDbM"'}, {'domain': '.www.stegmann-mode.de', 'expiry': 1676031345, 'httpOnly': False, 'name': 'swym-pid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"2ZqdMPBhX9AmSO0p+gQAhFa04E4gvzqfgVC6EF66y+A="'}, {'domain': '.www.stegmann-mode.de', 'expiry': 1644497156, 'httpOnly': False, 'name': 'swym-session-id', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"i6vq6czkjusd7ayrnewpjhr6szdc6b3aetujiqupnz0r5rzanok0bp8md5xepy57"'}, {'domain': 'www.stegmann-mode.de', 'expiry': 1707567345, 'httpOnly': False, 'name': '_sp_id.533e', 'path': '/', 'secure': False, 'value': 'f04fec66d68cb3f8.1644495345.1.1644495345.1644495345'}, {'domain': '.stegmann-mode.de', 'expiry': 1644497156, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.stegmann-mode.de', 'expiry': 1652271345, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644495344838.722593298'}, {'domain': '.www.stegmann-mode.de', 'expiry': 1644497145, 'httpOnly': False, 'name': 'swym-o_s', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'true'}, {'domain': '.stegmann-mode.de', 'expiry': 1676031344, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.stegmann-mode.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bfc114f7-256c-4d11-a9ef-0d9add78886d'}, {'domain': '.stegmann-mode.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ce21e82c-4394-4653-8b41-487d35bc4273'}, {'domain': '.stegmann-mode.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bfc114f7-256c-4d11-a9ef-0d9add78886d'}, {'domain': '.stegmann-mode.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ce21e82c-4394-4653-8b41-487d35bc4273'}, {'domain': '.stegmann-mode.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.stegmann-mode.de', 'expiry': 1644497145, 'httpOnly': False, 'name': '_sp_ses.533e', 'path': '/', 'secure': False, 'value': '*'}, {'domain': '.stegmann-mode.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.stegmann-mode.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T12%3A15%3A46.088Z'}, {'domain': '.stegmann-mode.de', 'expiry': 1645704944, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.stegmann-mode.de', 'expiry': 1645704956, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'www.stegmann-mode.de', 'expiry': 1645704956, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.stegmann-mode.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.stegmann-mode.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T12%3A15%3A46.120Z'}, {'domain': '.stegmann-mode.de', 'expiry': 1676031344, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22v%22%3A%222.0%22%7D'}, {'domain': 'www.stegmann-mode.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.stegmann-mode.de', 'expiry': 1676031356, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: swym-cu_ct
+[Before] Cookie-Name 2: snize-recommendation
+[Before] Cookie-Name 3: _shopify_sa_p
+[Before] Cookie-Name 4: swym-email
+[Before] Cookie-Name 5: swym-swymRegid
+[Before] Cookie-Name 6: swym-pid
+[Before] Cookie-Name 7: swym-session-id
+[Before] Cookie-Name 8: _sp_id.533e
+[Before] Cookie-Name 9: _shopify_tm
+[Before] Cookie-Name 10: _fbp
+[Before] Cookie-Name 11: swym-o_s
+[Before] Cookie-Name 12: _shopify_m
+[Before] Cookie-Name 13: _shopify_s
+[Before] Cookie-Name 14: _shopify_y
+[Before] Cookie-Name 15: _s
+[Before] Cookie-Name 16: _y
+[Before] Cookie-Name 17: _shopify_evids
+[Before] Cookie-Name 18: _sp_ses.533e
+[Before] Cookie-Name 19: _landing_page
+[Before] Cookie-Name 20: _shopify_d
+[Before] Cookie-Name 21: _shopify_tw
+[Before] Cookie-Name 22: localization
+[Before] Cookie-Name 23: cart_currency
+[Before] Cookie-Name 24: _orig_referrer
+[Before] Cookie-Name 25: _shopify_sa_t
+[Before] Cookie-Name 26: _tracking_consent
+[Before] Cookie-Name 27: _shopify_evids
+[Before] Cookie-Name 28: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 36
+[After] Website-Cookies: [{'domain': '.www.stegmann-mode.de', 'expiry': 1676031362, 'httpOnly': False, 'name': 'swym-cu_ct', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"f2f2169b1125f885f5a22d936167a152"'}, {'domain': '.stegmann-mode.de', 'expiry': 1707567361, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.967074514.1644495362'}, {'domain': '.stegmann-mode.de', 'expiry': 1676031361, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': 'www.stegmann-mode.de', 'expiry': 1645704961, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644495361'}, {'domain': 'www.stegmann-mode.de', 'expiry': 1645704961, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f2f2169b1125f885f5a22d936167a152'}, {'domain': 'www.stegmann-mode.de', 'httpOnly': False, 'name': 'snize-recommendation', 'path': '/', 'secure': False, 'value': 'v5yn3c6bz5'}, {'domain': '.stegmann-mode.de', 'expiry': 1644497161, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.stegmann-mode.de', 'expiry': 1676031361, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%221%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': '.stegmann-mode.de', 'expiry': 1644497161, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T12%3A15%3A46.120Z'}, {'domain': 'www.stegmann-mode.de', 'expiry': 1676031362, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'www.stegmann-mode.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.stegmann-mode.de', 'expiry': 1645704961, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': 'www.stegmann-mode.de', 'expiry': 1645704961, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a89503c070d0e180967648d76476c0f2'}, {'domain': '.www.stegmann-mode.de', 'expiry': 1676031345, 'httpOnly': False, 'name': 'swym-swymRegid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"OS799R7m8eduI_gkbqOmDx3q9hSO-7QMT66ULDPtTh8ZhHl1acZ0H1EwdVbBm6RqkqoEEMzEMq3x7_mfDB1r_CPKyIDtxLNCIYKiaO_0oMAcYFDpVEfrBc0lwQPm5ooQ6bJx7xEBI3coUyeDp4nl5DCmYCP1JO7WKqnfnR4eDbM"'}, {'domain': '.www.stegmann-mode.de', 'expiry': 1676031345, 'httpOnly': False, 'name': 'swym-email', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'null'}, {'domain': '.stegmann-mode.de', 'expiry': 1644495421, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.www.stegmann-mode.de', 'expiry': 1676031345, 'httpOnly': False, 'name': 'swym-pid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"2ZqdMPBhX9AmSO0p+gQAhFa04E4gvzqfgVC6EF66y+A="'}, {'domain': '.www.stegmann-mode.de', 'expiry': 1644497162, 'httpOnly': False, 'name': 'swym-session-id', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"i6vq6czkjusd7ayrnewpjhr6szdc6b3aetujiqupnz0r5rzanok0bp8md5xepy57"'}, {'domain': 'www.stegmann-mode.de', 'expiry': 1707567345, 'httpOnly': False, 'name': '_sp_id.533e', 'path': '/', 'secure': False, 'value': 'f04fec66d68cb3f8.1644495345.1.1644495345.1644495345'}, {'domain': '.stegmann-mode.de', 'expiry': 1644497162, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.stegmann-mode.de', 'expiry': 1652271362, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644495344838.722593298'}, {'domain': '.stegmann-mode.de', 'expiry': 1645704961, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.stegmann-mode.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T12%3A15%3A46.088Z'}, {'domain': 'www.stegmann-mode.de', 'expiry': 1645704962, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.stegmann-mode.de', 'expiry': 1645704944, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.www.stegmann-mode.de', 'expiry': 1644497145, 'httpOnly': False, 'name': 'swym-o_s', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'true'}, {'domain': '.stegmann-mode.de', 'expiry': 1644497162, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bfc114f7-256c-4d11-a9ef-0d9add78886d'}, {'domain': '.stegmann-mode.de', 'expiry': 1676031362, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ce21e82c-4394-4653-8b41-487d35bc4273'}, {'domain': '.stegmann-mode.de', 'expiry': 1644497162, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bfc114f7-256c-4d11-a9ef-0d9add78886d'}, {'domain': '.stegmann-mode.de', 'expiry': 1676031362, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ce21e82c-4394-4653-8b41-487d35bc4273'}, {'domain': '.stegmann-mode.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.stegmann-mode.de', 'expiry': 1644581761, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1823819214.1644495362'}, {'domain': 'www.stegmann-mode.de', 'expiry': 1644497145, 'httpOnly': False, 'name': '_sp_ses.533e', 'path': '/', 'secure': False, 'value': '*'}, {'domain': '.stegmann-mode.de', 'expiry': 1652271362, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.240569977.1644495362'}, {'domain': '.stegmann-mode.de', 'expiry': 1645704961, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.stegmann-mode.de', 'expiry': 1645704962, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}]
+[After] Cookie-Name 1: swym-cu_ct
+[After] Cookie-Name 2: _ga
+[After] Cookie-Name 3: _shopify_m
+[After] Cookie-Name 4: cart_ts
+[After] Cookie-Name 5: cart
+[After] Cookie-Name 6: snize-recommendation
+[After] Cookie-Name 7: _shopify_sa_p
+[After] Cookie-Name 8: _tracking_consent
+[After] Cookie-Name 9: _shopify_sa_t
+[After] Cookie-Name 10: secure_customer_sig
+[After] Cookie-Name 11: _shopify_evids
+[After] Cookie-Name 12: cart_ver
+[After] Cookie-Name 13: cart_sig
+[After] Cookie-Name 14: swym-swymRegid
+[After] Cookie-Name 15: swym-email
+[After] Cookie-Name 16: _gat
+[After] Cookie-Name 17: swym-pid
+[After] Cookie-Name 18: swym-session-id
+[After] Cookie-Name 19: _sp_id.533e
+[After] Cookie-Name 20: _shopify_tm
+[After] Cookie-Name 21: _fbp
+[After] Cookie-Name 22: _orig_referrer
+[After] Cookie-Name 23: _shopify_d
+[After] Cookie-Name 24: localization
+[After] Cookie-Name 25: _shopify_tw
+[After] Cookie-Name 26: swym-o_s
+[After] Cookie-Name 27: _shopify_s
+[After] Cookie-Name 28: _shopify_y
+[After] Cookie-Name 29: _s
+[After] Cookie-Name 30: _y
+[After] Cookie-Name 31: _shopify_evids
+[After] Cookie-Name 32: _gid
+[After] Cookie-Name 33: _sp_ses.533e
+[After] Cookie-Name 34: _gcl_au
+[After] Cookie-Name 35: _landing_page
+[After] Cookie-Name 36: cart_currency
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 8
+[Difference] Cookie-Name: 1: _gid
+[Difference] Cookie-Name: 2: _gcl_au
+[Difference] Cookie-Name: 3: cart
+[Difference] Cookie-Name: 4: cart_ts
+[Difference] Cookie-Name: 5: cart_sig
+[Difference] Cookie-Name: 6: _gat
+[Difference] Cookie-Name: 7: cart_ver
+[Difference] Cookie-Name: 8: _ga
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

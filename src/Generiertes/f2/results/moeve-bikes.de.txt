@@ -1,0 +1,55 @@
+Website 387: http://www.moeve-bikes.de/ | Created: 09.02.2022 12:43:48 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 12
+[Before] Website-Cookies: [{'domain': '.moeve-bikes.de', 'expiry': 1644408820, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.moeve-bikes.de', 'expiry': 1644408820, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bf40933b-9aa8-42e5-a8a7-ed17c5db4e38'}, {'domain': '.moeve-bikes.de', 'expiry': 1675943011, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7a4cf8f5-9d48-40e4-9c29-e44cb1dd218d'}, {'domain': 'moeve-bikes.de', 'expiry': 1644410620, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.moeve-bikes.de', 'expiry': 1675943011, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7a4cf8f5-9d48-40e4-9c29-e44cb1dd218d'}, {'domain': '.moeve-bikes.de', 'expiry': 1644408820, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T11%3A43%3A40.044Z'}, {'domain': '.moeve-bikes.de', 'expiry': 1644408820, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bf40933b-9aa8-42e5-a8a7-ed17c5db4e38'}, {'domain': 'moeve-bikes.de', 'expiry': 1645616611, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.moeve-bikes.de', 'expiry': 1645616611, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'moeve-bikes.de', 'expiry': 1675943011, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.moeve-bikes.de', 'expiry': 1645616611, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'moeve-bikes.de', 'expiry': 1645616611, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}]
+[Before] Cookie-Name 1: _shopify_sa_p
+[Before] Cookie-Name 2: _shopify_s
+[Before] Cookie-Name 3: _shopify_y
+[Before] Cookie-Name 4: shopify_pay_redirect
+[Before] Cookie-Name 5: _y
+[Before] Cookie-Name 6: _shopify_sa_t
+[Before] Cookie-Name 7: _s
+[Before] Cookie-Name 8: cart_currency
+[Before] Cookie-Name 9: _orig_referrer
+[Before] Cookie-Name 10: secure_customer_sig
+[Before] Cookie-Name 11: _landing_page
+[Before] Cookie-Name 12: localization
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 14
+[After] Website-Cookies: [{'domain': '.moeve-bikes.de', 'expiry': 1652183034, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644407034325.346796466'}, {'domain': 'moeve-bikes.de', 'expiry': 1675943033, 'httpOnly': False, 'name': 'CookieConsent', 'path': '/', 'secure': True, 'value': '{stamp:%27uJtHZVYCcufnpn+NUl34UtHLItN8A+OMo9x2OcNb60cOAUVbgwGkBw==%27%2Cnecessary:true%2Cpreferences:true%2Cstatistics:true%2Cmarketing:true%2Cver:1%2Cutc:1644407033672%2Cregion:%27de%27}'}, {'domain': '.moeve-bikes.de', 'expiry': 1644408820, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.moeve-bikes.de', 'expiry': 1644408820, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bf40933b-9aa8-42e5-a8a7-ed17c5db4e38'}, {'domain': '.moeve-bikes.de', 'expiry': 1675943011, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7a4cf8f5-9d48-40e4-9c29-e44cb1dd218d'}, {'domain': 'moeve-bikes.de', 'expiry': 1644410620, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.moeve-bikes.de', 'expiry': 1675943011, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7a4cf8f5-9d48-40e4-9c29-e44cb1dd218d'}, {'domain': '.moeve-bikes.de', 'expiry': 1644408820, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T11%3A43%3A40.044Z'}, {'domain': '.moeve-bikes.de', 'expiry': 1644408820, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bf40933b-9aa8-42e5-a8a7-ed17c5db4e38'}, {'domain': 'moeve-bikes.de', 'expiry': 1645616611, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.moeve-bikes.de', 'expiry': 1645616611, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'moeve-bikes.de', 'expiry': 1675943011, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.moeve-bikes.de', 'expiry': 1645616611, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'moeve-bikes.de', 'expiry': 1645616611, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}]
+[After] Cookie-Name 1: _fbp
+[After] Cookie-Name 2: CookieConsent
+[After] Cookie-Name 3: _shopify_sa_p
+[After] Cookie-Name 4: _shopify_s
+[After] Cookie-Name 5: _shopify_y
+[After] Cookie-Name 6: shopify_pay_redirect
+[After] Cookie-Name 7: _y
+[After] Cookie-Name 8: _shopify_sa_t
+[After] Cookie-Name 9: _s
+[After] Cookie-Name 10: cart_currency
+[After] Cookie-Name 11: _orig_referrer
+[After] Cookie-Name 12: secure_customer_sig
+[After] Cookie-Name 13: _landing_page
+[After] Cookie-Name 14: localization
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 2
+[Difference] Cookie-Name: 1: _fbp
+[Difference] Cookie-Name: 2: CookieConsent
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

@@ -1,0 +1,70 @@
+Website 264: http://www.schmiede24.de/ | Created: 10.02.2022 13:30:51 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 17
+[Before] Website-Cookies: [{'domain': '.schmiede24.de', 'expiry': 1660048250, 'httpOnly': False, 'name': '__lotl', 'path': '/', 'secure': False, 'value': 'https%3A%2F%2Fwww.schmiede24.de%2F'}, {'domain': '.schmiede24.de', 'expiry': 1676032250, 'httpOnly': False, 'name': '_lo_v', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.schmiede24.de', 'expiry': 1707568250, 'httpOnly': False, 'name': '_lo_uid', 'path': '/', 'secure': False, 'value': '128965-1644496249452-3f5d8e40ced490da'}, {'domain': 'www.schmiede24.de', 'httpOnly': False, 'name': 'snize-recommendation', 'path': '/', 'secure': False, 'value': 'zz3265cdah'}, {'domain': '.schmiede24.de', 'expiry': 1644582639, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': '1amz9wm|1644496239810|1|1|e.clarity.ms/collect'}, {'domain': '.schmiede24.de', 'expiry': 1676032250, 'httpOnly': False, 'name': '__zlcmid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '18TkhE7vS4GfNcj'}, {'domain': '.schmiede24.de', 'expiry': 1676032239, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': '1wmm75p|1|eyv|0'}, {'domain': '.schmiede24.de', 'expiry': 1644498050, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fd9a0f31-9ac6-4d3e-b577-cc63391659fd'}, {'domain': '.schmiede24.de', 'expiry': 1678192238, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '40fff8908a6d11ec9626fd22ed160899'}, {'domain': '.schmiede24.de', 'expiry': 1644496850, 'httpOnly': False, 'name': '_lorid', 'path': '/', 'secure': False, 'value': '128965-1644496249452-972726cdaaccc7e6'}, {'domain': '.schmiede24.de', 'expiry': 1644582638, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': '40ffefa08a6d11eca8dfbf5f4219daa1'}, {'domain': '.schmiede24.de', 'expiry': 1676032250, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2261081a-4651-46bb-ba16-154f78f17db9'}, {'domain': '.schmiede24.de', 'expiry': 1644498050, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fd9a0f31-9ac6-4d3e-b577-cc63391659fd'}, {'domain': '.schmiede24.de', 'expiry': 1676032250, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2261081a-4651-46bb-ba16-154f78f17db9'}, {'domain': '.schmiede24.de', 'expiry': 1645705838, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.schmiede24.de', 'expiry': 1645705838, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.schmiede24.de', 'expiry': 1676032250, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: __lotl
+[Before] Cookie-Name 2: _lo_v
+[Before] Cookie-Name 3: _lo_uid
+[Before] Cookie-Name 4: snize-recommendation
+[Before] Cookie-Name 5: _clsk
+[Before] Cookie-Name 6: __zlcmid
+[Before] Cookie-Name 7: _clck
+[Before] Cookie-Name 8: _s
+[Before] Cookie-Name 9: _uetvid
+[Before] Cookie-Name 10: _lorid
+[Before] Cookie-Name 11: _uetsid
+[Before] Cookie-Name 12: _shopify_y
+[Before] Cookie-Name 13: _shopify_s
+[Before] Cookie-Name 14: _y
+[Before] Cookie-Name 15: _landing_page
+[Before] Cookie-Name 16: _orig_referrer
+[Before] Cookie-Name 17: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 17
+[After] Website-Cookies: [{'domain': '.schmiede24.de', 'expiry': 1660048250, 'httpOnly': False, 'name': '__lotl', 'path': '/', 'secure': False, 'value': 'https%3A%2F%2Fwww.schmiede24.de%2F'}, {'domain': '.schmiede24.de', 'expiry': 1676032250, 'httpOnly': False, 'name': '_lo_v', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.schmiede24.de', 'expiry': 1707568250, 'httpOnly': False, 'name': '_lo_uid', 'path': '/', 'secure': False, 'value': '128965-1644496249452-3f5d8e40ced490da'}, {'domain': 'www.schmiede24.de', 'httpOnly': False, 'name': 'snize-recommendation', 'path': '/', 'secure': False, 'value': 'zz3265cdah'}, {'domain': '.schmiede24.de', 'expiry': 1644582639, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': '1amz9wm|1644496239810|1|1|e.clarity.ms/collect'}, {'domain': '.schmiede24.de', 'expiry': 1676032250, 'httpOnly': False, 'name': '__zlcmid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '18TkhE7vS4GfNcj'}, {'domain': '.schmiede24.de', 'expiry': 1676032239, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': '1wmm75p|1|eyv|0'}, {'domain': '.schmiede24.de', 'expiry': 1644498050, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fd9a0f31-9ac6-4d3e-b577-cc63391659fd'}, {'domain': '.schmiede24.de', 'expiry': 1678192238, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '40fff8908a6d11ec9626fd22ed160899'}, {'domain': '.schmiede24.de', 'expiry': 1644496850, 'httpOnly': False, 'name': '_lorid', 'path': '/', 'secure': False, 'value': '128965-1644496249452-972726cdaaccc7e6'}, {'domain': '.schmiede24.de', 'expiry': 1644582638, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': '40ffefa08a6d11eca8dfbf5f4219daa1'}, {'domain': '.schmiede24.de', 'expiry': 1676032250, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2261081a-4651-46bb-ba16-154f78f17db9'}, {'domain': '.schmiede24.de', 'expiry': 1644498050, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fd9a0f31-9ac6-4d3e-b577-cc63391659fd'}, {'domain': '.schmiede24.de', 'expiry': 1676032250, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2261081a-4651-46bb-ba16-154f78f17db9'}, {'domain': '.schmiede24.de', 'expiry': 1645705838, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.schmiede24.de', 'expiry': 1645705838, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.schmiede24.de', 'expiry': 1676032250, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: __lotl
+[After] Cookie-Name 2: _lo_v
+[After] Cookie-Name 3: _lo_uid
+[After] Cookie-Name 4: snize-recommendation
+[After] Cookie-Name 5: _clsk
+[After] Cookie-Name 6: __zlcmid
+[After] Cookie-Name 7: _clck
+[After] Cookie-Name 8: _s
+[After] Cookie-Name 9: _uetvid
+[After] Cookie-Name 10: _lorid
+[After] Cookie-Name 11: _uetsid
+[After] Cookie-Name 12: _shopify_y
+[After] Cookie-Name 13: _shopify_s
+[After] Cookie-Name 14: _y
+[After] Cookie-Name 15: _landing_page
+[After] Cookie-Name 16: _orig_referrer
+[After] Cookie-Name 17: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: __lotl (Lucky Orange (User experience tool))
+[Used before] Cookie-Name: _lo_v (Lucky Orange (User experience tool))
+[Used before] Cookie-Name: _lo_uid (Lucky Orange (User experience tool))
+[Used before] Cookie-Name: _clsk (Microsoft Clarity (User experience tool))
+[Used before] Cookie-Name: _clck (Microsoft Clarity (User experience tool))
+[Used before] Cookie-Name: _lorid (Lucky Orange (User experience tool))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

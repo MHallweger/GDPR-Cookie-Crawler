@@ -1,0 +1,64 @@
+Website 309: http://www.betten-haskins.de/ | Created: 09.02.2022 21:11:17 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 17
+[Before] Website-Cookies: [{'domain': 'betten-haskins.de', 'expiry': 1644523869, 'httpOnly': False, 'name': 'trustedsite_visit', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'betten-haskins.de', 'expiry': 1675973469, 'httpOnly': False, 'name': '_pandectes_gdpr', 'path': '/', 'secure': True, 'value': 'eyJjb3VudHJ5Ijp7ImNvZGUiOiJERSIsInN0YXRlIjoiTlciLCJkZXRlY3RlZCI6MTY0NDQzNzQ2OX0sInN0YXR1cyI6IiIsInRpbWVzdGFtcCI6bnVsbCwicHJlZmVyZW5jZXMiOm51bGx9'}, {'domain': 'betten-haskins.de', 'expiry': 1644523869, 'httpOnly': False, 'name': 'updatechatycounter', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'yes'}, {'domain': 'betten-haskins.de', 'expiry': 1645042269, 'httpOnly': False, 'name': 'chaty_status_string', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '[{"k":"cwds6886","v":"2022-02-09T20:11:09.391Z"},{"k":"cwds6886_phone","v":"2022-02-09T20:11:09.392Z"},{"k":"cwds6886_email","v":"2022-02-09T20:11:09.393Z"},{"k":"cwds6886_google_maps","v":"2022-02-09T20:11:09.393Z"}]'}, {'domain': 'betten-haskins.de', 'expiry': 1645042269, 'httpOnly': False, 'name': 'chaty_settings', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '[{"k":"cs6886","v":"2022-02-09T20:11:09.391Z"}]'}, {'domain': '.betten-haskins.de', 'expiry': 1645647067, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'betten-haskins.de', 'expiry': 1644523869, 'httpOnly': False, 'name': 'chaty_traffic_source', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'true'}, {'domain': 'betten-haskins.de', 'expiry': 1644523869, 'httpOnly': False, 'name': 'updatechtwidgetvisitor_0', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'yes'}, {'domain': '.betten-haskins.de', 'expiry': 1675973468, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU1XVmpNamN3WXpBdE1HRm1ZUzAwTkdVMUxXRTNaVGd0T1dKak9UaGpaamswT0RaaA'}, {'domain': 'betten-haskins.de', 'expiry': 1675973467, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.betten-haskins.de', 'expiry': 1644439268, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'betten-haskins.de', 'expiry': 1644441068, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.betten-haskins.de', 'expiry': 1675973467, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b02616e4-f45b-4e23-8cbc-cb3b29871218'}, {'domain': 'betten-haskins.de', 'expiry': 1645647067, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': 'betten-haskins.de', 'expiry': 1645647067, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': ''}, {'domain': '.betten-haskins.de', 'expiry': 1644439268, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b893f4e1-1e29-43e2-a18c-240618afa3d5'}, {'domain': '.betten-haskins.de', 'expiry': 1645647067, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}]
+[Before] Cookie-Name 1: trustedsite_visit
+[Before] Cookie-Name 2: _pandectes_gdpr
+[Before] Cookie-Name 3: updatechatycounter
+[Before] Cookie-Name 4: chaty_status_string
+[Before] Cookie-Name 5: chaty_settings
+[Before] Cookie-Name 6: _orig_referrer
+[Before] Cookie-Name 7: chaty_traffic_source
+[Before] Cookie-Name 8: updatechtwidgetvisitor_0
+[Before] Cookie-Name 9: _pin_unauth
+[Before] Cookie-Name 10: secure_customer_sig
+[Before] Cookie-Name 11: _shopify_sa_p
+[Before] Cookie-Name 12: shopify_pay_redirect
+[Before] Cookie-Name 13: _y
+[Before] Cookie-Name 14: cart_currency
+[Before] Cookie-Name 15: localization
+[Before] Cookie-Name 16: _s
+[Before] Cookie-Name 17: _landing_page
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 18
+[After] Website-Cookies: [{'domain': 'betten-haskins.de', 'expiry': 1675973482, 'httpOnly': False, 'name': '_pandectes_gdpr', 'path': '/', 'secure': True, 'value': 'eyJjb3VudHJ5Ijp7ImNvZGUiOiJERSIsInN0YXRlIjoiTlciLCJkZXRlY3RlZCI6MTY0NDQzNzQ2OX0sInN0YXR1cyI6ImFsbG93IiwidGltZXN0YW1wIjoxNjQ0NDM3NDgyLCJwcmVmZXJlbmNlcyI6MH0='}, {'domain': 'betten-haskins.de', 'expiry': 1644523869, 'httpOnly': False, 'name': 'trustedsite_visit', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'betten-haskins.de', 'expiry': 1644523869, 'httpOnly': False, 'name': 'updatechatycounter', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'yes'}, {'domain': 'betten-haskins.de', 'expiry': 1645042269, 'httpOnly': False, 'name': 'chaty_status_string', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '[{"k":"cwds6886","v":"2022-02-09T20:11:09.391Z"},{"k":"cwds6886_phone","v":"2022-02-09T20:11:09.392Z"},{"k":"cwds6886_email","v":"2022-02-09T20:11:09.393Z"},{"k":"cwds6886_google_maps","v":"2022-02-09T20:11:09.393Z"}]'}, {'domain': 'betten-haskins.de', 'expiry': 1645042269, 'httpOnly': False, 'name': 'chaty_settings', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '[{"k":"cs6886","v":"2022-02-09T20:11:09.391Z"}]'}, {'domain': '.betten-haskins.de', 'expiry': 1652213482, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644437482932.1594983638'}, {'domain': '.betten-haskins.de', 'expiry': 1645647067, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'betten-haskins.de', 'expiry': 1644523869, 'httpOnly': False, 'name': 'chaty_traffic_source', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'true'}, {'domain': 'betten-haskins.de', 'expiry': 1644523869, 'httpOnly': False, 'name': 'updatechtwidgetvisitor_0', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'yes'}, {'domain': '.betten-haskins.de', 'expiry': 1675973468, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU1XVmpNamN3WXpBdE1HRm1ZUzAwTkdVMUxXRTNaVGd0T1dKak9UaGpaamswT0RaaA'}, {'domain': 'betten-haskins.de', 'expiry': 1675973467, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.betten-haskins.de', 'expiry': 1644439268, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'betten-haskins.de', 'expiry': 1644441068, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.betten-haskins.de', 'expiry': 1675973467, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b02616e4-f45b-4e23-8cbc-cb3b29871218'}, {'domain': 'betten-haskins.de', 'expiry': 1645647067, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': 'betten-haskins.de', 'expiry': 1645647067, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': ''}, {'domain': '.betten-haskins.de', 'expiry': 1644439268, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b893f4e1-1e29-43e2-a18c-240618afa3d5'}, {'domain': '.betten-haskins.de', 'expiry': 1645647067, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}]
+[After] Cookie-Name 1: _pandectes_gdpr
+[After] Cookie-Name 2: trustedsite_visit
+[After] Cookie-Name 3: updatechatycounter
+[After] Cookie-Name 4: chaty_status_string
+[After] Cookie-Name 5: chaty_settings
+[After] Cookie-Name 6: _fbp
+[After] Cookie-Name 7: _orig_referrer
+[After] Cookie-Name 8: chaty_traffic_source
+[After] Cookie-Name 9: updatechtwidgetvisitor_0
+[After] Cookie-Name 10: _pin_unauth
+[After] Cookie-Name 11: secure_customer_sig
+[After] Cookie-Name 12: _shopify_sa_p
+[After] Cookie-Name 13: shopify_pay_redirect
+[After] Cookie-Name 14: _y
+[After] Cookie-Name 15: cart_currency
+[After] Cookie-Name 16: localization
+[After] Cookie-Name 17: _s
+[After] Cookie-Name 18: _landing_page
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: _fbp
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

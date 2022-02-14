@@ -1,0 +1,99 @@
+Website 329: http://www.cocoblacklabel.de/ | Created: 10.02.2022 18:57:54 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 4
+[Before] Website-Cookies: [{'domain': '.cocoblacklabel.de', 'expiry': 1645725464, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.cocoblacklabel.de', 'expiry': 1645725464, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.cocoblacklabel.de', 'expiry': 1645725466, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.cocoblacklabel.de', 'expiry': 1676051866, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _landing_page
+[Before] Cookie-Name 2: _orig_referrer
+[Before] Cookie-Name 3: cart_currency
+[Before] Cookie-Name 4: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 36
+[After] Website-Cookies: [{'domain': '.cocoblacklabel.de', 'expiry': 1652291880, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644515880083.518255291'}, {'domain': '.cocoblacklabel.de', 'expiry': 1644517680, 'httpOnly': False, 'name': '__utmb', 'path': '/', 'secure': False, 'value': '247245974.2.10.1644515880'}, {'domain': '.cocoblacklabel.de', 'expiry': 1644516480, 'httpOnly': False, 'name': '__utmt_%5Bobject%20Object%5D', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.cocoblacklabel.de', 'expiry': 1660283880, 'httpOnly': False, 'name': '__utmz', 'path': '/', 'secure': False, 'value': '247245974.1644515880.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)'}, {'domain': '.cocoblacklabel.de', 'httpOnly': False, 'name': '__utmc', 'path': '/', 'secure': False, 'value': '247245974'}, {'domain': '.cocoblacklabel.de', 'expiry': 1644517680, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.cocoblacklabel.de', 'expiry': 1676051880, 'httpOnly': False, 'name': '_hjSessionUser_1143772', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImIxN2I5MTMxLTVkNDEtNWI2OC1hNWYxLTBmMDc2ODM0NWE3NiIsImNyZWF0ZWQiOjE2NDQ1MTU4ODAyMzEsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.cocoblacklabel.de', 'expiry': 1707587880, 'httpOnly': False, 'name': '__utma', 'path': '/', 'secure': False, 'value': '247245974.1594756984.1644515880.1644515880.1644515880.1'}, {'domain': '.cocoblacklabel.de', 'expiry': 1707587879, 'httpOnly': False, 'name': '_ga_VLZ6MXG3H6', 'path': '/', 'secure': False, 'value': 'GS1.1.1644515879.1.0.1644515879.0'}, {'domain': 'www.cocoblacklabel.de', 'httpOnly': False, 'name': 'bc_tgm_gtm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.cocoblacklabel.de', 'httpOnly': False, 'name': 'bc_tgm_aw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.cocoblacklabel.de', 'expiry': 1652291879, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.705991593.1644515880'}, {'domain': '.cocoblacklabel.de', 'expiry': 1644517680, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.cocoblacklabel.de', 'expiry': 1644517680, 'httpOnly': False, 'name': '_hjSession_1143772', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImViY2QwZWI4LWU0ZWQtNGQ0OS1hY2Y1LTY4YmRmZGFkNTZjZSIsImNyZWF0ZWQiOjE2NDQ1MTU4ODAyNjQsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': '.cocoblacklabel.de', 'expiry': 1644515939, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.cocoblacklabel.de', 'expiry': 1647107879, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0NTE1ODc5NjI1LCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjowfX0='}, {'domain': 'www.cocoblacklabel.de', 'expiry': 1644516000, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.cocoblacklabel.de', 'httpOnly': False, 'name': 'rmc_logged_in_at', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'null'}, {'domain': '.cocoblacklabel.de', 'expiry': 1707587879, 'httpOnly': False, 'name': '_ga_S8VXCC5E20', 'path': '/', 'secure': False, 'value': 'GS1.1.cf7543ad-720f-4f6b-b5f9-832bd1087304.1.0.1644515866.0'}, {'domain': 'www.cocoblacklabel.de', 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'www.cocoblacklabel.de', 'httpOnly': False, 'name': '_ama', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '00458ce8-736a-42d3-8c0c-5b3ab8a24b9d'}, {'domain': 'www.cocoblacklabel.de', 'httpOnly': False, 'name': 'scapp_now', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.cocoblacklabel.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4fdec38d-5ac8-428d-973d-4e6d461dfdc2'}, {'domain': '.cocoblacklabel.de', 'expiry': 1645725464, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.cocoblacklabel.de', 'expiry': 1676051879, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f3352ddc-7e69-4c71-a322-adac6b91ab98'}, {'domain': '.cocoblacklabel.de', 'expiry': 1707587880, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.00458ce8-736a-42d3-8c0c-5b3ab8a24b9d'}, {'domain': '.cocoblacklabel.de', 'expiry': 1644602280, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.7279318.1644515880'}, {'domain': 'www.cocoblacklabel.de', 'expiry': 1676051866, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'www.cocoblacklabel.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A57%3A45.437Z'}, {'domain': '.cocoblacklabel.de', 'expiry': 1644515940, 'httpOnly': False, 'name': '_gat_gtag_UA_105672524_3', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.cocoblacklabel.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4fdec38d-5ac8-428d-973d-4e6d461dfdc2'}, {'domain': '.cocoblacklabel.de', 'expiry': 1645725464, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.cocoblacklabel.de', 'httpOnly': False, 'name': 'bc_tgm_ua', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.cocoblacklabel.de', 'expiry': 1676051879, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f3352ddc-7e69-4c71-a322-adac6b91ab98'}, {'domain': 'www.cocoblacklabel.de', 'httpOnly': False, 'name': 'scapp_next', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2'}, {'domain': 'www.cocoblacklabel.de', 'expiry': 1645725466, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}]
+[After] Cookie-Name 1: _fbp
+[After] Cookie-Name 2: __utmb
+[After] Cookie-Name 3: __utmt_%5Bobject%20Object%5D
+[After] Cookie-Name 4: __utmz
+[After] Cookie-Name 5: __utmc
+[After] Cookie-Name 6: _hjFirstSeen
+[After] Cookie-Name 7: _hjSessionUser_1143772
+[After] Cookie-Name 8: __utma
+[After] Cookie-Name 9: _ga_VLZ6MXG3H6
+[After] Cookie-Name 10: bc_tgm_gtm
+[After] Cookie-Name 11: bc_tgm_aw
+[After] Cookie-Name 12: _gcl_au
+[After] Cookie-Name 13: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 14: _hjSession_1143772
+[After] Cookie-Name 15: _gat
+[After] Cookie-Name 16: _bc_c_set
+[After] Cookie-Name 17: _hjIncludedInPageviewSample
+[After] Cookie-Name 18: rmc_logged_in_at
+[After] Cookie-Name 19: _ga_S8VXCC5E20
+[After] Cookie-Name 20: localization
+[After] Cookie-Name 21: _ama
+[After] Cookie-Name 22: scapp_now
+[After] Cookie-Name 23: _shopify_s
+[After] Cookie-Name 24: _landing_page
+[After] Cookie-Name 25: _shopify_y
+[After] Cookie-Name 26: _ga
+[After] Cookie-Name 27: _gid
+[After] Cookie-Name 28: secure_customer_sig
+[After] Cookie-Name 29: _shopify_sa_t
+[After] Cookie-Name 30: _gat_gtag_UA_105672524_3
+[After] Cookie-Name 31: _s
+[After] Cookie-Name 32: _orig_referrer
+[After] Cookie-Name 33: bc_tgm_ua
+[After] Cookie-Name 34: _y
+[After] Cookie-Name 35: scapp_next
+[After] Cookie-Name 36: cart_currency
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 32
+[Difference] Cookie-Name: 1: __utmc
+[Difference] Cookie-Name: 2: _hjAbsoluteSessionInProgress
+[Difference] Cookie-Name: 3: _bc_c_set
+[Difference] Cookie-Name: 4: __utma
+[Difference] Cookie-Name: 5: _gat_gtag_UA_105672524_3
+[Difference] Cookie-Name: 6: bc_tgm_aw
+[Difference] Cookie-Name: 7: _hjSessionUser_1143772
+[Difference] Cookie-Name: 8: _shopify_y
+[Difference] Cookie-Name: 9: bc_tgm_gtm
+[Difference] Cookie-Name: 10: bc_tgm_ua
+[Difference] Cookie-Name: 11: _ga_S8VXCC5E20
+[Difference] Cookie-Name: 12: localization
+[Difference] Cookie-Name: 13: rmc_logged_in_at
+[Difference] Cookie-Name: 14: _ga
+[Difference] Cookie-Name: 15: scapp_next
+[Difference] Cookie-Name: 16: __utmt_%5Bobject%20Object%5D
+[Difference] Cookie-Name: 17: _hjFirstSeen
+[Difference] Cookie-Name: 18: _gcl_au
+[Difference] Cookie-Name: 19: scapp_now
+[Difference] Cookie-Name: 20: _shopify_s
+[Difference] Cookie-Name: 21: _hjSession_1143772
+[Difference] Cookie-Name: 22: __utmz
+[Difference] Cookie-Name: 23: _shopify_sa_t
+[Difference] Cookie-Name: 24: _s
+[Difference] Cookie-Name: 25: _ama
+[Difference] Cookie-Name: 26: _y
+[Difference] Cookie-Name: 27: _hjIncludedInPageviewSample
+[Difference] Cookie-Name: 28: _gat
+[Difference] Cookie-Name: 29: _fbp
+[Difference] Cookie-Name: 30: __utmb
+[Difference] Cookie-Name: 31: _ga_VLZ6MXG3H6
+[Difference] Cookie-Name: 32: _gid
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

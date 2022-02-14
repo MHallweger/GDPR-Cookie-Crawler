@@ -1,0 +1,72 @@
+Website 169: http://www.crazycatmom.de/ | Created: 09.02.2022 17:57:34 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 20
+[Before] Website-Cookies: [{'domain': 'crazycatmom.de', 'expiry': 1644429445, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.crazycatmom.de', 'expiry': 1652201845, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644425844641.1831481819'}, {'domain': '.crazycatmom.de', 'expiry': 1652201844, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.75480744.1644425845'}, {'domain': '.crazycatmom.de', 'expiry': 1644425904, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'crazycatmom.de', 'httpOnly': False, 'name': 'fsb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.crazycatmom.de', 'expiry': 1707497844, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.167338850.1644425844'}, {'domain': 'crazycatmom.de', 'expiry': 1645635446, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.crazycatmom.de', 'expiry': 1644427646, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cda18670-34a4-47a7-8b89-4090f972a759'}, {'domain': '.crazycatmom.de', 'expiry': 1644427644, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T16%3A57%3A24.416Z'}, {'domain': '.crazycatmom.de', 'expiry': 1675961846, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bbd8086b-fae1-4efc-9521-f9488d5b4416'}, {'domain': '.crazycatmom.de', 'expiry': 1644427644, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.crazycatmom.de', 'expiry': 1644427646, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cda18670-34a4-47a7-8b89-4090f972a759'}, {'domain': '.crazycatmom.de', 'expiry': 1675961846, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bbd8086b-fae1-4efc-9521-f9488d5b4416'}, {'domain': '.crazycatmom.de', 'expiry': 1645635444, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'crazycatmom.de', 'expiry': 1707497846, 'httpOnly': False, 'name': '_ama', 'path': '/', 'secure': False, 'value': '167338850.1644425844'}, {'domain': 'crazycatmom.de', 'expiry': 1645635446, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.crazycatmom.de', 'expiry': 1644512244, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.269786031.1644425844'}, {'domain': '.crazycatmom.de', 'expiry': 1645635444, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.crazycatmom.de', 'expiry': 1675961844, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU1EVXlOalExWmpndE9EWXhZeTAwTTJNM0xXSXpPR010WkdGbE1URTVNelF3WXpBdw'}, {'domain': 'crazycatmom.de', 'expiry': 1675961846, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: shopify_pay_redirect
+[Before] Cookie-Name 2: _fbp
+[Before] Cookie-Name 3: _gcl_au
+[Before] Cookie-Name 4: _gat
+[Before] Cookie-Name 5: fsb_previous_pathname
+[Before] Cookie-Name 6: _ga
+[Before] Cookie-Name 7: localization
+[Before] Cookie-Name 8: _shopify_s
+[Before] Cookie-Name 9: _shopify_sa_t
+[Before] Cookie-Name 10: _shopify_y
+[Before] Cookie-Name 11: _shopify_sa_p
+[Before] Cookie-Name 12: _s
+[Before] Cookie-Name 13: _y
+[Before] Cookie-Name 14: _landing_page
+[Before] Cookie-Name 15: _ama
+[Before] Cookie-Name 16: cart_currency
+[Before] Cookie-Name 17: _gid
+[Before] Cookie-Name 18: _orig_referrer
+[Before] Cookie-Name 19: _pin_unauth
+[Before] Cookie-Name 20: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 20
+[After] Website-Cookies: [{'domain': 'crazycatmom.de', 'expiry': 1644429445, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.crazycatmom.de', 'expiry': 1652201860, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644425844641.1831481819'}, {'domain': '.crazycatmom.de', 'expiry': 1652201844, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.75480744.1644425845'}, {'domain': '.crazycatmom.de', 'expiry': 1644425904, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'crazycatmom.de', 'httpOnly': False, 'name': 'fsb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.crazycatmom.de', 'expiry': 1707497844, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.167338850.1644425844'}, {'domain': 'crazycatmom.de', 'expiry': 1645635446, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.crazycatmom.de', 'expiry': 1644427646, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cda18670-34a4-47a7-8b89-4090f972a759'}, {'domain': '.crazycatmom.de', 'expiry': 1644427644, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T16%3A57%3A24.416Z'}, {'domain': '.crazycatmom.de', 'expiry': 1675961846, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bbd8086b-fae1-4efc-9521-f9488d5b4416'}, {'domain': '.crazycatmom.de', 'expiry': 1644427644, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.crazycatmom.de', 'expiry': 1644427646, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cda18670-34a4-47a7-8b89-4090f972a759'}, {'domain': '.crazycatmom.de', 'expiry': 1675961846, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bbd8086b-fae1-4efc-9521-f9488d5b4416'}, {'domain': '.crazycatmom.de', 'expiry': 1645635444, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'crazycatmom.de', 'expiry': 1707497846, 'httpOnly': False, 'name': '_ama', 'path': '/', 'secure': False, 'value': '167338850.1644425844'}, {'domain': 'crazycatmom.de', 'expiry': 1645635446, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.crazycatmom.de', 'expiry': 1644512244, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.269786031.1644425844'}, {'domain': '.crazycatmom.de', 'expiry': 1645635444, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.crazycatmom.de', 'expiry': 1675961844, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU1EVXlOalExWmpndE9EWXhZeTAwTTJNM0xXSXpPR010WkdGbE1URTVNelF3WXpBdw'}, {'domain': 'crazycatmom.de', 'expiry': 1675961846, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: shopify_pay_redirect
+[After] Cookie-Name 2: _fbp
+[After] Cookie-Name 3: _gcl_au
+[After] Cookie-Name 4: _gat
+[After] Cookie-Name 5: fsb_previous_pathname
+[After] Cookie-Name 6: _ga
+[After] Cookie-Name 7: localization
+[After] Cookie-Name 8: _shopify_s
+[After] Cookie-Name 9: _shopify_sa_t
+[After] Cookie-Name 10: _shopify_y
+[After] Cookie-Name 11: _shopify_sa_p
+[After] Cookie-Name 12: _s
+[After] Cookie-Name 13: _y
+[After] Cookie-Name 14: _landing_page
+[After] Cookie-Name 15: _ama
+[After] Cookie-Name 16: cart_currency
+[After] Cookie-Name 17: _gid
+[After] Cookie-Name 18: _orig_referrer
+[After] Cookie-Name 19: _pin_unauth
+[After] Cookie-Name 20: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

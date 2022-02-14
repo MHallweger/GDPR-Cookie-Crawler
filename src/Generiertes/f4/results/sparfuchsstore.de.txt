@@ -1,0 +1,59 @@
+Website 290: http://www.sparfuchsstore.de/ | Created: 09.02.2022 18:38:35 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 4
+[Before] Website-Cookies: [{'domain': '.sparfuchsstore.de', 'expiry': 1645637905, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.sparfuchsstore.de', 'expiry': 1645637905, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.sparfuchsstore.de', 'expiry': 1645637906, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.sparfuchsstore.de', 'expiry': 1675964306, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _orig_referrer
+[Before] Cookie-Name 2: _landing_page
+[Before] Cookie-Name 3: cart_currency
+[Before] Cookie-Name 4: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 16
+[After] Website-Cookies: [{'domain': '.sparfuchsstore.de', 'expiry': 1652204321, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644428321045.904959207'}, {'domain': '.sparfuchsstore.de', 'expiry': 1644514720, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1503668038.1644428321'}, {'domain': '.sparfuchsstore.de', 'expiry': 1707500320, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.937656175.1644428321'}, {'domain': 'www.sparfuchsstore.de', 'expiry': 1647020320, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0NDI4MzIwNjI4LCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjoxfX0='}, {'domain': 'www.sparfuchsstore.de', 'expiry': 1675964320, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '61286d50-17fc-4759-8a50-9850163f97db'}, {'domain': 'www.sparfuchsstore.de', 'expiry': 1645637906, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.sparfuchsstore.de', 'expiry': 1644430120, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2e3f00e1-e11f-4a31-be2e-df93fb2bc0b5'}, {'domain': 'www.sparfuchsstore.de', 'expiry': 1675964320, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '61286d50-17fc-4759-8a50-9850163f97db'}, {'domain': 'www.sparfuchsstore.de', 'expiry': 1644430120, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2e3f00e1-e11f-4a31-be2e-df93fb2bc0b5'}, {'domain': 'www.sparfuchsstore.de', 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'pending'}, {'domain': 'www.sparfuchsstore.de', 'expiry': 1644430120, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A38%3A26.119Z'}, {'domain': '.sparfuchsstore.de', 'expiry': 1645637905, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.sparfuchsstore.de', 'expiry': 1644428380, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.sparfuchsstore.de', 'expiry': 1645637905, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.sparfuchsstore.de', 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'www.sparfuchsstore.de', 'expiry': 1675964306, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _fbp
+[After] Cookie-Name 2: _gid
+[After] Cookie-Name 3: _ga
+[After] Cookie-Name 4: _bc_c_set
+[After] Cookie-Name 5: _y
+[After] Cookie-Name 6: cart_currency
+[After] Cookie-Name 7: _s
+[After] Cookie-Name 8: _shopify_y
+[After] Cookie-Name 9: _shopify_s
+[After] Cookie-Name 10: shopify_pay_redirect
+[After] Cookie-Name 11: _shopify_sa_t
+[After] Cookie-Name 12: _orig_referrer
+[After] Cookie-Name 13: _gat
+[After] Cookie-Name 14: _landing_page
+[After] Cookie-Name 15: localization
+[After] Cookie-Name 16: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 12
+[Difference] Cookie-Name: 1: shopify_pay_redirect
+[Difference] Cookie-Name: 2: localization
+[Difference] Cookie-Name: 3: _gid
+[Difference] Cookie-Name: 4: _gat
+[Difference] Cookie-Name: 5: _shopify_y
+[Difference] Cookie-Name: 6: _fbp
+[Difference] Cookie-Name: 7: _s
+[Difference] Cookie-Name: 8: _shopify_s
+[Difference] Cookie-Name: 9: _ga
+[Difference] Cookie-Name: 10: _y
+[Difference] Cookie-Name: 11: _shopify_sa_t
+[Difference] Cookie-Name: 12: _bc_c_set
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

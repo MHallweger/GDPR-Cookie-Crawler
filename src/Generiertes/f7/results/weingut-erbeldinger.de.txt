@@ -1,0 +1,87 @@
+Website 232: http://www.weingut-erbeldinger.de/ | Created: 10.02.2022 18:29:25 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 26
+[Before] Website-Cookies: [{'domain': '.weingut-erbeldinger.de', 'expiry': 1676050158, 'httpOnly': False, 'name': '_privy_A514AE70C9DF11876072B417', 'path': '/', 'secure': False, 'value': '%7B%22uuid%22%3A%2235efd4fc-641d-43de-9ed2-9f1caa2963b3%22%7D'}, {'domain': 'weingut-erbeldinger.de', 'httpOnly': False, 'name': 'fsb_total_price_270820', 'path': '/', 'secure': False, 'value': '0'}, {'domain': 'weingut-erbeldinger.de', 'httpOnly': False, 'name': 'fsb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': 'weingut-erbeldinger.de', 'expiry': 1645723755, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': 'weingut-erbeldinger.de', 'expiry': 1645723756, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5b350076afc12aee02229916e5aeaf64'}, {'domain': 'weingut-erbeldinger.de', 'expiry': 1645723755, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644514155'}, {'domain': '.weingut-erbeldinger.de', 'expiry': 1644514215, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.weingut-erbeldinger.de', 'expiry': 1644600555, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.574961772.1644514155'}, {'domain': '.weingut-erbeldinger.de', 'expiry': 1645723754, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.weingut-erbeldinger.de', 'expiry': 1644515955, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.weingut-erbeldinger.de', 'expiry': 1652290155, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644514155412.1511275370'}, {'domain': 'weingut-erbeldinger.de', 'expiry': 1644514216, 'httpOnly': False, 'name': 'baMet_baEvs', 'path': '/', 'secure': False, 'value': '%5B%5D'}, {'domain': 'weingut-erbeldinger.de', 'expiry': 1644515955, 'httpOnly': False, 'name': 'baMet_visit', 'path': '/', 'secure': False, 'value': 'e12480450fc048f49f5345c6a243220b1644514155044'}, {'domain': 'weingut-erbeldinger.de', 'expiry': 1676050157, 'httpOnly': False, 'name': 'sec-banner', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': 'weingut-erbeldinger.de', 'expiry': 1676050157, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.weingut-erbeldinger.de', 'expiry': 1644515957, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7883bc72-e45f-404b-a1a1-50d14f6c4709'}, {'domain': 'weingut-erbeldinger.de', 'expiry': 1645723755, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '96ac1776322eadef364d1be5ece5be44'}, {'domain': '.weingut-erbeldinger.de', 'expiry': 1707586155, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1559145010.1644514155'}, {'domain': '.weingut-erbeldinger.de', 'expiry': 1645723754, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.weingut-erbeldinger.de', 'expiry': 1644515957, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7883bc72-e45f-404b-a1a1-50d14f6c4709'}, {'domain': 'weingut-erbeldinger.de', 'expiry': 1645723757, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.weingut-erbeldinger.de', 'expiry': 1652290154, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1191932957.1644514155'}, {'domain': 'weingut-erbeldinger.de', 'expiry': 1645723757, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.weingut-erbeldinger.de', 'expiry': 1676050157, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '39a0812e-f2f4-47c1-b27b-6d4c28891d4b'}, {'domain': '.weingut-erbeldinger.de', 'expiry': 1676050157, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '39a0812e-f2f4-47c1-b27b-6d4c28891d4b'}, {'domain': '.weingut-erbeldinger.de', 'expiry': 1644515955, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A29%3A15.157Z'}]
+[Before] Cookie-Name 1: _privy_A514AE70C9DF11876072B417
+[Before] Cookie-Name 2: fsb_total_price_270820
+[Before] Cookie-Name 3: fsb_previous_pathname
+[Before] Cookie-Name 4: cart_ver
+[Before] Cookie-Name 5: cart_sig
+[Before] Cookie-Name 6: cart_ts
+[Before] Cookie-Name 7: _gat
+[Before] Cookie-Name 8: _gid
+[Before] Cookie-Name 9: _orig_referrer
+[Before] Cookie-Name 10: _shopify_sa_p
+[Before] Cookie-Name 11: _fbp
+[Before] Cookie-Name 12: baMet_baEvs
+[Before] Cookie-Name 13: baMet_visit
+[Before] Cookie-Name 14: sec-banner
+[Before] Cookie-Name 15: secure_customer_sig
+[Before] Cookie-Name 16: _shopify_s
+[Before] Cookie-Name 17: cart
+[Before] Cookie-Name 18: _ga
+[Before] Cookie-Name 19: _landing_page
+[Before] Cookie-Name 20: _s
+[Before] Cookie-Name 21: cart_currency
+[Before] Cookie-Name 22: _gcl_au
+[Before] Cookie-Name 23: localization
+[Before] Cookie-Name 24: _shopify_y
+[Before] Cookie-Name 25: _y
+[Before] Cookie-Name 26: _shopify_sa_t
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 28
+[After] Website-Cookies: [{'domain': 'weingut-erbeldinger.de', 'expiry': 1676050171, 'httpOnly': False, 'name': 'sec-banner-allow-all-cookies', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': '.weingut-erbeldinger.de', 'expiry': 1676050158, 'httpOnly': False, 'name': '_privy_A514AE70C9DF11876072B417', 'path': '/', 'secure': False, 'value': '%7B%22uuid%22%3A%2235efd4fc-641d-43de-9ed2-9f1caa2963b3%22%7D'}, {'domain': 'weingut-erbeldinger.de', 'httpOnly': False, 'name': 'fsb_total_price_270820', 'path': '/', 'secure': False, 'value': '0'}, {'domain': 'weingut-erbeldinger.de', 'httpOnly': False, 'name': 'fsb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': 'weingut-erbeldinger.de', 'expiry': 1676050171, 'httpOnly': False, 'name': 'sec-banner-dismiss', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': 'weingut-erbeldinger.de', 'expiry': 1645723755, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': 'weingut-erbeldinger.de', 'expiry': 1645723756, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5b350076afc12aee02229916e5aeaf64'}, {'domain': 'weingut-erbeldinger.de', 'expiry': 1645723755, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644514155'}, {'domain': '.weingut-erbeldinger.de', 'expiry': 1644514215, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.weingut-erbeldinger.de', 'expiry': 1644600555, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.574961772.1644514155'}, {'domain': '.weingut-erbeldinger.de', 'expiry': 1645723754, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.weingut-erbeldinger.de', 'expiry': 1644515955, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.weingut-erbeldinger.de', 'expiry': 1652290171, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644514155412.1511275370'}, {'domain': 'weingut-erbeldinger.de', 'expiry': 1644514216, 'httpOnly': False, 'name': 'baMet_baEvs', 'path': '/', 'secure': False, 'value': '%5B%5D'}, {'domain': 'weingut-erbeldinger.de', 'expiry': 1644515955, 'httpOnly': False, 'name': 'baMet_visit', 'path': '/', 'secure': False, 'value': 'e12480450fc048f49f5345c6a243220b1644514155044'}, {'domain': 'weingut-erbeldinger.de', 'expiry': 1676050157, 'httpOnly': False, 'name': 'sec-banner', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': 'weingut-erbeldinger.de', 'expiry': 1676050157, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.weingut-erbeldinger.de', 'expiry': 1644515957, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7883bc72-e45f-404b-a1a1-50d14f6c4709'}, {'domain': 'weingut-erbeldinger.de', 'expiry': 1645723755, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '96ac1776322eadef364d1be5ece5be44'}, {'domain': '.weingut-erbeldinger.de', 'expiry': 1707586155, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1559145010.1644514155'}, {'domain': '.weingut-erbeldinger.de', 'expiry': 1645723754, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.weingut-erbeldinger.de', 'expiry': 1644515957, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7883bc72-e45f-404b-a1a1-50d14f6c4709'}, {'domain': 'weingut-erbeldinger.de', 'expiry': 1645723757, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.weingut-erbeldinger.de', 'expiry': 1652290154, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1191932957.1644514155'}, {'domain': 'weingut-erbeldinger.de', 'expiry': 1645723757, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.weingut-erbeldinger.de', 'expiry': 1676050157, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '39a0812e-f2f4-47c1-b27b-6d4c28891d4b'}, {'domain': '.weingut-erbeldinger.de', 'expiry': 1676050157, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '39a0812e-f2f4-47c1-b27b-6d4c28891d4b'}, {'domain': '.weingut-erbeldinger.de', 'expiry': 1644515955, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A29%3A15.157Z'}]
+[After] Cookie-Name 1: sec-banner-allow-all-cookies
+[After] Cookie-Name 2: _privy_A514AE70C9DF11876072B417
+[After] Cookie-Name 3: fsb_total_price_270820
+[After] Cookie-Name 4: fsb_previous_pathname
+[After] Cookie-Name 5: sec-banner-dismiss
+[After] Cookie-Name 6: cart_ver
+[After] Cookie-Name 7: cart_sig
+[After] Cookie-Name 8: cart_ts
+[After] Cookie-Name 9: _gat
+[After] Cookie-Name 10: _gid
+[After] Cookie-Name 11: _orig_referrer
+[After] Cookie-Name 12: _shopify_sa_p
+[After] Cookie-Name 13: _fbp
+[After] Cookie-Name 14: baMet_baEvs
+[After] Cookie-Name 15: baMet_visit
+[After] Cookie-Name 16: sec-banner
+[After] Cookie-Name 17: secure_customer_sig
+[After] Cookie-Name 18: _shopify_s
+[After] Cookie-Name 19: cart
+[After] Cookie-Name 20: _ga
+[After] Cookie-Name 21: _landing_page
+[After] Cookie-Name 22: _s
+[After] Cookie-Name 23: cart_currency
+[After] Cookie-Name 24: _gcl_au
+[After] Cookie-Name 25: localization
+[After] Cookie-Name 26: _shopify_y
+[After] Cookie-Name 27: _y
+[After] Cookie-Name 28: _shopify_sa_t
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 2
+[Difference] Cookie-Name: 1: sec-banner-dismiss
+[Difference] Cookie-Name: 2: sec-banner-allow-all-cookies
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

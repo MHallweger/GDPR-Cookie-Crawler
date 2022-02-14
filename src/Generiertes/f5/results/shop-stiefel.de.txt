@@ -1,0 +1,78 @@
+Website 72: http://www.shop-stiefel.de/ | Created: 09.02.2022 19:54:25 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 22
+[Before] Website-Cookies: [{'domain': 'shop-boots.com', 'expiry': 1645642455, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8c1a815f2ea7b4c740b299c7eba817d0'}, {'domain': 'shop-boots.com', 'expiry': 1644436455, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.shop-boots.com', 'expiry': 1652208856, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644432855640.685522210'}, {'domain': '.shop-boots.com', 'expiry': 1652208855, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.275316620.1644432855'}, {'domain': '.shop-boots.com', 'expiry': 1644519255, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.669134022.1644432855'}, {'domain': '.shop-boots.com', 'expiry': 1707504855, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1326516241.1644432855'}, {'domain': '.shop-boots.com', 'expiry': 1644434655, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.shop-boots.com', 'expiry': 1644434655, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T18%3A54%3A15.402Z'}, {'domain': 'shop-boots.com', 'expiry': 1644434655, 'httpOnly': False, 'name': 'baMet_visit', 'path': '/', 'secure': False, 'value': '12020121c1ad41dc92a0b56977e20b141644432855378'}, {'domain': 'shop-boots.com', 'expiry': 1645642455, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644432856'}, {'domain': 'shop-boots.com', 'expiry': 1645642456, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'ES'}, {'domain': '.shop-boots.com', 'expiry': 1644434656, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ed22de08-9b14-4cae-bcec-fe784b59a38c'}, {'domain': '.shop-boots.com', 'expiry': 1645642454, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.shop-boots.com', 'expiry': 1644432915, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.shop-boots.com', 'expiry': 1675968856, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b358079a-f295-4c05-a6b0-33e0b9a1880d'}, {'domain': '.shop-boots.com', 'expiry': 1645642454, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'shop-boots.com', 'expiry': 1645642455, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A2'}, {'domain': '.shop-boots.com', 'expiry': 1644434656, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ed22de08-9b14-4cae-bcec-fe784b59a38c'}, {'domain': 'shop-boots.com', 'expiry': 1645642455, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '684bedd903fb4c1d395eaab398791617'}, {'domain': 'shop-boots.com', 'expiry': 1675968856, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'shop-boots.com', 'expiry': 1645642456, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.shop-boots.com', 'expiry': 1675968856, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b358079a-f295-4c05-a6b0-33e0b9a1880d'}]
+[Before] Cookie-Name 1: cart_sig
+[Before] Cookie-Name 2: shopify_pay_redirect
+[Before] Cookie-Name 3: _fbp
+[Before] Cookie-Name 4: _gcl_au
+[Before] Cookie-Name 5: _gid
+[Before] Cookie-Name 6: _ga
+[Before] Cookie-Name 7: _shopify_sa_p
+[Before] Cookie-Name 8: _shopify_sa_t
+[Before] Cookie-Name 9: baMet_visit
+[Before] Cookie-Name 10: cart_ts
+[Before] Cookie-Name 11: localization
+[Before] Cookie-Name 12: _s
+[Before] Cookie-Name 13: _landing_page
+[Before] Cookie-Name 14: _gat
+[Before] Cookie-Name 15: _y
+[Before] Cookie-Name 16: _orig_referrer
+[Before] Cookie-Name 17: cart_ver
+[Before] Cookie-Name 18: _shopify_s
+[Before] Cookie-Name 19: cart
+[Before] Cookie-Name 20: secure_customer_sig
+[Before] Cookie-Name 21: cart_currency
+[Before] Cookie-Name 22: _shopify_y
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 22
+[After] Website-Cookies: [{'domain': 'shop-boots.com', 'expiry': 1645642455, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8c1a815f2ea7b4c740b299c7eba817d0'}, {'domain': 'shop-boots.com', 'expiry': 1644436455, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.shop-boots.com', 'expiry': 1652208856, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644432855640.685522210'}, {'domain': '.shop-boots.com', 'expiry': 1652208855, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.275316620.1644432855'}, {'domain': '.shop-boots.com', 'expiry': 1644519255, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.669134022.1644432855'}, {'domain': '.shop-boots.com', 'expiry': 1707504855, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1326516241.1644432855'}, {'domain': '.shop-boots.com', 'expiry': 1644434655, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.shop-boots.com', 'expiry': 1644434655, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T18%3A54%3A15.402Z'}, {'domain': 'shop-boots.com', 'expiry': 1644434655, 'httpOnly': False, 'name': 'baMet_visit', 'path': '/', 'secure': False, 'value': '12020121c1ad41dc92a0b56977e20b141644432855378'}, {'domain': 'shop-boots.com', 'expiry': 1645642455, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644432856'}, {'domain': 'shop-boots.com', 'expiry': 1645642456, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'ES'}, {'domain': '.shop-boots.com', 'expiry': 1644434656, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ed22de08-9b14-4cae-bcec-fe784b59a38c'}, {'domain': '.shop-boots.com', 'expiry': 1645642454, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.shop-boots.com', 'expiry': 1644432915, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.shop-boots.com', 'expiry': 1675968856, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b358079a-f295-4c05-a6b0-33e0b9a1880d'}, {'domain': '.shop-boots.com', 'expiry': 1645642454, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'shop-boots.com', 'expiry': 1645642455, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A2'}, {'domain': '.shop-boots.com', 'expiry': 1644434656, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ed22de08-9b14-4cae-bcec-fe784b59a38c'}, {'domain': 'shop-boots.com', 'expiry': 1645642455, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '684bedd903fb4c1d395eaab398791617'}, {'domain': 'shop-boots.com', 'expiry': 1675968856, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'shop-boots.com', 'expiry': 1645642456, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.shop-boots.com', 'expiry': 1675968856, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b358079a-f295-4c05-a6b0-33e0b9a1880d'}]
+[After] Cookie-Name 1: cart_sig
+[After] Cookie-Name 2: shopify_pay_redirect
+[After] Cookie-Name 3: _fbp
+[After] Cookie-Name 4: _gcl_au
+[After] Cookie-Name 5: _gid
+[After] Cookie-Name 6: _ga
+[After] Cookie-Name 7: _shopify_sa_p
+[After] Cookie-Name 8: _shopify_sa_t
+[After] Cookie-Name 9: baMet_visit
+[After] Cookie-Name 10: cart_ts
+[After] Cookie-Name 11: localization
+[After] Cookie-Name 12: _s
+[After] Cookie-Name 13: _landing_page
+[After] Cookie-Name 14: _gat
+[After] Cookie-Name 15: _y
+[After] Cookie-Name 16: _orig_referrer
+[After] Cookie-Name 17: cart_ver
+[After] Cookie-Name 18: _shopify_s
+[After] Cookie-Name 19: cart
+[After] Cookie-Name 20: secure_customer_sig
+[After] Cookie-Name 21: cart_currency
+[After] Cookie-Name 22: _shopify_y
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gat (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

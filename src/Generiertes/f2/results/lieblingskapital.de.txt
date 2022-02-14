@@ -1,0 +1,77 @@
+Website 117: http://www.lieblingskapital.de/ | Created: 09.02.2022 11:21:50 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 12
+[Before] Website-Cookies: [{'domain': 'www.lieblingskapital.de', 'expiry': 1675938103, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': 'analytics%2Cfunctionality%2Cmarketing'}, {'domain': '.lieblingskapital.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.lieblingskapital.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A21%3A41.827Z'}, {'domain': '.lieblingskapital.de', 'expiry': 1675938101, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': 'www.lieblingskapital.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.lieblingskapital.de', 'expiry': 1645611701, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.lieblingskapital.de', 'expiry': 1644403901, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.lieblingskapital.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.lieblingskapital.de', 'expiry': 1675938101, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%7D'}, {'domain': '.lieblingskapital.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.lieblingskapital.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.lieblingskapital.de', 'expiry': 1675938101, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: cookieconsent_preferences_disabled
+[Before] Cookie-Name 2: _shopify_sa_p
+[Before] Cookie-Name 3: _shopify_d
+[Before] Cookie-Name 4: _shopify_m
+[Before] Cookie-Name 5: _shopify_evids
+[Before] Cookie-Name 6: _shopify_tw
+[Before] Cookie-Name 7: _shopify_tm
+[Before] Cookie-Name 8: _shopify_evids
+[Before] Cookie-Name 9: _tracking_consent
+[Before] Cookie-Name 10: _landing_page
+[Before] Cookie-Name 11: _orig_referrer
+[Before] Cookie-Name 12: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 25
+[After] Website-Cookies: [{'domain': '.lieblingskapital.de', 'expiry': 1652178117, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644402117089.339244665'}, {'domain': '.lieblingskapital.de', 'expiry': 1652178116, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1329553785.1644402117'}, {'domain': 'www.lieblingskapital.de', 'expiry': 1645611716, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644402116'}, {'domain': '.lieblingskapital.de', 'expiry': 1675938116, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%221%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%7D'}, {'domain': '.lieblingskapital.de', 'expiry': 1675938116, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '198ce0e3-eac0-40d5-b2b5-3252e0662340'}, {'domain': '.lieblingskapital.de', 'expiry': 1675938116, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '198ce0e3-eac0-40d5-b2b5-3252e0662340'}, {'domain': '.lieblingskapital.de', 'expiry': 1644403916, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd781d189-1a0d-453c-9517-c38201ae718f'}, {'domain': '.lieblingskapital.de', 'expiry': 1644403916, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd781d189-1a0d-453c-9517-c38201ae718f'}, {'domain': '.lieblingskapital.de', 'expiry': 1675938116, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': '.lieblingskapital.de', 'expiry': 1645611701, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.lieblingskapital.de', 'expiry': 1645611716, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.lieblingskapital.de', 'expiry': 1675938116, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'www.lieblingskapital.de', 'expiry': 1645611716, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a38187ace9b22b2596f8cbaed7f02735'}, {'domain': 'www.lieblingskapital.de', 'expiry': 1645611716, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': 'www.lieblingskapital.de', 'expiry': 1645611716, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'www.lieblingskapital.de', 'expiry': 1645611716, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '533144118c39794b4010f303348ccf58'}, {'domain': '.lieblingskapital.de', 'expiry': 1644403916, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.lieblingskapital.de', 'expiry': 1675938116, 'httpOnly': False, 'name': 'cookieconsent_status', 'path': '/', 'secure': False, 'value': 'allow'}, {'domain': '.lieblingskapital.de', 'expiry': 1644403916, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.lieblingskapital.de', 'expiry': 1675938116, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': 'analytics%2Cfunctionality%2Cmarketing'}, {'domain': '.lieblingskapital.de', 'expiry': 1645611716, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.lieblingskapital.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.lieblingskapital.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A21%3A41.827Z'}, {'domain': 'www.lieblingskapital.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.lieblingskapital.de', 'expiry': 1645611716, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: _fbp
+[After] Cookie-Name 2: _gcl_au
+[After] Cookie-Name 3: cart_ts
+[After] Cookie-Name 4: _tracking_consent
+[After] Cookie-Name 5: _shopify_y
+[After] Cookie-Name 6: _y
+[After] Cookie-Name 7: _s
+[After] Cookie-Name 8: _shopify_s
+[After] Cookie-Name 9: _shopify_m
+[After] Cookie-Name 10: _shopify_tw
+[After] Cookie-Name 11: cart_currency
+[After] Cookie-Name 12: secure_customer_sig
+[After] Cookie-Name 13: cart_sig
+[After] Cookie-Name 14: cart_ver
+[After] Cookie-Name 15: localization
+[After] Cookie-Name 16: cart
+[After] Cookie-Name 17: _shopify_tm
+[After] Cookie-Name 18: cookieconsent_status
+[After] Cookie-Name 19: _shopify_sa_p
+[After] Cookie-Name 20: cookieconsent_preferences_disabled
+[After] Cookie-Name 21: _landing_page
+[After] Cookie-Name 22: _shopify_evids
+[After] Cookie-Name 23: _shopify_d
+[After] Cookie-Name 24: _shopify_evids
+[After] Cookie-Name 25: _orig_referrer
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 13
+[Difference] Cookie-Name: 1: cart_currency
+[Difference] Cookie-Name: 2: localization
+[Difference] Cookie-Name: 3: _y
+[Difference] Cookie-Name: 4: _shopify_y
+[Difference] Cookie-Name: 5: cart_ts
+[Difference] Cookie-Name: 6: _shopify_s
+[Difference] Cookie-Name: 7: cart_ver
+[Difference] Cookie-Name: 8: _gcl_au
+[Difference] Cookie-Name: 9: _fbp
+[Difference] Cookie-Name: 10: cookieconsent_status
+[Difference] Cookie-Name: 11: cart_sig
+[Difference] Cookie-Name: 12: _s
+[Difference] Cookie-Name: 13: cart
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

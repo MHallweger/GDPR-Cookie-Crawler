@@ -1,0 +1,62 @@
+Website 392: http://www.mos-shop.de/ | Created: 10.02.2022 14:08:41 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 15
+[Before] Website-Cookies: [{'domain': '.mos-shop.de', 'expiry': 1644500308, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.mos-shop.de', 'expiry': 1644500308, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T13%3A08%3A28.281Z'}, {'domain': '.mos-shop.de', 'expiry': 1644498568, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.mos-shop.de', 'expiry': 1645708107, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.mos-shop.de', 'expiry': 1644584908, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1083194164.1644498508'}, {'domain': '.mos-shop.de', 'expiry': 1707570508, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.2062374875.1644498508'}, {'domain': '.mos-shop.de', 'expiry': 1644500308, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd0988ef0-82e5-414a-b645-5d3677320a43'}, {'domain': '.mos-shop.de', 'expiry': 1676034507, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9eaf5050-a1c3-4dbd-be5a-6d4d14247db5'}, {'domain': 'www.mos-shop.de', 'expiry': 1644502108, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.mos-shop.de', 'expiry': 1644500308, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd0988ef0-82e5-414a-b645-5d3677320a43'}, {'domain': '.mos-shop.de', 'expiry': 1676034507, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9eaf5050-a1c3-4dbd-be5a-6d4d14247db5'}, {'domain': '.mos-shop.de', 'expiry': 1645708107, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.mos-shop.de', 'expiry': 1676034507, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'www.mos-shop.de', 'expiry': 1645708107, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': 'www.mos-shop.de', 'expiry': 1645708107, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}]
+[Before] Cookie-Name 1: _shopify_sa_p
+[Before] Cookie-Name 2: _shopify_sa_t
+[Before] Cookie-Name 3: _gat
+[Before] Cookie-Name 4: _landing_page
+[Before] Cookie-Name 5: _gid
+[Before] Cookie-Name 6: _ga
+[Before] Cookie-Name 7: _shopify_s
+[Before] Cookie-Name 8: _shopify_y
+[Before] Cookie-Name 9: shopify_pay_redirect
+[Before] Cookie-Name 10: _s
+[Before] Cookie-Name 11: _y
+[Before] Cookie-Name 12: _orig_referrer
+[Before] Cookie-Name 13: secure_customer_sig
+[Before] Cookie-Name 14: cart_currency
+[Before] Cookie-Name 15: localization
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 16
+[After] Website-Cookies: [{'domain': '.mos-shop.de', 'expiry': 1644500308, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.mos-shop.de', 'expiry': 1644500308, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T13%3A08%3A28.281Z'}, {'domain': '.mos-shop.de', 'expiry': 1644498568, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.mos-shop.de', 'expiry': 1645708107, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.mos-shop.de', 'expiry': 1644584908, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1083194164.1644498508'}, {'domain': '.mos-shop.de', 'expiry': 1707570508, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.2062374875.1644498508'}, {'domain': '.mos-shop.de', 'expiry': 1644500308, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd0988ef0-82e5-414a-b645-5d3677320a43'}, {'domain': '.mos-shop.de', 'expiry': 1676034507, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9eaf5050-a1c3-4dbd-be5a-6d4d14247db5'}, {'domain': 'www.mos-shop.de', 'expiry': 1644502108, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.mos-shop.de', 'expiry': 1644500308, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd0988ef0-82e5-414a-b645-5d3677320a43'}, {'domain': '.mos-shop.de', 'expiry': 1676034507, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9eaf5050-a1c3-4dbd-be5a-6d4d14247db5'}, {'domain': '.mos-shop.de', 'expiry': 1645708107, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.mos-shop.de', 'expiry': 1676034526, 'httpOnly': False, 'name': 'eg_cookieconsent_status', 'path': '/', 'secure': False, 'value': 'dismiss'}, {'domain': 'www.mos-shop.de', 'expiry': 1676034507, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'www.mos-shop.de', 'expiry': 1645708107, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': 'www.mos-shop.de', 'expiry': 1645708107, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}]
+[After] Cookie-Name 1: _shopify_sa_p
+[After] Cookie-Name 2: _shopify_sa_t
+[After] Cookie-Name 3: _gat
+[After] Cookie-Name 4: _landing_page
+[After] Cookie-Name 5: _gid
+[After] Cookie-Name 6: _ga
+[After] Cookie-Name 7: _shopify_s
+[After] Cookie-Name 8: _shopify_y
+[After] Cookie-Name 9: shopify_pay_redirect
+[After] Cookie-Name 10: _s
+[After] Cookie-Name 11: _y
+[After] Cookie-Name 12: _orig_referrer
+[After] Cookie-Name 13: eg_cookieconsent_status
+[After] Cookie-Name 14: secure_customer_sig
+[After] Cookie-Name 15: cart_currency
+[After] Cookie-Name 16: localization
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: eg_cookieconsent_status
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

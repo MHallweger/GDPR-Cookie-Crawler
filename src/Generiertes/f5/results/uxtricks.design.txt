@@ -1,0 +1,67 @@
+Website 118: http://www.uxtricks.design/ | Created: 09.02.2022 20:09:39 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 19
+[Before] Website-Cookies: [{'domain': '.uxtricks.design', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.uxtricks.design', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A09%3A30.784Z'}, {'domain': 'uxtricks.design', 'expiry': 1644520171, 'httpOnly': True, 'name': '_secure_session_id', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '8e22cb12da6e3b5270b6c0f9ff81a3b6'}, {'domain': 'uxtricks.design', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.uxtricks.design', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A09%3A30.778Z'}, {'domain': '.uxtricks.design', 'expiry': 1675969770, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': 'uxtricks.design', 'expiry': 1645643371, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'USD'}, {'domain': '.uxtricks.design', 'expiry': 1675969770, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%7D'}, {'domain': '.uxtricks.design', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e997cf39-d789-4646-87b7-f2cef3ab5993'}, {'domain': '.uxtricks.design', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '01ea1729-692b-4243-82e1-8ca33081403d'}, {'domain': '.uxtricks.design', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '01ea1729-692b-4243-82e1-8ca33081403d'}, {'domain': '.uxtricks.design', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.uxtricks.design', 'expiry': 1645643370, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.uxtricks.design', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e997cf39-d789-4646-87b7-f2cef3ab5993'}, {'domain': 'uxtricks.design', 'expiry': 1675969771, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'uxtricks.design', 'expiry': 1645643371, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'US'}, {'domain': '.uxtricks.design', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.uxtricks.design', 'expiry': 1644435571, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.uxtricks.design', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[Before] Cookie-Name 1: _shopify_sa_p
+[Before] Cookie-Name 2: _shopify_sa_t
+[Before] Cookie-Name 3: _secure_session_id
+[Before] Cookie-Name 4: _shopify_evids
+[Before] Cookie-Name 5: _shopify_d
+[Before] Cookie-Name 6: _shopify_m
+[Before] Cookie-Name 7: cart_currency
+[Before] Cookie-Name 8: _tracking_consent
+[Before] Cookie-Name 9: _shopify_s
+[Before] Cookie-Name 10: _shopify_y
+[Before] Cookie-Name 11: _y
+[Before] Cookie-Name 12: _shopify_evids
+[Before] Cookie-Name 13: _shopify_tw
+[Before] Cookie-Name 14: _s
+[Before] Cookie-Name 15: secure_customer_sig
+[Before] Cookie-Name 16: localization
+[Before] Cookie-Name 17: _landing_page
+[Before] Cookie-Name 18: _shopify_tm
+[Before] Cookie-Name 19: _orig_referrer
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 19
+[After] Website-Cookies: [{'domain': '.uxtricks.design', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.uxtricks.design', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A09%3A30.784Z'}, {'domain': 'uxtricks.design', 'expiry': 1644520171, 'httpOnly': True, 'name': '_secure_session_id', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '8e22cb12da6e3b5270b6c0f9ff81a3b6'}, {'domain': 'uxtricks.design', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.uxtricks.design', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A09%3A30.778Z'}, {'domain': '.uxtricks.design', 'expiry': 1675969770, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': 'uxtricks.design', 'expiry': 1645643371, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'USD'}, {'domain': '.uxtricks.design', 'expiry': 1675969770, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%7D'}, {'domain': '.uxtricks.design', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e997cf39-d789-4646-87b7-f2cef3ab5993'}, {'domain': '.uxtricks.design', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '01ea1729-692b-4243-82e1-8ca33081403d'}, {'domain': '.uxtricks.design', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '01ea1729-692b-4243-82e1-8ca33081403d'}, {'domain': '.uxtricks.design', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.uxtricks.design', 'expiry': 1645643370, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.uxtricks.design', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e997cf39-d789-4646-87b7-f2cef3ab5993'}, {'domain': 'uxtricks.design', 'expiry': 1675969771, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'uxtricks.design', 'expiry': 1645643371, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'US'}, {'domain': '.uxtricks.design', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.uxtricks.design', 'expiry': 1644435571, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.uxtricks.design', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: _shopify_sa_p
+[After] Cookie-Name 2: _shopify_sa_t
+[After] Cookie-Name 3: _secure_session_id
+[After] Cookie-Name 4: _shopify_evids
+[After] Cookie-Name 5: _shopify_d
+[After] Cookie-Name 6: _shopify_m
+[After] Cookie-Name 7: cart_currency
+[After] Cookie-Name 8: _tracking_consent
+[After] Cookie-Name 9: _shopify_s
+[After] Cookie-Name 10: _shopify_y
+[After] Cookie-Name 11: _y
+[After] Cookie-Name 12: _shopify_evids
+[After] Cookie-Name 13: _shopify_tw
+[After] Cookie-Name 14: _s
+[After] Cookie-Name 15: secure_customer_sig
+[After] Cookie-Name 16: localization
+[After] Cookie-Name 17: _landing_page
+[After] Cookie-Name 18: _shopify_tm
+[After] Cookie-Name 19: _orig_referrer
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is NOT GDPR compliant!

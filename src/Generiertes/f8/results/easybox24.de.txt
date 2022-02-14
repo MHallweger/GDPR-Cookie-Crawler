@@ -1,0 +1,58 @@
+Website 233: http://www.easybox24.de/ | Created: 10.02.2022 21:07:06 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 13
+[Before] Website-Cookies: [{'domain': '.easybox24.de', 'expiry': 1644525416, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2ff8ca1b-235b-4d11-82a8-3ef1e13dacb6'}, {'domain': '.easybox24.de', 'expiry': 1652299617, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644523617222.1601712763'}, {'domain': '.easybox24.de', 'expiry': 1644525416, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2ff8ca1b-235b-4d11-82a8-3ef1e13dacb6'}, {'domain': 'easybox24.de', 'expiry': 1707595617, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ1MjM2MTgsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vZWFzeWJveDI0LmRlLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDUyMzYxOCwidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly9lYXN5Ym94MjQuZGUvIn19'}, {'domain': 'easybox24.de', 'expiry': 1676059616, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.easybox24.de', 'expiry': 1645733216, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.easybox24.de', 'expiry': 1676059616, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '77a9a158-f3ce-43fa-af9d-5aaf8d7b169b'}, {'domain': '.easybox24.de', 'expiry': 1644525416, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.easybox24.de', 'expiry': 1644525416, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T20%3A06%3A56.980Z'}, {'domain': '.easybox24.de', 'expiry': 1645733216, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'easybox24.de', 'expiry': 1645733216, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'easybox24.de', 'expiry': 1645733216, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.easybox24.de', 'expiry': 1676059616, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '77a9a158-f3ce-43fa-af9d-5aaf8d7b169b'}]
+[Before] Cookie-Name 1: _shopify_s
+[Before] Cookie-Name 2: _fbp
+[Before] Cookie-Name 3: _s
+[Before] Cookie-Name 4: __kla_id
+[Before] Cookie-Name 5: secure_customer_sig
+[Before] Cookie-Name 6: _orig_referrer
+[Before] Cookie-Name 7: _y
+[Before] Cookie-Name 8: _shopify_sa_p
+[Before] Cookie-Name 9: _shopify_sa_t
+[Before] Cookie-Name 10: _landing_page
+[Before] Cookie-Name 11: cart_currency
+[Before] Cookie-Name 12: localization
+[Before] Cookie-Name 13: _shopify_y
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 13
+[After] Website-Cookies: [{'domain': '.easybox24.de', 'expiry': 1644525416, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2ff8ca1b-235b-4d11-82a8-3ef1e13dacb6'}, {'domain': '.easybox24.de', 'expiry': 1652299617, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644523617222.1601712763'}, {'domain': '.easybox24.de', 'expiry': 1644525416, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2ff8ca1b-235b-4d11-82a8-3ef1e13dacb6'}, {'domain': 'easybox24.de', 'expiry': 1707595617, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ1MjM2MTgsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vZWFzeWJveDI0LmRlLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDUyMzYxOCwidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly9lYXN5Ym94MjQuZGUvIn19'}, {'domain': 'easybox24.de', 'expiry': 1676059616, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.easybox24.de', 'expiry': 1645733216, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.easybox24.de', 'expiry': 1676059616, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '77a9a158-f3ce-43fa-af9d-5aaf8d7b169b'}, {'domain': '.easybox24.de', 'expiry': 1644525416, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.easybox24.de', 'expiry': 1644525416, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T20%3A06%3A56.980Z'}, {'domain': '.easybox24.de', 'expiry': 1645733216, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'easybox24.de', 'expiry': 1645733216, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'easybox24.de', 'expiry': 1645733216, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.easybox24.de', 'expiry': 1676059616, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '77a9a158-f3ce-43fa-af9d-5aaf8d7b169b'}]
+[After] Cookie-Name 1: _shopify_s
+[After] Cookie-Name 2: _fbp
+[After] Cookie-Name 3: _s
+[After] Cookie-Name 4: __kla_id
+[After] Cookie-Name 5: secure_customer_sig
+[After] Cookie-Name 6: _orig_referrer
+[After] Cookie-Name 7: _y
+[After] Cookie-Name 8: _shopify_sa_p
+[After] Cookie-Name 9: _shopify_sa_t
+[After] Cookie-Name 10: _landing_page
+[After] Cookie-Name 11: cart_currency
+[After] Cookie-Name 12: localization
+[After] Cookie-Name 13: _shopify_y
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

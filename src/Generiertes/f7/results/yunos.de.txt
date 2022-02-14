@@ -1,0 +1,93 @@
+Website 159: http://www.yunos.de/ | Created: 10.02.2022 18:07:33 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 27
+[Before] Website-Cookies: [{'domain': 'www.yunos.de', 'expiry': 1645722444, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'www.yunos.de', 'expiry': 1645722442, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644512842'}, {'domain': '.yunos.de', 'expiry': 1644514642, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.yunos.de', 'expiry': 1676048845, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ddb588cf-76ff-4b8e-b3fe-e370cd558850'}, {'domain': '.yunos.de', 'expiry': 1644514645, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7a206332-4187-40e3-92a2-b3540b1f9ee3'}, {'domain': 'www.yunos.de', 'expiry': 1644513142, 'httpOnly': False, 'name': 'outbrain_cid_fetch', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': 'www.yunos.de', 'expiry': 1644512962, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.yunos.de', 'expiry': 1644514642, 'httpOnly': False, 'name': '_hjSession_1619093', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImU2YWMzZjM3LTFjOTYtNDkwMy05MjdhLTExZjcxNzc1MDU3YSIsImNyZWF0ZWQiOjE2NDQ1MTI4NDIzMjAsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': 'www.yunos.de', 'expiry': 1644512962, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.yunos.de', 'expiry': 1652288842, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644512842258.296021111'}, {'domain': '.yunos.de', 'expiry': 1644514642, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.yunos.de', 'expiry': 1676048842, 'httpOnly': False, 'name': '_hjSessionUser_1619093', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjY3M2UwYzM4LWI4MmEtNTdjOS1hNmYyLTExYzQ3NDQ0MmYwNCIsImNyZWF0ZWQiOjE2NDQ1MTI4NDIzMTAsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.yunos.de', 'expiry': 1644512902, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.yunos.de', 'expiry': 1645722442, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2a091f54379ed4c0288007756664f783'}, {'domain': '.yunos.de', 'expiry': 1644514645, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7a206332-4187-40e3-92a2-b3540b1f9ee3'}, {'domain': 'www.yunos.de', 'expiry': 1645722442, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A2'}, {'domain': 'www.yunos.de', 'expiry': 1645722444, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ac5ff19f8416462a465c9789913bcd66'}, {'domain': '.yunos.de', 'expiry': 1644599242, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.535529420.1644512842'}, {'domain': '.yunos.de', 'expiry': 1707584842, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.2122271687.1644512842'}, {'domain': '.yunos.de', 'expiry': 1676048842, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU56Vm1OR1JqWWprdE1ESTBPQzAwTkRVekxUbGlaVEF0TVdZellUWm1ZelV6TXpGbQ'}, {'domain': '.yunos.de', 'expiry': 1676048845, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ddb588cf-76ff-4b8e-b3fe-e370cd558850'}, {'domain': '.yunos.de', 'expiry': 1644514642, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.yunos.de', 'expiry': 1644514642, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A07%3A22.069Z'}, {'domain': '.yunos.de', 'expiry': 1652288842, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.823571949.1644512842'}, {'domain': 'www.yunos.de', 'expiry': 1676048845, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.yunos.de', 'expiry': 1645722441, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.yunos.de', 'expiry': 1645722441, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[Before] Cookie-Name 1: localization
+[Before] Cookie-Name 2: cart_ts
+[Before] Cookie-Name 3: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 4: _y
+[Before] Cookie-Name 5: _shopify_s
+[Before] Cookie-Name 6: outbrain_cid_fetch
+[Before] Cookie-Name 7: _hjIncludedInPageviewSample
+[Before] Cookie-Name 8: _hjSession_1619093
+[Before] Cookie-Name 9: _hjIncludedInSessionSample
+[Before] Cookie-Name 10: _fbp
+[Before] Cookie-Name 11: _hjFirstSeen
+[Before] Cookie-Name 12: _hjSessionUser_1619093
+[Before] Cookie-Name 13: _gat
+[Before] Cookie-Name 14: cart
+[Before] Cookie-Name 15: _s
+[Before] Cookie-Name 16: cart_ver
+[Before] Cookie-Name 17: cart_sig
+[Before] Cookie-Name 18: _gid
+[Before] Cookie-Name 19: _ga
+[Before] Cookie-Name 20: _pin_unauth
+[Before] Cookie-Name 21: _shopify_y
+[Before] Cookie-Name 22: _shopify_sa_p
+[Before] Cookie-Name 23: _shopify_sa_t
+[Before] Cookie-Name 24: _gcl_au
+[Before] Cookie-Name 25: secure_customer_sig
+[Before] Cookie-Name 26: _landing_page
+[Before] Cookie-Name 27: _orig_referrer
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 28
+[After] Website-Cookies: [{'domain': 'www.yunos.de', 'expiry': 1676048858, 'httpOnly': False, 'name': 'cookieconsent_status', 'path': '/', 'secure': False, 'value': 'dismiss'}, {'domain': 'www.yunos.de', 'expiry': 1645722444, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'www.yunos.de', 'expiry': 1645722442, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644512842'}, {'domain': '.yunos.de', 'expiry': 1644514642, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.yunos.de', 'expiry': 1676048845, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ddb588cf-76ff-4b8e-b3fe-e370cd558850'}, {'domain': '.yunos.de', 'expiry': 1644514645, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7a206332-4187-40e3-92a2-b3540b1f9ee3'}, {'domain': 'www.yunos.de', 'expiry': 1644513142, 'httpOnly': False, 'name': 'outbrain_cid_fetch', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': 'www.yunos.de', 'expiry': 1644512962, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.yunos.de', 'expiry': 1644514642, 'httpOnly': False, 'name': '_hjSession_1619093', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImU2YWMzZjM3LTFjOTYtNDkwMy05MjdhLTExZjcxNzc1MDU3YSIsImNyZWF0ZWQiOjE2NDQ1MTI4NDIzMjAsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': 'www.yunos.de', 'expiry': 1644512962, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.yunos.de', 'expiry': 1652288858, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644512842258.296021111'}, {'domain': '.yunos.de', 'expiry': 1644514642, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.yunos.de', 'expiry': 1676048842, 'httpOnly': False, 'name': '_hjSessionUser_1619093', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjY3M2UwYzM4LWI4MmEtNTdjOS1hNmYyLTExYzQ3NDQ0MmYwNCIsImNyZWF0ZWQiOjE2NDQ1MTI4NDIzMTAsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.yunos.de', 'expiry': 1644512902, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.yunos.de', 'expiry': 1645722442, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2a091f54379ed4c0288007756664f783'}, {'domain': '.yunos.de', 'expiry': 1644514645, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7a206332-4187-40e3-92a2-b3540b1f9ee3'}, {'domain': 'www.yunos.de', 'expiry': 1645722442, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A2'}, {'domain': 'www.yunos.de', 'expiry': 1645722444, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ac5ff19f8416462a465c9789913bcd66'}, {'domain': '.yunos.de', 'expiry': 1644599242, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.535529420.1644512842'}, {'domain': '.yunos.de', 'expiry': 1707584842, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.2122271687.1644512842'}, {'domain': '.yunos.de', 'expiry': 1676048842, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU56Vm1OR1JqWWprdE1ESTBPQzAwTkRVekxUbGlaVEF0TVdZellUWm1ZelV6TXpGbQ'}, {'domain': '.yunos.de', 'expiry': 1676048845, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ddb588cf-76ff-4b8e-b3fe-e370cd558850'}, {'domain': '.yunos.de', 'expiry': 1644514642, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.yunos.de', 'expiry': 1644514642, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A07%3A22.069Z'}, {'domain': '.yunos.de', 'expiry': 1652288842, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.823571949.1644512842'}, {'domain': 'www.yunos.de', 'expiry': 1676048845, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.yunos.de', 'expiry': 1645722441, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.yunos.de', 'expiry': 1645722441, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: cookieconsent_status
+[After] Cookie-Name 2: localization
+[After] Cookie-Name 3: cart_ts
+[After] Cookie-Name 4: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 5: _y
+[After] Cookie-Name 6: _shopify_s
+[After] Cookie-Name 7: outbrain_cid_fetch
+[After] Cookie-Name 8: _hjIncludedInPageviewSample
+[After] Cookie-Name 9: _hjSession_1619093
+[After] Cookie-Name 10: _hjIncludedInSessionSample
+[After] Cookie-Name 11: _fbp
+[After] Cookie-Name 12: _hjFirstSeen
+[After] Cookie-Name 13: _hjSessionUser_1619093
+[After] Cookie-Name 14: _gat
+[After] Cookie-Name 15: cart
+[After] Cookie-Name 16: _s
+[After] Cookie-Name 17: cart_ver
+[After] Cookie-Name 18: cart_sig
+[After] Cookie-Name 19: _gid
+[After] Cookie-Name 20: _ga
+[After] Cookie-Name 21: _pin_unauth
+[After] Cookie-Name 22: _shopify_y
+[After] Cookie-Name 23: _shopify_sa_p
+[After] Cookie-Name 24: _shopify_sa_t
+[After] Cookie-Name 25: _gcl_au
+[After] Cookie-Name 26: secure_customer_sig
+[After] Cookie-Name 27: _landing_page
+[After] Cookie-Name 28: _orig_referrer
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjIncludedInPageviewSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjIncludedInSessionSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: cookieconsent_status
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

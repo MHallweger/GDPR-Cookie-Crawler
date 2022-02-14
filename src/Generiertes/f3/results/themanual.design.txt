@@ -1,0 +1,93 @@
+Website 145: http://www.themanual.design/ | Created: 09.02.2022 14:26:02 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 28
+[Before] Website-Cookies: [{'domain': 'www.fromthemanual.com', 'httpOnly': False, 'name': '_ZB_STATIC_DR_location', 'path': '/', 'secure': False, 'value': '2885165,6255148,2921044,2921044,2847618'}, {'domain': '.www.fromthemanual.com', 'expiry': 1675949154, 'httpOnly': False, 'name': '__ar_v4', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7CMKIUZ2MU7BA7DOVC7JT436%3A20220211%3A1%7CLLNOU6F5BBGR3KJOTC32DC%3A20220211%3A1'}, {'domain': '.www.fromthemanual.com', 'expiry': 1675970754, 'httpOnly': False, 'name': '__adroll_fpc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8fb01850733e7a8ce4cae08709bbe6e7-1644413154385'}, {'domain': '.fromthemanual.com', 'expiry': 1675949153, 'httpOnly': False, 'name': '__zlcmid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '18Skh53Z3r4UgPM'}, {'domain': 'www.fromthemanual.com', 'expiry': 1645622751, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'US'}, {'domain': '.fromthemanual.com', 'expiry': 1652189154, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644413152239.610488258'}, {'domain': '.fromthemanual.com', 'expiry': 1644414952, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.fromthemanual.com', 'expiry': 1644413212, 'httpOnly': False, 'name': '_gat_gtag_UA_141243730_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.fromthemanual.com', 'expiry': 1644414952, 'httpOnly': False, 'name': '_hjSession_1351258', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImQwNjhhM2FhLTU0NzYtNDFjYy1hMzg5LWE3MDY0OTYxMjgxNyIsImNyZWF0ZWQiOjE2NDQ0MTMxNTIxNDcsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': '.fromthemanual.com', 'expiry': 1652189152, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1524692661.1644413152'}, {'domain': 'www.fromthemanual.com', 'expiry': 1645622751, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'USD'}, {'domain': '.fromthemanual.com', 'expiry': 1644413212, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.fromthemanual.com', 'expiry': 1644499552, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.2008911570.1644413152'}, {'domain': '.fromthemanual.com', 'expiry': 1675949151, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f77a5a24-140a-408d-8e89-e6359fdbe904'}, {'domain': '.fromthemanual.com', 'expiry': 1707485152, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.926776013.1644413152'}, {'domain': '.fromthemanual.com', 'expiry': 1644414952, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A25%3A52.007Z'}, {'domain': '.fromthemanual.com', 'expiry': 1675949152, 'httpOnly': False, 'name': '_hjSessionUser_1351258', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjE2YzFmYjM2LWY1NjgtNTVjOC1hNGVhLTFjNzZjMThlNjlhYyIsImNyZWF0ZWQiOjE2NDQ0MTMxNTIwODcsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.fromthemanual.com', 'expiry': 1644414951, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f5caf93a-a4f5-479f-babb-1cad2a10557a'}, {'domain': '.fromthemanual.com', 'expiry': 1644414952, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.fromthemanual.com', 'expiry': 1675949151, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f77a5a24-140a-408d-8e89-e6359fdbe904'}, {'domain': '.fromthemanual.com', 'expiry': 1644414952, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.fromthemanual.com', 'expiry': 1644414951, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f5caf93a-a4f5-479f-babb-1cad2a10557a'}, {'domain': 'www.fromthemanual.com', 'expiry': 1644413452, 'httpOnly': False, 'name': 'outbrain_cid_fetch', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': '.fromthemanual.com', 'expiry': 1645622751, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.fromthemanual.com', 'expiry': 1675949151, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'www.fromthemanual.com', 'expiry': 1644413272, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.fromthemanual.com', 'expiry': 1678577153, 'httpOnly': False, 'name': 'cto_bundle', 'path': '/', 'secure': False, 'value': 'SZKvBl9EelhGM3M3MTdOQ08wSE1veEN2d0gxVHdsTmVCSTJEQ0FoTWVySmdsd3ZUQWklMkJzOUE3eXFRSFFiNDNuUnJ1M2F0YUNyOEElMkJNMDMlMkJWa3VqTHFMbG53UVNOUU9CVWlrdzlPN0NHN05ldW5LMlM2YyUyQiUyQnhhalZnQkFBcGt5ZEFreiUyRjFQQnY2WDdPakhJUVZZRTRkdVVzSUElM0QlM0Q'}, {'domain': '.fromthemanual.com', 'expiry': 1645622751, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}]
+[Before] Cookie-Name 1: _ZB_STATIC_DR_location
+[Before] Cookie-Name 2: __ar_v4
+[Before] Cookie-Name 3: __adroll_fpc
+[Before] Cookie-Name 4: __zlcmid
+[Before] Cookie-Name 5: localization
+[Before] Cookie-Name 6: _fbp
+[Before] Cookie-Name 7: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 8: _gat_gtag_UA_141243730_1
+[Before] Cookie-Name 9: _hjSession_1351258
+[Before] Cookie-Name 10: _gcl_au
+[Before] Cookie-Name 11: cart_currency
+[Before] Cookie-Name 12: _gat
+[Before] Cookie-Name 13: _gid
+[Before] Cookie-Name 14: _shopify_y
+[Before] Cookie-Name 15: _ga
+[Before] Cookie-Name 16: _shopify_sa_t
+[Before] Cookie-Name 17: _hjSessionUser_1351258
+[Before] Cookie-Name 18: _shopify_s
+[Before] Cookie-Name 19: _hjFirstSeen
+[Before] Cookie-Name 20: _y
+[Before] Cookie-Name 21: _shopify_sa_p
+[Before] Cookie-Name 22: _s
+[Before] Cookie-Name 23: outbrain_cid_fetch
+[Before] Cookie-Name 24: _orig_referrer
+[Before] Cookie-Name 25: secure_customer_sig
+[Before] Cookie-Name 26: _hjIncludedInPageviewSample
+[Before] Cookie-Name 27: cto_bundle
+[Before] Cookie-Name 28: _landing_page
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 28
+[After] Website-Cookies: [{'domain': 'www.fromthemanual.com', 'httpOnly': False, 'name': '_ZB_STATIC_DR_location', 'path': '/', 'secure': False, 'value': '2885165,6255148,2921044,2921044,2847618'}, {'domain': '.www.fromthemanual.com', 'expiry': 1675949154, 'httpOnly': False, 'name': '__ar_v4', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7CMKIUZ2MU7BA7DOVC7JT436%3A20220211%3A1%7CLLNOU6F5BBGR3KJOTC32DC%3A20220211%3A1'}, {'domain': '.www.fromthemanual.com', 'expiry': 1675970754, 'httpOnly': False, 'name': '__adroll_fpc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8fb01850733e7a8ce4cae08709bbe6e7-1644413154385'}, {'domain': '.fromthemanual.com', 'expiry': 1675949153, 'httpOnly': False, 'name': '__zlcmid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '18Skh53Z3r4UgPM'}, {'domain': 'www.fromthemanual.com', 'expiry': 1645622751, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'US'}, {'domain': '.fromthemanual.com', 'expiry': 1652189154, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644413152239.610488258'}, {'domain': '.fromthemanual.com', 'expiry': 1644414952, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.fromthemanual.com', 'expiry': 1644413212, 'httpOnly': False, 'name': '_gat_gtag_UA_141243730_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.fromthemanual.com', 'expiry': 1644414952, 'httpOnly': False, 'name': '_hjSession_1351258', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImQwNjhhM2FhLTU0NzYtNDFjYy1hMzg5LWE3MDY0OTYxMjgxNyIsImNyZWF0ZWQiOjE2NDQ0MTMxNTIxNDcsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': '.fromthemanual.com', 'expiry': 1652189152, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1524692661.1644413152'}, {'domain': 'www.fromthemanual.com', 'expiry': 1645622751, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'USD'}, {'domain': '.fromthemanual.com', 'expiry': 1644413212, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.fromthemanual.com', 'expiry': 1644499552, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.2008911570.1644413152'}, {'domain': '.fromthemanual.com', 'expiry': 1675949151, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f77a5a24-140a-408d-8e89-e6359fdbe904'}, {'domain': '.fromthemanual.com', 'expiry': 1707485152, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.926776013.1644413152'}, {'domain': '.fromthemanual.com', 'expiry': 1644414952, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A25%3A52.007Z'}, {'domain': '.fromthemanual.com', 'expiry': 1675949152, 'httpOnly': False, 'name': '_hjSessionUser_1351258', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjE2YzFmYjM2LWY1NjgtNTVjOC1hNGVhLTFjNzZjMThlNjlhYyIsImNyZWF0ZWQiOjE2NDQ0MTMxNTIwODcsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.fromthemanual.com', 'expiry': 1644414951, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f5caf93a-a4f5-479f-babb-1cad2a10557a'}, {'domain': '.fromthemanual.com', 'expiry': 1644414952, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.fromthemanual.com', 'expiry': 1675949151, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f77a5a24-140a-408d-8e89-e6359fdbe904'}, {'domain': '.fromthemanual.com', 'expiry': 1644414952, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.fromthemanual.com', 'expiry': 1644414951, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f5caf93a-a4f5-479f-babb-1cad2a10557a'}, {'domain': 'www.fromthemanual.com', 'expiry': 1644413452, 'httpOnly': False, 'name': 'outbrain_cid_fetch', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': '.fromthemanual.com', 'expiry': 1645622751, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.fromthemanual.com', 'expiry': 1675949151, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'www.fromthemanual.com', 'expiry': 1644413272, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.fromthemanual.com', 'expiry': 1678577153, 'httpOnly': False, 'name': 'cto_bundle', 'path': '/', 'secure': False, 'value': 'SZKvBl9EelhGM3M3MTdOQ08wSE1veEN2d0gxVHdsTmVCSTJEQ0FoTWVySmdsd3ZUQWklMkJzOUE3eXFRSFFiNDNuUnJ1M2F0YUNyOEElMkJNMDMlMkJWa3VqTHFMbG53UVNOUU9CVWlrdzlPN0NHN05ldW5LMlM2YyUyQiUyQnhhalZnQkFBcGt5ZEFreiUyRjFQQnY2WDdPakhJUVZZRTRkdVVzSUElM0QlM0Q'}, {'domain': '.fromthemanual.com', 'expiry': 1645622751, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}]
+[After] Cookie-Name 1: _ZB_STATIC_DR_location
+[After] Cookie-Name 2: __ar_v4
+[After] Cookie-Name 3: __adroll_fpc
+[After] Cookie-Name 4: __zlcmid
+[After] Cookie-Name 5: localization
+[After] Cookie-Name 6: _fbp
+[After] Cookie-Name 7: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 8: _gat_gtag_UA_141243730_1
+[After] Cookie-Name 9: _hjSession_1351258
+[After] Cookie-Name 10: _gcl_au
+[After] Cookie-Name 11: cart_currency
+[After] Cookie-Name 12: _gat
+[After] Cookie-Name 13: _gid
+[After] Cookie-Name 14: _shopify_y
+[After] Cookie-Name 15: _ga
+[After] Cookie-Name 16: _shopify_sa_t
+[After] Cookie-Name 17: _hjSessionUser_1351258
+[After] Cookie-Name 18: _shopify_s
+[After] Cookie-Name 19: _hjFirstSeen
+[After] Cookie-Name 20: _y
+[After] Cookie-Name 21: _shopify_sa_p
+[After] Cookie-Name 22: _s
+[After] Cookie-Name 23: outbrain_cid_fetch
+[After] Cookie-Name 24: _orig_referrer
+[After] Cookie-Name 25: secure_customer_sig
+[After] Cookie-Name 26: _hjIncludedInPageviewSample
+[After] Cookie-Name 27: cto_bundle
+[After] Cookie-Name 28: _landing_page
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjIncludedInPageviewSample (Hotjar (User experience tool))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

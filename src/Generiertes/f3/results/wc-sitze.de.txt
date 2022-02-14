@@ -1,0 +1,86 @@
+Website 114: http://www.wc-sitze.de/ | Created: 09.02.2022 14:16:30 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 26
+[Before] Website-Cookies: [{'domain': '.wc-sitze.de', 'httpOnly': False, 'name': 'smct_session', 'path': '/', 'secure': False, 'value': '%7B%22s%22%3A1644412581755%2C%22l%22%3A1644412591742%2C%22lt%22%3A1644412591743%2C%22t%22%3A11%2C%22p%22%3A11%7D'}, {'domain': 'www.wc-sitze.de', 'httpOnly': False, 'name': 'snize-recommendation', 'path': '/', 'secure': False, 'value': 'kjbqus9ukxf'}, {'domain': '.wc-sitze.de', 'expiry': 1959772581, 'httpOnly': False, 'name': 'smc_tpv', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.wc-sitze.de', 'expiry': 1707484579, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.1.1387463244.1644412580'}, {'domain': '.wc-sitze.de', 'expiry': 1645622179, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.wc-sitze.de', 'expiry': 1647004581, 'httpOnly': False, 'name': 'smct_last_ov', 'path': '/', 'secure': False, 'value': '%5B%7B%22id%22%3A68982%2C%22loaded%22%3A1644412581427%2C%22open%22%3Anull%2C%22eng%22%3Anull%2C%22closed%22%3Anull%7D%5D'}, {'domain': '.wc-sitze.de', 'expiry': 1707484581, 'httpOnly': False, 'name': 'smc_refresh', 'path': '/', 'secure': False, 'value': '18369'}, {'domain': '.wc-sitze.de', 'httpOnly': False, 'name': 'smc_session_id', 'path': '/', 'secure': False, 'value': 'izEPe9t5j5NRITFNs97qQGpqk4a3JFBf'}, {'domain': '.wc-sitze.de', 'expiry': 1675948580, 'httpOnly': False, 'name': 'smc_tag', 'path': '/', 'secure': False, 'value': 'eyJpZCI6NDA5OCwibmFtZSI6Imx1dmV0dC5kZSJ9'}, {'domain': '.wc-sitze.de', 'expiry': 1675948579, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f1b4193d-6fb5-43ea-93a3-d2099b5f4f95'}, {'domain': '.wc-sitze.de', 'expiry': 1959772580, 'httpOnly': False, 'name': 'smc_uid', 'path': '/', 'secure': False, 'value': '1644412580735831'}, {'domain': '.wc-sitze.de', 'expiry': 1707484579, 'httpOnly': False, 'name': '_ga_CVEWGS3L8P', 'path': '/', 'secure': False, 'value': 'GS1.1.1644412579.1.1.1644412579.60'}, {'domain': '.wc-sitze.de', 'expiry': 1652188579, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1528506945.1644412580'}, {'domain': '.wc-sitze.de', 'expiry': 1644414379, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A16%3A19.457Z'}, {'domain': '.wc-sitze.de', 'expiry': 1959772581, 'httpOnly': False, 'name': 'smc_not', 'path': '/', 'secure': False, 'value': 'default'}, {'domain': '.wc-sitze.de', 'expiry': 1644414379, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ea5c0006-2266-4057-9c3e-5548796e4d67'}, {'domain': '.wc-sitze.de', 'expiry': 1644414379, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ea5c0006-2266-4057-9c3e-5548796e4d67'}, {'domain': '.wc-sitze.de', 'expiry': 1675948579, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f1b4193d-6fb5-43ea-93a3-d2099b5f4f95'}, {'domain': '.wc-sitze.de', 'expiry': 1645622179, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.wc-sitze.de', 'expiry': 1675948578, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'www.wc-sitze.de', 'expiry': 1645622178, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.wc-sitze.de', 'expiry': 1652188580, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644412579926.1050357512'}, {'domain': '.wc-sitze.de', 'expiry': 1644414379, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.wc-sitze.de', 'expiry': 1959772581, 'httpOnly': False, 'name': 'smc_sesn', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.wc-sitze.de', 'expiry': 1959772585, 'httpOnly': False, 'name': 'smc_v4_68982', 'path': '/', 'secure': False, 'value': '%7B%22timer%22%3A0%2C%22start%22%3A1644412581725%2C%22last%22%3A1644412581725%2C%22disp%22%3Anull%2C%22close%22%3Anull%2C%22reset%22%3Anull%2C%22engaged%22%3Anull%2C%22active%22%3A1644412585034%2C%22cancel%22%3Anull%2C%22fm%22%3Anull%7D'}, {'domain': '.wc-sitze.de', 'httpOnly': False, 'name': 'smc_spv', 'path': '/', 'secure': False, 'value': '1'}]
+[Before] Cookie-Name 1: smct_session
+[Before] Cookie-Name 2: snize-recommendation
+[Before] Cookie-Name 3: smc_tpv
+[Before] Cookie-Name 4: _ga
+[Before] Cookie-Name 5: _orig_referrer
+[Before] Cookie-Name 6: smct_last_ov
+[Before] Cookie-Name 7: smc_refresh
+[Before] Cookie-Name 8: smc_session_id
+[Before] Cookie-Name 9: smc_tag
+[Before] Cookie-Name 10: _shopify_y
+[Before] Cookie-Name 11: smc_uid
+[Before] Cookie-Name 12: _ga_CVEWGS3L8P
+[Before] Cookie-Name 13: _gcl_au
+[Before] Cookie-Name 14: _shopify_sa_t
+[Before] Cookie-Name 15: smc_not
+[Before] Cookie-Name 16: _shopify_s
+[Before] Cookie-Name 17: _s
+[Before] Cookie-Name 18: _y
+[Before] Cookie-Name 19: _landing_page
+[Before] Cookie-Name 20: secure_customer_sig
+[Before] Cookie-Name 21: cart_currency
+[Before] Cookie-Name 22: _fbp
+[Before] Cookie-Name 23: _shopify_sa_p
+[Before] Cookie-Name 24: smc_sesn
+[Before] Cookie-Name 25: smc_v4_68982
+[Before] Cookie-Name 26: smc_spv
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 28
+[After] Website-Cookies: [{'domain': '.wc-sitze.de', 'httpOnly': False, 'name': 'smct_session', 'path': '/', 'secure': False, 'value': '%7B%22s%22%3A1644412581755%2C%22l%22%3A1644412597753%2C%22lt%22%3A1644412597754%2C%22t%22%3A17%2C%22p%22%3A17%7D'}, {'domain': 'www.wc-sitze.de', 'httpOnly': False, 'name': 'snize-recommendation', 'path': '/', 'secure': False, 'value': 'kjbqus9ukxf'}, {'domain': '.wc-sitze.de', 'expiry': 1644412656, 'httpOnly': False, 'name': '_gat_gtag_UA_140397870_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.wc-sitze.de', 'expiry': 1959772585, 'httpOnly': False, 'name': 'smc_v4_68982', 'path': '/', 'secure': False, 'value': '%7B%22timer%22%3A0%2C%22start%22%3A1644412581725%2C%22last%22%3A1644412581725%2C%22disp%22%3Anull%2C%22close%22%3Anull%2C%22reset%22%3Anull%2C%22engaged%22%3Anull%2C%22active%22%3A1644412585034%2C%22cancel%22%3Anull%2C%22fm%22%3Anull%7D'}, {'domain': '.wc-sitze.de', 'httpOnly': False, 'name': 'smc_spv', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.wc-sitze.de', 'expiry': 1959772581, 'httpOnly': False, 'name': 'smc_tpv', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.wc-sitze.de', 'expiry': 1707484596, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1387463244.1644412580'}, {'domain': '.wc-sitze.de', 'expiry': 1645622179, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.wc-sitze.de', 'expiry': 1647004581, 'httpOnly': False, 'name': 'smct_last_ov', 'path': '/', 'secure': False, 'value': '%5B%7B%22id%22%3A68982%2C%22loaded%22%3A1644412581427%2C%22open%22%3Anull%2C%22eng%22%3Anull%2C%22closed%22%3Anull%7D%5D'}, {'domain': '.wc-sitze.de', 'expiry': 1707484581, 'httpOnly': False, 'name': 'smc_refresh', 'path': '/', 'secure': False, 'value': '18369'}, {'domain': '.wc-sitze.de', 'httpOnly': False, 'name': 'smc_session_id', 'path': '/', 'secure': False, 'value': 'izEPe9t5j5NRITFNs97qQGpqk4a3JFBf'}, {'domain': '.wc-sitze.de', 'expiry': 1675948580, 'httpOnly': False, 'name': 'smc_tag', 'path': '/', 'secure': False, 'value': 'eyJpZCI6NDA5OCwibmFtZSI6Imx1dmV0dC5kZSJ9'}, {'domain': '.wc-sitze.de', 'expiry': 1675948579, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f1b4193d-6fb5-43ea-93a3-d2099b5f4f95'}, {'domain': '.wc-sitze.de', 'expiry': 1959772580, 'httpOnly': False, 'name': 'smc_uid', 'path': '/', 'secure': False, 'value': '1644412580735831'}, {'domain': '.wc-sitze.de', 'expiry': 1707484579, 'httpOnly': False, 'name': '_ga_CVEWGS3L8P', 'path': '/', 'secure': False, 'value': 'GS1.1.1644412579.1.1.1644412579.60'}, {'domain': '.wc-sitze.de', 'expiry': 1644414379, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A16%3A19.457Z'}, {'domain': '.wc-sitze.de', 'expiry': 1959772581, 'httpOnly': False, 'name': 'smc_not', 'path': '/', 'secure': False, 'value': 'default'}, {'domain': '.wc-sitze.de', 'expiry': 1644414379, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ea5c0006-2266-4057-9c3e-5548796e4d67'}, {'domain': '.wc-sitze.de', 'expiry': 1644414379, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ea5c0006-2266-4057-9c3e-5548796e4d67'}, {'domain': '.wc-sitze.de', 'expiry': 1675948579, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f1b4193d-6fb5-43ea-93a3-d2099b5f4f95'}, {'domain': '.wc-sitze.de', 'expiry': 1645622179, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.wc-sitze.de', 'expiry': 1652188579, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1528506945.1644412580'}, {'domain': 'www.wc-sitze.de', 'expiry': 1675948578, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'www.wc-sitze.de', 'expiry': 1645622178, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.wc-sitze.de', 'expiry': 1652188595, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644412579926.1050357512'}, {'domain': '.wc-sitze.de', 'expiry': 1644414379, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.wc-sitze.de', 'expiry': 1644498996, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.476966209.1644412596'}, {'domain': '.wc-sitze.de', 'expiry': 1959772581, 'httpOnly': False, 'name': 'smc_sesn', 'path': '/', 'secure': False, 'value': '1'}]
+[After] Cookie-Name 1: smct_session
+[After] Cookie-Name 2: snize-recommendation
+[After] Cookie-Name 3: _gat_gtag_UA_140397870_1
+[After] Cookie-Name 4: smc_v4_68982
+[After] Cookie-Name 5: smc_spv
+[After] Cookie-Name 6: smc_tpv
+[After] Cookie-Name 7: _ga
+[After] Cookie-Name 8: _orig_referrer
+[After] Cookie-Name 9: smct_last_ov
+[After] Cookie-Name 10: smc_refresh
+[After] Cookie-Name 11: smc_session_id
+[After] Cookie-Name 12: smc_tag
+[After] Cookie-Name 13: _shopify_y
+[After] Cookie-Name 14: smc_uid
+[After] Cookie-Name 15: _ga_CVEWGS3L8P
+[After] Cookie-Name 16: _shopify_sa_t
+[After] Cookie-Name 17: smc_not
+[After] Cookie-Name 18: _shopify_s
+[After] Cookie-Name 19: _s
+[After] Cookie-Name 20: _y
+[After] Cookie-Name 21: _landing_page
+[After] Cookie-Name 22: _gcl_au
+[After] Cookie-Name 23: secure_customer_sig
+[After] Cookie-Name 24: cart_currency
+[After] Cookie-Name 25: _fbp
+[After] Cookie-Name 26: _shopify_sa_p
+[After] Cookie-Name 27: _gid
+[After] Cookie-Name 28: smc_sesn
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 2
+[Difference] Cookie-Name: 1: _gat_gtag_UA_140397870_1
+[Difference] Cookie-Name: 2: _gid
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

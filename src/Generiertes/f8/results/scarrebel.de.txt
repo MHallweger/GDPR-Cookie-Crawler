@@ -1,0 +1,83 @@
+Website 187: http://www.scarrebel.de/ | Created: 10.02.2022 20:53:39 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 8
+[Before] Website-Cookies: [{'domain': 'www.scarrebel.de', 'expiry': 1645732410, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': 'www.scarrebel.de', 'expiry': 1645732411, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f1ee22ee70dde1490ac20294defe4ead'}, {'domain': 'www.scarrebel.de', 'expiry': 1645732410, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644522810'}, {'domain': 'www.scarrebel.de', 'expiry': 1676058821, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.scarrebel.de', 'expiry': 1645732409, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.scarrebel.de', 'expiry': 1645732410, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '73b55d01c3cd5a0c1c1d2f75fb666758'}, {'domain': '.scarrebel.de', 'expiry': 1645732409, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.scarrebel.de', 'expiry': 1645732421, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}]
+[Before] Cookie-Name 1: cart_ver
+[Before] Cookie-Name 2: cart_sig
+[Before] Cookie-Name 3: cart_ts
+[Before] Cookie-Name 4: secure_customer_sig
+[Before] Cookie-Name 5: _landing_page
+[Before] Cookie-Name 6: cart
+[Before] Cookie-Name 7: _orig_referrer
+[Before] Cookie-Name 8: cart_currency
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 30
+[After] Website-Cookies: [{'domain': '.scarrebel.de', 'expiry': 1644524626, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ad357be9-7ab6-4016-b751-05fea9c0b906'}, {'domain': '.scarrebel.de', 'expiry': 1652298825, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.843448438.1644522825'}, {'domain': '.scarrebel.de', 'expiry': 1652298825, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644522825475.135338031'}, {'domain': '.scarrebel.de', 'expiry': 1644522885, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.scarrebel.de', 'expiry': 1645732426, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.scarrebel.de', 'expiry': 1707594825, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.27437327.1644522825'}, {'domain': 'www.scarrebel.de', 'httpOnly': False, 'name': 'po_visitor', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'XEuM5dmEn9vn'}, {'domain': 'www.scarrebel.de', 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ1MjI4MjEsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LnNjYXJyZWJlbC5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQ1MjI4MjEsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LnNjYXJyZWJlbC5kZS8ifX0='}, {'domain': 'www.scarrebel.de', 'expiry': 1645732410, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '73b55d01c3cd5a0c1c1d2f75fb666758'}, {'domain': 'www.scarrebel.de', 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'dWlkPU56YzFZbVU0WW1VdFpUazFaUzAwTUdSakxXSmtaVEF0WlRJNU9UQmpaRFF4TkdRMg'}, {'domain': '.scarrebel.de', 'expiry': 1676058826, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '49158d81-ed8f-44e8-9934-c54e0b9df75a'}, {'domain': 'www.scarrebel.de', 'httpOnly': False, 'name': 'lsContextID', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'QD6m5yDWDkO2iRoyAcg8ow'}, {'domain': 'www.scarrebel.de', 'expiry': 1644524625, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T19%3A53%3A30.348Z'}, {'domain': 'www.scarrebel.de', 'expiry': 1647114825, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0NTIyODI1MTY5LCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjowfX0='}, {'domain': 'www.scarrebel.de', 'httpOnly': False, 'name': 'lsSema-', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.scarrebel.de', 'expiry': 1676058825, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '49158d81-ed8f-44e8-9934-c54e0b9df75a'}, {'domain': 'www.scarrebel.de', 'expiry': 1645732410, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644522810'}, {'domain': 'www.scarrebel.de', 'expiry': 1676058825, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '49158d81-ed8f-44e8-9934-c54e0b9df75a'}, {'domain': 'www.scarrebel.de', 'expiry': 1645732410, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': 'www.scarrebel.de', 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'pending'}, {'domain': 'www.scarrebel.de', 'expiry': 1644524625, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ad357be9-7ab6-4016-b751-05fea9c0b906'}, {'domain': 'www.scarrebel.de', 'expiry': 1645732411, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f1ee22ee70dde1490ac20294defe4ead'}, {'domain': 'www.scarrebel.de', 'expiry': 1676058826, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.scarrebel.de', 'expiry': 1676058826, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '49158d81-ed8f-44e8-9934-c54e0b9df75a'}, {'domain': '.scarrebel.de', 'expiry': 1644609225, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.655947387.1644522825'}, {'domain': '.scarrebel.de', 'expiry': 1645732409, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.scarrebel.de', 'expiry': 1644524625, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ad357be9-7ab6-4016-b751-05fea9c0b906'}, {'domain': '.scarrebel.de', 'expiry': 1645732409, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.scarrebel.de', 'expiry': 1644524626, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ad357be9-7ab6-4016-b751-05fea9c0b906'}, {'domain': 'www.scarrebel.de', 'expiry': 1645732421, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}]
+[After] Cookie-Name 1: _shopify_s
+[After] Cookie-Name 2: _gcl_au
+[After] Cookie-Name 3: _fbp
+[After] Cookie-Name 4: _gat
+[After] Cookie-Name 5: localization
+[After] Cookie-Name 6: _ga
+[After] Cookie-Name 7: po_visitor
+[After] Cookie-Name 8: __kla_id
+[After] Cookie-Name 9: cart
+[After] Cookie-Name 10: _pin_unauth
+[After] Cookie-Name 11: _y
+[After] Cookie-Name 12: lsContextID
+[After] Cookie-Name 13: _shopify_sa_t
+[After] Cookie-Name 14: _bc_c_set
+[After] Cookie-Name 15: lsSema-
+[After] Cookie-Name 16: _y
+[After] Cookie-Name 17: cart_ts
+[After] Cookie-Name 18: _shopify_y
+[After] Cookie-Name 19: cart_ver
+[After] Cookie-Name 20: shopify_pay_redirect
+[After] Cookie-Name 21: _shopify_s
+[After] Cookie-Name 22: cart_sig
+[After] Cookie-Name 23: secure_customer_sig
+[After] Cookie-Name 24: _shopify_y
+[After] Cookie-Name 25: _gid
+[After] Cookie-Name 26: _landing_page
+[After] Cookie-Name 27: _s
+[After] Cookie-Name 28: _orig_referrer
+[After] Cookie-Name 29: _s
+[After] Cookie-Name 30: cart_currency
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 18
+[Difference] Cookie-Name: 1: _fbp
+[Difference] Cookie-Name: 2: _shopify_y
+[Difference] Cookie-Name: 3: _shopify_s
+[Difference] Cookie-Name: 4: _s
+[Difference] Cookie-Name: 5: _pin_unauth
+[Difference] Cookie-Name: 6: _ga
+[Difference] Cookie-Name: 7: lsContextID
+[Difference] Cookie-Name: 8: _gat
+[Difference] Cookie-Name: 9: _gid
+[Difference] Cookie-Name: 10: lsSema-
+[Difference] Cookie-Name: 11: localization
+[Difference] Cookie-Name: 12: _gcl_au
+[Difference] Cookie-Name: 13: _shopify_sa_t
+[Difference] Cookie-Name: 14: _y
+[Difference] Cookie-Name: 15: __kla_id
+[Difference] Cookie-Name: 16: po_visitor
+[Difference] Cookie-Name: 17: _bc_c_set
+[Difference] Cookie-Name: 18: shopify_pay_redirect
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

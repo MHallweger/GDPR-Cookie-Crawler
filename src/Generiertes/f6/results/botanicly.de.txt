@@ -1,0 +1,117 @@
+Website 220: http://www.botanicly.de/ | Created: 10.02.2022 13:17:48 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 30
+[Before] Website-Cookies: [{'domain': '.botanicly.de', 'expiry': 1678191459, 'httpOnly': False, 'name': '__hstc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '111184283.fa8392a59278f18f18a90c78a96564bd.1644495459976.1644495459976.1644495459976.1'}, {'domain': '.botanicly.de', 'expiry': 1678191459, 'httpOnly': False, 'name': 'hubspotutk', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fa8392a59278f18f18a90c78a96564bd'}, {'domain': 'www.botanicly.de', 'expiry': 1644495579, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.botanicly.de', 'expiry': 1644497259, 'httpOnly': False, 'name': '_hjSession_552552', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImNkZjU3MzVjLWE4NDktNDZjMS04ZTIwLTU0NjhhMGEyZDg1ZSIsImNyZWF0ZWQiOjE2NDQ0OTU0NTkxNDgsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': '.botanicly.de', 'expiry': 1676031459, 'httpOnly': False, 'name': '_hjSessionUser_552552', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjJhYTk1MGEwLTI5NmMtNTgwMy1iNzk5LTg3ODk4Y2EwYjdlMyIsImNyZWF0ZWQiOjE2NDQ0OTU0NTkxMDksImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.botanicly.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.botanicly.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T12%3A17%3A39.083Z'}, {'domain': '.botanicly.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.botanicly.de', 'expiry': 1645705057, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.botanicly.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.botanicly.de', 'expiry': 1644497260, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.botanicly.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8de7d101-4fb4-4ed8-9d65-371d5d25809d'}, {'domain': '.botanicly.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '315c8dcf-d0b2-4d74-8cd3-0aacb3eb8e7b'}, {'domain': '.botanicly.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8de7d101-4fb4-4ed8-9d65-371d5d25809d'}, {'domain': '.botanicly.de', 'expiry': 1644497259, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.botanicly.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '315c8dcf-d0b2-4d74-8cd3-0aacb3eb8e7b'}, {'domain': 'www.botanicly.de', 'expiry': 1644497257, 'httpOnly': False, 'name': 'dynamic_checkout_shown_on_cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.botanicly.de', 'httpOnly': False, 'name': '__hssrc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.botanicly.de', 'expiry': 1644499059, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.botanicly.de', 'expiry': 1676031457, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': 'www.botanicly.de', 'expiry': 1645705060, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.botanicly.de', 'expiry': 1645705060, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.botanicly.de', 'expiry': 1644497259, 'httpOnly': False, 'name': '__hssc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '111184283.1.1644495459976'}, {'domain': '.botanicly.de', 'expiry': 1644497259, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': 'www.botanicly.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.botanicly.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T12%3A17%3A39.064Z'}, {'domain': '.botanicly.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.botanicly.de', 'expiry': 1644495579, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.botanicly.de', 'expiry': 1676031457, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%7D'}, {'domain': 'www.botanicly.de', 'expiry': 1676031460, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: __hstc
+[Before] Cookie-Name 2: hubspotutk
+[Before] Cookie-Name 3: _hjIncludedInPageviewSample
+[Before] Cookie-Name 4: _hjSession_552552
+[Before] Cookie-Name 5: _hjSessionUser_552552
+[Before] Cookie-Name 6: _shopify_sa_p
+[Before] Cookie-Name 7: _shopify_sa_t
+[Before] Cookie-Name 8: _shopify_evids
+[Before] Cookie-Name 9: _shopify_tw
+[Before] Cookie-Name 10: _orig_referrer
+[Before] Cookie-Name 11: _shopify_tm
+[Before] Cookie-Name 12: _y
+[Before] Cookie-Name 13: _s
+[Before] Cookie-Name 14: _shopify_y
+[Before] Cookie-Name 15: _hjFirstSeen
+[Before] Cookie-Name 16: _shopify_s
+[Before] Cookie-Name 17: dynamic_checkout_shown_on_cart
+[Before] Cookie-Name 18: __hssrc
+[Before] Cookie-Name 19: shopify_pay_redirect
+[Before] Cookie-Name 20: _shopify_m
+[Before] Cookie-Name 21: cart_currency
+[Before] Cookie-Name 22: localization
+[Before] Cookie-Name 23: __hssc
+[Before] Cookie-Name 24: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 25: _shopify_evids
+[Before] Cookie-Name 26: _shopify_d
+[Before] Cookie-Name 27: _landing_page
+[Before] Cookie-Name 28: _hjIncludedInSessionSample
+[Before] Cookie-Name 29: _tracking_consent
+[Before] Cookie-Name 30: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 42
+[After] Website-Cookies: [{'domain': '.botanicly.de', 'expiry': 1652271475, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644495475478.185639181'}, {'domain': '.botanicly.de', 'expiry': 1644495535, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.botanicly.de', 'expiry': 1707567475, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1380761159.1644495475'}, {'domain': '.botanicly.de', 'expiry': 1676031475, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%221%22%7D%7D'}, {'domain': '.botanicly.de', 'expiry': 1676031475, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': 'www.botanicly.de', 'expiry': 1645705075, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644495474'}, {'domain': 'www.botanicly.de', 'expiry': 1676031474, 'httpOnly': False, 'name': 'cookies-analytics', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': 'www.botanicly.de', 'expiry': 1645705075, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fa8b3e58a62d17d3aa1f8a2ff1fe7d59'}, {'domain': 'www.botanicly.de', 'expiry': 1676031474, 'httpOnly': False, 'name': 'cookies-functional', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': '.botanicly.de', 'expiry': 1678191459, 'httpOnly': False, 'name': '__hstc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '111184283.fa8392a59278f18f18a90c78a96564bd.1644495459976.1644495459976.1644495459976.1'}, {'domain': '.botanicly.de', 'expiry': 1644497259, 'httpOnly': False, 'name': '_hjSession_552552', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImNkZjU3MzVjLWE4NDktNDZjMS04ZTIwLTU0NjhhMGEyZDg1ZSIsImNyZWF0ZWQiOjE2NDQ0OTU0NTkxNDgsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': '.botanicly.de', 'expiry': 1676031459, 'httpOnly': False, 'name': '_hjSessionUser_552552', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjJhYTk1MGEwLTI5NmMtNTgwMy1iNzk5LTg3ODk4Y2EwYjdlMyIsImNyZWF0ZWQiOjE2NDQ0OTU0NTkxMDksImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.botanicly.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.botanicly.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T12%3A17%3A39.083Z'}, {'domain': 'www.botanicly.de', 'expiry': 1676031474, 'httpOnly': False, 'name': 'cookies-preferences', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': '.botanicly.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.botanicly.de', 'expiry': 1645705057, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.botanicly.de', 'expiry': 1676031474, 'httpOnly': False, 'name': 'cookies-marketing', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': '.botanicly.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8de7d101-4fb4-4ed8-9d65-371d5d25809d'}, {'domain': '.botanicly.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '315c8dcf-d0b2-4d74-8cd3-0aacb3eb8e7b'}, {'domain': 'www.botanicly.de', 'expiry': 1645705075, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '04958ac44c68aca91cf7c0a48faaa344'}, {'domain': '.botanicly.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8de7d101-4fb4-4ed8-9d65-371d5d25809d'}, {'domain': '.botanicly.de', 'expiry': 1644497259, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.botanicly.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '315c8dcf-d0b2-4d74-8cd3-0aacb3eb8e7b'}, {'domain': 'www.botanicly.de', 'expiry': 1644497275, 'httpOnly': False, 'name': 'dynamic_checkout_shown_on_cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.botanicly.de', 'expiry': 1645705075, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.botanicly.de', 'expiry': 1644497275, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.botanicly.de', 'httpOnly': False, 'name': '__hssrc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.botanicly.de', 'expiry': 1644499059, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'www.botanicly.de', 'expiry': 1645705075, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.botanicly.de', 'expiry': 1645705075, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.botanicly.de', 'expiry': 1644497259, 'httpOnly': False, 'name': '__hssc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '111184283.1.1644495459976'}, {'domain': '.botanicly.de', 'expiry': 1644497259, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': 'www.botanicly.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.botanicly.de', 'expiry': 1645705075, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': '.botanicly.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T12%3A17%3A39.064Z'}, {'domain': '.botanicly.de', 'expiry': 1645705075, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.botanicly.de', 'expiry': 1644581875, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1141242591.1644495475'}, {'domain': '.botanicly.de', 'expiry': 1678191459, 'httpOnly': False, 'name': 'hubspotutk', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fa8392a59278f18f18a90c78a96564bd'}, {'domain': 'www.botanicly.de', 'expiry': 1644495579, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.botanicly.de', 'expiry': 1644495579, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': 'www.botanicly.de', 'expiry': 1676031475, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _fbp
+[After] Cookie-Name 2: _gat
+[After] Cookie-Name 3: _ga
+[After] Cookie-Name 4: _tracking_consent
+[After] Cookie-Name 5: _shopify_m
+[After] Cookie-Name 6: cart_ts
+[After] Cookie-Name 7: cookies-analytics
+[After] Cookie-Name 8: cart_sig
+[After] Cookie-Name 9: cookies-functional
+[After] Cookie-Name 10: __hstc
+[After] Cookie-Name 11: _hjSession_552552
+[After] Cookie-Name 12: _hjSessionUser_552552
+[After] Cookie-Name 13: _shopify_sa_p
+[After] Cookie-Name 14: _shopify_sa_t
+[After] Cookie-Name 15: cookies-preferences
+[After] Cookie-Name 16: _shopify_evids
+[After] Cookie-Name 17: _shopify_tw
+[After] Cookie-Name 18: cookies-marketing
+[After] Cookie-Name 19: _y
+[After] Cookie-Name 20: _s
+[After] Cookie-Name 21: cart
+[After] Cookie-Name 22: _shopify_y
+[After] Cookie-Name 23: _hjFirstSeen
+[After] Cookie-Name 24: _shopify_s
+[After] Cookie-Name 25: dynamic_checkout_shown_on_cart
+[After] Cookie-Name 26: _orig_referrer
+[After] Cookie-Name 27: _shopify_tm
+[After] Cookie-Name 28: __hssrc
+[After] Cookie-Name 29: shopify_pay_redirect
+[After] Cookie-Name 30: cart_currency
+[After] Cookie-Name 31: localization
+[After] Cookie-Name 32: __hssc
+[After] Cookie-Name 33: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 34: _shopify_evids
+[After] Cookie-Name 35: cart_ver
+[After] Cookie-Name 36: _shopify_d
+[After] Cookie-Name 37: _landing_page
+[After] Cookie-Name 38: _gid
+[After] Cookie-Name 39: hubspotutk
+[After] Cookie-Name 40: _hjIncludedInPageviewSample
+[After] Cookie-Name 41: _hjIncludedInSessionSample
+[After] Cookie-Name 42: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: hubspotutk (HubSpot (CRM-System))
+[Used before] Cookie-Name: _hjIncludedInPageviewSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+[Used before] Cookie-Name: __hssc (HubSpot (CRM-System))
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjIncludedInSessionSample (Hotjar (User experience tool))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 12
+[Difference] Cookie-Name: 1: _gid
+[Difference] Cookie-Name: 2: cookies-preferences
+[Difference] Cookie-Name: 3: cart
+[Difference] Cookie-Name: 4: cart_ts
+[Difference] Cookie-Name: 5: cart_sig
+[Difference] Cookie-Name: 6: _fbp
+[Difference] Cookie-Name: 7: _gat
+[Difference] Cookie-Name: 8: cookies-marketing
+[Difference] Cookie-Name: 9: cookies-functional
+[Difference] Cookie-Name: 10: cart_ver
+[Difference] Cookie-Name: 11: cookies-analytics
+[Difference] Cookie-Name: 12: _ga
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

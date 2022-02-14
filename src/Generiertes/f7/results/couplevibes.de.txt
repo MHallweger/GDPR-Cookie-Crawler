@@ -1,0 +1,63 @@
+Website 347: http://www.couplevibes.de/ | Created: 10.02.2022 19:02:34 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 4
+[Before] Website-Cookies: [{'domain': '.couplevibes.de', 'expiry': 1645725738, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.couplevibes.de', 'expiry': 1645725738, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'couplevibes.de', 'expiry': 1645725739, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'couplevibes.de', 'expiry': 1676052139, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _landing_page
+[Before] Cookie-Name 2: _orig_referrer
+[Before] Cookie-Name 3: cart_currency
+[Before] Cookie-Name 4: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 18
+[After] Website-Cookies: [{'domain': 'couplevibes.de', 'expiry': 1647108159, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0NTE2MTU5NzkzLCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjowfX0='}, {'domain': 'couplevibes.de', 'httpOnly': False, 'name': '_scid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cc80660a-786d-4c3f-9692-5761086efb8a'}, {'domain': 'couplevibes.de', 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'couplevibes.de', 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ1MTYxNDUsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vY291cGxldmliZXMuZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NTE2MTQ1LCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL2NvdXBsZXZpYmVzLmRlLyJ9fQ=='}, {'domain': 'couplevibes.de', 'httpOnly': False, 'name': '_gid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'GA1.2.1018653374.1644516139'}, {'domain': 'couplevibes.de', 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1.1.348347484.1644516139'}, {'domain': 'couplevibes.de', 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644516159769.986177095'}, {'domain': 'couplevibes.de', 'expiry': 1645725739, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'couplevibes.de', 'expiry': 1676052159, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4f5dcedf-18f3-46cf-a2b4-f75792ef8ed7'}, {'domain': 'couplevibes.de', 'httpOnly': False, 'name': '_ga', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'GA1.2.1206374919.1644516139'}, {'domain': 'couplevibes.de', 'httpOnly': False, 'name': '_gat', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'couplevibes.de', 'expiry': 1644517959, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T18%3A02%3A19.259Z'}, {'domain': 'couplevibes.de', 'expiry': 1676052159, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4f5dcedf-18f3-46cf-a2b4-f75792ef8ed7'}, {'domain': 'couplevibes.de', 'expiry': 1644517959, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4534c527-912f-4772-811b-b158e84c1b1a'}, {'domain': '.couplevibes.de', 'expiry': 1645725738, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.couplevibes.de', 'expiry': 1645725738, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'couplevibes.de', 'expiry': 1644517959, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4534c527-912f-4772-811b-b158e84c1b1a'}, {'domain': 'couplevibes.de', 'expiry': 1676052139, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _bc_c_set
+[After] Cookie-Name 2: _scid
+[After] Cookie-Name 3: localization
+[After] Cookie-Name 4: __kla_id
+[After] Cookie-Name 5: _gid
+[After] Cookie-Name 6: _gcl_au
+[After] Cookie-Name 7: _fbp
+[After] Cookie-Name 8: cart_currency
+[After] Cookie-Name 9: _y
+[After] Cookie-Name 10: _ga
+[After] Cookie-Name 11: _gat
+[After] Cookie-Name 12: _shopify_sa_t
+[After] Cookie-Name 13: _shopify_y
+[After] Cookie-Name 14: _s
+[After] Cookie-Name 15: _landing_page
+[After] Cookie-Name 16: _orig_referrer
+[After] Cookie-Name 17: _shopify_s
+[After] Cookie-Name 18: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 14
+[Difference] Cookie-Name: 1: _ga
+[Difference] Cookie-Name: 2: _gcl_au
+[Difference] Cookie-Name: 3: _bc_c_set
+[Difference] Cookie-Name: 4: _shopify_s
+[Difference] Cookie-Name: 5: _gid
+[Difference] Cookie-Name: 6: _shopify_sa_t
+[Difference] Cookie-Name: 7: _s
+[Difference] Cookie-Name: 8: _y
+[Difference] Cookie-Name: 9: _scid
+[Difference] Cookie-Name: 10: _gat
+[Difference] Cookie-Name: 11: _shopify_y
+[Difference] Cookie-Name: 12: _fbp
+[Difference] Cookie-Name: 13: __kla_id
+[Difference] Cookie-Name: 14: localization
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

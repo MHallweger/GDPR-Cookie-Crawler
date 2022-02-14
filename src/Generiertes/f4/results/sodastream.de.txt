@@ -1,0 +1,77 @@
+Website 221: http://www.sodastream.de/ | Created: 09.02.2022 18:13:25 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 23
+[Before] Website-Cookies: [{'domain': 'sodastream.de', 'expiry': 1707498805, 'httpOnly': False, 'name': '_sp_id.c08c', 'path': '/', 'secure': False, 'value': 'a7f3fa80f4558cd0.1644426795.1.1644426805.1644426795'}, {'domain': 'sodastream.de', 'httpOnly': False, 'name': 'adoric_popup', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': '.sodastream.de', 'expiry': 1675962796, 'httpOnly': False, 'name': 'OptanonConsent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'isGpcEnabled=0&datestamp=Wed+Feb+09+2022+18%3A13%3A16+GMT%2B0100+(Mitteleurop%C3%A4ische+Normalzeit)&version=6.19.0&isIABGlobal=false&hosts=&consentId=84aa73ca-2c95-4cb5-ab62-ad1e63f8ab12&interactionCount=0&landingPath=https%3A%2F%2Fsodastream.de%2F&groups=1%3A1%2C2%3A0%2C3%3A0%2C4%3A0'}, {'domain': 'sodastream.de', 'expiry': 1675966395, 'httpOnly': False, 'name': 'local_user', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': '.sodastream.de', 'expiry': 1647018795, 'httpOnly': False, 'name': '_vwo_ds', 'path': '/', 'secure': False, 'value': '3%3Aa_0%2Ct_0%3A0%241644426794%3A93.75098973%3A%3A%3A26_0%2C4_0%2C2_0%2C1_0%3A0'}, {'domain': '.sodastream.de', 'expiry': 1959786795, 'httpOnly': False, 'name': '_vwo_uuid', 'path': '/', 'secure': False, 'value': 'D68573C5B9FB2268D39E0081E75B795F5'}, {'domain': '.sodastream.de', 'httpOnly': False, 'name': '_vis_opt_test_cookie', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.sodastream.de', 'expiry': 1644428595, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.sodastream.de', 'expiry': 1644428595, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A13%3A15.432Z'}, {'domain': '.sodastream.de', 'expiry': 1644428595, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '130aebd1-0df8-4501-b2b1-bb737569feef'}, {'domain': '.sodastream.de', 'expiry': 1644428595, 'httpOnly': False, 'name': '_vwo_sn', 'path': '/', 'secure': False, 'value': '0%3A1'}, {'domain': '.sodastream.de', 'expiry': 1675962794, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bd1d8706-0b75-4c3e-b663-c5b308d11919'}, {'domain': '.sodastream.de', 'expiry': 1675962794, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bd1d8706-0b75-4c3e-b663-c5b308d11919'}, {'domain': '.sodastream.de', 'expiry': 1652202794, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1356567521.1644426795'}, {'domain': 'sodastream.de', 'expiry': 1644428605, 'httpOnly': False, 'name': '_sp_ses.c08c', 'path': '/', 'secure': False, 'value': '*'}, {'domain': 'sodastream.de', 'expiry': 1675962794, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.sodastream.de', 'expiry': 1645636394, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.sodastream.de', 'expiry': 1645636394, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.sodastream.de', 'expiry': 1653066795, 'httpOnly': False, 'name': '_vis_opt_s', 'path': '/', 'secure': False, 'value': '1%7C'}, {'domain': '.sodastream.de', 'expiry': 1676049195, 'httpOnly': False, 'name': '_vwo_uuid_v2', 'path': '/', 'secure': False, 'value': 'D68573C5B9FB2268D39E0081E75B795F5|edf07fb52be8146e426d794afa65608c'}, {'domain': '.sodastream.de', 'expiry': 1644428595, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '130aebd1-0df8-4501-b2b1-bb737569feef'}, {'domain': 'sodastream.de', 'expiry': 1645636394, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': 'sodastream.de', 'expiry': 1645636394, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}]
+[Before] Cookie-Name 1: _sp_id.c08c
+[Before] Cookie-Name 2: adoric_popup
+[Before] Cookie-Name 3: OptanonConsent
+[Before] Cookie-Name 4: local_user
+[Before] Cookie-Name 5: _vwo_ds
+[Before] Cookie-Name 6: _vwo_uuid
+[Before] Cookie-Name 7: _vis_opt_test_cookie
+[Before] Cookie-Name 8: _shopify_sa_p
+[Before] Cookie-Name 9: _shopify_sa_t
+[Before] Cookie-Name 10: _shopify_s
+[Before] Cookie-Name 11: _vwo_sn
+[Before] Cookie-Name 12: _shopify_y
+[Before] Cookie-Name 13: _y
+[Before] Cookie-Name 14: _gcl_au
+[Before] Cookie-Name 15: _sp_ses.c08c
+[Before] Cookie-Name 16: secure_customer_sig
+[Before] Cookie-Name 17: _landing_page
+[Before] Cookie-Name 18: _orig_referrer
+[Before] Cookie-Name 19: _vis_opt_s
+[Before] Cookie-Name 20: _vwo_uuid_v2
+[Before] Cookie-Name 21: _s
+[Before] Cookie-Name 22: cart_currency
+[Before] Cookie-Name 23: localization
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 23
+[After] Website-Cookies: [{'domain': 'sodastream.de', 'expiry': 1707498805, 'httpOnly': False, 'name': '_sp_id.c08c', 'path': '/', 'secure': False, 'value': 'a7f3fa80f4558cd0.1644426795.1.1644426805.1644426795'}, {'domain': 'sodastream.de', 'httpOnly': False, 'name': 'adoric_popup', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': '.sodastream.de', 'expiry': 1675962796, 'httpOnly': False, 'name': 'OptanonConsent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'isGpcEnabled=0&datestamp=Wed+Feb+09+2022+18%3A13%3A16+GMT%2B0100+(Mitteleurop%C3%A4ische+Normalzeit)&version=6.19.0&isIABGlobal=false&hosts=&consentId=84aa73ca-2c95-4cb5-ab62-ad1e63f8ab12&interactionCount=0&landingPath=https%3A%2F%2Fsodastream.de%2F&groups=1%3A1%2C2%3A0%2C3%3A0%2C4%3A0'}, {'domain': 'sodastream.de', 'expiry': 1675966395, 'httpOnly': False, 'name': 'local_user', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': '.sodastream.de', 'expiry': 1647018795, 'httpOnly': False, 'name': '_vwo_ds', 'path': '/', 'secure': False, 'value': '3%3Aa_0%2Ct_0%3A0%241644426794%3A93.75098973%3A%3A%3A26_0%2C4_0%2C2_0%2C1_0%3A0'}, {'domain': '.sodastream.de', 'expiry': 1959786795, 'httpOnly': False, 'name': '_vwo_uuid', 'path': '/', 'secure': False, 'value': 'D68573C5B9FB2268D39E0081E75B795F5'}, {'domain': '.sodastream.de', 'httpOnly': False, 'name': '_vis_opt_test_cookie', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.sodastream.de', 'expiry': 1644428595, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.sodastream.de', 'expiry': 1644428595, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A13%3A15.432Z'}, {'domain': '.sodastream.de', 'expiry': 1644428595, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '130aebd1-0df8-4501-b2b1-bb737569feef'}, {'domain': '.sodastream.de', 'expiry': 1644428595, 'httpOnly': False, 'name': '_vwo_sn', 'path': '/', 'secure': False, 'value': '0%3A1'}, {'domain': '.sodastream.de', 'expiry': 1675962794, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bd1d8706-0b75-4c3e-b663-c5b308d11919'}, {'domain': '.sodastream.de', 'expiry': 1675962794, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bd1d8706-0b75-4c3e-b663-c5b308d11919'}, {'domain': '.sodastream.de', 'expiry': 1652202794, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1356567521.1644426795'}, {'domain': 'sodastream.de', 'expiry': 1644428605, 'httpOnly': False, 'name': '_sp_ses.c08c', 'path': '/', 'secure': False, 'value': '*'}, {'domain': 'sodastream.de', 'expiry': 1675962794, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.sodastream.de', 'expiry': 1645636394, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.sodastream.de', 'expiry': 1645636394, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.sodastream.de', 'expiry': 1653066795, 'httpOnly': False, 'name': '_vis_opt_s', 'path': '/', 'secure': False, 'value': '1%7C'}, {'domain': '.sodastream.de', 'expiry': 1676049195, 'httpOnly': False, 'name': '_vwo_uuid_v2', 'path': '/', 'secure': False, 'value': 'D68573C5B9FB2268D39E0081E75B795F5|edf07fb52be8146e426d794afa65608c'}, {'domain': '.sodastream.de', 'expiry': 1644428595, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '130aebd1-0df8-4501-b2b1-bb737569feef'}, {'domain': 'sodastream.de', 'expiry': 1645636394, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': 'sodastream.de', 'expiry': 1645636394, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}]
+[After] Cookie-Name 1: _sp_id.c08c
+[After] Cookie-Name 2: adoric_popup
+[After] Cookie-Name 3: OptanonConsent
+[After] Cookie-Name 4: local_user
+[After] Cookie-Name 5: _vwo_ds
+[After] Cookie-Name 6: _vwo_uuid
+[After] Cookie-Name 7: _vis_opt_test_cookie
+[After] Cookie-Name 8: _shopify_sa_p
+[After] Cookie-Name 9: _shopify_sa_t
+[After] Cookie-Name 10: _shopify_s
+[After] Cookie-Name 11: _vwo_sn
+[After] Cookie-Name 12: _shopify_y
+[After] Cookie-Name 13: _y
+[After] Cookie-Name 14: _gcl_au
+[After] Cookie-Name 15: _sp_ses.c08c
+[After] Cookie-Name 16: secure_customer_sig
+[After] Cookie-Name 17: _landing_page
+[After] Cookie-Name 18: _orig_referrer
+[After] Cookie-Name 19: _vis_opt_s
+[After] Cookie-Name 20: _vwo_uuid_v2
+[After] Cookie-Name 21: _s
+[After] Cookie-Name 22: cart_currency
+[After] Cookie-Name 23: localization
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

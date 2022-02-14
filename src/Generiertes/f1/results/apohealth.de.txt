@@ -1,0 +1,93 @@
+Website 232: http://www.apohealth.de/ | Created: 08.02.2022 22:50:43 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 11
+[Before] Website-Cookies: [{'domain': 'www.apohealth.de', 'expiry': 1645566634, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '120f506d0d758da6d32edcbe175242f6'}, {'domain': 'www.apohealth.de', 'expiry': 1645566634, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7e31c9c9b4c21383bde4cdb9fb6843a1'}, {'domain': '.apohealth.de', 'expiry': 1675893032, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.apohealth.de', 'expiry': 1645566632, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.apohealth.de', 'expiry': 1645566634, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644357034'}, {'domain': '.apohealth.de', 'expiry': 1644358834, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.apohealth.de', 'expiry': 1675893032, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%7D'}, {'domain': '.apohealth.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.apohealth.de', 'expiry': 1645566634, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': '.apohealth.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.apohealth.de', 'expiry': 1675893034, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: cart_sig
+[Before] Cookie-Name 2: cart
+[Before] Cookie-Name 3: _shopify_m
+[Before] Cookie-Name 4: _shopify_tw
+[Before] Cookie-Name 5: cart_ts
+[Before] Cookie-Name 6: _shopify_tm
+[Before] Cookie-Name 7: _tracking_consent
+[Before] Cookie-Name 8: _landing_page
+[Before] Cookie-Name 9: cart_ver
+[Before] Cookie-Name 10: _orig_referrer
+[Before] Cookie-Name 11: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 36
+[After] Website-Cookies: [{'domain': '.apohealth.de', 'expiry': 1675893049, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22con%22%3A%7B%22GDPR%22%3A%221%22%7D%2C%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': '.apohealth.de', 'expiry': 1675893049, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': '.apohealth.de', 'expiry': 1644358849, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c2e95852-86c7-44b8-b52c-90bbc1359d8f'}, {'domain': '.apohealth.de', 'expiry': 1675893049, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '340dfcda-9670-4a25-a979-129105e87aaa'}, {'domain': '.apohealth.de', 'expiry': 1707429049, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1609372219.1644357049'}, {'domain': '.apohealth.de', 'expiry': 1644357109, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.apohealth.de', 'expiry': 1707429049, 'httpOnly': False, 'name': '_ga_V5G1FF7JMC', 'path': '/', 'secure': False, 'value': 'GS1.1.1644357049.1.0.1644357049.60'}, {'domain': '.apohealth.de', 'expiry': 1644357109, 'httpOnly': False, 'name': '_gat_UA-185803994-1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.apohealth.de', 'expiry': 1646949049, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0MzU3MDQ5MjE5LCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjowfX0='}, {'domain': '.apohealth.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.apohealth.de', 'httpOnly': False, 'name': 'po_visitor', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'kK1KIB5g7kC4'}, {'domain': 'www.apohealth.de', 'expiry': 1645566649, 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A50%3A33.922Z'}, {'domain': 'www.apohealth.de', 'httpOnly': False, 'name': 'geolizr_geodata', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '{%22as%22:%22n/a%22%2C%22asname%22:%22n/a%22%2C%22mobile%22:false%2C%22proxy%22:false%2C%22city%22:%22Kottenheim%22%2C%22currency%22:{%22code%22:%22EUR%22}%2C%22country%22:{%22code%22:%22DE%22%2C%22country%22:%22Germany%22}%2C%22countryCode%22:%22DE%22%2C%22continent%22:%22Europe%22%2C%22continentCode%22:%22EU%22%2C%22isp%22:%22n/a%22%2C%22lat%22:50.354%2C%22lon%22:7.2464%2C%22org%22:%22n/a%22%2C%22query%22:%2291.184.168.63%22%2C%22region%22:%22RP%22%2C%22regionName%22:%22Rheinland-Pfalz%22%2C%22status%22:%22success%22%2C%22timezone%22:%22Europe/Berlin%22%2C%22zip%22:%2256736%22%2C%22cloudflare%22:%22%22%2C%22ttl%22:0%2C%22env%22:%22PROD%22%2C%22build%22:%22maxmind%2001%20Feb%2022%2012:59%20UTC%22%2C%22currencyCode%22:%22EUR%22%2C%22countryName%22:%22Germany%22%2C%22service%22:%22ip.lovely-app.com%22}'}, {'domain': 'www.apohealth.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.apohealth.de', 'httpOnly': False, 'name': 'locale_bar_accepted', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.apohealth.de', 'httpOnly': False, 'name': 'geolizr-currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.apohealth.de', 'expiry': 1644358849, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A50%3A33.944Z'}, {'domain': '.apohealth.de', 'expiry': 1644358849, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c2e95852-86c7-44b8-b52c-90bbc1359d8f'}, {'domain': 'www.apohealth.de', 'expiry': 1675893049, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '340dfcda-9670-4a25-a979-129105e87aaa'}, {'domain': 'www.apohealth.de', 'httpOnly': False, 'name': 'geolizr-currency-auto', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.apohealth.de', 'expiry': 1675893049, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '340dfcda-9670-4a25-a979-129105e87aaa'}, {'domain': 'www.apohealth.de', 'expiry': 1644358849, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c2e95852-86c7-44b8-b52c-90bbc1359d8f'}, {'domain': 'www.apohealth.de', 'expiry': 1644358849, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c2e95852-86c7-44b8-b52c-90bbc1359d8f'}, {'domain': '.apohealth.de', 'expiry': 1644358849, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A50%3A33.944Z'}, {'domain': 'www.apohealth.de', 'expiry': 1645566649, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '120f506d0d758da6d32edcbe175242f6'}, {'domain': 'www.apohealth.de', 'expiry': 1645566634, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7e31c9c9b4c21383bde4cdb9fb6843a1'}, {'domain': '.apohealth.de', 'expiry': 1645566632, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.apohealth.de', 'expiry': 1644443449, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.440584929.1644357049'}, {'domain': 'www.apohealth.de', 'expiry': 1645566634, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644357034'}, {'domain': '.apohealth.de', 'expiry': 1675893049, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '340dfcda-9670-4a25-a979-129105e87aaa'}, {'domain': '.apohealth.de', 'expiry': 1644358849, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.apohealth.de', 'expiry': 1645566649, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.apohealth.de', 'expiry': 1645566634, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': '.apohealth.de', 'expiry': 1652133049, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.978330870.1644357049'}, {'domain': '.apohealth.de', 'expiry': 1645566649, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.apohealth.de', 'expiry': 1675893049, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _tracking_consent
+[After] Cookie-Name 2: _shopify_m
+[After] Cookie-Name 3: _shopify_s
+[After] Cookie-Name 4: _shopify_y
+[After] Cookie-Name 5: _ga
+[After] Cookie-Name 6: _gat
+[After] Cookie-Name 7: _ga_V5G1FF7JMC
+[After] Cookie-Name 8: _gat_UA-185803994-1
+[After] Cookie-Name 9: _bc_c_set
+[After] Cookie-Name 10: _shopify_evids
+[After] Cookie-Name 11: po_visitor
+[After] Cookie-Name 12: _shopify_d
+[After] Cookie-Name 13: geolizr_geodata
+[After] Cookie-Name 14: _shopify_evids
+[After] Cookie-Name 15: locale_bar_accepted
+[After] Cookie-Name 16: geolizr-currency
+[After] Cookie-Name 17: _shopify_sa_t
+[After] Cookie-Name 18: _s
+[After] Cookie-Name 19: _y
+[After] Cookie-Name 20: geolizr-currency-auto
+[After] Cookie-Name 21: _shopify_y
+[After] Cookie-Name 22: _shopify_s
+[After] Cookie-Name 23: _s
+[After] Cookie-Name 24: _shopify_sa_t
+[After] Cookie-Name 25: cart_sig
+[After] Cookie-Name 26: cart
+[After] Cookie-Name 27: _shopify_tw
+[After] Cookie-Name 28: _gid
+[After] Cookie-Name 29: cart_ts
+[After] Cookie-Name 30: _y
+[After] Cookie-Name 31: _shopify_tm
+[After] Cookie-Name 32: _landing_page
+[After] Cookie-Name 33: cart_ver
+[After] Cookie-Name 34: _gcl_au
+[After] Cookie-Name 35: _orig_referrer
+[After] Cookie-Name 36: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 19
+[Difference] Cookie-Name: 1: _gat_UA-185803994-1
+[Difference] Cookie-Name: 2: po_visitor
+[Difference] Cookie-Name: 3: _shopify_y
+[Difference] Cookie-Name: 4: geolizr-currency
+[Difference] Cookie-Name: 5: _bc_c_set
+[Difference] Cookie-Name: 6: _gid
+[Difference] Cookie-Name: 7: _y
+[Difference] Cookie-Name: 8: geolizr_geodata
+[Difference] Cookie-Name: 9: geolizr-currency-auto
+[Difference] Cookie-Name: 10: _ga_V5G1FF7JMC
+[Difference] Cookie-Name: 11: locale_bar_accepted
+[Difference] Cookie-Name: 12: _shopify_d
+[Difference] Cookie-Name: 13: _ga
+[Difference] Cookie-Name: 14: _shopify_sa_t
+[Difference] Cookie-Name: 15: _s
+[Difference] Cookie-Name: 16: _gcl_au
+[Difference] Cookie-Name: 17: _shopify_s
+[Difference] Cookie-Name: 18: _gat
+[Difference] Cookie-Name: 19: _shopify_evids
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

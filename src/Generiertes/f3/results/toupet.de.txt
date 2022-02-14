@@ -1,0 +1,73 @@
+Website 8: http://www.toupet.de/ | Created: 09.02.2022 13:45:23 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 20
+[Before] Website-Cookies: [{'domain': '.toupet.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220209124515-AimJ0kDx0aueubgawZbOuhZ3MyT1vM5dPQM1RxZVbVe1kGyEi'}, {'domain': '.toupet.de', 'expiry': 1652186715, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644410715292.51286168'}, {'domain': 'toupet.de', 'expiry': 1644414315, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.toupet.de', 'expiry': 1707482715, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.2082094228.1644410715'}, {'domain': '.toupet.de', 'expiry': 1644412515, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.toupet.de', 'expiry': 1645620314, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.toupet.de', 'expiry': 1645620314, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.toupet.de', 'expiry': 1644412515, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T12%3A45%3A15.081Z'}, {'domain': '.toupet.de', 'expiry': 1644497115, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1922972727.1644410715'}, {'domain': '.toupet.de', 'expiry': 1644412515, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f2aaad6e-a19e-4c7f-b2b2-098fe41fc606'}, {'domain': '.toupet.de', 'expiry': 1644412515, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f2aaad6e-a19e-4c7f-b2b2-098fe41fc606'}, {'domain': '.toupet.de', 'expiry': 1644412515, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': '8XFOEzvbVSU7pS-20220209124515'}, {'domain': 'toupet.de', 'expiry': 1675946715, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': ''}, {'domain': '.toupet.de', 'expiry': 1675946714, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '48bc0e6e-2fed-473b-9ab7-5218e6e0ed04'}, {'domain': '.toupet.de', 'expiry': 1675946714, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '48bc0e6e-2fed-473b-9ab7-5218e6e0ed04'}, {'domain': '.toupet.de', 'expiry': 1644410775, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'toupet.de', 'expiry': 1645620314, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.toupet.de', 'expiry': 1675946715, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'Goxu5bsdy5nb27-20220209124515'}, {'domain': 'toupet.de', 'expiry': 1645620314, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'toupet.de', 'expiry': 1675946714, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: soundestID
+[Before] Cookie-Name 2: _fbp
+[Before] Cookie-Name 3: shopify_pay_redirect
+[Before] Cookie-Name 4: _ga
+[Before] Cookie-Name 5: _shopify_sa_p
+[Before] Cookie-Name 6: _orig_referrer
+[Before] Cookie-Name 7: _landing_page
+[Before] Cookie-Name 8: _shopify_sa_t
+[Before] Cookie-Name 9: _gid
+[Before] Cookie-Name 10: _shopify_s
+[Before] Cookie-Name 11: _s
+[Before] Cookie-Name 12: omnisendSessionID
+[Before] Cookie-Name 13: cookieconsent_preferences_disabled
+[Before] Cookie-Name 14: _y
+[Before] Cookie-Name 15: _shopify_y
+[Before] Cookie-Name 16: _gat
+[Before] Cookie-Name 17: cart_currency
+[Before] Cookie-Name 18: omnisendAnonymousID
+[Before] Cookie-Name 19: localization
+[Before] Cookie-Name 20: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 21
+[After] Website-Cookies: [{'domain': '.toupet.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220209124515-AimJ0kDx0aueubgawZbOuhZ3MyT1vM5dPQM1RxZVbVe1kGyEi'}, {'domain': '.toupet.de', 'expiry': 1652186729, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644410715292.51286168'}, {'domain': 'toupet.de', 'expiry': 1644414315, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.toupet.de', 'expiry': 1707482715, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.2082094228.1644410715'}, {'domain': '.toupet.de', 'expiry': 1644412515, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.toupet.de', 'expiry': 1645620314, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.toupet.de', 'expiry': 1645620314, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.toupet.de', 'expiry': 1644412515, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T12%3A45%3A15.081Z'}, {'domain': '.toupet.de', 'expiry': 1644497115, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1922972727.1644410715'}, {'domain': '.toupet.de', 'expiry': 1644412515, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f2aaad6e-a19e-4c7f-b2b2-098fe41fc606'}, {'domain': '.toupet.de', 'expiry': 1644412515, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f2aaad6e-a19e-4c7f-b2b2-098fe41fc606'}, {'domain': 'toupet.de', 'expiry': 1675946729, 'httpOnly': False, 'name': 'cookieconsent_status', 'path': '/', 'secure': False, 'value': 'allow'}, {'domain': '.toupet.de', 'expiry': 1644412515, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': '8XFOEzvbVSU7pS-20220209124515'}, {'domain': 'toupet.de', 'expiry': 1675946729, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': ''}, {'domain': '.toupet.de', 'expiry': 1675946714, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '48bc0e6e-2fed-473b-9ab7-5218e6e0ed04'}, {'domain': '.toupet.de', 'expiry': 1675946714, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '48bc0e6e-2fed-473b-9ab7-5218e6e0ed04'}, {'domain': '.toupet.de', 'expiry': 1644410775, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'toupet.de', 'expiry': 1645620314, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.toupet.de', 'expiry': 1675946715, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'Goxu5bsdy5nb27-20220209124515'}, {'domain': 'toupet.de', 'expiry': 1645620314, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'toupet.de', 'expiry': 1675946714, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: soundestID
+[After] Cookie-Name 2: _fbp
+[After] Cookie-Name 3: shopify_pay_redirect
+[After] Cookie-Name 4: _ga
+[After] Cookie-Name 5: _shopify_sa_p
+[After] Cookie-Name 6: _orig_referrer
+[After] Cookie-Name 7: _landing_page
+[After] Cookie-Name 8: _shopify_sa_t
+[After] Cookie-Name 9: _gid
+[After] Cookie-Name 10: _shopify_s
+[After] Cookie-Name 11: _s
+[After] Cookie-Name 12: cookieconsent_status
+[After] Cookie-Name 13: omnisendSessionID
+[After] Cookie-Name 14: cookieconsent_preferences_disabled
+[After] Cookie-Name 15: _y
+[After] Cookie-Name 16: _shopify_y
+[After] Cookie-Name 17: _gat
+[After] Cookie-Name 18: cart_currency
+[After] Cookie-Name 19: omnisendAnonymousID
+[After] Cookie-Name 20: localization
+[After] Cookie-Name 21: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _gat (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: cookieconsent_status
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

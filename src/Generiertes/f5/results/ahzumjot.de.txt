@@ -1,0 +1,75 @@
+Website 25: http://www.ahzumjot.de/ | Created: 09.02.2022 19:39:33 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 23
+[Before] Website-Cookies: [{'domain': 'ahzumjot.de', 'expiry': 1644431998, 'httpOnly': False, 'name': 'rp_lastName', 'path': '/', 'secure': False, 'value': ''}, {'domain': 'ahzumjot.de', 'expiry': 1644431998, 'httpOnly': False, 'name': 'rp_email', 'path': '/', 'secure': False, 'value': ''}, {'domain': 'ahzumjot.de', 'expiry': 1644431998, 'httpOnly': False, 'name': 'rp_customer_id', 'path': '/', 'secure': False, 'value': ''}, {'domain': 'ahzumjot.de', 'expiry': 1645641565, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e5175966877ae43a4fcebbaf9290fbdc'}, {'domain': 'ahzumjot.de', 'expiry': 1645641565, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644431965'}, {'domain': 'ahzumjot.de', 'expiry': 1645641565, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bd085b016d90d44902a6b609c9e254cc'}, {'domain': 'ahzumjot.de', 'expiry': 1644435564, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.ahzumjot.de', 'expiry': 1644433764, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T18%3A39%3A24.697Z'}, {'domain': '.ahzumjot.de', 'expiry': 1644433765, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5b9c662a-e7e7-415e-9cd5-8abd4c61c841'}, {'domain': '.ahzumjot.de', 'expiry': 1675967965, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '38f82d6e-0699-4324-853c-c20ed81fbaea'}, {'domain': '.ahzumjot.de', 'expiry': 1644433765, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5b9c662a-e7e7-415e-9cd5-8abd4c61c841'}, {'domain': '.ahzumjot.de', 'expiry': 1675967965, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '38f82d6e-0699-4324-853c-c20ed81fbaea'}, {'domain': 'ahzumjot.de', 'expiry': 1675967965, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.ahzumjot.de', 'expiry': 1645641564, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.ahzumjot.de', 'expiry': 1644453566, 'httpOnly': False, 'name': 'rpsid', 'path': '/', 'secure': False, 'value': '9fe77f7b-5303-4aac-bb74-b46ffe49b170'}, {'domain': 'ahzumjot.de', 'expiry': 1644431998, 'httpOnly': False, 'name': 'rp_firstName', 'path': '/', 'secure': False, 'value': ''}, {'domain': 'ahzumjot.de', 'expiry': 1645641565, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': 'ahzumjot.de', 'expiry': 1645641565, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.ahzumjot.de', 'expiry': 1645641564, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.ahzumjot.de', 'expiry': 1761626366, 'httpOnly': False, 'name': 'rptkn', 'path': '/', 'secure': False, 'value': 'tskr7132'}, {'domain': '.ahzumjot.de', 'expiry': 1644433764, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.ahzumjot.de', 'expiry': 1761626366, 'httpOnly': False, 'name': 'rpdid', 'path': '/', 'secure': False, 'value': '3039a205-e638-46a3-a48c-8447ba96d8fa'}, {'domain': 'ahzumjot.de', 'expiry': 1645641565, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}]
+[Before] Cookie-Name 1: rp_lastName
+[Before] Cookie-Name 2: rp_email
+[Before] Cookie-Name 3: rp_customer_id
+[Before] Cookie-Name 4: cart_sig
+[Before] Cookie-Name 5: cart_ts
+[Before] Cookie-Name 6: cart
+[Before] Cookie-Name 7: shopify_pay_redirect
+[Before] Cookie-Name 8: _shopify_sa_t
+[Before] Cookie-Name 9: _shopify_s
+[Before] Cookie-Name 10: _shopify_y
+[Before] Cookie-Name 11: _s
+[Before] Cookie-Name 12: _y
+[Before] Cookie-Name 13: secure_customer_sig
+[Before] Cookie-Name 14: _landing_page
+[Before] Cookie-Name 15: rpsid
+[Before] Cookie-Name 16: rp_firstName
+[Before] Cookie-Name 17: cart_ver
+[Before] Cookie-Name 18: localization
+[Before] Cookie-Name 19: _orig_referrer
+[Before] Cookie-Name 20: rptkn
+[Before] Cookie-Name 21: _shopify_sa_p
+[Before] Cookie-Name 22: rpdid
+[Before] Cookie-Name 23: cart_currency
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 23
+[After] Website-Cookies: [{'domain': 'ahzumjot.de', 'expiry': 1644431998, 'httpOnly': False, 'name': 'rp_lastName', 'path': '/', 'secure': False, 'value': ''}, {'domain': 'ahzumjot.de', 'expiry': 1644431998, 'httpOnly': False, 'name': 'rp_email', 'path': '/', 'secure': False, 'value': ''}, {'domain': 'ahzumjot.de', 'expiry': 1644431998, 'httpOnly': False, 'name': 'rp_customer_id', 'path': '/', 'secure': False, 'value': ''}, {'domain': 'ahzumjot.de', 'expiry': 1645641565, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e5175966877ae43a4fcebbaf9290fbdc'}, {'domain': 'ahzumjot.de', 'expiry': 1645641565, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644431965'}, {'domain': 'ahzumjot.de', 'expiry': 1645641565, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bd085b016d90d44902a6b609c9e254cc'}, {'domain': 'ahzumjot.de', 'expiry': 1644435564, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.ahzumjot.de', 'expiry': 1644433764, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T18%3A39%3A24.697Z'}, {'domain': '.ahzumjot.de', 'expiry': 1644433765, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5b9c662a-e7e7-415e-9cd5-8abd4c61c841'}, {'domain': '.ahzumjot.de', 'expiry': 1675967965, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '38f82d6e-0699-4324-853c-c20ed81fbaea'}, {'domain': '.ahzumjot.de', 'expiry': 1644433765, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5b9c662a-e7e7-415e-9cd5-8abd4c61c841'}, {'domain': '.ahzumjot.de', 'expiry': 1675967965, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '38f82d6e-0699-4324-853c-c20ed81fbaea'}, {'domain': 'ahzumjot.de', 'expiry': 1675967965, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.ahzumjot.de', 'expiry': 1645641564, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.ahzumjot.de', 'expiry': 1644453566, 'httpOnly': False, 'name': 'rpsid', 'path': '/', 'secure': False, 'value': '9fe77f7b-5303-4aac-bb74-b46ffe49b170'}, {'domain': 'ahzumjot.de', 'expiry': 1644431998, 'httpOnly': False, 'name': 'rp_firstName', 'path': '/', 'secure': False, 'value': ''}, {'domain': 'ahzumjot.de', 'expiry': 1645641565, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': 'ahzumjot.de', 'expiry': 1645641565, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.ahzumjot.de', 'expiry': 1645641564, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.ahzumjot.de', 'expiry': 1761626366, 'httpOnly': False, 'name': 'rptkn', 'path': '/', 'secure': False, 'value': 'tskr7132'}, {'domain': '.ahzumjot.de', 'expiry': 1644433764, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.ahzumjot.de', 'expiry': 1761626366, 'httpOnly': False, 'name': 'rpdid', 'path': '/', 'secure': False, 'value': '3039a205-e638-46a3-a48c-8447ba96d8fa'}, {'domain': 'ahzumjot.de', 'expiry': 1645641565, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}]
+[After] Cookie-Name 1: rp_lastName
+[After] Cookie-Name 2: rp_email
+[After] Cookie-Name 3: rp_customer_id
+[After] Cookie-Name 4: cart_sig
+[After] Cookie-Name 5: cart_ts
+[After] Cookie-Name 6: cart
+[After] Cookie-Name 7: shopify_pay_redirect
+[After] Cookie-Name 8: _shopify_sa_t
+[After] Cookie-Name 9: _shopify_s
+[After] Cookie-Name 10: _shopify_y
+[After] Cookie-Name 11: _s
+[After] Cookie-Name 12: _y
+[After] Cookie-Name 13: secure_customer_sig
+[After] Cookie-Name 14: _landing_page
+[After] Cookie-Name 15: rpsid
+[After] Cookie-Name 16: rp_firstName
+[After] Cookie-Name 17: cart_ver
+[After] Cookie-Name 18: localization
+[After] Cookie-Name 19: _orig_referrer
+[After] Cookie-Name 20: rptkn
+[After] Cookie-Name 21: _shopify_sa_p
+[After] Cookie-Name 22: rpdid
+[After] Cookie-Name 23: cart_currency
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is NOT GDPR compliant!

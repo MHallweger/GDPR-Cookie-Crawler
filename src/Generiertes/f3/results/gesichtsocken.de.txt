@@ -1,0 +1,68 @@
+Website 287: http://www.gesichtsocken.de/ | Created: 09.02.2022 15:08:26 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 17
+[Before] Website-Cookies: [{'domain': '.gesichtsocken.de', 'expiry': 1644415756, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.gesichtsocken.de', 'expiry': 1644417496, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.gesichtsocken.de', 'expiry': 1652191697, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644415696640.1779769738'}, {'domain': '.gesichtsocken.de', 'expiry': 1644415756, 'httpOnly': False, 'name': '_gat_gtag_UA_186874932_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.gesichtsocken.de', 'expiry': 1644415756, 'httpOnly': False, 'name': '_gat_gtag_UA_205740412_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.gesichtsocken.de', 'expiry': 1644415756, 'httpOnly': False, 'name': '_gat_gtag_UA_205022189_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.gesichtsocken.de', 'expiry': 1644502096, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1424751456.1644415696'}, {'domain': '.gesichtsocken.de', 'expiry': 1652191696, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.171784548.1644415696'}, {'domain': '.gesichtsocken.de', 'expiry': 1644417496, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '243969a2-7dbc-4412-bd5b-a36959e6dad7'}, {'domain': '.gesichtsocken.de', 'expiry': 1675951695, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3208664a-dbec-44da-88a5-6eb24c2ba38a'}, {'domain': '.gesichtsocken.de', 'expiry': 1644417496, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T14%3A08%3A16.591Z'}, {'domain': '.gesichtsocken.de', 'expiry': 1707487696, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.31777484.1644415696'}, {'domain': '.gesichtsocken.de', 'expiry': 1645625295, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.gesichtsocken.de', 'expiry': 1645625295, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.gesichtsocken.de', 'expiry': 1644417496, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '243969a2-7dbc-4412-bd5b-a36959e6dad7'}, {'domain': '.gesichtsocken.de', 'expiry': 1675951695, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3208664a-dbec-44da-88a5-6eb24c2ba38a'}, {'domain': 'www.gesichtsocken.de', 'expiry': 1675951695, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _gat
+[Before] Cookie-Name 2: _shopify_sa_p
+[Before] Cookie-Name 3: _fbp
+[Before] Cookie-Name 4: _gat_gtag_UA_186874932_1
+[Before] Cookie-Name 5: _gat_gtag_UA_205740412_1
+[Before] Cookie-Name 6: _gat_gtag_UA_205022189_1
+[Before] Cookie-Name 7: _gid
+[Before] Cookie-Name 8: _gcl_au
+[Before] Cookie-Name 9: _shopify_s
+[Before] Cookie-Name 10: _shopify_y
+[Before] Cookie-Name 11: _shopify_sa_t
+[Before] Cookie-Name 12: _ga
+[Before] Cookie-Name 13: _landing_page
+[Before] Cookie-Name 14: _orig_referrer
+[Before] Cookie-Name 15: _s
+[Before] Cookie-Name 16: _y
+[Before] Cookie-Name 17: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 17
+[After] Website-Cookies: [{'domain': '.gesichtsocken.de', 'expiry': 1644415756, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.gesichtsocken.de', 'expiry': 1644417496, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.gesichtsocken.de', 'expiry': 1652191697, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644415696640.1779769738'}, {'domain': '.gesichtsocken.de', 'expiry': 1644415756, 'httpOnly': False, 'name': '_gat_gtag_UA_186874932_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.gesichtsocken.de', 'expiry': 1644415756, 'httpOnly': False, 'name': '_gat_gtag_UA_205740412_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.gesichtsocken.de', 'expiry': 1644415756, 'httpOnly': False, 'name': '_gat_gtag_UA_205022189_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.gesichtsocken.de', 'expiry': 1644502096, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1424751456.1644415696'}, {'domain': '.gesichtsocken.de', 'expiry': 1652191696, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.171784548.1644415696'}, {'domain': '.gesichtsocken.de', 'expiry': 1644417496, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '243969a2-7dbc-4412-bd5b-a36959e6dad7'}, {'domain': '.gesichtsocken.de', 'expiry': 1675951695, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3208664a-dbec-44da-88a5-6eb24c2ba38a'}, {'domain': '.gesichtsocken.de', 'expiry': 1644417496, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T14%3A08%3A16.591Z'}, {'domain': '.gesichtsocken.de', 'expiry': 1707487696, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.31777484.1644415696'}, {'domain': '.gesichtsocken.de', 'expiry': 1645625295, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.gesichtsocken.de', 'expiry': 1645625295, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.gesichtsocken.de', 'expiry': 1644417496, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '243969a2-7dbc-4412-bd5b-a36959e6dad7'}, {'domain': '.gesichtsocken.de', 'expiry': 1675951695, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3208664a-dbec-44da-88a5-6eb24c2ba38a'}, {'domain': 'www.gesichtsocken.de', 'expiry': 1675951695, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _gat
+[After] Cookie-Name 2: _shopify_sa_p
+[After] Cookie-Name 3: _fbp
+[After] Cookie-Name 4: _gat_gtag_UA_186874932_1
+[After] Cookie-Name 5: _gat_gtag_UA_205740412_1
+[After] Cookie-Name 6: _gat_gtag_UA_205022189_1
+[After] Cookie-Name 7: _gid
+[After] Cookie-Name 8: _gcl_au
+[After] Cookie-Name 9: _shopify_s
+[After] Cookie-Name 10: _shopify_y
+[After] Cookie-Name 11: _shopify_sa_t
+[After] Cookie-Name 12: _ga
+[After] Cookie-Name 13: _landing_page
+[After] Cookie-Name 14: _orig_referrer
+[After] Cookie-Name 15: _s
+[After] Cookie-Name 16: _y
+[After] Cookie-Name 17: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

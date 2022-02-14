@@ -1,0 +1,76 @@
+Website 263: http://www.brandsrus.de/ | Created: 10.02.2022 13:30:29 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 22
+[Before] Website-Cookies: [{'domain': '.brandsrus.de', 'expiry': 1676032221, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'pwn2ookiaMF5IR-20220210123021'}, {'domain': '.brandsrus.de', 'expiry': 1652272221, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644496221202.1636536684'}, {'domain': '.brandsrus.de', 'expiry': 1707568220, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.1.176276064.1644496221'}, {'domain': '.brandsrus.de', 'expiry': 1707568220, 'httpOnly': False, 'name': '_ga_4VRNX53F1V', 'path': '/', 'secure': False, 'value': 'GS1.1.1644496220.1.0.1644496220.0'}, {'domain': '.brandsrus.de', 'expiry': 1676032222, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '28ac8246-08d5-4e88-bdb9-c8aeccb87f18'}, {'domain': '.brandsrus.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220210123021-yWVdul1FPtV2rgxNA47fxJkmXlwrl7qkTAGl4Av5ufDXqKMKJ'}, {'domain': '.brandsrus.de', 'expiry': 1644498022, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6f1dbac6-f595-48a1-966a-4e1400ddfc37'}, {'domain': '.brandsrus.de', 'expiry': 1644498020, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.brandsrus.de', 'expiry': 1676032222, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '28ac8246-08d5-4e88-bdb9-c8aeccb87f18'}, {'domain': '.brandsrus.de', 'expiry': 1644498022, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6f1dbac6-f595-48a1-966a-4e1400ddfc37'}, {'domain': 'www.brandsrus.de', 'expiry': 1645705822, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.brandsrus.de', 'expiry': 1644582626, 'httpOnly': False, 'name': 'privy_suppress_3158217', 'path': '/', 'secure': False, 'value': '1644496226'}, {'domain': '.brandsrus.de', 'expiry': 1644498021, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'Na2NPtz2NUgxUM-20220210123021'}, {'domain': 'www.brandsrus.de', 'expiry': 1644499820, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'www.brandsrus.de', 'expiry': 1645705822, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.brandsrus.de', 'expiry': 1645705820, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.brandsrus.de', 'expiry': 1645705822, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5e6676a3474f0d06c16a7e25dd46bece'}, {'domain': '.brandsrus.de', 'expiry': 1652272220, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.2144581786.1644496221'}, {'domain': '.brandsrus.de', 'expiry': 1644498020, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T12%3A30%3A20.786Z'}, {'domain': '.brandsrus.de', 'expiry': 1645705820, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.brandsrus.de', 'expiry': 1676032222, 'httpOnly': False, 'name': '_privy_45C49E48B38AD9DD8BB1E9E1', 'path': '/', 'secure': False, 'value': '%7B%22uuid%22%3A%22196ad81b-04de-4265-83cf-fe0f0abb3723%22%2C%22variations%22%3A%7B%7D%2C%22country_code%22%3A%22DE%22%2C%22region_code%22%3A%22DE_%22%2C%22postal_code%22%3A%22%22%2C%22cart_value%22%3A0%7D'}, {'domain': 'www.brandsrus.de', 'expiry': 1676032222, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: omnisendAnonymousID
+[Before] Cookie-Name 2: _fbp
+[Before] Cookie-Name 3: _ga
+[Before] Cookie-Name 4: _ga_4VRNX53F1V
+[Before] Cookie-Name 5: _shopify_y
+[Before] Cookie-Name 6: soundestID
+[Before] Cookie-Name 7: _shopify_s
+[Before] Cookie-Name 8: _shopify_sa_p
+[Before] Cookie-Name 9: _y
+[Before] Cookie-Name 10: _s
+[Before] Cookie-Name 11: cart_currency
+[Before] Cookie-Name 12: privy_suppress_3158217
+[Before] Cookie-Name 13: omnisendSessionID
+[Before] Cookie-Name 14: shopify_pay_redirect
+[Before] Cookie-Name 15: localization
+[Before] Cookie-Name 16: _landing_page
+[Before] Cookie-Name 17: cart_sig
+[Before] Cookie-Name 18: _gcl_au
+[Before] Cookie-Name 19: _shopify_sa_t
+[Before] Cookie-Name 20: _orig_referrer
+[Before] Cookie-Name 21: _privy_45C49E48B38AD9DD8BB1E9E1
+[Before] Cookie-Name 22: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 22
+[After] Website-Cookies: [{'domain': '.brandsrus.de', 'expiry': 1676032221, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'pwn2ookiaMF5IR-20220210123021'}, {'domain': '.brandsrus.de', 'expiry': 1652272221, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644496221202.1636536684'}, {'domain': '.brandsrus.de', 'expiry': 1707568220, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.1.176276064.1644496221'}, {'domain': '.brandsrus.de', 'expiry': 1707568220, 'httpOnly': False, 'name': '_ga_4VRNX53F1V', 'path': '/', 'secure': False, 'value': 'GS1.1.1644496220.1.0.1644496220.0'}, {'domain': '.brandsrus.de', 'expiry': 1676032222, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '28ac8246-08d5-4e88-bdb9-c8aeccb87f18'}, {'domain': '.brandsrus.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220210123021-yWVdul1FPtV2rgxNA47fxJkmXlwrl7qkTAGl4Av5ufDXqKMKJ'}, {'domain': '.brandsrus.de', 'expiry': 1644498022, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6f1dbac6-f595-48a1-966a-4e1400ddfc37'}, {'domain': '.brandsrus.de', 'expiry': 1644498020, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.brandsrus.de', 'expiry': 1676032222, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '28ac8246-08d5-4e88-bdb9-c8aeccb87f18'}, {'domain': '.brandsrus.de', 'expiry': 1644498022, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6f1dbac6-f595-48a1-966a-4e1400ddfc37'}, {'domain': 'www.brandsrus.de', 'expiry': 1645705822, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.brandsrus.de', 'expiry': 1644582626, 'httpOnly': False, 'name': 'privy_suppress_3158217', 'path': '/', 'secure': False, 'value': '1644496226'}, {'domain': '.brandsrus.de', 'expiry': 1644498021, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'Na2NPtz2NUgxUM-20220210123021'}, {'domain': 'www.brandsrus.de', 'expiry': 1644499820, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'www.brandsrus.de', 'expiry': 1645705822, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.brandsrus.de', 'expiry': 1645705820, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.brandsrus.de', 'expiry': 1645705822, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5e6676a3474f0d06c16a7e25dd46bece'}, {'domain': '.brandsrus.de', 'expiry': 1652272220, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.2144581786.1644496221'}, {'domain': '.brandsrus.de', 'expiry': 1644498020, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T12%3A30%3A20.786Z'}, {'domain': '.brandsrus.de', 'expiry': 1645705820, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.brandsrus.de', 'expiry': 1676032222, 'httpOnly': False, 'name': '_privy_45C49E48B38AD9DD8BB1E9E1', 'path': '/', 'secure': False, 'value': '%7B%22uuid%22%3A%22196ad81b-04de-4265-83cf-fe0f0abb3723%22%2C%22variations%22%3A%7B%7D%2C%22country_code%22%3A%22DE%22%2C%22region_code%22%3A%22DE_%22%2C%22postal_code%22%3A%22%22%2C%22cart_value%22%3A0%7D'}, {'domain': 'www.brandsrus.de', 'expiry': 1676032222, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: omnisendAnonymousID
+[After] Cookie-Name 2: _fbp
+[After] Cookie-Name 3: _ga
+[After] Cookie-Name 4: _ga_4VRNX53F1V
+[After] Cookie-Name 5: _shopify_y
+[After] Cookie-Name 6: soundestID
+[After] Cookie-Name 7: _shopify_s
+[After] Cookie-Name 8: _shopify_sa_p
+[After] Cookie-Name 9: _y
+[After] Cookie-Name 10: _s
+[After] Cookie-Name 11: cart_currency
+[After] Cookie-Name 12: privy_suppress_3158217
+[After] Cookie-Name 13: omnisendSessionID
+[After] Cookie-Name 14: shopify_pay_redirect
+[After] Cookie-Name 15: localization
+[After] Cookie-Name 16: _landing_page
+[After] Cookie-Name 17: cart_sig
+[After] Cookie-Name 18: _gcl_au
+[After] Cookie-Name 19: _shopify_sa_t
+[After] Cookie-Name 20: _orig_referrer
+[After] Cookie-Name 21: _privy_45C49E48B38AD9DD8BB1E9E1
+[After] Cookie-Name 22: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

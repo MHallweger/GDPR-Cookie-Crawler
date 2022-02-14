@@ -1,0 +1,63 @@
+Website 227: http://www.inateck.de/ | Created: 09.02.2022 11:54:48 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 16
+[Before] Website-Cookies: [{'domain': 'www.inateck.de', 'httpOnly': False, 'name': 'checkout_locale', 'path': '/', 'secure': False, 'value': 'de'}, {'domain': '.inateck.de', 'expiry': 1644404138, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.inateck.de', 'expiry': 1707476078, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.276121167.1644404079'}, {'domain': 'www.inateck.de', 'expiry': 1644407678, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.inateck.de', 'expiry': 1644405878, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.inateck.de', 'expiry': 1675940079, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4b7d1cea-394a-42fc-b96b-e40114642694'}, {'domain': '.inateck.de', 'expiry': 1644405878, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A54%3A38.489Z'}, {'domain': 'www.inateck.de', 'expiry': 1645613679, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.inateck.de', 'expiry': 1644405879, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4ff02ee4-0895-4898-ba32-da5e509c1443'}, {'domain': '.inateck.de', 'expiry': 1675940079, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4b7d1cea-394a-42fc-b96b-e40114642694'}, {'domain': '.inateck.de', 'expiry': 1645613678, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.inateck.de', 'expiry': 1644490478, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.405569842.1644404079'}, {'domain': 'www.inateck.de', 'expiry': 1675940079, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.inateck.de', 'expiry': 1645613678, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.inateck.de', 'expiry': 1645613679, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.inateck.de', 'expiry': 1644405879, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4ff02ee4-0895-4898-ba32-da5e509c1443'}]
+[Before] Cookie-Name 1: checkout_locale
+[Before] Cookie-Name 2: _gat
+[Before] Cookie-Name 3: _ga
+[Before] Cookie-Name 4: shopify_pay_redirect
+[Before] Cookie-Name 5: _shopify_sa_p
+[Before] Cookie-Name 6: _shopify_y
+[Before] Cookie-Name 7: _shopify_sa_t
+[Before] Cookie-Name 8: localization
+[Before] Cookie-Name 9: _shopify_s
+[Before] Cookie-Name 10: _y
+[Before] Cookie-Name 11: _landing_page
+[Before] Cookie-Name 12: _gid
+[Before] Cookie-Name 13: secure_customer_sig
+[Before] Cookie-Name 14: _orig_referrer
+[Before] Cookie-Name 15: cart_currency
+[Before] Cookie-Name 16: _s
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 17
+[After] Website-Cookies: [{'domain': 'www.inateck.de', 'expiry': 1675940093, 'httpOnly': False, 'name': 'eg_cookieconsent_status', 'path': '/', 'secure': False, 'value': 'dismiss'}, {'domain': 'www.inateck.de', 'httpOnly': False, 'name': 'checkout_locale', 'path': '/', 'secure': False, 'value': 'de'}, {'domain': '.inateck.de', 'expiry': 1644404138, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.inateck.de', 'expiry': 1707476078, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.276121167.1644404079'}, {'domain': 'www.inateck.de', 'expiry': 1644407678, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.inateck.de', 'expiry': 1644405878, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.inateck.de', 'expiry': 1675940079, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4b7d1cea-394a-42fc-b96b-e40114642694'}, {'domain': '.inateck.de', 'expiry': 1644405878, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A54%3A38.489Z'}, {'domain': 'www.inateck.de', 'expiry': 1645613679, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.inateck.de', 'expiry': 1644405879, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4ff02ee4-0895-4898-ba32-da5e509c1443'}, {'domain': '.inateck.de', 'expiry': 1675940079, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4b7d1cea-394a-42fc-b96b-e40114642694'}, {'domain': '.inateck.de', 'expiry': 1645613678, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.inateck.de', 'expiry': 1644490478, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.405569842.1644404079'}, {'domain': 'www.inateck.de', 'expiry': 1675940079, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.inateck.de', 'expiry': 1645613678, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.inateck.de', 'expiry': 1645613679, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.inateck.de', 'expiry': 1644405879, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4ff02ee4-0895-4898-ba32-da5e509c1443'}]
+[After] Cookie-Name 1: eg_cookieconsent_status
+[After] Cookie-Name 2: checkout_locale
+[After] Cookie-Name 3: _gat
+[After] Cookie-Name 4: _ga
+[After] Cookie-Name 5: shopify_pay_redirect
+[After] Cookie-Name 6: _shopify_sa_p
+[After] Cookie-Name 7: _shopify_y
+[After] Cookie-Name 8: _shopify_sa_t
+[After] Cookie-Name 9: localization
+[After] Cookie-Name 10: _shopify_s
+[After] Cookie-Name 11: _y
+[After] Cookie-Name 12: _landing_page
+[After] Cookie-Name 13: _gid
+[After] Cookie-Name 14: secure_customer_sig
+[After] Cookie-Name 15: _orig_referrer
+[After] Cookie-Name 16: cart_currency
+[After] Cookie-Name 17: _s
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: eg_cookieconsent_status
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

@@ -1,0 +1,94 @@
+Website 1: http://www.evolveskateboards.de/ | Created: 10.02.2022 19:57:53 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 24
+[Before] Website-Cookies: [{'domain': 'evolveskateboards.de', 'expiry': 1707591473, 'httpOnly': False, 'name': '_sp_id.7d1f', 'path': '/', 'secure': False, 'value': '53dde7233d31e521.1644519464.1.1644519474.1644519464'}, {'domain': '.evolveskateboards.de', 'expiry': 1676055463, 'httpOnly': False, 'name': '_fw_crm_v', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '797b0699-d0e2-4dd6-ff99-c5e13d3b5ff8'}, {'domain': '.evolveskateboards.de', 'expiry': 1644521262, 'httpOnly': False, 'name': '_hjSession_1800326', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjM3NTFlMmU3LTNhOWYtNDkwNi1iZTRiLTM3MmU5MDA3ZGZkOSIsImNyZWF0ZWQiOjE2NDQ1MTk0NjI2MjMsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': 'evolveskateboards.de', 'expiry': 1645729063, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ec69874b874762c7266f14e45752cfd1'}, {'domain': 'evolveskateboards.de', 'expiry': 1645729063, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e7c0e092d284af650e15fd23051cd88c'}, {'domain': 'evolveskateboards.de', 'httpOnly': False, 'name': 'qab_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': 'evolveskateboards.de', 'expiry': 1645729063, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644519462'}, {'domain': '.evolveskateboards.de', 'expiry': 1644521262, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.evolveskateboards.de', 'expiry': 1676055462, 'httpOnly': False, 'name': '_hjSessionUser_1800326', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjJjM2JhZmI5LWNhNzMtNTEyOC05ZTgzLTRiMTQxMTAwNmUwYiIsImNyZWF0ZWQiOjE2NDQ1MTk0NjIzMDgsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.evolveskateboards.de', 'expiry': 1676055472, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4abf1519-6e48-40b0-94b0-2ef16bc413e0'}, {'domain': '.evolveskateboards.de', 'expiry': 1644521272, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '97395d77-8d45-4e46-9aeb-f163d09deb89'}, {'domain': '.evolveskateboards.de', 'expiry': 1644521262, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'evolveskateboards.de', 'expiry': 1645729072, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.evolveskateboards.de', 'expiry': 1644521272, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '97395d77-8d45-4e46-9aeb-f163d09deb89'}, {'domain': '.evolveskateboards.de', 'expiry': 1676055472, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4abf1519-6e48-40b0-94b0-2ef16bc413e0'}, {'domain': '.evolveskateboards.de', 'expiry': 1645729061, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'evolveskateboards.de', 'expiry': 1645729063, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A2'}, {'domain': 'evolveskateboards.de', 'expiry': 1644519762, 'httpOnly': False, 'name': 'outbrain_cid_fetch', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': 'evolveskateboards.de', 'expiry': 1674759462, 'httpOnly': False, 'name': 'checkout_locale', 'path': '/', 'secure': False, 'value': 'en'}, {'domain': 'evolveskateboards.de', 'expiry': 1644519582, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.evolveskateboards.de', 'expiry': 1645729061, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'evolveskateboards.de', 'expiry': 1644521273, 'httpOnly': False, 'name': '_sp_ses.7d1f', 'path': '/', 'secure': False, 'value': '*'}, {'domain': 'evolveskateboards.de', 'expiry': 1645729072, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'evolveskateboards.de', 'expiry': 1676055472, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _sp_id.7d1f
+[Before] Cookie-Name 2: _fw_crm_v
+[Before] Cookie-Name 3: _hjSession_1800326
+[Before] Cookie-Name 4: cart_sig
+[Before] Cookie-Name 5: cart
+[Before] Cookie-Name 6: qab_previous_pathname
+[Before] Cookie-Name 7: cart_ts
+[Before] Cookie-Name 8: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 9: _hjSessionUser_1800326
+[Before] Cookie-Name 10: _shopify_y
+[Before] Cookie-Name 11: _s
+[Before] Cookie-Name 12: _hjFirstSeen
+[Before] Cookie-Name 13: localization
+[Before] Cookie-Name 14: _shopify_s
+[Before] Cookie-Name 15: _y
+[Before] Cookie-Name 16: _orig_referrer
+[Before] Cookie-Name 17: cart_ver
+[Before] Cookie-Name 18: outbrain_cid_fetch
+[Before] Cookie-Name 19: checkout_locale
+[Before] Cookie-Name 20: _hjIncludedInPageviewSample
+[Before] Cookie-Name 21: _landing_page
+[Before] Cookie-Name 22: _sp_ses.7d1f
+[Before] Cookie-Name 23: cart_currency
+[Before] Cookie-Name 24: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 32
+[After] Website-Cookies: [{'domain': '.evolveskateboards.de', 'expiry': 1652295480, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644519480036.1445823901'}, {'domain': '.evolveskateboards.de', 'expiry': 1644519539, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.evolveskateboards.de', 'expiry': 1644605879, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1235422501.1644519480'}, {'domain': '.evolveskateboards.de', 'expiry': 1707591479, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1845733886.1644519480'}, {'domain': '.evolveskateboards.de', 'expiry': 1644521279, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T18%3A57%3A59.763Z'}, {'domain': 'evolveskateboards.de', 'expiry': 1707591473, 'httpOnly': False, 'name': '_sp_id.7d1f', 'path': '/', 'secure': False, 'value': '53dde7233d31e521.1644519464.1.1644519474.1644519464'}, {'domain': '.evolveskateboards.de', 'expiry': 1676055463, 'httpOnly': False, 'name': '_fw_crm_v', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '797b0699-d0e2-4dd6-ff99-c5e13d3b5ff8'}, {'domain': 'evolveskateboards.de', 'expiry': 1707591479, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ1MTk0ODAsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vZXZvbHZlc2thdGVib2FyZHMuZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NTE5NDgwLCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL2V2b2x2ZXNrYXRlYm9hcmRzLmRlLyJ9fQ=='}, {'domain': '.evolveskateboards.de', 'expiry': 1644521262, 'httpOnly': False, 'name': '_hjSession_1800326', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjM3NTFlMmU3LTNhOWYtNDkwNi1iZTRiLTM3MmU5MDA3ZGZkOSIsImNyZWF0ZWQiOjE2NDQ1MTk0NjI2MjMsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': 'evolveskateboards.de', 'expiry': 1645729063, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ec69874b874762c7266f14e45752cfd1'}, {'domain': 'evolveskateboards.de', 'expiry': 1645729063, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e7c0e092d284af650e15fd23051cd88c'}, {'domain': 'evolveskateboards.de', 'httpOnly': False, 'name': 'qab_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': 'evolveskateboards.de', 'expiry': 1645729063, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644519462'}, {'domain': '.evolveskateboards.de', 'expiry': 1644521262, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.evolveskateboards.de', 'expiry': 1676055462, 'httpOnly': False, 'name': '_hjSessionUser_1800326', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjJjM2JhZmI5LWNhNzMtNTEyOC05ZTgzLTRiMTQxMTAwNmUwYiIsImNyZWF0ZWQiOjE2NDQ1MTk0NjIzMDgsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.evolveskateboards.de', 'expiry': 1676055480, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4abf1519-6e48-40b0-94b0-2ef16bc413e0'}, {'domain': '.evolveskateboards.de', 'expiry': 1644521280, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '97395d77-8d45-4e46-9aeb-f163d09deb89'}, {'domain': '.evolveskateboards.de', 'expiry': 1644521262, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'evolveskateboards.de', 'expiry': 1645729080, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.evolveskateboards.de', 'expiry': 1644521280, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '97395d77-8d45-4e46-9aeb-f163d09deb89'}, {'domain': '.evolveskateboards.de', 'expiry': 1676055480, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4abf1519-6e48-40b0-94b0-2ef16bc413e0'}, {'domain': '.evolveskateboards.de', 'expiry': 1644521279, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.evolveskateboards.de', 'expiry': 1645729061, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'evolveskateboards.de', 'expiry': 1645729063, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A2'}, {'domain': '.evolveskateboards.de', 'expiry': 1652295479, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.496886013.1644519480'}, {'domain': 'evolveskateboards.de', 'expiry': 1644519762, 'httpOnly': False, 'name': 'outbrain_cid_fetch', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': 'evolveskateboards.de', 'expiry': 1674759462, 'httpOnly': False, 'name': 'checkout_locale', 'path': '/', 'secure': False, 'value': 'en'}, {'domain': 'evolveskateboards.de', 'expiry': 1644519582, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.evolveskateboards.de', 'expiry': 1645729061, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'evolveskateboards.de', 'expiry': 1644521273, 'httpOnly': False, 'name': '_sp_ses.7d1f', 'path': '/', 'secure': False, 'value': '*'}, {'domain': 'evolveskateboards.de', 'expiry': 1645729080, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'evolveskateboards.de', 'expiry': 1676055480, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _fbp
+[After] Cookie-Name 2: _gat
+[After] Cookie-Name 3: _gid
+[After] Cookie-Name 4: _ga
+[After] Cookie-Name 5: _shopify_sa_t
+[After] Cookie-Name 6: _sp_id.7d1f
+[After] Cookie-Name 7: _fw_crm_v
+[After] Cookie-Name 8: __kla_id
+[After] Cookie-Name 9: _hjSession_1800326
+[After] Cookie-Name 10: cart_sig
+[After] Cookie-Name 11: cart
+[After] Cookie-Name 12: qab_previous_pathname
+[After] Cookie-Name 13: cart_ts
+[After] Cookie-Name 14: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 15: _hjSessionUser_1800326
+[After] Cookie-Name 16: _shopify_y
+[After] Cookie-Name 17: _s
+[After] Cookie-Name 18: _hjFirstSeen
+[After] Cookie-Name 19: localization
+[After] Cookie-Name 20: _shopify_s
+[After] Cookie-Name 21: _y
+[After] Cookie-Name 22: _shopify_sa_p
+[After] Cookie-Name 23: _orig_referrer
+[After] Cookie-Name 24: cart_ver
+[After] Cookie-Name 25: _gcl_au
+[After] Cookie-Name 26: outbrain_cid_fetch
+[After] Cookie-Name 27: checkout_locale
+[After] Cookie-Name 28: _hjIncludedInPageviewSample
+[After] Cookie-Name 29: _landing_page
+[After] Cookie-Name 30: _sp_ses.7d1f
+[After] Cookie-Name 31: cart_currency
+[After] Cookie-Name 32: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjIncludedInPageviewSample (Hotjar (User experience tool))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 8
+[Difference] Cookie-Name: 1: _fbp
+[Difference] Cookie-Name: 2: _ga
+[Difference] Cookie-Name: 3: _gat
+[Difference] Cookie-Name: 4: _gcl_au
+[Difference] Cookie-Name: 5: _shopify_sa_t
+[Difference] Cookie-Name: 6: _shopify_sa_p
+[Difference] Cookie-Name: 7: _gid
+[Difference] Cookie-Name: 8: __kla_id
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

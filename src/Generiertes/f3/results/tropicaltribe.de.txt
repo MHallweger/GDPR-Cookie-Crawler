@@ -1,0 +1,86 @@
+Website 128: http://www.tropicaltribe.de/ | Created: 09.02.2022 14:20:53 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 28
+[Before] Website-Cookies: [{'domain': 'tropicaltribe.de', 'expiry': 1675948845, 'httpOnly': False, 'name': '_pandectes_gdpr', 'path': '/', 'secure': True, 'value': 'eyJzdGF0dXMiOiIiLCJ0aW1lc3RhbXAiOm51bGwsInByZWZlcmVuY2VzIjpudWxsfQ=='}, {'domain': '.tropicaltribe.de', 'expiry': 1644413145, 'httpOnly': False, 'name': 'pf_stc', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.tropicaltribe.de', 'expiry': 1707484845, 'httpOnly': False, 'name': 'pf_vid', 'path': '/', 'secure': False, 'value': 'db12dfd1-c2e5-442e-8db9-721b181bb7dd'}, {'domain': '.tropicaltribe.de', 'expiry': 1652188843, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1166163484.1644412844'}, {'domain': '.tropicaltribe.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'tropicaltribe.de', 'expiry': 1645622445, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'tropicaltribe.de', 'expiry': 1707484843, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MTI4NDQsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vdHJvcGljYWx0cmliZS5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQ0MTI4NDQsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vdHJvcGljYWx0cmliZS5kZS8ifX0='}, {'domain': '.tropicaltribe.de', 'expiry': 1707484843, 'httpOnly': False, 'name': '_ga_26G6DGHPG1', 'path': '/', 'secure': False, 'value': 'GS1.1.1644412843.1.0.1644412843.0'}, {'domain': 'tropicaltribe.de', 'httpOnly': False, 'name': 'fsb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.tropicaltribe.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A20%3A43.626Z'}, {'domain': '.tropicaltribe.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.tropicaltribe.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A20%3A43.606Z'}, {'domain': 'tropicaltribe.de', 'httpOnly': False, 'name': 'fsb_total_price_412137', 'path': '/', 'secure': False, 'value': '0'}, {'domain': '.tropicaltribe.de', 'expiry': 1707484843, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.1.1444333713.1644412843'}, {'domain': 'tropicaltribe.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.tropicaltribe.de', 'expiry': 1675948843, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.tropicaltribe.de', 'expiry': 1645622443, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.tropicaltribe.de', 'expiry': 1644414645, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.tropicaltribe.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3a8271c3-f0b5-4a43-ac76-8ed2d795cff1'}, {'domain': '.tropicaltribe.de', 'expiry': 1707484845, 'httpOnly': False, 'name': 'proof-factor-user-37b6ad1a-05dd-4d3d-ada4-456d8b6bf477-all-time-data', 'path': '/', 'secure': False, 'value': '{"referring_url":"","initial_url":"https://tropicaltribe.de/","sessions_count":1,"pages_viewed":1}'}, {'domain': '.tropicaltribe.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3a8271c3-f0b5-4a43-ac76-8ed2d795cff1'}, {'domain': '.tropicaltribe.de', 'expiry': 1675948843, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%7D'}, {'domain': 'tropicaltribe.de', 'expiry': 1645622445, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.tropicaltribe.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.tropicaltribe.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8d4b6088-c336-4957-8c4a-b551888ff931'}, {'domain': '.tropicaltribe.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.tropicaltribe.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8d4b6088-c336-4957-8c4a-b551888ff931'}, {'domain': 'tropicaltribe.de', 'expiry': 1675948845, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _pandectes_gdpr
+[Before] Cookie-Name 2: pf_stc
+[Before] Cookie-Name 3: pf_vid
+[Before] Cookie-Name 4: _gcl_au
+[Before] Cookie-Name 5: _shopify_sa_p
+[Before] Cookie-Name 6: localization
+[Before] Cookie-Name 7: __kla_id
+[Before] Cookie-Name 8: _ga_26G6DGHPG1
+[Before] Cookie-Name 9: fsb_previous_pathname
+[Before] Cookie-Name 10: _shopify_sa_t
+[Before] Cookie-Name 11: _shopify_evids
+[Before] Cookie-Name 12: _shopify_d
+[Before] Cookie-Name 13: fsb_total_price_412137
+[Before] Cookie-Name 14: _ga
+[Before] Cookie-Name 15: _shopify_evids
+[Before] Cookie-Name 16: _shopify_m
+[Before] Cookie-Name 17: _shopify_tw
+[Before] Cookie-Name 18: _shopify_tm
+[Before] Cookie-Name 19: _shopify_y
+[Before] Cookie-Name 20: proof-factor-user-37b6ad1a-05dd-4d3d-ada4-456d8b6bf477-all-time-data
+[Before] Cookie-Name 21: _y
+[Before] Cookie-Name 22: _tracking_consent
+[Before] Cookie-Name 23: cart_currency
+[Before] Cookie-Name 24: _landing_page
+[Before] Cookie-Name 25: _s
+[Before] Cookie-Name 26: _orig_referrer
+[Before] Cookie-Name 27: _shopify_s
+[Before] Cookie-Name 28: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 28
+[After] Website-Cookies: [{'domain': 'tropicaltribe.de', 'expiry': 1675948859, 'httpOnly': False, 'name': '_pandectes_gdpr', 'path': '/', 'secure': True, 'value': 'eyJzdGF0dXMiOiJhbGxvdyIsInRpbWVzdGFtcCI6MTY0NDQxMjg1OSwicHJlZmVyZW5jZXMiOjB9'}, {'domain': '.tropicaltribe.de', 'expiry': 1644413145, 'httpOnly': False, 'name': 'pf_stc', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.tropicaltribe.de', 'expiry': 1707484845, 'httpOnly': False, 'name': 'pf_vid', 'path': '/', 'secure': False, 'value': 'db12dfd1-c2e5-442e-8db9-721b181bb7dd'}, {'domain': '.tropicaltribe.de', 'expiry': 1652188843, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1166163484.1644412844'}, {'domain': '.tropicaltribe.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'tropicaltribe.de', 'expiry': 1645622445, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'tropicaltribe.de', 'expiry': 1707484843, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MTI4NDQsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vdHJvcGljYWx0cmliZS5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQ0MTI4NDQsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vdHJvcGljYWx0cmliZS5kZS8ifX0='}, {'domain': '.tropicaltribe.de', 'expiry': 1707484843, 'httpOnly': False, 'name': '_ga_26G6DGHPG1', 'path': '/', 'secure': False, 'value': 'GS1.1.1644412843.1.0.1644412843.0'}, {'domain': 'tropicaltribe.de', 'httpOnly': False, 'name': 'fsb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.tropicaltribe.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A20%3A43.626Z'}, {'domain': '.tropicaltribe.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.tropicaltribe.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A20%3A43.606Z'}, {'domain': 'tropicaltribe.de', 'httpOnly': False, 'name': 'fsb_total_price_412137', 'path': '/', 'secure': False, 'value': '0'}, {'domain': '.tropicaltribe.de', 'expiry': 1707484843, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.1.1444333713.1644412843'}, {'domain': 'tropicaltribe.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.tropicaltribe.de', 'expiry': 1675948843, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.tropicaltribe.de', 'expiry': 1645622443, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.tropicaltribe.de', 'expiry': 1644414645, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.tropicaltribe.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3a8271c3-f0b5-4a43-ac76-8ed2d795cff1'}, {'domain': '.tropicaltribe.de', 'expiry': 1707484845, 'httpOnly': False, 'name': 'proof-factor-user-37b6ad1a-05dd-4d3d-ada4-456d8b6bf477-all-time-data', 'path': '/', 'secure': False, 'value': '{"referring_url":"","initial_url":"https://tropicaltribe.de/","sessions_count":1,"pages_viewed":1}'}, {'domain': '.tropicaltribe.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3a8271c3-f0b5-4a43-ac76-8ed2d795cff1'}, {'domain': '.tropicaltribe.de', 'expiry': 1675948843, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%7D'}, {'domain': 'tropicaltribe.de', 'expiry': 1645622445, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.tropicaltribe.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.tropicaltribe.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8d4b6088-c336-4957-8c4a-b551888ff931'}, {'domain': '.tropicaltribe.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.tropicaltribe.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8d4b6088-c336-4957-8c4a-b551888ff931'}, {'domain': 'tropicaltribe.de', 'expiry': 1675948845, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _pandectes_gdpr
+[After] Cookie-Name 2: pf_stc
+[After] Cookie-Name 3: pf_vid
+[After] Cookie-Name 4: _gcl_au
+[After] Cookie-Name 5: _shopify_sa_p
+[After] Cookie-Name 6: localization
+[After] Cookie-Name 7: __kla_id
+[After] Cookie-Name 8: _ga_26G6DGHPG1
+[After] Cookie-Name 9: fsb_previous_pathname
+[After] Cookie-Name 10: _shopify_sa_t
+[After] Cookie-Name 11: _shopify_evids
+[After] Cookie-Name 12: _shopify_d
+[After] Cookie-Name 13: fsb_total_price_412137
+[After] Cookie-Name 14: _ga
+[After] Cookie-Name 15: _shopify_evids
+[After] Cookie-Name 16: _shopify_m
+[After] Cookie-Name 17: _shopify_tw
+[After] Cookie-Name 18: _shopify_tm
+[After] Cookie-Name 19: _shopify_y
+[After] Cookie-Name 20: proof-factor-user-37b6ad1a-05dd-4d3d-ada4-456d8b6bf477-all-time-data
+[After] Cookie-Name 21: _y
+[After] Cookie-Name 22: _tracking_consent
+[After] Cookie-Name 23: cart_currency
+[After] Cookie-Name 24: _landing_page
+[After] Cookie-Name 25: _s
+[After] Cookie-Name 26: _orig_referrer
+[After] Cookie-Name 27: _shopify_s
+[After] Cookie-Name 28: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

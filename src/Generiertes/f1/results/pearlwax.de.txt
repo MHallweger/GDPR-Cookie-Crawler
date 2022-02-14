@@ -1,0 +1,87 @@
+Website 89: http://www.pearlwax.de/ | Created: 08.02.2022 22:06:37 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 26
+[Before] Website-Cookies: [{'domain': 'pearlwax.de', 'expiry': 1675890399, 'httpOnly': False, 'name': '_sn_a', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '{"a":{"s":1644354388938},"v":"762dbe34-281f-42bc-a7b1-20be48238889","g":{"sc":{"6e0eceb2-f652-433b-a354-feae7ad3967b":1}}}'}, {'domain': 'pearlwax.de', 'expiry': 1645563988, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': 'pearlwax.de', 'expiry': 1645563988, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'pearlwax.de', 'httpOnly': False, 'name': '_shopify_country', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'Germany'}, {'domain': '.pearlwax.de', 'expiry': 1678541086, 'httpOnly': False, 'name': '_scid', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'ec19d8be-e1fa-4858-abdd-d23e5ba033ef'}, {'domain': '.pearlwax.de', 'expiry': 1652130388, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644354388184.1097509335'}, {'domain': '.pearlwax.de', 'expiry': 1644354448, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.pearlwax.de', 'expiry': 1644356188, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f3d71692-bc91-4131-bd44-2af5c22f3ffa'}, {'domain': '.pearlwax.de', 'expiry': 1644356188, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f3d71692-bc91-4131-bd44-2af5c22f3ffa'}, {'domain': '.pearlwax.de', 'expiry': 1644356187, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.pearlwax.de', 'expiry': 1707426388, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1882045966.1644354388'}, {'domain': '.pearlwax.de', 'expiry': 1645563987, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.pearlwax.de', 'expiry': 1644356187, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A06%3A27.915Z'}, {'domain': 'pearlwax.de', 'expiry': 1645563988, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644354389'}, {'domain': 'pearlwax.de', 'expiry': 1675890388, 'httpOnly': False, 'name': '_sn_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '{"r":{"n":1}}'}, {'domain': 'pearlwax.de', 'expiry': 1675890399, 'httpOnly': False, 'name': '_sn_n', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '{"a":{"i":"dd6b1393-437d-4076-94be-4cc89bf642fc"},"cs":{"6e0e":{"i":[1675890399097,1],"c":1}},"ssc":1}'}, {'domain': '.pearlwax.de', 'expiry': 1675890388, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd361fc9d-9e52-4698-95af-4639390fadf6'}, {'domain': 'pearlwax.de', 'expiry': 1707426388, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQzNTQzODksInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vcGVhcmx3YXguZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0MzU0Mzg5LCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL3BlYXJsd2F4LmRlLyJ9fQ=='}, {'domain': 'pearlwax.de', 'expiry': 1645563988, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.pearlwax.de', 'expiry': 1644440788, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.435378108.1644354388'}, {'domain': 'pearlwax.de', 'expiry': 1645563988, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a2bba27b3d8e6fec5506052b097811dc'}, {'domain': 'pearlwax.de', 'expiry': 1675890388, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'pearlwax.de', 'httpOnly': False, 'name': 'SNS', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.pearlwax.de', 'expiry': 1675890388, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd361fc9d-9e52-4698-95af-4639390fadf6'}, {'domain': '.pearlwax.de', 'expiry': 1645563987, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'pearlwax.de', 'expiry': 1645563988, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cd91611d192b19f64dd278363692752b'}]
+[Before] Cookie-Name 1: _sn_a
+[Before] Cookie-Name 2: cart_ver
+[Before] Cookie-Name 3: localization
+[Before] Cookie-Name 4: _shopify_country
+[Before] Cookie-Name 5: _scid
+[Before] Cookie-Name 6: _fbp
+[Before] Cookie-Name 7: _gat
+[Before] Cookie-Name 8: _s
+[Before] Cookie-Name 9: _shopify_s
+[Before] Cookie-Name 10: _shopify_sa_p
+[Before] Cookie-Name 11: _ga
+[Before] Cookie-Name 12: _landing_page
+[Before] Cookie-Name 13: _shopify_sa_t
+[Before] Cookie-Name 14: cart_ts
+[Before] Cookie-Name 15: _sn_m
+[Before] Cookie-Name 16: _sn_n
+[Before] Cookie-Name 17: _y
+[Before] Cookie-Name 18: __kla_id
+[Before] Cookie-Name 19: cart_currency
+[Before] Cookie-Name 20: _gid
+[Before] Cookie-Name 21: cart_sig
+[Before] Cookie-Name 22: secure_customer_sig
+[Before] Cookie-Name 23: SNS
+[Before] Cookie-Name 24: _shopify_y
+[Before] Cookie-Name 25: _orig_referrer
+[Before] Cookie-Name 26: cart
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 26
+[After] Website-Cookies: [{'domain': 'pearlwax.de', 'expiry': 1675890399, 'httpOnly': False, 'name': '_sn_a', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '{"a":{"s":1644354388938},"v":"762dbe34-281f-42bc-a7b1-20be48238889","g":{"sc":{"6e0eceb2-f652-433b-a354-feae7ad3967b":1}}}'}, {'domain': 'pearlwax.de', 'expiry': 1645563988, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': 'pearlwax.de', 'expiry': 1645563988, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'pearlwax.de', 'httpOnly': False, 'name': '_shopify_country', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'Germany'}, {'domain': '.pearlwax.de', 'expiry': 1678541086, 'httpOnly': False, 'name': '_scid', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'ec19d8be-e1fa-4858-abdd-d23e5ba033ef'}, {'domain': '.pearlwax.de', 'expiry': 1652130388, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644354388184.1097509335'}, {'domain': '.pearlwax.de', 'expiry': 1644354448, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.pearlwax.de', 'expiry': 1644356188, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f3d71692-bc91-4131-bd44-2af5c22f3ffa'}, {'domain': '.pearlwax.de', 'expiry': 1644356188, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f3d71692-bc91-4131-bd44-2af5c22f3ffa'}, {'domain': '.pearlwax.de', 'expiry': 1644356187, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.pearlwax.de', 'expiry': 1707426388, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1882045966.1644354388'}, {'domain': '.pearlwax.de', 'expiry': 1645563987, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.pearlwax.de', 'expiry': 1644356187, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A06%3A27.915Z'}, {'domain': 'pearlwax.de', 'expiry': 1645563988, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644354389'}, {'domain': 'pearlwax.de', 'expiry': 1675890388, 'httpOnly': False, 'name': '_sn_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '{"r":{"n":1}}'}, {'domain': 'pearlwax.de', 'expiry': 1675890399, 'httpOnly': False, 'name': '_sn_n', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '{"a":{"i":"dd6b1393-437d-4076-94be-4cc89bf642fc"},"cs":{"6e0e":{"i":[1675890399097,1],"c":1}},"ssc":1}'}, {'domain': '.pearlwax.de', 'expiry': 1675890388, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd361fc9d-9e52-4698-95af-4639390fadf6'}, {'domain': 'pearlwax.de', 'expiry': 1707426388, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQzNTQzODksInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vcGVhcmx3YXguZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0MzU0Mzg5LCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL3BlYXJsd2F4LmRlLyJ9fQ=='}, {'domain': 'pearlwax.de', 'expiry': 1645563988, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.pearlwax.de', 'expiry': 1644440788, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.435378108.1644354388'}, {'domain': 'pearlwax.de', 'expiry': 1645563988, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a2bba27b3d8e6fec5506052b097811dc'}, {'domain': 'pearlwax.de', 'expiry': 1675890388, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'pearlwax.de', 'httpOnly': False, 'name': 'SNS', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.pearlwax.de', 'expiry': 1675890388, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd361fc9d-9e52-4698-95af-4639390fadf6'}, {'domain': '.pearlwax.de', 'expiry': 1645563987, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'pearlwax.de', 'expiry': 1645563988, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cd91611d192b19f64dd278363692752b'}]
+[After] Cookie-Name 1: _sn_a
+[After] Cookie-Name 2: cart_ver
+[After] Cookie-Name 3: localization
+[After] Cookie-Name 4: _shopify_country
+[After] Cookie-Name 5: _scid
+[After] Cookie-Name 6: _fbp
+[After] Cookie-Name 7: _gat
+[After] Cookie-Name 8: _s
+[After] Cookie-Name 9: _shopify_s
+[After] Cookie-Name 10: _shopify_sa_p
+[After] Cookie-Name 11: _ga
+[After] Cookie-Name 12: _landing_page
+[After] Cookie-Name 13: _shopify_sa_t
+[After] Cookie-Name 14: cart_ts
+[After] Cookie-Name 15: _sn_m
+[After] Cookie-Name 16: _sn_n
+[After] Cookie-Name 17: _y
+[After] Cookie-Name 18: __kla_id
+[After] Cookie-Name 19: cart_currency
+[After] Cookie-Name 20: _gid
+[After] Cookie-Name 21: cart_sig
+[After] Cookie-Name 22: secure_customer_sig
+[After] Cookie-Name 23: SNS
+[After] Cookie-Name 24: _shopify_y
+[After] Cookie-Name 25: _orig_referrer
+[After] Cookie-Name 26: cart
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _gid (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

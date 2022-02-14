@@ -1,0 +1,124 @@
+Website 340: http://www.currentbody.de/ | Created: 09.02.2022 15:23:56 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 42
+[Before] Website-Cookies: [{'domain': '.www.currentbody.de', 'expiry': 1675952628, 'httpOnly': False, 'name': '__ar_v4', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7CH4JNSHVVABBJRC7PSECDUE%3A20220211%3A1%7C655EDZBX3VGGXHD6Y3G772%3A20220211%3A1'}, {'domain': '.www.currentbody.de', 'expiry': 1675974228, 'httpOnly': False, 'name': '__adroll_fpc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b3ceea5feb8b377d7c1b361e8662fdee-1644416628500'}, {'domain': '.currentbody.de', 'expiry': 1675952627, 'httpOnly': False, 'name': 'ometria', 'path': '/', 'secure': False, 'value': '2_cid%3Db7Sewz6YBr5UFiVD%26nses%3D1%26osts%3D1644416627%26sid%3D46707798DT6FzVW9ueS0%26npv%3D1%26tids%3D%26slt%3D1644416627'}, {'domain': 'www.currentbody.de', 'expiry': 1645626225, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'www.currentbody.de', 'httpOnly': False, 'name': '_shopify_country', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'Germany'}, {'domain': '.currentbody.de', 'httpOnly': False, 'name': '__blka_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644418424651'}, {'domain': '.currentbody.de', 'expiry': 1678112624, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': 'e34cf2e089b311ec8c99e1966038e0db'}, {'domain': 'www.currentbody.de', 'expiry': 1707488627, 'httpOnly': False, 'name': '_ama', 'path': '/', 'secure': False, 'value': '965202380.1644416624'}, {'domain': '.currentbody.de', 'expiry': 1644503024, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': 'e34cc8d089b311ec94bd293d3531759c'}, {'domain': 'www.currentbody.de', 'expiry': 1645626225, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644416625'}, {'domain': '.currentbody.de', 'expiry': 253402300799, 'httpOnly': False, 'name': '_blka_uab', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '97'}, {'domain': '.currentbody.de', 'expiry': 1675952634, 'httpOnly': False, 'name': '__zlcmid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '18Skh5R7ZLRT224'}, {'domain': '.currentbody.de', 'expiry': 1652192624, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1724723654.1644416625'}, {'domain': '.currentbody.de', 'expiry': 1678580624, 'httpOnly': False, 'name': 'cto_bundle', 'path': '/', 'secure': False, 'value': '7-oaeF82Wm9lOGlDNFc4eWxCdlhsWDdHSFMwR2lhOSUyQk9JQ284UERJVk1ET1Q3diUyRkNtMiUyRmFXZUtaOE8xak5pMzBXVGF3bFJMa3dWeTJvQUM1MmRYbFp0Z0w1RmRLcXo1YjgxSTFFNldJbGtoeUhybCUyQlowYXpGQ1JaT2RYdUdVTnpNRFEyWVZaSG1LY0lyVkRFTUUzMjhzdnlTdyUzRCUzRA'}, {'domain': '.currentbody.de', 'expiry': 1644418424, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': 'www.currentbody.de', 'expiry': 1644416744, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.currentbody.de', 'expiry': 1644418428, 'httpOnly': False, 'name': '_rsession', 'path': '/', 'secure': False, 'value': 'fddf64723d0cbfa9'}, {'domain': '.currentbody.de', 'expiry': 1675952624, 'httpOnly': False, 'name': '_hjSessionUser_1042414', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImVjNmFiNzg3LTIwYTYtNTVhYi1hMjM5LWRjZDg0OTEwOWViZSIsImNyZWF0ZWQiOjE2NDQ0MTY2MjM2NDMsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.currentbody.de', 'expiry': 1652192628, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644416624398.129901348'}, {'domain': '.currentbody.de', 'expiry': 1644416684, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.currentbody.de', 'expiry': 1644503024, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1989625358.1644416624'}, {'domain': '.currentbody.de', 'expiry': 1675952628, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '86a376d8-2847-4b61-8cdb-4a27768990d0'}, {'domain': '.currentbody.de', 'expiry': 1644418424, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.currentbody.de', 'expiry': 1645626225, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6c2a682fc5bd5daafd7a782b09d85583'}, {'domain': '.currentbody.de', 'expiry': 1644418424, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T14%3A23%3A44.140Z'}, {'domain': '.currentbody.de', 'expiry': 1644418424, 'httpOnly': False, 'name': '_hjSession_1042414', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjgwMzBiYjcyLWQ5MjItNDgxMy1hNmVjLTFlODBjNzg2NTEzOSIsImNyZWF0ZWQiOjE2NDQ0MTY2MjQ0MDMsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': 'www.currentbody.de', 'expiry': 1707488627, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MTY2MjgsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LmN1cnJlbnRib2R5LmRlLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDQxNjYyOCwidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly93d3cuY3VycmVudGJvZHkuZGUvIn19'}, {'domain': '.currentbody.de', 'expiry': 1645626223, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.currentbody.de', 'expiry': 1675952628, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '86a376d8-2847-4b61-8cdb-4a27768990d0'}, {'domain': '.currentbody.de', 'expiry': 1644418424, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.currentbody.de', 'expiry': 1644418428, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1bd8471f-0249-4a86-ac15-c6cf321d9b55'}, {'domain': 'www.currentbody.de', 'expiry': 1647008623, 'httpOnly': False, 'name': 'CBLocale', 'path': '/', 'secure': False, 'value': 'de-DE'}, {'domain': 'www.currentbody.de', 'expiry': 1645626225, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eebe7e1819ad665eaa6d59908e1d6d27'}, {'domain': 'www.currentbody.de', 'expiry': 1647008623, 'httpOnly': False, 'name': 'GIPLON', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': 'www.currentbody.de', 'expiry': 1647008623, 'httpOnly': False, 'name': 'Loc', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': 'www.currentbody.de', 'expiry': 1739024628, 'httpOnly': False, 'name': '_ruid', 'path': '/', 'secure': False, 'value': 'eyJ1dWlkIjoiODZhMTBiODMtZTk2OS00NjQxLWFkN2QtOWVlYzM1ZjIzYmI4In0%3D'}, {'domain': '.currentbody.de', 'expiry': 1644418428, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1bd8471f-0249-4a86-ac15-c6cf321d9b55'}, {'domain': 'www.currentbody.de', 'expiry': 1644416744, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.currentbody.de', 'expiry': 1707488624, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.965202380.1644416624'}, {'domain': '.currentbody.de', 'expiry': 1645626223, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.currentbody.de', 'expiry': 1645626225, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A2'}, {'domain': 'www.currentbody.de', 'expiry': 1675952628, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: __ar_v4
+[Before] Cookie-Name 2: __adroll_fpc
+[Before] Cookie-Name 3: ometria
+[Before] Cookie-Name 4: localization
+[Before] Cookie-Name 5: _shopify_country
+[Before] Cookie-Name 6: __blka_ts
+[Before] Cookie-Name 7: _uetvid
+[Before] Cookie-Name 8: _ama
+[Before] Cookie-Name 9: _uetsid
+[Before] Cookie-Name 10: cart_ts
+[Before] Cookie-Name 11: _blka_uab
+[Before] Cookie-Name 12: __zlcmid
+[Before] Cookie-Name 13: _gcl_au
+[Before] Cookie-Name 14: cto_bundle
+[Before] Cookie-Name 15: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 16: _hjIncludedInSessionSample
+[Before] Cookie-Name 17: _rsession
+[Before] Cookie-Name 18: _hjSessionUser_1042414
+[Before] Cookie-Name 19: _fbp
+[Before] Cookie-Name 20: _gat
+[Before] Cookie-Name 21: _gid
+[Before] Cookie-Name 22: _shopify_y
+[Before] Cookie-Name 23: _shopify_sa_p
+[Before] Cookie-Name 24: cart_sig
+[Before] Cookie-Name 25: _shopify_sa_t
+[Before] Cookie-Name 26: _hjSession_1042414
+[Before] Cookie-Name 27: __kla_id
+[Before] Cookie-Name 28: _orig_referrer
+[Before] Cookie-Name 29: _y
+[Before] Cookie-Name 30: _hjFirstSeen
+[Before] Cookie-Name 31: _s
+[Before] Cookie-Name 32: CBLocale
+[Before] Cookie-Name 33: cart
+[Before] Cookie-Name 34: GIPLON
+[Before] Cookie-Name 35: Loc
+[Before] Cookie-Name 36: _ruid
+[Before] Cookie-Name 37: _shopify_s
+[Before] Cookie-Name 38: _hjIncludedInPageviewSample
+[Before] Cookie-Name 39: _ga
+[Before] Cookie-Name 40: _landing_page
+[Before] Cookie-Name 41: cart_ver
+[Before] Cookie-Name 42: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 42
+[After] Website-Cookies: [{'domain': '.www.currentbody.de', 'expiry': 1675952628, 'httpOnly': False, 'name': '__ar_v4', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7CH4JNSHVVABBJRC7PSECDUE%3A20220211%3A1%7C655EDZBX3VGGXHD6Y3G772%3A20220211%3A1'}, {'domain': '.www.currentbody.de', 'expiry': 1675974228, 'httpOnly': False, 'name': '__adroll_fpc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b3ceea5feb8b377d7c1b361e8662fdee-1644416628500'}, {'domain': '.currentbody.de', 'expiry': 1675952627, 'httpOnly': False, 'name': 'ometria', 'path': '/', 'secure': False, 'value': '2_cid%3Db7Sewz6YBr5UFiVD%26nses%3D1%26osts%3D1644416627%26sid%3D46707798DT6FzVW9ueS0%26npv%3D1%26tids%3D%26slt%3D1644416627'}, {'domain': 'www.currentbody.de', 'expiry': 1645626242, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'www.currentbody.de', 'httpOnly': False, 'name': '_shopify_country', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'Germany'}, {'domain': '.currentbody.de', 'httpOnly': False, 'name': '__blka_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644418424651'}, {'domain': '.currentbody.de', 'expiry': 1678112624, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': 'e34cf2e089b311ec8c99e1966038e0db'}, {'domain': 'www.currentbody.de', 'expiry': 1707488627, 'httpOnly': False, 'name': '_ama', 'path': '/', 'secure': False, 'value': '965202380.1644416624'}, {'domain': '.currentbody.de', 'expiry': 1644503024, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': 'e34cc8d089b311ec94bd293d3531759c'}, {'domain': 'www.currentbody.de', 'expiry': 1645626242, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644416642'}, {'domain': '.currentbody.de', 'expiry': 253402300799, 'httpOnly': False, 'name': '_blka_uab', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '97'}, {'domain': '.currentbody.de', 'expiry': 1675952634, 'httpOnly': False, 'name': '__zlcmid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '18Skh5R7ZLRT224'}, {'domain': '.currentbody.de', 'expiry': 1652192624, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1724723654.1644416625'}, {'domain': '.currentbody.de', 'expiry': 1678580624, 'httpOnly': False, 'name': 'cto_bundle', 'path': '/', 'secure': False, 'value': '7-oaeF82Wm9lOGlDNFc4eWxCdlhsWDdHSFMwR2lhOSUyQk9JQ284UERJVk1ET1Q3diUyRkNtMiUyRmFXZUtaOE8xak5pMzBXVGF3bFJMa3dWeTJvQUM1MmRYbFp0Z0w1RmRLcXo1YjgxSTFFNldJbGtoeUhybCUyQlowYXpGQ1JaT2RYdUdVTnpNRFEyWVZaSG1LY0lyVkRFTUUzMjhzdnlTdyUzRCUzRA'}, {'domain': '.currentbody.de', 'expiry': 1644418424, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': 'www.currentbody.de', 'expiry': 1644416744, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.currentbody.de', 'expiry': 1644418428, 'httpOnly': False, 'name': '_rsession', 'path': '/', 'secure': False, 'value': 'fddf64723d0cbfa9'}, {'domain': '.currentbody.de', 'expiry': 1675952624, 'httpOnly': False, 'name': '_hjSessionUser_1042414', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImVjNmFiNzg3LTIwYTYtNTVhYi1hMjM5LWRjZDg0OTEwOWViZSIsImNyZWF0ZWQiOjE2NDQ0MTY2MjM2NDMsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.currentbody.de', 'expiry': 1652192628, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644416624398.129901348'}, {'domain': '.currentbody.de', 'expiry': 1644416684, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.currentbody.de', 'expiry': 1644503024, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1989625358.1644416624'}, {'domain': '.currentbody.de', 'expiry': 1675952643, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '86a376d8-2847-4b61-8cdb-4a27768990d0'}, {'domain': '.currentbody.de', 'expiry': 1644418424, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.currentbody.de', 'expiry': 1645626242, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6c2a682fc5bd5daafd7a782b09d85583'}, {'domain': '.currentbody.de', 'expiry': 1644418424, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T14%3A23%3A44.140Z'}, {'domain': '.currentbody.de', 'expiry': 1644418424, 'httpOnly': False, 'name': '_hjSession_1042414', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjgwMzBiYjcyLWQ5MjItNDgxMy1hNmVjLTFlODBjNzg2NTEzOSIsImNyZWF0ZWQiOjE2NDQ0MTY2MjQ0MDMsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': 'www.currentbody.de', 'expiry': 1707488627, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MTY2MjgsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LmN1cnJlbnRib2R5LmRlLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDQxNjYyOCwidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly93d3cuY3VycmVudGJvZHkuZGUvIn19'}, {'domain': '.currentbody.de', 'expiry': 1645626223, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.currentbody.de', 'expiry': 1675952643, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '86a376d8-2847-4b61-8cdb-4a27768990d0'}, {'domain': '.currentbody.de', 'expiry': 1644418424, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.currentbody.de', 'expiry': 1644418443, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1bd8471f-0249-4a86-ac15-c6cf321d9b55'}, {'domain': 'www.currentbody.de', 'expiry': 1647008623, 'httpOnly': False, 'name': 'CBLocale', 'path': '/', 'secure': False, 'value': 'de-DE'}, {'domain': 'www.currentbody.de', 'expiry': 1645626242, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eebe7e1819ad665eaa6d59908e1d6d27'}, {'domain': 'www.currentbody.de', 'expiry': 1647008623, 'httpOnly': False, 'name': 'GIPLON', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': 'www.currentbody.de', 'expiry': 1647008623, 'httpOnly': False, 'name': 'Loc', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': 'www.currentbody.de', 'expiry': 1739024628, 'httpOnly': False, 'name': '_ruid', 'path': '/', 'secure': False, 'value': 'eyJ1dWlkIjoiODZhMTBiODMtZTk2OS00NjQxLWFkN2QtOWVlYzM1ZjIzYmI4In0%3D'}, {'domain': '.currentbody.de', 'expiry': 1644418443, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1bd8471f-0249-4a86-ac15-c6cf321d9b55'}, {'domain': 'www.currentbody.de', 'expiry': 1644416744, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.currentbody.de', 'expiry': 1707488624, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.965202380.1644416624'}, {'domain': '.currentbody.de', 'expiry': 1645626223, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.currentbody.de', 'expiry': 1645626242, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A3'}, {'domain': 'www.currentbody.de', 'expiry': 1675952642, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: __ar_v4
+[After] Cookie-Name 2: __adroll_fpc
+[After] Cookie-Name 3: ometria
+[After] Cookie-Name 4: localization
+[After] Cookie-Name 5: _shopify_country
+[After] Cookie-Name 6: __blka_ts
+[After] Cookie-Name 7: _uetvid
+[After] Cookie-Name 8: _ama
+[After] Cookie-Name 9: _uetsid
+[After] Cookie-Name 10: cart_ts
+[After] Cookie-Name 11: _blka_uab
+[After] Cookie-Name 12: __zlcmid
+[After] Cookie-Name 13: _gcl_au
+[After] Cookie-Name 14: cto_bundle
+[After] Cookie-Name 15: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 16: _hjIncludedInSessionSample
+[After] Cookie-Name 17: _rsession
+[After] Cookie-Name 18: _hjSessionUser_1042414
+[After] Cookie-Name 19: _fbp
+[After] Cookie-Name 20: _gat
+[After] Cookie-Name 21: _gid
+[After] Cookie-Name 22: _shopify_y
+[After] Cookie-Name 23: _shopify_sa_p
+[After] Cookie-Name 24: cart_sig
+[After] Cookie-Name 25: _shopify_sa_t
+[After] Cookie-Name 26: _hjSession_1042414
+[After] Cookie-Name 27: __kla_id
+[After] Cookie-Name 28: _orig_referrer
+[After] Cookie-Name 29: _y
+[After] Cookie-Name 30: _hjFirstSeen
+[After] Cookie-Name 31: _s
+[After] Cookie-Name 32: CBLocale
+[After] Cookie-Name 33: cart
+[After] Cookie-Name 34: GIPLON
+[After] Cookie-Name 35: Loc
+[After] Cookie-Name 36: _ruid
+[After] Cookie-Name 37: _shopify_s
+[After] Cookie-Name 38: _hjIncludedInPageviewSample
+[After] Cookie-Name 39: _ga
+[After] Cookie-Name 40: _landing_page
+[After] Cookie-Name 41: cart_ver
+[After] Cookie-Name 42: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjIncludedInSessionSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjIncludedInPageviewSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

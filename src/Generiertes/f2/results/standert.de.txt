@@ -1,0 +1,75 @@
+Website 127: http://www.standert.de/ | Created: 09.02.2022 11:24:31 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 22
+[Before] Website-Cookies: [{'domain': 'standert.de', 'expiry': 1802082262, 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'secure': True, 'value': '00c4f056-74db-40ca-b8b2-0e10cfa1dc7b'}, {'domain': 'standert.de', 'expiry': 1644404062, 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'secure': True, 'value': 'baf325f8-9a88-4caf-aba7-4dd81b15bf01'}, {'domain': 'standert.de', 'expiry': 1644405862, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.standert.de', 'expiry': 1675938263, 'httpOnly': False, 'name': 'zHello', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.standert.de', 'expiry': 1644402321, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.standert.de', 'expiry': 1644404061, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'standert.de', 'httpOnly': False, 'name': 'locale_bar_accepted', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.standert.de', 'expiry': 1675938263, 'httpOnly': False, 'name': 'zCountry', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': '.standert.de', 'expiry': 1675938266, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '756afd33-12ce-4aef-9094-0da6f88d9c1e'}, {'domain': '.standert.de', 'expiry': 1707474259, 'httpOnly': False, 'name': '_ga_WJ7Z1KWKVY', 'path': '/', 'secure': False, 'value': 'GS1.1.1644402259.1.0.1644402259.0'}, {'domain': '.standert.de', 'expiry': 1675938261, 'httpOnly': False, 'name': 'currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.standert.de', 'expiry': 1675938266, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '756afd33-12ce-4aef-9094-0da6f88d9c1e'}, {'domain': '.standert.de', 'expiry': 1644404066, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3e36e665-79ce-464a-beee-e745ddf16035'}, {'domain': '.standert.de', 'expiry': 1645611859, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'standert.de', 'expiry': 1645611866, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.standert.de', 'expiry': 1644488661, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.586402023.1644402261'}, {'domain': '.standert.de', 'expiry': 1645611859, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'standert.de', 'expiry': 1645611866, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': '.standert.de', 'expiry': 1644404061, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A24%3A21.241Z'}, {'domain': '.standert.de', 'expiry': 1644404066, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3e36e665-79ce-464a-beee-e745ddf16035'}, {'domain': '.standert.de', 'expiry': 1707474261, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.636885227.1644402260'}, {'domain': 'standert.de', 'expiry': 1675938266, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _shg_user_id
+[Before] Cookie-Name 2: _shg_session_id
+[Before] Cookie-Name 3: shopify_pay_redirect
+[Before] Cookie-Name 4: zHello
+[Before] Cookie-Name 5: _gat
+[Before] Cookie-Name 6: _shopify_sa_p
+[Before] Cookie-Name 7: locale_bar_accepted
+[Before] Cookie-Name 8: zCountry
+[Before] Cookie-Name 9: _shopify_y
+[Before] Cookie-Name 10: _ga_WJ7Z1KWKVY
+[Before] Cookie-Name 11: currency
+[Before] Cookie-Name 12: _y
+[Before] Cookie-Name 13: _s
+[Before] Cookie-Name 14: _landing_page
+[Before] Cookie-Name 15: cart_currency
+[Before] Cookie-Name 16: _gid
+[Before] Cookie-Name 17: _orig_referrer
+[Before] Cookie-Name 18: localization
+[Before] Cookie-Name 19: _shopify_sa_t
+[Before] Cookie-Name 20: _shopify_s
+[Before] Cookie-Name 21: _ga
+[Before] Cookie-Name 22: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 23
+[After] Website-Cookies: [{'domain': 'standert.de', 'expiry': 1802082262, 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'secure': True, 'value': '00c4f056-74db-40ca-b8b2-0e10cfa1dc7b'}, {'domain': 'standert.de', 'expiry': 1644404062, 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'secure': True, 'value': 'baf325f8-9a88-4caf-aba7-4dd81b15bf01'}, {'domain': 'standert.de', 'expiry': 1644405862, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.standert.de', 'expiry': 1675938263, 'httpOnly': False, 'name': 'zHello', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.standert.de', 'expiry': 1644402321, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.standert.de', 'expiry': 1644404061, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'standert.de', 'httpOnly': False, 'name': 'locale_bar_accepted', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.standert.de', 'expiry': 1675938263, 'httpOnly': False, 'name': 'zCountry', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': '.standert.de', 'expiry': 1675938266, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '756afd33-12ce-4aef-9094-0da6f88d9c1e'}, {'domain': '.standert.de', 'expiry': 1707474259, 'httpOnly': False, 'name': '_ga_WJ7Z1KWKVY', 'path': '/', 'secure': False, 'value': 'GS1.1.1644402259.1.0.1644402259.0'}, {'domain': 'standert.de', 'expiry': 1675938277, 'httpOnly': False, 'name': 'cookieconsent_status', 'path': '/', 'secure': False, 'value': 'dismiss'}, {'domain': '.standert.de', 'expiry': 1675938261, 'httpOnly': False, 'name': 'currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.standert.de', 'expiry': 1675938266, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '756afd33-12ce-4aef-9094-0da6f88d9c1e'}, {'domain': '.standert.de', 'expiry': 1644404066, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3e36e665-79ce-464a-beee-e745ddf16035'}, {'domain': '.standert.de', 'expiry': 1645611859, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'standert.de', 'expiry': 1645611866, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.standert.de', 'expiry': 1644488661, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.586402023.1644402261'}, {'domain': '.standert.de', 'expiry': 1645611859, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'standert.de', 'expiry': 1645611866, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': '.standert.de', 'expiry': 1644404061, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A24%3A21.241Z'}, {'domain': '.standert.de', 'expiry': 1644404066, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3e36e665-79ce-464a-beee-e745ddf16035'}, {'domain': '.standert.de', 'expiry': 1707474261, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.636885227.1644402260'}, {'domain': 'standert.de', 'expiry': 1675938266, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _shg_user_id
+[After] Cookie-Name 2: _shg_session_id
+[After] Cookie-Name 3: shopify_pay_redirect
+[After] Cookie-Name 4: zHello
+[After] Cookie-Name 5: _gat
+[After] Cookie-Name 6: _shopify_sa_p
+[After] Cookie-Name 7: locale_bar_accepted
+[After] Cookie-Name 8: zCountry
+[After] Cookie-Name 9: _shopify_y
+[After] Cookie-Name 10: _ga_WJ7Z1KWKVY
+[After] Cookie-Name 11: cookieconsent_status
+[After] Cookie-Name 12: currency
+[After] Cookie-Name 13: _y
+[After] Cookie-Name 14: _s
+[After] Cookie-Name 15: _landing_page
+[After] Cookie-Name 16: cart_currency
+[After] Cookie-Name 17: _gid
+[After] Cookie-Name 18: _orig_referrer
+[After] Cookie-Name 19: localization
+[After] Cookie-Name 20: _shopify_sa_t
+[After] Cookie-Name 21: _shopify_s
+[After] Cookie-Name 22: _ga
+[After] Cookie-Name 23: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: cookieconsent_status
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

@@ -1,0 +1,50 @@
+Website 95: http://www.ingla.de/ | Created: 10.02.2022 12:40:59 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 9
+[Before] Website-Cookies: [{'domain': '.ingla.de', 'expiry': 1676029249, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVpqUXdaRGd3Wm1RdFpqUTJOQzAwWmpkaUxXRXhaakF0Wmpkak5EZGtPVEEwWkRVdw'}, {'domain': '.ingla.de', 'expiry': 1652269249, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1479655965.1644493250'}, {'domain': '.ingla.de', 'expiry': 1645702848, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'ingla.de', 'expiry': 1645702850, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': 'ingla.de', 'expiry': 1645702850, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': 'ingla.de', 'expiry': 1676029250, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': 'marketing%2Canalytics'}, {'domain': 'ingla.de', 'expiry': 1644496849, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.ingla.de', 'expiry': 1645702848, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'ingla.de', 'expiry': 1676029250, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _pin_unauth
+[Before] Cookie-Name 2: _gcl_au
+[Before] Cookie-Name 3: _landing_page
+[Before] Cookie-Name 4: cart_currency
+[Before] Cookie-Name 5: localization
+[Before] Cookie-Name 6: cookieconsent_preferences_disabled
+[Before] Cookie-Name 7: shopify_pay_redirect
+[Before] Cookie-Name 8: _orig_referrer
+[Before] Cookie-Name 9: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 9
+[After] Website-Cookies: [{'domain': '.ingla.de', 'expiry': 1676029249, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVpqUXdaRGd3Wm1RdFpqUTJOQzAwWmpkaUxXRXhaakF0Wmpkak5EZGtPVEEwWkRVdw'}, {'domain': '.ingla.de', 'expiry': 1652269249, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1479655965.1644493250'}, {'domain': '.ingla.de', 'expiry': 1645702848, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'ingla.de', 'expiry': 1645702850, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': 'ingla.de', 'expiry': 1645702850, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': 'ingla.de', 'expiry': 1676029250, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': 'marketing%2Canalytics'}, {'domain': 'ingla.de', 'expiry': 1644496849, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.ingla.de', 'expiry': 1645702848, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'ingla.de', 'expiry': 1676029250, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _pin_unauth
+[After] Cookie-Name 2: _gcl_au
+[After] Cookie-Name 3: _landing_page
+[After] Cookie-Name 4: cart_currency
+[After] Cookie-Name 5: localization
+[After] Cookie-Name 6: cookieconsent_preferences_disabled
+[After] Cookie-Name 7: shopify_pay_redirect
+[After] Cookie-Name 8: _orig_referrer
+[After] Cookie-Name 9: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

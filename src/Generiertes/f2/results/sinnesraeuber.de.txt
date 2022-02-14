@@ -1,0 +1,67 @@
+Website 57: http://www.sinnesraeuber.de/ | Created: 09.02.2022 11:03:17 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 4
+[Before] Website-Cookies: [{'domain': '.sinnesraeuber.com', 'expiry': 1645610587, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.sinnesraeuber.com', 'expiry': 1645610587, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'sinnesraeuber.com', 'expiry': 1645610588, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'sinnesraeuber.com', 'expiry': 1675936988, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _landing_page
+[Before] Cookie-Name 2: _orig_referrer
+[Before] Cookie-Name 3: cart_currency
+[Before] Cookie-Name 4: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 20
+[After] Website-Cookies: [{'domain': '.sinnesraeuber.com', 'expiry': 1644487403, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1126275755.1644401003'}, {'domain': 'sinnesraeuber.com', 'expiry': 1646993003, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0NDAxMDAzMDgxLCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjowfX0='}, {'domain': 'sinnesraeuber.com', 'httpOnly': False, 'name': '_clsk', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'y26sjn|1644400989149|1|1|e.clarity.ms/collect'}, {'domain': 'sinnesraeuber.com', 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'sinnesraeuber.com', 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1.1.365558557.1644400988'}, {'domain': 'sinnesraeuber.com', 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7afb75d0898f11ecae11b1e73a1a1cbc'}, {'domain': 'sinnesraeuber.com', 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7afb8330898f11eca9d899fffb3d49ef'}, {'domain': 'sinnesraeuber.com', 'httpOnly': False, 'name': '_clck', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '14pf0tu|1|eyu|0'}, {'domain': 'sinnesraeuber.com', 'expiry': 1644402803, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'abb96296-4d8a-4e12-b72d-3f970f103d06'}, {'domain': 'sinnesraeuber.com', 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'dWlkPU9HWTFPRFJqWTJFdE5EQTRNQzAwWW1ZeExUZzJNV1V0TmpRNVl6azJNVEV4TWpCaA'}, {'domain': 'sinnesraeuber.com', 'expiry': 1675937003, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6ed9a2fc-16bf-4d62-a200-459547a37896'}, {'domain': '.sinnesraeuber.com', 'expiry': 1707473003, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1233642241.1644401003'}, {'domain': 'sinnesraeuber.com', 'expiry': 1675937003, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6ed9a2fc-16bf-4d62-a200-459547a37896'}, {'domain': '.sinnesraeuber.com', 'expiry': 1645610587, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.sinnesraeuber.com', 'expiry': 1644401063, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'sinnesraeuber.com', 'expiry': 1644402803, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A03%3A07.845Z'}, {'domain': '.sinnesraeuber.com', 'expiry': 1645610587, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'sinnesraeuber.com', 'expiry': 1645610588, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'sinnesraeuber.com', 'expiry': 1644402803, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'abb96296-4d8a-4e12-b72d-3f970f103d06'}, {'domain': 'sinnesraeuber.com', 'expiry': 1675936988, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _gid
+[After] Cookie-Name 2: _bc_c_set
+[After] Cookie-Name 3: _clsk
+[After] Cookie-Name 4: localization
+[After] Cookie-Name 5: _gcl_au
+[After] Cookie-Name 6: _uetvid
+[After] Cookie-Name 7: _uetsid
+[After] Cookie-Name 8: _clck
+[After] Cookie-Name 9: _s
+[After] Cookie-Name 10: _pin_unauth
+[After] Cookie-Name 11: _shopify_y
+[After] Cookie-Name 12: _ga
+[After] Cookie-Name 13: _y
+[After] Cookie-Name 14: _landing_page
+[After] Cookie-Name 15: _gat
+[After] Cookie-Name 16: _shopify_sa_t
+[After] Cookie-Name 17: _orig_referrer
+[After] Cookie-Name 18: cart_currency
+[After] Cookie-Name 19: _shopify_s
+[After] Cookie-Name 20: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 16
+[Difference] Cookie-Name: 1: localization
+[Difference] Cookie-Name: 2: _shopify_y
+[Difference] Cookie-Name: 3: _pin_unauth
+[Difference] Cookie-Name: 4: _ga
+[Difference] Cookie-Name: 5: _clck
+[Difference] Cookie-Name: 6: _shopify_s
+[Difference] Cookie-Name: 7: _shopify_sa_t
+[Difference] Cookie-Name: 8: _gcl_au
+[Difference] Cookie-Name: 9: _bc_c_set
+[Difference] Cookie-Name: 10: _gat
+[Difference] Cookie-Name: 11: _uetvid
+[Difference] Cookie-Name: 12: _uetsid
+[Difference] Cookie-Name: 13: _s
+[Difference] Cookie-Name: 14: _gid
+[Difference] Cookie-Name: 15: _y
+[Difference] Cookie-Name: 16: _clsk
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

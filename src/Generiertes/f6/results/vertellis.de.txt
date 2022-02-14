@@ -1,0 +1,91 @@
+Website 40: http://www.vertellis.de/ | Created: 10.02.2022 12:24:31 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 25
+[Before] Website-Cookies: [{'domain': 'vertellis.de', 'httpOnly': False, 'name': 'qab_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': 'vertellis.de', 'expiry': 1644495866, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.vertellis.de', 'expiry': 1652268262, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644492262060.1668578304'}, {'domain': '.vertellis.de', 'expiry': 1645701861, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.vertellis.de', 'expiry': 1644494061, 'httpOnly': False, 'name': '_hjSession_2748317', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImMzYTk2MTY5LWIxNTktNDYxMS1hM2FhLTdmM2ViZWY5ZTE5MCIsImNyZWF0ZWQiOjE2NDQ0OTIyNjE5ODYsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': 'vertellis.de', 'expiry': 1707564266, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0OTIyNjcsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vdmVydGVsbGlzLmRlLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDQ5MjI2NywidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly92ZXJ0ZWxsaXMuZGUvIn19'}, {'domain': '.vertellis.de', 'expiry': 1676028261, 'httpOnly': False, 'name': '_hjSessionUser_2748317', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImJmNzQ3YTVjLTBlZmQtNTBhNS1hYzI0LWFkNjg0ZWRlZDNmMyIsImNyZWF0ZWQiOjE2NDQ0OTIyNjE5NzksImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': 'vertellis.de', 'expiry': 1645701861, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.vertellis.de', 'expiry': 1644578661, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1617552228.1644492262'}, {'domain': '.vertellis.de', 'expiry': 1676028261, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '81fcdbfc-d492-46af-9b66-084b06b9f568'}, {'domain': '.vertellis.de', 'expiry': 1644494061, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.vertellis.de', 'expiry': 1707564261, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1235178321.1644492262'}, {'domain': '.vertellis.de', 'expiry': 1644494061, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.vertellis.de', 'expiry': 1644494061, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T11%3A24%3A21.647Z'}, {'domain': '.vertellis.de', 'expiry': 1644494061, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'dda4b973-19f1-494e-9d5f-8ee6ef1513e1'}, {'domain': 'vertellis.de', 'expiry': 1644492381, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.vertellis.de', 'expiry': 1644494061, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.vertellis.de', 'expiry': 1652268261, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1999632700.1644492262'}, {'domain': '.vertellis.de', 'expiry': 1676028261, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '81fcdbfc-d492-46af-9b66-084b06b9f568'}, {'domain': 'vertellis.de', 'expiry': 1676028261, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'vertellis.de', 'expiry': 1644492381, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.vertellis.de', 'expiry': 1644492321, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.vertellis.de', 'expiry': 1645701861, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.vertellis.de', 'expiry': 1644494061, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'dda4b973-19f1-494e-9d5f-8ee6ef1513e1'}, {'domain': 'vertellis.de', 'expiry': 1645701861, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}]
+[Before] Cookie-Name 1: qab_previous_pathname
+[Before] Cookie-Name 2: shopify_pay_redirect
+[Before] Cookie-Name 3: _fbp
+[Before] Cookie-Name 4: _landing_page
+[Before] Cookie-Name 5: _hjSession_2748317
+[Before] Cookie-Name 6: __kla_id
+[Before] Cookie-Name 7: _hjSessionUser_2748317
+[Before] Cookie-Name 8: cart_currency
+[Before] Cookie-Name 9: _gid
+[Before] Cookie-Name 10: _shopify_y
+[Before] Cookie-Name 11: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 12: _ga
+[Before] Cookie-Name 13: _shopify_sa_p
+[Before] Cookie-Name 14: _shopify_sa_t
+[Before] Cookie-Name 15: _s
+[Before] Cookie-Name 16: _hjIncludedInPageviewSample
+[Before] Cookie-Name 17: _hjFirstSeen
+[Before] Cookie-Name 18: _gcl_au
+[Before] Cookie-Name 19: _y
+[Before] Cookie-Name 20: secure_customer_sig
+[Before] Cookie-Name 21: _hjIncludedInSessionSample
+[Before] Cookie-Name 22: _gat
+[Before] Cookie-Name 23: _orig_referrer
+[Before] Cookie-Name 24: _shopify_s
+[Before] Cookie-Name 25: localization
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 27
+[After] Website-Cookies: [{'domain': '.vertellis.de', 'expiry': 1644492337, 'httpOnly': False, 'name': '_gat_UA-83140893-4', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'vertellis.de', 'expiry': 1676028276, 'httpOnly': False, 'name': 'eg_cookieconsent_status', 'path': '/', 'secure': False, 'value': 'dismiss'}, {'domain': 'vertellis.de', 'httpOnly': False, 'name': 'qab_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': 'vertellis.de', 'expiry': 1644495866, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.vertellis.de', 'expiry': 1652268277, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644492262060.1668578304'}, {'domain': '.vertellis.de', 'expiry': 1645701861, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.vertellis.de', 'expiry': 1644494061, 'httpOnly': False, 'name': '_hjSession_2748317', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImMzYTk2MTY5LWIxNTktNDYxMS1hM2FhLTdmM2ViZWY5ZTE5MCIsImNyZWF0ZWQiOjE2NDQ0OTIyNjE5ODYsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': 'vertellis.de', 'expiry': 1707564266, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0OTIyNjcsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vdmVydGVsbGlzLmRlLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDQ5MjI2NywidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly92ZXJ0ZWxsaXMuZGUvIn19'}, {'domain': '.vertellis.de', 'expiry': 1676028261, 'httpOnly': False, 'name': '_hjSessionUser_2748317', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImJmNzQ3YTVjLTBlZmQtNTBhNS1hYzI0LWFkNjg0ZWRlZDNmMyIsImNyZWF0ZWQiOjE2NDQ0OTIyNjE5NzksImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': 'vertellis.de', 'expiry': 1645701861, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.vertellis.de', 'expiry': 1644578677, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1617552228.1644492262'}, {'domain': '.vertellis.de', 'expiry': 1676028261, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '81fcdbfc-d492-46af-9b66-084b06b9f568'}, {'domain': '.vertellis.de', 'expiry': 1644494061, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.vertellis.de', 'expiry': 1707564277, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1235178321.1644492262'}, {'domain': '.vertellis.de', 'expiry': 1644494061, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.vertellis.de', 'expiry': 1644494061, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T11%3A24%3A21.647Z'}, {'domain': '.vertellis.de', 'expiry': 1644494061, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'dda4b973-19f1-494e-9d5f-8ee6ef1513e1'}, {'domain': 'vertellis.de', 'expiry': 1644492381, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.vertellis.de', 'expiry': 1644494061, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.vertellis.de', 'expiry': 1652268261, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1999632700.1644492262'}, {'domain': '.vertellis.de', 'expiry': 1676028261, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '81fcdbfc-d492-46af-9b66-084b06b9f568'}, {'domain': 'vertellis.de', 'expiry': 1676028261, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'vertellis.de', 'expiry': 1644492381, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.vertellis.de', 'expiry': 1644492321, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.vertellis.de', 'expiry': 1645701861, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.vertellis.de', 'expiry': 1644494061, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'dda4b973-19f1-494e-9d5f-8ee6ef1513e1'}, {'domain': 'vertellis.de', 'expiry': 1645701861, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}]
+[After] Cookie-Name 1: _gat_UA-83140893-4
+[After] Cookie-Name 2: eg_cookieconsent_status
+[After] Cookie-Name 3: qab_previous_pathname
+[After] Cookie-Name 4: shopify_pay_redirect
+[After] Cookie-Name 5: _fbp
+[After] Cookie-Name 6: _landing_page
+[After] Cookie-Name 7: _hjSession_2748317
+[After] Cookie-Name 8: __kla_id
+[After] Cookie-Name 9: _hjSessionUser_2748317
+[After] Cookie-Name 10: cart_currency
+[After] Cookie-Name 11: _gid
+[After] Cookie-Name 12: _shopify_y
+[After] Cookie-Name 13: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 14: _ga
+[After] Cookie-Name 15: _shopify_sa_p
+[After] Cookie-Name 16: _shopify_sa_t
+[After] Cookie-Name 17: _s
+[After] Cookie-Name 18: _hjIncludedInPageviewSample
+[After] Cookie-Name 19: _hjFirstSeen
+[After] Cookie-Name 20: _gcl_au
+[After] Cookie-Name 21: _y
+[After] Cookie-Name 22: secure_customer_sig
+[After] Cookie-Name 23: _hjIncludedInSessionSample
+[After] Cookie-Name 24: _gat
+[After] Cookie-Name 25: _orig_referrer
+[After] Cookie-Name 26: _shopify_s
+[After] Cookie-Name 27: localization
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _hjIncludedInPageviewSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _hjIncludedInSessionSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _gat (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 2
+[Difference] Cookie-Name: 1: eg_cookieconsent_status
+[Difference] Cookie-Name: 2: _gat_UA-83140893-4
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

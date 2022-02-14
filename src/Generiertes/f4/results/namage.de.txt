@@ -1,0 +1,60 @@
+Website 164: http://www.namage.de/ | Created: 09.02.2022 17:56:07 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 16
+[Before] Website-Cookies: [{'domain': 'namage.de', 'expiry': 1645635359, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '01c9ef6084944fa0ac9cba2ec8d1dd51'}, {'domain': 'namage.de', 'expiry': 1645635359, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'namage.de', 'expiry': 1645635359, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644425759'}, {'domain': 'namage.de', 'expiry': 1645635359, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': '.namage.de', 'expiry': 1645635358, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.namage.de', 'expiry': 1675961759, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ccaba55e-5c2e-4057-871a-ba8b9b88a065'}, {'domain': '.namage.de', 'expiry': 1644427559, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'da11eec3-e56f-41c5-bcb5-d5846259ff1b'}, {'domain': 'namage.de', 'expiry': 1645635359, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4c4f8af9a181a3091fb98917d58d0f36'}, {'domain': '.namage.de', 'expiry': 1644427558, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T16%3A55%3A58.864Z'}, {'domain': '.namage.de', 'expiry': 1675961759, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ccaba55e-5c2e-4057-871a-ba8b9b88a065'}, {'domain': '.namage.de', 'expiry': 1644427559, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'da11eec3-e56f-41c5-bcb5-d5846259ff1b'}, {'domain': '.namage.de', 'expiry': 1645635358, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.namage.de', 'expiry': 1644427558, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'namage.de', 'expiry': 1645635359, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.namage.de', 'expiry': 1675961759, 'httpOnly': False, 'name': 'currency', 'path': '/', 'secure': False, 'value': 'USD'}, {'domain': 'namage.de', 'expiry': 1675961759, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: cart_sig
+[Before] Cookie-Name 2: cart_currency
+[Before] Cookie-Name 3: cart_ts
+[Before] Cookie-Name 4: cart_ver
+[Before] Cookie-Name 5: _orig_referrer
+[Before] Cookie-Name 6: _y
+[Before] Cookie-Name 7: _shopify_s
+[Before] Cookie-Name 8: cart
+[Before] Cookie-Name 9: _shopify_sa_t
+[Before] Cookie-Name 10: _shopify_y
+[Before] Cookie-Name 11: _s
+[Before] Cookie-Name 12: _landing_page
+[Before] Cookie-Name 13: _shopify_sa_p
+[Before] Cookie-Name 14: localization
+[Before] Cookie-Name 15: currency
+[Before] Cookie-Name 16: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 17
+[After] Website-Cookies: [{'domain': 'namage.de', 'expiry': 1645635359, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '01c9ef6084944fa0ac9cba2ec8d1dd51'}, {'domain': 'namage.de', 'expiry': 1645635359, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'namage.de', 'expiry': 1645635359, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644425759'}, {'domain': 'namage.de', 'expiry': 1645635359, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': '.namage.de', 'expiry': 1645635358, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.namage.de', 'expiry': 1675961759, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ccaba55e-5c2e-4057-871a-ba8b9b88a065'}, {'domain': '.namage.de', 'expiry': 1644427559, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'da11eec3-e56f-41c5-bcb5-d5846259ff1b'}, {'domain': 'namage.de', 'expiry': 1645635359, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4c4f8af9a181a3091fb98917d58d0f36'}, {'domain': '.namage.de', 'expiry': 1644427558, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T16%3A55%3A58.864Z'}, {'domain': '.namage.de', 'expiry': 1675961759, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ccaba55e-5c2e-4057-871a-ba8b9b88a065'}, {'domain': '.namage.de', 'expiry': 1644427559, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'da11eec3-e56f-41c5-bcb5-d5846259ff1b'}, {'domain': 'namage.de', 'expiry': 1675961773, 'httpOnly': False, 'name': 'cookieconsent_status', 'path': '/', 'secure': False, 'value': 'dismiss'}, {'domain': '.namage.de', 'expiry': 1645635358, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.namage.de', 'expiry': 1644427558, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'namage.de', 'expiry': 1645635359, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.namage.de', 'expiry': 1675961759, 'httpOnly': False, 'name': 'currency', 'path': '/', 'secure': False, 'value': 'USD'}, {'domain': 'namage.de', 'expiry': 1675961759, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: cart_sig
+[After] Cookie-Name 2: cart_currency
+[After] Cookie-Name 3: cart_ts
+[After] Cookie-Name 4: cart_ver
+[After] Cookie-Name 5: _orig_referrer
+[After] Cookie-Name 6: _y
+[After] Cookie-Name 7: _shopify_s
+[After] Cookie-Name 8: cart
+[After] Cookie-Name 9: _shopify_sa_t
+[After] Cookie-Name 10: _shopify_y
+[After] Cookie-Name 11: _s
+[After] Cookie-Name 12: cookieconsent_status
+[After] Cookie-Name 13: _landing_page
+[After] Cookie-Name 14: _shopify_sa_p
+[After] Cookie-Name 15: localization
+[After] Cookie-Name 16: currency
+[After] Cookie-Name 17: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: cookieconsent_status
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is NOT GDPR compliant!

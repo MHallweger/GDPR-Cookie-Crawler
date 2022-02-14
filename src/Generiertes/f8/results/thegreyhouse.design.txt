@@ -1,0 +1,51 @@
+Website 190: http://www.thegreyhouse.design/ | Created: 10.02.2022 20:54:32 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 10
+[Before] Website-Cookies: [{'domain': '.thegreyhouse.design', 'expiry': 1652298863, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644522862983.1102324781'}, {'domain': '.thegreyhouse.design', 'expiry': 1644524662, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T19%3A54%3A22.645Z'}, {'domain': '.thegreyhouse.design', 'expiry': 1644524664, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '99d45b4d-9ad4-4618-b5b0-6a8cd406f158'}, {'domain': '.thegreyhouse.design', 'expiry': 1676058864, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'adc0db06-b4aa-4096-b414-e1b73060b078'}, {'domain': '.thegreyhouse.design', 'expiry': 1644524662, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.thegreyhouse.design', 'expiry': 1676058864, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'adc0db06-b4aa-4096-b414-e1b73060b078'}, {'domain': '.thegreyhouse.design', 'expiry': 1645732461, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.thegreyhouse.design', 'expiry': 1644524664, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '99d45b4d-9ad4-4618-b5b0-6a8cd406f158'}, {'domain': '.thegreyhouse.design', 'expiry': 1645732461, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'thegreyhouse.design', 'expiry': 1676058864, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _fbp
+[Before] Cookie-Name 2: _shopify_sa_t
+[Before] Cookie-Name 3: _shopify_s
+[Before] Cookie-Name 4: _shopify_y
+[Before] Cookie-Name 5: _shopify_sa_p
+[Before] Cookie-Name 6: _y
+[Before] Cookie-Name 7: _orig_referrer
+[Before] Cookie-Name 8: _s
+[Before] Cookie-Name 9: _landing_page
+[Before] Cookie-Name 10: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 12
+[After] Website-Cookies: [{'domain': '.thegreyhouse.design', 'expiry': 1644524680, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T19%3A54%3A40.575Z'}, {'domain': 'thegreyhouse.design', 'expiry': 1644609279, 'httpOnly': True, 'name': '_secure_session_id', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '56099392b5e4dbe7a06badd49420054a'}, {'domain': '.thegreyhouse.design', 'expiry': 1652298881, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644522862983.1102324781'}, {'domain': '.thegreyhouse.design', 'expiry': 1644524681, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '99d45b4d-9ad4-4618-b5b0-6a8cd406f158'}, {'domain': '.thegreyhouse.design', 'expiry': 1676058881, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'adc0db06-b4aa-4096-b414-e1b73060b078'}, {'domain': '.thegreyhouse.design', 'expiry': 1644524680, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.thegreyhouse.design', 'expiry': 1676058881, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'adc0db06-b4aa-4096-b414-e1b73060b078'}, {'domain': '.thegreyhouse.design', 'expiry': 1645732461, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.thegreyhouse.design', 'expiry': 1644524681, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '99d45b4d-9ad4-4618-b5b0-6a8cd406f158'}, {'domain': 'thegreyhouse.design', 'expiry': 1645732479, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '319ff6b8e11dedd1604ff42103f900de'}, {'domain': '.thegreyhouse.design', 'expiry': 1645732461, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'thegreyhouse.design', 'expiry': 1676058881, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _shopify_sa_t
+[After] Cookie-Name 2: _secure_session_id
+[After] Cookie-Name 3: _fbp
+[After] Cookie-Name 4: _shopify_s
+[After] Cookie-Name 5: _shopify_y
+[After] Cookie-Name 6: _shopify_sa_p
+[After] Cookie-Name 7: _y
+[After] Cookie-Name 8: _orig_referrer
+[After] Cookie-Name 9: _s
+[After] Cookie-Name 10: cart_sig
+[After] Cookie-Name 11: _landing_page
+[After] Cookie-Name 12: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 2
+[Difference] Cookie-Name: 1: cart_sig
+[Difference] Cookie-Name: 2: _secure_session_id
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

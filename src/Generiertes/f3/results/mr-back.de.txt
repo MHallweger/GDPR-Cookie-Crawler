@@ -1,0 +1,102 @@
+Website 277: http://www.mr-back.de/ | Created: 09.02.2022 15:05:19 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 30
+[Before] Website-Cookies: [{'domain': '.mr-back.de', 'expiry': 1675951511, 'httpOnly': False, 'name': '_privy_9A019AFD8290CE21CB5E1422', 'path': '/', 'secure': False, 'value': '%7B%22uuid%22%3A%225f494905-b324-4b4d-b6dc-8528ec650f24%22%2C%22variations%22%3A%7B%7D%2C%22country_code%22%3A%22DE%22%2C%22region_code%22%3A%22DE_%22%2C%22postal_code%22%3A%22%22%2C%22cart_value%22%3A0%7D'}, {'domain': '.mr-back.de', 'expiry': 1675951511, 'httpOnly': False, 'name': '_lo_v', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.mr-back.de', 'expiry': 1644416111, 'httpOnly': False, 'name': '_lorid', 'path': '/', 'secure': False, 'value': '186255-1644415510928-2aa3e2befc5a8142'}, {'domain': 'mr-back.de', 'expiry': 1707487510, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MTU1MTEsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vbXItYmFjay5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQ0MTU1MTEsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vbXItYmFjay5kZS8ifX0='}, {'domain': '.mr-back.de', 'expiry': 1659967511, 'httpOnly': False, 'name': '__lotl', 'path': '/', 'secure': False, 'value': 'https%3A%2F%2Fmr-back.de%2F'}, {'domain': '.mr-back.de', 'expiry': 1707487511, 'httpOnly': False, 'name': '_lo_uid', 'path': '/', 'secure': False, 'value': '186255-1644415510928-0216ca1e77c9150a'}, {'domain': '.mr-back.de', 'expiry': 1707487509, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1197201865.1644415510'}, {'domain': 'mr-back.de', 'httpOnly': False, 'name': 'usb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.mr-back.de', 'expiry': 1652191510, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.826301580.1644415510'}, {'domain': '.mr-back.de', 'expiry': 1644501909, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': '4ad8869089b111ec8d3cfd318adb6aae'}, {'domain': '.mr-back.de', 'expiry': 1644501911, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': '1t1gpqw|1644415511080|1|1|a.clarity.ms/collect'}, {'domain': '.mr-back.de', 'expiry': 1644417309, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T14%3A05%3A09.919Z'}, {'domain': '.mr-back.de', 'expiry': 1652191510, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644415510134.1757222427'}, {'domain': '.mr-back.de', 'expiry': 1644417309, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'mr-back.de', 'expiry': 1645625111, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.mr-back.de', 'expiry': 1959951909, 'httpOnly': False, 'name': 'refb', 'path': '/', 'secure': False, 'value': 'a023a90b-8d30-4cef-9d83-430b6344d51f'}, {'domain': '.mr-back.de', 'expiry': 1678111509, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '4ad8ba6089b111eca6f2fd254eebed0d'}, {'domain': '.mr-back.de', 'expiry': 1644417311, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd4d41a6b-ab90-4fe1-af82-ca4b1514bd69'}, {'domain': '.mr-back.de', 'expiry': 1675951510, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': '15njj0h|1|eyu|0'}, {'domain': '.mr-back.de', 'expiry': 1678602207, 'httpOnly': False, 'name': '_scid', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '277c7a24-69b5-4f43-ae85-0cd87573e3ca'}, {'domain': '.mr-back.de', 'expiry': 1644417311, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd4d41a6b-ab90-4fe1-af82-ca4b1514bd69'}, {'domain': '.mr-back.de', 'expiry': 1675951511, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '343f7a98-3407-48f1-8b6f-7e0c9addccda'}, {'domain': '.mr-back.de', 'expiry': 1644415569, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.mr-back.de', 'httpOnly': False, 'name': 'ssid', 'path': '/', 'secure': False, 'value': '86520819-b5f1-4f61-89c0-b88f993bf67f'}, {'domain': '.mr-back.de', 'expiry': 1675951511, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '343f7a98-3407-48f1-8b6f-7e0c9addccda'}, {'domain': '.mr-back.de', 'expiry': 1645625109, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.mr-back.de', 'expiry': 1645625109, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'mr-back.de', 'expiry': 1645625111, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.mr-back.de', 'expiry': 1644501909, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1491280101.1644415510'}, {'domain': 'mr-back.de', 'expiry': 1675951511, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _privy_9A019AFD8290CE21CB5E1422
+[Before] Cookie-Name 2: _lo_v
+[Before] Cookie-Name 3: _lorid
+[Before] Cookie-Name 4: __kla_id
+[Before] Cookie-Name 5: __lotl
+[Before] Cookie-Name 6: _lo_uid
+[Before] Cookie-Name 7: _ga
+[Before] Cookie-Name 8: usb_previous_pathname
+[Before] Cookie-Name 9: _gcl_au
+[Before] Cookie-Name 10: _uetsid
+[Before] Cookie-Name 11: _clsk
+[Before] Cookie-Name 12: _shopify_sa_t
+[Before] Cookie-Name 13: _fbp
+[Before] Cookie-Name 14: _shopify_sa_p
+[Before] Cookie-Name 15: localization
+[Before] Cookie-Name 16: refb
+[Before] Cookie-Name 17: _uetvid
+[Before] Cookie-Name 18: _shopify_s
+[Before] Cookie-Name 19: _clck
+[Before] Cookie-Name 20: _scid
+[Before] Cookie-Name 21: _s
+[Before] Cookie-Name 22: _shopify_y
+[Before] Cookie-Name 23: _gat
+[Before] Cookie-Name 24: ssid
+[Before] Cookie-Name 25: _y
+[Before] Cookie-Name 26: _landing_page
+[Before] Cookie-Name 27: _orig_referrer
+[Before] Cookie-Name 28: cart_currency
+[Before] Cookie-Name 29: _gid
+[Before] Cookie-Name 30: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 30
+[After] Website-Cookies: [{'domain': '.mr-back.de', 'expiry': 1675951511, 'httpOnly': False, 'name': '_privy_9A019AFD8290CE21CB5E1422', 'path': '/', 'secure': False, 'value': '%7B%22uuid%22%3A%225f494905-b324-4b4d-b6dc-8528ec650f24%22%2C%22variations%22%3A%7B%7D%2C%22country_code%22%3A%22DE%22%2C%22region_code%22%3A%22DE_%22%2C%22postal_code%22%3A%22%22%2C%22cart_value%22%3A0%7D'}, {'domain': '.mr-back.de', 'expiry': 1675951511, 'httpOnly': False, 'name': '_lo_v', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.mr-back.de', 'expiry': 1644416111, 'httpOnly': False, 'name': '_lorid', 'path': '/', 'secure': False, 'value': '186255-1644415510928-2aa3e2befc5a8142'}, {'domain': 'mr-back.de', 'expiry': 1707487510, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MTU1MTEsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vbXItYmFjay5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQ0MTU1MTEsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vbXItYmFjay5kZS8ifX0='}, {'domain': '.mr-back.de', 'expiry': 1659967511, 'httpOnly': False, 'name': '__lotl', 'path': '/', 'secure': False, 'value': 'https%3A%2F%2Fmr-back.de%2F'}, {'domain': '.mr-back.de', 'expiry': 1707487511, 'httpOnly': False, 'name': '_lo_uid', 'path': '/', 'secure': False, 'value': '186255-1644415510928-0216ca1e77c9150a'}, {'domain': '.mr-back.de', 'expiry': 1707487509, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1197201865.1644415510'}, {'domain': 'mr-back.de', 'httpOnly': False, 'name': 'usb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.mr-back.de', 'expiry': 1652191510, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.826301580.1644415510'}, {'domain': '.mr-back.de', 'expiry': 1644501909, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': '4ad8869089b111ec8d3cfd318adb6aae'}, {'domain': '.mr-back.de', 'expiry': 1644501911, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': '1t1gpqw|1644415511080|1|1|a.clarity.ms/collect'}, {'domain': '.mr-back.de', 'expiry': 1644417309, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T14%3A05%3A09.919Z'}, {'domain': '.mr-back.de', 'expiry': 1652191510, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644415510134.1757222427'}, {'domain': '.mr-back.de', 'expiry': 1644417309, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'mr-back.de', 'expiry': 1645625111, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.mr-back.de', 'expiry': 1959951909, 'httpOnly': False, 'name': 'refb', 'path': '/', 'secure': False, 'value': 'a023a90b-8d30-4cef-9d83-430b6344d51f'}, {'domain': '.mr-back.de', 'expiry': 1678111509, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '4ad8ba6089b111eca6f2fd254eebed0d'}, {'domain': '.mr-back.de', 'expiry': 1644417311, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd4d41a6b-ab90-4fe1-af82-ca4b1514bd69'}, {'domain': '.mr-back.de', 'expiry': 1675951510, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': '15njj0h|1|eyu|0'}, {'domain': '.mr-back.de', 'expiry': 1678602207, 'httpOnly': False, 'name': '_scid', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '277c7a24-69b5-4f43-ae85-0cd87573e3ca'}, {'domain': '.mr-back.de', 'expiry': 1644417311, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd4d41a6b-ab90-4fe1-af82-ca4b1514bd69'}, {'domain': '.mr-back.de', 'expiry': 1675951511, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '343f7a98-3407-48f1-8b6f-7e0c9addccda'}, {'domain': '.mr-back.de', 'expiry': 1644415569, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.mr-back.de', 'httpOnly': False, 'name': 'ssid', 'path': '/', 'secure': False, 'value': '86520819-b5f1-4f61-89c0-b88f993bf67f'}, {'domain': '.mr-back.de', 'expiry': 1675951511, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '343f7a98-3407-48f1-8b6f-7e0c9addccda'}, {'domain': '.mr-back.de', 'expiry': 1645625109, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.mr-back.de', 'expiry': 1645625109, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'mr-back.de', 'expiry': 1645625111, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.mr-back.de', 'expiry': 1644501909, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1491280101.1644415510'}, {'domain': 'mr-back.de', 'expiry': 1675951511, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _privy_9A019AFD8290CE21CB5E1422
+[After] Cookie-Name 2: _lo_v
+[After] Cookie-Name 3: _lorid
+[After] Cookie-Name 4: __kla_id
+[After] Cookie-Name 5: __lotl
+[After] Cookie-Name 6: _lo_uid
+[After] Cookie-Name 7: _ga
+[After] Cookie-Name 8: usb_previous_pathname
+[After] Cookie-Name 9: _gcl_au
+[After] Cookie-Name 10: _uetsid
+[After] Cookie-Name 11: _clsk
+[After] Cookie-Name 12: _shopify_sa_t
+[After] Cookie-Name 13: _fbp
+[After] Cookie-Name 14: _shopify_sa_p
+[After] Cookie-Name 15: localization
+[After] Cookie-Name 16: refb
+[After] Cookie-Name 17: _uetvid
+[After] Cookie-Name 18: _shopify_s
+[After] Cookie-Name 19: _clck
+[After] Cookie-Name 20: _scid
+[After] Cookie-Name 21: _s
+[After] Cookie-Name 22: _shopify_y
+[After] Cookie-Name 23: _gat
+[After] Cookie-Name 24: ssid
+[After] Cookie-Name 25: _y
+[After] Cookie-Name 26: _landing_page
+[After] Cookie-Name 27: _orig_referrer
+[After] Cookie-Name 28: cart_currency
+[After] Cookie-Name 29: _gid
+[After] Cookie-Name 30: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _lo_v (Lucky Orange (User experience tool))
+[Used before] Cookie-Name: _lorid (Lucky Orange (User experience tool))
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: __lotl (Lucky Orange (User experience tool))
+[Used before] Cookie-Name: _lo_uid (Lucky Orange (User experience tool))
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _clsk (Microsoft Clarity (User experience tool))
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _clck (Microsoft Clarity (User experience tool))
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

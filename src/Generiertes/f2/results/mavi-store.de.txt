@@ -1,0 +1,114 @@
+Website 136: http://www.mavi-store.de/ | Created: 09.02.2022 11:27:24 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 40
+[Before] Website-Cookies: [{'domain': 'mavi-store.de', 'expiry': 1645612036, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A2'}, {'domain': 'mavi-store.de', 'expiry': 1645612036, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e8faa0f6b53f3a3f914049ac2ddb10db'}, {'domain': 'mavi-store.de', 'httpOnly': False, 'name': 'fsb_total_price_280080', 'path': '/', 'secure': False, 'value': '0'}, {'domain': 'mavi-store.de', 'expiry': 1707516340, 'httpOnly': False, 'name': 'dtou', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '356AA138F2C60FB8BC96A4BA1FE0CC8D'}, {'domain': 'mavi-store.de', 'httpOnly': False, 'name': 'dt_sc', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '0fagja4oqkaszx1qy11lmgpp%7C1644402436908'}, {'domain': '.mavi-store.de', 'expiry': 1678566436, 'httpOnly': False, 'name': 'cto_bundle', 'path': '/', 'secure': False, 'value': '9ZRwGl80VlpqRU9ZYXRrZ3UyeG9Yczl5OUpXQTlES0haZzIxUThCcmthUiUyRiUyQkNWT3ZzdWpqMiUyRkkzMHYxJTJCaVNUOUFOcVd0UWxCcmJqNWIlMkJaMk5SRkcwb0J0N3Z2TlJRdkJ1JTJGWmxZaG1rZlVYU05ZRWx6V01xMmQ5MW10Y3Z1eWZQVHhuclk2RFFDQzF2UnJtRnViaVF4eXpDVlElM0QlM0Q'}, {'domain': 'mavi-store.de', 'expiry': 1645612036, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e19d36be7aece59b3b26b41bfd6d16ad'}, {'domain': 'mavi-store.de', 'httpOnly': False, 'name': 'fsb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': 'mavi-store.de', 'expiry': 1675938436, 'httpOnly': False, 'name': 'po_visitor', 'path': '/', 'secure': False, 'value': 'cXCkLZNcxJMK'}, {'domain': 'mavi-store.de', 'expiry': 1802082435, 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'secure': True, 'value': 'be9a4590-fd42-4d85-a706-ced9cb4aea73'}, {'domain': 'mavi-store.de', 'expiry': 1644404235, 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'secure': True, 'value': 'e75d4af3-c3bf-407c-9c2d-f89b3d394968'}, {'domain': 'mavi-store.de', 'expiry': 1675938435, 'httpOnly': False, 'name': '_ply', 'path': '/', 'secure': False, 'value': 'b5b6f1f9efcc4a229eca80598fe397ee'}, {'domain': 'mavi-store.de', 'expiry': 1675938435, 'httpOnly': False, 'name': '_ply_first_visit', 'path': '/', 'secure': False, 'value': '1644402435000'}, {'domain': 'mavi-store.de', 'expiry': 1675938435, 'httpOnly': False, 'name': '_ply_last_visit', 'path': '/', 'secure': False, 'value': '1644402435000'}, {'domain': 'mavi-store.de', 'expiry': 1675938435, 'httpOnly': False, 'name': '_ply_first_visit_page', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.mavi-store.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'mavi-store.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.mavi-store.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A27%3A15.230Z'}, {'domain': 'mavi-store.de', 'httpOnly': False, 'name': 'qab_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.mavi-store.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '24e459d0-a286-4936-978d-e2e6aa600324'}, {'domain': '.mavi-store.de', 'expiry': 1644402495, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.mavi-store.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A27%3A15.298Z'}, {'domain': '.mavi-store.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ccaa9279-f5bc-4468-ae28-0bd3c1ce4069'}, {'domain': '.mavi-store.de', 'expiry': 1644404237, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.mavi-store.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '24e459d0-a286-4936-978d-e2e6aa600324'}, {'domain': '.mavi-store.de', 'expiry': 1675938434, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': 'mavi-store.de', 'expiry': 1645612036, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644402437'}, {'domain': '.mavi-store.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'mavi-store.de', 'httpOnly': False, 'name': 'department', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'mavi-store.de', 'expiry': 1675938437, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.mavi-store.de', 'expiry': 1707474435, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.273807117.1644402435'}, {'domain': '.mavi-store.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.mavi-store.de', 'expiry': 1675938434, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': 'mavi-store.de', 'expiry': 1675938436, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': ''}, {'domain': 'mavi-store.de', 'expiry': 1645612036, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.mavi-store.de', 'expiry': 1645612034, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.mavi-store.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ccaa9279-f5bc-4468-ae28-0bd3c1ce4069'}, {'domain': '.mavi-store.de', 'expiry': 1644488835, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1547171484.1644402435'}, {'domain': 'mavi-store.de', 'expiry': 1645612036, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.mavi-store.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[Before] Cookie-Name 1: cart_ver
+[Before] Cookie-Name 2: cart_sig
+[Before] Cookie-Name 3: fsb_total_price_280080
+[Before] Cookie-Name 4: dtou
+[Before] Cookie-Name 5: dt_sc
+[Before] Cookie-Name 6: cto_bundle
+[Before] Cookie-Name 7: cart
+[Before] Cookie-Name 8: fsb_previous_pathname
+[Before] Cookie-Name 9: po_visitor
+[Before] Cookie-Name 10: _shg_user_id
+[Before] Cookie-Name 11: _shg_session_id
+[Before] Cookie-Name 12: _ply
+[Before] Cookie-Name 13: _ply_first_visit
+[Before] Cookie-Name 14: _ply_last_visit
+[Before] Cookie-Name 15: _ply_first_visit_page
+[Before] Cookie-Name 16: _landing_page
+[Before] Cookie-Name 17: _shopify_evids
+[Before] Cookie-Name 18: _shopify_d
+[Before] Cookie-Name 19: qab_previous_pathname
+[Before] Cookie-Name 20: _y
+[Before] Cookie-Name 21: _gat
+[Before] Cookie-Name 22: _shopify_sa_t
+[Before] Cookie-Name 23: _s
+[Before] Cookie-Name 24: _shopify_tm
+[Before] Cookie-Name 25: _shopify_y
+[Before] Cookie-Name 26: _tracking_consent
+[Before] Cookie-Name 27: cart_ts
+[Before] Cookie-Name 28: _shopify_sa_p
+[Before] Cookie-Name 29: department
+[Before] Cookie-Name 30: secure_customer_sig
+[Before] Cookie-Name 31: _ga
+[Before] Cookie-Name 32: _orig_referrer
+[Before] Cookie-Name 33: _shopify_m
+[Before] Cookie-Name 34: cookieconsent_preferences_disabled
+[Before] Cookie-Name 35: localization
+[Before] Cookie-Name 36: _shopify_tw
+[Before] Cookie-Name 37: _shopify_s
+[Before] Cookie-Name 38: _gid
+[Before] Cookie-Name 39: cart_currency
+[Before] Cookie-Name 40: _shopify_evids
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 42
+[After] Website-Cookies: [{'domain': '.mavi-store.de', 'expiry': 1652178451, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644402450719.470846255'}, {'domain': 'mavi-store.de', 'expiry': 1645612036, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A2'}, {'domain': 'mavi-store.de', 'expiry': 1645612050, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e8faa0f6b53f3a3f914049ac2ddb10db'}, {'domain': 'mavi-store.de', 'httpOnly': False, 'name': 'fsb_total_price_280080', 'path': '/', 'secure': False, 'value': '0'}, {'domain': 'mavi-store.de', 'expiry': 1707516354, 'httpOnly': False, 'name': 'dtou', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '356AA138F2C60FB8BC96A4BA1FE0CC8D'}, {'domain': 'mavi-store.de', 'httpOnly': False, 'name': 'dt_sc', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '0fagja4oqkaszx1qy11lmgpp%7C1644402436908'}, {'domain': '.mavi-store.de', 'expiry': 1678566436, 'httpOnly': False, 'name': 'cto_bundle', 'path': '/', 'secure': False, 'value': '9ZRwGl80VlpqRU9ZYXRrZ3UyeG9Yczl5OUpXQTlES0haZzIxUThCcmthUiUyRiUyQkNWT3ZzdWpqMiUyRkkzMHYxJTJCaVNUOUFOcVd0UWxCcmJqNWIlMkJaMk5SRkcwb0J0N3Z2TlJRdkJ1JTJGWmxZaG1rZlVYU05ZRWx6V01xMmQ5MW10Y3Z1eWZQVHhuclk2RFFDQzF2UnJtRnViaVF4eXpDVlElM0QlM0Q'}, {'domain': 'mavi-store.de', 'expiry': 1645612036, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e19d36be7aece59b3b26b41bfd6d16ad'}, {'domain': 'mavi-store.de', 'httpOnly': False, 'name': 'fsb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': 'mavi-store.de', 'expiry': 1675938436, 'httpOnly': False, 'name': 'po_visitor', 'path': '/', 'secure': False, 'value': 'cXCkLZNcxJMK'}, {'domain': 'mavi-store.de', 'expiry': 1802082435, 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'secure': True, 'value': 'be9a4590-fd42-4d85-a706-ced9cb4aea73'}, {'domain': 'mavi-store.de', 'expiry': 1644404235, 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'secure': True, 'value': 'e75d4af3-c3bf-407c-9c2d-f89b3d394968'}, {'domain': 'mavi-store.de', 'expiry': 1675938435, 'httpOnly': False, 'name': '_ply', 'path': '/', 'secure': False, 'value': 'b5b6f1f9efcc4a229eca80598fe397ee'}, {'domain': 'mavi-store.de', 'expiry': 1675938450, 'httpOnly': False, 'name': '_ply_first_visit', 'path': '/', 'secure': False, 'value': '1644402435000'}, {'domain': 'mavi-store.de', 'expiry': 1675938450, 'httpOnly': False, 'name': '_ply_first_visit_page', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.mavi-store.de', 'expiry': 1645612050, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'mavi-store.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.mavi-store.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A27%3A15.230Z'}, {'domain': 'mavi-store.de', 'httpOnly': False, 'name': 'qab_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.mavi-store.de', 'expiry': 1675938450, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '24e459d0-a286-4936-978d-e2e6aa600324'}, {'domain': '.mavi-store.de', 'expiry': 1644402495, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.mavi-store.de', 'expiry': 1644404250, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ccaa9279-f5bc-4468-ae28-0bd3c1ce4069'}, {'domain': 'mavi-store.de', 'expiry': 1675938450, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': ''}, {'domain': 'mavi-store.de', 'expiry': 1645612050, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.mavi-store.de', 'expiry': 1645612034, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.mavi-store.de', 'expiry': 1644404250, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A27%3A15.298Z'}, {'domain': '.mavi-store.de', 'expiry': 1644404250, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ccaa9279-f5bc-4468-ae28-0bd3c1ce4069'}, {'domain': '.mavi-store.de', 'expiry': 1644404250, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'mavi-store.de', 'expiry': 1675938450, 'httpOnly': False, 'name': 'cookieconsent_status', 'path': '/', 'secure': False, 'value': 'allow'}, {'domain': 'mavi-store.de', 'expiry': 1645612036, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644402437'}, {'domain': '.mavi-store.de', 'expiry': 1644404250, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'mavi-store.de', 'httpOnly': False, 'name': 'department', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'mavi-store.de', 'expiry': 1675938450, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.mavi-store.de', 'expiry': 1707474435, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.273807117.1644402435'}, {'domain': '.mavi-store.de', 'expiry': 1675938450, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%221%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': '.mavi-store.de', 'expiry': 1675938450, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '24e459d0-a286-4936-978d-e2e6aa600324'}, {'domain': 'mavi-store.de', 'expiry': 1675938450, 'httpOnly': False, 'name': '_ply_last_visit', 'path': '/', 'secure': False, 'value': '1644402435000'}, {'domain': '.mavi-store.de', 'expiry': 1644488835, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1547171484.1644402435'}, {'domain': 'mavi-store.de', 'expiry': 1645612050, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.mavi-store.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.mavi-store.de', 'expiry': 1675938450, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': '.mavi-store.de', 'expiry': 1645612050, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: _fbp
+[After] Cookie-Name 2: cart_ver
+[After] Cookie-Name 3: cart_sig
+[After] Cookie-Name 4: fsb_total_price_280080
+[After] Cookie-Name 5: dtou
+[After] Cookie-Name 6: dt_sc
+[After] Cookie-Name 7: cto_bundle
+[After] Cookie-Name 8: cart
+[After] Cookie-Name 9: fsb_previous_pathname
+[After] Cookie-Name 10: po_visitor
+[After] Cookie-Name 11: _shg_user_id
+[After] Cookie-Name 12: _shg_session_id
+[After] Cookie-Name 13: _ply
+[After] Cookie-Name 14: _ply_first_visit
+[After] Cookie-Name 15: _ply_first_visit_page
+[After] Cookie-Name 16: _landing_page
+[After] Cookie-Name 17: _shopify_evids
+[After] Cookie-Name 18: _shopify_d
+[After] Cookie-Name 19: qab_previous_pathname
+[After] Cookie-Name 20: _y
+[After] Cookie-Name 21: _gat
+[After] Cookie-Name 22: _shopify_s
+[After] Cookie-Name 23: cookieconsent_preferences_disabled
+[After] Cookie-Name 24: localization
+[After] Cookie-Name 25: _shopify_tw
+[After] Cookie-Name 26: _shopify_sa_t
+[After] Cookie-Name 27: _s
+[After] Cookie-Name 28: _shopify_tm
+[After] Cookie-Name 29: cookieconsent_status
+[After] Cookie-Name 30: cart_ts
+[After] Cookie-Name 31: _shopify_sa_p
+[After] Cookie-Name 32: department
+[After] Cookie-Name 33: secure_customer_sig
+[After] Cookie-Name 34: _ga
+[After] Cookie-Name 35: _tracking_consent
+[After] Cookie-Name 36: _shopify_y
+[After] Cookie-Name 37: _ply_last_visit
+[After] Cookie-Name 38: _gid
+[After] Cookie-Name 39: cart_currency
+[After] Cookie-Name 40: _shopify_evids
+[After] Cookie-Name 41: _shopify_m
+[After] Cookie-Name 42: _orig_referrer
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 2
+[Difference] Cookie-Name: 1: _fbp
+[Difference] Cookie-Name: 2: cookieconsent_status
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

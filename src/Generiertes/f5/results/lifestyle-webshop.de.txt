@@ -1,0 +1,81 @@
+Website 366: http://www.lifestyle-webshop.de/ | Created: 09.02.2022 21:28:43 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 12
+[Before] Website-Cookies: [{'domain': 'www.lifestyle-webshop.de', 'expiry': 1645648115, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': '.lifestyle-webshop.de', 'expiry': 1675974512, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': 'www.lifestyle-webshop.de', 'expiry': 1645648115, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ec6b7e91b1b3906d016a5941ff83b440'}, {'domain': 'www.lifestyle-webshop.de', 'expiry': 1645648115, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '046e9fcc2aca3c964ac61633b95e421c'}, {'domain': 'www.lifestyle-webshop.de', 'expiry': 1645648115, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.lifestyle-webshop.de', 'expiry': 1645648112, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.lifestyle-webshop.de', 'expiry': 1644440315, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.lifestyle-webshop.de', 'expiry': 1645648115, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644438515'}, {'domain': '.lifestyle-webshop.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.lifestyle-webshop.de', 'expiry': 1675974512, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': '.lifestyle-webshop.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.lifestyle-webshop.de', 'expiry': 1675974515, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: cart_ver
+[Before] Cookie-Name 2: _shopify_m
+[Before] Cookie-Name 3: cart_sig
+[Before] Cookie-Name 4: cart
+[Before] Cookie-Name 5: cart_currency
+[Before] Cookie-Name 6: _shopify_tw
+[Before] Cookie-Name 7: _shopify_tm
+[Before] Cookie-Name 8: cart_ts
+[Before] Cookie-Name 9: _orig_referrer
+[Before] Cookie-Name 10: _tracking_consent
+[Before] Cookie-Name 11: _landing_page
+[Before] Cookie-Name 12: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 30
+[After] Website-Cookies: [{'domain': '.lifestyle-webshop.de', 'expiry': 1675974529, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22con%22%3A%7B%22CCPA%22%3A%221%22%2C%22GDPR%22%3A%22%22%7D%2C%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': '.lifestyle-webshop.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '54f0acee-f3de-439b-a1ae-4d7b5c1f7e37'}, {'domain': '.lifestyle-webshop.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '54f0acee-f3de-439b-a1ae-4d7b5c1f7e37'}, {'domain': '.lifestyle-webshop.de', 'expiry': 1675974529, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': 'www.lifestyle-webshop.de', 'expiry': 1645648129, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.lifestyle-webshop.de', 'expiry': 1645648129, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'www.lifestyle-webshop.de', 'expiry': 1645648115, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644438515'}, {'domain': 'www.lifestyle-webshop.de', 'expiry': 1647030529, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0NDM4NTI5MjMzLCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjowfX0='}, {'domain': 'www.lifestyle-webshop.de', 'expiry': 1644524929, 'httpOnly': False, 'name': '_gid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'GA1.2.298244094.1644438513'}, {'domain': 'www.lifestyle-webshop.de', 'expiry': 1644524929, 'httpOnly': False, 'name': '_gat', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.lifestyle-webshop.de', 'expiry': 1644440329, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.lifestyle-webshop.de', 'expiry': 1645648129, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ec6b7e91b1b3906d016a5941ff83b440'}, {'domain': 'www.lifestyle-webshop.de', 'expiry': 1707510529, 'httpOnly': False, 'name': '_ga', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'GA1.2.1121808456.1644438513'}, {'domain': '.lifestyle-webshop.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b927466c-5f0f-4373-b4f3-f955110367b1'}, {'domain': 'www.lifestyle-webshop.de', 'expiry': 1645648115, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': 'www.lifestyle-webshop.de', 'expiry': 1644440329, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b927466c-5f0f-4373-b4f3-f955110367b1'}, {'domain': 'www.lifestyle-webshop.de', 'expiry': 1645648129, 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T20%3A28%3A33.334Z'}, {'domain': 'www.lifestyle-webshop.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.lifestyle-webshop.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b927466c-5f0f-4373-b4f3-f955110367b1'}, {'domain': 'www.lifestyle-webshop.de', 'expiry': 1675974529, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '54f0acee-f3de-439b-a1ae-4d7b5c1f7e37'}, {'domain': '.lifestyle-webshop.de', 'expiry': 1645648112, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.lifestyle-webshop.de', 'expiry': 1645648115, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '046e9fcc2aca3c964ac61633b95e421c'}, {'domain': '.lifestyle-webshop.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T20%3A28%3A33.356Z'}, {'domain': 'www.lifestyle-webshop.de', 'expiry': 1644440329, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T20%3A28%3A33.356Z'}, {'domain': 'www.lifestyle-webshop.de', 'expiry': 1675974529, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '54f0acee-f3de-439b-a1ae-4d7b5c1f7e37'}, {'domain': 'www.lifestyle-webshop.de', 'expiry': 1644440329, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b927466c-5f0f-4373-b4f3-f955110367b1'}, {'domain': '.lifestyle-webshop.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.lifestyle-webshop.de', 'expiry': 1675974529, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.lifestyle-webshop.de', 'expiry': 1645648129, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.lifestyle-webshop.de', 'expiry': 1645648129, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: _tracking_consent
+[After] Cookie-Name 2: _shopify_y
+[After] Cookie-Name 3: _y
+[After] Cookie-Name 4: _shopify_m
+[After] Cookie-Name 5: cart_currency
+[After] Cookie-Name 6: localization
+[After] Cookie-Name 7: cart_ts
+[After] Cookie-Name 8: _bc_c_set
+[After] Cookie-Name 9: _gid
+[After] Cookie-Name 10: _gat
+[After] Cookie-Name 11: _shopify_tm
+[After] Cookie-Name 12: cart_sig
+[After] Cookie-Name 13: _ga
+[After] Cookie-Name 14: _s
+[After] Cookie-Name 15: cart_ver
+[After] Cookie-Name 16: _shopify_s
+[After] Cookie-Name 17: _shopify_d
+[After] Cookie-Name 18: _shopify_evids
+[After] Cookie-Name 19: _shopify_s
+[After] Cookie-Name 20: _y
+[After] Cookie-Name 21: _shopify_tw
+[After] Cookie-Name 22: cart
+[After] Cookie-Name 23: _shopify_sa_t
+[After] Cookie-Name 24: _shopify_sa_t
+[After] Cookie-Name 25: _shopify_y
+[After] Cookie-Name 26: _s
+[After] Cookie-Name 27: _shopify_evids
+[After] Cookie-Name 28: secure_customer_sig
+[After] Cookie-Name 29: _landing_page
+[After] Cookie-Name 30: _orig_referrer
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 12
+[Difference] Cookie-Name: 1: localization
+[Difference] Cookie-Name: 2: _y
+[Difference] Cookie-Name: 3: _shopify_s
+[Difference] Cookie-Name: 4: _shopify_evids
+[Difference] Cookie-Name: 5: _shopify_d
+[Difference] Cookie-Name: 6: _shopify_y
+[Difference] Cookie-Name: 7: _gid
+[Difference] Cookie-Name: 8: _bc_c_set
+[Difference] Cookie-Name: 9: _shopify_sa_t
+[Difference] Cookie-Name: 10: _ga
+[Difference] Cookie-Name: 11: _gat
+[Difference] Cookie-Name: 12: _s
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

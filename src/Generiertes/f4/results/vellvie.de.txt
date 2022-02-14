@@ -1,0 +1,81 @@
+Website 326: http://www.vellvie.de/ | Created: 09.02.2022 18:49:44 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 8
+[Before] Website-Cookies: [{'domain': '.vellvie.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.vellvie.de', 'expiry': 1645638573, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.vellvie.de', 'expiry': 1644430773, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.vellvie.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'vellvie.de', 'expiry': 1645638572, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.vellvie.de', 'expiry': 1675964973, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.vellvie.de', 'expiry': 1675964973, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%7D'}, {'domain': 'vellvie.de', 'expiry': 1675964972, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _landing_page
+[Before] Cookie-Name 2: _shopify_tw
+[Before] Cookie-Name 3: _shopify_tm
+[Before] Cookie-Name 4: _orig_referrer
+[Before] Cookie-Name 5: cart_currency
+[Before] Cookie-Name 6: _shopify_m
+[Before] Cookie-Name 7: _tracking_consent
+[Before] Cookie-Name 8: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 30
+[After] Website-Cookies: [{'domain': '.vellvie.de', 'expiry': 1652204990, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1923453433.1644428990'}, {'domain': '.vellvie.de', 'expiry': 1644429050, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.vellvie.de', 'expiry': 1675964990, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22con%22%3A%7B%22GDPR%22%3A%221%22%7D%2C%22v%22%3A%222.0%22%7D'}, {'domain': '.vellvie.de', 'expiry': 1675964990, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': '.vellvie.de', 'expiry': 1644430790, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4713a455-149c-43f3-b957-c39e5a42c95a'}, {'domain': 'vellvie.de', 'expiry': 1645638590, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '25c478f991ed2118068a740da772bb44'}, {'domain': 'vellvie.de', 'expiry': 1647020989, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0NDI4OTg5Nzg1LCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjowfX0='}, {'domain': 'vellvie.de', 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0Mjg5NzUsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vdmVsbHZpZS5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQ0Mjg5NzUsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vdmVsbHZpZS5kZS8ifX0='}, {'domain': 'vellvie.de', 'expiry': 1645638589, 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A49%3A34.348Z'}, {'domain': 'vellvie.de', 'expiry': 1644430789, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4713a455-149c-43f3-b957-c39e5a42c95a'}, {'domain': '.vellvie.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'vellvie.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.vellvie.de', 'expiry': 1645638590, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'vellvie.de', 'expiry': 1644430789, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A49%3A34.357Z'}, {'domain': '.vellvie.de', 'expiry': 1644430790, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'vellvie.de', 'expiry': 1644430789, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4713a455-149c-43f3-b957-c39e5a42c95a'}, {'domain': '.vellvie.de', 'expiry': 1652204991, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644428990658.744054978'}, {'domain': '.vellvie.de', 'expiry': 1675964990, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b75038c8-c5dc-4015-be8d-17b34086171a'}, {'domain': 'vellvie.de', 'expiry': 1675964989, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b75038c8-c5dc-4015-be8d-17b34086171a'}, {'domain': '.vellvie.de', 'expiry': 1644515390, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.139491759.1644428990'}, {'domain': '.vellvie.de', 'expiry': 1707500990, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1328463814.1644428990'}, {'domain': '.vellvie.de', 'expiry': 1645638590, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.vellvie.de', 'expiry': 1644430790, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4713a455-149c-43f3-b957-c39e5a42c95a'}, {'domain': '.vellvie.de', 'expiry': 1645638573, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.vellvie.de', 'expiry': 1644430790, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A49%3A34.357Z'}, {'domain': '.vellvie.de', 'expiry': 1675964990, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b75038c8-c5dc-4015-be8d-17b34086171a'}, {'domain': 'vellvie.de', 'expiry': 1675964989, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b75038c8-c5dc-4015-be8d-17b34086171a'}, {'domain': 'vellvie.de', 'expiry': 1645638590, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'vellvie.de', 'expiry': 1645638590, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'vellvie.de', 'expiry': 1675964990, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _gcl_au
+[After] Cookie-Name 2: _gat
+[After] Cookie-Name 3: _tracking_consent
+[After] Cookie-Name 4: _shopify_m
+[After] Cookie-Name 5: _s
+[After] Cookie-Name 6: cart_sig
+[After] Cookie-Name 7: _bc_c_set
+[After] Cookie-Name 8: __kla_id
+[After] Cookie-Name 9: _shopify_d
+[After] Cookie-Name 10: _shopify_s
+[After] Cookie-Name 11: _shopify_evids
+[After] Cookie-Name 12: _shopify_evids
+[After] Cookie-Name 13: _landing_page
+[After] Cookie-Name 14: _shopify_sa_t
+[After] Cookie-Name 15: _shopify_tm
+[After] Cookie-Name 16: _s
+[After] Cookie-Name 17: _fbp
+[After] Cookie-Name 18: _y
+[After] Cookie-Name 19: _y
+[After] Cookie-Name 20: _gid
+[After] Cookie-Name 21: _ga
+[After] Cookie-Name 22: _orig_referrer
+[After] Cookie-Name 23: _shopify_s
+[After] Cookie-Name 24: _shopify_tw
+[After] Cookie-Name 25: _shopify_sa_t
+[After] Cookie-Name 26: _shopify_y
+[After] Cookie-Name 27: _shopify_y
+[After] Cookie-Name 28: cart_currency
+[After] Cookie-Name 29: localization
+[After] Cookie-Name 30: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 16
+[Difference] Cookie-Name: 1: _shopify_evids
+[Difference] Cookie-Name: 2: cart_sig
+[Difference] Cookie-Name: 3: __kla_id
+[Difference] Cookie-Name: 4: _gid
+[Difference] Cookie-Name: 5: localization
+[Difference] Cookie-Name: 6: _gcl_au
+[Difference] Cookie-Name: 7: _gat
+[Difference] Cookie-Name: 8: _shopify_y
+[Difference] Cookie-Name: 9: _fbp
+[Difference] Cookie-Name: 10: _shopify_d
+[Difference] Cookie-Name: 11: _s
+[Difference] Cookie-Name: 12: _shopify_s
+[Difference] Cookie-Name: 13: _ga
+[Difference] Cookie-Name: 14: _y
+[Difference] Cookie-Name: 15: _shopify_sa_t
+[Difference] Cookie-Name: 16: _bc_c_set
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

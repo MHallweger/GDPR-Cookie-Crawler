@@ -1,0 +1,55 @@
+Website 178: http://www.uglybison.design/ | Created: 09.02.2022 14:36:13 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 13
+[Before] Website-Cookies: [{'domain': 'www.uglybison.design', 'expiry': 1644417364, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.uglybison.design', 'expiry': 1644415563, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A36%3A03.935Z'}, {'domain': '.uglybison.design', 'expiry': 1644415563, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.uglybison.design', 'expiry': 1675949763, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '752b806b-53a8-4904-b1e0-1566e3428d16'}, {'domain': 'www.uglybison.design', 'expiry': 1645018564, 'httpOnly': False, 'name': 'mailing_list_delay_popup', 'path': '/', 'secure': False, 'value': 'expires_seven_days'}, {'domain': '.uglybison.design', 'expiry': 1644415563, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '77b4274b-ea84-416d-8730-00a0156dca37'}, {'domain': '.uglybison.design', 'expiry': 1675949763, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '752b806b-53a8-4904-b1e0-1566e3428d16'}, {'domain': 'www.uglybison.design', 'expiry': 1645623363, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.uglybison.design', 'expiry': 1645623363, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.uglybison.design', 'expiry': 1675949763, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.uglybison.design', 'expiry': 1645623363, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.uglybison.design', 'expiry': 1644415563, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '77b4274b-ea84-416d-8730-00a0156dca37'}, {'domain': 'www.uglybison.design', 'expiry': 1645623363, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'USD'}]
+[Before] Cookie-Name 1: shopify_pay_redirect
+[Before] Cookie-Name 2: _shopify_sa_t
+[Before] Cookie-Name 3: _shopify_sa_p
+[Before] Cookie-Name 4: _shopify_y
+[Before] Cookie-Name 5: mailing_list_delay_popup
+[Before] Cookie-Name 6: _s
+[Before] Cookie-Name 7: _y
+[Before] Cookie-Name 8: localization
+[Before] Cookie-Name 9: _landing_page
+[Before] Cookie-Name 10: secure_customer_sig
+[Before] Cookie-Name 11: _orig_referrer
+[Before] Cookie-Name 12: _shopify_s
+[Before] Cookie-Name 13: cart_currency
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 13
+[After] Website-Cookies: [{'domain': 'www.uglybison.design', 'expiry': 1644417364, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.uglybison.design', 'expiry': 1644415563, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A36%3A03.935Z'}, {'domain': '.uglybison.design', 'expiry': 1644415563, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.uglybison.design', 'expiry': 1675949763, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '752b806b-53a8-4904-b1e0-1566e3428d16'}, {'domain': 'www.uglybison.design', 'expiry': 1645018564, 'httpOnly': False, 'name': 'mailing_list_delay_popup', 'path': '/', 'secure': False, 'value': 'expires_seven_days'}, {'domain': '.uglybison.design', 'expiry': 1644415563, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '77b4274b-ea84-416d-8730-00a0156dca37'}, {'domain': '.uglybison.design', 'expiry': 1675949763, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '752b806b-53a8-4904-b1e0-1566e3428d16'}, {'domain': 'www.uglybison.design', 'expiry': 1645623363, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.uglybison.design', 'expiry': 1645623363, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.uglybison.design', 'expiry': 1675949763, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.uglybison.design', 'expiry': 1645623363, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.uglybison.design', 'expiry': 1644415563, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '77b4274b-ea84-416d-8730-00a0156dca37'}, {'domain': 'www.uglybison.design', 'expiry': 1645623363, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'USD'}]
+[After] Cookie-Name 1: shopify_pay_redirect
+[After] Cookie-Name 2: _shopify_sa_t
+[After] Cookie-Name 3: _shopify_sa_p
+[After] Cookie-Name 4: _shopify_y
+[After] Cookie-Name 5: mailing_list_delay_popup
+[After] Cookie-Name 6: _s
+[After] Cookie-Name 7: _y
+[After] Cookie-Name 8: localization
+[After] Cookie-Name 9: _landing_page
+[After] Cookie-Name 10: secure_customer_sig
+[After] Cookie-Name 11: _orig_referrer
+[After] Cookie-Name 12: _shopify_s
+[After] Cookie-Name 13: cart_currency
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is NOT GDPR compliant!

@@ -1,0 +1,85 @@
+Website 91: http://www.kleibt.de/ | Created: 10.02.2022 12:39:38 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 8
+[Before] Website-Cookies: [{'domain': 'kleibt.de', 'expiry': 1645702771, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f83259bab5cf4569460b0f394882a884'}, {'domain': 'kleibt.de', 'expiry': 1645702771, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': 'kleibt.de', 'expiry': 1645702771, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644493170'}, {'domain': '.kleibt.de', 'expiry': 1645702768, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.kleibt.de', 'expiry': 1645702768, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'kleibt.de', 'expiry': 1645702771, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b9b7e4d508e722844adb3fe26f175fec'}, {'domain': 'kleibt.de', 'expiry': 1645702771, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'kleibt.de', 'expiry': 1676029172, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: cart_sig
+[Before] Cookie-Name 2: cart_ver
+[Before] Cookie-Name 3: cart_ts
+[Before] Cookie-Name 4: _landing_page
+[Before] Cookie-Name 5: _orig_referrer
+[Before] Cookie-Name 6: cart
+[Before] Cookie-Name 7: cart_currency
+[Before] Cookie-Name 8: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 29
+[After] Website-Cookies: [{'domain': '.kleibt.de', 'expiry': 1707565184, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.1.1405702218.1644493184'}, {'domain': 'kleibt.de', 'httpOnly': False, 'name': '_lo_uid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '257040-1644493169469-4a0dafe2ab5719c9'}, {'domain': 'kleibt.de', 'httpOnly': False, 'name': '__lotl', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'https%3A%2F%2Fkleibt.de%2F'}, {'domain': '.kleibt.de', 'expiry': 1644493244, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'kleibt.de', 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'kleibt.de', 'expiry': 1676029184, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ee799588-eb15-4fbc-8c2c-b59c32cad289'}, {'domain': 'kleibt.de', 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'dWlkPVpqUXdaRGd3Wm1RdFpqUTJOQzAwWmpkaUxXRXhaakF0Wmpkak5EZGtPVEEwWkRVdw'}, {'domain': 'kleibt.de', 'httpOnly': False, 'name': 'landingPage', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'landed'}, {'domain': 'kleibt.de', 'httpOnly': False, 'name': 'baMet_visit', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '611d53eac2774c77810ba827a6068ce51644493168875'}, {'domain': '.kleibt.de', 'expiry': 1645702768, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'kleibt.de', 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0OTMxNzAsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8va2xlaWJ0LmRlLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDQ5MzE3MCwidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly9rbGVpYnQuZGUvIn19'}, {'domain': 'kleibt.de', 'expiry': 1644494984, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c1d28e52-75e1-4169-add6-b0ddc2356dc1'}, {'domain': 'kleibt.de', 'expiry': 1676029184, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ee799588-eb15-4fbc-8c2c-b59c32cad289'}, {'domain': 'kleibt.de', 'expiry': 1644494984, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c1d28e52-75e1-4169-add6-b0ddc2356dc1'}, {'domain': 'kleibt.de', 'httpOnly': False, 'name': '_lo_v', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'kleibt.de', 'expiry': 1645702771, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f83259bab5cf4569460b0f394882a884'}, {'domain': 'kleibt.de', 'expiry': 1645702771, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b9b7e4d508e722844adb3fe26f175fec'}, {'domain': 'kleibt.de', 'expiry': 1645702771, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': 'kleibt.de', 'httpOnly': False, 'name': 'logState', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'loggedOut'}, {'domain': 'kleibt.de', 'expiry': 1645702771, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644493170'}, {'domain': '.kleibt.de', 'expiry': 1644579584, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1538798562.1644493184'}, {'domain': 'kleibt.de', 'httpOnly': False, 'name': 'baMet_baEvs', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%5B%5D'}, {'domain': 'kleibt.de', 'expiry': 1644494984, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T11%3A39%3A28.924Z'}, {'domain': '.kleibt.de', 'expiry': 1645702768, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'kleibt.de', 'expiry': 1647085184, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0NDkzMTg0MjY3LCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjoxfX0='}, {'domain': '.kleibt.de', 'expiry': 1644493784, 'httpOnly': False, 'name': '_lorid', 'path': '/', 'secure': False, 'value': '257040-1644493169469-1cc319fbc05c34ef'}, {'domain': '.kleibt.de', 'expiry': 1652269185, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644493184552.942683723'}, {'domain': 'kleibt.de', 'expiry': 1645702771, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'kleibt.de', 'expiry': 1676029172, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _ga
+[After] Cookie-Name 2: _lo_uid
+[After] Cookie-Name 3: __lotl
+[After] Cookie-Name 4: _gat
+[After] Cookie-Name 5: localization
+[After] Cookie-Name 6: _y
+[After] Cookie-Name 7: _pin_unauth
+[After] Cookie-Name 8: landingPage
+[After] Cookie-Name 9: baMet_visit
+[After] Cookie-Name 10: _orig_referrer
+[After] Cookie-Name 11: __kla_id
+[After] Cookie-Name 12: _s
+[After] Cookie-Name 13: _shopify_y
+[After] Cookie-Name 14: _shopify_s
+[After] Cookie-Name 15: _lo_v
+[After] Cookie-Name 16: cart_sig
+[After] Cookie-Name 17: cart
+[After] Cookie-Name 18: cart_ver
+[After] Cookie-Name 19: logState
+[After] Cookie-Name 20: cart_ts
+[After] Cookie-Name 21: _gid
+[After] Cookie-Name 22: baMet_baEvs
+[After] Cookie-Name 23: _shopify_sa_t
+[After] Cookie-Name 24: _landing_page
+[After] Cookie-Name 25: _bc_c_set
+[After] Cookie-Name 26: _lorid
+[After] Cookie-Name 27: _fbp
+[After] Cookie-Name 28: cart_currency
+[After] Cookie-Name 29: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 21
+[Difference] Cookie-Name: 1: localization
+[Difference] Cookie-Name: 2: _gid
+[Difference] Cookie-Name: 3: _y
+[Difference] Cookie-Name: 4: _bc_c_set
+[Difference] Cookie-Name: 5: _pin_unauth
+[Difference] Cookie-Name: 6: baMet_baEvs
+[Difference] Cookie-Name: 7: landingPage
+[Difference] Cookie-Name: 8: logState
+[Difference] Cookie-Name: 9: _lorid
+[Difference] Cookie-Name: 10: baMet_visit
+[Difference] Cookie-Name: 11: __kla_id
+[Difference] Cookie-Name: 12: _fbp
+[Difference] Cookie-Name: 13: _lo_uid
+[Difference] Cookie-Name: 14: _shopify_s
+[Difference] Cookie-Name: 15: _s
+[Difference] Cookie-Name: 16: _gat
+[Difference] Cookie-Name: 17: __lotl
+[Difference] Cookie-Name: 18: _ga
+[Difference] Cookie-Name: 19: _shopify_y
+[Difference] Cookie-Name: 20: _lo_v
+[Difference] Cookie-Name: 21: _shopify_sa_t
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

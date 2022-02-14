@@ -1,0 +1,90 @@
+Website 353: http://www.runster.de/ | Created: 08.02.2022 23:26:45 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 22
+[Before] Website-Cookies: [{'domain': 'www.runster.de', 'expiry': 1675895197, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': ''}, {'domain': '.runster.de', 'expiry': 1652135197, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1316257207.1644359197'}, {'domain': '.runster.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.runster.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.runster.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T22%3A26%3A36.040Z'}, {'domain': '.runster.de', 'expiry': 1645568795, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.runster.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T22%3A26%3A36.088Z'}, {'domain': '.runster.de', 'expiry': 1675895195, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': '.runster.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '536443e5-3d42-4f26-94f3-5b8be88d6942'}, {'domain': '.runster.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a0321f3f-ab1e-44ca-935d-f048b6c48e23'}, {'domain': '.runster.de', 'expiry': 1644360996, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.runster.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.runster.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.runster.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.runster.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '536443e5-3d42-4f26-94f3-5b8be88d6942'}, {'domain': 'www.runster.de', 'expiry': 1644362796, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.runster.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a0321f3f-ab1e-44ca-935d-f048b6c48e23'}, {'domain': 'www.runster.de', 'expiry': 1645568796, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.runster.de', 'expiry': 1675895196, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.runster.de', 'expiry': 1675895195, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': 'www.runster.de', 'expiry': 1645568796, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'www.runster.de', 'expiry': 1645568795, 'httpOnly': True, 'name': 'keep_alive', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '536443e5-3d42-4f26-94f3-5b8be88d6942'}]
+[Before] Cookie-Name 1: cookieconsent_preferences_disabled
+[Before] Cookie-Name 2: _gcl_au
+[Before] Cookie-Name 3: _shopify_sa_p
+[Before] Cookie-Name 4: _shopify_evids
+[Before] Cookie-Name 5: _shopify_d
+[Before] Cookie-Name 6: _shopify_tw
+[Before] Cookie-Name 7: _shopify_sa_t
+[Before] Cookie-Name 8: _tracking_consent
+[Before] Cookie-Name 9: _s
+[Before] Cookie-Name 10: _y
+[Before] Cookie-Name 11: _shopify_tm
+[Before] Cookie-Name 12: _landing_page
+[Before] Cookie-Name 13: _shopify_evids
+[Before] Cookie-Name 14: _orig_referrer
+[Before] Cookie-Name 15: _shopify_s
+[Before] Cookie-Name 16: shopify_pay_redirect
+[Before] Cookie-Name 17: _shopify_y
+[Before] Cookie-Name 18: cart_currency
+[Before] Cookie-Name 19: secure_customer_sig
+[Before] Cookie-Name 20: _shopify_m
+[Before] Cookie-Name 21: localization
+[Before] Cookie-Name 22: keep_alive
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 31
+[After] Website-Cookies: [{'domain': '.runster.de', 'expiry': 1644445611, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1485607631.1644359211'}, {'domain': '.runster.de', 'expiry': 1675895211, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': '.runster.de', 'expiry': 1644359271, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.runster.de', 'expiry': 1645568811, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8afc9c210209249d2c33483320a5dfd2'}, {'domain': 'www.runster.de', 'expiry': 1645568811, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644359211'}, {'domain': 'www.runster.de', 'expiry': 1675895210, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': ''}, {'domain': '.runster.de', 'expiry': 1652135197, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1316257207.1644359197'}, {'domain': '.runster.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T22%3A26%3A36.040Z'}, {'domain': '.runster.de', 'expiry': 1644361011, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.runster.de', 'expiry': 1645568795, 'httpOnly': True, 'name': 'keep_alive', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '536443e5-3d42-4f26-94f3-5b8be88d6942'}, {'domain': '.runster.de', 'expiry': 1644361011, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T22%3A26%3A36.088Z'}, {'domain': 'www.runster.de', 'expiry': 1645568811, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': 'www.runster.de', 'expiry': 1675895210, 'httpOnly': False, 'name': 'cookieconsent_status', 'path': '/', 'secure': False, 'value': 'allow'}, {'domain': 'www.runster.de', 'expiry': 1645568811, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '04fd088a78a436749d8216f2f6f51add'}, {'domain': 'www.runster.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.runster.de', 'expiry': 1675895211, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%221%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': '.runster.de', 'expiry': 1645568795, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.runster.de', 'expiry': 1645568811, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.runster.de', 'expiry': 1645568811, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.runster.de', 'expiry': 1644361011, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.runster.de', 'expiry': 1644361011, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '536443e5-3d42-4f26-94f3-5b8be88d6942'}, {'domain': '.runster.de', 'expiry': 1675895211, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a0321f3f-ab1e-44ca-935d-f048b6c48e23'}, {'domain': '.runster.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.runster.de', 'expiry': 1645568811, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.runster.de', 'expiry': 1652135211, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644359211473.461104934'}, {'domain': '.runster.de', 'expiry': 1644361011, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '536443e5-3d42-4f26-94f3-5b8be88d6942'}, {'domain': 'www.runster.de', 'expiry': 1644362796, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.runster.de', 'expiry': 1675895211, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a0321f3f-ab1e-44ca-935d-f048b6c48e23'}, {'domain': '.runster.de', 'expiry': 1707431211, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.783216621.1644359211'}, {'domain': 'www.runster.de', 'expiry': 1675895211, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'www.runster.de', 'expiry': 1645568811, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[After] Cookie-Name 1: _gid
+[After] Cookie-Name 2: _shopify_m
+[After] Cookie-Name 3: _gat
+[After] Cookie-Name 4: cart_sig
+[After] Cookie-Name 5: cart_ts
+[After] Cookie-Name 6: cookieconsent_preferences_disabled
+[After] Cookie-Name 7: _gcl_au
+[After] Cookie-Name 8: _shopify_d
+[After] Cookie-Name 9: _shopify_sa_p
+[After] Cookie-Name 10: keep_alive
+[After] Cookie-Name 11: _shopify_sa_t
+[After] Cookie-Name 12: cart_ver
+[After] Cookie-Name 13: cookieconsent_status
+[After] Cookie-Name 14: cart
+[After] Cookie-Name 15: _shopify_evids
+[After] Cookie-Name 16: _tracking_consent
+[After] Cookie-Name 17: _shopify_tw
+[After] Cookie-Name 18: cart_currency
+[After] Cookie-Name 19: _landing_page
+[After] Cookie-Name 20: _shopify_tm
+[After] Cookie-Name 21: _s
+[After] Cookie-Name 22: _y
+[After] Cookie-Name 23: _shopify_evids
+[After] Cookie-Name 24: _orig_referrer
+[After] Cookie-Name 25: _fbp
+[After] Cookie-Name 26: _shopify_s
+[After] Cookie-Name 27: shopify_pay_redirect
+[After] Cookie-Name 28: _shopify_y
+[After] Cookie-Name 29: _ga
+[After] Cookie-Name 30: secure_customer_sig
+[After] Cookie-Name 31: localization
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 9
+[Difference] Cookie-Name: 1: _gid
+[Difference] Cookie-Name: 2: cart_ver
+[Difference] Cookie-Name: 3: _fbp
+[Difference] Cookie-Name: 4: _ga
+[Difference] Cookie-Name: 5: cookieconsent_status
+[Difference] Cookie-Name: 6: cart_ts
+[Difference] Cookie-Name: 7: cart_sig
+[Difference] Cookie-Name: 8: cart
+[Difference] Cookie-Name: 9: _gat
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

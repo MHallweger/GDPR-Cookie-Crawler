@@ -1,0 +1,58 @@
+Website 178: http://www.niemand-gin.de/ | Created: 09.02.2022 20:29:33 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 14
+[Before] Website-Cookies: [{'domain': '.niemand-gin.de', 'expiry': 1652210965, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644434964995.22732800'}, {'domain': '.niemand-gin.de', 'expiry': 1652210964, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.932659477.1644434965'}, {'domain': 'www.niemand-gin.de', 'expiry': 1644438564, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.niemand-gin.de', 'expiry': 1644436764, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.niemand-gin.de', 'expiry': 1644436764, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A29%3A24.801Z'}, {'domain': 'www.niemand-gin.de', 'expiry': 1645644564, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': '.niemand-gin.de', 'expiry': 1675970964, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2d837e9f-e51e-4c91-a9dd-edb5ad91e6a7'}, {'domain': '.niemand-gin.de', 'expiry': 1675970964, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2d837e9f-e51e-4c91-a9dd-edb5ad91e6a7'}, {'domain': '.niemand-gin.de', 'expiry': 1645644564, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.niemand-gin.de', 'expiry': 1645644564, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.niemand-gin.de', 'expiry': 1675970964, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.niemand-gin.de', 'expiry': 1644436764, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a91bdf3b-f9f9-4db5-a88e-035af9200b48'}, {'domain': '.niemand-gin.de', 'expiry': 1644436764, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a91bdf3b-f9f9-4db5-a88e-035af9200b48'}, {'domain': 'www.niemand-gin.de', 'expiry': 1645644564, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}]
+[Before] Cookie-Name 1: _fbp
+[Before] Cookie-Name 2: _gcl_au
+[Before] Cookie-Name 3: shopify_pay_redirect
+[Before] Cookie-Name 4: _shopify_sa_p
+[Before] Cookie-Name 5: _shopify_sa_t
+[Before] Cookie-Name 6: localization
+[Before] Cookie-Name 7: _shopify_y
+[Before] Cookie-Name 8: _y
+[Before] Cookie-Name 9: _landing_page
+[Before] Cookie-Name 10: _orig_referrer
+[Before] Cookie-Name 11: secure_customer_sig
+[Before] Cookie-Name 12: _shopify_s
+[Before] Cookie-Name 13: _s
+[Before] Cookie-Name 14: cart_currency
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 15
+[After] Website-Cookies: [{'domain': '.niemand-gin.de', 'expiry': 1652210979, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644434964995.22732800'}, {'domain': '.niemand-gin.de', 'expiry': 1652210964, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.932659477.1644434965'}, {'domain': 'www.niemand-gin.de', 'expiry': 1644438564, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.niemand-gin.de', 'expiry': 1644436764, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.niemand-gin.de', 'expiry': 1644436764, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A29%3A24.801Z'}, {'domain': 'www.niemand-gin.de', 'expiry': 1645644564, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': '.niemand-gin.de', 'expiry': 1675970964, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2d837e9f-e51e-4c91-a9dd-edb5ad91e6a7'}, {'domain': '.niemand-gin.de', 'expiry': 1675970964, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2d837e9f-e51e-4c91-a9dd-edb5ad91e6a7'}, {'domain': '.niemand-gin.de', 'expiry': 1645644564, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.niemand-gin.de', 'expiry': 1645644564, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.niemand-gin.de', 'expiry': 1675970964, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.niemand-gin.de', 'expiry': 1644436764, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a91bdf3b-f9f9-4db5-a88e-035af9200b48'}, {'domain': 'www.niemand-gin.de', 'expiry': 1675970979, 'httpOnly': False, 'name': 'cookieconsent_status', 'path': '/', 'secure': False, 'value': 'dismiss'}, {'domain': '.niemand-gin.de', 'expiry': 1644436764, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a91bdf3b-f9f9-4db5-a88e-035af9200b48'}, {'domain': 'www.niemand-gin.de', 'expiry': 1645644564, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}]
+[After] Cookie-Name 1: _fbp
+[After] Cookie-Name 2: _gcl_au
+[After] Cookie-Name 3: shopify_pay_redirect
+[After] Cookie-Name 4: _shopify_sa_p
+[After] Cookie-Name 5: _shopify_sa_t
+[After] Cookie-Name 6: localization
+[After] Cookie-Name 7: _shopify_y
+[After] Cookie-Name 8: _y
+[After] Cookie-Name 9: _landing_page
+[After] Cookie-Name 10: _orig_referrer
+[After] Cookie-Name 11: secure_customer_sig
+[After] Cookie-Name 12: _shopify_s
+[After] Cookie-Name 13: cookieconsent_status
+[After] Cookie-Name 14: _s
+[After] Cookie-Name 15: cart_currency
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: cookieconsent_status
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

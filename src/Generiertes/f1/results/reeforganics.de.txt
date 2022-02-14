@@ -1,0 +1,79 @@
+Website 357: http://www.reeforganics.de/ | Created: 08.02.2022 23:28:05 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 22
+[Before] Website-Cookies: [{'domain': 'www.reeforganics.de', 'expiry': 1645568876, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '95a2023cb3015ed9d5140cbce79b264d'}, {'domain': '.reeforganics.de', 'expiry': 1644361075, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.reeforganics.de', 'expiry': 1644361075, 'httpOnly': False, 'name': '_hjSession_2138824', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjcwMTY0YmIyLTAxZjMtNGQ5Ny1hOTNmLWMzZWQ4ODQ2MmFlZSIsImNyZWF0ZWQiOjE2NDQzNTkyNzU0NzMsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': 'www.reeforganics.de', 'expiry': 1644359395, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.reeforganics.de', 'expiry': 1644361075, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.reeforganics.de', 'expiry': 1644359335, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.reeforganics.de', 'expiry': 1644359575, 'httpOnly': False, 'name': 'outbrain_cid_fetch', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': '.reeforganics.de', 'expiry': 1644445675, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.660012819.1644359275'}, {'domain': '.reeforganics.de', 'expiry': 1644361076, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7e745450-c2dd-4a4f-87b8-da1eade7da39'}, {'domain': '.reeforganics.de', 'expiry': 1707431275, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1985595010.1644359275'}, {'domain': '.reeforganics.de', 'expiry': 1644361075, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.reeforganics.de', 'expiry': 1644361075, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T22%3A27%3A55.217Z'}, {'domain': '.reeforganics.de', 'expiry': 1675895276, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2adf21db-44d3-438c-813c-fc897db03d44'}, {'domain': 'www.reeforganics.de', 'expiry': 1675895276, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.reeforganics.de', 'expiry': 1644361076, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7e745450-c2dd-4a4f-87b8-da1eade7da39'}, {'domain': '.www.reeforganics.de', 'expiry': 1675895275, 'httpOnly': False, 'name': 'scm_product_label_count', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.reeforganics.de', 'expiry': 1675895276, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2adf21db-44d3-438c-813c-fc897db03d44'}, {'domain': 'www.reeforganics.de', 'expiry': 1707431285, 'httpOnly': False, 'name': '_sp_id.5c0d', 'path': '/', 'secure': False, 'value': '90a612d04d6580d0.1644359275.1.1644359285.1644359275'}, {'domain': '.reeforganics.de', 'expiry': 1645568874, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.reeforganics.de', 'expiry': 1675895275, 'httpOnly': False, 'name': '_hjSessionUser_2138824', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImMzYWEzYTVhLWM0NDQtNWM3Yy04NTA4LWFkNmUxZTZiZWI4YyIsImNyZWF0ZWQiOjE2NDQzNTkyNzUzNDEsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': 'www.reeforganics.de', 'expiry': 1644361085, 'httpOnly': False, 'name': '_sp_ses.5c0d', 'path': '/', 'secure': False, 'value': '*'}, {'domain': '.reeforganics.de', 'expiry': 1645568874, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[Before] Cookie-Name 1: cart_sig
+[Before] Cookie-Name 2: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 3: _hjSession_2138824
+[Before] Cookie-Name 4: _hjIncludedInPageviewSample
+[Before] Cookie-Name 5: _hjFirstSeen
+[Before] Cookie-Name 6: _gat
+[Before] Cookie-Name 7: outbrain_cid_fetch
+[Before] Cookie-Name 8: _gid
+[Before] Cookie-Name 9: _shopify_s
+[Before] Cookie-Name 10: _ga
+[Before] Cookie-Name 11: _shopify_sa_p
+[Before] Cookie-Name 12: _shopify_sa_t
+[Before] Cookie-Name 13: _shopify_y
+[Before] Cookie-Name 14: secure_customer_sig
+[Before] Cookie-Name 15: _s
+[Before] Cookie-Name 16: scm_product_label_count
+[Before] Cookie-Name 17: _y
+[Before] Cookie-Name 18: _sp_id.5c0d
+[Before] Cookie-Name 19: _landing_page
+[Before] Cookie-Name 20: _hjSessionUser_2138824
+[Before] Cookie-Name 21: _sp_ses.5c0d
+[Before] Cookie-Name 22: _orig_referrer
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 22
+[After] Website-Cookies: [{'domain': 'www.reeforganics.de', 'expiry': 1645568876, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '95a2023cb3015ed9d5140cbce79b264d'}, {'domain': '.reeforganics.de', 'expiry': 1644361075, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.reeforganics.de', 'expiry': 1644361075, 'httpOnly': False, 'name': '_hjSession_2138824', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjcwMTY0YmIyLTAxZjMtNGQ5Ny1hOTNmLWMzZWQ4ODQ2MmFlZSIsImNyZWF0ZWQiOjE2NDQzNTkyNzU0NzMsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': 'www.reeforganics.de', 'expiry': 1644359395, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.reeforganics.de', 'expiry': 1644361075, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.reeforganics.de', 'expiry': 1644359335, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.reeforganics.de', 'expiry': 1644359575, 'httpOnly': False, 'name': 'outbrain_cid_fetch', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': '.reeforganics.de', 'expiry': 1644445675, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.660012819.1644359275'}, {'domain': '.reeforganics.de', 'expiry': 1644361076, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7e745450-c2dd-4a4f-87b8-da1eade7da39'}, {'domain': '.reeforganics.de', 'expiry': 1707431275, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1985595010.1644359275'}, {'domain': '.reeforganics.de', 'expiry': 1644361075, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.reeforganics.de', 'expiry': 1644361075, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T22%3A27%3A55.217Z'}, {'domain': '.reeforganics.de', 'expiry': 1675895276, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2adf21db-44d3-438c-813c-fc897db03d44'}, {'domain': 'www.reeforganics.de', 'expiry': 1675895291, 'httpOnly': False, 'name': 'CookieConsent', 'path': '/', 'secure': True, 'value': '{stamp:%27YqPTMBy0dXwM4uv45ZC6EAKYymYpRdobofEi9SMCVHXogIoo6T9P1g==%27%2Cnecessary:true%2Cpreferences:true%2Cstatistics:true%2Cmarketing:true%2Cver:1%2Cutc:1644359291216%2Cregion:%27de%27}'}, {'domain': 'www.reeforganics.de', 'expiry': 1675895276, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.reeforganics.de', 'expiry': 1644361076, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7e745450-c2dd-4a4f-87b8-da1eade7da39'}, {'domain': '.reeforganics.de', 'expiry': 1675895276, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2adf21db-44d3-438c-813c-fc897db03d44'}, {'domain': 'www.reeforganics.de', 'expiry': 1707431285, 'httpOnly': False, 'name': '_sp_id.5c0d', 'path': '/', 'secure': False, 'value': '90a612d04d6580d0.1644359275.1.1644359285.1644359275'}, {'domain': '.reeforganics.de', 'expiry': 1645568874, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.reeforganics.de', 'expiry': 1675895275, 'httpOnly': False, 'name': '_hjSessionUser_2138824', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImMzYWEzYTVhLWM0NDQtNWM3Yy04NTA4LWFkNmUxZTZiZWI4YyIsImNyZWF0ZWQiOjE2NDQzNTkyNzUzNDEsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': 'www.reeforganics.de', 'expiry': 1644361085, 'httpOnly': False, 'name': '_sp_ses.5c0d', 'path': '/', 'secure': False, 'value': '*'}, {'domain': '.reeforganics.de', 'expiry': 1645568874, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: cart_sig
+[After] Cookie-Name 2: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 3: _hjSession_2138824
+[After] Cookie-Name 4: _hjIncludedInPageviewSample
+[After] Cookie-Name 5: _hjFirstSeen
+[After] Cookie-Name 6: _gat
+[After] Cookie-Name 7: outbrain_cid_fetch
+[After] Cookie-Name 8: _gid
+[After] Cookie-Name 9: _shopify_s
+[After] Cookie-Name 10: _ga
+[After] Cookie-Name 11: _shopify_sa_p
+[After] Cookie-Name 12: _shopify_sa_t
+[After] Cookie-Name 13: _shopify_y
+[After] Cookie-Name 14: CookieConsent
+[After] Cookie-Name 15: secure_customer_sig
+[After] Cookie-Name 16: _s
+[After] Cookie-Name 17: _y
+[After] Cookie-Name 18: _sp_id.5c0d
+[After] Cookie-Name 19: _landing_page
+[After] Cookie-Name 20: _hjSessionUser_2138824
+[After] Cookie-Name 21: _sp_ses.5c0d
+[After] Cookie-Name 22: _orig_referrer
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjIncludedInPageviewSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 2
+[Difference] Cookie-Name: 1: CookieConsent
+[Difference] Cookie-Name: 2: scm_product_label_count
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

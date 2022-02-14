@@ -1,0 +1,73 @@
+Website 13: http://www.sakerwerkzeuge.de/ | Created: 08.02.2022 21:42:53 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 19
+[Before] Website-Cookies: [{'domain': '.sakerwerkzeuge.de', 'expiry': 1644354765, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'AYDwDi0WVOBzr9-20220208204244'}, {'domain': 'www.sakerwerkzeuge.de', 'expiry': 1707424964, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQzNTI5NjUsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LnNha2Vyd2Vya3pldWdlLmRlLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDM1Mjk2NSwidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly93d3cuc2FrZXJ3ZXJremV1Z2UuZGUvIn19'}, {'domain': '.sakerwerkzeuge.de', 'httpOnly': False, 'name': 'soundest-views', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.sakerwerkzeuge.de', 'expiry': 1652128963, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644352963120.1017767804'}, {'domain': '.sakerwerkzeuge.de', 'expiry': 1644439362, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1374170697.1644352963'}, {'domain': '.sakerwerkzeuge.de', 'expiry': 1645562562, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.sakerwerkzeuge.de', 'expiry': 1652128962, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.690606093.1644352963'}, {'domain': '.sakerwerkzeuge.de', 'expiry': 1707424962, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1973170526.1644352963'}, {'domain': '.sakerwerkzeuge.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220208204244-dF8wZKbLiN5rcpN9F8WBuFswJIW4tNH7l0mU0vHprcyu6FZnw'}, {'domain': '.sakerwerkzeuge.de', 'expiry': 1644354762, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T20%3A42%3A42.886Z'}, {'domain': '.sakerwerkzeuge.de', 'expiry': 1675888965, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'TXnhIdw83bGMBF-20220208204244'}, {'domain': '.sakerwerkzeuge.de', 'expiry': 1675888965, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1b2c68ee-d5d3-4052-89a0-85ecab63cd44'}, {'domain': '.sakerwerkzeuge.de', 'expiry': 1644353022, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.sakerwerkzeuge.de', 'expiry': 1644354765, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '527fabe7-42b0-4eaf-b6ae-e4ddca708798'}, {'domain': '.sakerwerkzeuge.de', 'expiry': 1644354765, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '527fabe7-42b0-4eaf-b6ae-e4ddca708798'}, {'domain': '.sakerwerkzeuge.de', 'expiry': 1645562562, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.sakerwerkzeuge.de', 'expiry': 1675888965, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1b2c68ee-d5d3-4052-89a0-85ecab63cd44'}, {'domain': '.sakerwerkzeuge.de', 'expiry': 1644354762, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.sakerwerkzeuge.de', 'expiry': 1675888965, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: omnisendSessionID
+[Before] Cookie-Name 2: __kla_id
+[Before] Cookie-Name 3: soundest-views
+[Before] Cookie-Name 4: _fbp
+[Before] Cookie-Name 5: _gid
+[Before] Cookie-Name 6: _landing_page
+[Before] Cookie-Name 7: _gcl_au
+[Before] Cookie-Name 8: _ga
+[Before] Cookie-Name 9: soundestID
+[Before] Cookie-Name 10: _shopify_sa_t
+[Before] Cookie-Name 11: omnisendAnonymousID
+[Before] Cookie-Name 12: _shopify_y
+[Before] Cookie-Name 13: _gat
+[Before] Cookie-Name 14: _s
+[Before] Cookie-Name 15: _shopify_s
+[Before] Cookie-Name 16: _orig_referrer
+[Before] Cookie-Name 17: _y
+[Before] Cookie-Name 18: _shopify_sa_p
+[Before] Cookie-Name 19: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 19
+[After] Website-Cookies: [{'domain': '.sakerwerkzeuge.de', 'expiry': 1644354765, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'AYDwDi0WVOBzr9-20220208204244'}, {'domain': 'www.sakerwerkzeuge.de', 'expiry': 1707424964, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQzNTI5NjUsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LnNha2Vyd2Vya3pldWdlLmRlLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDM1Mjk2NSwidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly93d3cuc2FrZXJ3ZXJremV1Z2UuZGUvIn19'}, {'domain': '.sakerwerkzeuge.de', 'httpOnly': False, 'name': 'soundest-views', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.sakerwerkzeuge.de', 'expiry': 1652128963, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644352963120.1017767804'}, {'domain': '.sakerwerkzeuge.de', 'expiry': 1644439362, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1374170697.1644352963'}, {'domain': '.sakerwerkzeuge.de', 'expiry': 1645562562, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.sakerwerkzeuge.de', 'expiry': 1652128962, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.690606093.1644352963'}, {'domain': '.sakerwerkzeuge.de', 'expiry': 1707424962, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1973170526.1644352963'}, {'domain': '.sakerwerkzeuge.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220208204244-dF8wZKbLiN5rcpN9F8WBuFswJIW4tNH7l0mU0vHprcyu6FZnw'}, {'domain': '.sakerwerkzeuge.de', 'expiry': 1644354762, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T20%3A42%3A42.886Z'}, {'domain': '.sakerwerkzeuge.de', 'expiry': 1675888965, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'TXnhIdw83bGMBF-20220208204244'}, {'domain': '.sakerwerkzeuge.de', 'expiry': 1675888965, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1b2c68ee-d5d3-4052-89a0-85ecab63cd44'}, {'domain': '.sakerwerkzeuge.de', 'expiry': 1644353022, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.sakerwerkzeuge.de', 'expiry': 1644354765, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '527fabe7-42b0-4eaf-b6ae-e4ddca708798'}, {'domain': '.sakerwerkzeuge.de', 'expiry': 1644354765, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '527fabe7-42b0-4eaf-b6ae-e4ddca708798'}, {'domain': '.sakerwerkzeuge.de', 'expiry': 1645562562, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.sakerwerkzeuge.de', 'expiry': 1675888965, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1b2c68ee-d5d3-4052-89a0-85ecab63cd44'}, {'domain': '.sakerwerkzeuge.de', 'expiry': 1644354762, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.sakerwerkzeuge.de', 'expiry': 1675888965, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: omnisendSessionID
+[After] Cookie-Name 2: __kla_id
+[After] Cookie-Name 3: soundest-views
+[After] Cookie-Name 4: _fbp
+[After] Cookie-Name 5: _gid
+[After] Cookie-Name 6: _landing_page
+[After] Cookie-Name 7: _gcl_au
+[After] Cookie-Name 8: _ga
+[After] Cookie-Name 9: soundestID
+[After] Cookie-Name 10: _shopify_sa_t
+[After] Cookie-Name 11: omnisendAnonymousID
+[After] Cookie-Name 12: _shopify_y
+[After] Cookie-Name 13: _gat
+[After] Cookie-Name 14: _s
+[After] Cookie-Name 15: _shopify_s
+[After] Cookie-Name 16: _orig_referrer
+[After] Cookie-Name 17: _y
+[After] Cookie-Name 18: _shopify_sa_p
+[After] Cookie-Name 19: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gat (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

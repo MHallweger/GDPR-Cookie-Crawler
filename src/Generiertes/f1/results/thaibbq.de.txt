@@ -1,0 +1,85 @@
+Website 73: http://www.thaibbq.de/ | Created: 08.02.2022 22:01:47 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 25
+[Before] Website-Cookies: [{'domain': 'thaibbq.de', 'expiry': 1644354400, 'httpOnly': False, 'name': 'trustedsite_tm_float_seen', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'thaibbq.de', 'httpOnly': False, 'name': '__na_c', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.thaibbq.de', 'expiry': 1644355898, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.thaibbq.de', 'expiry': 1644355898, 'httpOnly': False, 'name': '_hjSession_553888', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImI0ZGJmMDRlLTA0MjUtNDhkMC1iZjNiLTIzZjY1NWRhMmUwNSIsImNyZWF0ZWQiOjE2NDQzNTQwOTgxMDMsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': 'thaibbq.de', 'expiry': 1644440500, 'httpOnly': False, 'name': 'trustedsite_visit', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.thaibbq.de', 'expiry': 1644355898, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.thaibbq.de', 'expiry': 1675890098, 'httpOnly': False, 'name': '_hjSessionUser_553888', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjRhMDEzYWFiLWE5NzUtNWM4ZS04NTlmLTZjNzc0Y2YwM2U4YiIsImNyZWF0ZWQiOjE2NDQzNTQwOTgwOTEsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.thaibbq.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220208210139-KfvVbuxrEkzE2KpBrpjEkWHxzrCxq1mKacXFADwo3nrXwvQYj'}, {'domain': '.thaibbq.de', 'expiry': 1644440497, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.882592967.1644354098'}, {'domain': '.thaibbq.de', 'expiry': 1644354157, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.thaibbq.de', 'expiry': 1644355897, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A01%3A37.975Z'}, {'domain': '.thaibbq.de', 'expiry': 1644355899, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': '7yYJTe2nzLYdsd-20220208210139'}, {'domain': '.thaibbq.de', 'expiry': 1707426097, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1607540751.1644354098'}, {'domain': '.thaibbq.de', 'expiry': 1675890097, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5ec826e5-fa32-496a-a461-1d04e72023d4'}, {'domain': '.thaibbq.de', 'expiry': 1675890097, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5ec826e5-fa32-496a-a461-1d04e72023d4'}, {'domain': '.thaibbq.de', 'expiry': 1644355897, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '07098759-5935-47cb-a284-ece84f2f10d5'}, {'domain': '.thaibbq.de', 'expiry': 1645563697, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.thaibbq.de', 'expiry': 1644355897, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'thaibbq.de', 'expiry': 1644354218, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.thaibbq.de', 'expiry': 1644355897, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '07098759-5935-47cb-a284-ece84f2f10d5'}, {'domain': '.thaibbq.de', 'expiry': 1675890099, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'mHkW9jwVrhxdum-20220208210139'}, {'domain': '.thaibbq.de', 'expiry': 1706742000, 'httpOnly': False, 'name': '__na_u_45877248', 'path': '/', 'secure': False, 'value': '4786216571636'}, {'domain': '.thaibbq.de', 'expiry': 1645563697, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'thaibbq.de', 'expiry': 1644355539, 'httpOnly': False, 'name': 'vntrust_visit', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'thaibbq.de', 'expiry': 1675890097, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: trustedsite_tm_float_seen
+[Before] Cookie-Name 2: __na_c
+[Before] Cookie-Name 3: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 4: _hjSession_553888
+[Before] Cookie-Name 5: trustedsite_visit
+[Before] Cookie-Name 6: _hjFirstSeen
+[Before] Cookie-Name 7: _hjSessionUser_553888
+[Before] Cookie-Name 8: soundestID
+[Before] Cookie-Name 9: _gid
+[Before] Cookie-Name 10: _gat
+[Before] Cookie-Name 11: _shopify_sa_t
+[Before] Cookie-Name 12: omnisendSessionID
+[Before] Cookie-Name 13: _ga
+[Before] Cookie-Name 14: _shopify_y
+[Before] Cookie-Name 15: _y
+[Before] Cookie-Name 16: _shopify_s
+[Before] Cookie-Name 17: _orig_referrer
+[Before] Cookie-Name 18: _shopify_sa_p
+[Before] Cookie-Name 19: _hjIncludedInPageviewSample
+[Before] Cookie-Name 20: _s
+[Before] Cookie-Name 21: omnisendAnonymousID
+[Before] Cookie-Name 22: __na_u_45877248
+[Before] Cookie-Name 23: _landing_page
+[Before] Cookie-Name 24: vntrust_visit
+[Before] Cookie-Name 25: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 25
+[After] Website-Cookies: [{'domain': 'thaibbq.de', 'expiry': 1644354400, 'httpOnly': False, 'name': 'trustedsite_tm_float_seen', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'thaibbq.de', 'httpOnly': False, 'name': '__na_c', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.thaibbq.de', 'expiry': 1644355898, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.thaibbq.de', 'expiry': 1644355898, 'httpOnly': False, 'name': '_hjSession_553888', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImI0ZGJmMDRlLTA0MjUtNDhkMC1iZjNiLTIzZjY1NWRhMmUwNSIsImNyZWF0ZWQiOjE2NDQzNTQwOTgxMDMsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': 'thaibbq.de', 'expiry': 1644440500, 'httpOnly': False, 'name': 'trustedsite_visit', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.thaibbq.de', 'expiry': 1644355898, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.thaibbq.de', 'expiry': 1675890098, 'httpOnly': False, 'name': '_hjSessionUser_553888', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjRhMDEzYWFiLWE5NzUtNWM4ZS04NTlmLTZjNzc0Y2YwM2U4YiIsImNyZWF0ZWQiOjE2NDQzNTQwOTgwOTEsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.thaibbq.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220208210139-KfvVbuxrEkzE2KpBrpjEkWHxzrCxq1mKacXFADwo3nrXwvQYj'}, {'domain': '.thaibbq.de', 'expiry': 1644440497, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.882592967.1644354098'}, {'domain': '.thaibbq.de', 'expiry': 1644354157, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.thaibbq.de', 'expiry': 1644355897, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A01%3A37.975Z'}, {'domain': '.thaibbq.de', 'expiry': 1644355899, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': '7yYJTe2nzLYdsd-20220208210139'}, {'domain': '.thaibbq.de', 'expiry': 1707426097, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1607540751.1644354098'}, {'domain': '.thaibbq.de', 'expiry': 1675890097, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5ec826e5-fa32-496a-a461-1d04e72023d4'}, {'domain': '.thaibbq.de', 'expiry': 1675890097, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5ec826e5-fa32-496a-a461-1d04e72023d4'}, {'domain': '.thaibbq.de', 'expiry': 1644355897, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '07098759-5935-47cb-a284-ece84f2f10d5'}, {'domain': '.thaibbq.de', 'expiry': 1645563697, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.thaibbq.de', 'expiry': 1644355897, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'thaibbq.de', 'expiry': 1644354218, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.thaibbq.de', 'expiry': 1644355897, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '07098759-5935-47cb-a284-ece84f2f10d5'}, {'domain': '.thaibbq.de', 'expiry': 1675890099, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'mHkW9jwVrhxdum-20220208210139'}, {'domain': '.thaibbq.de', 'expiry': 1706742000, 'httpOnly': False, 'name': '__na_u_45877248', 'path': '/', 'secure': False, 'value': '4786216571636'}, {'domain': '.thaibbq.de', 'expiry': 1645563697, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'thaibbq.de', 'expiry': 1644355539, 'httpOnly': False, 'name': 'vntrust_visit', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'thaibbq.de', 'expiry': 1675890097, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: trustedsite_tm_float_seen
+[After] Cookie-Name 2: __na_c
+[After] Cookie-Name 3: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 4: _hjSession_553888
+[After] Cookie-Name 5: trustedsite_visit
+[After] Cookie-Name 6: _hjFirstSeen
+[After] Cookie-Name 7: _hjSessionUser_553888
+[After] Cookie-Name 8: soundestID
+[After] Cookie-Name 9: _gid
+[After] Cookie-Name 10: _gat
+[After] Cookie-Name 11: _shopify_sa_t
+[After] Cookie-Name 12: omnisendSessionID
+[After] Cookie-Name 13: _ga
+[After] Cookie-Name 14: _shopify_y
+[After] Cookie-Name 15: _y
+[After] Cookie-Name 16: _shopify_s
+[After] Cookie-Name 17: _orig_referrer
+[After] Cookie-Name 18: _shopify_sa_p
+[After] Cookie-Name 19: _hjIncludedInPageviewSample
+[After] Cookie-Name 20: _s
+[After] Cookie-Name 21: omnisendAnonymousID
+[After] Cookie-Name 22: __na_u_45877248
+[After] Cookie-Name 23: _landing_page
+[After] Cookie-Name 24: vntrust_visit
+[After] Cookie-Name 25: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _hjIncludedInPageviewSample (Hotjar (User experience tool))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

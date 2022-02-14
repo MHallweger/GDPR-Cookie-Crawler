@@ -1,0 +1,98 @@
+Website 68: http://www.amazonliss.de/ | Created: 10.02.2022 17:39:43 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 34
+[Before] Website-Cookies: [{'domain': 'amazonliss.de', 'expiry': 1645720778, 'httpOnly': False, 'name': 'mc_opt_in_cart_token', 'path': '/', 'secure': False, 'value': '69a835e05eaedea77fe3371b324471cc'}, {'domain': '.amazonliss.de', 'expiry': 1644512974, 'httpOnly': False, 'name': '_ju_pn', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.amazonliss.de', 'expiry': 1676047177, 'httpOnly': False, 'name': '_ju_dc', 'path': '/', 'secure': False, 'value': '08a979b6-8a90-11ec-a6fd-1f66fa41949b'}, {'domain': '.amazonliss.de', 'expiry': 1647103175, 'httpOnly': False, 'name': '_ju_dn', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'amazonliss.de', 'expiry': 1645720774, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '48ad3636bcb0866f89805bb376dcf78e'}, {'domain': 'amazonliss.de', 'expiry': 1645720774, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '69a835e05eaedea77fe3371b324471cc'}, {'domain': 'amazonliss.de', 'expiry': 1645720774, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': 'amazonliss.de', 'expiry': 1707583174, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ1MTExNzUsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vYW1hem9ubGlzcy5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQ1MTExNzUsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vYW1hem9ubGlzcy5kZS8ifX0='}, {'domain': '.amazonliss.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'amazonliss.de', 'expiry': 1676047175, 'httpOnly': False, 'name': 'optiMonkClientId', 'path': '/', 'secure': False, 'value': 'de8d41f1-36bf-d37a-4502-43d0928dcbb5'}, {'domain': 'amazonliss.de', 'expiry': 1647103174, 'httpOnly': False, 'name': 'qikify_country_code', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': '.amazonliss.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.amazonliss.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'amazonliss.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.amazonliss.de', 'expiry': 1676047173, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.amazonliss.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fe054a31-4f95-4f7b-a365-c46db168011f'}, {'domain': '.amazonliss.de', 'expiry': 1676047173, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': '.amazonliss.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '23709fc7-cc9d-4756-a680-5d6e43caecc7'}, {'domain': '.amazonliss.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '23709fc7-cc9d-4756-a680-5d6e43caecc7'}, {'domain': '.amazonliss.de', 'expiry': 1644512985, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'amazonliss.de', 'expiry': 1645720774, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644511174'}, {'domain': 'amazonliss.de', 'expiry': 1645720785, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.amazonliss.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fe054a31-4f95-4f7b-a365-c46db168011f'}, {'domain': '.amazonliss.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T16%3A39%3A34.199Z'}, {'domain': '.amazonliss.de', 'expiry': 1645720773, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'amazonliss.de', 'expiry': 1676047178, 'httpOnly': False, 'name': 'mesid', 'path': '/', 'secure': False, 'value': '16723427608486'}, {'domain': 'amazonliss.de', 'expiry': 1645720785, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'amazonliss.de', 'expiry': 1644514774, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.amazonliss.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T16%3A39%3A34.206Z'}, {'domain': 'amazonliss.de', 'expiry': 1644512972, 'httpOnly': False, 'name': '_ju_v', 'path': '/', 'secure': True, 'value': '4.1_5.05'}, {'domain': '.amazonliss.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.amazonliss.de', 'expiry': 1644597575, 'httpOnly': False, 'name': '_ju_dm', 'path': '/', 'secure': False, 'value': 'cookie'}, {'domain': 'amazonliss.de', 'httpOnly': False, 'name': 'qab_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': 'amazonliss.de', 'expiry': 1676047185, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: mc_opt_in_cart_token
+[Before] Cookie-Name 2: _ju_pn
+[Before] Cookie-Name 3: _ju_dc
+[Before] Cookie-Name 4: _ju_dn
+[Before] Cookie-Name 5: cart_sig
+[Before] Cookie-Name 6: cart
+[Before] Cookie-Name 7: cart_ver
+[Before] Cookie-Name 8: __kla_id
+[Before] Cookie-Name 9: _orig_referrer
+[Before] Cookie-Name 10: optiMonkClientId
+[Before] Cookie-Name 11: qikify_country_code
+[Before] Cookie-Name 12: _shopify_sa_p
+[Before] Cookie-Name 13: _shopify_evids
+[Before] Cookie-Name 14: _shopify_evids
+[Before] Cookie-Name 15: _shopify_m
+[Before] Cookie-Name 16: _shopify_y
+[Before] Cookie-Name 17: _tracking_consent
+[Before] Cookie-Name 18: _shopify_s
+[Before] Cookie-Name 19: _s
+[Before] Cookie-Name 20: _shopify_tm
+[Before] Cookie-Name 21: cart_ts
+[Before] Cookie-Name 22: cart_currency
+[Before] Cookie-Name 23: _y
+[Before] Cookie-Name 24: _shopify_d
+[Before] Cookie-Name 25: _shopify_tw
+[Before] Cookie-Name 26: mesid
+[Before] Cookie-Name 27: localization
+[Before] Cookie-Name 28: shopify_pay_redirect
+[Before] Cookie-Name 29: _shopify_sa_t
+[Before] Cookie-Name 30: _ju_v
+[Before] Cookie-Name 31: _landing_page
+[Before] Cookie-Name 32: _ju_dm
+[Before] Cookie-Name 33: qab_previous_pathname
+[Before] Cookie-Name 34: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 35
+[After] Website-Cookies: [{'domain': 'amazonliss.de', 'expiry': 1645720778, 'httpOnly': False, 'name': 'mc_opt_in_cart_token', 'path': '/', 'secure': False, 'value': '69a835e05eaedea77fe3371b324471cc'}, {'domain': '.amazonliss.de', 'expiry': 1644512974, 'httpOnly': False, 'name': '_ju_pn', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.amazonliss.de', 'expiry': 1676047177, 'httpOnly': False, 'name': '_ju_dc', 'path': '/', 'secure': False, 'value': '08a979b6-8a90-11ec-a6fd-1f66fa41949b'}, {'domain': '.amazonliss.de', 'expiry': 1647103175, 'httpOnly': False, 'name': '_ju_dn', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'amazonliss.de', 'expiry': 1645720774, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '48ad3636bcb0866f89805bb376dcf78e'}, {'domain': 'amazonliss.de', 'expiry': 1645720774, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '69a835e05eaedea77fe3371b324471cc'}, {'domain': 'amazonliss.de', 'expiry': 1645720774, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': 'amazonliss.de', 'expiry': 1707583174, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ1MTExNzUsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vYW1hem9ubGlzcy5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQ1MTExNzUsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vYW1hem9ubGlzcy5kZS8ifX0='}, {'domain': '.amazonliss.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'amazonliss.de', 'expiry': 1676047175, 'httpOnly': False, 'name': 'optiMonkClientId', 'path': '/', 'secure': False, 'value': 'de8d41f1-36bf-d37a-4502-43d0928dcbb5'}, {'domain': 'amazonliss.de', 'expiry': 1647103174, 'httpOnly': False, 'name': 'qikify_country_code', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': '.amazonliss.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.amazonliss.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'amazonliss.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.amazonliss.de', 'expiry': 1676047173, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.amazonliss.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fe054a31-4f95-4f7b-a365-c46db168011f'}, {'domain': '.amazonliss.de', 'expiry': 1676047173, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': '.amazonliss.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '23709fc7-cc9d-4756-a680-5d6e43caecc7'}, {'domain': '.amazonliss.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '23709fc7-cc9d-4756-a680-5d6e43caecc7'}, {'domain': '.amazonliss.de', 'expiry': 1644512990, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'amazonliss.de', 'expiry': 1645720774, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644511174'}, {'domain': 'amazonliss.de', 'expiry': 1645720790, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.amazonliss.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fe054a31-4f95-4f7b-a365-c46db168011f'}, {'domain': '.amazonliss.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T16%3A39%3A34.199Z'}, {'domain': 'amazonliss.de', 'expiry': 1676047188, 'httpOnly': False, 'name': 'cookieconsent_status', 'path': '/', 'secure': False, 'value': 'dismiss'}, {'domain': '.amazonliss.de', 'expiry': 1645720773, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'amazonliss.de', 'expiry': 1676047178, 'httpOnly': False, 'name': 'mesid', 'path': '/', 'secure': False, 'value': '16723427608486'}, {'domain': 'amazonliss.de', 'expiry': 1645720790, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'amazonliss.de', 'expiry': 1644514774, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.amazonliss.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T16%3A39%3A34.206Z'}, {'domain': 'amazonliss.de', 'expiry': 1644512972, 'httpOnly': False, 'name': '_ju_v', 'path': '/', 'secure': True, 'value': '4.1_5.05'}, {'domain': '.amazonliss.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.amazonliss.de', 'expiry': 1644597575, 'httpOnly': False, 'name': '_ju_dm', 'path': '/', 'secure': False, 'value': 'cookie'}, {'domain': 'amazonliss.de', 'httpOnly': False, 'name': 'qab_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': 'amazonliss.de', 'expiry': 1676047190, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: mc_opt_in_cart_token
+[After] Cookie-Name 2: _ju_pn
+[After] Cookie-Name 3: _ju_dc
+[After] Cookie-Name 4: _ju_dn
+[After] Cookie-Name 5: cart_sig
+[After] Cookie-Name 6: cart
+[After] Cookie-Name 7: cart_ver
+[After] Cookie-Name 8: __kla_id
+[After] Cookie-Name 9: _orig_referrer
+[After] Cookie-Name 10: optiMonkClientId
+[After] Cookie-Name 11: qikify_country_code
+[After] Cookie-Name 12: _shopify_sa_p
+[After] Cookie-Name 13: _shopify_evids
+[After] Cookie-Name 14: _shopify_evids
+[After] Cookie-Name 15: _shopify_m
+[After] Cookie-Name 16: _shopify_y
+[After] Cookie-Name 17: _tracking_consent
+[After] Cookie-Name 18: _shopify_s
+[After] Cookie-Name 19: _s
+[After] Cookie-Name 20: _shopify_tm
+[After] Cookie-Name 21: cart_ts
+[After] Cookie-Name 22: cart_currency
+[After] Cookie-Name 23: _y
+[After] Cookie-Name 24: _shopify_d
+[After] Cookie-Name 25: cookieconsent_status
+[After] Cookie-Name 26: _shopify_tw
+[After] Cookie-Name 27: mesid
+[After] Cookie-Name 28: localization
+[After] Cookie-Name 29: shopify_pay_redirect
+[After] Cookie-Name 30: _shopify_sa_t
+[After] Cookie-Name 31: _ju_v
+[After] Cookie-Name 32: _landing_page
+[After] Cookie-Name 33: _ju_dm
+[After] Cookie-Name 34: qab_previous_pathname
+[After] Cookie-Name 35: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: cookieconsent_status
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

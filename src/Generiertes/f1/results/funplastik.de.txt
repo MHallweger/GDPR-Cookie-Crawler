@@ -1,0 +1,91 @@
+Website 269: http://www.funplastik.de/ | Created: 08.02.2022 23:01:45 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 27
+[Before] Website-Cookies: [{'domain': 'www.funplastic.de', 'expiry': 1644357757, 'httpOnly': False, 'name': 'baMet_baEvs', 'path': '/', 'secure': False, 'value': '%5B%5D'}, {'domain': 'www.funplastic.de', 'expiry': 1644444097, 'httpOnly': False, 'name': 'uwl_wishlist_temp_user', 'path': '/', 'secure': False, 'value': 'dc1e8f9232ec405a9e06ea98437d9e04'}, {'domain': 'www.funplastic.de', 'expiry': 1644361325, 'httpOnly': False, 'name': 'uwl_settings_text_status_fashion4gina.myshopify.com', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': 'www.funplastic.de', 'expiry': 1644361325, 'httpOnly': False, 'name': 'uwl_user_on_db_dc1e8f9232ec405a9e06ea98437d9e04', 'path': '/', 'secure': False, 'value': '0'}, {'domain': '.funplastic.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.funplastic.de', 'expiry': 1644361325, 'httpOnly': False, 'name': 'uwl_active_status_fashion4gina.myshopify.com', 'path': '/', 'secure': False, 'value': 'active'}, {'domain': 'www.funplastic.de', 'httpOnly': False, 'name': 'locale_bar_accepted', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.funplastic.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T22%3A01%3A35.301Z'}, {'domain': '.funplastic.de', 'expiry': 1675893694, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22CCPA%22%3A%22%22%2C%22GDPR%22%3A%22%22%7D%2C%22lim%22%3A%5B%22CCPA%22%2C%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%7D'}, {'domain': '.funplastic.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.funplastic.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'df20cba9-1d17-47cc-9067-cfedee02da30'}, {'domain': 'www.funplastic.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.funplastic.de', 'expiry': 1675893694, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': 'www.funplastic.de', 'expiry': 1645567299, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.funplastic.de', 'expiry': 1644359500, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.funplastic.de', 'expiry': 1645567299, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': 'www.funplastic.de', 'expiry': 1644359495, 'httpOnly': False, 'name': 'baMet_visit', 'path': '/', 'secure': False, 'value': '2513a396aa54465c8f34e97663fb5e2d1644357695774'}, {'domain': 'www.funplastic.de', 'expiry': 1675893699, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.funplastic.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'dc1e8f92-32ec-405a-9e06-ea98437d9e04'}, {'domain': '.funplastic.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'dc1e8f92-32ec-405a-9e06-ea98437d9e04'}, {'domain': '.funplastic.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'df20cba9-1d17-47cc-9067-cfedee02da30'}, {'domain': '.funplastic.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.funplastic.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T22%3A01%3A35.357Z'}, {'domain': '.funplastic.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.funplastic.de', 'httpOnly': False, 'name': 'checkout_locale', 'path': '/', 'secure': False, 'value': 'de'}, {'domain': 'www.funplastic.de', 'expiry': 1644361325, 'httpOnly': False, 'name': 'uwl_login_status_fashion4gina.myshopify.com', 'path': '/', 'secure': False, 'value': 'inactive'}, {'domain': '.funplastic.de', 'expiry': 1645567294, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[Before] Cookie-Name 1: baMet_baEvs
+[Before] Cookie-Name 2: uwl_wishlist_temp_user
+[Before] Cookie-Name 3: uwl_settings_text_status_fashion4gina.myshopify.com
+[Before] Cookie-Name 4: uwl_user_on_db_dc1e8f9232ec405a9e06ea98437d9e04
+[Before] Cookie-Name 5: _shopify_evids
+[Before] Cookie-Name 6: uwl_active_status_fashion4gina.myshopify.com
+[Before] Cookie-Name 7: locale_bar_accepted
+[Before] Cookie-Name 8: _shopify_d
+[Before] Cookie-Name 9: _tracking_consent
+[Before] Cookie-Name 10: _shopify_sa_p
+[Before] Cookie-Name 11: _shopify_s
+[Before] Cookie-Name 12: _shopify_evids
+[Before] Cookie-Name 13: _shopify_m
+[Before] Cookie-Name 14: cart_currency
+[Before] Cookie-Name 15: _shopify_tm
+[Before] Cookie-Name 16: localization
+[Before] Cookie-Name 17: baMet_visit
+[Before] Cookie-Name 18: secure_customer_sig
+[Before] Cookie-Name 19: _shopify_y
+[Before] Cookie-Name 20: _y
+[Before] Cookie-Name 21: _s
+[Before] Cookie-Name 22: _orig_referrer
+[Before] Cookie-Name 23: _shopify_sa_t
+[Before] Cookie-Name 24: _landing_page
+[Before] Cookie-Name 25: checkout_locale
+[Before] Cookie-Name 26: uwl_login_status_fashion4gina.myshopify.com
+[Before] Cookie-Name 27: _shopify_tw
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 32
+[After] Website-Cookies: [{'domain': '.funplastic.de', 'expiry': 1652133712, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1618755262.1644357713'}, {'domain': '.funplastic.de', 'expiry': 1675893712, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': 'www.funplastic.de', 'expiry': 1645567312, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644357712'}, {'domain': 'www.funplastic.de', 'expiry': 1645567312, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '34cc84642c5ad0cb2359b718da8ddcce'}, {'domain': 'www.funplastic.de', 'expiry': 1645567312, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '85480cf48419307682232c145b1e7594'}, {'domain': 'www.funplastic.de', 'expiry': 1644357757, 'httpOnly': False, 'name': 'baMet_baEvs', 'path': '/', 'secure': False, 'value': '%5B%5D'}, {'domain': 'www.funplastic.de', 'expiry': 1644444097, 'httpOnly': False, 'name': 'uwl_wishlist_temp_user', 'path': '/', 'secure': False, 'value': 'dc1e8f9232ec405a9e06ea98437d9e04'}, {'domain': '.funplastic.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.funplastic.de', 'expiry': 1644361325, 'httpOnly': False, 'name': 'uwl_active_status_fashion4gina.myshopify.com', 'path': '/', 'secure': False, 'value': 'active'}, {'domain': 'www.funplastic.de', 'httpOnly': False, 'name': 'locale_bar_accepted', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.funplastic.de', 'expiry': 1675893712, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22CCPA%22%2C%22GDPR%22%5D%2C%22con%22%3A%7B%22CCPA%22%3A%22%22%2C%22GDPR%22%3A%221%22%7D%7D'}, {'domain': '.funplastic.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T22%3A01%3A35.301Z'}, {'domain': '.funplastic.de', 'expiry': 1644359512, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.funplastic.de', 'expiry': 1644359512, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'df20cba9-1d17-47cc-9067-cfedee02da30'}, {'domain': 'www.funplastic.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.funplastic.de', 'expiry': 1645567312, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.funplastic.de', 'expiry': 1644359512, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.funplastic.de', 'expiry': 1644361325, 'httpOnly': False, 'name': 'uwl_settings_text_status_fashion4gina.myshopify.com', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': 'www.funplastic.de', 'expiry': 1645567312, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': 'www.funplastic.de', 'expiry': 1645567312, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'www.funplastic.de', 'expiry': 1644359495, 'httpOnly': False, 'name': 'baMet_visit', 'path': '/', 'secure': False, 'value': '2513a396aa54465c8f34e97663fb5e2d1644357695774'}, {'domain': 'www.funplastic.de', 'expiry': 1675893712, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.funplastic.de', 'expiry': 1675893712, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'dc1e8f92-32ec-405a-9e06-ea98437d9e04'}, {'domain': '.funplastic.de', 'expiry': 1675893712, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'dc1e8f92-32ec-405a-9e06-ea98437d9e04'}, {'domain': 'www.funplastic.de', 'expiry': 1644361325, 'httpOnly': False, 'name': 'uwl_login_status_fashion4gina.myshopify.com', 'path': '/', 'secure': False, 'value': 'inactive'}, {'domain': '.funplastic.de', 'expiry': 1645567294, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.funplastic.de', 'expiry': 1644359512, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'df20cba9-1d17-47cc-9067-cfedee02da30'}, {'domain': 'www.funplastic.de', 'expiry': 1644361325, 'httpOnly': False, 'name': 'uwl_user_on_db_dc1e8f9232ec405a9e06ea98437d9e04', 'path': '/', 'secure': False, 'value': '0'}, {'domain': '.funplastic.de', 'expiry': 1645567312, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.funplastic.de', 'expiry': 1644359512, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T22%3A01%3A35.357Z'}, {'domain': '.funplastic.de', 'expiry': 1645567312, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.funplastic.de', 'httpOnly': False, 'name': 'checkout_locale', 'path': '/', 'secure': False, 'value': 'de'}]
+[After] Cookie-Name 1: _gcl_au
+[After] Cookie-Name 2: _shopify_m
+[After] Cookie-Name 3: cart_ts
+[After] Cookie-Name 4: cart
+[After] Cookie-Name 5: cart_sig
+[After] Cookie-Name 6: baMet_baEvs
+[After] Cookie-Name 7: uwl_wishlist_temp_user
+[After] Cookie-Name 8: _shopify_evids
+[After] Cookie-Name 9: uwl_active_status_fashion4gina.myshopify.com
+[After] Cookie-Name 10: locale_bar_accepted
+[After] Cookie-Name 11: _tracking_consent
+[After] Cookie-Name 12: _shopify_d
+[After] Cookie-Name 13: _shopify_sa_p
+[After] Cookie-Name 14: _shopify_s
+[After] Cookie-Name 15: _shopify_evids
+[After] Cookie-Name 16: cart_currency
+[After] Cookie-Name 17: _shopify_tm
+[After] Cookie-Name 18: uwl_settings_text_status_fashion4gina.myshopify.com
+[After] Cookie-Name 19: cart_ver
+[After] Cookie-Name 20: localization
+[After] Cookie-Name 21: baMet_visit
+[After] Cookie-Name 22: secure_customer_sig
+[After] Cookie-Name 23: _shopify_y
+[After] Cookie-Name 24: _y
+[After] Cookie-Name 25: uwl_login_status_fashion4gina.myshopify.com
+[After] Cookie-Name 26: _shopify_tw
+[After] Cookie-Name 27: _s
+[After] Cookie-Name 28: uwl_user_on_db_dc1e8f9232ec405a9e06ea98437d9e04
+[After] Cookie-Name 29: _orig_referrer
+[After] Cookie-Name 30: _shopify_sa_t
+[After] Cookie-Name 31: _landing_page
+[After] Cookie-Name 32: checkout_locale
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 5
+[Difference] Cookie-Name: 1: cart_ver
+[Difference] Cookie-Name: 2: _gcl_au
+[Difference] Cookie-Name: 3: cart_ts
+[Difference] Cookie-Name: 4: cart_sig
+[Difference] Cookie-Name: 5: cart
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

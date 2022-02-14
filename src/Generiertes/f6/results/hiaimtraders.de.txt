@@ -1,0 +1,55 @@
+Website 137: http://www.hiaimtraders.de/ | Created: 10.02.2022 12:52:44 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 13
+[Before] Website-Cookies: [{'domain': '.hiaimtraders.de', 'expiry': 1644495756, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'rDqHKRZ3okaiIA-20220210115236'}, {'domain': '.hiaimtraders.de', 'expiry': 1676029956, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'cFgyXF4fbhcsEW-20220210115236'}, {'domain': '.hiaimtraders.de', 'expiry': 1644495753, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T11%3A52%3A33.486Z'}, {'domain': '.hiaimtraders.de', 'expiry': 1644495757, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1b3812e3-0a06-4cbc-8df0-666facbd18cd'}, {'domain': '.hiaimtraders.de', 'expiry': 1644495753, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.hiaimtraders.de', 'expiry': 1645703557, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.hiaimtraders.de', 'expiry': 1676029957, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '22f46ad0-cd32-4dab-89fc-c3c91a158e07'}, {'domain': '.hiaimtraders.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220210115236-zFF12v9JhOBLHgwtYmN2SRCUiWXmclDEQd0zRFHpKl3BxEnZh'}, {'domain': '.hiaimtraders.de', 'expiry': 1644495757, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1b3812e3-0a06-4cbc-8df0-666facbd18cd'}, {'domain': 'www.hiaimtraders.de', 'expiry': 1676029957, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.hiaimtraders.de', 'expiry': 1676029957, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '22f46ad0-cd32-4dab-89fc-c3c91a158e07'}, {'domain': '.hiaimtraders.de', 'expiry': 1645703553, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.hiaimtraders.de', 'expiry': 1645703553, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[Before] Cookie-Name 1: omnisendSessionID
+[Before] Cookie-Name 2: omnisendAnonymousID
+[Before] Cookie-Name 3: _shopify_sa_t
+[Before] Cookie-Name 4: _s
+[Before] Cookie-Name 5: _shopify_sa_p
+[Before] Cookie-Name 6: cart_sig
+[Before] Cookie-Name 7: _shopify_y
+[Before] Cookie-Name 8: soundestID
+[Before] Cookie-Name 9: _shopify_s
+[Before] Cookie-Name 10: secure_customer_sig
+[Before] Cookie-Name 11: _y
+[Before] Cookie-Name 12: _landing_page
+[Before] Cookie-Name 13: _orig_referrer
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 13
+[After] Website-Cookies: [{'domain': '.hiaimtraders.de', 'expiry': 1644495756, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'rDqHKRZ3okaiIA-20220210115236'}, {'domain': '.hiaimtraders.de', 'expiry': 1676029956, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'cFgyXF4fbhcsEW-20220210115236'}, {'domain': '.hiaimtraders.de', 'expiry': 1644495753, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T11%3A52%3A33.486Z'}, {'domain': '.hiaimtraders.de', 'expiry': 1644495757, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1b3812e3-0a06-4cbc-8df0-666facbd18cd'}, {'domain': '.hiaimtraders.de', 'expiry': 1644495753, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.hiaimtraders.de', 'expiry': 1645703557, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.hiaimtraders.de', 'expiry': 1676029957, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '22f46ad0-cd32-4dab-89fc-c3c91a158e07'}, {'domain': '.hiaimtraders.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220210115236-zFF12v9JhOBLHgwtYmN2SRCUiWXmclDEQd0zRFHpKl3BxEnZh'}, {'domain': '.hiaimtraders.de', 'expiry': 1644495757, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1b3812e3-0a06-4cbc-8df0-666facbd18cd'}, {'domain': 'www.hiaimtraders.de', 'expiry': 1676029957, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.hiaimtraders.de', 'expiry': 1676029957, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '22f46ad0-cd32-4dab-89fc-c3c91a158e07'}, {'domain': '.hiaimtraders.de', 'expiry': 1645703553, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.hiaimtraders.de', 'expiry': 1645703553, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: omnisendSessionID
+[After] Cookie-Name 2: omnisendAnonymousID
+[After] Cookie-Name 3: _shopify_sa_t
+[After] Cookie-Name 4: _s
+[After] Cookie-Name 5: _shopify_sa_p
+[After] Cookie-Name 6: cart_sig
+[After] Cookie-Name 7: _shopify_y
+[After] Cookie-Name 8: soundestID
+[After] Cookie-Name 9: _shopify_s
+[After] Cookie-Name 10: secure_customer_sig
+[After] Cookie-Name 11: _y
+[After] Cookie-Name 12: _landing_page
+[After] Cookie-Name 13: _orig_referrer
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is NOT GDPR compliant!

@@ -1,0 +1,97 @@
+Website 362: http://www.jockey.de/ | Created: 09.02.2022 21:27:26 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 31
+[Before] Website-Cookies: [{'domain': '.jockey.eu', 'expiry': 1678566435, 'httpOnly': False, 'name': 'cjConsent', 'path': '/', 'secure': True, 'value': 'MHxZfDB8Tnww'}, {'domain': '.jockey.eu', 'httpOnly': False, 'name': 'omnisendCartProducts', 'path': '/', 'secure': False, 'value': '[]'}, {'domain': '.jockey.eu', 'httpOnly': False, 'name': 'soundest-views', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.jockey.eu', 'expiry': 1675974435, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'plHUAy53Xbu0M6-20220209202715'}, {'domain': '.jockey.eu', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220209202715-LSVbttTgkZuqOLKZF4gURdsXLhrdFl7kbdUEzP5ErzjDoI2DI'}, {'domain': 'jockey.eu', 'expiry': 1645648035, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.jockey.eu', 'expiry': 1644438494, 'httpOnly': False, 'name': '_gat_gtag_UA_118381817_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'jockey.eu', 'expiry': 1645648034, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644438434'}, {'domain': 'jockey.eu', 'httpOnly': False, 'name': '_shopify_country', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'Germany'}, {'domain': '.jockey.eu', 'expiry': 1644440234, 'httpOnly': False, 'name': 'BVBRANDSID', 'path': '/', 'secure': True, 'value': 'dfbaab44-548e-4dd7-afb0-9a234bfa46a7'}, {'domain': '.jockey.eu', 'expiry': 1675974434, 'httpOnly': False, 'name': 'BVBRANDID', 'path': '/', 'secure': True, 'value': 'c1fb7200-0862-4262-a336-a896c2dca942'}, {'domain': '.jockey.eu', 'expiry': 1644438493, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.jockey.eu', 'expiry': 1644524834, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.2102770951.1644438434'}, {'domain': '.jockey.eu', 'expiry': 1707510434, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.2082908928.1644438434'}, {'domain': '.jockey.eu', 'expiry': 1675974435, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9efd336b-e27b-41c5-9ff8-fbf6fb7d8855'}, {'domain': '.jockey.eu', 'expiry': 1675974434, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU1XVmpNamN3WXpBdE1HRm1ZUzAwTkdVMUxXRTNaVGd0T1dKak9UaGpaamswT0RaaA'}, {'domain': '.jockey.eu', 'expiry': 1644440233, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'jockey.eu', 'expiry': 1645648035, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cec53c475eaf4820107bf13e19113a62'}, {'domain': '.jockey.eu', 'expiry': 1675974435, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9efd336b-e27b-41c5-9ff8-fbf6fb7d8855'}, {'domain': '.jockey.eu', 'expiry': 1644440235, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'S4yCdyADjmvw0I-20220209202715'}, {'domain': '.jockey.eu', 'expiry': 1652214433, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.472938947.1644438434'}, {'domain': 'jockey.eu', 'expiry': 1675974435, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.jockey.eu', 'expiry': 1645648033, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'jockey.eu', 'expiry': 1645648034, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A2'}, {'domain': '.jockey.eu', 'expiry': 1645648033, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.jockey.eu', 'expiry': 1644440235, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '268c22ba-7f9c-48be-ad48-a86f1cbdc979'}, {'domain': '.jockey.eu', 'expiry': 1652214434, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644438434212.1331878329'}, {'domain': '.jockey.eu', 'expiry': 1644440233, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T20%3A27%3A13.679Z'}, {'domain': 'jockey.eu', 'expiry': 1645648034, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b97b4b7b1811d07450b96a3f22a4e3f8'}, {'domain': 'jockey.eu', 'expiry': 1645648035, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.jockey.eu', 'expiry': 1644440235, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '268c22ba-7f9c-48be-ad48-a86f1cbdc979'}]
+[Before] Cookie-Name 1: cjConsent
+[Before] Cookie-Name 2: omnisendCartProducts
+[Before] Cookie-Name 3: soundest-views
+[Before] Cookie-Name 4: omnisendAnonymousID
+[Before] Cookie-Name 5: soundestID
+[Before] Cookie-Name 6: localization
+[Before] Cookie-Name 7: _gat_gtag_UA_118381817_1
+[Before] Cookie-Name 8: cart_ts
+[Before] Cookie-Name 9: _shopify_country
+[Before] Cookie-Name 10: BVBRANDSID
+[Before] Cookie-Name 11: BVBRANDID
+[Before] Cookie-Name 12: _gat
+[Before] Cookie-Name 13: _gid
+[Before] Cookie-Name 14: _ga
+[Before] Cookie-Name 15: _shopify_y
+[Before] Cookie-Name 16: _pin_unauth
+[Before] Cookie-Name 17: _shopify_sa_p
+[Before] Cookie-Name 18: cart_sig
+[Before] Cookie-Name 19: _y
+[Before] Cookie-Name 20: omnisendSessionID
+[Before] Cookie-Name 21: _gcl_au
+[Before] Cookie-Name 22: secure_customer_sig
+[Before] Cookie-Name 23: _landing_page
+[Before] Cookie-Name 24: cart_ver
+[Before] Cookie-Name 25: _orig_referrer
+[Before] Cookie-Name 26: _s
+[Before] Cookie-Name 27: _fbp
+[Before] Cookie-Name 28: _shopify_sa_t
+[Before] Cookie-Name 29: cart
+[Before] Cookie-Name 30: cart_currency
+[Before] Cookie-Name 31: _shopify_s
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 32
+[After] Website-Cookies: [{'domain': '.jockey.eu', 'expiry': 1678566435, 'httpOnly': False, 'name': 'cjConsent', 'path': '/', 'secure': True, 'value': 'MHxZfDB8Tnww'}, {'domain': '.jockey.eu', 'httpOnly': False, 'name': 'omnisendCartProducts', 'path': '/', 'secure': False, 'value': '[]'}, {'domain': '.jockey.eu', 'httpOnly': False, 'name': 'soundest-views', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.jockey.eu', 'expiry': 1675974435, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'plHUAy53Xbu0M6-20220209202715'}, {'domain': '.jockey.eu', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220209202715-LSVbttTgkZuqOLKZF4gURdsXLhrdFl7kbdUEzP5ErzjDoI2DI'}, {'domain': 'jockey.eu', 'expiry': 1645648035, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.jockey.eu', 'expiry': 1644438494, 'httpOnly': False, 'name': '_gat_gtag_UA_118381817_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'jockey.eu', 'expiry': 1645648034, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644438434'}, {'domain': 'jockey.eu', 'httpOnly': False, 'name': '_shopify_country', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'Germany'}, {'domain': '.jockey.eu', 'expiry': 1644440234, 'httpOnly': False, 'name': 'BVBRANDSID', 'path': '/', 'secure': True, 'value': 'dfbaab44-548e-4dd7-afb0-9a234bfa46a7'}, {'domain': '.jockey.eu', 'expiry': 1675974434, 'httpOnly': False, 'name': 'BVBRANDID', 'path': '/', 'secure': True, 'value': 'c1fb7200-0862-4262-a336-a896c2dca942'}, {'domain': '.jockey.eu', 'expiry': 1644438493, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.jockey.eu', 'expiry': 1644524834, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.2102770951.1644438434'}, {'domain': '.jockey.eu', 'expiry': 1707510434, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.2082908928.1644438434'}, {'domain': '.jockey.eu', 'expiry': 1675974435, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9efd336b-e27b-41c5-9ff8-fbf6fb7d8855'}, {'domain': '.jockey.eu', 'expiry': 1675974434, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU1XVmpNamN3WXpBdE1HRm1ZUzAwTkdVMUxXRTNaVGd0T1dKak9UaGpaamswT0RaaA'}, {'domain': '.jockey.eu', 'expiry': 1644440233, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'jockey.eu', 'expiry': 1675974451, 'httpOnly': False, 'name': 'eg_cookieconsent_status', 'path': '/', 'secure': False, 'value': 'dismiss'}, {'domain': 'jockey.eu', 'expiry': 1645648035, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cec53c475eaf4820107bf13e19113a62'}, {'domain': '.jockey.eu', 'expiry': 1675974435, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9efd336b-e27b-41c5-9ff8-fbf6fb7d8855'}, {'domain': '.jockey.eu', 'expiry': 1644440235, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'S4yCdyADjmvw0I-20220209202715'}, {'domain': '.jockey.eu', 'expiry': 1652214433, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.472938947.1644438434'}, {'domain': 'jockey.eu', 'expiry': 1675974435, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.jockey.eu', 'expiry': 1645648033, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'jockey.eu', 'expiry': 1645648034, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A2'}, {'domain': '.jockey.eu', 'expiry': 1645648033, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.jockey.eu', 'expiry': 1644440235, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '268c22ba-7f9c-48be-ad48-a86f1cbdc979'}, {'domain': '.jockey.eu', 'expiry': 1652214451, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644438434212.1331878329'}, {'domain': '.jockey.eu', 'expiry': 1644440233, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T20%3A27%3A13.679Z'}, {'domain': 'jockey.eu', 'expiry': 1645648034, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b97b4b7b1811d07450b96a3f22a4e3f8'}, {'domain': 'jockey.eu', 'expiry': 1645648035, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.jockey.eu', 'expiry': 1644440235, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '268c22ba-7f9c-48be-ad48-a86f1cbdc979'}]
+[After] Cookie-Name 1: cjConsent
+[After] Cookie-Name 2: omnisendCartProducts
+[After] Cookie-Name 3: soundest-views
+[After] Cookie-Name 4: omnisendAnonymousID
+[After] Cookie-Name 5: soundestID
+[After] Cookie-Name 6: localization
+[After] Cookie-Name 7: _gat_gtag_UA_118381817_1
+[After] Cookie-Name 8: cart_ts
+[After] Cookie-Name 9: _shopify_country
+[After] Cookie-Name 10: BVBRANDSID
+[After] Cookie-Name 11: BVBRANDID
+[After] Cookie-Name 12: _gat
+[After] Cookie-Name 13: _gid
+[After] Cookie-Name 14: _ga
+[After] Cookie-Name 15: _shopify_y
+[After] Cookie-Name 16: _pin_unauth
+[After] Cookie-Name 17: _shopify_sa_p
+[After] Cookie-Name 18: eg_cookieconsent_status
+[After] Cookie-Name 19: cart_sig
+[After] Cookie-Name 20: _y
+[After] Cookie-Name 21: omnisendSessionID
+[After] Cookie-Name 22: _gcl_au
+[After] Cookie-Name 23: secure_customer_sig
+[After] Cookie-Name 24: _landing_page
+[After] Cookie-Name 25: cart_ver
+[After] Cookie-Name 26: _orig_referrer
+[After] Cookie-Name 27: _s
+[After] Cookie-Name 28: _fbp
+[After] Cookie-Name 29: _shopify_sa_t
+[After] Cookie-Name 30: cart
+[After] Cookie-Name 31: cart_currency
+[After] Cookie-Name 32: _shopify_s
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: eg_cookieconsent_status
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

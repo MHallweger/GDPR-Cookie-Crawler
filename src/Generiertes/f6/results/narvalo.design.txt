@@ -1,0 +1,88 @@
+Website 87: http://www.narvalo.design/ | Created: 10.02.2022 12:38:22 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 26
+[Before] Website-Cookies: [{'domain': '.narvalo.design', 'expiry': 1678189094, 'httpOnly': False, 'name': '__hstc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '100311425.bd2337f380a1ca464284471847402ee3.1644493094355.1644493094355.1644493094355.1'}, {'domain': 'narvalo.design', 'expiry': 1645702693, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644493093'}, {'domain': '.narvalo.design', 'expiry': 1678189094, 'httpOnly': False, 'name': 'hubspotutk', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bd2337f380a1ca464284471847402ee3'}, {'domain': 'narvalo.design', 'expiry': 1676029094, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'narvalo.design', 'expiry': 1645702693, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A2'}, {'domain': 'narvalo.design', 'expiry': 1645702693, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e7917b5eeecd2368367e30d0b9ee2406'}, {'domain': 'narvalo.design', 'expiry': 1645702693, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a71a114eba95c9f1e19e0e9cff643bcc'}, {'domain': '.narvalo.design', 'expiry': 1678657093, 'httpOnly': False, 'name': 'cto_bundle', 'path': '/', 'secure': False, 'value': '5cBpJ19aQXJUMkN0JTJCYlpDVXBsaHJGVjlFNHZLaFJhMVNSYXRzS1BEeGNYanBVOU9Wc0pFR0tTYjJ3dEo2MlNyR3JzYjRRWnR2UVBxT2d5YXhnWGNPZjdEOGlTM0d3Rlg4cjlaREhCYlhYdCUyRnVCMDJoUlhJakJCaEpMNHo2ZUJTNG9MdVEyeHg5S0lGdCUyRklPS05KQmRKUkpaSXclM0QlM0Q'}, {'domain': '.narvalo.design', 'expiry': 1644494893, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T11%3A38%3A13.216Z'}, {'domain': '.narvalo.design', 'expiry': 1644579493, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.2049534485.1644493093'}, {'domain': '.narvalo.design', 'expiry': 1644494894, 'httpOnly': False, 'name': '__hssc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '100311425.1.1644493094356'}, {'domain': 'narvalo.design', 'expiry': 1644496693, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'narvalo.design', 'expiry': 1645702694, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.narvalo.design', 'expiry': 1644494893, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.narvalo.design', 'expiry': 1644494894, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0f08d367-c461-4d65-b9b7-0fc1080f8135'}, {'domain': '.narvalo.design', 'expiry': 1652269094, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644493093588.680961654'}, {'domain': '.narvalo.design', 'expiry': 1676029094, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c1652675-1bc9-4dcf-8db8-2e6f29a99de7'}, {'domain': '.narvalo.design', 'expiry': 1676029094, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c1652675-1bc9-4dcf-8db8-2e6f29a99de7'}, {'domain': '.narvalo.design', 'expiry': 1644494894, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0f08d367-c461-4d65-b9b7-0fc1080f8135'}, {'domain': '.narvalo.design', 'expiry': 1644493153, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.narvalo.design', 'expiry': 1707565093, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.843952301.1644493093'}, {'domain': '.narvalo.design', 'expiry': 1652269093, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1171351619.1644493093'}, {'domain': '.narvalo.design', 'expiry': 1645702692, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.narvalo.design', 'expiry': 1645702692, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.narvalo.design', 'httpOnly': False, 'name': '__hssrc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'narvalo.design', 'expiry': 1645702694, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'IT'}]
+[Before] Cookie-Name 1: __hstc
+[Before] Cookie-Name 2: cart_ts
+[Before] Cookie-Name 3: hubspotutk
+[Before] Cookie-Name 4: secure_customer_sig
+[Before] Cookie-Name 5: cart_ver
+[Before] Cookie-Name 6: cart
+[Before] Cookie-Name 7: cart_sig
+[Before] Cookie-Name 8: cto_bundle
+[Before] Cookie-Name 9: _shopify_sa_t
+[Before] Cookie-Name 10: _gid
+[Before] Cookie-Name 11: __hssc
+[Before] Cookie-Name 12: shopify_pay_redirect
+[Before] Cookie-Name 13: cart_currency
+[Before] Cookie-Name 14: _shopify_sa_p
+[Before] Cookie-Name 15: _s
+[Before] Cookie-Name 16: _fbp
+[Before] Cookie-Name 17: _y
+[Before] Cookie-Name 18: _shopify_y
+[Before] Cookie-Name 19: _shopify_s
+[Before] Cookie-Name 20: _gat
+[Before] Cookie-Name 21: _ga
+[Before] Cookie-Name 22: _gcl_au
+[Before] Cookie-Name 23: _orig_referrer
+[Before] Cookie-Name 24: _landing_page
+[Before] Cookie-Name 25: __hssrc
+[Before] Cookie-Name 26: localization
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 26
+[After] Website-Cookies: [{'domain': '.narvalo.design', 'expiry': 1678189094, 'httpOnly': False, 'name': '__hstc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '100311425.bd2337f380a1ca464284471847402ee3.1644493094355.1644493094355.1644493094355.1'}, {'domain': 'narvalo.design', 'expiry': 1645702693, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644493093'}, {'domain': '.narvalo.design', 'expiry': 1678189094, 'httpOnly': False, 'name': 'hubspotutk', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bd2337f380a1ca464284471847402ee3'}, {'domain': 'narvalo.design', 'expiry': 1676029094, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'narvalo.design', 'expiry': 1645702693, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A2'}, {'domain': 'narvalo.design', 'expiry': 1645702693, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e7917b5eeecd2368367e30d0b9ee2406'}, {'domain': 'narvalo.design', 'expiry': 1645702693, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a71a114eba95c9f1e19e0e9cff643bcc'}, {'domain': '.narvalo.design', 'expiry': 1678657093, 'httpOnly': False, 'name': 'cto_bundle', 'path': '/', 'secure': False, 'value': '5cBpJ19aQXJUMkN0JTJCYlpDVXBsaHJGVjlFNHZLaFJhMVNSYXRzS1BEeGNYanBVOU9Wc0pFR0tTYjJ3dEo2MlNyR3JzYjRRWnR2UVBxT2d5YXhnWGNPZjdEOGlTM0d3Rlg4cjlaREhCYlhYdCUyRnVCMDJoUlhJakJCaEpMNHo2ZUJTNG9MdVEyeHg5S0lGdCUyRklPS05KQmRKUkpaSXclM0QlM0Q'}, {'domain': '.narvalo.design', 'expiry': 1644494893, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T11%3A38%3A13.216Z'}, {'domain': '.narvalo.design', 'expiry': 1644579493, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.2049534485.1644493093'}, {'domain': '.narvalo.design', 'expiry': 1644494894, 'httpOnly': False, 'name': '__hssc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '100311425.1.1644493094356'}, {'domain': 'narvalo.design', 'expiry': 1644496693, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'narvalo.design', 'expiry': 1645702694, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.narvalo.design', 'expiry': 1644494893, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.narvalo.design', 'expiry': 1644494894, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0f08d367-c461-4d65-b9b7-0fc1080f8135'}, {'domain': '.narvalo.design', 'expiry': 1652269094, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644493093588.680961654'}, {'domain': '.narvalo.design', 'expiry': 1676029094, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c1652675-1bc9-4dcf-8db8-2e6f29a99de7'}, {'domain': '.narvalo.design', 'expiry': 1676029094, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c1652675-1bc9-4dcf-8db8-2e6f29a99de7'}, {'domain': '.narvalo.design', 'expiry': 1644494894, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0f08d367-c461-4d65-b9b7-0fc1080f8135'}, {'domain': '.narvalo.design', 'expiry': 1644493153, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.narvalo.design', 'expiry': 1707565093, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.843952301.1644493093'}, {'domain': '.narvalo.design', 'expiry': 1652269093, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1171351619.1644493093'}, {'domain': '.narvalo.design', 'expiry': 1645702692, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.narvalo.design', 'expiry': 1645702692, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.narvalo.design', 'httpOnly': False, 'name': '__hssrc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'narvalo.design', 'expiry': 1645702694, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'IT'}]
+[After] Cookie-Name 1: __hstc
+[After] Cookie-Name 2: cart_ts
+[After] Cookie-Name 3: hubspotutk
+[After] Cookie-Name 4: secure_customer_sig
+[After] Cookie-Name 5: cart_ver
+[After] Cookie-Name 6: cart
+[After] Cookie-Name 7: cart_sig
+[After] Cookie-Name 8: cto_bundle
+[After] Cookie-Name 9: _shopify_sa_t
+[After] Cookie-Name 10: _gid
+[After] Cookie-Name 11: __hssc
+[After] Cookie-Name 12: shopify_pay_redirect
+[After] Cookie-Name 13: cart_currency
+[After] Cookie-Name 14: _shopify_sa_p
+[After] Cookie-Name 15: _s
+[After] Cookie-Name 16: _fbp
+[After] Cookie-Name 17: _y
+[After] Cookie-Name 18: _shopify_y
+[After] Cookie-Name 19: _shopify_s
+[After] Cookie-Name 20: _gat
+[After] Cookie-Name 21: _ga
+[After] Cookie-Name 22: _gcl_au
+[After] Cookie-Name 23: _orig_referrer
+[After] Cookie-Name 24: _landing_page
+[After] Cookie-Name 25: __hssrc
+[After] Cookie-Name 26: localization
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: hubspotutk (HubSpot (CRM-System))
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: __hssc (HubSpot (CRM-System))
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

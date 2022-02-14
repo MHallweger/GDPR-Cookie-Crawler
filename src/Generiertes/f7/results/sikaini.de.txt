@@ -1,0 +1,67 @@
+Website 158: http://www.sikaini.de/ | Created: 10.02.2022 18:07:12 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 17
+[Before] Website-Cookies: [{'domain': 'www.sikaini.de', 'expiry': 1644516423, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.sikaini.de', 'expiry': 1644512883, 'httpOnly': False, 'name': '_gat_gtag_UA_146871607_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.sikaini.de', 'expiry': 1707584823, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1929757734.1644512823'}, {'domain': '.sikaini.de', 'expiry': 1644514623, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.sikaini.de', 'expiry': 1652288822, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.10310163.1644512823'}, {'domain': '.sikaini.de', 'expiry': 1644514623, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A07%3A03.162Z'}, {'domain': 'www.sikaini.de', 'expiry': 1645722424, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.sikaini.de', 'expiry': 1644514624, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c6e8cca9-cb10-4eb8-bd9a-e8ffb9118363'}, {'domain': '.sikaini.de', 'expiry': 1676048824, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '873ec7a0-e3b7-4e70-b688-b065994896b1'}, {'domain': '.sikaini.de', 'expiry': 1644514624, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c6e8cca9-cb10-4eb8-bd9a-e8ffb9118363'}, {'domain': '.sikaini.de', 'expiry': 1644512883, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.sikaini.de', 'expiry': 1676048824, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '873ec7a0-e3b7-4e70-b688-b065994896b1'}, {'domain': 'www.sikaini.de', 'expiry': 1676048824, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.sikaini.de', 'expiry': 1645722422, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.sikaini.de', 'expiry': 1644599223, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.224705463.1644512823'}, {'domain': '.sikaini.de', 'expiry': 1645722422, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.sikaini.de', 'expiry': 1645722424, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}]
+[Before] Cookie-Name 1: shopify_pay_redirect
+[Before] Cookie-Name 2: _gat_gtag_UA_146871607_1
+[Before] Cookie-Name 3: _ga
+[Before] Cookie-Name 4: _shopify_sa_p
+[Before] Cookie-Name 5: _gcl_au
+[Before] Cookie-Name 6: _shopify_sa_t
+[Before] Cookie-Name 7: localization
+[Before] Cookie-Name 8: _shopify_s
+[Before] Cookie-Name 9: _shopify_y
+[Before] Cookie-Name 10: _s
+[Before] Cookie-Name 11: _gat
+[Before] Cookie-Name 12: _y
+[Before] Cookie-Name 13: secure_customer_sig
+[Before] Cookie-Name 14: _landing_page
+[Before] Cookie-Name 15: _gid
+[Before] Cookie-Name 16: _orig_referrer
+[Before] Cookie-Name 17: cart_currency
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 17
+[After] Website-Cookies: [{'domain': 'www.sikaini.de', 'expiry': 1644516423, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.sikaini.de', 'expiry': 1644512883, 'httpOnly': False, 'name': '_gat_gtag_UA_146871607_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.sikaini.de', 'expiry': 1707584823, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1929757734.1644512823'}, {'domain': '.sikaini.de', 'expiry': 1644514623, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.sikaini.de', 'expiry': 1652288822, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.10310163.1644512823'}, {'domain': '.sikaini.de', 'expiry': 1644514623, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A07%3A03.162Z'}, {'domain': 'www.sikaini.de', 'expiry': 1645722424, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.sikaini.de', 'expiry': 1644514624, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c6e8cca9-cb10-4eb8-bd9a-e8ffb9118363'}, {'domain': '.sikaini.de', 'expiry': 1676048824, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '873ec7a0-e3b7-4e70-b688-b065994896b1'}, {'domain': '.sikaini.de', 'expiry': 1644514624, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c6e8cca9-cb10-4eb8-bd9a-e8ffb9118363'}, {'domain': '.sikaini.de', 'expiry': 1644512883, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.sikaini.de', 'expiry': 1676048824, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '873ec7a0-e3b7-4e70-b688-b065994896b1'}, {'domain': 'www.sikaini.de', 'expiry': 1676048824, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.sikaini.de', 'expiry': 1645722422, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.sikaini.de', 'expiry': 1644599223, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.224705463.1644512823'}, {'domain': '.sikaini.de', 'expiry': 1645722422, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.sikaini.de', 'expiry': 1645722424, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}]
+[After] Cookie-Name 1: shopify_pay_redirect
+[After] Cookie-Name 2: _gat_gtag_UA_146871607_1
+[After] Cookie-Name 3: _ga
+[After] Cookie-Name 4: _shopify_sa_p
+[After] Cookie-Name 5: _gcl_au
+[After] Cookie-Name 6: _shopify_sa_t
+[After] Cookie-Name 7: localization
+[After] Cookie-Name 8: _shopify_s
+[After] Cookie-Name 9: _shopify_y
+[After] Cookie-Name 10: _s
+[After] Cookie-Name 11: _gat
+[After] Cookie-Name 12: _y
+[After] Cookie-Name 13: secure_customer_sig
+[After] Cookie-Name 14: _landing_page
+[After] Cookie-Name 15: _gid
+[After] Cookie-Name 16: _orig_referrer
+[After] Cookie-Name 17: cart_currency
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

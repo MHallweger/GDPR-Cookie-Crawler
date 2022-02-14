@@ -1,0 +1,93 @@
+Website 66: http://www.vetevo.de/ | Created: 08.02.2022 21:59:35 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: True
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 28
+[Before] Website-Cookies: [{'domain': 'vetevo.de', 'expiry': 1645563575, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.vetevo.de', 'expiry': 1644354025, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.vetevo.de', 'expiry': 1644355765, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T20%3A59%3A25.933Z'}, {'domain': 'vetevo.de', 'expiry': 1645563575, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.vetevo.de', 'expiry': 1644440365, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': 'pa1xua|1644353965736|1|1|a.clarity.ms/collect'}, {'domain': '.vetevo.de', 'expiry': 1675889965, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': '1902v76|1|eyt|0'}, {'domain': '.vetevo.de', 'expiry': 1678517964, 'httpOnly': False, 'name': 'cto_bundle', 'path': '/', 'secure': False, 'value': 'VF4jAl9tJTJCVUdqaVdWblpyTWZURVdiT0UwUlZQdU4lMkJqbm9WbGFtaDdJY0lHd0dQOGZyd1lCMXBFRG54JTJCVlY0YUVjcVVERXNCbjBYSGVxZHFFc3FmcTFKU244TiUyQk41eXd1N3pyNm5aOXJOcXQwNW5sbWl5YUFBZWRhTUF1bSUyRjFCeUxUZUJmJTJCMzBSWEJVZlVCVFRUamNnWXhRWHclM0QlM0Q'}, {'domain': 'vetevo.de', 'expiry': 1644357564, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.vetevo.de', 'expiry': 1652129966, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644353964760.1917161154'}, {'domain': 'vetevo.de', 'expiry': 1644354265, 'httpOnly': False, 'name': 'outbrain_cid_fetch', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': '.vetevo.de', 'expiry': 1678049964, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': 'fef62400892111eca2492f454adc1334'}, {'domain': '.vetevo.de', 'expiry': 1675889964, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVptUTJZekkwTlRFdFpEZ3dOaTAwWkRrd0xXSTVObVl0TTJNMFptSTJPRGRtTkRCbQ'}, {'domain': '.vetevo.de', 'expiry': 1645563564, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.vetevo.de', 'expiry': 1644354024, 'httpOnly': False, 'name': '_dc_gtm_UA-57013647-9', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'vetevo.de', 'expiry': 1644355764, 'httpOnly': False, 'name': '_shopify_country', 'path': '/', 'secure': False, 'value': 'Germany'}, {'domain': '.vetevo.de', 'expiry': 1652129964, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1484088581.1644353964'}, {'domain': 'vetevo.de', 'expiry': 1675889975, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.vetevo.de', 'expiry': 1644440364, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': 'fef61f70892111ecb01f9ff1349803c5'}, {'domain': '.vetevo.de', 'expiry': 1644440364, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.364475841.1644353964'}, {'domain': '.vetevo.de', 'expiry': 1707425964, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.1.320465385.1644353964'}, {'domain': '.vetevo.de', 'expiry': 1707425964, 'httpOnly': False, 'name': '_ga_3H0YG2N2TN', 'path': '/', 'secure': False, 'value': 'GS1.1.1644353964.1.0.1644353964.0'}, {'domain': '.vetevo.de', 'expiry': 1675889966, 'httpOnly': False, 'name': '_fw_crm_v', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0f1e5250-2831-4c51-f4c7-ca567890ff64'}, {'domain': '.vetevo.de', 'expiry': 1644355765, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.vetevo.de', 'expiry': 1645563564, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.vetevo.de', 'expiry': 1644355775, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8bd91940-a576-4c3a-b7fe-fb5b5481d319'}, {'domain': '.vetevo.de', 'expiry': 1644355775, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8bd91940-a576-4c3a-b7fe-fb5b5481d319'}, {'domain': '.vetevo.de', 'expiry': 1675889975, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a326be3c-f889-4291-9a51-3aee3508afa8'}, {'domain': '.vetevo.de', 'expiry': 1675889975, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a326be3c-f889-4291-9a51-3aee3508afa8'}]
+[Before] Cookie-Name 1: localization
+[Before] Cookie-Name 2: _gat
+[Before] Cookie-Name 3: _shopify_sa_t
+[Before] Cookie-Name 4: cart_currency
+[Before] Cookie-Name 5: _clsk
+[Before] Cookie-Name 6: _clck
+[Before] Cookie-Name 7: cto_bundle
+[Before] Cookie-Name 8: shopify_pay_redirect
+[Before] Cookie-Name 9: _fbp
+[Before] Cookie-Name 10: outbrain_cid_fetch
+[Before] Cookie-Name 11: _uetvid
+[Before] Cookie-Name 12: _pin_unauth
+[Before] Cookie-Name 13: _landing_page
+[Before] Cookie-Name 14: _dc_gtm_UA-57013647-9
+[Before] Cookie-Name 15: _shopify_country
+[Before] Cookie-Name 16: _gcl_au
+[Before] Cookie-Name 17: secure_customer_sig
+[Before] Cookie-Name 18: _uetsid
+[Before] Cookie-Name 19: _gid
+[Before] Cookie-Name 20: _ga
+[Before] Cookie-Name 21: _ga_3H0YG2N2TN
+[Before] Cookie-Name 22: _fw_crm_v
+[Before] Cookie-Name 23: _shopify_sa_p
+[Before] Cookie-Name 24: _orig_referrer
+[Before] Cookie-Name 25: _s
+[Before] Cookie-Name 26: _shopify_s
+[Before] Cookie-Name 27: _shopify_y
+[Before] Cookie-Name 28: _y
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 28
+[After] Website-Cookies: [{'domain': 'vetevo.de', 'expiry': 1645563575, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.vetevo.de', 'expiry': 1644354025, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.vetevo.de', 'expiry': 1644355765, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T20%3A59%3A25.933Z'}, {'domain': 'vetevo.de', 'expiry': 1645563575, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.vetevo.de', 'expiry': 1644440365, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': 'pa1xua|1644353965736|1|1|a.clarity.ms/collect'}, {'domain': '.vetevo.de', 'expiry': 1675889965, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': '1902v76|1|eyt|0'}, {'domain': '.vetevo.de', 'expiry': 1678517964, 'httpOnly': False, 'name': 'cto_bundle', 'path': '/', 'secure': False, 'value': 'VF4jAl9tJTJCVUdqaVdWblpyTWZURVdiT0UwUlZQdU4lMkJqbm9WbGFtaDdJY0lHd0dQOGZyd1lCMXBFRG54JTJCVlY0YUVjcVVERXNCbjBYSGVxZHFFc3FmcTFKU244TiUyQk41eXd1N3pyNm5aOXJOcXQwNW5sbWl5YUFBZWRhTUF1bSUyRjFCeUxUZUJmJTJCMzBSWEJVZlVCVFRUamNnWXhRWHclM0QlM0Q'}, {'domain': 'vetevo.de', 'expiry': 1644357564, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.vetevo.de', 'expiry': 1652129966, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644353964760.1917161154'}, {'domain': 'vetevo.de', 'expiry': 1644354265, 'httpOnly': False, 'name': 'outbrain_cid_fetch', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': '.vetevo.de', 'expiry': 1678049964, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': 'fef62400892111eca2492f454adc1334'}, {'domain': '.vetevo.de', 'expiry': 1675889964, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVptUTJZekkwTlRFdFpEZ3dOaTAwWkRrd0xXSTVObVl0TTJNMFptSTJPRGRtTkRCbQ'}, {'domain': '.vetevo.de', 'expiry': 1645563564, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.vetevo.de', 'expiry': 1644354024, 'httpOnly': False, 'name': '_dc_gtm_UA-57013647-9', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'vetevo.de', 'expiry': 1644355764, 'httpOnly': False, 'name': '_shopify_country', 'path': '/', 'secure': False, 'value': 'Germany'}, {'domain': '.vetevo.de', 'expiry': 1652129964, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1484088581.1644353964'}, {'domain': 'vetevo.de', 'expiry': 1675889975, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.vetevo.de', 'expiry': 1644440364, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': 'fef61f70892111ecb01f9ff1349803c5'}, {'domain': '.vetevo.de', 'expiry': 1644440364, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.364475841.1644353964'}, {'domain': '.vetevo.de', 'expiry': 1707425964, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.1.320465385.1644353964'}, {'domain': '.vetevo.de', 'expiry': 1707425964, 'httpOnly': False, 'name': '_ga_3H0YG2N2TN', 'path': '/', 'secure': False, 'value': 'GS1.1.1644353964.1.0.1644353964.0'}, {'domain': '.vetevo.de', 'expiry': 1675889966, 'httpOnly': False, 'name': '_fw_crm_v', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0f1e5250-2831-4c51-f4c7-ca567890ff64'}, {'domain': '.vetevo.de', 'expiry': 1644355765, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.vetevo.de', 'expiry': 1645563564, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.vetevo.de', 'expiry': 1644355775, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8bd91940-a576-4c3a-b7fe-fb5b5481d319'}, {'domain': '.vetevo.de', 'expiry': 1644355775, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8bd91940-a576-4c3a-b7fe-fb5b5481d319'}, {'domain': '.vetevo.de', 'expiry': 1675889975, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a326be3c-f889-4291-9a51-3aee3508afa8'}, {'domain': '.vetevo.de', 'expiry': 1675889975, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a326be3c-f889-4291-9a51-3aee3508afa8'}]
+[After] Cookie-Name 1: localization
+[After] Cookie-Name 2: _gat
+[After] Cookie-Name 3: _shopify_sa_t
+[After] Cookie-Name 4: cart_currency
+[After] Cookie-Name 5: _clsk
+[After] Cookie-Name 6: _clck
+[After] Cookie-Name 7: cto_bundle
+[After] Cookie-Name 8: shopify_pay_redirect
+[After] Cookie-Name 9: _fbp
+[After] Cookie-Name 10: outbrain_cid_fetch
+[After] Cookie-Name 11: _uetvid
+[After] Cookie-Name 12: _pin_unauth
+[After] Cookie-Name 13: _landing_page
+[After] Cookie-Name 14: _dc_gtm_UA-57013647-9
+[After] Cookie-Name 15: _shopify_country
+[After] Cookie-Name 16: _gcl_au
+[After] Cookie-Name 17: secure_customer_sig
+[After] Cookie-Name 18: _uetsid
+[After] Cookie-Name 19: _gid
+[After] Cookie-Name 20: _ga
+[After] Cookie-Name 21: _ga_3H0YG2N2TN
+[After] Cookie-Name 22: _fw_crm_v
+[After] Cookie-Name 23: _shopify_sa_p
+[After] Cookie-Name 24: _orig_referrer
+[After] Cookie-Name 25: _s
+[After] Cookie-Name 26: _shopify_s
+[After] Cookie-Name 27: _shopify_y
+[After] Cookie-Name 28: _y
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _clsk (Microsoft Clarity (User experience tool))
+[Used before] Cookie-Name: _clck (Microsoft Clarity (User experience tool))
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

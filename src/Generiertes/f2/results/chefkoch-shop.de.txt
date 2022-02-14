@@ -1,0 +1,50 @@
+Website 123: http://www.chefkoch-shop.de/ | Created: 09.02.2022 11:23:27 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: False
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: False
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 12
+[Before] Website-Cookies: [{'domain': 'www.chefkoch-shop.de', 'expiry': 1645611800, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': '.chefkoch-shop.de', 'expiry': 1644404000, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e6728441-9adb-4602-8a89-3414538b40a7'}, {'domain': '.chefkoch-shop.de', 'expiry': 1675938200, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5a20684c-2519-49bc-b080-f1194e1bdf59'}, {'domain': '.chefkoch-shop.de', 'expiry': 1644404000, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e6728441-9adb-4602-8a89-3414538b40a7'}, {'domain': 'www.chefkoch-shop.de', 'expiry': 1645611800, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644402200'}, {'domain': '.chefkoch-shop.de', 'expiry': 1675938200, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5a20684c-2519-49bc-b080-f1194e1bdf59'}, {'domain': '.chefkoch-shop.de', 'expiry': 1645611800, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2Fpassword'}, {'domain': '.chefkoch-shop.de', 'expiry': 1645611800, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.chefkoch-shop.de', 'expiry': 1645611800, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': 'www.chefkoch-shop.de', 'expiry': 1645611800, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': 'www.chefkoch-shop.de', 'expiry': 1645611800, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '45d491e61b0579a1139f044cae57b4ca'}, {'domain': 'www.chefkoch-shop.de', 'expiry': 1675938200, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: cart_ver
+[Before] Cookie-Name 2: _shopify_s
+[Before] Cookie-Name 3: _shopify_y
+[Before] Cookie-Name 4: _s
+[Before] Cookie-Name 5: cart_ts
+[Before] Cookie-Name 6: _y
+[Before] Cookie-Name 7: _landing_page
+[Before] Cookie-Name 8: _orig_referrer
+[Before] Cookie-Name 9: cart_currency
+[Before] Cookie-Name 10: localization
+[Before] Cookie-Name 11: cart
+[Before] Cookie-Name 12: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 12
+[After] Website-Cookies: [{'domain': 'www.chefkoch-shop.de', 'expiry': 1645611800, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': '.chefkoch-shop.de', 'expiry': 1644404000, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e6728441-9adb-4602-8a89-3414538b40a7'}, {'domain': '.chefkoch-shop.de', 'expiry': 1675938200, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5a20684c-2519-49bc-b080-f1194e1bdf59'}, {'domain': '.chefkoch-shop.de', 'expiry': 1644404000, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e6728441-9adb-4602-8a89-3414538b40a7'}, {'domain': 'www.chefkoch-shop.de', 'expiry': 1645611800, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644402200'}, {'domain': '.chefkoch-shop.de', 'expiry': 1675938200, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5a20684c-2519-49bc-b080-f1194e1bdf59'}, {'domain': '.chefkoch-shop.de', 'expiry': 1645611800, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2Fpassword'}, {'domain': '.chefkoch-shop.de', 'expiry': 1645611800, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.chefkoch-shop.de', 'expiry': 1645611800, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': 'www.chefkoch-shop.de', 'expiry': 1645611800, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': 'www.chefkoch-shop.de', 'expiry': 1645611800, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '45d491e61b0579a1139f044cae57b4ca'}, {'domain': 'www.chefkoch-shop.de', 'expiry': 1675938200, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: cart_ver
+[After] Cookie-Name 2: _shopify_s
+[After] Cookie-Name 3: _shopify_y
+[After] Cookie-Name 4: _s
+[After] Cookie-Name 5: cart_ts
+[After] Cookie-Name 6: _y
+[After] Cookie-Name 7: _landing_page
+[After] Cookie-Name 8: _orig_referrer
+[After] Cookie-Name 9: cart_currency
+[After] Cookie-Name 10: localization
+[After] Cookie-Name 11: cart
+[After] Cookie-Name 12: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is NOT GDPR compliant!

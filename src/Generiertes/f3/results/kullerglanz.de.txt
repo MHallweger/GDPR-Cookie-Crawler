@@ -1,0 +1,71 @@
+Website 285: http://www.kullerglanz.de/ | Created: 09.02.2022 15:07:48 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 19
+[Before] Website-Cookies: [{'domain': 'www.kullerglanz.de', 'expiry': 1645625260, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644415660'}, {'domain': 'www.kullerglanz.de', 'expiry': 1645625260, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '34859d3830fa9138f2db4d8c888cd249'}, {'domain': 'www.kullerglanz.de', 'expiry': 1645625260, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': '.kullerglanz.de', 'expiry': 1652191660, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644415659752.868100558'}, {'domain': '.kullerglanz.de', 'expiry': 1644417459, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kullerglanz.de', 'expiry': 1644417459, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T14%3A07%3A39.491Z'}, {'domain': '.kullerglanz.de', 'expiry': 1707487659, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1541480266.1644415659'}, {'domain': '.kullerglanz.de', 'expiry': 1644417460, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '65afcf99-c10b-4e8d-aab9-c19b62c0767b'}, {'domain': '.kullerglanz.de', 'expiry': 1675951660, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c833988f-8021-497c-a9f4-98905ea07125'}, {'domain': '.kullerglanz.de', 'expiry': 1644502059, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.2109246709.1644415659'}, {'domain': '.kullerglanz.de', 'expiry': 1675951660, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c833988f-8021-497c-a9f4-98905ea07125'}, {'domain': '.kullerglanz.de', 'expiry': 1645625259, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.kullerglanz.de', 'expiry': 1644417460, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '65afcf99-c10b-4e8d-aab9-c19b62c0767b'}, {'domain': 'www.kullerglanz.de', 'expiry': 1645625260, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3bb7af87700686d210b426c0cbdb997b'}, {'domain': '.kullerglanz.de', 'expiry': 1644415719, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.kullerglanz.de', 'expiry': 1645625260, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.kullerglanz.de', 'expiry': 1645625260, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.kullerglanz.de', 'expiry': 1645625259, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.kullerglanz.de', 'expiry': 1675951660, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: cart_ts
+[Before] Cookie-Name 2: cart
+[Before] Cookie-Name 3: cart_ver
+[Before] Cookie-Name 4: _fbp
+[Before] Cookie-Name 5: _shopify_sa_p
+[Before] Cookie-Name 6: _shopify_sa_t
+[Before] Cookie-Name 7: _ga
+[Before] Cookie-Name 8: _shopify_s
+[Before] Cookie-Name 9: _shopify_y
+[Before] Cookie-Name 10: _gid
+[Before] Cookie-Name 11: _y
+[Before] Cookie-Name 12: _landing_page
+[Before] Cookie-Name 13: _s
+[Before] Cookie-Name 14: cart_sig
+[Before] Cookie-Name 15: _gat
+[Before] Cookie-Name 16: cart_currency
+[Before] Cookie-Name 17: localization
+[Before] Cookie-Name 18: _orig_referrer
+[Before] Cookie-Name 19: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 20
+[After] Website-Cookies: [{'domain': 'www.kullerglanz.de', 'expiry': 1675951674, 'httpOnly': False, 'name': 'cookieconsent_status', 'path': '/', 'secure': False, 'value': 'dismiss'}, {'domain': 'www.kullerglanz.de', 'expiry': 1645625260, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644415660'}, {'domain': 'www.kullerglanz.de', 'expiry': 1645625260, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '34859d3830fa9138f2db4d8c888cd249'}, {'domain': 'www.kullerglanz.de', 'expiry': 1645625260, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': '.kullerglanz.de', 'expiry': 1652191674, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644415659752.868100558'}, {'domain': '.kullerglanz.de', 'expiry': 1644417459, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kullerglanz.de', 'expiry': 1644417459, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T14%3A07%3A39.491Z'}, {'domain': '.kullerglanz.de', 'expiry': 1707487659, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1541480266.1644415659'}, {'domain': '.kullerglanz.de', 'expiry': 1644417460, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '65afcf99-c10b-4e8d-aab9-c19b62c0767b'}, {'domain': '.kullerglanz.de', 'expiry': 1675951660, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c833988f-8021-497c-a9f4-98905ea07125'}, {'domain': '.kullerglanz.de', 'expiry': 1644502059, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.2109246709.1644415659'}, {'domain': '.kullerglanz.de', 'expiry': 1675951660, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c833988f-8021-497c-a9f4-98905ea07125'}, {'domain': '.kullerglanz.de', 'expiry': 1645625259, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.kullerglanz.de', 'expiry': 1644417460, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '65afcf99-c10b-4e8d-aab9-c19b62c0767b'}, {'domain': 'www.kullerglanz.de', 'expiry': 1645625260, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3bb7af87700686d210b426c0cbdb997b'}, {'domain': '.kullerglanz.de', 'expiry': 1644415719, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.kullerglanz.de', 'expiry': 1645625260, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.kullerglanz.de', 'expiry': 1645625260, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.kullerglanz.de', 'expiry': 1645625259, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.kullerglanz.de', 'expiry': 1675951660, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: cookieconsent_status
+[After] Cookie-Name 2: cart_ts
+[After] Cookie-Name 3: cart
+[After] Cookie-Name 4: cart_ver
+[After] Cookie-Name 5: _fbp
+[After] Cookie-Name 6: _shopify_sa_p
+[After] Cookie-Name 7: _shopify_sa_t
+[After] Cookie-Name 8: _ga
+[After] Cookie-Name 9: _shopify_s
+[After] Cookie-Name 10: _shopify_y
+[After] Cookie-Name 11: _gid
+[After] Cookie-Name 12: _y
+[After] Cookie-Name 13: _landing_page
+[After] Cookie-Name 14: _s
+[After] Cookie-Name 15: cart_sig
+[After] Cookie-Name 16: _gat
+[After] Cookie-Name 17: cart_currency
+[After] Cookie-Name 18: localization
+[After] Cookie-Name 19: _orig_referrer
+[After] Cookie-Name 20: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _gat (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: cookieconsent_status
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

@@ -1,0 +1,62 @@
+Website 352: http://www.kurono.de/ | Created: 09.02.2022 12:32:55 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 16
+[Before] Website-Cookies: [{'domain': 'www.kurono.de', 'expiry': 1645615967, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644406367'}, {'domain': 'www.kurono.de', 'expiry': 1645615967, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bfe44d52db96aad94b5467a70c7ae9ce'}, {'domain': 'www.kurono.de', 'expiry': 1644409966, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'www.kurono.de', 'expiry': 1645615967, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '26825a08d2e919743ca43fdfbd99b942'}, {'domain': '.kurono.de', 'expiry': 1675942367, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4400227e-485c-43d4-9189-12781bdc1bff'}, {'domain': '.kurono.de', 'expiry': 1644408166, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kurono.de', 'expiry': 1675942367, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4400227e-485c-43d4-9189-12781bdc1bff'}, {'domain': 'www.kurono.de', 'expiry': 1645615967, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': '.kurono.de', 'expiry': 1644408167, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6ce048ca-db0f-42a1-8a8f-6613ff2e8466'}, {'domain': '.kurono.de', 'expiry': 1645615965, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.kurono.de', 'expiry': 1645615967, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.kurono.de', 'expiry': 1644408167, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6ce048ca-db0f-42a1-8a8f-6613ff2e8466'}, {'domain': '.kurono.de', 'expiry': 1645615965, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.kurono.de', 'expiry': 1675942367, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'www.kurono.de', 'expiry': 1645615967, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.kurono.de', 'expiry': 1644408166, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T11%3A32%3A46.033Z'}]
+[Before] Cookie-Name 1: cart_ts
+[Before] Cookie-Name 2: cart
+[Before] Cookie-Name 3: shopify_pay_redirect
+[Before] Cookie-Name 4: cart_sig
+[Before] Cookie-Name 5: _shopify_y
+[Before] Cookie-Name 6: _shopify_sa_p
+[Before] Cookie-Name 7: _y
+[Before] Cookie-Name 8: cart_ver
+[Before] Cookie-Name 9: _s
+[Before] Cookie-Name 10: _orig_referrer
+[Before] Cookie-Name 11: cart_currency
+[Before] Cookie-Name 12: _shopify_s
+[Before] Cookie-Name 13: _landing_page
+[Before] Cookie-Name 14: secure_customer_sig
+[Before] Cookie-Name 15: localization
+[Before] Cookie-Name 16: _shopify_sa_t
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 16
+[After] Website-Cookies: [{'domain': 'www.kurono.de', 'expiry': 1645615967, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644406367'}, {'domain': 'www.kurono.de', 'expiry': 1645615967, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bfe44d52db96aad94b5467a70c7ae9ce'}, {'domain': 'www.kurono.de', 'expiry': 1644409966, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'www.kurono.de', 'expiry': 1645615967, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '26825a08d2e919743ca43fdfbd99b942'}, {'domain': '.kurono.de', 'expiry': 1675942367, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4400227e-485c-43d4-9189-12781bdc1bff'}, {'domain': '.kurono.de', 'expiry': 1644408166, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kurono.de', 'expiry': 1675942367, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4400227e-485c-43d4-9189-12781bdc1bff'}, {'domain': 'www.kurono.de', 'expiry': 1645615967, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': '.kurono.de', 'expiry': 1644408167, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6ce048ca-db0f-42a1-8a8f-6613ff2e8466'}, {'domain': '.kurono.de', 'expiry': 1645615965, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.kurono.de', 'expiry': 1645615967, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.kurono.de', 'expiry': 1644408167, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6ce048ca-db0f-42a1-8a8f-6613ff2e8466'}, {'domain': '.kurono.de', 'expiry': 1645615965, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.kurono.de', 'expiry': 1675942367, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'www.kurono.de', 'expiry': 1645615967, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.kurono.de', 'expiry': 1644408166, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T11%3A32%3A46.033Z'}]
+[After] Cookie-Name 1: cart_ts
+[After] Cookie-Name 2: cart
+[After] Cookie-Name 3: shopify_pay_redirect
+[After] Cookie-Name 4: cart_sig
+[After] Cookie-Name 5: _shopify_y
+[After] Cookie-Name 6: _shopify_sa_p
+[After] Cookie-Name 7: _y
+[After] Cookie-Name 8: cart_ver
+[After] Cookie-Name 9: _s
+[After] Cookie-Name 10: _orig_referrer
+[After] Cookie-Name 11: cart_currency
+[After] Cookie-Name 12: _shopify_s
+[After] Cookie-Name 13: _landing_page
+[After] Cookie-Name 14: secure_customer_sig
+[After] Cookie-Name 15: localization
+[After] Cookie-Name 16: _shopify_sa_t
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

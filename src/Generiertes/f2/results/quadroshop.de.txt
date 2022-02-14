@@ -1,0 +1,95 @@
+Website 211: http://www.quadroshop.de/ | Created: 09.02.2022 11:50:13 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 25
+[Before] Website-Cookies: [{'domain': '.quadroshop.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.quadroshop.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A50%3A02.775Z'}, {'domain': '.quadroshop.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fedcee37-f65a-4e00-a8ad-49d599e65032'}, {'domain': '.quadroshop.de', 'expiry': 1675939802, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.quadroshop.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ea318af0-7fa0-40d8-be4f-54c93f16f514'}, {'domain': 'quadroshop.de', 'expiry': 1644490204, 'httpOnly': False, 'name': '_picky.widget.discounts.isDiscountActive', 'path': '/', 'secure': False, 'value': 'null'}, {'domain': '.quadroshop.de', 'httpOnly': False, 'name': '__hssrc', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '1'}, {'domain': '.quadroshop.de', 'expiry': 1678099804, 'httpOnly': False, 'name': '__hstc', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '83160393.18ccec756d16fe9f5c09af007f1a2abb.1644403804238.1644403804238.1644403804238.1'}, {'domain': 'quadroshop.de', 'httpOnly': False, 'name': 'qab_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.quadroshop.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.quadroshop.de', 'expiry': 1644405604, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'quadroshop.de', 'httpOnly': False, 'name': '_picky.widget.discounts.sessionId', 'path': '/', 'secure': False, 'value': '0bf6b0c1-ac61-4fcd-821b-cf028a4a522d'}, {'domain': 'quadroshop.de', 'expiry': 1675939804, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': 'marketing%2Canalytics'}, {'domain': '.quadroshop.de', 'expiry': 1645613402, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.quadroshop.de', 'expiry': 1644405604, 'httpOnly': False, 'name': '__hssc', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '83160393.1.1644403804238'}, {'domain': '.quadroshop.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ea318af0-7fa0-40d8-be4f-54c93f16f514'}, {'domain': '.quadroshop.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fedcee37-f65a-4e00-a8ad-49d599e65032'}, {'domain': '.quadroshop.de', 'expiry': 1675939802, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%7D'}, {'domain': '.quadroshop.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'quadroshop.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.quadroshop.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'quadroshop.de', 'expiry': 1645613404, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.quadroshop.de', 'expiry': 1678099804, 'httpOnly': False, 'name': 'hubspotutk', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '18ccec756d16fe9f5c09af007f1a2abb'}, {'domain': 'quadroshop.de', 'expiry': 1645613404, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'quadroshop.de', 'expiry': 1675939804, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _shopify_sa_p
+[Before] Cookie-Name 2: _shopify_sa_t
+[Before] Cookie-Name 3: _shopify_s
+[Before] Cookie-Name 4: _shopify_m
+[Before] Cookie-Name 5: _y
+[Before] Cookie-Name 6: _picky.widget.discounts.isDiscountActive
+[Before] Cookie-Name 7: __hssrc
+[Before] Cookie-Name 8: __hstc
+[Before] Cookie-Name 9: qab_previous_pathname
+[Before] Cookie-Name 10: _shopify_evids
+[Before] Cookie-Name 11: _shopify_tm
+[Before] Cookie-Name 12: _picky.widget.discounts.sessionId
+[Before] Cookie-Name 13: cookieconsent_preferences_disabled
+[Before] Cookie-Name 14: _shopify_tw
+[Before] Cookie-Name 15: __hssc
+[Before] Cookie-Name 16: _shopify_y
+[Before] Cookie-Name 17: _s
+[Before] Cookie-Name 18: _tracking_consent
+[Before] Cookie-Name 19: _landing_page
+[Before] Cookie-Name 20: _shopify_evids
+[Before] Cookie-Name 21: _orig_referrer
+[Before] Cookie-Name 22: cart_currency
+[Before] Cookie-Name 23: hubspotutk
+[Before] Cookie-Name 24: localization
+[Before] Cookie-Name 25: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 33
+[After] Website-Cookies: [{'domain': '.quadroshop.de', 'expiry': 1652179819, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644403819252.1339542759'}, {'domain': '.quadroshop.de', 'expiry': 1675939819, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU9HWTFPRFJqWTJFdE5EQTRNQzAwWW1ZeExUZzJNV1V0TmpRNVl6azJNVEV4TWpCaA'}, {'domain': '.quadroshop.de', 'expiry': 1675939819, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22con%22%3A%7B%22GDPR%22%3A%221%22%7D%7D'}, {'domain': 'quadroshop.de', 'expiry': 1645613419, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644403818'}, {'domain': '.quadroshop.de', 'expiry': 1644405619, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.quadroshop.de', 'expiry': 1644405619, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A50%3A02.775Z'}, {'domain': '.quadroshop.de', 'expiry': 1644405619, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fedcee37-f65a-4e00-a8ad-49d599e65032'}, {'domain': '.quadroshop.de', 'expiry': 1644405604, 'httpOnly': False, 'name': '__hssc', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '83160393.1.1644403804238'}, {'domain': '.quadroshop.de', 'expiry': 1675939819, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ea318af0-7fa0-40d8-be4f-54c93f16f514'}, {'domain': '.quadroshop.de', 'expiry': 1644405619, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fedcee37-f65a-4e00-a8ad-49d599e65032'}, {'domain': '.quadroshop.de', 'expiry': 1675939819, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': 'quadroshop.de', 'expiry': 1645613419, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f23b59c4b4e419be3b995cd9244faec1'}, {'domain': '.quadroshop.de', 'expiry': 1675939819, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ea318af0-7fa0-40d8-be4f-54c93f16f514'}, {'domain': 'quadroshop.de', 'expiry': 1644490204, 'httpOnly': False, 'name': '_picky.widget.discounts.isDiscountActive', 'path': '/', 'secure': False, 'value': 'null'}, {'domain': '.quadroshop.de', 'httpOnly': False, 'name': '__hssrc', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '1'}, {'domain': '.quadroshop.de', 'expiry': 1678099804, 'httpOnly': False, 'name': '__hstc', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '83160393.18ccec756d16fe9f5c09af007f1a2abb.1644403804238.1644403804238.1644403804238.1'}, {'domain': 'quadroshop.de', 'expiry': 1675939818, 'httpOnly': False, 'name': 'cookieconsent_status', 'path': '/', 'secure': False, 'value': 'allow'}, {'domain': 'quadroshop.de', 'expiry': 1675939818, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': 'marketing%2Canalytics'}, {'domain': '.quadroshop.de', 'expiry': 1645613402, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'quadroshop.de', 'httpOnly': False, 'name': '_picky.widget.discounts.sessionId', 'path': '/', 'secure': False, 'value': '0bf6b0c1-ac61-4fcd-821b-cf028a4a522d'}, {'domain': '.quadroshop.de', 'expiry': 1644405619, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.quadroshop.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.quadroshop.de', 'expiry': 1645613419, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'quadroshop.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'quadroshop.de', 'expiry': 1645613419, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': '.quadroshop.de', 'expiry': 1645613419, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'quadroshop.de', 'expiry': 1645613419, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.quadroshop.de', 'expiry': 1644403879, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.quadroshop.de', 'expiry': 1678099804, 'httpOnly': False, 'name': 'hubspotutk', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '18ccec756d16fe9f5c09af007f1a2abb'}, {'domain': 'quadroshop.de', 'expiry': 1645613419, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'quadroshop.de', 'expiry': 1645613419, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '71e1f343d2c56596795337eccae4635a'}, {'domain': 'quadroshop.de', 'httpOnly': False, 'name': 'qab_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': 'quadroshop.de', 'expiry': 1675939819, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _fbp
+[After] Cookie-Name 2: _pin_unauth
+[After] Cookie-Name 3: _tracking_consent
+[After] Cookie-Name 4: cart_ts
+[After] Cookie-Name 5: _shopify_sa_p
+[After] Cookie-Name 6: _shopify_sa_t
+[After] Cookie-Name 7: _shopify_s
+[After] Cookie-Name 8: __hssc
+[After] Cookie-Name 9: _shopify_y
+[After] Cookie-Name 10: _s
+[After] Cookie-Name 11: _shopify_m
+[After] Cookie-Name 12: cart_sig
+[After] Cookie-Name 13: _y
+[After] Cookie-Name 14: _picky.widget.discounts.isDiscountActive
+[After] Cookie-Name 15: __hssrc
+[After] Cookie-Name 16: __hstc
+[After] Cookie-Name 17: cookieconsent_status
+[After] Cookie-Name 18: cookieconsent_preferences_disabled
+[After] Cookie-Name 19: _shopify_tw
+[After] Cookie-Name 20: _picky.widget.discounts.sessionId
+[After] Cookie-Name 21: _shopify_tm
+[After] Cookie-Name 22: _shopify_evids
+[After] Cookie-Name 23: _landing_page
+[After] Cookie-Name 24: _shopify_evids
+[After] Cookie-Name 25: cart_ver
+[After] Cookie-Name 26: _orig_referrer
+[After] Cookie-Name 27: cart_currency
+[After] Cookie-Name 28: _gat
+[After] Cookie-Name 29: hubspotutk
+[After] Cookie-Name 30: localization
+[After] Cookie-Name 31: cart
+[After] Cookie-Name 32: qab_previous_pathname
+[After] Cookie-Name 33: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: __hssc (HubSpot (CRM-System))
+[Used before] Cookie-Name: hubspotutk (HubSpot (CRM-System))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 8
+[Difference] Cookie-Name: 1: cart_ts
+[Difference] Cookie-Name: 2: cart_ver
+[Difference] Cookie-Name: 3: _fbp
+[Difference] Cookie-Name: 4: cookieconsent_status
+[Difference] Cookie-Name: 5: cart
+[Difference] Cookie-Name: 6: _pin_unauth
+[Difference] Cookie-Name: 7: _gat
+[Difference] Cookie-Name: 8: cart_sig
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

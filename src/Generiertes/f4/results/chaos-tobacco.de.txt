@@ -1,0 +1,64 @@
+Website 350: http://www.chaos-tobacco.de/ | Created: 09.02.2022 18:57:16 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 17
+[Before] Website-Cookies: [{'domain': 'www.chaos-tobacco.com', 'expiry': 1645639028, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cd206389d238e93874f2c12ed780dc46'}, {'domain': 'www.chaos-tobacco.com', 'expiry': 1675965428, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': ''}, {'domain': 'www.chaos-tobacco.com', 'expiry': 1802109428, 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'secure': True, 'value': 'bbcfc5d8-2ccb-4908-9de1-b01293a3eec1'}, {'domain': 'www.chaos-tobacco.com', 'expiry': 1644431228, 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'secure': True, 'value': '75d32040-2c0e-4e1a-b409-f06e8f417abb'}, {'domain': 'www.chaos-tobacco.com', 'expiry': 1649609826, 'httpOnly': False, 'name': '_fwnguid', 'path': '/', 'secure': False, 'value': 'b920483b-d8eb-42d6-b124-d78168a0fa6c'}, {'domain': '.chaos-tobacco.com', 'expiry': 1644431225, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.chaos-tobacco.com', 'expiry': 1644431228, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '85799779-33d5-4ff5-9e35-83249bdc04bc'}, {'domain': '.chaos-tobacco.com', 'expiry': 1644431228, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '85799779-33d5-4ff5-9e35-83249bdc04bc'}, {'domain': '.chaos-tobacco.com', 'expiry': 1652205425, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1632717983.1644429426'}, {'domain': '.chaos-tobacco.com', 'expiry': 1645639025, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.chaos-tobacco.com', 'expiry': 1644431225, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A57%3A05.855Z'}, {'domain': 'www.chaos-tobacco.com', 'expiry': 1644429729, 'httpOnly': False, 'name': 'trustedsite_tm_float_seen', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.chaos-tobacco.com', 'expiry': 1675965428, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.chaos-tobacco.com', 'expiry': 1675965428, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e02e6363-58ea-4a6f-b503-f933ba7f7e51'}, {'domain': '.chaos-tobacco.com', 'expiry': 1645639025, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.chaos-tobacco.com', 'expiry': 1644515829, 'httpOnly': False, 'name': 'trustedsite_visit', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.chaos-tobacco.com', 'expiry': 1675965428, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e02e6363-58ea-4a6f-b503-f933ba7f7e51'}]
+[Before] Cookie-Name 1: cart_sig
+[Before] Cookie-Name 2: cookieconsent_preferences_disabled
+[Before] Cookie-Name 3: _shg_user_id
+[Before] Cookie-Name 4: _shg_session_id
+[Before] Cookie-Name 5: _fwnguid
+[Before] Cookie-Name 6: _shopify_sa_p
+[Before] Cookie-Name 7: _s
+[Before] Cookie-Name 8: _shopify_s
+[Before] Cookie-Name 9: _gcl_au
+[Before] Cookie-Name 10: _landing_page
+[Before] Cookie-Name 11: _shopify_sa_t
+[Before] Cookie-Name 12: trustedsite_tm_float_seen
+[Before] Cookie-Name 13: secure_customer_sig
+[Before] Cookie-Name 14: _y
+[Before] Cookie-Name 15: _orig_referrer
+[Before] Cookie-Name 16: trustedsite_visit
+[Before] Cookie-Name 17: _shopify_y
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 18
+[After] Website-Cookies: [{'domain': 'www.chaos-tobacco.com', 'expiry': 1675965442, 'httpOnly': False, 'name': 'cookieconsent_status', 'path': '/', 'secure': False, 'value': 'allow'}, {'domain': 'www.chaos-tobacco.com', 'expiry': 1645639028, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cd206389d238e93874f2c12ed780dc46'}, {'domain': 'www.chaos-tobacco.com', 'expiry': 1675965442, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': ''}, {'domain': 'www.chaos-tobacco.com', 'expiry': 1802109428, 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'secure': True, 'value': 'bbcfc5d8-2ccb-4908-9de1-b01293a3eec1'}, {'domain': 'www.chaos-tobacco.com', 'expiry': 1644431228, 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'secure': True, 'value': '75d32040-2c0e-4e1a-b409-f06e8f417abb'}, {'domain': 'www.chaos-tobacco.com', 'expiry': 1649609826, 'httpOnly': False, 'name': '_fwnguid', 'path': '/', 'secure': False, 'value': 'b920483b-d8eb-42d6-b124-d78168a0fa6c'}, {'domain': '.chaos-tobacco.com', 'expiry': 1644431225, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.chaos-tobacco.com', 'expiry': 1644431228, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '85799779-33d5-4ff5-9e35-83249bdc04bc'}, {'domain': '.chaos-tobacco.com', 'expiry': 1644431228, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '85799779-33d5-4ff5-9e35-83249bdc04bc'}, {'domain': '.chaos-tobacco.com', 'expiry': 1652205425, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1632717983.1644429426'}, {'domain': '.chaos-tobacco.com', 'expiry': 1645639025, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.chaos-tobacco.com', 'expiry': 1644431225, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A57%3A05.855Z'}, {'domain': 'www.chaos-tobacco.com', 'expiry': 1644429729, 'httpOnly': False, 'name': 'trustedsite_tm_float_seen', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.chaos-tobacco.com', 'expiry': 1675965428, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.chaos-tobacco.com', 'expiry': 1675965428, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e02e6363-58ea-4a6f-b503-f933ba7f7e51'}, {'domain': '.chaos-tobacco.com', 'expiry': 1645639025, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.chaos-tobacco.com', 'expiry': 1644515829, 'httpOnly': False, 'name': 'trustedsite_visit', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.chaos-tobacco.com', 'expiry': 1675965428, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e02e6363-58ea-4a6f-b503-f933ba7f7e51'}]
+[After] Cookie-Name 1: cookieconsent_status
+[After] Cookie-Name 2: cart_sig
+[After] Cookie-Name 3: cookieconsent_preferences_disabled
+[After] Cookie-Name 4: _shg_user_id
+[After] Cookie-Name 5: _shg_session_id
+[After] Cookie-Name 6: _fwnguid
+[After] Cookie-Name 7: _shopify_sa_p
+[After] Cookie-Name 8: _s
+[After] Cookie-Name 9: _shopify_s
+[After] Cookie-Name 10: _gcl_au
+[After] Cookie-Name 11: _landing_page
+[After] Cookie-Name 12: _shopify_sa_t
+[After] Cookie-Name 13: trustedsite_tm_float_seen
+[After] Cookie-Name 14: secure_customer_sig
+[After] Cookie-Name 15: _y
+[After] Cookie-Name 16: _orig_referrer
+[After] Cookie-Name 17: trustedsite_visit
+[After] Cookie-Name 18: _shopify_y
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: cookieconsent_status
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

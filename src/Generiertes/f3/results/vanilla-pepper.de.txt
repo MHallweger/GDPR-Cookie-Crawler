@@ -1,0 +1,96 @@
+Website 148: http://www.vanilla-pepper.de/ | Created: 09.02.2022 14:27:00 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 25
+[Before] Website-Cookies: [{'domain': '.vanilla-pepper.de', 'expiry': 1659965212, 'httpOnly': False, 'name': 'messagesUtk', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '8241a4686df6415f91973b7d6e243093'}, {'domain': '.vanilla-pepper.de', 'expiry': 1678109211, 'httpOnly': False, 'name': 'hubspotutk', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0387955ead95dbcf99d1eb0d153ec9de'}, {'domain': '.vanilla-pepper.de', 'expiry': 1678109211, 'httpOnly': False, 'name': '__hstc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '238658207.0387955ead95dbcf99d1eb0d153ec9de.1644413211371.1644413211371.1644413211371.1'}, {'domain': '.vanilla-pepper.de', 'expiry': 1644413270, 'httpOnly': False, 'name': '_gat_UA-108230372-1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.vanilla-pepper.de', 'expiry': 1644499610, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1251710524.1644413211'}, {'domain': '.vanilla-pepper.de', 'expiry': 1652189210, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.931029106.1644413211'}, {'domain': '.vanilla-pepper.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A26%3A50.799Z'}, {'domain': '.vanilla-pepper.de', 'expiry': 1644415011, 'httpOnly': False, 'name': '__hssc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '238658207.1.1644413211371'}, {'domain': '.vanilla-pepper.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A26%3A50.751Z'}, {'domain': 'vanilla-pepper.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.vanilla-pepper.de', 'expiry': 1707485210, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.889594841.1644413211'}, {'domain': '.vanilla-pepper.de', 'expiry': 1675949210, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%7D'}, {'domain': '.vanilla-pepper.de', 'httpOnly': False, 'name': '__hssrc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.vanilla-pepper.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.vanilla-pepper.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.vanilla-pepper.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.vanilla-pepper.de', 'expiry': 1675949210, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.vanilla-pepper.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1b4d031c-1c90-4a12-a849-c29424d70509'}, {'domain': '.vanilla-pepper.de', 'expiry': 1644415010, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'vanilla-pepper.de', 'expiry': 1675949209, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.vanilla-pepper.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ec8f829b-d192-4b19-ad8a-c78fe23ae15d'}, {'domain': '.vanilla-pepper.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1b4d031c-1c90-4a12-a849-c29424d70509'}, {'domain': '.vanilla-pepper.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.vanilla-pepper.de', 'expiry': 1645622810, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.vanilla-pepper.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ec8f829b-d192-4b19-ad8a-c78fe23ae15d'}]
+[Before] Cookie-Name 1: messagesUtk
+[Before] Cookie-Name 2: hubspotutk
+[Before] Cookie-Name 3: __hstc
+[Before] Cookie-Name 4: _gat_UA-108230372-1
+[Before] Cookie-Name 5: _gid
+[Before] Cookie-Name 6: _gcl_au
+[Before] Cookie-Name 7: _shopify_sa_t
+[Before] Cookie-Name 8: __hssc
+[Before] Cookie-Name 9: _shopify_d
+[Before] Cookie-Name 10: _shopify_evids
+[Before] Cookie-Name 11: _ga
+[Before] Cookie-Name 12: _tracking_consent
+[Before] Cookie-Name 13: __hssrc
+[Before] Cookie-Name 14: _shopify_evids
+[Before] Cookie-Name 15: _shopify_sa_p
+[Before] Cookie-Name 16: _landing_page
+[Before] Cookie-Name 17: _shopify_m
+[Before] Cookie-Name 18: _y
+[Before] Cookie-Name 19: _shopify_tm
+[Before] Cookie-Name 20: secure_customer_sig
+[Before] Cookie-Name 21: _shopify_s
+[Before] Cookie-Name 22: _shopify_y
+[Before] Cookie-Name 23: _orig_referrer
+[Before] Cookie-Name 24: _shopify_tw
+[Before] Cookie-Name 25: _s
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 32
+[After] Website-Cookies: [{'domain': 'vanilla-pepper.de', 'expiry': 1645622826, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': 'vanilla-pepper.de', 'expiry': 1645622826, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c4bba7b411c34a8ccff8788d2c8c8350'}, {'domain': 'vanilla-pepper.de', 'expiry': 1645622826, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'vanilla-pepper.de', 'expiry': 1645622826, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8df322cc930e8dd7194bafeee01a448f'}, {'domain': '.vanilla-pepper.de', 'expiry': 1675949226, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22con%22%3A%7B%22GDPR%22%3A%221%22%7D%7D'}, {'domain': 'vanilla-pepper.de', 'expiry': 1645622826, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644413226'}, {'domain': '.vanilla-pepper.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.vanilla-pepper.de', 'httpOnly': False, 'name': '__hssrc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.vanilla-pepper.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A26%3A50.751Z'}, {'domain': 'vanilla-pepper.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.vanilla-pepper.de', 'expiry': 1644415011, 'httpOnly': False, 'name': '__hssc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '238658207.1.1644413211371'}, {'domain': 'vanilla-pepper.de', 'expiry': 1645622826, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.vanilla-pepper.de', 'expiry': 1678109211, 'httpOnly': False, 'name': '__hstc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '238658207.0387955ead95dbcf99d1eb0d153ec9de.1644413211371.1644413211371.1644413211371.1'}, {'domain': '.vanilla-pepper.de', 'expiry': 1678109211, 'httpOnly': False, 'name': 'hubspotutk', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0387955ead95dbcf99d1eb0d153ec9de'}, {'domain': '.vanilla-pepper.de', 'expiry': 1644413270, 'httpOnly': False, 'name': '_gat_UA-108230372-1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.vanilla-pepper.de', 'expiry': 1659965212, 'httpOnly': False, 'name': 'messagesUtk', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '8241a4686df6415f91973b7d6e243093'}, {'domain': '.vanilla-pepper.de', 'expiry': 1644499626, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1251710524.1644413211'}, {'domain': '.vanilla-pepper.de', 'expiry': 1644415026, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A26%3A50.799Z'}, {'domain': '.vanilla-pepper.de', 'expiry': 1652189210, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.931029106.1644413211'}, {'domain': '.vanilla-pepper.de', 'expiry': 1644415026, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.vanilla-pepper.de', 'expiry': 1644413286, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.vanilla-pepper.de', 'expiry': 1707485226, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.889594841.1644413211'}, {'domain': '.vanilla-pepper.de', 'expiry': 1675949226, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1b4d031c-1c90-4a12-a849-c29424d70509'}, {'domain': '.vanilla-pepper.de', 'expiry': 1644415026, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'vanilla-pepper.de', 'expiry': 1675949226, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.vanilla-pepper.de', 'expiry': 1644415026, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ec8f829b-d192-4b19-ad8a-c78fe23ae15d'}, {'domain': '.vanilla-pepper.de', 'expiry': 1675949226, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1b4d031c-1c90-4a12-a849-c29424d70509'}, {'domain': '.vanilla-pepper.de', 'expiry': 1645622826, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.vanilla-pepper.de', 'expiry': 1675949226, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': '.vanilla-pepper.de', 'expiry': 1645622826, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.vanilla-pepper.de', 'expiry': 1645622810, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.vanilla-pepper.de', 'expiry': 1644415026, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ec8f829b-d192-4b19-ad8a-c78fe23ae15d'}]
+[After] Cookie-Name 1: cart_ver
+[After] Cookie-Name 2: cart_sig
+[After] Cookie-Name 3: cart_currency
+[After] Cookie-Name 4: cart
+[After] Cookie-Name 5: _tracking_consent
+[After] Cookie-Name 6: cart_ts
+[After] Cookie-Name 7: _shopify_evids
+[After] Cookie-Name 8: __hssrc
+[After] Cookie-Name 9: _shopify_d
+[After] Cookie-Name 10: _shopify_evids
+[After] Cookie-Name 11: __hssc
+[After] Cookie-Name 12: localization
+[After] Cookie-Name 13: __hstc
+[After] Cookie-Name 14: hubspotutk
+[After] Cookie-Name 15: _gat_UA-108230372-1
+[After] Cookie-Name 16: messagesUtk
+[After] Cookie-Name 17: _gid
+[After] Cookie-Name 18: _shopify_sa_t
+[After] Cookie-Name 19: _gcl_au
+[After] Cookie-Name 20: _shopify_sa_p
+[After] Cookie-Name 21: _gat
+[After] Cookie-Name 22: _ga
+[After] Cookie-Name 23: _y
+[After] Cookie-Name 24: _shopify_tm
+[After] Cookie-Name 25: secure_customer_sig
+[After] Cookie-Name 26: _shopify_s
+[After] Cookie-Name 27: _shopify_y
+[After] Cookie-Name 28: _orig_referrer
+[After] Cookie-Name 29: _shopify_m
+[After] Cookie-Name 30: _landing_page
+[After] Cookie-Name 31: _shopify_tw
+[After] Cookie-Name 32: _s
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: hubspotutk (HubSpot (CRM-System))
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: __hssc (HubSpot (CRM-System))
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 7
+[Difference] Cookie-Name: 1: cart_currency
+[Difference] Cookie-Name: 2: cart_ver
+[Difference] Cookie-Name: 3: localization
+[Difference] Cookie-Name: 4: cart_sig
+[Difference] Cookie-Name: 5: cart
+[Difference] Cookie-Name: 6: cart_ts
+[Difference] Cookie-Name: 7: _gat
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

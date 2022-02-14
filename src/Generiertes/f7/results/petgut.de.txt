@@ -1,0 +1,83 @@
+Website 255: http://www.petgut.de/ | Created: 10.02.2022 18:36:07 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 24
+[Before] Website-Cookies: [{'domain': 'petgut.de', 'expiry': 1645724158, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A2'}, {'domain': '.petgut.de', 'expiry': 1676050558, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU56Vm1OR1JqWWprdE1ESTBPQzAwTkRVekxUbGlaVEF0TVdZellUWm1ZelV6TXpGbQ'}, {'domain': 'petgut.de', 'expiry': 1645724158, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '70d5eef008930e1f23b9e2d0f49fa4cb'}, {'domain': '.petgut.de', 'expiry': 1644516358, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A35%3A58.047Z'}, {'domain': '.petgut.de', 'expiry': 1652290558, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644514557839.1287301758'}, {'domain': 'petgut.de', 'expiry': 1644518157, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'petgut.de', 'expiry': 1645724158, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '18f8406b17030f76052a3deda6a4a7c5'}, {'domain': '.petgut.de', 'expiry': 1644514617, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.petgut.de', 'expiry': 1644516368, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2ae6da98-273c-4746-97a2-d2aa22c49214'}, {'domain': '.petgut.de', 'expiry': 1644600958, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.2088053009.1644514558'}, {'domain': '.petgut.de', 'expiry': 1707586558, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.261970678.1644514558'}, {'domain': 'petgut.de', 'httpOnly': False, 'name': 'CozySwitcherOnce', 'path': '/', 'secure': False, 'value': 'yes'}, {'domain': '.petgut.de', 'expiry': 1644516358, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.petgut.de', 'expiry': 1676050568, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1feb93f1-0b6e-4f2e-a796-d29177048842'}, {'domain': '.petgut.de', 'expiry': 1652290557, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.89283593.1644514558'}, {'domain': '.petgut.de', 'expiry': 1645724156, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.petgut.de', 'expiry': 1645724156, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'petgut.de', 'expiry': 1645724156, 'httpOnly': True, 'name': 'keep_alive', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2ae6da98-273c-4746-97a2-d2aa22c49214'}, {'domain': '.petgut.de', 'expiry': 1644516368, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2ae6da98-273c-4746-97a2-d2aa22c49214'}, {'domain': 'petgut.de', 'expiry': 1645724168, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'petgut.de', 'expiry': 1645724168, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.petgut.de', 'expiry': 1676050568, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1feb93f1-0b6e-4f2e-a796-d29177048842'}, {'domain': 'petgut.de', 'expiry': 1645724158, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644514558'}, {'domain': 'petgut.de', 'expiry': 1676050568, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: cart_ver
+[Before] Cookie-Name 2: _pin_unauth
+[Before] Cookie-Name 3: cart_sig
+[Before] Cookie-Name 4: _shopify_sa_t
+[Before] Cookie-Name 5: _fbp
+[Before] Cookie-Name 6: shopify_pay_redirect
+[Before] Cookie-Name 7: cart
+[Before] Cookie-Name 8: _gat
+[Before] Cookie-Name 9: _s
+[Before] Cookie-Name 10: _gid
+[Before] Cookie-Name 11: _ga
+[Before] Cookie-Name 12: CozySwitcherOnce
+[Before] Cookie-Name 13: _shopify_sa_p
+[Before] Cookie-Name 14: _shopify_y
+[Before] Cookie-Name 15: _gcl_au
+[Before] Cookie-Name 16: _orig_referrer
+[Before] Cookie-Name 17: _landing_page
+[Before] Cookie-Name 18: keep_alive
+[Before] Cookie-Name 19: _shopify_s
+[Before] Cookie-Name 20: cart_currency
+[Before] Cookie-Name 21: localization
+[Before] Cookie-Name 22: _y
+[Before] Cookie-Name 23: cart_ts
+[Before] Cookie-Name 24: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 24
+[After] Website-Cookies: [{'domain': 'petgut.de', 'expiry': 1645724158, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A2'}, {'domain': '.petgut.de', 'expiry': 1676050558, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU56Vm1OR1JqWWprdE1ESTBPQzAwTkRVekxUbGlaVEF0TVdZellUWm1ZelV6TXpGbQ'}, {'domain': 'petgut.de', 'expiry': 1645724158, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '70d5eef008930e1f23b9e2d0f49fa4cb'}, {'domain': '.petgut.de', 'expiry': 1644516358, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A35%3A58.047Z'}, {'domain': '.petgut.de', 'expiry': 1652290558, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644514557839.1287301758'}, {'domain': 'petgut.de', 'expiry': 1644518157, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'petgut.de', 'expiry': 1645724158, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '18f8406b17030f76052a3deda6a4a7c5'}, {'domain': '.petgut.de', 'expiry': 1644514617, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.petgut.de', 'expiry': 1644516368, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2ae6da98-273c-4746-97a2-d2aa22c49214'}, {'domain': '.petgut.de', 'expiry': 1644600958, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.2088053009.1644514558'}, {'domain': '.petgut.de', 'expiry': 1707586558, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.261970678.1644514558'}, {'domain': 'petgut.de', 'httpOnly': False, 'name': 'CozySwitcherOnce', 'path': '/', 'secure': False, 'value': 'yes'}, {'domain': '.petgut.de', 'expiry': 1644516358, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.petgut.de', 'expiry': 1676050568, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1feb93f1-0b6e-4f2e-a796-d29177048842'}, {'domain': '.petgut.de', 'expiry': 1652290557, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.89283593.1644514558'}, {'domain': '.petgut.de', 'expiry': 1645724156, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.petgut.de', 'expiry': 1645724156, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'petgut.de', 'expiry': 1645724156, 'httpOnly': True, 'name': 'keep_alive', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2ae6da98-273c-4746-97a2-d2aa22c49214'}, {'domain': '.petgut.de', 'expiry': 1644516368, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2ae6da98-273c-4746-97a2-d2aa22c49214'}, {'domain': 'petgut.de', 'expiry': 1645724168, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'petgut.de', 'expiry': 1645724168, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.petgut.de', 'expiry': 1676050568, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1feb93f1-0b6e-4f2e-a796-d29177048842'}, {'domain': 'petgut.de', 'expiry': 1645724158, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644514558'}, {'domain': 'petgut.de', 'expiry': 1676050568, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: cart_ver
+[After] Cookie-Name 2: _pin_unauth
+[After] Cookie-Name 3: cart_sig
+[After] Cookie-Name 4: _shopify_sa_t
+[After] Cookie-Name 5: _fbp
+[After] Cookie-Name 6: shopify_pay_redirect
+[After] Cookie-Name 7: cart
+[After] Cookie-Name 8: _gat
+[After] Cookie-Name 9: _s
+[After] Cookie-Name 10: _gid
+[After] Cookie-Name 11: _ga
+[After] Cookie-Name 12: CozySwitcherOnce
+[After] Cookie-Name 13: _shopify_sa_p
+[After] Cookie-Name 14: _shopify_y
+[After] Cookie-Name 15: _gcl_au
+[After] Cookie-Name 16: _orig_referrer
+[After] Cookie-Name 17: _landing_page
+[After] Cookie-Name 18: keep_alive
+[After] Cookie-Name 19: _shopify_s
+[After] Cookie-Name 20: cart_currency
+[After] Cookie-Name 21: localization
+[After] Cookie-Name 22: _y
+[After] Cookie-Name 23: cart_ts
+[After] Cookie-Name 24: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

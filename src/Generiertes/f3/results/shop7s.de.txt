@@ -1,0 +1,95 @@
+Website 116: http://www.shop7s.de/ | Created: 09.02.2022 14:16:58 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 29
+[Before] Website-Cookies: [{'domain': 'seven-sundays.shop', 'expiry': 1644416209, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.seven-sundays.shop', 'expiry': 1675948609, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': 'rmn7gq|1|eyu|0'}, {'domain': '.seven-sundays.shop', 'expiry': 1678108609, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '89f9167089aa11eca81a39dcc1da8ba5'}, {'domain': '.seven-sundays.shop', 'expiry': 1644412668, 'httpOnly': False, 'name': '_gat_gtag_UA_182636720_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.seven-sundays.shop', 'expiry': 1707484608, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.2108035425.1644412609'}, {'domain': '.seven-sundays.shop', 'httpOnly': False, 'name': 'wisepops_session', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22arrivalOnSite%22%3A%222022-02-09T13%3A16%3A48.558Z%22%2C%22mtime%22%3A1644412608785%2C%22pageviews%22%3A1%2C%22popups%22%3A%7B%7D%2C%22bars%22%3A%7B%7D%2C%22countdowns%22%3A%7B%7D%2C%22src%22%3Anull%2C%22utm%22%3A%7B%7D%2C%22testIp%22%3Anull%7D'}, {'domain': '.seven-sundays.shop', 'expiry': 1652188608, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.469126560.1644412609'}, {'domain': '.seven-sundays.shop', 'expiry': 1652188609, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644412608733.1037723202'}, {'domain': '.seven-sundays.shop', 'expiry': 1707484608, 'httpOnly': False, 'name': 'wisepops_visits', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%5B%222022-02-09T13%3A16%3A48.558Z%22%5D'}, {'domain': '.seven-sundays.shop', 'expiry': 1675948610, 'httpOnly': False, 'name': '__zlcmid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '18Skh4ztGWCAWK8'}, {'domain': '.seven-sundays.shop', 'expiry': 1644499009, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': '89f9014089aa11ec8e8dd900b47832d2'}, {'domain': '.seven-sundays.shop', 'expiry': 1675948608, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVptTTFOVEprWVRRdE1qSXdaQzAwTXpNNUxUbGxNemd0TVRNME9UZzRaalk0TkRRMA'}, {'domain': '.seven-sundays.shop', 'expiry': 1644412668, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.seven-sundays.shop', 'expiry': 1644499008, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1104751584.1644412609'}, {'domain': 'seven-sundays.shop', 'expiry': 1644412909, 'httpOnly': False, 'name': 'outbrain_cid_fetch', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': '.seven-sundays.shop', 'expiry': 1644414408, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '72492d2d-156f-40f0-9eb8-85809fbdd34a'}, {'domain': '.seven-sundays.shop', 'expiry': 1644414408, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A16%3A48.560Z'}, {'domain': '.seven-sundays.shop', 'expiry': 1644499009, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': '7k4g4a|1644412609912|1|1|f.clarity.ms/collect'}, {'domain': '.seven-sundays.shop', 'expiry': 1645622207, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'seven-sundays.shop', 'expiry': 1675948608, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.seven-sundays.shop', 'expiry': 1645622207, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.seven-sundays.shop', 'expiry': 1644414408, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.seven-sundays.shop', 'expiry': 1675948608, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f613637e-007c-43a8-9f3a-765469aecd73'}, {'domain': '.seven-sundays.shop', 'expiry': 1675948608, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f613637e-007c-43a8-9f3a-765469aecd73'}, {'domain': '.seven-sundays.shop', 'expiry': 1707484608, 'httpOnly': False, 'name': 'wisepops', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22csd%22%3A1%2C%22popups%22%3A%7B%7D%2C%22sub%22%3A0%2C%22ucrn%22%3A10%2C%22cid%22%3A%2260307%22%2C%22v%22%3A4%2C%22bandit%22%3A%7B%22recos%22%3A%7B%7D%7D%7D'}, {'domain': '.seven-sundays.shop', 'expiry': 1707484608, 'httpOnly': False, 'name': '_ga_VP3RLVBESP', 'path': '/', 'secure': False, 'value': 'GS1.1.1644412608.1.0.1644412608.0'}, {'domain': '.seven-sundays.shop', 'expiry': 1644414408, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '72492d2d-156f-40f0-9eb8-85809fbdd34a'}, {'domain': 'seven-sundays.shop', 'expiry': 1645622207, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': 'seven-sundays.shop', 'expiry': 1645622208, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[Before] Cookie-Name 1: shopify_pay_redirect
+[Before] Cookie-Name 2: _clck
+[Before] Cookie-Name 3: _uetvid
+[Before] Cookie-Name 4: _gat_gtag_UA_182636720_1
+[Before] Cookie-Name 5: _ga
+[Before] Cookie-Name 6: wisepops_session
+[Before] Cookie-Name 7: _gcl_au
+[Before] Cookie-Name 8: _fbp
+[Before] Cookie-Name 9: wisepops_visits
+[Before] Cookie-Name 10: __zlcmid
+[Before] Cookie-Name 11: _uetsid
+[Before] Cookie-Name 12: _pin_unauth
+[Before] Cookie-Name 13: _gat
+[Before] Cookie-Name 14: _gid
+[Before] Cookie-Name 15: outbrain_cid_fetch
+[Before] Cookie-Name 16: _s
+[Before] Cookie-Name 17: _shopify_sa_t
+[Before] Cookie-Name 18: _clsk
+[Before] Cookie-Name 19: _landing_page
+[Before] Cookie-Name 20: secure_customer_sig
+[Before] Cookie-Name 21: _orig_referrer
+[Before] Cookie-Name 22: _shopify_sa_p
+[Before] Cookie-Name 23: _shopify_y
+[Before] Cookie-Name 24: _y
+[Before] Cookie-Name 25: wisepops
+[Before] Cookie-Name 26: _ga_VP3RLVBESP
+[Before] Cookie-Name 27: _shopify_s
+[Before] Cookie-Name 28: cart_currency
+[Before] Cookie-Name 29: localization
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 29
+[After] Website-Cookies: [{'domain': '.seven-sundays.shop', 'httpOnly': False, 'name': 'wisepops_session', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22arrivalOnSite%22%3A%222022-02-09T13%3A16%3A48.558Z%22%2C%22mtime%22%3A1644412623574%2C%22pageviews%22%3A1%2C%22popups%22%3A%7B%22305980%22%3A0%7D%2C%22bars%22%3A%7B%7D%2C%22countdowns%22%3A%7B%7D%2C%22src%22%3Anull%2C%22utm%22%3A%7B%7D%2C%22testIp%22%3Anull%7D'}, {'domain': '.seven-sundays.shop', 'expiry': 1707484623, 'httpOnly': False, 'name': 'wisepops', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22csd%22%3A1%2C%22popups%22%3A%7B%22305980%22%3A%7B%22dc%22%3A1%2C%22d%22%3A1644412623574%7D%7D%2C%22sub%22%3A0%2C%22ucrn%22%3A10%2C%22cid%22%3A%2260307%22%2C%22v%22%3A4%2C%22bandit%22%3A%7B%22recos%22%3A%7B%7D%7D%7D'}, {'domain': 'seven-sundays.shop', 'expiry': 1644416209, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.seven-sundays.shop', 'expiry': 1675948609, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': 'rmn7gq|1|eyu|0'}, {'domain': '.seven-sundays.shop', 'expiry': 1678108609, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '89f9167089aa11eca81a39dcc1da8ba5'}, {'domain': '.seven-sundays.shop', 'expiry': 1644412668, 'httpOnly': False, 'name': '_gat_gtag_UA_182636720_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.seven-sundays.shop', 'expiry': 1707484608, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.2108035425.1644412609'}, {'domain': '.seven-sundays.shop', 'expiry': 1652188608, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.469126560.1644412609'}, {'domain': '.seven-sundays.shop', 'expiry': 1652188609, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644412608733.1037723202'}, {'domain': '.seven-sundays.shop', 'expiry': 1707484608, 'httpOnly': False, 'name': 'wisepops_visits', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%5B%222022-02-09T13%3A16%3A48.558Z%22%5D'}, {'domain': '.seven-sundays.shop', 'expiry': 1675948610, 'httpOnly': False, 'name': '__zlcmid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '18Skh4ztGWCAWK8'}, {'domain': '.seven-sundays.shop', 'expiry': 1644499009, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': '89f9014089aa11ec8e8dd900b47832d2'}, {'domain': '.seven-sundays.shop', 'expiry': 1675948608, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVptTTFOVEprWVRRdE1qSXdaQzAwTXpNNUxUbGxNemd0TVRNME9UZzRaalk0TkRRMA'}, {'domain': '.seven-sundays.shop', 'expiry': 1644412668, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.seven-sundays.shop', 'expiry': 1644499008, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1104751584.1644412609'}, {'domain': 'seven-sundays.shop', 'expiry': 1644412909, 'httpOnly': False, 'name': 'outbrain_cid_fetch', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': '.seven-sundays.shop', 'expiry': 1644414408, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '72492d2d-156f-40f0-9eb8-85809fbdd34a'}, {'domain': '.seven-sundays.shop', 'expiry': 1644414408, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A16%3A48.560Z'}, {'domain': '.seven-sundays.shop', 'expiry': 1644499009, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': '7k4g4a|1644412609912|1|1|f.clarity.ms/collect'}, {'domain': '.seven-sundays.shop', 'expiry': 1645622207, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'seven-sundays.shop', 'expiry': 1675948608, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.seven-sundays.shop', 'expiry': 1645622207, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.seven-sundays.shop', 'expiry': 1644414408, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.seven-sundays.shop', 'expiry': 1675948608, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f613637e-007c-43a8-9f3a-765469aecd73'}, {'domain': '.seven-sundays.shop', 'expiry': 1675948608, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f613637e-007c-43a8-9f3a-765469aecd73'}, {'domain': '.seven-sundays.shop', 'expiry': 1707484608, 'httpOnly': False, 'name': '_ga_VP3RLVBESP', 'path': '/', 'secure': False, 'value': 'GS1.1.1644412608.1.0.1644412608.0'}, {'domain': '.seven-sundays.shop', 'expiry': 1644414408, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '72492d2d-156f-40f0-9eb8-85809fbdd34a'}, {'domain': 'seven-sundays.shop', 'expiry': 1645622207, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': 'seven-sundays.shop', 'expiry': 1645622208, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[After] Cookie-Name 1: wisepops_session
+[After] Cookie-Name 2: wisepops
+[After] Cookie-Name 3: shopify_pay_redirect
+[After] Cookie-Name 4: _clck
+[After] Cookie-Name 5: _uetvid
+[After] Cookie-Name 6: _gat_gtag_UA_182636720_1
+[After] Cookie-Name 7: _ga
+[After] Cookie-Name 8: _gcl_au
+[After] Cookie-Name 9: _fbp
+[After] Cookie-Name 10: wisepops_visits
+[After] Cookie-Name 11: __zlcmid
+[After] Cookie-Name 12: _uetsid
+[After] Cookie-Name 13: _pin_unauth
+[After] Cookie-Name 14: _gat
+[After] Cookie-Name 15: _gid
+[After] Cookie-Name 16: outbrain_cid_fetch
+[After] Cookie-Name 17: _s
+[After] Cookie-Name 18: _shopify_sa_t
+[After] Cookie-Name 19: _clsk
+[After] Cookie-Name 20: _landing_page
+[After] Cookie-Name 21: secure_customer_sig
+[After] Cookie-Name 22: _orig_referrer
+[After] Cookie-Name 23: _shopify_sa_p
+[After] Cookie-Name 24: _shopify_y
+[After] Cookie-Name 25: _y
+[After] Cookie-Name 26: _ga_VP3RLVBESP
+[After] Cookie-Name 27: _shopify_s
+[After] Cookie-Name 28: cart_currency
+[After] Cookie-Name 29: localization
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _clck (Microsoft Clarity (User experience tool))
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _clsk (Microsoft Clarity (User experience tool))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

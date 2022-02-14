@@ -1,0 +1,86 @@
+Website 306: http://www.aquatruwater.de/ | Created: 10.02.2022 18:50:45 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 25
+[Before] Website-Cookies: [{'domain': 'aquatruwater.de', 'expiry': 1676051437, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': ''}, {'domain': 'aquatruwater.de', 'expiry': 1644517236, 'httpOnly': False, 'name': '__hssc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '73786573.1.1644515436668'}, {'domain': '.aquatruwater.de', 'expiry': 1644515495, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'aquatruwater.de', 'httpOnly': False, 'name': '__hssrc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'aquatruwater.de', 'expiry': 1678211436, 'httpOnly': False, 'name': 'hubspotutk', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '90acb3ef3a7f055e72d7011e791514c0'}, {'domain': '.aquatruwater.de', 'expiry': 1645725035, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'aquatruwater.de', 'expiry': 1645725035, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': 'aquatruwater.de', 'expiry': 1645725035, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644515435'}, {'domain': '.aquatruwater.de', 'expiry': 1644517235, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'aquatruwater.de', 'expiry': 1645725035, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '872233cc1ada977872ff8fda996febd3'}, {'domain': 'aquatruwater.de', 'expiry': 1678211436, 'httpOnly': False, 'name': '__hstc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '73786573.90acb3ef3a7f055e72d7011e791514c0.1644515436668.1644515436668.1644515436668.1'}, {'domain': '.aquatruwater.de', 'expiry': 1707587435, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.2090597632.1644515436'}, {'domain': '.aquatruwater.de', 'expiry': 1644517235, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A50%3A35.566Z'}, {'domain': 'aquatruwater.de', 'expiry': 1676051435, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'aquatruwater.de', 'expiry': 1645725035, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '10d2af22bd5c5a48561566678f777a51'}, {'domain': '.aquatruwater.de', 'expiry': 1644601835, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.858335554.1644515436'}, {'domain': '.aquatruwater.de', 'expiry': 1676051436, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2bb7270a-cf81-49d6-aa4a-50dc3fc52ed1'}, {'domain': 'aquatruwater.de', 'expiry': 1645725035, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.aquatruwater.de', 'expiry': 1652291436, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644515435815.923613719'}, {'domain': '.aquatruwater.de', 'expiry': 1652291435, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1003174515.1644515436'}, {'domain': '.aquatruwater.de', 'expiry': 1644517236, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bf67220c-1dfc-4fb1-97b6-e05249e8095d'}, {'domain': '.aquatruwater.de', 'expiry': 1644517236, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bf67220c-1dfc-4fb1-97b6-e05249e8095d'}, {'domain': 'aquatruwater.de', 'expiry': 1645725035, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.aquatruwater.de', 'expiry': 1676051436, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2bb7270a-cf81-49d6-aa4a-50dc3fc52ed1'}, {'domain': '.aquatruwater.de', 'expiry': 1645725035, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}]
+[Before] Cookie-Name 1: cookieconsent_preferences_disabled
+[Before] Cookie-Name 2: __hssc
+[Before] Cookie-Name 3: _gat
+[Before] Cookie-Name 4: __hssrc
+[Before] Cookie-Name 5: hubspotutk
+[Before] Cookie-Name 6: _orig_referrer
+[Before] Cookie-Name 7: cart_ver
+[Before] Cookie-Name 8: cart_ts
+[Before] Cookie-Name 9: _shopify_sa_p
+[Before] Cookie-Name 10: cart
+[Before] Cookie-Name 11: __hstc
+[Before] Cookie-Name 12: _ga
+[Before] Cookie-Name 13: _shopify_sa_t
+[Before] Cookie-Name 14: secure_customer_sig
+[Before] Cookie-Name 15: cart_sig
+[Before] Cookie-Name 16: _gid
+[Before] Cookie-Name 17: _y
+[Before] Cookie-Name 18: cart_currency
+[Before] Cookie-Name 19: _fbp
+[Before] Cookie-Name 20: _gcl_au
+[Before] Cookie-Name 21: _shopify_s
+[Before] Cookie-Name 22: _s
+[Before] Cookie-Name 23: localization
+[Before] Cookie-Name 24: _shopify_y
+[Before] Cookie-Name 25: _landing_page
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 26
+[After] Website-Cookies: [{'domain': 'aquatruwater.de', 'expiry': 1676051450, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': ''}, {'domain': 'aquatruwater.de', 'expiry': 1644517236, 'httpOnly': False, 'name': '__hssc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '73786573.1.1644515436668'}, {'domain': '.aquatruwater.de', 'expiry': 1644515495, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'aquatruwater.de', 'httpOnly': False, 'name': '__hssrc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'aquatruwater.de', 'expiry': 1678211436, 'httpOnly': False, 'name': 'hubspotutk', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '90acb3ef3a7f055e72d7011e791514c0'}, {'domain': '.aquatruwater.de', 'expiry': 1645725035, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'aquatruwater.de', 'expiry': 1645725035, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': 'aquatruwater.de', 'expiry': 1645725035, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644515435'}, {'domain': '.aquatruwater.de', 'expiry': 1644517235, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'aquatruwater.de', 'expiry': 1645725035, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '872233cc1ada977872ff8fda996febd3'}, {'domain': 'aquatruwater.de', 'expiry': 1678211436, 'httpOnly': False, 'name': '__hstc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '73786573.90acb3ef3a7f055e72d7011e791514c0.1644515436668.1644515436668.1644515436668.1'}, {'domain': 'aquatruwater.de', 'expiry': 1676051450, 'httpOnly': False, 'name': 'cookieconsent_status', 'path': '/', 'secure': False, 'value': 'allow'}, {'domain': '.aquatruwater.de', 'expiry': 1707587435, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.2090597632.1644515436'}, {'domain': '.aquatruwater.de', 'expiry': 1644517235, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A50%3A35.566Z'}, {'domain': 'aquatruwater.de', 'expiry': 1676051435, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'aquatruwater.de', 'expiry': 1645725035, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '10d2af22bd5c5a48561566678f777a51'}, {'domain': '.aquatruwater.de', 'expiry': 1644601835, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.858335554.1644515436'}, {'domain': '.aquatruwater.de', 'expiry': 1676051436, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2bb7270a-cf81-49d6-aa4a-50dc3fc52ed1'}, {'domain': 'aquatruwater.de', 'expiry': 1645725035, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.aquatruwater.de', 'expiry': 1652291450, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644515435815.923613719'}, {'domain': '.aquatruwater.de', 'expiry': 1652291435, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1003174515.1644515436'}, {'domain': '.aquatruwater.de', 'expiry': 1644517236, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bf67220c-1dfc-4fb1-97b6-e05249e8095d'}, {'domain': '.aquatruwater.de', 'expiry': 1644517236, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bf67220c-1dfc-4fb1-97b6-e05249e8095d'}, {'domain': 'aquatruwater.de', 'expiry': 1645725035, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.aquatruwater.de', 'expiry': 1676051436, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2bb7270a-cf81-49d6-aa4a-50dc3fc52ed1'}, {'domain': '.aquatruwater.de', 'expiry': 1645725035, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}]
+[After] Cookie-Name 1: cookieconsent_preferences_disabled
+[After] Cookie-Name 2: __hssc
+[After] Cookie-Name 3: _gat
+[After] Cookie-Name 4: __hssrc
+[After] Cookie-Name 5: hubspotutk
+[After] Cookie-Name 6: _orig_referrer
+[After] Cookie-Name 7: cart_ver
+[After] Cookie-Name 8: cart_ts
+[After] Cookie-Name 9: _shopify_sa_p
+[After] Cookie-Name 10: cart
+[After] Cookie-Name 11: __hstc
+[After] Cookie-Name 12: cookieconsent_status
+[After] Cookie-Name 13: _ga
+[After] Cookie-Name 14: _shopify_sa_t
+[After] Cookie-Name 15: secure_customer_sig
+[After] Cookie-Name 16: cart_sig
+[After] Cookie-Name 17: _gid
+[After] Cookie-Name 18: _y
+[After] Cookie-Name 19: cart_currency
+[After] Cookie-Name 20: _fbp
+[After] Cookie-Name 21: _gcl_au
+[After] Cookie-Name 22: _shopify_s
+[After] Cookie-Name 23: _s
+[After] Cookie-Name 24: localization
+[After] Cookie-Name 25: _shopify_y
+[After] Cookie-Name 26: _landing_page
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: __hssc (HubSpot (CRM-System))
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: hubspotutk (HubSpot (CRM-System))
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: cookieconsent_status
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

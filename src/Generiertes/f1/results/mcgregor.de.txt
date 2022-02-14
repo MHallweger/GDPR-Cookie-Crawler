@@ -1,0 +1,74 @@
+Website 332: http://www.mcgregor.de/ | Created: 08.02.2022 23:20:34 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: False
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: False
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 22
+[Before] Website-Cookies: [{'domain': 'nl.mcgregornewyork.com', 'expiry': 1644445225, 'httpOnly': False, 'name': 'recently_viewed_product', 'path': '/', 'secure': True, 'value': '%7B%7D'}, {'domain': '.mcgregornewyork.com', 'expiry': 1675894825, 'httpOnly': False, 'name': 'unless_id', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '38a57e64-42b7-4da4-a5f9-76f74abbfa55'}, {'domain': 'nl.mcgregornewyork.com', 'expiry': 1644445225, 'httpOnly': False, 'name': 'product_data_storage', 'path': '/', 'secure': True, 'value': '%7B%7D'}, {'domain': 'nl.mcgregornewyork.com', 'expiry': 1644445225, 'httpOnly': False, 'name': 'recently_compared_product_previous', 'path': '/', 'secure': True, 'value': '%7B%7D'}, {'domain': '.nl.mcgregornewyork.com', 'expiry': 1644362425, 'httpOnly': False, 'name': 'form_key', 'path': '/', 'secure': False, 'value': 'SmbXKw1VR7Mfu9va'}, {'domain': 'nl.mcgregornewyork.com', 'expiry': 1644445225, 'httpOnly': False, 'name': 'recently_viewed_product_previous', 'path': '/', 'secure': True, 'value': '%7B%7D'}, {'domain': 'nl.mcgregornewyork.com', 'expiry': 2147483647, 'httpOnly': False, 'name': '__storejs_ecookiebar_preferences', 'path': '/', 'secure': False, 'value': '%7B%22marketing%22%3Afalse%7D'}, {'domain': '.nl.mcgregornewyork.com', 'expiry': 1707430821, 'httpOnly': False, 'name': '__sqra', 'path': '/', 'secure': False, 'value': '150092393.1577839633.1644358821.1644358821.1644358821.1'}, {'domain': '.nl.mcgregornewyork.com', 'expiry': 1644360621, 'httpOnly': False, 'name': '__sqrb', 'path': '/', 'secure': False, 'value': '150092393.1.1644358821'}, {'domain': '.mcgregornewyork.com', 'expiry': 1652134821, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644358820555.777835642'}, {'domain': 'nl.mcgregornewyork.com', 'expiry': 1644445225, 'httpOnly': False, 'name': 'mage-cache-storage', 'path': '/', 'secure': True, 'value': '%7B%7D'}, {'domain': '.mcgregornewyork.com', 'expiry': 1644445225, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.147069949.1644358820'}, {'domain': 'nl.mcgregornewyork.com', 'expiry': 1644445225, 'httpOnly': False, 'name': 'recently_compared_product', 'path': '/', 'secure': True, 'value': '%7B%7D'}, {'domain': 'nl.mcgregornewyork.com', 'expiry': 1644445225, 'httpOnly': False, 'name': 'mage-cache-storage-section-invalidation', 'path': '/', 'secure': True, 'value': '%7B%7D'}, {'domain': 'nl.mcgregornewyork.com', 'expiry': 1644362419, 'httpOnly': True, 'name': 'X-Magento-Vary', 'path': '/', 'secure': True, 'value': 'c58cc7336841735bf5ef13185766282824a9d073'}, {'domain': '.mcgregornewyork.com', 'expiry': 1707430825, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1180328196.1644358820'}, {'domain': '.nl.mcgregornewyork.com', 'expiry': 1644362419, 'httpOnly': True, 'name': 'PHPSESSID', 'path': '/', 'secure': True, 'value': '18pdl6bgki8es6smv4l85m767s'}, {'domain': '.mcgregornewyork.com', 'expiry': 1644358880, 'httpOnly': False, 'name': '_gat_UA-125815475-1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.mcgregornewyork.com', 'httpOnly': False, 'name': 'unless_sid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '941db641-f8f9-05ac-0faf-8004bc52fc03'}, {'domain': 'nl.mcgregornewyork.com', 'expiry': 1644445225, 'httpOnly': False, 'name': 'mage-cache-sessid', 'path': '/', 'secure': True, 'value': 'true'}, {'domain': '.nl.mcgregornewyork.com', 'httpOnly': False, 'name': '__sqrc', 'path': '/', 'secure': False, 'value': '150092393'}, {'domain': 'nl.mcgregornewyork.com', 'expiry': 1707430820, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQzNTg4MjAsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vbmwubWNncmVnb3JuZXd5b3JrLmNvbS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQzNTg4MjAsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vbmwubWNncmVnb3JuZXd5b3JrLmNvbS8ifX0='}]
+[Before] Cookie-Name 1: recently_viewed_product
+[Before] Cookie-Name 2: unless_id
+[Before] Cookie-Name 3: product_data_storage
+[Before] Cookie-Name 4: recently_compared_product_previous
+[Before] Cookie-Name 5: form_key
+[Before] Cookie-Name 6: recently_viewed_product_previous
+[Before] Cookie-Name 7: __storejs_ecookiebar_preferences
+[Before] Cookie-Name 8: __sqra
+[Before] Cookie-Name 9: __sqrb
+[Before] Cookie-Name 10: _fbp
+[Before] Cookie-Name 11: mage-cache-storage
+[Before] Cookie-Name 12: _gid
+[Before] Cookie-Name 13: recently_compared_product
+[Before] Cookie-Name 14: mage-cache-storage-section-invalidation
+[Before] Cookie-Name 15: X-Magento-Vary
+[Before] Cookie-Name 16: _ga
+[Before] Cookie-Name 17: PHPSESSID
+[Before] Cookie-Name 18: _gat_UA-125815475-1
+[Before] Cookie-Name 19: unless_sid
+[Before] Cookie-Name 20: mage-cache-sessid
+[Before] Cookie-Name 21: __sqrc
+[Before] Cookie-Name 22: __kla_id
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 22
+[After] Website-Cookies: [{'domain': 'nl.mcgregornewyork.com', 'expiry': 1644445225, 'httpOnly': False, 'name': 'recently_viewed_product', 'path': '/', 'secure': True, 'value': '%7B%7D'}, {'domain': '.mcgregornewyork.com', 'expiry': 1675894825, 'httpOnly': False, 'name': 'unless_id', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '38a57e64-42b7-4da4-a5f9-76f74abbfa55'}, {'domain': 'nl.mcgregornewyork.com', 'expiry': 1644445225, 'httpOnly': False, 'name': 'product_data_storage', 'path': '/', 'secure': True, 'value': '%7B%7D'}, {'domain': 'nl.mcgregornewyork.com', 'expiry': 1644445225, 'httpOnly': False, 'name': 'recently_compared_product_previous', 'path': '/', 'secure': True, 'value': '%7B%7D'}, {'domain': '.nl.mcgregornewyork.com', 'expiry': 1644362425, 'httpOnly': False, 'name': 'form_key', 'path': '/', 'secure': False, 'value': 'SmbXKw1VR7Mfu9va'}, {'domain': 'nl.mcgregornewyork.com', 'expiry': 1644445225, 'httpOnly': False, 'name': 'recently_viewed_product_previous', 'path': '/', 'secure': True, 'value': '%7B%7D'}, {'domain': 'nl.mcgregornewyork.com', 'expiry': 2147483647, 'httpOnly': False, 'name': '__storejs_ecookiebar_preferences', 'path': '/', 'secure': False, 'value': '%7B%22marketing%22%3Afalse%7D'}, {'domain': '.nl.mcgregornewyork.com', 'expiry': 1707430821, 'httpOnly': False, 'name': '__sqra', 'path': '/', 'secure': False, 'value': '150092393.1577839633.1644358821.1644358821.1644358821.1'}, {'domain': '.nl.mcgregornewyork.com', 'expiry': 1644360621, 'httpOnly': False, 'name': '__sqrb', 'path': '/', 'secure': False, 'value': '150092393.1.1644358821'}, {'domain': '.mcgregornewyork.com', 'expiry': 1652134821, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644358820555.777835642'}, {'domain': 'nl.mcgregornewyork.com', 'expiry': 1644445225, 'httpOnly': False, 'name': 'mage-cache-storage', 'path': '/', 'secure': True, 'value': '%7B%7D'}, {'domain': '.mcgregornewyork.com', 'expiry': 1644445225, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.147069949.1644358820'}, {'domain': 'nl.mcgregornewyork.com', 'expiry': 1644445225, 'httpOnly': False, 'name': 'recently_compared_product', 'path': '/', 'secure': True, 'value': '%7B%7D'}, {'domain': 'nl.mcgregornewyork.com', 'expiry': 1644445225, 'httpOnly': False, 'name': 'mage-cache-storage-section-invalidation', 'path': '/', 'secure': True, 'value': '%7B%7D'}, {'domain': 'nl.mcgregornewyork.com', 'expiry': 1644362419, 'httpOnly': True, 'name': 'X-Magento-Vary', 'path': '/', 'secure': True, 'value': 'c58cc7336841735bf5ef13185766282824a9d073'}, {'domain': '.mcgregornewyork.com', 'expiry': 1707430825, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1180328196.1644358820'}, {'domain': '.nl.mcgregornewyork.com', 'expiry': 1644362419, 'httpOnly': True, 'name': 'PHPSESSID', 'path': '/', 'secure': True, 'value': '18pdl6bgki8es6smv4l85m767s'}, {'domain': '.mcgregornewyork.com', 'expiry': 1644358880, 'httpOnly': False, 'name': '_gat_UA-125815475-1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.mcgregornewyork.com', 'httpOnly': False, 'name': 'unless_sid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '941db641-f8f9-05ac-0faf-8004bc52fc03'}, {'domain': 'nl.mcgregornewyork.com', 'expiry': 1644445225, 'httpOnly': False, 'name': 'mage-cache-sessid', 'path': '/', 'secure': True, 'value': 'true'}, {'domain': '.nl.mcgregornewyork.com', 'httpOnly': False, 'name': '__sqrc', 'path': '/', 'secure': False, 'value': '150092393'}, {'domain': 'nl.mcgregornewyork.com', 'expiry': 1707430820, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQzNTg4MjAsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vbmwubWNncmVnb3JuZXd5b3JrLmNvbS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQzNTg4MjAsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vbmwubWNncmVnb3JuZXd5b3JrLmNvbS8ifX0='}]
+[After] Cookie-Name 1: recently_viewed_product
+[After] Cookie-Name 2: unless_id
+[After] Cookie-Name 3: product_data_storage
+[After] Cookie-Name 4: recently_compared_product_previous
+[After] Cookie-Name 5: form_key
+[After] Cookie-Name 6: recently_viewed_product_previous
+[After] Cookie-Name 7: __storejs_ecookiebar_preferences
+[After] Cookie-Name 8: __sqra
+[After] Cookie-Name 9: __sqrb
+[After] Cookie-Name 10: _fbp
+[After] Cookie-Name 11: mage-cache-storage
+[After] Cookie-Name 12: _gid
+[After] Cookie-Name 13: recently_compared_product
+[After] Cookie-Name 14: mage-cache-storage-section-invalidation
+[After] Cookie-Name 15: X-Magento-Vary
+[After] Cookie-Name 16: _ga
+[After] Cookie-Name 17: PHPSESSID
+[After] Cookie-Name 18: _gat_UA-125815475-1
+[After] Cookie-Name 19: unless_sid
+[After] Cookie-Name 20: mage-cache-sessid
+[After] Cookie-Name 21: __sqrc
+[After] Cookie-Name 22: __kla_id
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

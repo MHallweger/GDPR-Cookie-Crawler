@@ -1,0 +1,81 @@
+Website 27: http://www.vollversion-software.de/ | Created: 09.02.2022 13:50:59 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 23
+[Before] Website-Cookies: [{'domain': '.vollversion-software.de', 'expiry': 1675947051, 'httpOnly': False, 'name': '__zlcmid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '18Skh4pKteYOSOT'}, {'domain': '.vollversion-software.de', 'httpOnly': False, 'name': 'soundest-views', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.vollversion-software.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220209125050-WDSdBL5C3slf7WWPNkFLxkj8gTNAM6Td3ZEV1lJIzTpgJcwmE'}, {'domain': 'www.vollversion-software.de', 'expiry': 1675947050, 'httpOnly': False, 'name': 'optiMonkClientId', 'path': '/', 'secure': False, 'value': '4fd6177d-6930-2443-aa6f-534a65a0ba3b'}, {'domain': '.vollversion-software.de', 'expiry': 1644497450, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': '1j8v74w|1644411050275|1|1|a.clarity.ms/collect'}, {'domain': '.vollversion-software.de', 'expiry': 1644412850, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'OeteiB5bzvoL3S-20220209125050'}, {'domain': '.vollversion-software.de', 'expiry': 1678107049, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': 'e8730ef089a611ec8fa9ffdbc5a57286'}, {'domain': '.vollversion-software.de', 'expiry': 1644497449, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': 'e87307c089a611ec85055922d1ccc9d3'}, {'domain': '.vollversion-software.de', 'expiry': 1675947050, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': 'kpkpz3|1|eyu|0'}, {'domain': '.vollversion-software.de', 'expiry': 1644411109, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.vollversion-software.de', 'expiry': 1644497449, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1779561424.1644411050'}, {'domain': '.vollversion-software.de', 'expiry': 1644412849, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.vollversion-software.de', 'expiry': 1644412850, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0551eb5b-bc2c-45de-8c86-db8e56a860c3'}, {'domain': '.vollversion-software.de', 'expiry': 1644412849, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T12%3A50%3A49.512Z'}, {'domain': '.vollversion-software.de', 'expiry': 1675947050, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'VE5Fqki7AwHDvo-20220209125050'}, {'domain': 'www.vollversion-software.de', 'expiry': 1675947050, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.vollversion-software.de', 'expiry': 1652187049, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1848098954.1644411049'}, {'domain': '.vollversion-software.de', 'expiry': 1675947050, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '89fd5739-e6ac-4579-bb9a-06ae2b1a9063'}, {'domain': '.vollversion-software.de', 'expiry': 1707483049, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1794867809.1644411050'}, {'domain': '.vollversion-software.de', 'expiry': 1644412850, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0551eb5b-bc2c-45de-8c86-db8e56a860c3'}, {'domain': '.vollversion-software.de', 'expiry': 1675947050, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '89fd5739-e6ac-4579-bb9a-06ae2b1a9063'}, {'domain': '.vollversion-software.de', 'expiry': 1645620649, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.vollversion-software.de', 'expiry': 1645620649, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[Before] Cookie-Name 1: __zlcmid
+[Before] Cookie-Name 2: soundest-views
+[Before] Cookie-Name 3: soundestID
+[Before] Cookie-Name 4: optiMonkClientId
+[Before] Cookie-Name 5: _clsk
+[Before] Cookie-Name 6: omnisendSessionID
+[Before] Cookie-Name 7: _uetvid
+[Before] Cookie-Name 8: _uetsid
+[Before] Cookie-Name 9: _clck
+[Before] Cookie-Name 10: _gat
+[Before] Cookie-Name 11: _gid
+[Before] Cookie-Name 12: _shopify_sa_p
+[Before] Cookie-Name 13: _s
+[Before] Cookie-Name 14: _shopify_sa_t
+[Before] Cookie-Name 15: omnisendAnonymousID
+[Before] Cookie-Name 16: secure_customer_sig
+[Before] Cookie-Name 17: _gcl_au
+[Before] Cookie-Name 18: _shopify_y
+[Before] Cookie-Name 19: _ga
+[Before] Cookie-Name 20: _shopify_s
+[Before] Cookie-Name 21: _y
+[Before] Cookie-Name 22: _landing_page
+[Before] Cookie-Name 23: _orig_referrer
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 23
+[After] Website-Cookies: [{'domain': '.vollversion-software.de', 'expiry': 1675947051, 'httpOnly': False, 'name': '__zlcmid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '18Skh4pKteYOSOT'}, {'domain': '.vollversion-software.de', 'httpOnly': False, 'name': 'soundest-views', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.vollversion-software.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220209125050-WDSdBL5C3slf7WWPNkFLxkj8gTNAM6Td3ZEV1lJIzTpgJcwmE'}, {'domain': 'www.vollversion-software.de', 'expiry': 1675947050, 'httpOnly': False, 'name': 'optiMonkClientId', 'path': '/', 'secure': False, 'value': '4fd6177d-6930-2443-aa6f-534a65a0ba3b'}, {'domain': '.vollversion-software.de', 'expiry': 1644497450, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': '1j8v74w|1644411050275|1|1|a.clarity.ms/collect'}, {'domain': '.vollversion-software.de', 'expiry': 1644412850, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'OeteiB5bzvoL3S-20220209125050'}, {'domain': '.vollversion-software.de', 'expiry': 1678107049, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': 'e8730ef089a611ec8fa9ffdbc5a57286'}, {'domain': '.vollversion-software.de', 'expiry': 1644497449, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': 'e87307c089a611ec85055922d1ccc9d3'}, {'domain': '.vollversion-software.de', 'expiry': 1675947050, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': 'kpkpz3|1|eyu|0'}, {'domain': '.vollversion-software.de', 'expiry': 1644411109, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.vollversion-software.de', 'expiry': 1644497449, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1779561424.1644411050'}, {'domain': '.vollversion-software.de', 'expiry': 1644412849, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.vollversion-software.de', 'expiry': 1644412850, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0551eb5b-bc2c-45de-8c86-db8e56a860c3'}, {'domain': '.vollversion-software.de', 'expiry': 1644412849, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T12%3A50%3A49.512Z'}, {'domain': '.vollversion-software.de', 'expiry': 1675947050, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'VE5Fqki7AwHDvo-20220209125050'}, {'domain': 'www.vollversion-software.de', 'expiry': 1675947050, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.vollversion-software.de', 'expiry': 1652187049, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1848098954.1644411049'}, {'domain': '.vollversion-software.de', 'expiry': 1675947050, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '89fd5739-e6ac-4579-bb9a-06ae2b1a9063'}, {'domain': '.vollversion-software.de', 'expiry': 1707483049, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1794867809.1644411050'}, {'domain': '.vollversion-software.de', 'expiry': 1644412850, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0551eb5b-bc2c-45de-8c86-db8e56a860c3'}, {'domain': '.vollversion-software.de', 'expiry': 1675947050, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '89fd5739-e6ac-4579-bb9a-06ae2b1a9063'}, {'domain': '.vollversion-software.de', 'expiry': 1645620649, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.vollversion-software.de', 'expiry': 1645620649, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: __zlcmid
+[After] Cookie-Name 2: soundest-views
+[After] Cookie-Name 3: soundestID
+[After] Cookie-Name 4: optiMonkClientId
+[After] Cookie-Name 5: _clsk
+[After] Cookie-Name 6: omnisendSessionID
+[After] Cookie-Name 7: _uetvid
+[After] Cookie-Name 8: _uetsid
+[After] Cookie-Name 9: _clck
+[After] Cookie-Name 10: _gat
+[After] Cookie-Name 11: _gid
+[After] Cookie-Name 12: _shopify_sa_p
+[After] Cookie-Name 13: _s
+[After] Cookie-Name 14: _shopify_sa_t
+[After] Cookie-Name 15: omnisendAnonymousID
+[After] Cookie-Name 16: secure_customer_sig
+[After] Cookie-Name 17: _gcl_au
+[After] Cookie-Name 18: _shopify_y
+[After] Cookie-Name 19: _ga
+[After] Cookie-Name 20: _shopify_s
+[After] Cookie-Name 21: _y
+[After] Cookie-Name 22: _landing_page
+[After] Cookie-Name 23: _orig_referrer
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _clsk (Microsoft Clarity (User experience tool))
+[Used before] Cookie-Name: _clck (Microsoft Clarity (User experience tool))
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

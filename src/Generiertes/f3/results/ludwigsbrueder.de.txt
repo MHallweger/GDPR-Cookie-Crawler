@@ -1,0 +1,60 @@
+Website 197: http://www.ludwigsbrueder.de/ | Created: 09.02.2022 14:41:44 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 14
+[Before] Website-Cookies: [{'domain': '.ludwigsbrueder.de', 'expiry': 1645018899, 'httpOnly': False, 'name': 'intercom-session-q3phom3y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.ludwigsbrueder.de', 'expiry': 1667744099, 'httpOnly': False, 'name': 'intercom-id-q3phom3y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e702867f-7aae-4383-9928-1d2505a855f3'}, {'domain': 'ludwigsbrueder.de', 'expiry': 1675950097, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.ludwigsbrueder.de', 'expiry': 1644500496, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1670180054.1644414096'}, {'domain': '.ludwigsbrueder.de', 'expiry': 1644415896, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.ludwigsbrueder.de', 'expiry': 1707486096, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1781478940.1644414096'}, {'domain': '.ludwigsbrueder.de', 'expiry': 1644415896, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A41%3A36.241Z'}, {'domain': '.ludwigsbrueder.de', 'expiry': 1644415897, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fe77a909-c31b-4d74-9371-49dd052faaaf'}, {'domain': '.ludwigsbrueder.de', 'expiry': 1675950097, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8fd46168-8712-4015-ba3a-7d47e0d9d417'}, {'domain': '.ludwigsbrueder.de', 'expiry': 1644414156, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.ludwigsbrueder.de', 'expiry': 1675950097, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8fd46168-8712-4015-ba3a-7d47e0d9d417'}, {'domain': '.ludwigsbrueder.de', 'expiry': 1645623694, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.ludwigsbrueder.de', 'expiry': 1645623694, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.ludwigsbrueder.de', 'expiry': 1644415897, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fe77a909-c31b-4d74-9371-49dd052faaaf'}]
+[Before] Cookie-Name 1: intercom-session-q3phom3y
+[Before] Cookie-Name 2: intercom-id-q3phom3y
+[Before] Cookie-Name 3: secure_customer_sig
+[Before] Cookie-Name 4: _gid
+[Before] Cookie-Name 5: _shopify_sa_p
+[Before] Cookie-Name 6: _ga
+[Before] Cookie-Name 7: _shopify_sa_t
+[Before] Cookie-Name 8: _s
+[Before] Cookie-Name 9: _shopify_y
+[Before] Cookie-Name 10: _gat
+[Before] Cookie-Name 11: _y
+[Before] Cookie-Name 12: _landing_page
+[Before] Cookie-Name 13: _orig_referrer
+[Before] Cookie-Name 14: _shopify_s
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 14
+[After] Website-Cookies: [{'domain': '.ludwigsbrueder.de', 'expiry': 1645018899, 'httpOnly': False, 'name': 'intercom-session-q3phom3y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.ludwigsbrueder.de', 'expiry': 1667744099, 'httpOnly': False, 'name': 'intercom-id-q3phom3y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e702867f-7aae-4383-9928-1d2505a855f3'}, {'domain': 'ludwigsbrueder.de', 'expiry': 1675950097, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.ludwigsbrueder.de', 'expiry': 1644500496, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1670180054.1644414096'}, {'domain': '.ludwigsbrueder.de', 'expiry': 1644415896, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.ludwigsbrueder.de', 'expiry': 1707486096, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1781478940.1644414096'}, {'domain': '.ludwigsbrueder.de', 'expiry': 1644415896, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A41%3A36.241Z'}, {'domain': '.ludwigsbrueder.de', 'expiry': 1644415897, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fe77a909-c31b-4d74-9371-49dd052faaaf'}, {'domain': '.ludwigsbrueder.de', 'expiry': 1675950097, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8fd46168-8712-4015-ba3a-7d47e0d9d417'}, {'domain': '.ludwigsbrueder.de', 'expiry': 1644414156, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.ludwigsbrueder.de', 'expiry': 1675950097, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8fd46168-8712-4015-ba3a-7d47e0d9d417'}, {'domain': '.ludwigsbrueder.de', 'expiry': 1645623694, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.ludwigsbrueder.de', 'expiry': 1645623694, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.ludwigsbrueder.de', 'expiry': 1644415897, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fe77a909-c31b-4d74-9371-49dd052faaaf'}]
+[After] Cookie-Name 1: intercom-session-q3phom3y
+[After] Cookie-Name 2: intercom-id-q3phom3y
+[After] Cookie-Name 3: secure_customer_sig
+[After] Cookie-Name 4: _gid
+[After] Cookie-Name 5: _shopify_sa_p
+[After] Cookie-Name 6: _ga
+[After] Cookie-Name 7: _shopify_sa_t
+[After] Cookie-Name 8: _s
+[After] Cookie-Name 9: _shopify_y
+[After] Cookie-Name 10: _gat
+[After] Cookie-Name 11: _y
+[After] Cookie-Name 12: _landing_page
+[After] Cookie-Name 13: _orig_referrer
+[After] Cookie-Name 14: _shopify_s
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gat (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

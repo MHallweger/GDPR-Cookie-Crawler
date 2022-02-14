@@ -1,0 +1,73 @@
+Website 89: http://www.klarifyme.de/ | Created: 09.02.2022 20:00:14 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 14
+[Before] Website-Cookies: [{'domain': '.klarify.me', 'expiry': 1652209204, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1189890432.1644433205'}, {'domain': '.klarify.me', 'expiry': 1644435008, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '670197a6-6d8c-4f39-9eb3-e826ec2cde26'}, {'domain': '.klarify.me', 'expiry': 1644435004, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A00%3A04.299Z'}, {'domain': '.klarify.me', 'expiry': 1675969208, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1de394c8-f6cf-4184-a93d-3b41a859ad54'}, {'domain': '.klarify.me', 'expiry': 1644435008, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '670197a6-6d8c-4f39-9eb3-e826ec2cde26'}, {'domain': 'de.klarify.me', 'httpOnly': False, 'name': 'discount_code', 'path': '/', 'secure': False, 'value': ''}, {'domain': '.klarify.me', 'expiry': 1707505204, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1118712768.1644433204'}, {'domain': '.klarify.me', 'expiry': 1644433264, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.klarify.me', 'expiry': 1675969208, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1de394c8-f6cf-4184-a93d-3b41a859ad54'}, {'domain': '.klarify.me', 'expiry': 1644519604, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.473664565.1644433204'}, {'domain': '.klarify.me', 'expiry': 1645642803, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.klarify.me', 'expiry': 1645642803, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.klarify.me', 'expiry': 1644435004, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'de.klarify.me', 'expiry': 1675969208, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _gcl_au
+[Before] Cookie-Name 2: _shopify_s
+[Before] Cookie-Name 3: _shopify_sa_t
+[Before] Cookie-Name 4: _shopify_y
+[Before] Cookie-Name 5: _s
+[Before] Cookie-Name 6: discount_code
+[Before] Cookie-Name 7: _ga
+[Before] Cookie-Name 8: _gat
+[Before] Cookie-Name 9: _y
+[Before] Cookie-Name 10: _gid
+[Before] Cookie-Name 11: _orig_referrer
+[Before] Cookie-Name 12: _landing_page
+[Before] Cookie-Name 13: _shopify_sa_p
+[Before] Cookie-Name 14: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 21
+[After] Website-Cookies: [{'domain': 'de.klarify.me', 'expiry': 1675969220, 'httpOnly': False, 'name': '_sn_a', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '{"a":{"s":1644433220549},"v":"1362a610-cd97-47d6-87da-4a699830f7e2"}'}, {'domain': '.klarify.me', 'expiry': 1652209204, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1189890432.1644433205'}, {'domain': '.klarify.me', 'expiry': 1644435008, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '670197a6-6d8c-4f39-9eb3-e826ec2cde26'}, {'domain': '.klarify.me', 'expiry': 1652209220, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644433220201.707703516'}, {'domain': '.klarify.me', 'expiry': 1644435004, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A00%3A04.299Z'}, {'domain': '.klarify.me', 'expiry': 1675969208, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1de394c8-f6cf-4184-a93d-3b41a859ad54'}, {'domain': '.klarify.me', 'expiry': 1644435008, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '670197a6-6d8c-4f39-9eb3-e826ec2cde26'}, {'domain': '.klarify.me', 'expiry': 1678619918, 'httpOnly': False, 'name': '_scid', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '41d1e176-c670-47d2-bb56-b8016a31ff02'}, {'domain': 'de.klarify.me', 'httpOnly': False, 'name': 'discount_code', 'path': '/', 'secure': False, 'value': ''}, {'domain': '.klarify.me', 'expiry': 1707505204, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1118712768.1644433204'}, {'domain': '.klarify.me', 'expiry': 1644433264, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.klarify.me', 'expiry': 1675969208, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1de394c8-f6cf-4184-a93d-3b41a859ad54'}, {'domain': '.klarify.me', 'expiry': 1644519604, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.473664565.1644433204'}, {'domain': 'de.klarify.me', 'expiry': 1675969220, 'httpOnly': False, 'name': '_sn_n', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '{"a":{"i":"a61b0112-77db-4cad-bb7c-7d3eb2797829"}}'}, {'domain': 'de.klarify.me', 'expiry': 1675969220, 'httpOnly': False, 'name': '_sn_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '{"r":{"n":1}}'}, {'domain': '.klarify.me', 'expiry': 1645642803, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.klarify.me', 'expiry': 1645642803, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'de.klarify.me', 'expiry': 1675969219, 'httpOnly': False, 'name': 'CookieInformationConsent', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '%7B%22website_uuid%22%3A%222e0ecced-8a92-4b16-9038-9a9db434c6c2%22%2C%22timestamp%22%3A%222022-02-09T19%3A00%3A19.907Z%22%2C%22consent_url%22%3A%22https%3A%2F%2Fde.klarify.me%2F%22%2C%22consent_website%22%3A%22klarify.me%20%5Bv2%5D%22%2C%22consent_domain%22%3A%22de.klarify.me%22%2C%22user_uid%22%3A%2256efdab6-1859-4ea7-8885-c07926e925f8%22%2C%22consents_approved%22%3A%5B%22cookie_cat_necessary%22%2C%22cookie_cat_functional%22%2C%22cookie_cat_statistic%22%2C%22cookie_cat_marketing%22%2C%22cookie_cat_unclassified%22%5D%2C%22consents_denied%22%3A%5B%5D%2C%22user_agent%22%3A%22Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F98.0.4758.82%20Safari%2F537.36%22%7D'}, {'domain': '.klarify.me', 'expiry': 1644435004, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'de.klarify.me', 'httpOnly': False, 'name': 'SNS', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'de.klarify.me', 'expiry': 1675969208, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _sn_a
+[After] Cookie-Name 2: _gcl_au
+[After] Cookie-Name 3: _shopify_s
+[After] Cookie-Name 4: _fbp
+[After] Cookie-Name 5: _shopify_sa_t
+[After] Cookie-Name 6: _shopify_y
+[After] Cookie-Name 7: _s
+[After] Cookie-Name 8: _scid
+[After] Cookie-Name 9: discount_code
+[After] Cookie-Name 10: _ga
+[After] Cookie-Name 11: _gat
+[After] Cookie-Name 12: _y
+[After] Cookie-Name 13: _gid
+[After] Cookie-Name 14: _sn_n
+[After] Cookie-Name 15: _sn_m
+[After] Cookie-Name 16: _orig_referrer
+[After] Cookie-Name 17: _landing_page
+[After] Cookie-Name 18: CookieInformationConsent
+[After] Cookie-Name 19: _shopify_sa_p
+[After] Cookie-Name 20: SNS
+[After] Cookie-Name 21: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 7
+[Difference] Cookie-Name: 1: _fbp
+[Difference] Cookie-Name: 2: _sn_a
+[Difference] Cookie-Name: 3: SNS
+[Difference] Cookie-Name: 4: _sn_n
+[Difference] Cookie-Name: 5: _sn_m
+[Difference] Cookie-Name: 6: _scid
+[Difference] Cookie-Name: 7: CookieInformationConsent
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

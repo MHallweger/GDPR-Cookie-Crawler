@@ -1,0 +1,114 @@
+Website 211: http://www.diealpenkraft.de/ | Created: 10.02.2022 18:23:05 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 39
+[Before] Website-Cookies: [{'domain': '.alpenkraft.shop', 'expiry': 1644515575, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': '0jyztPEANmDich-20220210172255'}, {'domain': '.alpenkraft.shop', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220210172255-Uq5CUofR4muxyLKErUH3AudFuvUj0tnWrl1l1HsJmrv6Zh2GG'}, {'domain': '.alpenkraft.shop', 'expiry': 1644600175, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': 'qiuo6x|1644513775724|1|1|j.clarity.ms/collect'}, {'domain': '.alpenkraft.shop', 'httpOnly': False, 'name': 'soundest-views', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'alpenkraft.shop', 'httpOnly': False, 'name': 'fsb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.alpenkraft.shop', 'expiry': 1676049775, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': '3g68wa|1|eyv|0'}, {'domain': 'alpenkraft.shop', 'expiry': 1644514075, 'httpOnly': False, 'name': 'outbrain_cid_fetch', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': '.alpenkraft.shop', 'expiry': 1678677775, 'httpOnly': False, 'name': 'cto_bundle', 'path': '/', 'secure': False, 'value': 'sNVZUl84M2xicCUyRlJXQkJsa0dXSzkwYlVZJTJCY0prUzRqTjJxJTJCcDZ6eUw0d0YzU2F5eURtZWREeWhyT0NCWVJhQVg3OXdMT1VsZW5oVERtbFNtRCUyRlRYajVkJTJGTk1Kbjl6OVYzRnpyazNrJTJCUmsyVElKNiUyQjdBUSUyQkxyVkdVbHVGeDFQMFpUZ0I2eER5TUo5SmprdHNkQ3Z0UkdSSThnJTNEJTNE'}, {'domain': '.alpenkraft.shop', 'expiry': 1676049774, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU56Vm1OR1JqWWprdE1ESTBPQzAwTkRVekxUbGlaVEF0TVdZellUWm1ZelV6TXpGbQ'}, {'domain': '.alpenkraft.shop', 'expiry': 1644600174, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.2011060530.1644513775'}, {'domain': '.alpenkraft.shop', 'expiry': 1678209774, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '15454ef08a9611ec8f8b7117c8a160dc'}, {'domain': 'alpenkraft.shop', 'expiry': 1676049775, 'httpOnly': False, 'name': 'optiMonkClientId', 'path': '/', 'secure': False, 'value': 'f27c29c2-e382-397f-8c7e-e06eec773f0c'}, {'domain': '.alpenkraft.shop', 'expiry': 1644515576, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.alpenkraft.shop', 'expiry': 1644600174, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': '15452bc08a9611ec987e91aa4f525c4b'}, {'domain': '.alpenkraft.shop', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.alpenkraft.shop', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'alpenkraft.shop', 'expiry': 1645723376, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.alpenkraft.shop', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A22%3A54.857Z'}, {'domain': '.alpenkraft.shop', 'expiry': 1676049773, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': '.alpenkraft.shop', 'expiry': 1652289774, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.458870379.1644513775'}, {'domain': 'alpenkraft.shop', 'expiry': 1739121776, 'httpOnly': False, 'name': '_ruid', 'path': '/', 'secure': False, 'value': 'eyJ1dWlkIjoiOTczMWMzYmEtMjY2OC00YjlkLTg1ZWItZDEyZjBlYmE0MTQ4In0%3D'}, {'domain': 'alpenkraft.shop', 'expiry': 1707627626, 'httpOnly': False, 'name': '_zp_client', 'path': '/', 'secure': False, 'value': 'iKpwRSNV_ZHI9-KA'}, {'domain': '.alpenkraft.shop', 'expiry': 1707585774, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.866003822.1644513775'}, {'domain': '.alpenkraft.shop', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.alpenkraft.shop', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '52ae1672-8431-4799-a701-f08163ce3a72'}, {'domain': '.alpenkraft.shop', 'expiry': 1676049775, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'uh9y32KJnelp0E-20220210172255'}, {'domain': '.alpenkraft.shop', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3ff53e35-0fcb-4fb5-a011-80db9f7ea11a'}, {'domain': '.alpenkraft.shop', 'expiry': 1645723373, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.alpenkraft.shop', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '52ae1672-8431-4799-a701-f08163ce3a72'}, {'domain': '.alpenkraft.shop', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3ff53e35-0fcb-4fb5-a011-80db9f7ea11a'}, {'domain': '.alpenkraft.shop', 'expiry': 1644513834, 'httpOnly': False, 'name': '_gat_gtag_UA_171022603_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.alpenkraft.shop', 'expiry': 1676049773, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.alpenkraft.shop', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'alpenkraft.shop', 'expiry': 1676049776, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'alpenkraft.shop', 'expiry': 1645723376, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'alpenkraft.shop', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.alpenkraft.shop', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A22%3A54.779Z'}, {'domain': 'alpenkraft.shop', 'expiry': 1707585775, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ1MTM3NzYsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vYWxwZW5rcmFmdC5zaG9wLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDUxMzc3NiwidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly9hbHBlbmtyYWZ0LnNob3AvIn19'}, {'domain': 'alpenkraft.shop', 'expiry': 1644515573, 'httpOnly': False, 'name': '_shopify_country', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'Germany'}]
+[Before] Cookie-Name 1: omnisendSessionID
+[Before] Cookie-Name 2: soundestID
+[Before] Cookie-Name 3: _clsk
+[Before] Cookie-Name 4: soundest-views
+[Before] Cookie-Name 5: fsb_previous_pathname
+[Before] Cookie-Name 6: _clck
+[Before] Cookie-Name 7: outbrain_cid_fetch
+[Before] Cookie-Name 8: cto_bundle
+[Before] Cookie-Name 9: _pin_unauth
+[Before] Cookie-Name 10: _gid
+[Before] Cookie-Name 11: _uetvid
+[Before] Cookie-Name 12: optiMonkClientId
+[Before] Cookie-Name 13: _shopify_tm
+[Before] Cookie-Name 14: _uetsid
+[Before] Cookie-Name 15: _shopify_sa_p
+[Before] Cookie-Name 16: _shopify_evids
+[Before] Cookie-Name 17: localization
+[Before] Cookie-Name 18: _shopify_sa_t
+[Before] Cookie-Name 19: _tracking_consent
+[Before] Cookie-Name 20: _gcl_au
+[Before] Cookie-Name 21: _ruid
+[Before] Cookie-Name 22: _zp_client
+[Before] Cookie-Name 23: _ga
+[Before] Cookie-Name 24: _landing_page
+[Before] Cookie-Name 25: _shopify_s
+[Before] Cookie-Name 26: omnisendAnonymousID
+[Before] Cookie-Name 27: _shopify_y
+[Before] Cookie-Name 28: _shopify_tw
+[Before] Cookie-Name 29: _s
+[Before] Cookie-Name 30: _y
+[Before] Cookie-Name 31: _gat_gtag_UA_171022603_1
+[Before] Cookie-Name 32: _shopify_m
+[Before] Cookie-Name 33: _orig_referrer
+[Before] Cookie-Name 34: secure_customer_sig
+[Before] Cookie-Name 35: cart_currency
+[Before] Cookie-Name 36: _shopify_evids
+[Before] Cookie-Name 37: _shopify_d
+[Before] Cookie-Name 38: __kla_id
+[Before] Cookie-Name 39: _shopify_country
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 38
+[After] Website-Cookies: [{'domain': 'alpenkraft.shop', 'expiry': 1676049790, 'httpOnly': False, 'name': 'CookieConsent', 'path': '/', 'secure': True, 'value': '{stamp:%27wn5XrBVFsKmPM2W5ojA0R6Ca6leVGxhndcHmCl1d7mkBySKzUxwwnw==%27%2Cnecessary:true%2Cpreferences:true%2Cstatistics:true%2Cmarketing:true%2Cver:1%2Cutc:1644513790887%2Cregion:%27de%27}'}, {'domain': '.alpenkraft.shop', 'expiry': 1644515575, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': '0jyztPEANmDich-20220210172255'}, {'domain': '.alpenkraft.shop', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220210172255-Uq5CUofR4muxyLKErUH3AudFuvUj0tnWrl1l1HsJmrv6Zh2GG'}, {'domain': '.alpenkraft.shop', 'expiry': 1644600175, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': 'qiuo6x|1644513775724|1|1|j.clarity.ms/collect'}, {'domain': '.alpenkraft.shop', 'httpOnly': False, 'name': 'soundest-views', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'alpenkraft.shop', 'httpOnly': False, 'name': 'fsb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.alpenkraft.shop', 'expiry': 1676049775, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': '3g68wa|1|eyv|0'}, {'domain': 'alpenkraft.shop', 'expiry': 1644514075, 'httpOnly': False, 'name': 'outbrain_cid_fetch', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': '.alpenkraft.shop', 'expiry': 1678677775, 'httpOnly': False, 'name': 'cto_bundle', 'path': '/', 'secure': False, 'value': 'sNVZUl84M2xicCUyRlJXQkJsa0dXSzkwYlVZJTJCY0prUzRqTjJxJTJCcDZ6eUw0d0YzU2F5eURtZWREeWhyT0NCWVJhQVg3OXdMT1VsZW5oVERtbFNtRCUyRlRYajVkJTJGTk1Kbjl6OVYzRnpyazNrJTJCUmsyVElKNiUyQjdBUSUyQkxyVkdVbHVGeDFQMFpUZ0I2eER5TUo5SmprdHNkQ3Z0UkdSSThnJTNEJTNE'}, {'domain': '.alpenkraft.shop', 'expiry': 1676049774, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU56Vm1OR1JqWWprdE1ESTBPQzAwTkRVekxUbGlaVEF0TVdZellUWm1ZelV6TXpGbQ'}, {'domain': '.alpenkraft.shop', 'expiry': 1644600174, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.2011060530.1644513775'}, {'domain': '.alpenkraft.shop', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.alpenkraft.shop', 'expiry': 1707585774, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.866003822.1644513775'}, {'domain': '.alpenkraft.shop', 'expiry': 1678209774, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '15454ef08a9611ec8f8b7117c8a160dc'}, {'domain': 'alpenkraft.shop', 'expiry': 1676049775, 'httpOnly': False, 'name': 'optiMonkClientId', 'path': '/', 'secure': False, 'value': 'f27c29c2-e382-397f-8c7e-e06eec773f0c'}, {'domain': '.alpenkraft.shop', 'expiry': 1644515576, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.alpenkraft.shop', 'expiry': 1644600174, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': '15452bc08a9611ec987e91aa4f525c4b'}, {'domain': '.alpenkraft.shop', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.alpenkraft.shop', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'alpenkraft.shop', 'expiry': 1645723376, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.alpenkraft.shop', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A22%3A54.857Z'}, {'domain': '.alpenkraft.shop', 'expiry': 1652289774, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.458870379.1644513775'}, {'domain': '.alpenkraft.shop', 'expiry': 1676049773, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': '.alpenkraft.shop', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '52ae1672-8431-4799-a701-f08163ce3a72'}, {'domain': '.alpenkraft.shop', 'expiry': 1676049775, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'uh9y32KJnelp0E-20220210172255'}, {'domain': '.alpenkraft.shop', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3ff53e35-0fcb-4fb5-a011-80db9f7ea11a'}, {'domain': '.alpenkraft.shop', 'expiry': 1645723373, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.alpenkraft.shop', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '52ae1672-8431-4799-a701-f08163ce3a72'}, {'domain': '.alpenkraft.shop', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3ff53e35-0fcb-4fb5-a011-80db9f7ea11a'}, {'domain': '.alpenkraft.shop', 'expiry': 1644513834, 'httpOnly': False, 'name': '_gat_gtag_UA_171022603_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.alpenkraft.shop', 'expiry': 1676049773, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.alpenkraft.shop', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'alpenkraft.shop', 'expiry': 1676049776, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'alpenkraft.shop', 'expiry': 1645723376, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'alpenkraft.shop', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.alpenkraft.shop', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A22%3A54.779Z'}, {'domain': 'alpenkraft.shop', 'expiry': 1707585775, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ1MTM3NzYsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vYWxwZW5rcmFmdC5zaG9wLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDUxMzc3NiwidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly9hbHBlbmtyYWZ0LnNob3AvIn19'}, {'domain': 'alpenkraft.shop', 'expiry': 1644515573, 'httpOnly': False, 'name': '_shopify_country', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'Germany'}]
+[After] Cookie-Name 1: CookieConsent
+[After] Cookie-Name 2: omnisendSessionID
+[After] Cookie-Name 3: soundestID
+[After] Cookie-Name 4: _clsk
+[After] Cookie-Name 5: soundest-views
+[After] Cookie-Name 6: fsb_previous_pathname
+[After] Cookie-Name 7: _clck
+[After] Cookie-Name 8: outbrain_cid_fetch
+[After] Cookie-Name 9: cto_bundle
+[After] Cookie-Name 10: _pin_unauth
+[After] Cookie-Name 11: _gid
+[After] Cookie-Name 12: _landing_page
+[After] Cookie-Name 13: _ga
+[After] Cookie-Name 14: _uetvid
+[After] Cookie-Name 15: optiMonkClientId
+[After] Cookie-Name 16: _shopify_tm
+[After] Cookie-Name 17: _uetsid
+[After] Cookie-Name 18: _shopify_sa_p
+[After] Cookie-Name 19: _shopify_evids
+[After] Cookie-Name 20: localization
+[After] Cookie-Name 21: _shopify_sa_t
+[After] Cookie-Name 22: _gcl_au
+[After] Cookie-Name 23: _tracking_consent
+[After] Cookie-Name 24: _shopify_s
+[After] Cookie-Name 25: omnisendAnonymousID
+[After] Cookie-Name 26: _shopify_y
+[After] Cookie-Name 27: _shopify_tw
+[After] Cookie-Name 28: _s
+[After] Cookie-Name 29: _y
+[After] Cookie-Name 30: _gat_gtag_UA_171022603_1
+[After] Cookie-Name 31: _shopify_m
+[After] Cookie-Name 32: _orig_referrer
+[After] Cookie-Name 33: secure_customer_sig
+[After] Cookie-Name 34: cart_currency
+[After] Cookie-Name 35: _shopify_evids
+[After] Cookie-Name 36: _shopify_d
+[After] Cookie-Name 37: __kla_id
+[After] Cookie-Name 38: _shopify_country
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _clsk (Microsoft Clarity (User experience tool))
+[Used before] Cookie-Name: _clck (Microsoft Clarity (User experience tool))
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 3
+[Difference] Cookie-Name: 1: CookieConsent
+[Difference] Cookie-Name: 2: _ruid
+[Difference] Cookie-Name: 3: _zp_client
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

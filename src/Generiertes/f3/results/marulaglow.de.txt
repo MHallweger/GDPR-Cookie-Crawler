@@ -1,0 +1,83 @@
+Website 126: http://www.marulaglow.de/ | Created: 09.02.2022 14:20:10 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 25
+[Before] Website-Cookies: [{'domain': '.www.marulaglow.de', 'expiry': 1675948802, 'httpOnly': False, 'name': 'swym-cu_ct', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'undefined'}, {'domain': '.www.marulaglow.de', 'expiry': 1675948802, 'httpOnly': False, 'name': 'swym-email', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'null'}, {'domain': '.marulaglow.de', 'expiry': 1645622400, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.marulaglow.de', 'expiry': 1644412862, 'httpOnly': False, 'name': 'baMet_baEvs', 'path': '/', 'secure': False, 'value': '%5B%5D'}, {'domain': '.www.marulaglow.de', 'expiry': 1675948801, 'httpOnly': False, 'name': 'swym-pid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"LRHY039pOa0iyUYCmapdtBTT1Duu7AFmr1X5ZCoT7Xc="'}, {'domain': 'www.marulaglow.de', 'expiry': 1644416400, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'www.marulaglow.de', 'expiry': 1675948802, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.www.marulaglow.de', 'expiry': 1675948802, 'httpOnly': False, 'name': 'swym-swymRegid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"pHIGL9IIMLaK2aFW01Xdbcfqf7DY8HptVnCX2oTX0mnQ9yvD3UgKQ_u9Wval_eTs0LWIVemkTR6KVfhHd2kU-zRNgORBWMUqraEwe_SzkSTvpHFkl6Js8Vv6-oUqiadFfrYNFEEsLPWrtDovA6RCMwm2UOc3nynv1Mt5cOqBQcQ"'}, {'domain': '.www.marulaglow.de', 'expiry': 1644414602, 'httpOnly': False, 'name': 'swym-session-id', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"7ffbpb7mp6ld1sopwmkoovfzd38u2tm24fw5iekegryf1db02tsmihhg2wsf2vkz"'}, {'domain': '.marulaglow.de', 'expiry': 1644412860, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.marulaglow.de', 'expiry': 1644414602, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6093bb7e-7289-47f1-9ff5-24e06ecdff58'}, {'domain': '.marulaglow.de', 'expiry': 1652188801, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644412800760.1444990863'}, {'domain': '.marulaglow.de', 'expiry': 1644499200, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.143044646.1644412801'}, {'domain': '.marulaglow.de', 'expiry': 1645622400, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.marulaglow.de', 'expiry': 1644414600, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.marulaglow.de', 'expiry': 2508409200, 'httpOnly': False, 'name': 'theme-recent', 'path': '/', 'secure': False, 'value': '{%22undefined%22:{}}'}, {'domain': '.marulaglow.de', 'expiry': 1644414602, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6093bb7e-7289-47f1-9ff5-24e06ecdff58'}, {'domain': '.www.marulaglow.de', 'expiry': 1644414602, 'httpOnly': False, 'name': 'swym-o_s', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'true'}, {'domain': 'www.marulaglow.de', 'expiry': 1644414600, 'httpOnly': False, 'name': 'baMet_visit', 'path': '/', 'secure': False, 'value': 'b7e5c2d3563c47cca1c458f161540a831644412800460'}, {'domain': '.marulaglow.de', 'expiry': 1675948802, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5fd0d0de-dcce-40bc-9d34-034077306ed3'}, {'domain': '.marulaglow.de', 'expiry': 1675948802, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5fd0d0de-dcce-40bc-9d34-034077306ed3'}, {'domain': '.marulaglow.de', 'expiry': 1707484800, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.540740006.1644412801'}, {'domain': 'www.marulaglow.de', 'expiry': 1645622400, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.marulaglow.de', 'expiry': 1644414600, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A20%3A00.564Z'}, {'domain': 'www.marulaglow.de', 'expiry': 1645622402, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[Before] Cookie-Name 1: swym-cu_ct
+[Before] Cookie-Name 2: swym-email
+[Before] Cookie-Name 3: _orig_referrer
+[Before] Cookie-Name 4: baMet_baEvs
+[Before] Cookie-Name 5: swym-pid
+[Before] Cookie-Name 6: shopify_pay_redirect
+[Before] Cookie-Name 7: secure_customer_sig
+[Before] Cookie-Name 8: swym-swymRegid
+[Before] Cookie-Name 9: swym-session-id
+[Before] Cookie-Name 10: _gat
+[Before] Cookie-Name 11: _shopify_s
+[Before] Cookie-Name 12: _fbp
+[Before] Cookie-Name 13: _gid
+[Before] Cookie-Name 14: _landing_page
+[Before] Cookie-Name 15: _shopify_sa_p
+[Before] Cookie-Name 16: theme-recent
+[Before] Cookie-Name 17: _s
+[Before] Cookie-Name 18: swym-o_s
+[Before] Cookie-Name 19: baMet_visit
+[Before] Cookie-Name 20: _shopify_y
+[Before] Cookie-Name 21: _y
+[Before] Cookie-Name 22: _ga
+[Before] Cookie-Name 23: cart_currency
+[Before] Cookie-Name 24: _shopify_sa_t
+[Before] Cookie-Name 25: localization
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 25
+[After] Website-Cookies: [{'domain': '.www.marulaglow.de', 'expiry': 1675948802, 'httpOnly': False, 'name': 'swym-cu_ct', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'undefined'}, {'domain': '.www.marulaglow.de', 'expiry': 1675948802, 'httpOnly': False, 'name': 'swym-email', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'null'}, {'domain': '.marulaglow.de', 'expiry': 1645622400, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.marulaglow.de', 'expiry': 1644412862, 'httpOnly': False, 'name': 'baMet_baEvs', 'path': '/', 'secure': False, 'value': '%5B%5D'}, {'domain': '.www.marulaglow.de', 'expiry': 1675948801, 'httpOnly': False, 'name': 'swym-pid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"LRHY039pOa0iyUYCmapdtBTT1Duu7AFmr1X5ZCoT7Xc="'}, {'domain': 'www.marulaglow.de', 'expiry': 1644416400, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'www.marulaglow.de', 'expiry': 1675948802, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.www.marulaglow.de', 'expiry': 1675948802, 'httpOnly': False, 'name': 'swym-swymRegid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"pHIGL9IIMLaK2aFW01Xdbcfqf7DY8HptVnCX2oTX0mnQ9yvD3UgKQ_u9Wval_eTs0LWIVemkTR6KVfhHd2kU-zRNgORBWMUqraEwe_SzkSTvpHFkl6Js8Vv6-oUqiadFfrYNFEEsLPWrtDovA6RCMwm2UOc3nynv1Mt5cOqBQcQ"'}, {'domain': '.www.marulaglow.de', 'expiry': 1644414602, 'httpOnly': False, 'name': 'swym-session-id', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"7ffbpb7mp6ld1sopwmkoovfzd38u2tm24fw5iekegryf1db02tsmihhg2wsf2vkz"'}, {'domain': '.marulaglow.de', 'expiry': 1644412860, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.marulaglow.de', 'expiry': 1644414602, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6093bb7e-7289-47f1-9ff5-24e06ecdff58'}, {'domain': '.marulaglow.de', 'expiry': 1652188801, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644412800760.1444990863'}, {'domain': '.marulaglow.de', 'expiry': 1644499200, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.143044646.1644412801'}, {'domain': '.marulaglow.de', 'expiry': 1645622400, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.marulaglow.de', 'expiry': 1644414600, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.marulaglow.de', 'expiry': 2508409200, 'httpOnly': False, 'name': 'theme-recent', 'path': '/', 'secure': False, 'value': '{%22undefined%22:{}}'}, {'domain': '.marulaglow.de', 'expiry': 1644414602, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6093bb7e-7289-47f1-9ff5-24e06ecdff58'}, {'domain': '.www.marulaglow.de', 'expiry': 1644414602, 'httpOnly': False, 'name': 'swym-o_s', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'true'}, {'domain': 'www.marulaglow.de', 'expiry': 1644414600, 'httpOnly': False, 'name': 'baMet_visit', 'path': '/', 'secure': False, 'value': 'b7e5c2d3563c47cca1c458f161540a831644412800460'}, {'domain': '.marulaglow.de', 'expiry': 1675948802, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5fd0d0de-dcce-40bc-9d34-034077306ed3'}, {'domain': '.marulaglow.de', 'expiry': 1675948802, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5fd0d0de-dcce-40bc-9d34-034077306ed3'}, {'domain': '.marulaglow.de', 'expiry': 1707484800, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.540740006.1644412801'}, {'domain': 'www.marulaglow.de', 'expiry': 1645622400, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.marulaglow.de', 'expiry': 1644414600, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A20%3A00.564Z'}, {'domain': 'www.marulaglow.de', 'expiry': 1645622402, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: swym-cu_ct
+[After] Cookie-Name 2: swym-email
+[After] Cookie-Name 3: _orig_referrer
+[After] Cookie-Name 4: baMet_baEvs
+[After] Cookie-Name 5: swym-pid
+[After] Cookie-Name 6: shopify_pay_redirect
+[After] Cookie-Name 7: secure_customer_sig
+[After] Cookie-Name 8: swym-swymRegid
+[After] Cookie-Name 9: swym-session-id
+[After] Cookie-Name 10: _gat
+[After] Cookie-Name 11: _shopify_s
+[After] Cookie-Name 12: _fbp
+[After] Cookie-Name 13: _gid
+[After] Cookie-Name 14: _landing_page
+[After] Cookie-Name 15: _shopify_sa_p
+[After] Cookie-Name 16: theme-recent
+[After] Cookie-Name 17: _s
+[After] Cookie-Name 18: swym-o_s
+[After] Cookie-Name 19: baMet_visit
+[After] Cookie-Name 20: _shopify_y
+[After] Cookie-Name 21: _y
+[After] Cookie-Name 22: _ga
+[After] Cookie-Name 23: cart_currency
+[After] Cookie-Name 24: _shopify_sa_t
+[After] Cookie-Name 25: localization
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

@@ -1,0 +1,87 @@
+Website 86: http://www.simple-pledge.de/ | Created: 10.02.2022 17:44:44 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 26
+[Before] Website-Cookies: [{'domain': '.simple-pledge.de', 'expiry': 1676047478, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU56Vm1OR1JqWWprdE1ESTBPQzAwTkRVekxUbGlaVEF0TVdZellUWm1ZelV6TXpGbQ'}, {'domain': 'www.simple-pledge.de', 'expiry': 1644597877, 'httpOnly': False, 'name': '_ssw_cart_data', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'eyJjYXJ0IjoiMjUzYmNmYmZlNjJlNGNjNzk3OWNkY2YwZDc3ZDBkNDIiLCJjYXJ0X3Rva2VuIjoiMjUzYmNmYmZlNjJlNGNjNzk3OWNkY2YwZDc3ZDBkNDIifQ%3D%3D'}, {'domain': 'www.simple-pledge.de', 'httpOnly': False, 'name': 'hesid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'd7db34e3-65d4-684b-9cd4-0276def9125e'}, {'domain': 'www.simple-pledge.de', 'expiry': 1647103477, 'httpOnly': False, 'name': 'hash_key', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '620540f5ce289a2575113c57'}, {'domain': '.simple-pledge.de', 'expiry': 1678698173, 'httpOnly': False, 'name': '_scid', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'bd1eaa53-a4b5-4031-a753-37501d754395'}, {'domain': '.simple-pledge.de', 'expiry': 1644513277, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '08215412-aa69-49d4-9bda-0b77e71705db'}, {'domain': 'www.simple-pledge.de', 'expiry': 1645721074, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A2'}, {'domain': 'www.simple-pledge.de', 'expiry': 1645721074, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644511474'}, {'domain': 'www.simple-pledge.de', 'expiry': 1645721074, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '253bcfbfe62e4cc7979cdcf0d77d0d42'}, {'domain': 'www.simple-pledge.de', 'expiry': 1707583475, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ1MTE0NzUsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LnNpbXBsZS1wbGVkZ2UuZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NTExNDc1LCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL3d3dy5zaW1wbGUtcGxlZGdlLmRlLyJ9fQ=='}, {'domain': 'www.simple-pledge.de', 'expiry': 1645721074, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '902a859ed60f643a5098b6e3e180f6a4'}, {'domain': '.simple-pledge.de', 'expiry': 1644511534, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.simple-pledge.de', 'expiry': 1644597873, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.270031383.1644511474'}, {'domain': '.simple-pledge.de', 'expiry': 1707583473, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.160159375.1644511474'}, {'domain': '.simple-pledge.de', 'expiry': 1652287474, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644511474362.1436543697'}, {'domain': '.simple-pledge.de', 'expiry': 1644513277, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '08215412-aa69-49d4-9bda-0b77e71705db'}, {'domain': '.simple-pledge.de', 'expiry': 1676047477, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3354a965-e5d9-4314-94c3-9c88587eceb3'}, {'domain': 'www.simple-pledge.de', 'expiry': 1645721077, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.simple-pledge.de', 'expiry': 1644513273, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T16%3A44%3A33.879Z'}, {'domain': '.simple-pledge.de', 'expiry': 1645721073, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.simple-pledge.de', 'expiry': 1676047477, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.simple-pledge.de', 'expiry': 1645721073, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.simple-pledge.de', 'expiry': 1644513273, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.simple-pledge.de', 'expiry': 1676047477, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3354a965-e5d9-4314-94c3-9c88587eceb3'}, {'domain': 'www.simple-pledge.de', 'expiry': 1644513577, 'httpOnly': False, 'name': 'ssw_visitor', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'ssw_visitor1644511477361'}, {'domain': 'www.simple-pledge.de', 'expiry': 1645721077, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[Before] Cookie-Name 1: _pin_unauth
+[Before] Cookie-Name 2: _ssw_cart_data
+[Before] Cookie-Name 3: hesid
+[Before] Cookie-Name 4: hash_key
+[Before] Cookie-Name 5: _scid
+[Before] Cookie-Name 6: _s
+[Before] Cookie-Name 7: cart_ver
+[Before] Cookie-Name 8: cart_ts
+[Before] Cookie-Name 9: cart
+[Before] Cookie-Name 10: __kla_id
+[Before] Cookie-Name 11: cart_sig
+[Before] Cookie-Name 12: _gat
+[Before] Cookie-Name 13: _gid
+[Before] Cookie-Name 14: _ga
+[Before] Cookie-Name 15: _fbp
+[Before] Cookie-Name 16: _shopify_s
+[Before] Cookie-Name 17: _shopify_y
+[Before] Cookie-Name 18: cart_currency
+[Before] Cookie-Name 19: _shopify_sa_t
+[Before] Cookie-Name 20: _orig_referrer
+[Before] Cookie-Name 21: secure_customer_sig
+[Before] Cookie-Name 22: _landing_page
+[Before] Cookie-Name 23: _shopify_sa_p
+[Before] Cookie-Name 24: _y
+[Before] Cookie-Name 25: ssw_visitor
+[Before] Cookie-Name 26: localization
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 27
+[After] Website-Cookies: [{'domain': 'www.simple-pledge.de', 'expiry': 2508425090, 'httpOnly': False, 'name': 'cookies_accepted', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': '.simple-pledge.de', 'expiry': 1676047478, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU56Vm1OR1JqWWprdE1ESTBPQzAwTkRVekxUbGlaVEF0TVdZellUWm1ZelV6TXpGbQ'}, {'domain': 'www.simple-pledge.de', 'expiry': 1644597877, 'httpOnly': False, 'name': '_ssw_cart_data', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'eyJjYXJ0IjoiMjUzYmNmYmZlNjJlNGNjNzk3OWNkY2YwZDc3ZDBkNDIiLCJjYXJ0X3Rva2VuIjoiMjUzYmNmYmZlNjJlNGNjNzk3OWNkY2YwZDc3ZDBkNDIifQ%3D%3D'}, {'domain': 'www.simple-pledge.de', 'httpOnly': False, 'name': 'hesid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'd7db34e3-65d4-684b-9cd4-0276def9125e'}, {'domain': 'www.simple-pledge.de', 'expiry': 1647103477, 'httpOnly': False, 'name': 'hash_key', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '620540f5ce289a2575113c57'}, {'domain': '.simple-pledge.de', 'expiry': 1678698173, 'httpOnly': False, 'name': '_scid', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'bd1eaa53-a4b5-4031-a753-37501d754395'}, {'domain': '.simple-pledge.de', 'expiry': 1644513277, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '08215412-aa69-49d4-9bda-0b77e71705db'}, {'domain': 'www.simple-pledge.de', 'expiry': 1645721074, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A2'}, {'domain': 'www.simple-pledge.de', 'expiry': 1645721074, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644511474'}, {'domain': 'www.simple-pledge.de', 'expiry': 1645721074, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '253bcfbfe62e4cc7979cdcf0d77d0d42'}, {'domain': 'www.simple-pledge.de', 'expiry': 1707583475, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ1MTE0NzUsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LnNpbXBsZS1wbGVkZ2UuZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NTExNDc1LCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL3d3dy5zaW1wbGUtcGxlZGdlLmRlLyJ9fQ=='}, {'domain': 'www.simple-pledge.de', 'expiry': 1645721074, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '902a859ed60f643a5098b6e3e180f6a4'}, {'domain': '.simple-pledge.de', 'expiry': 1644511534, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.simple-pledge.de', 'expiry': 1644597873, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.270031383.1644511474'}, {'domain': '.simple-pledge.de', 'expiry': 1707583473, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.160159375.1644511474'}, {'domain': '.simple-pledge.de', 'expiry': 1652287490, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644511474362.1436543697'}, {'domain': '.simple-pledge.de', 'expiry': 1644513277, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '08215412-aa69-49d4-9bda-0b77e71705db'}, {'domain': '.simple-pledge.de', 'expiry': 1676047477, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3354a965-e5d9-4314-94c3-9c88587eceb3'}, {'domain': 'www.simple-pledge.de', 'expiry': 1645721077, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.simple-pledge.de', 'expiry': 1644513273, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T16%3A44%3A33.879Z'}, {'domain': '.simple-pledge.de', 'expiry': 1645721073, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.simple-pledge.de', 'expiry': 1676047477, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.simple-pledge.de', 'expiry': 1645721073, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.simple-pledge.de', 'expiry': 1644513273, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.simple-pledge.de', 'expiry': 1676047477, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3354a965-e5d9-4314-94c3-9c88587eceb3'}, {'domain': 'www.simple-pledge.de', 'expiry': 1644513577, 'httpOnly': False, 'name': 'ssw_visitor', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'ssw_visitor1644511477361'}, {'domain': 'www.simple-pledge.de', 'expiry': 1645721077, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[After] Cookie-Name 1: cookies_accepted
+[After] Cookie-Name 2: _pin_unauth
+[After] Cookie-Name 3: _ssw_cart_data
+[After] Cookie-Name 4: hesid
+[After] Cookie-Name 5: hash_key
+[After] Cookie-Name 6: _scid
+[After] Cookie-Name 7: _s
+[After] Cookie-Name 8: cart_ver
+[After] Cookie-Name 9: cart_ts
+[After] Cookie-Name 10: cart
+[After] Cookie-Name 11: __kla_id
+[After] Cookie-Name 12: cart_sig
+[After] Cookie-Name 13: _gat
+[After] Cookie-Name 14: _gid
+[After] Cookie-Name 15: _ga
+[After] Cookie-Name 16: _fbp
+[After] Cookie-Name 17: _shopify_s
+[After] Cookie-Name 18: _shopify_y
+[After] Cookie-Name 19: cart_currency
+[After] Cookie-Name 20: _shopify_sa_t
+[After] Cookie-Name 21: _orig_referrer
+[After] Cookie-Name 22: secure_customer_sig
+[After] Cookie-Name 23: _landing_page
+[After] Cookie-Name 24: _shopify_sa_p
+[After] Cookie-Name 25: _y
+[After] Cookie-Name 26: ssw_visitor
+[After] Cookie-Name 27: localization
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: cookies_accepted
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

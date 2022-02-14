@@ -1,0 +1,91 @@
+Website 303: http://www.rubin-extensions.de/ | Created: 09.02.2022 12:16:55 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 28
+[Before] Website-Cookies: [{'domain': 'www.rubin-extensions.de', 'httpOnly': False, 'name': '__wtba', 'path': '/', 'secure': False, 'value': 'eyJwaSI6eyJuYW1lIjoiLyIsImNvdW50IjoxfSwidWkiOnsidCI6MTY0NDQwNTQwNi44NTMsInVhIjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzk4LjAuNDc1OC44MiBTYWZhcmkvNTM3LjM2IiwidG1wdCI6Ilh2bkFPTXowc0c0QksySWs2eko3OFdER3RoUnZWb3J3MW1MeFV6SVMiLCJ0YXRkIjoiNjM0MDM5NDc4LTQ2NjM0NS02MzU1Mzk1OTIifX0='}, {'domain': 'www.rubin-extensions.de', 'expiry': 1645615006, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644405406'}, {'domain': 'www.rubin-extensions.de', 'expiry': 1645615006, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c25f984bb12611dc8d610769b5f4e3ce'}, {'domain': '.rubin-extensions.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220209111646-lFfMosQBghLemJFnzH1Unsvw2PML8oy9lrudHAVCTS9Jvn6kL'}, {'domain': 'www.rubin-extensions.de', 'expiry': 1802085406, 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'secure': True, 'value': '70069998-b96c-4839-9771-3ef4518087b4'}, {'domain': '.rubin-extensions.de', 'expiry': 1644405466, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.rubin-extensions.de', 'expiry': 1675941407, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'uatRbELrHXSHMI-20220209111646'}, {'domain': '.rubin-extensions.de', 'expiry': 1707477406, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.275468268.1644405406'}, {'domain': 'www.rubin-extensions.de', 'expiry': 1644407206, 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'secure': True, 'value': '7aec0b53-9b49-428b-a931-0b44988ba50b'}, {'domain': '.rubin-extensions.de', 'expiry': 1675941406, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a5c57543-ad7c-4e68-ad84-1b8bfac0efda'}, {'domain': '.rubin-extensions.de', 'expiry': 1644491806, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1055615181.1644405406'}, {'domain': '.rubin-extensions.de', 'httpOnly': False, 'name': 'soundest-views', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.rubin-extensions.de', 'expiry': 1644407206, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.rubin-extensions.de', 'expiry': 1644407207, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'ur8Hf3hc5pxC87-20220209111646'}, {'domain': 'www.rubin-extensions.de', 'expiry': 1644407206, 'httpOnly': False, 'name': 'dynamic_checkout_shown_on_cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.rubin-extensions.de', 'expiry': 1644407206, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T11%3A16%3A46.191Z'}, {'domain': '.rubin-extensions.de', 'expiry': 1644407206, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd1f8449d-ca67-4e88-b8d3-bf85b166a7e9'}, {'domain': '.rubin-extensions.de', 'expiry': 1644407206, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd1f8449d-ca67-4e88-b8d3-bf85b166a7e9'}, {'domain': '.rubin-extensions.de', 'expiry': 1645615006, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.rubin-extensions.de', 'expiry': 1645615006, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2524a484ea5169fa9b3628a5aa482cc1'}, {'domain': 'www.rubin-extensions.de', 'expiry': 1707477406, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MDU0MDcsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LnJ1YmluLWV4dGVuc2lvbnMuZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NDA1NDA3LCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL3d3dy5ydWJpbi1leHRlbnNpb25zLmRlLyJ9fQ=='}, {'domain': 'www.rubin-extensions.de', 'expiry': 1645615006, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': 'www.rubin-extensions.de', 'expiry': 1645615006, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.rubin-extensions.de', 'expiry': 1645615006, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.rubin-extensions.de', 'expiry': 1675941406, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a5c57543-ad7c-4e68-ad84-1b8bfac0efda'}, {'domain': 'www.rubin-extensions.de', 'expiry': 1645615006, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.rubin-extensions.de', 'expiry': 1652181407, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644405406581.1468214433'}, {'domain': 'www.rubin-extensions.de', 'expiry': 1675941406, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: __wtba
+[Before] Cookie-Name 2: cart_ts
+[Before] Cookie-Name 3: cart
+[Before] Cookie-Name 4: soundestID
+[Before] Cookie-Name 5: _shg_user_id
+[Before] Cookie-Name 6: _gat
+[Before] Cookie-Name 7: omnisendAnonymousID
+[Before] Cookie-Name 8: _ga
+[Before] Cookie-Name 9: _shg_session_id
+[Before] Cookie-Name 10: _y
+[Before] Cookie-Name 11: _gid
+[Before] Cookie-Name 12: soundest-views
+[Before] Cookie-Name 13: _shopify_sa_p
+[Before] Cookie-Name 14: omnisendSessionID
+[Before] Cookie-Name 15: dynamic_checkout_shown_on_cart
+[Before] Cookie-Name 16: _shopify_sa_t
+[Before] Cookie-Name 17: _s
+[Before] Cookie-Name 18: _shopify_s
+[Before] Cookie-Name 19: _landing_page
+[Before] Cookie-Name 20: cart_sig
+[Before] Cookie-Name 21: __kla_id
+[Before] Cookie-Name 22: cart_ver
+[Before] Cookie-Name 23: cart_currency
+[Before] Cookie-Name 24: _orig_referrer
+[Before] Cookie-Name 25: _shopify_y
+[Before] Cookie-Name 26: localization
+[Before] Cookie-Name 27: _fbp
+[Before] Cookie-Name 28: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 28
+[After] Website-Cookies: [{'domain': 'www.rubin-extensions.de', 'httpOnly': False, 'name': '__wtba', 'path': '/', 'secure': False, 'value': 'eyJwaSI6eyJuYW1lIjoiLyIsImNvdW50IjoxfSwidWkiOnsidCI6MTY0NDQwNTQwNi44NTMsInVhIjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzk4LjAuNDc1OC44MiBTYWZhcmkvNTM3LjM2IiwidG1wdCI6Ilh2bkFPTXowc0c0QksySWs2eko3OFdER3RoUnZWb3J3MW1MeFV6SVMiLCJ0YXRkIjoiNjM0MDM5NDc4LTQ2NjM0NS02MzU1Mzk1OTIifX0='}, {'domain': 'www.rubin-extensions.de', 'expiry': 1645615006, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644405406'}, {'domain': 'www.rubin-extensions.de', 'expiry': 1645615006, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c25f984bb12611dc8d610769b5f4e3ce'}, {'domain': '.rubin-extensions.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220209111646-lFfMosQBghLemJFnzH1Unsvw2PML8oy9lrudHAVCTS9Jvn6kL'}, {'domain': 'www.rubin-extensions.de', 'expiry': 1802085406, 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'secure': True, 'value': '70069998-b96c-4839-9771-3ef4518087b4'}, {'domain': '.rubin-extensions.de', 'expiry': 1644405466, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.rubin-extensions.de', 'expiry': 1675941407, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'uatRbELrHXSHMI-20220209111646'}, {'domain': '.rubin-extensions.de', 'expiry': 1707477406, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.275468268.1644405406'}, {'domain': 'www.rubin-extensions.de', 'expiry': 1644407206, 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'secure': True, 'value': '7aec0b53-9b49-428b-a931-0b44988ba50b'}, {'domain': '.rubin-extensions.de', 'expiry': 1675941406, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a5c57543-ad7c-4e68-ad84-1b8bfac0efda'}, {'domain': '.rubin-extensions.de', 'expiry': 1644491806, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1055615181.1644405406'}, {'domain': '.rubin-extensions.de', 'httpOnly': False, 'name': 'soundest-views', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.rubin-extensions.de', 'expiry': 1644407206, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.rubin-extensions.de', 'expiry': 1644407207, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'ur8Hf3hc5pxC87-20220209111646'}, {'domain': 'www.rubin-extensions.de', 'expiry': 1644407206, 'httpOnly': False, 'name': 'dynamic_checkout_shown_on_cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.rubin-extensions.de', 'expiry': 1644407206, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T11%3A16%3A46.191Z'}, {'domain': '.rubin-extensions.de', 'expiry': 1644407206, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd1f8449d-ca67-4e88-b8d3-bf85b166a7e9'}, {'domain': '.rubin-extensions.de', 'expiry': 1644407206, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd1f8449d-ca67-4e88-b8d3-bf85b166a7e9'}, {'domain': '.rubin-extensions.de', 'expiry': 1645615006, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.rubin-extensions.de', 'expiry': 1645615006, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2524a484ea5169fa9b3628a5aa482cc1'}, {'domain': 'www.rubin-extensions.de', 'expiry': 1707477406, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MDU0MDcsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LnJ1YmluLWV4dGVuc2lvbnMuZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NDA1NDA3LCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL3d3dy5ydWJpbi1leHRlbnNpb25zLmRlLyJ9fQ=='}, {'domain': 'www.rubin-extensions.de', 'expiry': 1645615006, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': 'www.rubin-extensions.de', 'expiry': 1645615006, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.rubin-extensions.de', 'expiry': 1645615006, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.rubin-extensions.de', 'expiry': 1675941406, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a5c57543-ad7c-4e68-ad84-1b8bfac0efda'}, {'domain': 'www.rubin-extensions.de', 'expiry': 1645615006, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.rubin-extensions.de', 'expiry': 1652181407, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644405406581.1468214433'}, {'domain': 'www.rubin-extensions.de', 'expiry': 1675941406, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: __wtba
+[After] Cookie-Name 2: cart_ts
+[After] Cookie-Name 3: cart
+[After] Cookie-Name 4: soundestID
+[After] Cookie-Name 5: _shg_user_id
+[After] Cookie-Name 6: _gat
+[After] Cookie-Name 7: omnisendAnonymousID
+[After] Cookie-Name 8: _ga
+[After] Cookie-Name 9: _shg_session_id
+[After] Cookie-Name 10: _y
+[After] Cookie-Name 11: _gid
+[After] Cookie-Name 12: soundest-views
+[After] Cookie-Name 13: _shopify_sa_p
+[After] Cookie-Name 14: omnisendSessionID
+[After] Cookie-Name 15: dynamic_checkout_shown_on_cart
+[After] Cookie-Name 16: _shopify_sa_t
+[After] Cookie-Name 17: _s
+[After] Cookie-Name 18: _shopify_s
+[After] Cookie-Name 19: _landing_page
+[After] Cookie-Name 20: cart_sig
+[After] Cookie-Name 21: __kla_id
+[After] Cookie-Name 22: cart_ver
+[After] Cookie-Name 23: cart_currency
+[After] Cookie-Name 24: _orig_referrer
+[After] Cookie-Name 25: _shopify_y
+[After] Cookie-Name 26: localization
+[After] Cookie-Name 27: _fbp
+[After] Cookie-Name 28: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

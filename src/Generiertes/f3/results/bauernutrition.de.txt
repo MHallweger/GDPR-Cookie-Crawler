@@ -1,0 +1,85 @@
+Website 374: http://www.bauernutrition.de/ | Created: 09.02.2022 15:34:26 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 22
+[Before] Website-Cookies: [{'domain': 'bauernutrition.de', 'expiry': 1707489257, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MTcyNTgsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vYmF1ZXJudXRyaXRpb24uZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NDE3MjU4LCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL2JhdWVybnV0cml0aW9uLmRlLyJ9fQ=='}, {'domain': 'bauernutrition.de', 'expiry': 1675953257, 'httpOnly': False, 'name': 'SnapABugUserAlias', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '%23'}, {'domain': 'bauernutrition.de', 'expiry': 1675953257, 'httpOnly': False, 'name': 'SnapABugHistory', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1#'}, {'domain': 'bauernutrition.de', 'expiry': 1644424457, 'httpOnly': False, 'name': 'SnapABugRef', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'https%3A%2F%2Fbauernutrition.de%2F%20'}, {'domain': 'bauernutrition.de', 'expiry': 1644419057, 'httpOnly': False, 'name': '_sp_ses.9f26', 'path': '/', 'secure': False, 'value': '*'}, {'domain': 'bauernutrition.de', 'httpOnly': False, 'name': 'colcolor1', 'path': '/', 'secure': False, 'value': ''}, {'domain': '.bauernutrition.de', 'expiry': 1652193257, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644417256866.984453549'}, {'domain': '.bauernutrition.de', 'expiry': 1644417316, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.bauernutrition.de', 'expiry': 1707489256, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.935203858.1644417257'}, {'domain': '.bauernutrition.de', 'expiry': 1644419056, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.bauernutrition.de', 'expiry': 1644419056, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T14%3A34%3A16.657Z'}, {'domain': '.bauernutrition.de', 'expiry': 1652193256, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.2008466005.1644417257'}, {'domain': '.bauernutrition.de', 'expiry': 1675953259, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '033b9206-8ed9-4adb-83a4-17bf9c73c050'}, {'domain': 'bauernutrition.de', 'expiry': 1675953259, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.bauernutrition.de', 'expiry': 1644419059, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9818379a-f144-40ff-8826-a1a73b1fdc84'}, {'domain': 'bauernutrition.de', 'expiry': 1707489257, 'httpOnly': False, 'name': '_sp_id.9f26', 'path': '/', 'secure': False, 'value': 'a1c0d3b928998949.1644417258.1.1644417258.1644417258'}, {'domain': '.bauernutrition.de', 'expiry': 1675953259, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '033b9206-8ed9-4adb-83a4-17bf9c73c050'}, {'domain': 'bauernutrition.de', 'httpOnly': False, 'name': 'SnapABugVisit', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1#1644417258'}, {'domain': '.bauernutrition.de', 'expiry': 1644419059, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9818379a-f144-40ff-8826-a1a73b1fdc84'}, {'domain': '.bauernutrition.de', 'expiry': 1645626856, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.bauernutrition.de', 'expiry': 1644503656, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.981879732.1644417257'}, {'domain': '.bauernutrition.de', 'expiry': 1645626856, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[Before] Cookie-Name 1: __kla_id
+[Before] Cookie-Name 2: SnapABugUserAlias
+[Before] Cookie-Name 3: SnapABugHistory
+[Before] Cookie-Name 4: SnapABugRef
+[Before] Cookie-Name 5: _sp_ses.9f26
+[Before] Cookie-Name 6: colcolor1
+[Before] Cookie-Name 7: _fbp
+[Before] Cookie-Name 8: _gat
+[Before] Cookie-Name 9: _ga
+[Before] Cookie-Name 10: _shopify_sa_p
+[Before] Cookie-Name 11: _shopify_sa_t
+[Before] Cookie-Name 12: _gcl_au
+[Before] Cookie-Name 13: _shopify_y
+[Before] Cookie-Name 14: secure_customer_sig
+[Before] Cookie-Name 15: _s
+[Before] Cookie-Name 16: _sp_id.9f26
+[Before] Cookie-Name 17: _y
+[Before] Cookie-Name 18: SnapABugVisit
+[Before] Cookie-Name 19: _shopify_s
+[Before] Cookie-Name 20: _landing_page
+[Before] Cookie-Name 21: _gid
+[Before] Cookie-Name 22: _orig_referrer
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 26
+[After] Website-Cookies: [{'domain': '.bauernutrition.de', 'expiry': 1675953272, 'httpOnly': False, 'name': '__ar_v4', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7CWAWZINWVIZFIHFMNG6GAAQ%3A20220211%3A1%7CU5HEF3V5CZE6BMULKVK76V%3A20220211%3A1'}, {'domain': '.bauernutrition.de', 'expiry': 1675974872, 'httpOnly': False, 'name': '__adroll_fpc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'beac494eca3e7945db0f2093b356b378-1644417272114'}, {'domain': '.bauernutrition.de', 'expiry': 1675953272, 'httpOnly': False, 'name': '__adroll_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'CPUJimxPUJimxAAACBDEAJCv_____3___wYgAQwAYAAgBCAEMAGAAIAQgAA%23WAWZINWVIZFIHFMNG6GAAQ'}, {'domain': '.bauernutrition.de', 'httpOnly': False, 'name': '__adroll_consent_params', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '_l%3Dde%26_c%3D1%26_v%3D9%26_tcf%3D2%26iab%3D2%26_e%3Ddeferred_consent%26_s%3Df42da0917318378272a361dd13e922b8%26_b%3D2.1%26_a%3DWAWZINWVIZFIHFMNG6GAAQ'}, {'domain': '.bauernutrition.de', 'expiry': 1644419056, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T14%3A34%3A16.657Z'}, {'domain': '.bauernutrition.de', 'expiry': 1644417316, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'bauernutrition.de', 'expiry': 1707489257, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MTcyNTgsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vYmF1ZXJudXRyaXRpb24uZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NDE3MjU4LCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL2JhdWVybnV0cml0aW9uLmRlLyJ9fQ=='}, {'domain': 'bauernutrition.de', 'expiry': 1675953257, 'httpOnly': False, 'name': 'SnapABugUserAlias', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '%23'}, {'domain': '.bauernutrition.de', 'expiry': 1644503656, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.981879732.1644417257'}, {'domain': 'bauernutrition.de', 'expiry': 1675953257, 'httpOnly': False, 'name': 'SnapABugHistory', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1#'}, {'domain': 'bauernutrition.de', 'expiry': 1644424457, 'httpOnly': False, 'name': 'SnapABugRef', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'https%3A%2F%2Fbauernutrition.de%2F%20'}, {'domain': 'bauernutrition.de', 'expiry': 1644419057, 'httpOnly': False, 'name': '_sp_ses.9f26', 'path': '/', 'secure': False, 'value': '*'}, {'domain': 'bauernutrition.de', 'httpOnly': False, 'name': 'colcolor1', 'path': '/', 'secure': False, 'value': ''}, {'domain': '.bauernutrition.de', 'expiry': 1652193272, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644417256866.984453549'}, {'domain': '.bauernutrition.de', 'expiry': 1645626856, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.bauernutrition.de', 'expiry': 1707489256, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.935203858.1644417257'}, {'domain': '.bauernutrition.de', 'expiry': 1644419056, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.bauernutrition.de', 'expiry': 1652193256, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.2008466005.1644417257'}, {'domain': '.bauernutrition.de', 'expiry': 1675953272, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '033b9206-8ed9-4adb-83a4-17bf9c73c050'}, {'domain': 'bauernutrition.de', 'expiry': 1707489257, 'httpOnly': False, 'name': '_sp_id.9f26', 'path': '/', 'secure': False, 'value': 'a1c0d3b928998949.1644417258.1.1644417258.1644417258'}, {'domain': 'bauernutrition.de', 'expiry': 1675953272, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.bauernutrition.de', 'expiry': 1644419072, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9818379a-f144-40ff-8826-a1a73b1fdc84'}, {'domain': '.bauernutrition.de', 'expiry': 1675953272, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '033b9206-8ed9-4adb-83a4-17bf9c73c050'}, {'domain': 'bauernutrition.de', 'httpOnly': False, 'name': 'SnapABugVisit', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1#1644417258'}, {'domain': '.bauernutrition.de', 'expiry': 1644419072, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9818379a-f144-40ff-8826-a1a73b1fdc84'}, {'domain': '.bauernutrition.de', 'expiry': 1645626856, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: __ar_v4
+[After] Cookie-Name 2: __adroll_fpc
+[After] Cookie-Name 3: __adroll_consent
+[After] Cookie-Name 4: __adroll_consent_params
+[After] Cookie-Name 5: _shopify_sa_t
+[After] Cookie-Name 6: _gat
+[After] Cookie-Name 7: __kla_id
+[After] Cookie-Name 8: SnapABugUserAlias
+[After] Cookie-Name 9: _gid
+[After] Cookie-Name 10: SnapABugHistory
+[After] Cookie-Name 11: SnapABugRef
+[After] Cookie-Name 12: _sp_ses.9f26
+[After] Cookie-Name 13: colcolor1
+[After] Cookie-Name 14: _fbp
+[After] Cookie-Name 15: _landing_page
+[After] Cookie-Name 16: _ga
+[After] Cookie-Name 17: _shopify_sa_p
+[After] Cookie-Name 18: _gcl_au
+[After] Cookie-Name 19: _shopify_y
+[After] Cookie-Name 20: _sp_id.9f26
+[After] Cookie-Name 21: secure_customer_sig
+[After] Cookie-Name 22: _s
+[After] Cookie-Name 23: _y
+[After] Cookie-Name 24: SnapABugVisit
+[After] Cookie-Name 25: _shopify_s
+[After] Cookie-Name 26: _orig_referrer
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _gid (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 4
+[Difference] Cookie-Name: 1: __ar_v4
+[Difference] Cookie-Name: 2: __adroll_consent
+[Difference] Cookie-Name: 3: __adroll_consent_params
+[Difference] Cookie-Name: 4: __adroll_fpc
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

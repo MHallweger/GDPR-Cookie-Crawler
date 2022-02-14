@@ -1,0 +1,86 @@
+Website 275: http://www.wohnenroyal.de/ | Created: 09.02.2022 18:30:33 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 28
+[Before] Website-Cookies: [{'domain': '.wohnenroyal.de', 'expiry': 1707499825, 'httpOnly': False, 'name': '_ga_S8VXCC5E20', 'path': '/', 'secure': False, 'value': 'GS1.1.55ecf807-6a6e-4d82-a23b-ab3c369e0300.1.0.1644427825.0'}, {'domain': 'www.wohnenroyal.de', 'expiry': 1707499824, 'httpOnly': False, 'name': '_ama', 'path': '/', 'secure': False, 'value': '1156783059.1644427823'}, {'domain': 'www.wohnenroyal.de', 'expiry': 1644514224, 'httpOnly': False, 'name': 'updatechtwidgetvisitor_0', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'yes'}, {'domain': '.wohnenroyal.de', 'expiry': 1645637422, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.wohnenroyal.de', 'expiry': 1644514222, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1632294693.1644427823'}, {'domain': '.wohnenroyal.de', 'expiry': 1644427882, 'httpOnly': False, 'name': '_gat_gtag_UA_55922008_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.wohnenroyal.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.wohnenroyal.de', 'expiry': 1644514224, 'httpOnly': False, 'name': 'chaty_traffic_source', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'true'}, {'domain': '.wohnenroyal.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.wohnenroyal.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.wohnenroyal.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A30%3A22.640Z'}, {'domain': '.wohnenroyal.de', 'expiry': 1652203822, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.2076415122.1644427823'}, {'domain': '.wohnenroyal.de', 'expiry': 1675963822, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': '.wohnenroyal.de', 'expiry': 1675963822, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': 'www.wohnenroyal.de', 'expiry': 1645637422, 'httpOnly': True, 'name': 'keep_alive', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ead85e7c-88de-44ec-980d-389ba40e54b1'}, {'domain': '.wohnenroyal.de', 'expiry': 1644429633, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.wohnenroyal.de', 'expiry': 1644514224, 'httpOnly': False, 'name': 'updatechatycounter', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'yes'}, {'domain': '.wohnenroyal.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ead85e7c-88de-44ec-980d-389ba40e54b1'}, {'domain': '.wohnenroyal.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ead85e7c-88de-44ec-980d-389ba40e54b1'}, {'domain': '.wohnenroyal.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A30%3A22.667Z'}, {'domain': '.wohnenroyal.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.wohnenroyal.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.wohnenroyal.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b22b9de2-1cac-4189-9e12-4f218170fe49'}, {'domain': 'www.wohnenroyal.de', 'expiry': 1675963833, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.wohnenroyal.de', 'expiry': 1707499824, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.1.1156783059.1644427823'}, {'domain': 'www.wohnenroyal.de', 'expiry': 1645637433, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.wohnenroyal.de', 'expiry': 1645637433, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.wohnenroyal.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b22b9de2-1cac-4189-9e12-4f218170fe49'}]
+[Before] Cookie-Name 1: _ga_S8VXCC5E20
+[Before] Cookie-Name 2: _ama
+[Before] Cookie-Name 3: updatechtwidgetvisitor_0
+[Before] Cookie-Name 4: _shopify_tw
+[Before] Cookie-Name 5: _gid
+[Before] Cookie-Name 6: _gat_gtag_UA_55922008_1
+[Before] Cookie-Name 7: _shopify_sa_p
+[Before] Cookie-Name 8: chaty_traffic_source
+[Before] Cookie-Name 9: _shopify_evids
+[Before] Cookie-Name 10: _shopify_evids
+[Before] Cookie-Name 11: _shopify_d
+[Before] Cookie-Name 12: _gcl_au
+[Before] Cookie-Name 13: _tracking_consent
+[Before] Cookie-Name 14: _shopify_m
+[Before] Cookie-Name 15: keep_alive
+[Before] Cookie-Name 16: _shopify_tm
+[Before] Cookie-Name 17: updatechatycounter
+[Before] Cookie-Name 18: _shopify_s
+[Before] Cookie-Name 19: _s
+[Before] Cookie-Name 20: _shopify_sa_t
+[Before] Cookie-Name 21: _orig_referrer
+[Before] Cookie-Name 22: _landing_page
+[Before] Cookie-Name 23: _y
+[Before] Cookie-Name 24: secure_customer_sig
+[Before] Cookie-Name 25: _ga
+[Before] Cookie-Name 26: cart_currency
+[Before] Cookie-Name 27: localization
+[Before] Cookie-Name 28: _shopify_y
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 28
+[After] Website-Cookies: [{'domain': '.wohnenroyal.de', 'expiry': 1707499825, 'httpOnly': False, 'name': '_ga_S8VXCC5E20', 'path': '/', 'secure': False, 'value': 'GS1.1.55ecf807-6a6e-4d82-a23b-ab3c369e0300.1.0.1644427825.0'}, {'domain': 'www.wohnenroyal.de', 'expiry': 1707499824, 'httpOnly': False, 'name': '_ama', 'path': '/', 'secure': False, 'value': '1156783059.1644427823'}, {'domain': 'www.wohnenroyal.de', 'expiry': 1644514224, 'httpOnly': False, 'name': 'updatechtwidgetvisitor_0', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'yes'}, {'domain': '.wohnenroyal.de', 'expiry': 1645637422, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.wohnenroyal.de', 'expiry': 1644514222, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1632294693.1644427823'}, {'domain': '.wohnenroyal.de', 'expiry': 1644427882, 'httpOnly': False, 'name': '_gat_gtag_UA_55922008_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.wohnenroyal.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.wohnenroyal.de', 'expiry': 1644514224, 'httpOnly': False, 'name': 'chaty_traffic_source', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'true'}, {'domain': '.wohnenroyal.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.wohnenroyal.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.wohnenroyal.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A30%3A22.640Z'}, {'domain': '.wohnenroyal.de', 'expiry': 1652203822, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.2076415122.1644427823'}, {'domain': '.wohnenroyal.de', 'expiry': 1675963822, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': '.wohnenroyal.de', 'expiry': 1675963822, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': 'www.wohnenroyal.de', 'expiry': 1645637422, 'httpOnly': True, 'name': 'keep_alive', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ead85e7c-88de-44ec-980d-389ba40e54b1'}, {'domain': '.wohnenroyal.de', 'expiry': 1644429633, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.wohnenroyal.de', 'expiry': 1644514224, 'httpOnly': False, 'name': 'updatechatycounter', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'yes'}, {'domain': '.wohnenroyal.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ead85e7c-88de-44ec-980d-389ba40e54b1'}, {'domain': '.wohnenroyal.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ead85e7c-88de-44ec-980d-389ba40e54b1'}, {'domain': '.wohnenroyal.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A30%3A22.667Z'}, {'domain': '.wohnenroyal.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.wohnenroyal.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.wohnenroyal.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b22b9de2-1cac-4189-9e12-4f218170fe49'}, {'domain': 'www.wohnenroyal.de', 'expiry': 1675963833, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.wohnenroyal.de', 'expiry': 1707499824, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.1.1156783059.1644427823'}, {'domain': 'www.wohnenroyal.de', 'expiry': 1645637433, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.wohnenroyal.de', 'expiry': 1645637433, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.wohnenroyal.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b22b9de2-1cac-4189-9e12-4f218170fe49'}]
+[After] Cookie-Name 1: _ga_S8VXCC5E20
+[After] Cookie-Name 2: _ama
+[After] Cookie-Name 3: updatechtwidgetvisitor_0
+[After] Cookie-Name 4: _shopify_tw
+[After] Cookie-Name 5: _gid
+[After] Cookie-Name 6: _gat_gtag_UA_55922008_1
+[After] Cookie-Name 7: _shopify_sa_p
+[After] Cookie-Name 8: chaty_traffic_source
+[After] Cookie-Name 9: _shopify_evids
+[After] Cookie-Name 10: _shopify_evids
+[After] Cookie-Name 11: _shopify_d
+[After] Cookie-Name 12: _gcl_au
+[After] Cookie-Name 13: _tracking_consent
+[After] Cookie-Name 14: _shopify_m
+[After] Cookie-Name 15: keep_alive
+[After] Cookie-Name 16: _shopify_tm
+[After] Cookie-Name 17: updatechatycounter
+[After] Cookie-Name 18: _shopify_s
+[After] Cookie-Name 19: _s
+[After] Cookie-Name 20: _shopify_sa_t
+[After] Cookie-Name 21: _orig_referrer
+[After] Cookie-Name 22: _landing_page
+[After] Cookie-Name 23: _y
+[After] Cookie-Name 24: secure_customer_sig
+[After] Cookie-Name 25: _ga
+[After] Cookie-Name 26: cart_currency
+[After] Cookie-Name 27: localization
+[After] Cookie-Name 28: _shopify_y
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

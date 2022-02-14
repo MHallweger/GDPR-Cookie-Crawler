@@ -1,0 +1,64 @@
+Website 110: http://www.projekt-samsen.de/ | Created: 08.02.2022 22:13:14 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 16
+[Before] Website-Cookies: [{'domain': '.projekt-samsen.de', 'expiry': 1644354845, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.projekt-samsen.de', 'expiry': 1644441185, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.801952834.1644354786'}, {'domain': '.projekt-samsen.de', 'expiry': 1707426785, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.2118424551.1644354786'}, {'domain': '.projekt-samsen.de', 'expiry': 1644356585, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.projekt-samsen.de', 'expiry': 1644356585, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A13%3A05.775Z'}, {'domain': 'projekt-samsen.de', 'expiry': 1645564385, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.projekt-samsen.de', 'expiry': 1644356586, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '714ce704-9a4a-4766-bd18-f1e99e3f9d49'}, {'domain': '.projekt-samsen.de', 'expiry': 1644356586, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '714ce704-9a4a-4766-bd18-f1e99e3f9d49'}, {'domain': '.projekt-samsen.de', 'expiry': 1675890786, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e7e8deaa-ddcb-40df-90f0-40c8704d220c'}, {'domain': 'projekt-samsen.de', 'expiry': 1645564385, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '220bcfc3158cff2a3b1ee32b0c07b16e'}, {'domain': '.projekt-samsen.de', 'expiry': 1645564384, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'projekt-samsen.de', 'expiry': 1644356584, 'httpOnly': False, 'name': 'dynamic_checkout_shown_on_cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.projekt-samsen.de', 'expiry': 1645564384, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'projekt-samsen.de', 'expiry': 1675890786, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'projekt-samsen.de', 'expiry': 1645564385, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.projekt-samsen.de', 'expiry': 1675890786, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e7e8deaa-ddcb-40df-90f0-40c8704d220c'}]
+[Before] Cookie-Name 1: _gat
+[Before] Cookie-Name 2: _gid
+[Before] Cookie-Name 3: _ga
+[Before] Cookie-Name 4: _shopify_sa_p
+[Before] Cookie-Name 5: _shopify_sa_t
+[Before] Cookie-Name 6: localization
+[Before] Cookie-Name 7: _shopify_s
+[Before] Cookie-Name 8: _s
+[Before] Cookie-Name 9: _y
+[Before] Cookie-Name 10: cart_sig
+[Before] Cookie-Name 11: _orig_referrer
+[Before] Cookie-Name 12: dynamic_checkout_shown_on_cart
+[Before] Cookie-Name 13: _landing_page
+[Before] Cookie-Name 14: secure_customer_sig
+[Before] Cookie-Name 15: cart_currency
+[Before] Cookie-Name 16: _shopify_y
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 16
+[After] Website-Cookies: [{'domain': '.projekt-samsen.de', 'expiry': 1644354845, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.projekt-samsen.de', 'expiry': 1644441185, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.801952834.1644354786'}, {'domain': '.projekt-samsen.de', 'expiry': 1707426785, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.2118424551.1644354786'}, {'domain': '.projekt-samsen.de', 'expiry': 1644356585, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.projekt-samsen.de', 'expiry': 1644356585, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A13%3A05.775Z'}, {'domain': 'projekt-samsen.de', 'expiry': 1645564385, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.projekt-samsen.de', 'expiry': 1644356586, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '714ce704-9a4a-4766-bd18-f1e99e3f9d49'}, {'domain': '.projekt-samsen.de', 'expiry': 1644356586, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '714ce704-9a4a-4766-bd18-f1e99e3f9d49'}, {'domain': '.projekt-samsen.de', 'expiry': 1675890786, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e7e8deaa-ddcb-40df-90f0-40c8704d220c'}, {'domain': 'projekt-samsen.de', 'expiry': 1645564385, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '220bcfc3158cff2a3b1ee32b0c07b16e'}, {'domain': '.projekt-samsen.de', 'expiry': 1645564384, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'projekt-samsen.de', 'expiry': 1644356584, 'httpOnly': False, 'name': 'dynamic_checkout_shown_on_cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.projekt-samsen.de', 'expiry': 1645564384, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'projekt-samsen.de', 'expiry': 1675890786, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'projekt-samsen.de', 'expiry': 1645564385, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.projekt-samsen.de', 'expiry': 1675890786, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e7e8deaa-ddcb-40df-90f0-40c8704d220c'}]
+[After] Cookie-Name 1: _gat
+[After] Cookie-Name 2: _gid
+[After] Cookie-Name 3: _ga
+[After] Cookie-Name 4: _shopify_sa_p
+[After] Cookie-Name 5: _shopify_sa_t
+[After] Cookie-Name 6: localization
+[After] Cookie-Name 7: _shopify_s
+[After] Cookie-Name 8: _s
+[After] Cookie-Name 9: _y
+[After] Cookie-Name 10: cart_sig
+[After] Cookie-Name 11: _orig_referrer
+[After] Cookie-Name 12: dynamic_checkout_shown_on_cart
+[After] Cookie-Name 13: _landing_page
+[After] Cookie-Name 14: secure_customer_sig
+[After] Cookie-Name 15: cart_currency
+[After] Cookie-Name 16: _shopify_y
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

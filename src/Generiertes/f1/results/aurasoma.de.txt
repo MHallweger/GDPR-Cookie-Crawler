@@ -1,0 +1,79 @@
+Website 330: http://www.aurasoma.de/ | Created: 08.02.2022 23:19:39 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 9
+[Before] Website-Cookies: [{'domain': 'aurasoma.de', 'expiry': 1645568371, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b4deb56acb108050af07a35dea545fef'}, {'domain': 'aurasoma.de', 'expiry': 1645568371, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644358771'}, {'domain': 'aurasoma.de', 'httpOnly': False, 'name': 'snize-recommendation', 'path': '/', 'secure': False, 'value': 'opnv3awklhg'}, {'domain': 'aurasoma.de', 'expiry': 1645568371, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '136b2193707d6aaeb316700970a3ef9c'}, {'domain': '.aurasoma.de', 'expiry': 1645568370, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'aurasoma.de', 'expiry': 1645568371, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.aurasoma.de', 'expiry': 1645568370, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'aurasoma.de', 'expiry': 1645568371, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': 'aurasoma.de', 'expiry': 1675894771, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: cart_sig
+[Before] Cookie-Name 2: cart_ts
+[Before] Cookie-Name 3: snize-recommendation
+[Before] Cookie-Name 4: cart
+[Before] Cookie-Name 5: _orig_referrer
+[Before] Cookie-Name 6: cart_currency
+[Before] Cookie-Name 7: _landing_page
+[Before] Cookie-Name 8: cart_ver
+[Before] Cookie-Name 9: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 26
+[After] Website-Cookies: [{'domain': '.aurasoma.de', 'expiry': 1644358846, 'httpOnly': False, 'name': '_gat_gtag_UA_5293503_4', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.aurasoma.de', 'expiry': 1678054786, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '38dcd690892d11eca0a3e5b9ac30a3bc'}, {'domain': '.aurasoma.de', 'expiry': 1644445186, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': '38dcaa00892d11ec9e31bf5cb0b8c697'}, {'domain': '.aurasoma.de', 'expiry': 1644358846, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.aurasoma.de', 'expiry': 1652134785, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1309319133.1644358786'}, {'domain': 'aurasoma.de', 'httpOnly': False, 'name': 'bc_tgm_ua', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'aurasoma.de', 'expiry': 1646950785, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0MzU4Nzg1MjQwLCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjowfX0='}, {'domain': 'aurasoma.de', 'expiry': 1675894785, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'afb2d898-5af9-4b80-a659-5a330f8c0a63'}, {'domain': 'aurasoma.de', 'expiry': 1675894785, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'afb2d898-5af9-4b80-a659-5a330f8c0a63'}, {'domain': 'aurasoma.de', 'httpOnly': False, 'name': 'bc_tgm_aw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.aurasoma.de', 'expiry': 1707430786, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.230615131.1644358786'}, {'domain': 'aurasoma.de', 'expiry': 1645568371, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': 'aurasoma.de', 'expiry': 1644360585, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3f505f55-b910-45d9-a6b4-c45a0977cd37'}, {'domain': 'aurasoma.de', 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'aurasoma.de', 'expiry': 1645568371, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b4deb56acb108050af07a35dea545fef'}, {'domain': '.aurasoma.de', 'expiry': 1644445186, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1155245794.1644358786'}, {'domain': 'aurasoma.de', 'expiry': 1645568371, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '136b2193707d6aaeb316700970a3ef9c'}, {'domain': 'aurasoma.de', 'expiry': 1644360585, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3f505f55-b910-45d9-a6b4-c45a0977cd37'}, {'domain': 'aurasoma.de', 'expiry': 1645568371, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644358771'}, {'domain': 'aurasoma.de', 'httpOnly': False, 'name': 'snize-recommendation', 'path': '/', 'secure': False, 'value': 'opnv3awklhg'}, {'domain': '.aurasoma.de', 'expiry': 1645568370, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'aurasoma.de', 'httpOnly': False, 'name': 'bc_tgm_gtm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'aurasoma.de', 'expiry': 1644360585, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T22%3A19%3A30.837Z'}, {'domain': 'aurasoma.de', 'expiry': 1645568371, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.aurasoma.de', 'expiry': 1645568370, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'aurasoma.de', 'expiry': 1675894771, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _gat_gtag_UA_5293503_4
+[After] Cookie-Name 2: _uetvid
+[After] Cookie-Name 3: _uetsid
+[After] Cookie-Name 4: _gat
+[After] Cookie-Name 5: _gcl_au
+[After] Cookie-Name 6: bc_tgm_ua
+[After] Cookie-Name 7: _bc_c_set
+[After] Cookie-Name 8: _y
+[After] Cookie-Name 9: _shopify_y
+[After] Cookie-Name 10: bc_tgm_aw
+[After] Cookie-Name 11: _ga
+[After] Cookie-Name 12: cart_ver
+[After] Cookie-Name 13: _shopify_s
+[After] Cookie-Name 14: localization
+[After] Cookie-Name 15: cart_sig
+[After] Cookie-Name 16: _gid
+[After] Cookie-Name 17: cart
+[After] Cookie-Name 18: _s
+[After] Cookie-Name 19: cart_ts
+[After] Cookie-Name 20: snize-recommendation
+[After] Cookie-Name 21: _orig_referrer
+[After] Cookie-Name 22: bc_tgm_gtm
+[After] Cookie-Name 23: _shopify_sa_t
+[After] Cookie-Name 24: cart_currency
+[After] Cookie-Name 25: _landing_page
+[After] Cookie-Name 26: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 17
+[Difference] Cookie-Name: 1: _gat_gtag_UA_5293503_4
+[Difference] Cookie-Name: 2: _shopify_y
+[Difference] Cookie-Name: 3: _bc_c_set
+[Difference] Cookie-Name: 4: _gid
+[Difference] Cookie-Name: 5: _y
+[Difference] Cookie-Name: 6: bc_tgm_aw
+[Difference] Cookie-Name: 7: _ga
+[Difference] Cookie-Name: 8: _shopify_sa_t
+[Difference] Cookie-Name: 9: bc_tgm_ua
+[Difference] Cookie-Name: 10: _uetsid
+[Difference] Cookie-Name: 11: bc_tgm_gtm
+[Difference] Cookie-Name: 12: _s
+[Difference] Cookie-Name: 13: localization
+[Difference] Cookie-Name: 14: _gcl_au
+[Difference] Cookie-Name: 15: _uetvid
+[Difference] Cookie-Name: 16: _shopify_s
+[Difference] Cookie-Name: 17: _gat
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

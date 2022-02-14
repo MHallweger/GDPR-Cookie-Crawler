@@ -1,0 +1,69 @@
+Website 283: http://www.go-comboo.de/ | Created: 09.02.2022 15:07:12 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 18
+[Before] Website-Cookies: [{'domain': '.go-comboo.de', 'expiry': 1675951625, 'httpOnly': False, 'name': '_privy_D3A9685550A614E5285642EC', 'path': '/', 'secure': False, 'value': '%7B%22uuid%22%3A%22b9f1206d-6788-4d79-b138-63232af72e5d%22%2C%22variations%22%3A%7B%7D%2C%22country_code%22%3A%22DE%22%2C%22region_code%22%3A%22DE_%22%2C%22postal_code%22%3A%22%22%7D'}, {'domain': 'go-comboo.de', 'expiry': 1644419223, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.go-comboo.de', 'expiry': 1644415683, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'go-comboo.de', 'expiry': 1645625223, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fcd79bf907dd290a56647e226cb46e10'}, {'domain': '.go-comboo.de', 'expiry': 1644502023, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.759259222.1644415623'}, {'domain': '.go-comboo.de', 'expiry': 1644417423, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.go-comboo.de', 'expiry': 1675951624, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2f7081f2-2291-4f40-914c-e9ec96e2865d'}, {'domain': '.go-comboo.de', 'expiry': 1644417424, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '42aa17a6-ab89-44ea-925e-3c9023c2afbe'}, {'domain': '.go-comboo.de', 'expiry': 1644417424, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '42aa17a6-ab89-44ea-925e-3c9023c2afbe'}, {'domain': '.go-comboo.de', 'expiry': 1652191624, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644415623574.11584365'}, {'domain': '.go-comboo.de', 'expiry': 1645625222, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.go-comboo.de', 'expiry': 1645625222, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'go-comboo.de', 'expiry': 1675951624, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'go-comboo.de', 'expiry': 1645625224, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.go-comboo.de', 'expiry': 1675951624, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2f7081f2-2291-4f40-914c-e9ec96e2865d'}, {'domain': '.go-comboo.de', 'expiry': 1707487623, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.645032284.1644415623'}, {'domain': '.go-comboo.de', 'expiry': 1644417423, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T14%3A07%3A03.220Z'}, {'domain': 'go-comboo.de', 'expiry': 1645625224, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}]
+[Before] Cookie-Name 1: _privy_D3A9685550A614E5285642EC
+[Before] Cookie-Name 2: shopify_pay_redirect
+[Before] Cookie-Name 3: _gat
+[Before] Cookie-Name 4: cart_sig
+[Before] Cookie-Name 5: _gid
+[Before] Cookie-Name 6: _shopify_sa_p
+[Before] Cookie-Name 7: _shopify_y
+[Before] Cookie-Name 8: _shopify_s
+[Before] Cookie-Name 9: _s
+[Before] Cookie-Name 10: _fbp
+[Before] Cookie-Name 11: _orig_referrer
+[Before] Cookie-Name 12: _landing_page
+[Before] Cookie-Name 13: secure_customer_sig
+[Before] Cookie-Name 14: localization
+[Before] Cookie-Name 15: _y
+[Before] Cookie-Name 16: _ga
+[Before] Cookie-Name 17: _shopify_sa_t
+[Before] Cookie-Name 18: cart_currency
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 19
+[After] Website-Cookies: [{'domain': 'go-comboo.de', 'expiry': 1675951637, 'httpOnly': False, 'name': 'eg_cookieconsent_status', 'path': '/', 'secure': False, 'value': 'dismiss'}, {'domain': '.go-comboo.de', 'expiry': 1675951625, 'httpOnly': False, 'name': '_privy_D3A9685550A614E5285642EC', 'path': '/', 'secure': False, 'value': '%7B%22uuid%22%3A%22b9f1206d-6788-4d79-b138-63232af72e5d%22%2C%22variations%22%3A%7B%7D%2C%22country_code%22%3A%22DE%22%2C%22region_code%22%3A%22DE_%22%2C%22postal_code%22%3A%22%22%7D'}, {'domain': 'go-comboo.de', 'expiry': 1644419223, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.go-comboo.de', 'expiry': 1644415683, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'go-comboo.de', 'expiry': 1645625223, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fcd79bf907dd290a56647e226cb46e10'}, {'domain': '.go-comboo.de', 'expiry': 1644502023, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.759259222.1644415623'}, {'domain': '.go-comboo.de', 'expiry': 1644417423, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.go-comboo.de', 'expiry': 1675951624, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2f7081f2-2291-4f40-914c-e9ec96e2865d'}, {'domain': '.go-comboo.de', 'expiry': 1644417424, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '42aa17a6-ab89-44ea-925e-3c9023c2afbe'}, {'domain': '.go-comboo.de', 'expiry': 1644417424, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '42aa17a6-ab89-44ea-925e-3c9023c2afbe'}, {'domain': '.go-comboo.de', 'expiry': 1652191637, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644415623574.11584365'}, {'domain': '.go-comboo.de', 'expiry': 1645625222, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.go-comboo.de', 'expiry': 1645625222, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'go-comboo.de', 'expiry': 1675951624, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'go-comboo.de', 'expiry': 1645625224, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.go-comboo.de', 'expiry': 1675951624, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2f7081f2-2291-4f40-914c-e9ec96e2865d'}, {'domain': '.go-comboo.de', 'expiry': 1707487623, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.645032284.1644415623'}, {'domain': '.go-comboo.de', 'expiry': 1644417423, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T14%3A07%3A03.220Z'}, {'domain': 'go-comboo.de', 'expiry': 1645625224, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}]
+[After] Cookie-Name 1: eg_cookieconsent_status
+[After] Cookie-Name 2: _privy_D3A9685550A614E5285642EC
+[After] Cookie-Name 3: shopify_pay_redirect
+[After] Cookie-Name 4: _gat
+[After] Cookie-Name 5: cart_sig
+[After] Cookie-Name 6: _gid
+[After] Cookie-Name 7: _shopify_sa_p
+[After] Cookie-Name 8: _shopify_y
+[After] Cookie-Name 9: _shopify_s
+[After] Cookie-Name 10: _s
+[After] Cookie-Name 11: _fbp
+[After] Cookie-Name 12: _orig_referrer
+[After] Cookie-Name 13: _landing_page
+[After] Cookie-Name 14: secure_customer_sig
+[After] Cookie-Name 15: localization
+[After] Cookie-Name 16: _y
+[After] Cookie-Name 17: _ga
+[After] Cookie-Name 18: _shopify_sa_t
+[After] Cookie-Name 19: cart_currency
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: eg_cookieconsent_status
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

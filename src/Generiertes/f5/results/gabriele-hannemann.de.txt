@@ -1,0 +1,87 @@
+Website 73: http://www.gabriele-hannemann.de/ | Created: 09.02.2022 19:54:46 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 8
+[Before] Website-Cookies: [{'domain': '.gabriele-hannemann.de', 'expiry': 1645642475, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.gabriele-hannemann.de', 'expiry': 1644434678, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.gabriele-hannemann.de', 'expiry': 1675968875, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%7D'}, {'domain': '.gabriele-hannemann.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.gabriele-hannemann.de', 'expiry': 1675968875, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': 'gabriele-hannemann.de', 'expiry': 1645642478, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.gabriele-hannemann.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'gabriele-hannemann.de', 'expiry': 1675968878, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _shopify_tw
+[Before] Cookie-Name 2: _shopify_tm
+[Before] Cookie-Name 3: _tracking_consent
+[Before] Cookie-Name 4: _landing_page
+[Before] Cookie-Name 5: _shopify_m
+[Before] Cookie-Name 6: cart_currency
+[Before] Cookie-Name 7: _orig_referrer
+[Before] Cookie-Name 8: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 33
+[After] Website-Cookies: [{'domain': '.gabriele-hannemann.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.gabriele-hannemann.de', 'expiry': 1644434692, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f3175db5-28d8-45c6-a902-02aa66e4ebb3'}, {'domain': '.gabriele-hannemann.de', 'expiry': 1675968892, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '432998e3-f096-44c8-aa01-ed493ba7fa0c'}, {'domain': '.gabriele-hannemann.de', 'expiry': 1675968892, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '432998e3-f096-44c8-aa01-ed493ba7fa0c'}, {'domain': 'gabriele-hannemann.de', 'expiry': 1645642492, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3432c95f5fef25338e9f82b2f407223f'}, {'domain': 'gabriele-hannemann.de', 'expiry': 1675968892, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'gabriele-hannemann.de', 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'KJLNbnBAFIxPSM-20220209185437'}, {'domain': 'gabriele-hannemann.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '20220209185437-ohmWXzoW2WHabTF7I6AWl7sdF02h4F97YK3alJe3NdIJIwzg2'}, {'domain': 'gabriele-hannemann.de', 'httpOnly': False, 'name': 'baMet_visit', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '36e70a5144ef47f69627371180005bfe1644432876286'}, {'domain': '.gabriele-hannemann.de', 'expiry': 1644434692, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T18%3A54%3A36.367Z'}, {'domain': 'gabriele-hannemann.de', 'httpOnly': False, 'name': 'fsb_previous_pathname', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '/'}, {'domain': 'gabriele-hannemann.de', 'httpOnly': False, 'name': 'baMet_baEvs', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%5B%5D'}, {'domain': 'gabriele-hannemann.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.gabriele-hannemann.de', 'expiry': 1675968892, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22con%22%3A%7B%22GDPR%22%3A%221%22%7D%2C%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': '.gabriele-hannemann.de', 'expiry': 1644434692, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f3175db5-28d8-45c6-a902-02aa66e4ebb3'}, {'domain': 'gabriele-hannemann.de', 'httpOnly': False, 'name': 'soundest-views', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'gabriele-hannemann.de', 'expiry': 1647024892, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0NDMyODkyNDE3LCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjoxfX0='}, {'domain': '.gabriele-hannemann.de', 'expiry': 1644434692, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'gabriele-hannemann.de', 'expiry': 1675968892, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '432998e3-f096-44c8-aa01-ed493ba7fa0c'}, {'domain': 'gabriele-hannemann.de', 'expiry': 1644434692, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f3175db5-28d8-45c6-a902-02aa66e4ebb3'}, {'domain': 'gabriele-hannemann.de', 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4VKc5uRusxRBL2-20220209185437'}, {'domain': '.gabriele-hannemann.de', 'expiry': 1645642475, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'gabriele-hannemann.de', 'expiry': 1644434692, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T18%3A54%3A36.367Z'}, {'domain': 'gabriele-hannemann.de', 'expiry': 1644434692, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f3175db5-28d8-45c6-a902-02aa66e4ebb3'}, {'domain': 'gabriele-hannemann.de', 'expiry': 1645642492, 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T18%3A54%3A36.357Z'}, {'domain': 'gabriele-hannemann.de', 'expiry': 1675968892, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '432998e3-f096-44c8-aa01-ed493ba7fa0c'}, {'domain': '.gabriele-hannemann.de', 'expiry': 1645642492, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'gabriele-hannemann.de', 'httpOnly': False, 'name': 'usb_previous_pathname', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '/'}, {'domain': '.gabriele-hannemann.de', 'expiry': 1675968892, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': '.gabriele-hannemann.de', 'expiry': 1645642492, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'gabriele-hannemann.de', 'expiry': 1645642492, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'gabriele-hannemann.de', 'expiry': 1645642492, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'gabriele-hannemann.de', 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'pending'}]
+[After] Cookie-Name 1: _shopify_evids
+[After] Cookie-Name 2: _shopify_s
+[After] Cookie-Name 3: _shopify_y
+[After] Cookie-Name 4: _y
+[After] Cookie-Name 5: cart_sig
+[After] Cookie-Name 6: secure_customer_sig
+[After] Cookie-Name 7: omnisendAnonymousID
+[After] Cookie-Name 8: soundestID
+[After] Cookie-Name 9: baMet_visit
+[After] Cookie-Name 10: _shopify_sa_t
+[After] Cookie-Name 11: fsb_previous_pathname
+[After] Cookie-Name 12: baMet_baEvs
+[After] Cookie-Name 13: _shopify_evids
+[After] Cookie-Name 14: _tracking_consent
+[After] Cookie-Name 15: _s
+[After] Cookie-Name 16: soundest-views
+[After] Cookie-Name 17: _bc_c_set
+[After] Cookie-Name 18: _shopify_tm
+[After] Cookie-Name 19: _y
+[After] Cookie-Name 20: _s
+[After] Cookie-Name 21: omnisendSessionID
+[After] Cookie-Name 22: _shopify_tw
+[After] Cookie-Name 23: _shopify_sa_t
+[After] Cookie-Name 24: _shopify_s
+[After] Cookie-Name 25: _shopify_d
+[After] Cookie-Name 26: _shopify_y
+[After] Cookie-Name 27: _landing_page
+[After] Cookie-Name 28: usb_previous_pathname
+[After] Cookie-Name 29: _shopify_m
+[After] Cookie-Name 30: _orig_referrer
+[After] Cookie-Name 31: localization
+[After] Cookie-Name 32: cart_currency
+[After] Cookie-Name 33: shopify_pay_redirect
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 19
+[Difference] Cookie-Name: 1: usb_previous_pathname
+[Difference] Cookie-Name: 2: soundest-views
+[Difference] Cookie-Name: 3: localization
+[Difference] Cookie-Name: 4: _y
+[Difference] Cookie-Name: 5: baMet_baEvs
+[Difference] Cookie-Name: 6: _shopify_s
+[Difference] Cookie-Name: 7: _shopify_evids
+[Difference] Cookie-Name: 8: baMet_visit
+[Difference] Cookie-Name: 9: _shopify_d
+[Difference] Cookie-Name: 10: _shopify_y
+[Difference] Cookie-Name: 11: _bc_c_set
+[Difference] Cookie-Name: 12: _shopify_sa_t
+[Difference] Cookie-Name: 13: cart_sig
+[Difference] Cookie-Name: 14: omnisendSessionID
+[Difference] Cookie-Name: 15: soundestID
+[Difference] Cookie-Name: 16: fsb_previous_pathname
+[Difference] Cookie-Name: 17: omnisendAnonymousID
+[Difference] Cookie-Name: 18: shopify_pay_redirect
+[Difference] Cookie-Name: 19: _s
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

@@ -1,0 +1,64 @@
+Website 144: http://www.form.de/ | Created: 08.02.2022 22:23:39 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 16
+[Before] Website-Cookies: [{'domain': 'form.de', 'expiry': 1644359003, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.form.de', 'expiry': 1644357202, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.form.de', 'expiry': 1645565002, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.form.de', 'expiry': 1644441802, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1809217431.1644355403'}, {'domain': '.form.de', 'expiry': 1644357210, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f3d9edbc-62a0-4a18-b954-7e437862f07c'}, {'domain': '.form.de', 'expiry': 1644357210, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f3d9edbc-62a0-4a18-b954-7e437862f07c'}, {'domain': '.form.de', 'expiry': 1644357202, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A23%3A22.953Z'}, {'domain': '.form.de', 'expiry': 1645565002, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'form.de', 'httpOnly': False, 'name': 'locale_bar_accepted', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.form.de', 'expiry': 1707427402, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1557294326.1644355403'}, {'domain': 'form.de', 'expiry': 1645565010, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.form.de', 'expiry': 1675891410, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7bcf147d-bab8-489c-96ab-84fc9f5daa58'}, {'domain': '.form.de', 'expiry': 1644355462, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.form.de', 'expiry': 1675891410, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7bcf147d-bab8-489c-96ab-84fc9f5daa58'}, {'domain': 'form.de', 'expiry': 1645565010, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'form.de', 'expiry': 1675891410, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: shopify_pay_redirect
+[Before] Cookie-Name 2: _shopify_sa_p
+[Before] Cookie-Name 3: _orig_referrer
+[Before] Cookie-Name 4: _gid
+[Before] Cookie-Name 5: _shopify_s
+[Before] Cookie-Name 6: _s
+[Before] Cookie-Name 7: _shopify_sa_t
+[Before] Cookie-Name 8: _landing_page
+[Before] Cookie-Name 9: locale_bar_accepted
+[Before] Cookie-Name 10: _ga
+[Before] Cookie-Name 11: localization
+[Before] Cookie-Name 12: _shopify_y
+[Before] Cookie-Name 13: _gat
+[Before] Cookie-Name 14: _y
+[Before] Cookie-Name 15: cart_currency
+[Before] Cookie-Name 16: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 16
+[After] Website-Cookies: [{'domain': 'form.de', 'expiry': 1644359003, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.form.de', 'expiry': 1644357202, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.form.de', 'expiry': 1645565002, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.form.de', 'expiry': 1644441802, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1809217431.1644355403'}, {'domain': '.form.de', 'expiry': 1644357210, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f3d9edbc-62a0-4a18-b954-7e437862f07c'}, {'domain': '.form.de', 'expiry': 1644357210, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f3d9edbc-62a0-4a18-b954-7e437862f07c'}, {'domain': '.form.de', 'expiry': 1644357202, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A23%3A22.953Z'}, {'domain': '.form.de', 'expiry': 1645565002, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'form.de', 'httpOnly': False, 'name': 'locale_bar_accepted', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.form.de', 'expiry': 1707427402, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1557294326.1644355403'}, {'domain': 'form.de', 'expiry': 1645565010, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.form.de', 'expiry': 1675891410, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7bcf147d-bab8-489c-96ab-84fc9f5daa58'}, {'domain': '.form.de', 'expiry': 1644355462, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.form.de', 'expiry': 1675891410, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7bcf147d-bab8-489c-96ab-84fc9f5daa58'}, {'domain': 'form.de', 'expiry': 1645565010, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'form.de', 'expiry': 1675891410, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: shopify_pay_redirect
+[After] Cookie-Name 2: _shopify_sa_p
+[After] Cookie-Name 3: _orig_referrer
+[After] Cookie-Name 4: _gid
+[After] Cookie-Name 5: _shopify_s
+[After] Cookie-Name 6: _s
+[After] Cookie-Name 7: _shopify_sa_t
+[After] Cookie-Name 8: _landing_page
+[After] Cookie-Name 9: locale_bar_accepted
+[After] Cookie-Name 10: _ga
+[After] Cookie-Name 11: localization
+[After] Cookie-Name 12: _shopify_y
+[After] Cookie-Name 13: _gat
+[After] Cookie-Name 14: _y
+[After] Cookie-Name 15: cart_currency
+[After] Cookie-Name 16: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gat (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

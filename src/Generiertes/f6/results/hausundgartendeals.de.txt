@@ -1,0 +1,98 @@
+Website 334: http://www.hausundgartendeals.de/ | Created: 10.02.2022 13:51:24 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 32
+[Before] Website-Cookies: [{'domain': '.hausundgartendeals.de', 'expiry': 1660049476, 'httpOnly': False, 'name': 'sbjs_udata', 'path': '/', 'secure': False, 'value': 'vst%3D1%7C%7C%7Cuip%3D%28none%29%7C%7C%7Cuag%3DMozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F98.0.4758.82%20Safari%2F537.36'}, {'domain': '.hausundgartendeals.de', 'expiry': 1644499276, 'httpOnly': False, 'name': 'sbjs_session', 'path': '/', 'secure': False, 'value': 'pgs%3D1%7C%7C%7Ccpg%3Dhttps%3A%2F%2Fwww.hausundgartendeals.de%2F'}, {'domain': '.hausundgartendeals.de', 'expiry': 1660049476, 'httpOnly': False, 'name': 'sbjs_first', 'path': '/', 'secure': False, 'value': 'typ%3Dtypein%7C%7C%7Csrc%3D%28direct%29%7C%7C%7Cmdm%3D%28none%29%7C%7C%7Ccmp%3D%28none%29%7C%7C%7Ccnt%3D%28none%29%7C%7C%7Ctrm%3D%28none%29'}, {'domain': '.hausundgartendeals.de', 'expiry': 1660049476, 'httpOnly': False, 'name': 'sbjs_first_add', 'path': '/', 'secure': False, 'value': 'fd%3D2022-02-10%2013%3A51%3A16%7C%7C%7Cep%3Dhttps%3A%2F%2Fwww.hausundgartendeals.de%2F%7C%7C%7Crf%3D%28none%29'}, {'domain': '.hausundgartendeals.de', 'expiry': 1660049476, 'httpOnly': False, 'name': 'sbjs_migrations', 'path': '/', 'secure': False, 'value': '1418474375998%3D1'}, {'domain': '.hausundgartendeals.de', 'expiry': 1660049476, 'httpOnly': False, 'name': 'sbjs_current', 'path': '/', 'secure': False, 'value': 'typ%3Dtypein%7C%7C%7Csrc%3D%28direct%29%7C%7C%7Cmdm%3D%28none%29%7C%7C%7Ccmp%3D%28none%29%7C%7C%7Ccnt%3D%28none%29%7C%7C%7Ctrm%3D%28none%29'}, {'domain': 'www.hausundgartendeals.de', 'expiry': 1645707076, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A2'}, {'domain': 'www.hausundgartendeals.de', 'expiry': 1645707076, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1a15536b17e7fbf757ed1001249d4682'}, {'domain': 'www.hausundgartendeals.de', 'expiry': 1645707076, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644497475'}, {'domain': 'www.hausundgartendeals.de', 'httpOnly': False, 'name': 'rmc_carttoken', 'path': '/', 'secure': False, 'value': '309bc72e866a1d7669fccce5c04ca74e'}, {'domain': 'www.hausundgartendeals.de', 'httpOnly': False, 'name': 'rmc_uid', 'path': '/', 'secure': False, 'value': 'd357ed29-1fca-40ef-b5df-d3f98d857ffd'}, {'domain': 'www.hausundgartendeals.de', 'expiry': 1707569475, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0OTc0NzYsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LmhhdXN1bmRnYXJ0ZW5kZWFscy5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQ0OTc0NzYsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LmhhdXN1bmRnYXJ0ZW5kZWFscy5kZS8ifX0='}, {'domain': '.hausundgartendeals.de', 'expiry': 1676033475, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVpqUXdaRGd3Wm1RdFpqUTJOQzAwWmpkaUxXRXhaakF0Wmpkak5EZGtPVEEwWkRVdw'}, {'domain': '.hausundgartendeals.de', 'expiry': 1644583875, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1847775090.1644497475'}, {'domain': '.hausundgartendeals.de', 'expiry': 1660049476, 'httpOnly': False, 'name': 'sbjs_current_add', 'path': '/', 'secure': False, 'value': 'fd%3D2022-02-10%2013%3A51%3A16%7C%7C%7Cep%3Dhttps%3A%2F%2Fwww.hausundgartendeals.de%2F%7C%7C%7Crf%3D%28none%29'}, {'domain': '.hausundgartendeals.de', 'expiry': 1707569475, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1307144764.1644497475'}, {'domain': 'www.hausundgartendeals.de', 'expiry': 1676033475, 'httpOnly': False, 'name': 'ba-pr-id', 'path': '/', 'secure': False, 'value': ''}, {'domain': 'www.hausundgartendeals.de', 'httpOnly': False, 'name': 'rmc_logged_in_at', 'path': '/', 'secure': False, 'value': 'null'}, {'domain': '.hausundgartendeals.de', 'expiry': 1644499275, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T12%3A51%3A15.167Z'}, {'domain': 'www.hausundgartendeals.de', 'expiry': 1645707076, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4241b7b8f392117eb4027fd54aa48430'}, {'domain': '.hausundgartendeals.de', 'expiry': 1645707074, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.hausundgartendeals.de', 'expiry': 1644499280, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bdceacd7-09e6-4273-a7a4-3f86c3ca61e4'}, {'domain': '.hausundgartendeals.de', 'expiry': 1676033480, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5b0eeca0-28dd-4587-a096-b48c89189e8d'}, {'domain': '.hausundgartendeals.de', 'expiry': 1644499280, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bdceacd7-09e6-4273-a7a4-3f86c3ca61e4'}, {'domain': '.hausundgartendeals.de', 'expiry': 1676033480, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5b0eeca0-28dd-4587-a096-b48c89189e8d'}, {'domain': '.hausundgartendeals.de', 'expiry': 1645707074, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.hausundgartendeals.de', 'expiry': 1645707080, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.www.hausundgartendeals.de', 'expiry': 1676033475, 'httpOnly': False, 'name': 'currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': 'www.hausundgartendeals.de', 'expiry': 1645707080, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'NL'}, {'domain': '.hausundgartendeals.de', 'expiry': 1644497535, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.hausundgartendeals.de', 'expiry': 1644499275, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.hausundgartendeals.de', 'expiry': 1676033480, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: sbjs_udata
+[Before] Cookie-Name 2: sbjs_session
+[Before] Cookie-Name 3: sbjs_first
+[Before] Cookie-Name 4: sbjs_first_add
+[Before] Cookie-Name 5: sbjs_migrations
+[Before] Cookie-Name 6: sbjs_current
+[Before] Cookie-Name 7: cart_ver
+[Before] Cookie-Name 8: cart_sig
+[Before] Cookie-Name 9: cart_ts
+[Before] Cookie-Name 10: rmc_carttoken
+[Before] Cookie-Name 11: rmc_uid
+[Before] Cookie-Name 12: __kla_id
+[Before] Cookie-Name 13: _pin_unauth
+[Before] Cookie-Name 14: _gid
+[Before] Cookie-Name 15: sbjs_current_add
+[Before] Cookie-Name 16: _ga
+[Before] Cookie-Name 17: ba-pr-id
+[Before] Cookie-Name 18: rmc_logged_in_at
+[Before] Cookie-Name 19: _shopify_sa_t
+[Before] Cookie-Name 20: cart
+[Before] Cookie-Name 21: _orig_referrer
+[Before] Cookie-Name 22: _shopify_s
+[Before] Cookie-Name 23: _shopify_y
+[Before] Cookie-Name 24: _s
+[Before] Cookie-Name 25: _y
+[Before] Cookie-Name 26: _landing_page
+[Before] Cookie-Name 27: cart_currency
+[Before] Cookie-Name 28: currency
+[Before] Cookie-Name 29: localization
+[Before] Cookie-Name 30: _gat
+[Before] Cookie-Name 31: _shopify_sa_p
+[Before] Cookie-Name 32: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 32
+[After] Website-Cookies: [{'domain': '.hausundgartendeals.de', 'expiry': 1660049476, 'httpOnly': False, 'name': 'sbjs_udata', 'path': '/', 'secure': False, 'value': 'vst%3D1%7C%7C%7Cuip%3D%28none%29%7C%7C%7Cuag%3DMozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F98.0.4758.82%20Safari%2F537.36'}, {'domain': '.hausundgartendeals.de', 'expiry': 1644499276, 'httpOnly': False, 'name': 'sbjs_session', 'path': '/', 'secure': False, 'value': 'pgs%3D1%7C%7C%7Ccpg%3Dhttps%3A%2F%2Fwww.hausundgartendeals.de%2F'}, {'domain': '.hausundgartendeals.de', 'expiry': 1660049476, 'httpOnly': False, 'name': 'sbjs_first', 'path': '/', 'secure': False, 'value': 'typ%3Dtypein%7C%7C%7Csrc%3D%28direct%29%7C%7C%7Cmdm%3D%28none%29%7C%7C%7Ccmp%3D%28none%29%7C%7C%7Ccnt%3D%28none%29%7C%7C%7Ctrm%3D%28none%29'}, {'domain': '.hausundgartendeals.de', 'expiry': 1660049476, 'httpOnly': False, 'name': 'sbjs_first_add', 'path': '/', 'secure': False, 'value': 'fd%3D2022-02-10%2013%3A51%3A16%7C%7C%7Cep%3Dhttps%3A%2F%2Fwww.hausundgartendeals.de%2F%7C%7C%7Crf%3D%28none%29'}, {'domain': '.hausundgartendeals.de', 'expiry': 1660049476, 'httpOnly': False, 'name': 'sbjs_migrations', 'path': '/', 'secure': False, 'value': '1418474375998%3D1'}, {'domain': '.hausundgartendeals.de', 'expiry': 1660049476, 'httpOnly': False, 'name': 'sbjs_current', 'path': '/', 'secure': False, 'value': 'typ%3Dtypein%7C%7C%7Csrc%3D%28direct%29%7C%7C%7Cmdm%3D%28none%29%7C%7C%7Ccmp%3D%28none%29%7C%7C%7Ccnt%3D%28none%29%7C%7C%7Ctrm%3D%28none%29'}, {'domain': 'www.hausundgartendeals.de', 'expiry': 1645707076, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A2'}, {'domain': 'www.hausundgartendeals.de', 'expiry': 1645707076, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1a15536b17e7fbf757ed1001249d4682'}, {'domain': 'www.hausundgartendeals.de', 'expiry': 1645707076, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644497475'}, {'domain': 'www.hausundgartendeals.de', 'httpOnly': False, 'name': 'rmc_carttoken', 'path': '/', 'secure': False, 'value': '309bc72e866a1d7669fccce5c04ca74e'}, {'domain': 'www.hausundgartendeals.de', 'httpOnly': False, 'name': 'rmc_uid', 'path': '/', 'secure': False, 'value': 'd357ed29-1fca-40ef-b5df-d3f98d857ffd'}, {'domain': 'www.hausundgartendeals.de', 'expiry': 1707569475, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0OTc0NzYsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LmhhdXN1bmRnYXJ0ZW5kZWFscy5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQ0OTc0NzYsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LmhhdXN1bmRnYXJ0ZW5kZWFscy5kZS8ifX0='}, {'domain': '.hausundgartendeals.de', 'expiry': 1676033475, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVpqUXdaRGd3Wm1RdFpqUTJOQzAwWmpkaUxXRXhaakF0Wmpkak5EZGtPVEEwWkRVdw'}, {'domain': '.hausundgartendeals.de', 'expiry': 1644583875, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1847775090.1644497475'}, {'domain': '.hausundgartendeals.de', 'expiry': 1660049476, 'httpOnly': False, 'name': 'sbjs_current_add', 'path': '/', 'secure': False, 'value': 'fd%3D2022-02-10%2013%3A51%3A16%7C%7C%7Cep%3Dhttps%3A%2F%2Fwww.hausundgartendeals.de%2F%7C%7C%7Crf%3D%28none%29'}, {'domain': '.hausundgartendeals.de', 'expiry': 1707569475, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1307144764.1644497475'}, {'domain': 'www.hausundgartendeals.de', 'expiry': 1676033475, 'httpOnly': False, 'name': 'ba-pr-id', 'path': '/', 'secure': False, 'value': ''}, {'domain': 'www.hausundgartendeals.de', 'httpOnly': False, 'name': 'rmc_logged_in_at', 'path': '/', 'secure': False, 'value': 'null'}, {'domain': '.hausundgartendeals.de', 'expiry': 1644499275, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T12%3A51%3A15.167Z'}, {'domain': 'www.hausundgartendeals.de', 'expiry': 1645707076, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4241b7b8f392117eb4027fd54aa48430'}, {'domain': '.hausundgartendeals.de', 'expiry': 1645707074, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.hausundgartendeals.de', 'expiry': 1644499280, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bdceacd7-09e6-4273-a7a4-3f86c3ca61e4'}, {'domain': '.hausundgartendeals.de', 'expiry': 1676033480, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5b0eeca0-28dd-4587-a096-b48c89189e8d'}, {'domain': '.hausundgartendeals.de', 'expiry': 1644499280, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bdceacd7-09e6-4273-a7a4-3f86c3ca61e4'}, {'domain': '.hausundgartendeals.de', 'expiry': 1676033480, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5b0eeca0-28dd-4587-a096-b48c89189e8d'}, {'domain': '.hausundgartendeals.de', 'expiry': 1645707074, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.hausundgartendeals.de', 'expiry': 1645707080, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.www.hausundgartendeals.de', 'expiry': 1676033475, 'httpOnly': False, 'name': 'currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': 'www.hausundgartendeals.de', 'expiry': 1645707080, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'NL'}, {'domain': '.hausundgartendeals.de', 'expiry': 1644497535, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.hausundgartendeals.de', 'expiry': 1644499275, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.hausundgartendeals.de', 'expiry': 1676033480, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: sbjs_udata
+[After] Cookie-Name 2: sbjs_session
+[After] Cookie-Name 3: sbjs_first
+[After] Cookie-Name 4: sbjs_first_add
+[After] Cookie-Name 5: sbjs_migrations
+[After] Cookie-Name 6: sbjs_current
+[After] Cookie-Name 7: cart_ver
+[After] Cookie-Name 8: cart_sig
+[After] Cookie-Name 9: cart_ts
+[After] Cookie-Name 10: rmc_carttoken
+[After] Cookie-Name 11: rmc_uid
+[After] Cookie-Name 12: __kla_id
+[After] Cookie-Name 13: _pin_unauth
+[After] Cookie-Name 14: _gid
+[After] Cookie-Name 15: sbjs_current_add
+[After] Cookie-Name 16: _ga
+[After] Cookie-Name 17: ba-pr-id
+[After] Cookie-Name 18: rmc_logged_in_at
+[After] Cookie-Name 19: _shopify_sa_t
+[After] Cookie-Name 20: cart
+[After] Cookie-Name 21: _orig_referrer
+[After] Cookie-Name 22: _shopify_s
+[After] Cookie-Name 23: _shopify_y
+[After] Cookie-Name 24: _s
+[After] Cookie-Name 25: _y
+[After] Cookie-Name 26: _landing_page
+[After] Cookie-Name 27: cart_currency
+[After] Cookie-Name 28: currency
+[After] Cookie-Name 29: localization
+[After] Cookie-Name 30: _gat
+[After] Cookie-Name 31: _shopify_sa_p
+[After] Cookie-Name 32: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gat (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

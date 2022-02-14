@@ -1,0 +1,92 @@
+Website 346: http://www.swissfx.de/ | Created: 09.02.2022 15:25:37 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 30
+[Before] Website-Cookies: [{'domain': 'swissfx.de', 'expiry': 1644417929, 'httpOnly': False, 'name': '_omappvs', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '1644416729063'}, {'domain': '.swissfx.de', 'httpOnly': False, 'name': 'omnisendCartProducts', 'path': '/', 'secure': False, 'value': '[]'}, {'domain': 'swissfx.de', 'expiry': 1989930329, 'httpOnly': False, 'name': '_omappvp', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '1xWJAdtnd8n2q2bUMGWwjCDMdvZ0kUdeEzKWySezqABN5uJDr3yDhb7pOQeqIsCIwxmOEsakIpi5DzKi5MSyytWgDJPYJr6T'}, {'domain': '.swissfx.de', 'expiry': 1644418528, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'aPANzC6cKpz4DX-20220209142528'}, {'domain': '.swissfx.de', 'expiry': 1644418527, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T14%3A25%3A27.089Z'}, {'domain': 'swissfx.de', 'expiry': 1645626327, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '90f6f55d477d2524ef0d6da551774d7d'}, {'domain': '.swissfx.de', 'expiry': 1675952728, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 's4Jsgr0WoeAtov-20220209142528'}, {'domain': '.swissfx.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220209142528-oG9Jt4qyh23fTlbTUL8m7eaysk9qhC4mWOZvpUQB2DVbcDkUh'}, {'domain': 'swissfx.de', 'expiry': 1645626327, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': 'swissfx.de', 'expiry': 1645626327, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '577fd3a4ee36b580e8885fc17d99825c'}, {'domain': '.swissfx.de', 'expiry': 1644418527, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.swissfx.de', 'expiry': 1645626326, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'swissfx.de', 'expiry': 1644417027, 'httpOnly': False, 'name': 'outbrain_cid_fetch', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': '.swissfx.de', 'httpOnly': False, 'name': 'soundest-views', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.swissfx.de', 'expiry': 1644416787, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.swissfx.de', 'expiry': 1644503127, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1250343821.1644416727'}, {'domain': 'swissfx.de', 'expiry': 1707488730, 'httpOnly': False, 'name': '_sp_id.7b18', 'path': '/', 'secure': False, 'value': '10b7b72b37c24424.1644416729.1.1644416730.1644416729'}, {'domain': '.swissfx.de', 'httpOnly': False, 'name': 'mp_u', 'path': '/', 'secure': False, 'value': '4035039491.3025540549.1644416726.1644416726.1644416726.1644416726.1'}, {'domain': 'swissfx.de', 'expiry': 1675952729, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.swissfx.de', 'expiry': 1675952726, 'httpOnly': False, 'name': 'PAPVisitorId', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'NoGwicWgjukKvt068h8aW9RYLvsVIwPE'}, {'domain': '.swissfx.de', 'expiry': 1652192726, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.363178178.1644416726'}, {'domain': 'swissfx.de', 'expiry': 1645626327, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644416727'}, {'domain': '.swissfx.de', 'expiry': 1644418529, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6910c0a3-cbbd-480b-bd52-24bd97b962b9'}, {'domain': '.swissfx.de', 'expiry': 1645626326, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.swissfx.de', 'expiry': 1675952729, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0eed132c-989a-42da-81ea-a9b57c38c2ba'}, {'domain': 'swissfx.de', 'expiry': 1644418530, 'httpOnly': False, 'name': '_sp_ses.7b18', 'path': '/', 'secure': False, 'value': '*'}, {'domain': '.swissfx.de', 'expiry': 1675952729, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0eed132c-989a-42da-81ea-a9b57c38c2ba'}, {'domain': '.swissfx.de', 'expiry': 1644416787, 'httpOnly': False, 'name': '_gat_gtag_UA_172724941_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.swissfx.de', 'expiry': 1707488727, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.341265909.1644416727'}, {'domain': '.swissfx.de', 'expiry': 1644418529, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6910c0a3-cbbd-480b-bd52-24bd97b962b9'}]
+[Before] Cookie-Name 1: _omappvs
+[Before] Cookie-Name 2: omnisendCartProducts
+[Before] Cookie-Name 3: _omappvp
+[Before] Cookie-Name 4: omnisendSessionID
+[Before] Cookie-Name 5: _shopify_sa_t
+[Before] Cookie-Name 6: cart
+[Before] Cookie-Name 7: omnisendAnonymousID
+[Before] Cookie-Name 8: soundestID
+[Before] Cookie-Name 9: cart_ver
+[Before] Cookie-Name 10: cart_sig
+[Before] Cookie-Name 11: _shopify_sa_p
+[Before] Cookie-Name 12: _landing_page
+[Before] Cookie-Name 13: outbrain_cid_fetch
+[Before] Cookie-Name 14: soundest-views
+[Before] Cookie-Name 15: _gat
+[Before] Cookie-Name 16: _gid
+[Before] Cookie-Name 17: _sp_id.7b18
+[Before] Cookie-Name 18: mp_u
+[Before] Cookie-Name 19: secure_customer_sig
+[Before] Cookie-Name 20: PAPVisitorId
+[Before] Cookie-Name 21: _gcl_au
+[Before] Cookie-Name 22: cart_ts
+[Before] Cookie-Name 23: _shopify_s
+[Before] Cookie-Name 24: _orig_referrer
+[Before] Cookie-Name 25: _y
+[Before] Cookie-Name 26: _sp_ses.7b18
+[Before] Cookie-Name 27: _shopify_y
+[Before] Cookie-Name 28: _gat_gtag_UA_172724941_1
+[Before] Cookie-Name 29: _ga
+[Before] Cookie-Name 30: _s
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 31
+[After] Website-Cookies: [{'domain': 'swissfx.de', 'expiry': 1675952743, 'httpOnly': False, 'name': 'cookieconsent_status', 'path': '/', 'secure': False, 'value': 'dismiss'}, {'domain': 'swissfx.de', 'expiry': 1644417929, 'httpOnly': False, 'name': '_omappvs', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '1644416729063'}, {'domain': '.swissfx.de', 'httpOnly': False, 'name': 'omnisendCartProducts', 'path': '/', 'secure': False, 'value': '[]'}, {'domain': '.swissfx.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220209142528-oG9Jt4qyh23fTlbTUL8m7eaysk9qhC4mWOZvpUQB2DVbcDkUh'}, {'domain': 'swissfx.de', 'expiry': 1645626327, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': 'swissfx.de', 'expiry': 1645626327, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '577fd3a4ee36b580e8885fc17d99825c'}, {'domain': '.swissfx.de', 'expiry': 1644418527, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.swissfx.de', 'expiry': 1675952728, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 's4Jsgr0WoeAtov-20220209142528'}, {'domain': '.swissfx.de', 'expiry': 1644418527, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T14%3A25%3A27.089Z'}, {'domain': 'swissfx.de', 'expiry': 1645626327, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '90f6f55d477d2524ef0d6da551774d7d'}, {'domain': '.swissfx.de', 'expiry': 1645626326, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'swissfx.de', 'expiry': 1644417027, 'httpOnly': False, 'name': 'outbrain_cid_fetch', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': '.swissfx.de', 'httpOnly': False, 'name': 'soundest-views', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.swissfx.de', 'expiry': 1644416787, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.swissfx.de', 'expiry': 1644503127, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1250343821.1644416727'}, {'domain': 'swissfx.de', 'expiry': 1707488730, 'httpOnly': False, 'name': '_sp_id.7b18', 'path': '/', 'secure': False, 'value': '10b7b72b37c24424.1644416729.1.1644416730.1644416729'}, {'domain': '.swissfx.de', 'httpOnly': False, 'name': 'mp_u', 'path': '/', 'secure': False, 'value': '4035039491.3025540549.1644416726.1644416726.1644416726.1644416726.1'}, {'domain': 'swissfx.de', 'expiry': 1675952729, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.swissfx.de', 'expiry': 1675952726, 'httpOnly': False, 'name': 'PAPVisitorId', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'NoGwicWgjukKvt068h8aW9RYLvsVIwPE'}, {'domain': '.swissfx.de', 'expiry': 1652192726, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.363178178.1644416726'}, {'domain': 'swissfx.de', 'expiry': 1989930329, 'httpOnly': False, 'name': '_omappvp', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '1xWJAdtnd8n2q2bUMGWwjCDMdvZ0kUdeEzKWySezqABN5uJDr3yDhb7pOQeqIsCIwxmOEsakIpi5DzKi5MSyytWgDJPYJr6T'}, {'domain': '.swissfx.de', 'expiry': 1644418528, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'aPANzC6cKpz4DX-20220209142528'}, {'domain': 'swissfx.de', 'expiry': 1645626327, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644416727'}, {'domain': '.swissfx.de', 'expiry': 1644418529, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6910c0a3-cbbd-480b-bd52-24bd97b962b9'}, {'domain': '.swissfx.de', 'expiry': 1645626326, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.swissfx.de', 'expiry': 1675952729, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0eed132c-989a-42da-81ea-a9b57c38c2ba'}, {'domain': 'swissfx.de', 'expiry': 1644418530, 'httpOnly': False, 'name': '_sp_ses.7b18', 'path': '/', 'secure': False, 'value': '*'}, {'domain': '.swissfx.de', 'expiry': 1675952729, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0eed132c-989a-42da-81ea-a9b57c38c2ba'}, {'domain': '.swissfx.de', 'expiry': 1644416787, 'httpOnly': False, 'name': '_gat_gtag_UA_172724941_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.swissfx.de', 'expiry': 1707488727, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.341265909.1644416727'}, {'domain': '.swissfx.de', 'expiry': 1644418529, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6910c0a3-cbbd-480b-bd52-24bd97b962b9'}]
+[After] Cookie-Name 1: cookieconsent_status
+[After] Cookie-Name 2: _omappvs
+[After] Cookie-Name 3: omnisendCartProducts
+[After] Cookie-Name 4: soundestID
+[After] Cookie-Name 5: cart_ver
+[After] Cookie-Name 6: cart_sig
+[After] Cookie-Name 7: _shopify_sa_p
+[After] Cookie-Name 8: omnisendAnonymousID
+[After] Cookie-Name 9: _shopify_sa_t
+[After] Cookie-Name 10: cart
+[After] Cookie-Name 11: _landing_page
+[After] Cookie-Name 12: outbrain_cid_fetch
+[After] Cookie-Name 13: soundest-views
+[After] Cookie-Name 14: _gat
+[After] Cookie-Name 15: _gid
+[After] Cookie-Name 16: _sp_id.7b18
+[After] Cookie-Name 17: mp_u
+[After] Cookie-Name 18: secure_customer_sig
+[After] Cookie-Name 19: PAPVisitorId
+[After] Cookie-Name 20: _gcl_au
+[After] Cookie-Name 21: _omappvp
+[After] Cookie-Name 22: omnisendSessionID
+[After] Cookie-Name 23: cart_ts
+[After] Cookie-Name 24: _shopify_s
+[After] Cookie-Name 25: _orig_referrer
+[After] Cookie-Name 26: _y
+[After] Cookie-Name 27: _sp_ses.7b18
+[After] Cookie-Name 28: _shopify_y
+[After] Cookie-Name 29: _gat_gtag_UA_172724941_1
+[After] Cookie-Name 30: _ga
+[After] Cookie-Name 31: _s
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: cookieconsent_status
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

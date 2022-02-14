@@ -1,0 +1,75 @@
+Website 71: http://www.stuckmann.de/ | Created: 09.02.2022 17:27:28 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 24
+[Before] Website-Cookies: [{'domain': 'stuckmann.de', 'httpOnly': False, 'name': 'locale_bar_accepted', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.stuckmann.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '976b00db-cea1-4568-aabb-b57d1e4e2fea'}, {'domain': 'stuckmann.de', 'expiry': 1645633640, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': '.stuckmann.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '976b00db-cea1-4568-aabb-b57d1e4e2fea'}, {'domain': 'stuckmann.de', 'expiry': 1645633640, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '622f27e4126e969dd6a3181137989b4c'}, {'domain': 'stuckmann.de', 'expiry': 1644427639, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.stuckmann.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T16%3A27%3A19.284Z'}, {'domain': '.stuckmann.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T16%3A27%3A19.278Z'}, {'domain': '.stuckmann.de', 'expiry': 1675960039, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.stuckmann.de', 'expiry': 1675960039, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22lim%22%3A%5B%22CCPA%22%2C%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22CCPA%22%3A%22%22%2C%22GDPR%22%3A%22%22%7D%7D'}, {'domain': '.stuckmann.de', 'expiry': 1645633639, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'stuckmann.de', 'expiry': 1645633640, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'stuckmann.de', 'expiry': 1645633640, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644424040'}, {'domain': '.stuckmann.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'stuckmann.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.stuckmann.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.stuckmann.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '696266d8-293f-430a-8b47-e55197bd91f5'}, {'domain': 'stuckmann.de', 'expiry': 1645633640, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.stuckmann.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '696266d8-293f-430a-8b47-e55197bd91f5'}, {'domain': 'stuckmann.de', 'expiry': 1675960040, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.stuckmann.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'stuckmann.de', 'expiry': 1645633640, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '817307028815c2386879f58f9d629e4b'}, {'domain': '.stuckmann.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.stuckmann.de', 'expiry': 1644425840, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[Before] Cookie-Name 1: locale_bar_accepted
+[Before] Cookie-Name 2: _shopify_s
+[Before] Cookie-Name 3: cart_ver
+[Before] Cookie-Name 4: _s
+[Before] Cookie-Name 5: cart
+[Before] Cookie-Name 6: shopify_pay_redirect
+[Before] Cookie-Name 7: _shopify_sa_t
+[Before] Cookie-Name 8: _shopify_d
+[Before] Cookie-Name 9: _shopify_m
+[Before] Cookie-Name 10: _tracking_consent
+[Before] Cookie-Name 11: _shopify_tw
+[Before] Cookie-Name 12: localization
+[Before] Cookie-Name 13: cart_ts
+[Before] Cookie-Name 14: _shopify_sa_p
+[Before] Cookie-Name 15: _shopify_evids
+[Before] Cookie-Name 16: _landing_page
+[Before] Cookie-Name 17: _y
+[Before] Cookie-Name 18: cart_currency
+[Before] Cookie-Name 19: _shopify_y
+[Before] Cookie-Name 20: secure_customer_sig
+[Before] Cookie-Name 21: _orig_referrer
+[Before] Cookie-Name 22: cart_sig
+[Before] Cookie-Name 23: _shopify_evids
+[Before] Cookie-Name 24: _shopify_tm
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 24
+[After] Website-Cookies: [{'domain': '.stuckmann.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T16%3A27%3A19.278Z'}, {'domain': '.stuckmann.de', 'expiry': 1675960054, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': 'stuckmann.de', 'httpOnly': False, 'name': 'locale_bar_accepted', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.stuckmann.de', 'expiry': 1644425854, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '976b00db-cea1-4568-aabb-b57d1e4e2fea'}, {'domain': 'stuckmann.de', 'expiry': 1645633640, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': '.stuckmann.de', 'expiry': 1644425854, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '976b00db-cea1-4568-aabb-b57d1e4e2fea'}, {'domain': 'stuckmann.de', 'expiry': 1645633640, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '622f27e4126e969dd6a3181137989b4c'}, {'domain': 'stuckmann.de', 'expiry': 1644427639, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.stuckmann.de', 'expiry': 1644425854, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T16%3A27%3A19.284Z'}, {'domain': '.stuckmann.de', 'expiry': 1675960054, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22CCPA%22%2C%22GDPR%22%5D%2C%22con%22%3A%7B%22GDPR%22%3A%221%22%2C%22CCPA%22%3A%22%22%7D%2C%22v%22%3A%222.0%22%7D'}, {'domain': '.stuckmann.de', 'expiry': 1645633639, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'stuckmann.de', 'expiry': 1645633654, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'stuckmann.de', 'expiry': 1645633640, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644424040'}, {'domain': '.stuckmann.de', 'expiry': 1644425854, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'stuckmann.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.stuckmann.de', 'expiry': 1645633654, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.stuckmann.de', 'expiry': 1675960054, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '696266d8-293f-430a-8b47-e55197bd91f5'}, {'domain': 'stuckmann.de', 'expiry': 1645633654, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.stuckmann.de', 'expiry': 1675960054, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '696266d8-293f-430a-8b47-e55197bd91f5'}, {'domain': 'stuckmann.de', 'expiry': 1675960054, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.stuckmann.de', 'expiry': 1645633654, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'stuckmann.de', 'expiry': 1645633654, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '817307028815c2386879f58f9d629e4b'}, {'domain': '.stuckmann.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.stuckmann.de', 'expiry': 1644425854, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: _shopify_d
+[After] Cookie-Name 2: _shopify_m
+[After] Cookie-Name 3: locale_bar_accepted
+[After] Cookie-Name 4: _shopify_s
+[After] Cookie-Name 5: cart_ver
+[After] Cookie-Name 6: _s
+[After] Cookie-Name 7: cart
+[After] Cookie-Name 8: shopify_pay_redirect
+[After] Cookie-Name 9: _shopify_sa_t
+[After] Cookie-Name 10: _tracking_consent
+[After] Cookie-Name 11: _shopify_tw
+[After] Cookie-Name 12: localization
+[After] Cookie-Name 13: cart_ts
+[After] Cookie-Name 14: _shopify_sa_p
+[After] Cookie-Name 15: _shopify_evids
+[After] Cookie-Name 16: _landing_page
+[After] Cookie-Name 17: _y
+[After] Cookie-Name 18: cart_currency
+[After] Cookie-Name 19: _shopify_y
+[After] Cookie-Name 20: secure_customer_sig
+[After] Cookie-Name 21: _orig_referrer
+[After] Cookie-Name 22: cart_sig
+[After] Cookie-Name 23: _shopify_evids
+[After] Cookie-Name 24: _shopify_tm
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

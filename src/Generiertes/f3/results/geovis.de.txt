@@ -1,0 +1,95 @@
+Website 379: http://www.geovis.de/ | Created: 09.02.2022 15:35:45 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 8
+[Before] Website-Cookies: [{'domain': '.geovis.de', 'expiry': 1675953334, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.geovis.de', 'expiry': 1645626934, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.geovis.de', 'expiry': 1645626937, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.geovis.de', 'expiry': 1675953334, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': '.geovis.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.geovis.de', 'expiry': 1644419137, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.geovis.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.geovis.de', 'expiry': 1675953337, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _shopify_m
+[Before] Cookie-Name 2: _shopify_tw
+[Before] Cookie-Name 3: cart_currency
+[Before] Cookie-Name 4: _tracking_consent
+[Before] Cookie-Name 5: _landing_page
+[Before] Cookie-Name 6: _shopify_tm
+[Before] Cookie-Name 7: _orig_referrer
+[Before] Cookie-Name 8: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 37
+[After] Website-Cookies: [{'domain': '.geovis.de', 'expiry': 1644417411, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.geovis.de', 'expiry': 1644503751, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1077861374.1644417351'}, {'domain': '.geovis.de', 'expiry': 1707489351, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.116320456.1644417351'}, {'domain': '.geovis.de', 'expiry': 1675953351, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%2C%22CCPA%22%3A%221%22%7D%7D'}, {'domain': 'www.geovis.de', 'expiry': 1645626951, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '43815391bff8a0aeb2dc50583316f450'}, {'domain': '.geovis.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '92e31eb2-19ac-48f1-b276-0cc1a2fbcca6'}, {'domain': '.geovis.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '92e31eb2-19ac-48f1-b276-0cc1a2fbcca6'}, {'domain': '.geovis.de', 'expiry': 1652193351, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644417351449.770568494'}, {'domain': '.geovis.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c9784ada-4d31-41b4-80d9-d559db9e9597'}, {'domain': '.geovis.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T14%3A35%3A34.449Z'}, {'domain': 'www.geovis.de', 'expiry': 1645626951, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': 'www.geovis.de', 'expiry': 1645626951, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1e814040a441e9fe2a20bdef349a75fc'}, {'domain': 'www.geovis.de', 'httpOnly': False, 'name': 'apay-session-set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'A3D23OotRfpNPHikGD1NlHWa7y%2BB5KAgMRwloUIRj0PufD7J2lexvKARqfQv%2Ftg%3D'}, {'domain': '.geovis.de', 'expiry': 1645626934, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.geovis.de', 'expiry': 1644419150, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '92e31eb2-19ac-48f1-b276-0cc1a2fbcca6'}, {'domain': 'www.geovis.de', 'httpOnly': False, 'name': 'exemptify', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'authorized'}, {'domain': 'www.geovis.de', 'expiry': 1645626951, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.geovis.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.geovis.de', 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'pending'}, {'domain': 'www.geovis.de', 'expiry': 1645626951, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644417351'}, {'domain': 'www.geovis.de', 'httpOnly': False, 'name': 'amazon-pay-connectedAuth', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'connectedAuth_general'}, {'domain': 'www.geovis.de', 'expiry': 1644419150, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '92e31eb2-19ac-48f1-b276-0cc1a2fbcca6'}, {'domain': 'www.geovis.de', 'httpOnly': False, 'name': 'language', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'de_DE'}, {'domain': 'www.geovis.de', 'httpOnly': False, 'name': 'fsb_previous_pathname', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '/'}, {'domain': 'www.geovis.de', 'expiry': 1647009350, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0NDE3MzUwNzM4LCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjoxfX0='}, {'domain': 'www.geovis.de', 'expiry': 1644419150, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T14%3A35%3A34.449Z'}, {'domain': 'www.geovis.de', 'expiry': 1675953350, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c9784ada-4d31-41b4-80d9-d559db9e9597'}, {'domain': 'www.geovis.de', 'expiry': 1645626950, 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T14%3A35%3A34.441Z'}, {'domain': '.geovis.de', 'expiry': 1644419151, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.geovis.de', 'expiry': 1645626951, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.geovis.de', 'expiry': 1675953350, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c9784ada-4d31-41b4-80d9-d559db9e9597'}, {'domain': '.geovis.de', 'expiry': 1645626951, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.geovis.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c9784ada-4d31-41b4-80d9-d559db9e9597'}, {'domain': '.geovis.de', 'expiry': 1645626951, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.geovis.de', 'expiry': 1675953351, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': 'www.geovis.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.geovis.de', 'expiry': 1675953351, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _gat
+[After] Cookie-Name 2: _gid
+[After] Cookie-Name 3: _ga
+[After] Cookie-Name 4: _tracking_consent
+[After] Cookie-Name 5: cart
+[After] Cookie-Name 6: _shopify_s
+[After] Cookie-Name 7: _s
+[After] Cookie-Name 8: _fbp
+[After] Cookie-Name 9: _y
+[After] Cookie-Name 10: _shopify_sa_t
+[After] Cookie-Name 11: cart_ver
+[After] Cookie-Name 12: cart_sig
+[After] Cookie-Name 13: apay-session-set
+[After] Cookie-Name 14: _shopify_tw
+[After] Cookie-Name 15: _shopify_s
+[After] Cookie-Name 16: exemptify
+[After] Cookie-Name 17: localization
+[After] Cookie-Name 18: _shopify_evids
+[After] Cookie-Name 19: shopify_pay_redirect
+[After] Cookie-Name 20: cart_ts
+[After] Cookie-Name 21: amazon-pay-connectedAuth
+[After] Cookie-Name 22: _s
+[After] Cookie-Name 23: language
+[After] Cookie-Name 24: fsb_previous_pathname
+[After] Cookie-Name 25: _bc_c_set
+[After] Cookie-Name 26: _shopify_sa_t
+[After] Cookie-Name 27: _shopify_y
+[After] Cookie-Name 28: _shopify_d
+[After] Cookie-Name 29: _shopify_tm
+[After] Cookie-Name 30: cart_currency
+[After] Cookie-Name 31: _y
+[After] Cookie-Name 32: _orig_referrer
+[After] Cookie-Name 33: _shopify_y
+[After] Cookie-Name 34: _landing_page
+[After] Cookie-Name 35: _shopify_m
+[After] Cookie-Name 36: _shopify_evids
+[After] Cookie-Name 37: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 23
+[Difference] Cookie-Name: 1: _bc_c_set
+[Difference] Cookie-Name: 2: _y
+[Difference] Cookie-Name: 3: _shopify_d
+[Difference] Cookie-Name: 4: shopify_pay_redirect
+[Difference] Cookie-Name: 5: _shopify_s
+[Difference] Cookie-Name: 6: cart_ver
+[Difference] Cookie-Name: 7: exemptify
+[Difference] Cookie-Name: 8: localization
+[Difference] Cookie-Name: 9: _shopify_sa_t
+[Difference] Cookie-Name: 10: amazon-pay-connectedAuth
+[Difference] Cookie-Name: 11: cart_sig
+[Difference] Cookie-Name: 12: _gid
+[Difference] Cookie-Name: 13: fsb_previous_pathname
+[Difference] Cookie-Name: 14: _s
+[Difference] Cookie-Name: 15: cart
+[Difference] Cookie-Name: 16: _shopify_y
+[Difference] Cookie-Name: 17: apay-session-set
+[Difference] Cookie-Name: 18: _gat
+[Difference] Cookie-Name: 19: language
+[Difference] Cookie-Name: 20: _fbp
+[Difference] Cookie-Name: 21: _shopify_evids
+[Difference] Cookie-Name: 22: _ga
+[Difference] Cookie-Name: 23: cart_ts
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

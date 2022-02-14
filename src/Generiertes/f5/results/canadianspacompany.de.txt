@@ -1,0 +1,79 @@
+Website 168: http://www.canadianspacompany.de/ | Created: 09.02.2022 20:26:21 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 23
+[Before] Website-Cookies: [{'domain': 'canadianspacompany.de', 'expiry': 1675970773, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': ''}, {'domain': 'canadianspacompany.de', 'expiry': 1645644373, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A2'}, {'domain': 'canadianspacompany.de', 'expiry': 1645644373, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3e5b65543a9c0e9b7c6a465cd6e191c7'}, {'domain': 'canadianspacompany.de', 'expiry': 1645644373, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2c1009ccdf422aaab91643a91224c1d9'}, {'domain': 'canadianspacompany.de', 'expiry': 1644438373, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.canadianspacompany.de', 'expiry': 1644434832, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.canadianspacompany.de', 'expiry': 1644434832, 'httpOnly': False, 'name': '_gat_gtag_UA_114990130_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.canadianspacompany.de', 'expiry': 1707506772, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1458517403.1644434773'}, {'domain': 'canadianspacompany.de', 'httpOnly': False, 'name': 'exemptify', 'path': '/', 'secure': False, 'value': 'authorized'}, {'domain': '.canadianspacompany.de', 'expiry': 1644436572, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A26%3A12.834Z'}, {'domain': '.canadianspacompany.de', 'expiry': 1644436572, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.canadianspacompany.de', 'expiry': 1644436573, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '186a05a5-dcc9-4d46-a9d6-89c9a166199b'}, {'domain': '.canadianspacompany.de', 'expiry': 1652210772, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.84554738.1644434773'}, {'domain': '.canadianspacompany.de', 'expiry': 1644436573, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '186a05a5-dcc9-4d46-a9d6-89c9a166199b'}, {'domain': '.canadianspacompany.de', 'expiry': 1675970773, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cbef26bd-1a93-487e-a10f-a9bcf0bcb2f4'}, {'domain': '.canadianspacompany.de', 'expiry': 1644521172, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.2097693642.1644434773'}, {'domain': 'canadianspacompany.de', 'expiry': 1645644373, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'canadianspacompany.de', 'expiry': 1675970773, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.canadianspacompany.de', 'expiry': 1645644372, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.canadianspacompany.de', 'expiry': 1645644372, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'canadianspacompany.de', 'expiry': 1645644373, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644434773'}, {'domain': '.canadianspacompany.de', 'expiry': 1675970773, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cbef26bd-1a93-487e-a10f-a9bcf0bcb2f4'}, {'domain': 'canadianspacompany.de', 'expiry': 1645644373, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[Before] Cookie-Name 1: cookieconsent_preferences_disabled
+[Before] Cookie-Name 2: cart_ver
+[Before] Cookie-Name 3: cart_sig
+[Before] Cookie-Name 4: cart
+[Before] Cookie-Name 5: shopify_pay_redirect
+[Before] Cookie-Name 6: _gat
+[Before] Cookie-Name 7: _gat_gtag_UA_114990130_1
+[Before] Cookie-Name 8: _ga
+[Before] Cookie-Name 9: exemptify
+[Before] Cookie-Name 10: _shopify_sa_t
+[Before] Cookie-Name 11: _shopify_sa_p
+[Before] Cookie-Name 12: _shopify_s
+[Before] Cookie-Name 13: _gcl_au
+[Before] Cookie-Name 14: _s
+[Before] Cookie-Name 15: _y
+[Before] Cookie-Name 16: _gid
+[Before] Cookie-Name 17: cart_currency
+[Before] Cookie-Name 18: secure_customer_sig
+[Before] Cookie-Name 19: _landing_page
+[Before] Cookie-Name 20: _orig_referrer
+[Before] Cookie-Name 21: cart_ts
+[Before] Cookie-Name 22: _shopify_y
+[Before] Cookie-Name 23: localization
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 24
+[After] Website-Cookies: [{'domain': 'canadianspacompany.de', 'expiry': 1675970787, 'httpOnly': False, 'name': 'cookieconsent_status', 'path': '/', 'secure': False, 'value': 'allow'}, {'domain': 'canadianspacompany.de', 'expiry': 1675970787, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': ''}, {'domain': '.canadianspacompany.de', 'expiry': 1644434832, 'httpOnly': False, 'name': '_gat_gtag_UA_114990130_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'canadianspacompany.de', 'expiry': 1645644373, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A2'}, {'domain': 'canadianspacompany.de', 'expiry': 1645644373, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'canadianspacompany.de', 'expiry': 1645644373, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3e5b65543a9c0e9b7c6a465cd6e191c7'}, {'domain': 'canadianspacompany.de', 'expiry': 1645644373, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2c1009ccdf422aaab91643a91224c1d9'}, {'domain': 'canadianspacompany.de', 'expiry': 1644438373, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.canadianspacompany.de', 'expiry': 1645644372, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.canadianspacompany.de', 'expiry': 1644434832, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.canadianspacompany.de', 'expiry': 1707506772, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1458517403.1644434773'}, {'domain': 'canadianspacompany.de', 'httpOnly': False, 'name': 'exemptify', 'path': '/', 'secure': False, 'value': 'authorized'}, {'domain': 'canadianspacompany.de', 'expiry': 1645644373, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.canadianspacompany.de', 'expiry': 1644436572, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A26%3A12.834Z'}, {'domain': '.canadianspacompany.de', 'expiry': 1644436572, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.canadianspacompany.de', 'expiry': 1644436573, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '186a05a5-dcc9-4d46-a9d6-89c9a166199b'}, {'domain': '.canadianspacompany.de', 'expiry': 1652210772, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.84554738.1644434773'}, {'domain': '.canadianspacompany.de', 'expiry': 1644436573, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '186a05a5-dcc9-4d46-a9d6-89c9a166199b'}, {'domain': '.canadianspacompany.de', 'expiry': 1675970773, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cbef26bd-1a93-487e-a10f-a9bcf0bcb2f4'}, {'domain': '.canadianspacompany.de', 'expiry': 1644521172, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.2097693642.1644434773'}, {'domain': 'canadianspacompany.de', 'expiry': 1675970773, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.canadianspacompany.de', 'expiry': 1645644372, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'canadianspacompany.de', 'expiry': 1645644373, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644434773'}, {'domain': '.canadianspacompany.de', 'expiry': 1675970773, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cbef26bd-1a93-487e-a10f-a9bcf0bcb2f4'}]
+[After] Cookie-Name 1: cookieconsent_status
+[After] Cookie-Name 2: cookieconsent_preferences_disabled
+[After] Cookie-Name 3: _gat_gtag_UA_114990130_1
+[After] Cookie-Name 4: cart_ver
+[After] Cookie-Name 5: cart_currency
+[After] Cookie-Name 6: cart_sig
+[After] Cookie-Name 7: cart
+[After] Cookie-Name 8: shopify_pay_redirect
+[After] Cookie-Name 9: _orig_referrer
+[After] Cookie-Name 10: _gat
+[After] Cookie-Name 11: _ga
+[After] Cookie-Name 12: exemptify
+[After] Cookie-Name 13: localization
+[After] Cookie-Name 14: _shopify_sa_t
+[After] Cookie-Name 15: _shopify_sa_p
+[After] Cookie-Name 16: _shopify_s
+[After] Cookie-Name 17: _gcl_au
+[After] Cookie-Name 18: _s
+[After] Cookie-Name 19: _y
+[After] Cookie-Name 20: _gid
+[After] Cookie-Name 21: secure_customer_sig
+[After] Cookie-Name 22: _landing_page
+[After] Cookie-Name 23: cart_ts
+[After] Cookie-Name 24: _shopify_y
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _gid (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: cookieconsent_status
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

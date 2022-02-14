@@ -1,0 +1,75 @@
+Website 136: http://www.easytolive24.de/ | Created: 08.02.2022 22:20:58 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 20
+[Before] Website-Cookies: [{'domain': 'www.easytolive24.de', 'expiry': 1645564850, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.easytolive24.de', 'expiry': 1659907250, 'httpOnly': False, 'name': '__tawkuuid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e::easytolive24.de::xd+6axIA/BZDk+6b+QA1+H0HCCkxpda0p+N+0b0XPO5bM+DobuhRPyPZlfKT0K9D::2'}, {'domain': 'www.easytolive24.de', 'httpOnly': False, 'name': 'TawkConnectionTime', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': 'www.easytolive24.de', 'expiry': 1645564850, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '49791821210cc0e8634334dddfdeca16'}, {'domain': 'www.easytolive24.de', 'expiry': 1707427250, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQzNTUyNTAsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LmVhc3l0b2xpdmUyNC5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQzNTUyNTAsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LmVhc3l0b2xpdmUyNC5kZS8ifX0='}, {'domain': '.easytolive24.de', 'expiry': 1659907250, 'httpOnly': False, 'name': '__lotl', 'path': '/', 'secure': False, 'value': 'https%3A%2F%2Fwww.easytolive24.de%2F'}, {'domain': '.easytolive24.de', 'expiry': 1644357049, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A20%3A49.888Z'}, {'domain': '.easytolive24.de', 'expiry': 1675891250, 'httpOnly': False, 'name': '_lo_v', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.easytolive24.de', 'expiry': 1644357051, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c97add11-145d-48f1-a62c-555930139824'}, {'domain': '.easytolive24.de', 'expiry': 1644357049, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.easytolive24.de', 'expiry': 1652131250, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644355250073.1943528835'}, {'domain': '.easytolive24.de', 'expiry': 1675891251, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6f333d09-7216-4b08-ad1d-a4807d9c33ba'}, {'domain': '.easytolive24.de', 'expiry': 1645564849, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.easytolive24.de', 'expiry': 1645564850, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.easytolive24.de', 'expiry': 1644355850, 'httpOnly': False, 'name': '_lorid', 'path': '/', 'secure': False, 'value': '310519-1644355250280-e17298395512843a'}, {'domain': '.easytolive24.de', 'expiry': 1645564849, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.easytolive24.de', 'expiry': 1707427250, 'httpOnly': False, 'name': '_lo_uid', 'path': '/', 'secure': False, 'value': '310519-1644355250280-54ee243fa92e1508'}, {'domain': '.easytolive24.de', 'expiry': 1644357051, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c97add11-145d-48f1-a62c-555930139824'}, {'domain': '.easytolive24.de', 'expiry': 1675891251, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6f333d09-7216-4b08-ad1d-a4807d9c33ba'}, {'domain': 'www.easytolive24.de', 'expiry': 1675891251, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: localization
+[Before] Cookie-Name 2: __tawkuuid
+[Before] Cookie-Name 3: TawkConnectionTime
+[Before] Cookie-Name 4: cart_sig
+[Before] Cookie-Name 5: __kla_id
+[Before] Cookie-Name 6: __lotl
+[Before] Cookie-Name 7: _shopify_sa_t
+[Before] Cookie-Name 8: _lo_v
+[Before] Cookie-Name 9: _shopify_s
+[Before] Cookie-Name 10: _shopify_sa_p
+[Before] Cookie-Name 11: _fbp
+[Before] Cookie-Name 12: _shopify_y
+[Before] Cookie-Name 13: _landing_page
+[Before] Cookie-Name 14: cart_currency
+[Before] Cookie-Name 15: _lorid
+[Before] Cookie-Name 16: _orig_referrer
+[Before] Cookie-Name 17: _lo_uid
+[Before] Cookie-Name 18: _s
+[Before] Cookie-Name 19: _y
+[Before] Cookie-Name 20: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 21
+[After] Website-Cookies: [{'domain': 'www.easytolive24.de', 'expiry': 1645564850, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.easytolive24.de', 'expiry': 1659907250, 'httpOnly': False, 'name': '__tawkuuid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e::easytolive24.de::xd+6axIA/BZDk+6b+QA1+H0HCCkxpda0p+N+0b0XPO5bM+DobuhRPyPZlfKT0K9D::2'}, {'domain': 'www.easytolive24.de', 'httpOnly': False, 'name': 'TawkConnectionTime', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': 'www.easytolive24.de', 'expiry': 1645564850, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '49791821210cc0e8634334dddfdeca16'}, {'domain': 'www.easytolive24.de', 'expiry': 1707427250, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQzNTUyNTAsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LmVhc3l0b2xpdmUyNC5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQzNTUyNTAsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LmVhc3l0b2xpdmUyNC5kZS8ifX0='}, {'domain': '.easytolive24.de', 'expiry': 1659907250, 'httpOnly': False, 'name': '__lotl', 'path': '/', 'secure': False, 'value': 'https%3A%2F%2Fwww.easytolive24.de%2F'}, {'domain': '.easytolive24.de', 'expiry': 1644357049, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A20%3A49.888Z'}, {'domain': '.easytolive24.de', 'expiry': 1675891250, 'httpOnly': False, 'name': '_lo_v', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.easytolive24.de', 'expiry': 1644357051, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c97add11-145d-48f1-a62c-555930139824'}, {'domain': '.easytolive24.de', 'expiry': 1644357049, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.easytolive24.de', 'expiry': 1652131264, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644355250073.1943528835'}, {'domain': '.easytolive24.de', 'expiry': 1675891251, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6f333d09-7216-4b08-ad1d-a4807d9c33ba'}, {'domain': '.easytolive24.de', 'expiry': 1645564849, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.easytolive24.de', 'expiry': 1675891265, 'httpOnly': False, 'name': 'CookieConsent', 'path': '/', 'secure': True, 'value': '{stamp:%27MO/+zGSgeGWTigkOWkAXnyhGLX5PT/4hYP7seT2L5DbC+Kz0Tcvsyw==%27%2Cnecessary:true%2Cpreferences:true%2Cstatistics:true%2Cmarketing:true%2Cver:1%2Cutc:1644355265014%2Cregion:%27de%27}'}, {'domain': 'www.easytolive24.de', 'expiry': 1645564850, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.easytolive24.de', 'expiry': 1644355864, 'httpOnly': False, 'name': '_lorid', 'path': '/', 'secure': False, 'value': '310519-1644355250280-e17298395512843a'}, {'domain': '.easytolive24.de', 'expiry': 1645564849, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.easytolive24.de', 'expiry': 1707427250, 'httpOnly': False, 'name': '_lo_uid', 'path': '/', 'secure': False, 'value': '310519-1644355250280-54ee243fa92e1508'}, {'domain': '.easytolive24.de', 'expiry': 1644357051, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c97add11-145d-48f1-a62c-555930139824'}, {'domain': '.easytolive24.de', 'expiry': 1675891251, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6f333d09-7216-4b08-ad1d-a4807d9c33ba'}, {'domain': 'www.easytolive24.de', 'expiry': 1675891251, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: localization
+[After] Cookie-Name 2: __tawkuuid
+[After] Cookie-Name 3: TawkConnectionTime
+[After] Cookie-Name 4: cart_sig
+[After] Cookie-Name 5: __kla_id
+[After] Cookie-Name 6: __lotl
+[After] Cookie-Name 7: _shopify_sa_t
+[After] Cookie-Name 8: _lo_v
+[After] Cookie-Name 9: _shopify_s
+[After] Cookie-Name 10: _shopify_sa_p
+[After] Cookie-Name 11: _fbp
+[After] Cookie-Name 12: _shopify_y
+[After] Cookie-Name 13: _landing_page
+[After] Cookie-Name 14: CookieConsent
+[After] Cookie-Name 15: cart_currency
+[After] Cookie-Name 16: _lorid
+[After] Cookie-Name 17: _orig_referrer
+[After] Cookie-Name 18: _lo_uid
+[After] Cookie-Name 19: _s
+[After] Cookie-Name 20: _y
+[After] Cookie-Name 21: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: __lotl (Lucky Orange (User experience tool))
+[Used before] Cookie-Name: _lo_v (Lucky Orange (User experience tool))
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _lorid (Lucky Orange (User experience tool))
+[Used before] Cookie-Name: _lo_uid (Lucky Orange (User experience tool))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: CookieConsent
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

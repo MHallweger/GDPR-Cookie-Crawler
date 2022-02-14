@@ -1,0 +1,86 @@
+Website 92: http://www.lieblingsgarn.de/ | Created: 10.02.2022 17:46:33 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 26
+[Before] Website-Cookies: [{'domain': '.lieblingsgarn.de', 'expiry': 1652287595, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644511594879.246833443'}, {'domain': 'lieblingsgarn.de', 'expiry': 1707583594, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ1MTE1OTUsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vbGllYmxpbmdzZ2Fybi5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQ1MTE1OTUsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vbGllYmxpbmdzZ2Fybi5kZS8ifX0='}, {'domain': 'lieblingsgarn.de', 'expiry': 1644513394, 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'secure': True, 'value': 'a735d554-ee0b-4de8-a8b6-e494579c185f'}, {'domain': '.lieblingsgarn.de', 'expiry': 1676047594, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '307cf8d0-4a4b-477e-b2cb-19022ad261ce'}, {'domain': 'lieblingsgarn.de', 'expiry': 1645721193, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A2'}, {'domain': '.lieblingsgarn.de', 'expiry': 1644513383, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'lieblingsgarn.de', 'expiry': 1802191594, 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'secure': True, 'value': '037ea0a4-262b-47d1-a2b8-3d4664ad0b4c'}, {'domain': '.lieblingsgarn.de', 'expiry': 1707583592, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.1.1606305865.1644511592'}, {'domain': '.lieblingsgarn.de', 'expiry': 1707583592, 'httpOnly': False, 'name': '_ga_8FSD2MVT0M', 'path': '/', 'secure': False, 'value': 'GS1.1.1644511592.1.0.1644511592.60'}, {'domain': '.lieblingsgarn.de', 'expiry': 1644513383, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T16%3A46%3A23.672Z'}, {'domain': '.lieblingsgarn.de', 'expiry': 1676047593, 'httpOnly': False, 'name': 'OptanonConsent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'isIABGlobal=false&datestamp=Thu+Feb+10+2022+17%3A46%3A33+GMT%2B0100+(Mitteleurop%C3%A4ische+Normalzeit)&version=6.10.0&hosts=&consentId=f62965d7-92ac-45be-9358-3879df0e8dbc&interactionCount=0&landingPath=https%3A%2F%2Flieblingsgarn.de%2F&groups=C0001%3A1%2CC0003%3A0%2CC0002%3A0%2CC0004%3A0'}, {'domain': 'lieblingsgarn.de', 'expiry': 1645721193, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2e69d2a2a08502913725acbd1e71b1dd'}, {'domain': '.lieblingsgarn.de', 'expiry': 1676047584, 'httpOnly': False, 'name': 'geolizr_geodata', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': '{%22as%22:%22n/a%22%2C%22asname%22:%22n/a%22%2C%22mobile%22:false%2C%22proxy%22:false%2C%22city%22:%22Polch%22%2C%22currency%22:{%22code%22:%22EUR%22}%2C%22country%22:{%22code%22:%22DE%22%2C%22country%22:%22Germany%22}%2C%22countryCode%22:%22DE%22%2C%22continent%22:%22Europe%22%2C%22continentCode%22:%22EU%22%2C%22isp%22:%22n/a%22%2C%22lat%22:50.3023%2C%22lon%22:7.3194%2C%22org%22:%22n/a%22%2C%22query%22:%2291.184.168.63%22%2C%22region%22:%22RP%22%2C%22regionName%22:%22Rheinland-Pfalz%22%2C%22status%22:%22success%22%2C%22timezone%22:%22Europe/Berlin%22%2C%22zip%22:%2256751%22%2C%22cloudflare%22:%22%22%2C%22ttl%22:0%2C%22env%22:%22PROD%22%2C%22build%22:%22maxmind%2008%20Feb%2022%2009:27%20UTC%22%2C%22currencyCode%22:%22EUR%22%2C%22countryName%22:%22Germany%22%2C%22service%22:%22ip.lovely-app.com%22}'}, {'domain': 'lieblingsgarn.de', 'expiry': 1676047594, 'httpOnly': False, 'name': 'po_visitor', 'path': '/', 'secure': False, 'value': '07gF7Q1WSNr3'}, {'domain': '.lieblingsgarn.de', 'expiry': 1644513394, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '64018446-2c4b-412d-8f3a-2970ed30ebbf'}, {'domain': '.lieblingsgarn.de', 'expiry': 1645721183, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.lieblingsgarn.de', 'expiry': 1676047594, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '307cf8d0-4a4b-477e-b2cb-19022ad261ce'}, {'domain': '.lieblingsgarn.de', 'expiry': 1644513394, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '64018446-2c4b-412d-8f3a-2970ed30ebbf'}, {'domain': '.lieblingsgarn.de', 'expiry': 1645721183, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'lieblingsgarn.de', 'expiry': 1645721194, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'lieblingsgarn.de', 'expiry': 1645721194, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.lieblingsgarn.de', 'expiry': 1676047592, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU56Vm1OR1JqWWprdE1ESTBPQzAwTkRVekxUbGlaVEF0TVdZellUWm1ZelV6TXpGbQ'}, {'domain': '.lieblingsgarn.de', 'expiry': 1652287592, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.570930333.1644511592'}, {'domain': 'lieblingsgarn.de', 'expiry': 1645721193, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '45e0a049872aa149efebb3fb127d5997'}, {'domain': 'lieblingsgarn.de', 'expiry': 1645721193, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644511592'}, {'domain': 'lieblingsgarn.de', 'expiry': 1676047594, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _fbp
+[Before] Cookie-Name 2: __kla_id
+[Before] Cookie-Name 3: _shg_session_id
+[Before] Cookie-Name 4: _shopify_y
+[Before] Cookie-Name 5: cart_ver
+[Before] Cookie-Name 6: _shopify_sa_p
+[Before] Cookie-Name 7: _shg_user_id
+[Before] Cookie-Name 8: _ga
+[Before] Cookie-Name 9: _ga_8FSD2MVT0M
+[Before] Cookie-Name 10: _shopify_sa_t
+[Before] Cookie-Name 11: OptanonConsent
+[Before] Cookie-Name 12: cart
+[Before] Cookie-Name 13: geolizr_geodata
+[Before] Cookie-Name 14: po_visitor
+[Before] Cookie-Name 15: _shopify_s
+[Before] Cookie-Name 16: _landing_page
+[Before] Cookie-Name 17: _y
+[Before] Cookie-Name 18: _s
+[Before] Cookie-Name 19: _orig_referrer
+[Before] Cookie-Name 20: localization
+[Before] Cookie-Name 21: cart_currency
+[Before] Cookie-Name 22: _pin_unauth
+[Before] Cookie-Name 23: _gcl_au
+[Before] Cookie-Name 24: cart_sig
+[Before] Cookie-Name 25: cart_ts
+[Before] Cookie-Name 26: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 26
+[After] Website-Cookies: [{'domain': '.lieblingsgarn.de', 'expiry': 1652287595, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644511594879.246833443'}, {'domain': 'lieblingsgarn.de', 'expiry': 1707583594, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ1MTE1OTUsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vbGllYmxpbmdzZ2Fybi5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQ1MTE1OTUsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vbGllYmxpbmdzZ2Fybi5kZS8ifX0='}, {'domain': 'lieblingsgarn.de', 'expiry': 1644513394, 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'secure': True, 'value': 'a735d554-ee0b-4de8-a8b6-e494579c185f'}, {'domain': '.lieblingsgarn.de', 'expiry': 1676047594, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '307cf8d0-4a4b-477e-b2cb-19022ad261ce'}, {'domain': 'lieblingsgarn.de', 'expiry': 1645721193, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A2'}, {'domain': '.lieblingsgarn.de', 'expiry': 1644513383, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'lieblingsgarn.de', 'expiry': 1802191594, 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'secure': True, 'value': '037ea0a4-262b-47d1-a2b8-3d4664ad0b4c'}, {'domain': '.lieblingsgarn.de', 'expiry': 1707583592, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.1.1606305865.1644511592'}, {'domain': '.lieblingsgarn.de', 'expiry': 1707583592, 'httpOnly': False, 'name': '_ga_8FSD2MVT0M', 'path': '/', 'secure': False, 'value': 'GS1.1.1644511592.1.0.1644511592.60'}, {'domain': '.lieblingsgarn.de', 'expiry': 1644513383, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T16%3A46%3A23.672Z'}, {'domain': '.lieblingsgarn.de', 'expiry': 1676047593, 'httpOnly': False, 'name': 'OptanonConsent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'isIABGlobal=false&datestamp=Thu+Feb+10+2022+17%3A46%3A33+GMT%2B0100+(Mitteleurop%C3%A4ische+Normalzeit)&version=6.10.0&hosts=&consentId=f62965d7-92ac-45be-9358-3879df0e8dbc&interactionCount=0&landingPath=https%3A%2F%2Flieblingsgarn.de%2F&groups=C0001%3A1%2CC0003%3A0%2CC0002%3A0%2CC0004%3A0'}, {'domain': 'lieblingsgarn.de', 'expiry': 1645721193, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2e69d2a2a08502913725acbd1e71b1dd'}, {'domain': '.lieblingsgarn.de', 'expiry': 1676047584, 'httpOnly': False, 'name': 'geolizr_geodata', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': '{%22as%22:%22n/a%22%2C%22asname%22:%22n/a%22%2C%22mobile%22:false%2C%22proxy%22:false%2C%22city%22:%22Polch%22%2C%22currency%22:{%22code%22:%22EUR%22}%2C%22country%22:{%22code%22:%22DE%22%2C%22country%22:%22Germany%22}%2C%22countryCode%22:%22DE%22%2C%22continent%22:%22Europe%22%2C%22continentCode%22:%22EU%22%2C%22isp%22:%22n/a%22%2C%22lat%22:50.3023%2C%22lon%22:7.3194%2C%22org%22:%22n/a%22%2C%22query%22:%2291.184.168.63%22%2C%22region%22:%22RP%22%2C%22regionName%22:%22Rheinland-Pfalz%22%2C%22status%22:%22success%22%2C%22timezone%22:%22Europe/Berlin%22%2C%22zip%22:%2256751%22%2C%22cloudflare%22:%22%22%2C%22ttl%22:0%2C%22env%22:%22PROD%22%2C%22build%22:%22maxmind%2008%20Feb%2022%2009:27%20UTC%22%2C%22currencyCode%22:%22EUR%22%2C%22countryName%22:%22Germany%22%2C%22service%22:%22ip.lovely-app.com%22}'}, {'domain': 'lieblingsgarn.de', 'expiry': 1676047594, 'httpOnly': False, 'name': 'po_visitor', 'path': '/', 'secure': False, 'value': '07gF7Q1WSNr3'}, {'domain': '.lieblingsgarn.de', 'expiry': 1644513394, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '64018446-2c4b-412d-8f3a-2970ed30ebbf'}, {'domain': '.lieblingsgarn.de', 'expiry': 1645721183, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.lieblingsgarn.de', 'expiry': 1676047594, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '307cf8d0-4a4b-477e-b2cb-19022ad261ce'}, {'domain': '.lieblingsgarn.de', 'expiry': 1644513394, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '64018446-2c4b-412d-8f3a-2970ed30ebbf'}, {'domain': '.lieblingsgarn.de', 'expiry': 1645721183, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'lieblingsgarn.de', 'expiry': 1645721194, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'lieblingsgarn.de', 'expiry': 1645721194, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.lieblingsgarn.de', 'expiry': 1676047592, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU56Vm1OR1JqWWprdE1ESTBPQzAwTkRVekxUbGlaVEF0TVdZellUWm1ZelV6TXpGbQ'}, {'domain': '.lieblingsgarn.de', 'expiry': 1652287592, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.570930333.1644511592'}, {'domain': 'lieblingsgarn.de', 'expiry': 1645721193, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '45e0a049872aa149efebb3fb127d5997'}, {'domain': 'lieblingsgarn.de', 'expiry': 1645721193, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644511592'}, {'domain': 'lieblingsgarn.de', 'expiry': 1676047594, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _fbp
+[After] Cookie-Name 2: __kla_id
+[After] Cookie-Name 3: _shg_session_id
+[After] Cookie-Name 4: _shopify_y
+[After] Cookie-Name 5: cart_ver
+[After] Cookie-Name 6: _shopify_sa_p
+[After] Cookie-Name 7: _shg_user_id
+[After] Cookie-Name 8: _ga
+[After] Cookie-Name 9: _ga_8FSD2MVT0M
+[After] Cookie-Name 10: _shopify_sa_t
+[After] Cookie-Name 11: OptanonConsent
+[After] Cookie-Name 12: cart
+[After] Cookie-Name 13: geolizr_geodata
+[After] Cookie-Name 14: po_visitor
+[After] Cookie-Name 15: _shopify_s
+[After] Cookie-Name 16: _landing_page
+[After] Cookie-Name 17: _y
+[After] Cookie-Name 18: _s
+[After] Cookie-Name 19: _orig_referrer
+[After] Cookie-Name 20: localization
+[After] Cookie-Name 21: cart_currency
+[After] Cookie-Name 22: _pin_unauth
+[After] Cookie-Name 23: _gcl_au
+[After] Cookie-Name 24: cart_sig
+[After] Cookie-Name 25: cart_ts
+[After] Cookie-Name 26: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

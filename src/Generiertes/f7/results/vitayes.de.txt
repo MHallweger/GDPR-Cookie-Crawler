@@ -1,0 +1,78 @@
+Website 283: http://www.vitayes.de/ | Created: 10.02.2022 18:43:42 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 22
+[Before] Website-Cookies: [{'domain': 'www.vitayes.de', 'httpOnly': False, 'name': 'fsb_total_price_45520', 'path': '/', 'secure': False, 'value': '0'}, {'domain': 'www.vitayes.de', 'expiry': 1644515923, 'httpOnly': False, 'name': '_dd_s', 'path': '/', 'sameSite': 'Strict', 'secure': False, 'value': 'logs=1&id=5ff514ac-859d-4c6b-bb30-2f9ec33a54c8&created=1644515023297&expire=1644515923297'}, {'domain': 'www.vitayes.de', 'httpOnly': False, 'name': 'fsb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': 'www.vitayes.de', 'expiry': 1676051023, 'httpOnly': False, 'name': 'ghostmonitor_session_id', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '62054ecff104759dc56f4cc9'}, {'domain': '.vitayes.de', 'expiry': 1652291022, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1168236246.1644515022'}, {'domain': '.vitayes.de', 'expiry': 2145916800, 'httpOnly': False, 'name': '_fs', 'path': '/', 'secure': False, 'value': '188398bb-a09e-429d-9e91-3d61990825e6'}, {'domain': '.vitayes.de', 'expiry': 1690649023, 'httpOnly': False, 'name': 'ku1-vid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': 'dd618b6a-8a76-2338-5b67-c102862fb2e9'}, {'domain': 'www.vitayes.de', 'httpOnly': False, 'name': 'qab_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.vitayes.de', 'expiry': 1652291012, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644515012469.316456094'}, {'domain': '.vitayes.de', 'httpOnly': False, 'name': 'ku1-sid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': '0799YQGykmEdJqU2C3E_8'}, {'domain': '.vitayes.de', 'expiry': 1644515072, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.vitayes.de', 'expiry': 1644516811, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.vitayes.de', 'expiry': 1644516811, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A43%3A31.992Z'}, {'domain': '.vitayes.de', 'expiry': 1645724611, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.vitayes.de', 'expiry': 1644516823, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e40096bb-bfb3-4736-a8b4-6cf8363ede50'}, {'domain': 'www.vitayes.de', 'expiry': 1676051023, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.vitayes.de', 'expiry': 1644601412, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.732290253.1644515012'}, {'domain': '.vitayes.de', 'expiry': 1676051023, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '861eec7c-c668-4774-86fd-435e64857dcf'}, {'domain': '.vitayes.de', 'expiry': 1676051023, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '861eec7c-c668-4774-86fd-435e64857dcf'}, {'domain': '.vitayes.de', 'expiry': 1707587012, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1641338578.1644515012'}, {'domain': '.vitayes.de', 'expiry': 1644516823, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e40096bb-bfb3-4736-a8b4-6cf8363ede50'}, {'domain': '.vitayes.de', 'expiry': 1645724611, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[Before] Cookie-Name 1: fsb_total_price_45520
+[Before] Cookie-Name 2: _dd_s
+[Before] Cookie-Name 3: fsb_previous_pathname
+[Before] Cookie-Name 4: ghostmonitor_session_id
+[Before] Cookie-Name 5: _gcl_au
+[Before] Cookie-Name 6: _fs
+[Before] Cookie-Name 7: ku1-vid
+[Before] Cookie-Name 8: qab_previous_pathname
+[Before] Cookie-Name 9: _fbp
+[Before] Cookie-Name 10: ku1-sid
+[Before] Cookie-Name 11: _gat
+[Before] Cookie-Name 12: _shopify_sa_p
+[Before] Cookie-Name 13: _shopify_sa_t
+[Before] Cookie-Name 14: _landing_page
+[Before] Cookie-Name 15: _s
+[Before] Cookie-Name 16: secure_customer_sig
+[Before] Cookie-Name 17: _gid
+[Before] Cookie-Name 18: _y
+[Before] Cookie-Name 19: _shopify_y
+[Before] Cookie-Name 20: _ga
+[Before] Cookie-Name 21: _shopify_s
+[Before] Cookie-Name 22: _orig_referrer
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 22
+[After] Website-Cookies: [{'domain': 'www.vitayes.de', 'httpOnly': False, 'name': 'fsb_total_price_45520', 'path': '/', 'secure': False, 'value': '0'}, {'domain': 'www.vitayes.de', 'expiry': 1644515923, 'httpOnly': False, 'name': '_dd_s', 'path': '/', 'sameSite': 'Strict', 'secure': False, 'value': 'logs=1&id=5ff514ac-859d-4c6b-bb30-2f9ec33a54c8&created=1644515023297&expire=1644515923297'}, {'domain': 'www.vitayes.de', 'httpOnly': False, 'name': 'fsb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': 'www.vitayes.de', 'expiry': 1676051023, 'httpOnly': False, 'name': 'ghostmonitor_session_id', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '62054ecff104759dc56f4cc9'}, {'domain': '.vitayes.de', 'expiry': 1652291022, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1168236246.1644515022'}, {'domain': '.vitayes.de', 'expiry': 2145916800, 'httpOnly': False, 'name': '_fs', 'path': '/', 'secure': False, 'value': '188398bb-a09e-429d-9e91-3d61990825e6'}, {'domain': '.vitayes.de', 'expiry': 1690649023, 'httpOnly': False, 'name': 'ku1-vid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': 'dd618b6a-8a76-2338-5b67-c102862fb2e9'}, {'domain': 'www.vitayes.de', 'httpOnly': False, 'name': 'qab_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.vitayes.de', 'expiry': 1652291012, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644515012469.316456094'}, {'domain': '.vitayes.de', 'httpOnly': False, 'name': 'ku1-sid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': '0799YQGykmEdJqU2C3E_8'}, {'domain': '.vitayes.de', 'expiry': 1644515072, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.vitayes.de', 'expiry': 1644516811, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.vitayes.de', 'expiry': 1644516811, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A43%3A31.992Z'}, {'domain': '.vitayes.de', 'expiry': 1645724611, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.vitayes.de', 'expiry': 1644516823, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e40096bb-bfb3-4736-a8b4-6cf8363ede50'}, {'domain': 'www.vitayes.de', 'expiry': 1676051023, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.vitayes.de', 'expiry': 1644601412, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.732290253.1644515012'}, {'domain': '.vitayes.de', 'expiry': 1676051023, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '861eec7c-c668-4774-86fd-435e64857dcf'}, {'domain': '.vitayes.de', 'expiry': 1676051023, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '861eec7c-c668-4774-86fd-435e64857dcf'}, {'domain': '.vitayes.de', 'expiry': 1707587012, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1641338578.1644515012'}, {'domain': '.vitayes.de', 'expiry': 1644516823, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e40096bb-bfb3-4736-a8b4-6cf8363ede50'}, {'domain': '.vitayes.de', 'expiry': 1645724611, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: fsb_total_price_45520
+[After] Cookie-Name 2: _dd_s
+[After] Cookie-Name 3: fsb_previous_pathname
+[After] Cookie-Name 4: ghostmonitor_session_id
+[After] Cookie-Name 5: _gcl_au
+[After] Cookie-Name 6: _fs
+[After] Cookie-Name 7: ku1-vid
+[After] Cookie-Name 8: qab_previous_pathname
+[After] Cookie-Name 9: _fbp
+[After] Cookie-Name 10: ku1-sid
+[After] Cookie-Name 11: _gat
+[After] Cookie-Name 12: _shopify_sa_p
+[After] Cookie-Name 13: _shopify_sa_t
+[After] Cookie-Name 14: _landing_page
+[After] Cookie-Name 15: _s
+[After] Cookie-Name 16: secure_customer_sig
+[After] Cookie-Name 17: _gid
+[After] Cookie-Name 18: _y
+[After] Cookie-Name 19: _shopify_y
+[After] Cookie-Name 20: _ga
+[After] Cookie-Name 21: _shopify_s
+[After] Cookie-Name 22: _orig_referrer
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

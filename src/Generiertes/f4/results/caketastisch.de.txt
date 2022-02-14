@@ -1,0 +1,65 @@
+Website 74: http://www.caketastisch.de/ | Created: 09.02.2022 17:28:32 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 18
+[Before] Website-Cookies: [{'domain': '.caketastisch.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.caketastisch.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T16%3A28%3A22.480Z'}, {'domain': 'caketastisch.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.caketastisch.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.caketastisch.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T16%3A28%3A22.472Z'}, {'domain': 'caketastisch.de', 'expiry': 1675960104, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.caketastisch.de', 'expiry': 1644425904, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.caketastisch.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ddaee023-4bfd-45b1-8fe1-c0388aaf7946'}, {'domain': '.caketastisch.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e0ec7c55-5efc-44b2-bd2f-92eabe3a1e71'}, {'domain': '.caketastisch.de', 'expiry': 1675960102, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': '.caketastisch.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ddaee023-4bfd-45b1-8fe1-c0388aaf7946'}, {'domain': '.caketastisch.de', 'expiry': 1675960102, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.caketastisch.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.caketastisch.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e0ec7c55-5efc-44b2-bd2f-92eabe3a1e71'}, {'domain': 'caketastisch.de', 'expiry': 1645633704, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.caketastisch.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.caketastisch.de', 'expiry': 1645633702, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'caketastisch.de', 'expiry': 1645633704, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[Before] Cookie-Name 1: _shopify_sa_p
+[Before] Cookie-Name 2: _shopify_sa_t
+[Before] Cookie-Name 3: _shopify_evids
+[Before] Cookie-Name 4: _shopify_evids
+[Before] Cookie-Name 5: _shopify_d
+[Before] Cookie-Name 6: secure_customer_sig
+[Before] Cookie-Name 7: _shopify_tm
+[Before] Cookie-Name 8: _shopify_y
+[Before] Cookie-Name 9: _s
+[Before] Cookie-Name 10: _tracking_consent
+[Before] Cookie-Name 11: _y
+[Before] Cookie-Name 12: _shopify_m
+[Before] Cookie-Name 13: _orig_referrer
+[Before] Cookie-Name 14: _shopify_s
+[Before] Cookie-Name 15: cart_currency
+[Before] Cookie-Name 16: _landing_page
+[Before] Cookie-Name 17: _shopify_tw
+[Before] Cookie-Name 18: localization
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 18
+[After] Website-Cookies: [{'domain': '.caketastisch.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.caketastisch.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T16%3A28%3A22.480Z'}, {'domain': 'caketastisch.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.caketastisch.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.caketastisch.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T16%3A28%3A22.472Z'}, {'domain': 'caketastisch.de', 'expiry': 1675960104, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.caketastisch.de', 'expiry': 1644425904, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.caketastisch.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ddaee023-4bfd-45b1-8fe1-c0388aaf7946'}, {'domain': '.caketastisch.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e0ec7c55-5efc-44b2-bd2f-92eabe3a1e71'}, {'domain': '.caketastisch.de', 'expiry': 1675960102, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': '.caketastisch.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ddaee023-4bfd-45b1-8fe1-c0388aaf7946'}, {'domain': '.caketastisch.de', 'expiry': 1675960102, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.caketastisch.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.caketastisch.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e0ec7c55-5efc-44b2-bd2f-92eabe3a1e71'}, {'domain': 'caketastisch.de', 'expiry': 1645633704, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.caketastisch.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.caketastisch.de', 'expiry': 1645633702, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'caketastisch.de', 'expiry': 1645633704, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[After] Cookie-Name 1: _shopify_sa_p
+[After] Cookie-Name 2: _shopify_sa_t
+[After] Cookie-Name 3: _shopify_evids
+[After] Cookie-Name 4: _shopify_evids
+[After] Cookie-Name 5: _shopify_d
+[After] Cookie-Name 6: secure_customer_sig
+[After] Cookie-Name 7: _shopify_tm
+[After] Cookie-Name 8: _shopify_y
+[After] Cookie-Name 9: _s
+[After] Cookie-Name 10: _tracking_consent
+[After] Cookie-Name 11: _y
+[After] Cookie-Name 12: _shopify_m
+[After] Cookie-Name 13: _orig_referrer
+[After] Cookie-Name 14: _shopify_s
+[After] Cookie-Name 15: cart_currency
+[After] Cookie-Name 16: _landing_page
+[After] Cookie-Name 17: _shopify_tw
+[After] Cookie-Name 18: localization
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is NOT GDPR compliant!

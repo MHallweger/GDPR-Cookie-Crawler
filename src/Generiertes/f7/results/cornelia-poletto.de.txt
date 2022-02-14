@@ -1,0 +1,57 @@
+Website 162: http://www.cornelia-poletto.de/ | Created: 10.02.2022 18:08:28 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 14
+[Before] Website-Cookies: [{'domain': 'cornelia-poletto.de', 'expiry': 1707584900, 'httpOnly': False, 'name': '__pf_user', 'path': '/', 'secure': False, 'value': 'afe8a2ff-b329-4341-b9f1-690e6dccf6fe'}, {'domain': 'cornelia-poletto.de', 'expiry': 1644516499, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.cornelia-poletto.de', 'expiry': 1644514699, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.cornelia-poletto.de', 'expiry': 1644514699, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A08%3A19.166Z'}, {'domain': 'cornelia-poletto.de', 'expiry': 1676048900, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.cornelia-poletto.de', 'expiry': 1644514700, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c93d4ddd-84e0-4cba-b11d-8248f9b463f7'}, {'domain': '.cornelia-poletto.de', 'expiry': 1644514700, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c93d4ddd-84e0-4cba-b11d-8248f9b463f7'}, {'domain': '.cornelia-poletto.de', 'expiry': 1645722498, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'cornelia-poletto.de', 'expiry': 1644513800, 'httpOnly': False, 'name': '__pf_session', 'path': '/', 'secure': False, 'value': 'f0afe8a2-ffb3-49c3-81f9-f1690e6dccf6'}, {'domain': '.cornelia-poletto.de', 'expiry': 1676048900, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c42c13b7-c844-4a37-a285-c6896d46b00f'}, {'domain': '.cornelia-poletto.de', 'expiry': 1676048900, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c42c13b7-c844-4a37-a285-c6896d46b00f'}, {'domain': 'cornelia-poletto.de', 'expiry': 1645722500, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': 'cornelia-poletto.de', 'expiry': 1645722500, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.cornelia-poletto.de', 'expiry': 1645722498, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[Before] Cookie-Name 1: __pf_user
+[Before] Cookie-Name 2: shopify_pay_redirect
+[Before] Cookie-Name 3: _shopify_sa_p
+[Before] Cookie-Name 4: _shopify_sa_t
+[Before] Cookie-Name 5: secure_customer_sig
+[Before] Cookie-Name 6: _shopify_s
+[Before] Cookie-Name 7: _s
+[Before] Cookie-Name 8: _landing_page
+[Before] Cookie-Name 9: __pf_session
+[Before] Cookie-Name 10: _y
+[Before] Cookie-Name 11: _shopify_y
+[Before] Cookie-Name 12: localization
+[Before] Cookie-Name 13: cart_currency
+[Before] Cookie-Name 14: _orig_referrer
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 14
+[After] Website-Cookies: [{'domain': 'cornelia-poletto.de', 'expiry': 1707584900, 'httpOnly': False, 'name': '__pf_user', 'path': '/', 'secure': False, 'value': 'afe8a2ff-b329-4341-b9f1-690e6dccf6fe'}, {'domain': 'cornelia-poletto.de', 'expiry': 1644516499, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.cornelia-poletto.de', 'expiry': 1644514699, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.cornelia-poletto.de', 'expiry': 1644514699, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A08%3A19.166Z'}, {'domain': 'cornelia-poletto.de', 'expiry': 1676048900, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.cornelia-poletto.de', 'expiry': 1644514700, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c93d4ddd-84e0-4cba-b11d-8248f9b463f7'}, {'domain': '.cornelia-poletto.de', 'expiry': 1644514700, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c93d4ddd-84e0-4cba-b11d-8248f9b463f7'}, {'domain': '.cornelia-poletto.de', 'expiry': 1645722498, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'cornelia-poletto.de', 'expiry': 1644513800, 'httpOnly': False, 'name': '__pf_session', 'path': '/', 'secure': False, 'value': 'f0afe8a2-ffb3-49c3-81f9-f1690e6dccf6'}, {'domain': '.cornelia-poletto.de', 'expiry': 1676048900, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c42c13b7-c844-4a37-a285-c6896d46b00f'}, {'domain': '.cornelia-poletto.de', 'expiry': 1676048900, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c42c13b7-c844-4a37-a285-c6896d46b00f'}, {'domain': 'cornelia-poletto.de', 'expiry': 1645722500, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': 'cornelia-poletto.de', 'expiry': 1645722500, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.cornelia-poletto.de', 'expiry': 1645722498, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: __pf_user
+[After] Cookie-Name 2: shopify_pay_redirect
+[After] Cookie-Name 3: _shopify_sa_p
+[After] Cookie-Name 4: _shopify_sa_t
+[After] Cookie-Name 5: secure_customer_sig
+[After] Cookie-Name 6: _shopify_s
+[After] Cookie-Name 7: _s
+[After] Cookie-Name 8: _landing_page
+[After] Cookie-Name 9: __pf_session
+[After] Cookie-Name 10: _y
+[After] Cookie-Name 11: _shopify_y
+[After] Cookie-Name 12: localization
+[After] Cookie-Name 13: cart_currency
+[After] Cookie-Name 14: _orig_referrer
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is NOT GDPR compliant!

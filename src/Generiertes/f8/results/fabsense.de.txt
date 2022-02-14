@@ -1,0 +1,59 @@
+Website 117: http://www.fabsense.de/ | Created: 10.02.2022 20:31:56 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 15
+[Before] Website-Cookies: [{'domain': '.fabsense.de', 'httpOnly': False, 'name': 'soundest-views', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.fabsense.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220210193148-RyPMr3yCWik4URyi0AOZUvRcYwCBRII8sRm6QHCX3IlJvgb5N'}, {'domain': '.fabsense.de', 'expiry': 1644523308, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2f63bcd7-4405-4699-b77b-e06d5bffcab7'}, {'domain': '.fabsense.de', 'expiry': 1644523307, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.fabsense.de', 'expiry': 1676057508, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b3d512df-cbcd-4e93-b5aa-6eba8c2041a3'}, {'domain': '.fabsense.de', 'expiry': 1676057509, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'Qn993vJJuZFzZu-20220210193148'}, {'domain': '.fabsense.de', 'expiry': 1645731107, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.fabsense.de', 'expiry': 1645731107, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'fabsense.de', 'expiry': 1676057508, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.fabsense.de', 'expiry': 1644523307, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T19%3A31%3A47.870Z'}, {'domain': 'fabsense.de', 'expiry': 1645731108, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.fabsense.de', 'expiry': 1644523309, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'dDgVkj5CjWhovD-20220210193148'}, {'domain': 'fabsense.de', 'expiry': 1645731108, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.fabsense.de', 'expiry': 1644523308, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2f63bcd7-4405-4699-b77b-e06d5bffcab7'}, {'domain': '.fabsense.de', 'expiry': 1676057508, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b3d512df-cbcd-4e93-b5aa-6eba8c2041a3'}]
+[Before] Cookie-Name 1: soundest-views
+[Before] Cookie-Name 2: soundestID
+[Before] Cookie-Name 3: _s
+[Before] Cookie-Name 4: _shopify_sa_p
+[Before] Cookie-Name 5: _y
+[Before] Cookie-Name 6: omnisendAnonymousID
+[Before] Cookie-Name 7: _orig_referrer
+[Before] Cookie-Name 8: _landing_page
+[Before] Cookie-Name 9: secure_customer_sig
+[Before] Cookie-Name 10: _shopify_sa_t
+[Before] Cookie-Name 11: cart_currency
+[Before] Cookie-Name 12: omnisendSessionID
+[Before] Cookie-Name 13: localization
+[Before] Cookie-Name 14: _shopify_s
+[Before] Cookie-Name 15: _shopify_y
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 15
+[After] Website-Cookies: [{'domain': '.fabsense.de', 'httpOnly': False, 'name': 'soundest-views', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.fabsense.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220210193148-RyPMr3yCWik4URyi0AOZUvRcYwCBRII8sRm6QHCX3IlJvgb5N'}, {'domain': '.fabsense.de', 'expiry': 1644523308, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2f63bcd7-4405-4699-b77b-e06d5bffcab7'}, {'domain': '.fabsense.de', 'expiry': 1644523307, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.fabsense.de', 'expiry': 1676057508, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b3d512df-cbcd-4e93-b5aa-6eba8c2041a3'}, {'domain': '.fabsense.de', 'expiry': 1676057509, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'Qn993vJJuZFzZu-20220210193148'}, {'domain': '.fabsense.de', 'expiry': 1645731107, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.fabsense.de', 'expiry': 1645731107, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'fabsense.de', 'expiry': 1676057508, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.fabsense.de', 'expiry': 1644523307, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T19%3A31%3A47.870Z'}, {'domain': 'fabsense.de', 'expiry': 1645731108, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.fabsense.de', 'expiry': 1644523309, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'dDgVkj5CjWhovD-20220210193148'}, {'domain': 'fabsense.de', 'expiry': 1645731108, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.fabsense.de', 'expiry': 1644523308, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2f63bcd7-4405-4699-b77b-e06d5bffcab7'}, {'domain': '.fabsense.de', 'expiry': 1676057508, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b3d512df-cbcd-4e93-b5aa-6eba8c2041a3'}]
+[After] Cookie-Name 1: soundest-views
+[After] Cookie-Name 2: soundestID
+[After] Cookie-Name 3: _s
+[After] Cookie-Name 4: _shopify_sa_p
+[After] Cookie-Name 5: _y
+[After] Cookie-Name 6: omnisendAnonymousID
+[After] Cookie-Name 7: _orig_referrer
+[After] Cookie-Name 8: _landing_page
+[After] Cookie-Name 9: secure_customer_sig
+[After] Cookie-Name 10: _shopify_sa_t
+[After] Cookie-Name 11: cart_currency
+[After] Cookie-Name 12: omnisendSessionID
+[After] Cookie-Name 13: localization
+[After] Cookie-Name 14: _shopify_s
+[After] Cookie-Name 15: _shopify_y
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is NOT GDPR compliant!

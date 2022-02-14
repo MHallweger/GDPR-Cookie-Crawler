@@ -1,0 +1,78 @@
+Website 228: http://www.aktimed-tape.de/ | Created: 10.02.2022 18:28:01 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 21
+[Before] Website-Cookies: [{'domain': '.aktimed-tape.de', 'expiry': 1644515870, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': 'aktimed-tape.de', 'expiry': 1644514190, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.aktimed-tape.de', 'expiry': 1644515870, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.aktimed-tape.de', 'expiry': 1644514129, 'httpOnly': False, 'name': '_gat_UA-42307686-52', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.aktimed-tape.de', 'expiry': 1644514129, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.aktimed-tape.de', 'expiry': 1676050070, 'httpOnly': False, 'name': '_hjSessionUser_2470613', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjdlMWUwMjAxLWFiZTAtNTFjZC1iZDVlLWUyYTFkZDNlZmI0MyIsImNyZWF0ZWQiOjE2NDQ1MTQwNjk5NzksImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.aktimed-tape.de', 'expiry': 1707586069, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.2020643428.1644514070'}, {'domain': '.aktimed-tape.de', 'expiry': 1644515869, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'aktimed-tape.de', 'httpOnly': False, 'name': 'fsb_total_price_368822', 'path': '/', 'secure': False, 'value': '0'}, {'domain': '.aktimed-tape.de', 'expiry': 1644515870, 'httpOnly': False, 'name': '_hjSession_2470613', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImU2ODI2YzA5LWE1YWQtNGI3ZS04ZjdmLTlkZmNlYjdiOWYxYiIsImNyZWF0ZWQiOjE2NDQ1MTQwNzAzNzcsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': '.aktimed-tape.de', 'expiry': 1652290070, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644514069831.330733141'}, {'domain': '.aktimed-tape.de', 'expiry': 1644515875, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ba59d3dd-5882-4f67-812e-87e7d756d8c0'}, {'domain': '.aktimed-tape.de', 'expiry': 1676050075, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a41dd8c9-6d3d-47c8-8aa8-c6b082196d6c'}, {'domain': '.aktimed-tape.de', 'expiry': 1645723668, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'aktimed-tape.de', 'httpOnly': False, 'name': 'fsb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.aktimed-tape.de', 'expiry': 1644515869, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A27%3A49.551Z'}, {'domain': '.aktimed-tape.de', 'expiry': 1645723668, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.aktimed-tape.de', 'expiry': 1644515875, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ba59d3dd-5882-4f67-812e-87e7d756d8c0'}, {'domain': '.aktimed-tape.de', 'expiry': 1676050075, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a41dd8c9-6d3d-47c8-8aa8-c6b082196d6c'}, {'domain': '.aktimed-tape.de', 'expiry': 1644600469, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.779167672.1644514070'}, {'domain': 'aktimed-tape.de', 'expiry': 1676050075, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 2: _hjIncludedInPageviewSample
+[Before] Cookie-Name 3: _hjFirstSeen
+[Before] Cookie-Name 4: _gat_UA-42307686-52
+[Before] Cookie-Name 5: _gat
+[Before] Cookie-Name 6: _hjSessionUser_2470613
+[Before] Cookie-Name 7: _ga
+[Before] Cookie-Name 8: _shopify_sa_p
+[Before] Cookie-Name 9: fsb_total_price_368822
+[Before] Cookie-Name 10: _hjSession_2470613
+[Before] Cookie-Name 11: _fbp
+[Before] Cookie-Name 12: _shopify_s
+[Before] Cookie-Name 13: _shopify_y
+[Before] Cookie-Name 14: _landing_page
+[Before] Cookie-Name 15: fsb_previous_pathname
+[Before] Cookie-Name 16: _shopify_sa_t
+[Before] Cookie-Name 17: _orig_referrer
+[Before] Cookie-Name 18: _s
+[Before] Cookie-Name 19: _y
+[Before] Cookie-Name 20: _gid
+[Before] Cookie-Name 21: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 21
+[After] Website-Cookies: [{'domain': '.aktimed-tape.de', 'expiry': 1644515870, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': 'aktimed-tape.de', 'expiry': 1644514190, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.aktimed-tape.de', 'expiry': 1644515870, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.aktimed-tape.de', 'expiry': 1644514129, 'httpOnly': False, 'name': '_gat_UA-42307686-52', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.aktimed-tape.de', 'expiry': 1644514129, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.aktimed-tape.de', 'expiry': 1676050070, 'httpOnly': False, 'name': '_hjSessionUser_2470613', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjdlMWUwMjAxLWFiZTAtNTFjZC1iZDVlLWUyYTFkZDNlZmI0MyIsImNyZWF0ZWQiOjE2NDQ1MTQwNjk5NzksImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.aktimed-tape.de', 'expiry': 1707586069, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.2020643428.1644514070'}, {'domain': '.aktimed-tape.de', 'expiry': 1644515869, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'aktimed-tape.de', 'expiry': 1676050087, 'httpOnly': False, 'name': 'CookieConsent', 'path': '/', 'secure': True, 'value': '{stamp:%27Hk6pSxM/a45fl2JEiAN/4uLNg/NgxzUDUIFR99F9wL42rOZSqzQIAA==%27%2Cnecessary:true%2Cpreferences:true%2Cstatistics:true%2Cmarketing:true%2Cver:1%2Cutc:1644514087385%2Cregion:%27de%27}'}, {'domain': '.aktimed-tape.de', 'expiry': 1644515870, 'httpOnly': False, 'name': '_hjSession_2470613', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImU2ODI2YzA5LWE1YWQtNGI3ZS04ZjdmLTlkZmNlYjdiOWYxYiIsImNyZWF0ZWQiOjE2NDQ1MTQwNzAzNzcsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': '.aktimed-tape.de', 'expiry': 1652290087, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644514069831.330733141'}, {'domain': '.aktimed-tape.de', 'expiry': 1644515885, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ba59d3dd-5882-4f67-812e-87e7d756d8c0'}, {'domain': '.aktimed-tape.de', 'expiry': 1676050085, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a41dd8c9-6d3d-47c8-8aa8-c6b082196d6c'}, {'domain': '.aktimed-tape.de', 'expiry': 1645723668, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'aktimed-tape.de', 'httpOnly': False, 'name': 'fsb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.aktimed-tape.de', 'expiry': 1644515869, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A27%3A49.551Z'}, {'domain': '.aktimed-tape.de', 'expiry': 1645723668, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.aktimed-tape.de', 'expiry': 1644515885, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ba59d3dd-5882-4f67-812e-87e7d756d8c0'}, {'domain': '.aktimed-tape.de', 'expiry': 1676050085, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a41dd8c9-6d3d-47c8-8aa8-c6b082196d6c'}, {'domain': '.aktimed-tape.de', 'expiry': 1644600469, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.779167672.1644514070'}, {'domain': 'aktimed-tape.de', 'expiry': 1676050085, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 2: _hjIncludedInPageviewSample
+[After] Cookie-Name 3: _hjFirstSeen
+[After] Cookie-Name 4: _gat_UA-42307686-52
+[After] Cookie-Name 5: _gat
+[After] Cookie-Name 6: _hjSessionUser_2470613
+[After] Cookie-Name 7: _ga
+[After] Cookie-Name 8: _shopify_sa_p
+[After] Cookie-Name 9: CookieConsent
+[After] Cookie-Name 10: _hjSession_2470613
+[After] Cookie-Name 11: _fbp
+[After] Cookie-Name 12: _shopify_s
+[After] Cookie-Name 13: _shopify_y
+[After] Cookie-Name 14: _landing_page
+[After] Cookie-Name 15: fsb_previous_pathname
+[After] Cookie-Name 16: _shopify_sa_t
+[After] Cookie-Name 17: _orig_referrer
+[After] Cookie-Name 18: _s
+[After] Cookie-Name 19: _y
+[After] Cookie-Name 20: _gid
+[After] Cookie-Name 21: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjIncludedInPageviewSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gid (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 2
+[Difference] Cookie-Name: 1: fsb_total_price_368822
+[Difference] Cookie-Name: 2: CookieConsent
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

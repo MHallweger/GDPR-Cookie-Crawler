@@ -1,0 +1,77 @@
+Website 201: http://www.allaboutgreen.de/ | Created: 10.02.2022 18:20:01 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 24
+[Before] Website-Cookies: [{'domain': '.allaboutgreen.de', 'httpOnly': False, 'name': 'soundest-views', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'allaboutgreen.de', 'expiry': 1802193593, 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'secure': True, 'value': 'e42b95ac-7956-4735-be3f-2012895f6f4d'}, {'domain': '.allaboutgreen.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220210171953-bw0NWl0osubAQdaTFGdjLzhSNMbZMfbOeN4NSm20ostz0SDC8'}, {'domain': '.allaboutgreen.de', 'expiry': 1676049593, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': 'allaboutgreen.de', 'expiry': 1644515393, 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'secure': True, 'value': '3f9eadc6-992f-4db4-935b-e9a083aa2b76'}, {'domain': '.allaboutgreen.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.allaboutgreen.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.allaboutgreen.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A19%3A53.249Z'}, {'domain': '.allaboutgreen.de', 'expiry': 1644515393, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': '2wg7ZypO5huEgp-20220210171953'}, {'domain': '.allaboutgreen.de', 'expiry': 1645723193, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'allaboutgreen.de', 'expiry': 1645723193, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': 'allaboutgreen.de', 'expiry': 1645723193, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': ''}, {'domain': '.allaboutgreen.de', 'expiry': 1676049593, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22v%22%3A%222.0%22%7D'}, {'domain': 'allaboutgreen.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.allaboutgreen.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '86f43025-e32f-49fb-b50d-6b3ab7af7af9'}, {'domain': '.allaboutgreen.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A19%3A53.255Z'}, {'domain': '.allaboutgreen.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.allaboutgreen.de', 'expiry': 1676049593, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'wPqacOnTcfOAhc-20220210171953'}, {'domain': '.allaboutgreen.de', 'expiry': 1644515393, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.allaboutgreen.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '765a4cf2-b89c-466d-9a83-7650e500bdb9'}, {'domain': 'allaboutgreen.de', 'expiry': 1676049593, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.allaboutgreen.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '86f43025-e32f-49fb-b50d-6b3ab7af7af9'}, {'domain': '.allaboutgreen.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2Fpassword'}, {'domain': '.allaboutgreen.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '765a4cf2-b89c-466d-9a83-7650e500bdb9'}]
+[Before] Cookie-Name 1: soundest-views
+[Before] Cookie-Name 2: _shg_user_id
+[Before] Cookie-Name 3: soundestID
+[Before] Cookie-Name 4: _shopify_m
+[Before] Cookie-Name 5: _shg_session_id
+[Before] Cookie-Name 6: _shopify_sa_p
+[Before] Cookie-Name 7: _shopify_evids
+[Before] Cookie-Name 8: _shopify_d
+[Before] Cookie-Name 9: omnisendSessionID
+[Before] Cookie-Name 10: _shopify_tw
+[Before] Cookie-Name 11: cart_currency
+[Before] Cookie-Name 12: localization
+[Before] Cookie-Name 13: _tracking_consent
+[Before] Cookie-Name 14: _shopify_evids
+[Before] Cookie-Name 15: _shopify_s
+[Before] Cookie-Name 16: _shopify_sa_t
+[Before] Cookie-Name 17: _orig_referrer
+[Before] Cookie-Name 18: omnisendAnonymousID
+[Before] Cookie-Name 19: _shopify_tm
+[Before] Cookie-Name 20: _shopify_y
+[Before] Cookie-Name 21: secure_customer_sig
+[Before] Cookie-Name 22: _s
+[Before] Cookie-Name 23: _landing_page
+[Before] Cookie-Name 24: _y
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 24
+[After] Website-Cookies: [{'domain': '.allaboutgreen.de', 'httpOnly': False, 'name': 'soundest-views', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'allaboutgreen.de', 'expiry': 1802193593, 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'secure': True, 'value': 'e42b95ac-7956-4735-be3f-2012895f6f4d'}, {'domain': '.allaboutgreen.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220210171953-bw0NWl0osubAQdaTFGdjLzhSNMbZMfbOeN4NSm20ostz0SDC8'}, {'domain': '.allaboutgreen.de', 'expiry': 1676049593, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': 'allaboutgreen.de', 'expiry': 1644515393, 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'secure': True, 'value': '3f9eadc6-992f-4db4-935b-e9a083aa2b76'}, {'domain': '.allaboutgreen.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.allaboutgreen.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.allaboutgreen.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A19%3A53.249Z'}, {'domain': '.allaboutgreen.de', 'expiry': 1644515393, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': '2wg7ZypO5huEgp-20220210171953'}, {'domain': '.allaboutgreen.de', 'expiry': 1645723193, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'allaboutgreen.de', 'expiry': 1645723193, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': 'allaboutgreen.de', 'expiry': 1645723193, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': ''}, {'domain': '.allaboutgreen.de', 'expiry': 1676049593, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22v%22%3A%222.0%22%7D'}, {'domain': 'allaboutgreen.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.allaboutgreen.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '86f43025-e32f-49fb-b50d-6b3ab7af7af9'}, {'domain': '.allaboutgreen.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A19%3A53.255Z'}, {'domain': '.allaboutgreen.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.allaboutgreen.de', 'expiry': 1676049593, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'wPqacOnTcfOAhc-20220210171953'}, {'domain': '.allaboutgreen.de', 'expiry': 1644515393, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.allaboutgreen.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '765a4cf2-b89c-466d-9a83-7650e500bdb9'}, {'domain': 'allaboutgreen.de', 'expiry': 1676049593, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.allaboutgreen.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '86f43025-e32f-49fb-b50d-6b3ab7af7af9'}, {'domain': '.allaboutgreen.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2Fpassword'}, {'domain': '.allaboutgreen.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '765a4cf2-b89c-466d-9a83-7650e500bdb9'}]
+[After] Cookie-Name 1: soundest-views
+[After] Cookie-Name 2: _shg_user_id
+[After] Cookie-Name 3: soundestID
+[After] Cookie-Name 4: _shopify_m
+[After] Cookie-Name 5: _shg_session_id
+[After] Cookie-Name 6: _shopify_sa_p
+[After] Cookie-Name 7: _shopify_evids
+[After] Cookie-Name 8: _shopify_d
+[After] Cookie-Name 9: omnisendSessionID
+[After] Cookie-Name 10: _shopify_tw
+[After] Cookie-Name 11: cart_currency
+[After] Cookie-Name 12: localization
+[After] Cookie-Name 13: _tracking_consent
+[After] Cookie-Name 14: _shopify_evids
+[After] Cookie-Name 15: _shopify_s
+[After] Cookie-Name 16: _shopify_sa_t
+[After] Cookie-Name 17: _orig_referrer
+[After] Cookie-Name 18: omnisendAnonymousID
+[After] Cookie-Name 19: _shopify_tm
+[After] Cookie-Name 20: _shopify_y
+[After] Cookie-Name 21: secure_customer_sig
+[After] Cookie-Name 22: _s
+[After] Cookie-Name 23: _landing_page
+[After] Cookie-Name 24: _y
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is NOT GDPR compliant!

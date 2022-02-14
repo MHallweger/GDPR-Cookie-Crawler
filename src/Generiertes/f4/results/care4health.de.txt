@@ -1,0 +1,82 @@
+Website 272: http://www.care4health.de/ | Created: 09.02.2022 18:29:33 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 23
+[Before] Website-Cookies: [{'domain': '.care4health.de', 'expiry': 1644429564, 'httpOnly': False, 'name': '__hssc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '43165690.1.1644427764234'}, {'domain': '.care4health.de', 'httpOnly': False, 'name': '__hssrc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.care4health.de', 'expiry': 1678123763, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': 'd2b6e70089cd11ecb75381a9aa8a296c'}, {'domain': '.care4health.de', 'expiry': 1644514163, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': 'd2b6cb7089cd11ec9d7c8fa36319bb77'}, {'domain': '.care4health.de', 'expiry': 1652203765, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644427763526.1954200916'}, {'domain': '.care4health.de', 'expiry': 1678123764, 'httpOnly': False, 'name': '__hstc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '43165690.3178d473eeef7eb5e58c8ea116702dc2.1644427764234.1644427764234.1644427764234.1'}, {'domain': '.care4health.de', 'expiry': 1644427822, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.care4health.de', 'expiry': 1675963764, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5dab942f-3169-4d15-a33c-bf2cc629145b'}, {'domain': '.care4health.de', 'expiry': 1644429562, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.care4health.de', 'expiry': 1678123764, 'httpOnly': False, 'name': 'hubspotutk', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3178d473eeef7eb5e58c8ea116702dc2'}, {'domain': '.care4health.de', 'expiry': 1675963764, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5dab942f-3169-4d15-a33c-bf2cc629145b'}, {'domain': '.care4health.de', 'expiry': 1644429562, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A29%3A22.877Z'}, {'domain': '.care4health.de', 'expiry': 1678614462, 'httpOnly': False, 'name': '_scid', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '1298ecf9-028b-4639-a593-187d9527ebcb'}, {'domain': '.care4health.de', 'expiry': 1644514162, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.972396357.1644427763'}, {'domain': '.care4health.de', 'expiry': 1707499762, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.629632955.1644427763'}, {'domain': '.care4health.de', 'expiry': 1652203762, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.393920481.1644427762'}, {'domain': '.care4health.de', 'expiry': 1675963764, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': 'uqv5m|1|eyu|0'}, {'domain': '.care4health.de', 'expiry': 1644429564, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '772f7c07-e5a4-4b8d-90ea-c790c59b7934'}, {'domain': '.care4health.de', 'expiry': 1644514164, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': 'b0cqdr|1644427764379|1|1|h.clarity.ms/collect'}, {'domain': '.care4health.de', 'expiry': 1644429564, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '772f7c07-e5a4-4b8d-90ea-c790c59b7934'}, {'domain': 'www.care4health.de', 'expiry': 1675963763, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.care4health.de', 'expiry': 1645637361, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.care4health.de', 'expiry': 1645637361, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[Before] Cookie-Name 1: __hssc
+[Before] Cookie-Name 2: __hssrc
+[Before] Cookie-Name 3: _uetvid
+[Before] Cookie-Name 4: _uetsid
+[Before] Cookie-Name 5: _fbp
+[Before] Cookie-Name 6: __hstc
+[Before] Cookie-Name 7: _gat
+[Before] Cookie-Name 8: _shopify_y
+[Before] Cookie-Name 9: _shopify_sa_p
+[Before] Cookie-Name 10: hubspotutk
+[Before] Cookie-Name 11: _y
+[Before] Cookie-Name 12: _shopify_sa_t
+[Before] Cookie-Name 13: _scid
+[Before] Cookie-Name 14: _gid
+[Before] Cookie-Name 15: _ga
+[Before] Cookie-Name 16: _gcl_au
+[Before] Cookie-Name 17: _clck
+[Before] Cookie-Name 18: _shopify_s
+[Before] Cookie-Name 19: _clsk
+[Before] Cookie-Name 20: _s
+[Before] Cookie-Name 21: secure_customer_sig
+[Before] Cookie-Name 22: _landing_page
+[Before] Cookie-Name 23: _orig_referrer
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 23
+[After] Website-Cookies: [{'domain': '.care4health.de', 'expiry': 1644429564, 'httpOnly': False, 'name': '__hssc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '43165690.1.1644427764234'}, {'domain': '.care4health.de', 'httpOnly': False, 'name': '__hssrc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.care4health.de', 'expiry': 1678123763, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': 'd2b6e70089cd11ecb75381a9aa8a296c'}, {'domain': '.care4health.de', 'expiry': 1644514163, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': 'd2b6cb7089cd11ec9d7c8fa36319bb77'}, {'domain': '.care4health.de', 'expiry': 1652203778, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644427763526.1954200916'}, {'domain': '.care4health.de', 'expiry': 1678123764, 'httpOnly': False, 'name': '__hstc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '43165690.3178d473eeef7eb5e58c8ea116702dc2.1644427764234.1644427764234.1644427764234.1'}, {'domain': '.care4health.de', 'expiry': 1644427822, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.care4health.de', 'expiry': 1675963764, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5dab942f-3169-4d15-a33c-bf2cc629145b'}, {'domain': '.care4health.de', 'expiry': 1644429562, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.care4health.de', 'expiry': 1678123764, 'httpOnly': False, 'name': 'hubspotutk', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3178d473eeef7eb5e58c8ea116702dc2'}, {'domain': '.care4health.de', 'expiry': 1675963764, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5dab942f-3169-4d15-a33c-bf2cc629145b'}, {'domain': '.care4health.de', 'expiry': 1644429562, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A29%3A22.877Z'}, {'domain': '.care4health.de', 'expiry': 1678614462, 'httpOnly': False, 'name': '_scid', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '1298ecf9-028b-4639-a593-187d9527ebcb'}, {'domain': '.care4health.de', 'expiry': 1644514162, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.972396357.1644427763'}, {'domain': '.care4health.de', 'expiry': 1707499762, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.629632955.1644427763'}, {'domain': '.care4health.de', 'expiry': 1652203762, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.393920481.1644427762'}, {'domain': '.care4health.de', 'expiry': 1675963764, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': 'uqv5m|1|eyu|0'}, {'domain': '.care4health.de', 'expiry': 1644429564, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '772f7c07-e5a4-4b8d-90ea-c790c59b7934'}, {'domain': '.care4health.de', 'expiry': 1644514164, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': 'b0cqdr|1644427764379|1|1|h.clarity.ms/collect'}, {'domain': '.care4health.de', 'expiry': 1644429564, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '772f7c07-e5a4-4b8d-90ea-c790c59b7934'}, {'domain': 'www.care4health.de', 'expiry': 1675963763, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.care4health.de', 'expiry': 1645637361, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.care4health.de', 'expiry': 1645637361, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: __hssc
+[After] Cookie-Name 2: __hssrc
+[After] Cookie-Name 3: _uetvid
+[After] Cookie-Name 4: _uetsid
+[After] Cookie-Name 5: _fbp
+[After] Cookie-Name 6: __hstc
+[After] Cookie-Name 7: _gat
+[After] Cookie-Name 8: _shopify_y
+[After] Cookie-Name 9: _shopify_sa_p
+[After] Cookie-Name 10: hubspotutk
+[After] Cookie-Name 11: _y
+[After] Cookie-Name 12: _shopify_sa_t
+[After] Cookie-Name 13: _scid
+[After] Cookie-Name 14: _gid
+[After] Cookie-Name 15: _ga
+[After] Cookie-Name 16: _gcl_au
+[After] Cookie-Name 17: _clck
+[After] Cookie-Name 18: _shopify_s
+[After] Cookie-Name 19: _clsk
+[After] Cookie-Name 20: _s
+[After] Cookie-Name 21: secure_customer_sig
+[After] Cookie-Name 22: _landing_page
+[After] Cookie-Name 23: _orig_referrer
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: __hssc (HubSpot (CRM-System))
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: hubspotutk (HubSpot (CRM-System))
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _clck (Microsoft Clarity (User experience tool))
+[Used before] Cookie-Name: _clsk (Microsoft Clarity (User experience tool))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

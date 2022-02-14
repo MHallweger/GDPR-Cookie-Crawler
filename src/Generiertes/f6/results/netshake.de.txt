@@ -1,0 +1,67 @@
+Website 245: http://www.netshake.de/ | Created: 10.02.2022 13:25:30 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 17
+[Before] Website-Cookies: [{'domain': '.netshake.de', 'expiry': 1647087921, 'httpOnly': False, 'name': 'prism_224281583', 'path': '/', 'secure': False, 'value': '0838941d-2bb0-41b7-984d-b4ecc4cd190e'}, {'domain': '.netshake.de', 'expiry': 1678191921, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '83b37b908a6c11ec9e08e35f40636ef2'}, {'domain': '.netshake.de', 'expiry': 1644582321, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': '83b307508a6c11ec976b736a275433fa'}, {'domain': '.netshake.de', 'expiry': 1707567921, 'httpOnly': False, 'name': '_lfa', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'LF1.1.53bdd94c2f6b846a.1644495921289'}, {'domain': '.netshake.de', 'expiry': 1644497721, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.netshake.de', 'expiry': 1644497721, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T12%3A25%3A21.118Z'}, {'domain': '.netshake.de', 'expiry': 1644495981, 'httpOnly': False, 'name': '_gat_UA-241482-2', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.netshake.de', 'expiry': 1707567921, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.2064072555.1644495921'}, {'domain': '.netshake.de', 'expiry': 1645705520, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.netshake.de', 'expiry': 1644497721, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '51d2c15f-292d-42c9-8a88-cd8989402ba6'}, {'domain': '.netshake.de', 'expiry': 1652271921, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644495921257.1024333043'}, {'domain': '.netshake.de', 'expiry': 1676031920, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '536fa31b-7c66-4aad-934b-3fbf8de4f5e3'}, {'domain': '.netshake.de', 'expiry': 1644497721, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '51d2c15f-292d-42c9-8a88-cd8989402ba6'}, {'domain': '.netshake.de', 'expiry': 1644582321, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1566920666.1644495921'}, {'domain': '.netshake.de', 'expiry': 1676031920, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '536fa31b-7c66-4aad-934b-3fbf8de4f5e3'}, {'domain': 'netshake.de', 'expiry': 1676031920, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.netshake.de', 'expiry': 1645705520, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[Before] Cookie-Name 1: prism_224281583
+[Before] Cookie-Name 2: _uetvid
+[Before] Cookie-Name 3: _uetsid
+[Before] Cookie-Name 4: _lfa
+[Before] Cookie-Name 5: _shopify_sa_p
+[Before] Cookie-Name 6: _shopify_sa_t
+[Before] Cookie-Name 7: _gat_UA-241482-2
+[Before] Cookie-Name 8: _ga
+[Before] Cookie-Name 9: _landing_page
+[Before] Cookie-Name 10: _shopify_s
+[Before] Cookie-Name 11: _fbp
+[Before] Cookie-Name 12: _shopify_y
+[Before] Cookie-Name 13: _s
+[Before] Cookie-Name 14: _gid
+[Before] Cookie-Name 15: _y
+[Before] Cookie-Name 16: secure_customer_sig
+[Before] Cookie-Name 17: _orig_referrer
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 18
+[After] Website-Cookies: [{'domain': '.netshake.de', 'expiry': 1647087921, 'httpOnly': False, 'name': 'prism_224281583', 'path': '/', 'secure': False, 'value': '0838941d-2bb0-41b7-984d-b4ecc4cd190e'}, {'domain': '.netshake.de', 'expiry': 1678191921, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '83b37b908a6c11ec9e08e35f40636ef2'}, {'domain': '.netshake.de', 'expiry': 1644582321, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': '83b307508a6c11ec976b736a275433fa'}, {'domain': '.netshake.de', 'expiry': 1707567921, 'httpOnly': False, 'name': '_lfa', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'LF1.1.53bdd94c2f6b846a.1644495921289'}, {'domain': '.netshake.de', 'expiry': 1644497721, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.netshake.de', 'expiry': 1644497721, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T12%3A25%3A21.118Z'}, {'domain': '.netshake.de', 'expiry': 1644495981, 'httpOnly': False, 'name': '_gat_UA-241482-2', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.netshake.de', 'expiry': 1707567921, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.2064072555.1644495921'}, {'domain': '.netshake.de', 'expiry': 1645705520, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.netshake.de', 'expiry': 1644497721, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '51d2c15f-292d-42c9-8a88-cd8989402ba6'}, {'domain': '.netshake.de', 'expiry': 1652271935, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644495921257.1024333043'}, {'domain': '.netshake.de', 'expiry': 1676031920, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '536fa31b-7c66-4aad-934b-3fbf8de4f5e3'}, {'domain': '.netshake.de', 'expiry': 1644497721, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '51d2c15f-292d-42c9-8a88-cd8989402ba6'}, {'domain': '.netshake.de', 'expiry': 1644582321, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1566920666.1644495921'}, {'domain': '.netshake.de', 'expiry': 1676031920, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '536fa31b-7c66-4aad-934b-3fbf8de4f5e3'}, {'domain': 'netshake.de', 'expiry': 1676031920, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'netshake.de', 'expiry': 1676031935, 'httpOnly': False, 'name': 'cookieconsent_status', 'path': '/', 'secure': False, 'value': 'dismiss'}, {'domain': '.netshake.de', 'expiry': 1645705520, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: prism_224281583
+[After] Cookie-Name 2: _uetvid
+[After] Cookie-Name 3: _uetsid
+[After] Cookie-Name 4: _lfa
+[After] Cookie-Name 5: _shopify_sa_p
+[After] Cookie-Name 6: _shopify_sa_t
+[After] Cookie-Name 7: _gat_UA-241482-2
+[After] Cookie-Name 8: _ga
+[After] Cookie-Name 9: _landing_page
+[After] Cookie-Name 10: _shopify_s
+[After] Cookie-Name 11: _fbp
+[After] Cookie-Name 12: _shopify_y
+[After] Cookie-Name 13: _s
+[After] Cookie-Name 14: _gid
+[After] Cookie-Name 15: _y
+[After] Cookie-Name 16: secure_customer_sig
+[After] Cookie-Name 17: cookieconsent_status
+[After] Cookie-Name 18: _orig_referrer
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _lfa (Leadfeeder (B2B Spy-tool))
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gid (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: cookieconsent_status
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

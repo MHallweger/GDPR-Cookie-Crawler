@@ -1,0 +1,73 @@
+Website 318: http://www.primera-beteiligung.de/ | Created: 10.02.2022 18:55:03 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 20
+[Before] Website-Cookies: [{'domain': 'primera-beteiligung.de', 'expiry': 1676051695, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': ''}, {'domain': 'primera-beteiligung.de', 'expiry': 1644517494, 'httpOnly': False, 'name': 'ellipsis.sessionts', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1644515694926'}, {'domain': 'primera-beteiligung.de', 'expiry': 1644519294, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.primera-beteiligung.de', 'expiry': 1644515754, 'httpOnly': False, 'name': '_dc_gtm_UA-145357254-2', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.primera-beteiligung.de', 'expiry': 1652291693, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.851258948.1644515694'}, {'domain': '.primera-beteiligung.de', 'expiry': 1644515753, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.primera-beteiligung.de', 'expiry': 1644517493, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A54%3A53.928Z'}, {'domain': 'primera-beteiligung.de', 'expiry': 1676051695, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.primera-beteiligung.de', 'expiry': 1707587694, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1142484505.1644515694'}, {'domain': '.primera-beteiligung.de', 'expiry': 1644602094, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1626196959.1644515694'}, {'domain': '.primera-beteiligung.de', 'expiry': 1644517495, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6fcdaf0a-ff20-4b11-8001-cf0f1b16b023'}, {'domain': 'primera-beteiligung.de', 'expiry': 1644517494, 'httpOnly': False, 'name': 'ellipsis.sessionid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '8dbd8fd1-8a9a-11ec-9ef9-6d831e400f9a'}, {'domain': '.primera-beteiligung.de', 'expiry': 1644517495, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6fcdaf0a-ff20-4b11-8001-cf0f1b16b023'}, {'domain': '.primera-beteiligung.de', 'expiry': 1644517493, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.primera-beteiligung.de', 'expiry': 1676051695, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '43d5b12b-af65-4c4e-b80b-3df77b0225d5'}, {'domain': '.primera-beteiligung.de', 'expiry': 1676051695, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '43d5b12b-af65-4c4e-b80b-3df77b0225d5'}, {'domain': 'primera-beteiligung.de', 'expiry': 1645725295, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': '.primera-beteiligung.de', 'expiry': 1645725293, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.primera-beteiligung.de', 'expiry': 1645725293, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'primera-beteiligung.de', 'expiry': 1645725295, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}]
+[Before] Cookie-Name 1: cookieconsent_preferences_disabled
+[Before] Cookie-Name 2: ellipsis.sessionts
+[Before] Cookie-Name 3: shopify_pay_redirect
+[Before] Cookie-Name 4: _dc_gtm_UA-145357254-2
+[Before] Cookie-Name 5: _gcl_au
+[Before] Cookie-Name 6: _gat
+[Before] Cookie-Name 7: _shopify_sa_t
+[Before] Cookie-Name 8: secure_customer_sig
+[Before] Cookie-Name 9: _ga
+[Before] Cookie-Name 10: _gid
+[Before] Cookie-Name 11: _shopify_s
+[Before] Cookie-Name 12: ellipsis.sessionid
+[Before] Cookie-Name 13: _s
+[Before] Cookie-Name 14: _shopify_sa_p
+[Before] Cookie-Name 15: _shopify_y
+[Before] Cookie-Name 16: _y
+[Before] Cookie-Name 17: localization
+[Before] Cookie-Name 18: _landing_page
+[Before] Cookie-Name 19: _orig_referrer
+[Before] Cookie-Name 20: cart_currency
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 21
+[After] Website-Cookies: [{'domain': 'primera-beteiligung.de', 'expiry': 1676051708, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': ''}, {'domain': 'primera-beteiligung.de', 'expiry': 1644517494, 'httpOnly': False, 'name': 'ellipsis.sessionts', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1644515694926'}, {'domain': 'primera-beteiligung.de', 'expiry': 1644519294, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'primera-beteiligung.de', 'expiry': 1676051708, 'httpOnly': False, 'name': 'cookieconsent_status', 'path': '/', 'secure': False, 'value': 'allow'}, {'domain': '.primera-beteiligung.de', 'expiry': 1644515754, 'httpOnly': False, 'name': '_dc_gtm_UA-145357254-2', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.primera-beteiligung.de', 'expiry': 1652291693, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.851258948.1644515694'}, {'domain': '.primera-beteiligung.de', 'expiry': 1644515753, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.primera-beteiligung.de', 'expiry': 1644517493, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A54%3A53.928Z'}, {'domain': 'primera-beteiligung.de', 'expiry': 1676051695, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.primera-beteiligung.de', 'expiry': 1707587694, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1142484505.1644515694'}, {'domain': '.primera-beteiligung.de', 'expiry': 1644602094, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1626196959.1644515694'}, {'domain': '.primera-beteiligung.de', 'expiry': 1644517495, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6fcdaf0a-ff20-4b11-8001-cf0f1b16b023'}, {'domain': 'primera-beteiligung.de', 'expiry': 1644517494, 'httpOnly': False, 'name': 'ellipsis.sessionid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '8dbd8fd1-8a9a-11ec-9ef9-6d831e400f9a'}, {'domain': '.primera-beteiligung.de', 'expiry': 1644517495, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6fcdaf0a-ff20-4b11-8001-cf0f1b16b023'}, {'domain': '.primera-beteiligung.de', 'expiry': 1644517493, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.primera-beteiligung.de', 'expiry': 1676051695, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '43d5b12b-af65-4c4e-b80b-3df77b0225d5'}, {'domain': '.primera-beteiligung.de', 'expiry': 1676051695, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '43d5b12b-af65-4c4e-b80b-3df77b0225d5'}, {'domain': 'primera-beteiligung.de', 'expiry': 1645725295, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': '.primera-beteiligung.de', 'expiry': 1645725293, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.primera-beteiligung.de', 'expiry': 1645725293, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'primera-beteiligung.de', 'expiry': 1645725295, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}]
+[After] Cookie-Name 1: cookieconsent_preferences_disabled
+[After] Cookie-Name 2: ellipsis.sessionts
+[After] Cookie-Name 3: shopify_pay_redirect
+[After] Cookie-Name 4: cookieconsent_status
+[After] Cookie-Name 5: _dc_gtm_UA-145357254-2
+[After] Cookie-Name 6: _gcl_au
+[After] Cookie-Name 7: _gat
+[After] Cookie-Name 8: _shopify_sa_t
+[After] Cookie-Name 9: secure_customer_sig
+[After] Cookie-Name 10: _ga
+[After] Cookie-Name 11: _gid
+[After] Cookie-Name 12: _shopify_s
+[After] Cookie-Name 13: ellipsis.sessionid
+[After] Cookie-Name 14: _s
+[After] Cookie-Name 15: _shopify_sa_p
+[After] Cookie-Name 16: _shopify_y
+[After] Cookie-Name 17: _y
+[After] Cookie-Name 18: localization
+[After] Cookie-Name 19: _landing_page
+[After] Cookie-Name 20: _orig_referrer
+[After] Cookie-Name 21: cart_currency
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: cookieconsent_status
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

@@ -1,0 +1,86 @@
+Website 163: http://www.vevor.de/ | Created: 09.02.2022 11:35:41 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 25
+[Before] Website-Cookies: [{'domain': '.vevor.de', 'expiry': 1675938932, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'O0LuKQCiAWB1Lc-20220209103532'}, {'domain': '.vevor.de', 'expiry': 1644404732, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'dSyVH47VRl9Xky-20220209103532'}, {'domain': '.vevor.de', 'expiry': 1675938931, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': 'w94ze|1|eyu|0'}, {'domain': '.vevor.de', 'expiry': 1675938941, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '27573e53-eb9b-408b-9e57-dbc904ad3b10'}, {'domain': '.vevor.de', 'expiry': 1675938932, 'httpOnly': False, 'name': 'currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.vevor.de', 'expiry': 1652178931, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644402931385.1050424677'}, {'domain': '.vevor.de', 'expiry': 1678098931, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '01422500899411ec98d00dd6b29a8c8a'}, {'domain': '.vevor.de', 'expiry': 1644402990, 'httpOnly': False, 'name': '_gat_gtag_UA_149796948_11', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'vevor.de', 'expiry': 1675938941, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.vevor.de', 'expiry': 1644402990, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.vevor.de', 'expiry': 1644404730, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.vevor.de', 'expiry': 1678566932, 'httpOnly': False, 'name': 'cto_bundle', 'path': '/', 'secure': False, 'value': '-PQqaF80bGFHczVBMjJkMlc4YkQ2NyUyRkNZd3pvYkdTQUVUWGhvVWhWSGpES0I3djlBN3JvSWhrJTJGTVY5RkFQN1B5dmJjblhZdkNSdCUyRkxpb1FOSHg4WWVOSGdKbXZCUHllT25OYjhNM1BidzUlMkZuZjJwc0lQSWVYYWhTSjBRblRxRGM5RG1QdzZ0eCUyQkFFV1d6M0Y0VmFEM293ZWV3JTNEJTNE'}, {'domain': '.vevor.de', 'expiry': 1644489330, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.889656870.1644402931'}, {'domain': '.vevor.de', 'expiry': 1652178930, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.675054056.1644402931'}, {'domain': '.vevor.de', 'expiry': 1707474930, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1488651777.1644402931'}, {'domain': '.vevor.de', 'httpOnly': False, 'name': 'soundest-views', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.vevor.de', 'expiry': 1675938941, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '27573e53-eb9b-408b-9e57-dbc904ad3b10'}, {'domain': '.vevor.de', 'expiry': 1644404730, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A35%3A30.939Z'}, {'domain': '.vevor.de', 'expiry': 1645612530, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.vevor.de', 'expiry': 1644489331, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': '1b1fno0|1644402931950|1|1|i.clarity.ms/collect'}, {'domain': '.vevor.de', 'expiry': 1644404741, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '99d435db-2264-4e0a-9a5a-1fdcf6510576'}, {'domain': '.vevor.de', 'expiry': 1644404741, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '99d435db-2264-4e0a-9a5a-1fdcf6510576'}, {'domain': '.vevor.de', 'expiry': 1644489331, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': '0141dec0899411ecb704318a29313450'}, {'domain': '.vevor.de', 'expiry': 1645612530, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.vevor.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220209103532-duZw6v6D88o61WcA9HdtpkpS57N47FAF8eTz1No8hhDJQJoze'}]
+[Before] Cookie-Name 1: omnisendAnonymousID
+[Before] Cookie-Name 2: omnisendSessionID
+[Before] Cookie-Name 3: _clck
+[Before] Cookie-Name 4: _y
+[Before] Cookie-Name 5: currency
+[Before] Cookie-Name 6: _fbp
+[Before] Cookie-Name 7: _uetvid
+[Before] Cookie-Name 8: _gat_gtag_UA_149796948_11
+[Before] Cookie-Name 9: secure_customer_sig
+[Before] Cookie-Name 10: _gat
+[Before] Cookie-Name 11: _shopify_sa_p
+[Before] Cookie-Name 12: cto_bundle
+[Before] Cookie-Name 13: _gid
+[Before] Cookie-Name 14: _gcl_au
+[Before] Cookie-Name 15: _ga
+[Before] Cookie-Name 16: soundest-views
+[Before] Cookie-Name 17: _shopify_y
+[Before] Cookie-Name 18: _shopify_sa_t
+[Before] Cookie-Name 19: _landing_page
+[Before] Cookie-Name 20: _clsk
+[Before] Cookie-Name 21: _shopify_s
+[Before] Cookie-Name 22: _s
+[Before] Cookie-Name 23: _uetsid
+[Before] Cookie-Name 24: _orig_referrer
+[Before] Cookie-Name 25: soundestID
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 25
+[After] Website-Cookies: [{'domain': '.vevor.de', 'expiry': 1675938932, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'O0LuKQCiAWB1Lc-20220209103532'}, {'domain': '.vevor.de', 'expiry': 1644404732, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'dSyVH47VRl9Xky-20220209103532'}, {'domain': '.vevor.de', 'expiry': 1675938931, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': 'w94ze|1|eyu|0'}, {'domain': '.vevor.de', 'expiry': 1675938941, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '27573e53-eb9b-408b-9e57-dbc904ad3b10'}, {'domain': '.vevor.de', 'expiry': 1675938932, 'httpOnly': False, 'name': 'currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.vevor.de', 'expiry': 1652178931, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644402931385.1050424677'}, {'domain': '.vevor.de', 'expiry': 1678098931, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '01422500899411ec98d00dd6b29a8c8a'}, {'domain': '.vevor.de', 'expiry': 1644402990, 'httpOnly': False, 'name': '_gat_gtag_UA_149796948_11', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'vevor.de', 'expiry': 1675938941, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.vevor.de', 'expiry': 1644402990, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.vevor.de', 'expiry': 1644404730, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.vevor.de', 'expiry': 1678566932, 'httpOnly': False, 'name': 'cto_bundle', 'path': '/', 'secure': False, 'value': '-PQqaF80bGFHczVBMjJkMlc4YkQ2NyUyRkNZd3pvYkdTQUVUWGhvVWhWSGpES0I3djlBN3JvSWhrJTJGTVY5RkFQN1B5dmJjblhZdkNSdCUyRkxpb1FOSHg4WWVOSGdKbXZCUHllT25OYjhNM1BidzUlMkZuZjJwc0lQSWVYYWhTSjBRblRxRGM5RG1QdzZ0eCUyQkFFV1d6M0Y0VmFEM293ZWV3JTNEJTNE'}, {'domain': '.vevor.de', 'expiry': 1644489330, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.889656870.1644402931'}, {'domain': '.vevor.de', 'expiry': 1652178930, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.675054056.1644402931'}, {'domain': '.vevor.de', 'expiry': 1707474930, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1488651777.1644402931'}, {'domain': '.vevor.de', 'httpOnly': False, 'name': 'soundest-views', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.vevor.de', 'expiry': 1675938941, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '27573e53-eb9b-408b-9e57-dbc904ad3b10'}, {'domain': '.vevor.de', 'expiry': 1644404730, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A35%3A30.939Z'}, {'domain': '.vevor.de', 'expiry': 1645612530, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.vevor.de', 'expiry': 1644489331, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': '1b1fno0|1644402931950|1|1|i.clarity.ms/collect'}, {'domain': '.vevor.de', 'expiry': 1644404741, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '99d435db-2264-4e0a-9a5a-1fdcf6510576'}, {'domain': '.vevor.de', 'expiry': 1644404741, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '99d435db-2264-4e0a-9a5a-1fdcf6510576'}, {'domain': '.vevor.de', 'expiry': 1644489331, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': '0141dec0899411ecb704318a29313450'}, {'domain': '.vevor.de', 'expiry': 1645612530, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.vevor.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220209103532-duZw6v6D88o61WcA9HdtpkpS57N47FAF8eTz1No8hhDJQJoze'}]
+[After] Cookie-Name 1: omnisendAnonymousID
+[After] Cookie-Name 2: omnisendSessionID
+[After] Cookie-Name 3: _clck
+[After] Cookie-Name 4: _y
+[After] Cookie-Name 5: currency
+[After] Cookie-Name 6: _fbp
+[After] Cookie-Name 7: _uetvid
+[After] Cookie-Name 8: _gat_gtag_UA_149796948_11
+[After] Cookie-Name 9: secure_customer_sig
+[After] Cookie-Name 10: _gat
+[After] Cookie-Name 11: _shopify_sa_p
+[After] Cookie-Name 12: cto_bundle
+[After] Cookie-Name 13: _gid
+[After] Cookie-Name 14: _gcl_au
+[After] Cookie-Name 15: _ga
+[After] Cookie-Name 16: soundest-views
+[After] Cookie-Name 17: _shopify_y
+[After] Cookie-Name 18: _shopify_sa_t
+[After] Cookie-Name 19: _landing_page
+[After] Cookie-Name 20: _clsk
+[After] Cookie-Name 21: _shopify_s
+[After] Cookie-Name 22: _s
+[After] Cookie-Name 23: _uetsid
+[After] Cookie-Name 24: _orig_referrer
+[After] Cookie-Name 25: soundestID
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _clck (Microsoft Clarity (User experience tool))
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _clsk (Microsoft Clarity (User experience tool))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

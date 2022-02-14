@@ -1,0 +1,74 @@
+Website 209: http://www.pieroth.de/ | Created: 08.02.2022 22:43:45 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 20
+[Before] Website-Cookies: [{'domain': '.pieroth.de', 'expiry': 1644443016, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': 'zivtnq|1644356616873|1|1|j.clarity.ms/collect'}, {'domain': '.pieroth.de', 'expiry': 1678052615, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '2afd9b00892811ec9db72b52518c5da7'}, {'domain': '.pieroth.de', 'expiry': 1644358415, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A43%3A35.416Z'}, {'domain': '.pieroth.de', 'expiry': 1652132615, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1381840725.1644356615'}, {'domain': '.pieroth.de', 'expiry': 1644356675, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.pieroth.de', 'expiry': 1644358415, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '77257f95-b532-4175-9953-a09b788db371'}, {'domain': '.pieroth.de', 'expiry': 1652132616, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644356615611.1276017072'}, {'domain': '.pieroth.de', 'expiry': 1644358415, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '77257f95-b532-4175-9953-a09b788db371'}, {'domain': '.pieroth.de', 'expiry': 1675892615, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '737a2485-c773-4a76-8d1f-54e8470d63e9'}, {'domain': '.pieroth.de', 'expiry': 1675892615, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '737a2485-c773-4a76-8d1f-54e8470d63e9'}, {'domain': 'www.pieroth.de', 'expiry': 1645566215, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.pieroth.de', 'expiry': 1645566213, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.pieroth.de', 'expiry': 1645566215, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': '.pieroth.de', 'expiry': 1644443015, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.93980721.1644356615'}, {'domain': '.pieroth.de', 'expiry': 1644358415, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.pieroth.de', 'expiry': 1707428615, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1531231991.1644356615'}, {'domain': '.pieroth.de', 'expiry': 1645566213, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.pieroth.de', 'expiry': 1675892616, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': 'lwkmt5|1|eyt|0'}, {'domain': '.pieroth.de', 'expiry': 1644443015, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': '2afd9680892811eca41d29a662d4b2f9'}, {'domain': 'www.pieroth.de', 'expiry': 1675892615, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _clsk
+[Before] Cookie-Name 2: _uetvid
+[Before] Cookie-Name 3: _shopify_sa_t
+[Before] Cookie-Name 4: _gcl_au
+[Before] Cookie-Name 5: _gat
+[Before] Cookie-Name 6: _shopify_s
+[Before] Cookie-Name 7: _fbp
+[Before] Cookie-Name 8: _s
+[Before] Cookie-Name 9: _shopify_y
+[Before] Cookie-Name 10: _y
+[Before] Cookie-Name 11: cart_currency
+[Before] Cookie-Name 12: _landing_page
+[Before] Cookie-Name 13: localization
+[Before] Cookie-Name 14: _gid
+[Before] Cookie-Name 15: _shopify_sa_p
+[Before] Cookie-Name 16: _ga
+[Before] Cookie-Name 17: _orig_referrer
+[Before] Cookie-Name 18: _clck
+[Before] Cookie-Name 19: _uetsid
+[Before] Cookie-Name 20: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 20
+[After] Website-Cookies: [{'domain': '.pieroth.de', 'expiry': 1644443016, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': 'zivtnq|1644356616873|1|1|j.clarity.ms/collect'}, {'domain': '.pieroth.de', 'expiry': 1678052615, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '2afd9b00892811ec9db72b52518c5da7'}, {'domain': '.pieroth.de', 'expiry': 1644358415, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A43%3A35.416Z'}, {'domain': '.pieroth.de', 'expiry': 1652132615, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1381840725.1644356615'}, {'domain': '.pieroth.de', 'expiry': 1644356675, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.pieroth.de', 'expiry': 1644358415, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '77257f95-b532-4175-9953-a09b788db371'}, {'domain': '.pieroth.de', 'expiry': 1652132631, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644356615611.1276017072'}, {'domain': '.pieroth.de', 'expiry': 1644358415, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '77257f95-b532-4175-9953-a09b788db371'}, {'domain': '.pieroth.de', 'expiry': 1675892615, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '737a2485-c773-4a76-8d1f-54e8470d63e9'}, {'domain': '.pieroth.de', 'expiry': 1675892615, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '737a2485-c773-4a76-8d1f-54e8470d63e9'}, {'domain': 'www.pieroth.de', 'expiry': 1645566215, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.pieroth.de', 'expiry': 1645566213, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.pieroth.de', 'expiry': 1645566215, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': '.pieroth.de', 'expiry': 1644443015, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.93980721.1644356615'}, {'domain': '.pieroth.de', 'expiry': 1644358415, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.pieroth.de', 'expiry': 1707428615, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1531231991.1644356615'}, {'domain': '.pieroth.de', 'expiry': 1645566213, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.pieroth.de', 'expiry': 1675892616, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': 'lwkmt5|1|eyt|0'}, {'domain': '.pieroth.de', 'expiry': 1644443015, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': '2afd9680892811eca41d29a662d4b2f9'}, {'domain': 'www.pieroth.de', 'expiry': 1675892615, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _clsk
+[After] Cookie-Name 2: _uetvid
+[After] Cookie-Name 3: _shopify_sa_t
+[After] Cookie-Name 4: _gcl_au
+[After] Cookie-Name 5: _gat
+[After] Cookie-Name 6: _shopify_s
+[After] Cookie-Name 7: _fbp
+[After] Cookie-Name 8: _s
+[After] Cookie-Name 9: _shopify_y
+[After] Cookie-Name 10: _y
+[After] Cookie-Name 11: cart_currency
+[After] Cookie-Name 12: _landing_page
+[After] Cookie-Name 13: localization
+[After] Cookie-Name 14: _gid
+[After] Cookie-Name 15: _shopify_sa_p
+[After] Cookie-Name 16: _ga
+[After] Cookie-Name 17: _orig_referrer
+[After] Cookie-Name 18: _clck
+[After] Cookie-Name 19: _uetsid
+[After] Cookie-Name 20: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _clsk (Microsoft Clarity (User experience tool))
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _clck (Microsoft Clarity (User experience tool))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

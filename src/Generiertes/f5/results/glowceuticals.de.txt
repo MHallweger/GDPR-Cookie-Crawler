@@ -1,0 +1,86 @@
+Website 287: http://www.glowceuticals.de/ | Created: 09.02.2022 21:04:33 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 27
+[Before] Website-Cookies: [{'domain': 'glowceuticals.de', 'expiry': 1675973066, 'httpOnly': False, 'name': '_pandectes_gdpr', 'path': '/', 'secure': True, 'value': 'eyJzdGF0dXMiOiIiLCJ0aW1lc3RhbXAiOm51bGwsInByZWZlcmVuY2VzIjpudWxsfQ=='}, {'domain': 'glowceuticals.de', 'expiry': 1675973065, 'httpOnly': False, 'name': 'SALESREPS_REFERRER', 'path': '/', 'secure': False, 'value': ''}, {'domain': '.glowceuticals.de', 'expiry': 1675973064, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1bd36714-00d5-4759-b696-b5ba890e063c'}, {'domain': '.glowceuticals.de', 'expiry': 1644523464, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.938839213.1644437065'}, {'domain': '.glowceuticals.de', 'expiry': 1675973064, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1bd36714-00d5-4759-b696-b5ba890e063c'}, {'domain': 'glowceuticals.de', 'expiry': 1675973065, 'httpOnly': False, 'name': 'SALESREPS_TRACKING_ID', 'path': '/', 'secure': False, 'value': ''}, {'domain': '.glowceuticals.de', 'expiry': 1707509064, 'httpOnly': False, 'name': 'glowceuticals-_zldp', 'path': '/', 'secure': True, 'value': 'LybR6wOTudVRuJXiaY0SJUtk85OoEIDOmqI8gh3BFMMoAtubcfE2WmvDlzOxDoXLINu1ImkZS%2F0%3D'}, {'domain': '.glowceuticals.de', 'expiry': 1644438864, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T20%3A04%3A24.929Z'}, {'domain': '.glowceuticals.de', 'expiry': 1652213063, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644437063317.273926542'}, {'domain': '.glowceuticals.de', 'expiry': 1644437364, 'httpOnly': False, 'name': 'zld50693000000002052state', 'path': '/', 'secure': True, 'value': '0'}, {'domain': '.glowceuticals.de', 'expiry': 1644438864, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cbbe2df4-f2eb-42fc-95af-afda038a7f58'}, {'domain': '.glowceuticals.de', 'expiry': 1644523464, 'httpOnly': False, 'name': 'glowceuticals-_zldt', 'path': '/', 'secure': True, 'value': '5be0fd1b-e360-4562-a017-7b531d3dc66f-0'}, {'domain': 'glowceuticals.de', 'expiry': 1675973065, 'httpOnly': False, 'name': 'SALESREPS_STATE', 'path': '/', 'secure': False, 'value': '1644437065849'}, {'domain': '.glowceuticals.de', 'expiry': 1707509064, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.2024043052.1644437065'}, {'domain': 'glowceuticals.de', 'expiry': 1647029065, 'httpOnly': False, 'name': 'sa_session', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '{"r":"","l":"https://glowceuticals.de/"}'}, {'domain': '.glowceuticals.de', 'expiry': 1652213063, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1848748772.1644437063'}, {'domain': '.glowceuticals.de', 'expiry': 1675973065, 'httpOnly': False, 'name': '_privy_E8ADFEB6A845E98E14F5D39D', 'path': '/', 'secure': False, 'value': '%7B%22uuid%22%3A%22774cb2be-3474-4aae-96bb-1c333e9f962d%22%7D'}, {'domain': 'glowceuticals.de', 'expiry': 1644438862, 'httpOnly': False, 'name': 'dynamic_checkout_shown_on_cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.glowceuticals.de', 'expiry': 1644437124, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'glowceuticals.de', 'expiry': 1645646664, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'glowceuticals.de', 'expiry': 1675973065, 'httpOnly': False, 'name': 'SALESREPS_URL', 'path': '/', 'secure': False, 'value': 'https://glowceuticals.de/'}, {'domain': '.glowceuticals.de', 'expiry': 1644438864, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cbbe2df4-f2eb-42fc-95af-afda038a7f58'}, {'domain': '.glowceuticals.de', 'expiry': 1645646662, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.glowceuticals.de', 'expiry': 1644438864, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'glowceuticals.de', 'expiry': 1675973064, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.glowceuticals.de', 'expiry': 1645646662, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'glowceuticals.de', 'expiry': 1645646664, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}]
+[Before] Cookie-Name 1: _pandectes_gdpr
+[Before] Cookie-Name 2: SALESREPS_REFERRER
+[Before] Cookie-Name 3: _y
+[Before] Cookie-Name 4: _gid
+[Before] Cookie-Name 5: _shopify_y
+[Before] Cookie-Name 6: SALESREPS_TRACKING_ID
+[Before] Cookie-Name 7: glowceuticals-_zldp
+[Before] Cookie-Name 8: _shopify_sa_t
+[Before] Cookie-Name 9: _fbp
+[Before] Cookie-Name 10: zld50693000000002052state
+[Before] Cookie-Name 11: _shopify_s
+[Before] Cookie-Name 12: glowceuticals-_zldt
+[Before] Cookie-Name 13: SALESREPS_STATE
+[Before] Cookie-Name 14: _ga
+[Before] Cookie-Name 15: sa_session
+[Before] Cookie-Name 16: _gcl_au
+[Before] Cookie-Name 17: _privy_E8ADFEB6A845E98E14F5D39D
+[Before] Cookie-Name 18: dynamic_checkout_shown_on_cart
+[Before] Cookie-Name 19: _gat
+[Before] Cookie-Name 20: localization
+[Before] Cookie-Name 21: SALESREPS_URL
+[Before] Cookie-Name 22: _s
+[Before] Cookie-Name 23: _orig_referrer
+[Before] Cookie-Name 24: _shopify_sa_p
+[Before] Cookie-Name 25: secure_customer_sig
+[Before] Cookie-Name 26: _landing_page
+[Before] Cookie-Name 27: cart_currency
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 27
+[After] Website-Cookies: [{'domain': 'glowceuticals.de', 'expiry': 1675973080, 'httpOnly': False, 'name': '_pandectes_gdpr', 'path': '/', 'secure': True, 'value': 'eyJzdGF0dXMiOiJhbGxvdyIsInRpbWVzdGFtcCI6MTY0NDQzNzA4MCwicHJlZmVyZW5jZXMiOjB9'}, {'domain': 'glowceuticals.de', 'expiry': 1675973065, 'httpOnly': False, 'name': 'SALESREPS_REFERRER', 'path': '/', 'secure': False, 'value': ''}, {'domain': '.glowceuticals.de', 'expiry': 1675973064, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1bd36714-00d5-4759-b696-b5ba890e063c'}, {'domain': '.glowceuticals.de', 'expiry': 1644523464, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.938839213.1644437065'}, {'domain': '.glowceuticals.de', 'expiry': 1675973064, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1bd36714-00d5-4759-b696-b5ba890e063c'}, {'domain': 'glowceuticals.de', 'expiry': 1675973065, 'httpOnly': False, 'name': 'SALESREPS_TRACKING_ID', 'path': '/', 'secure': False, 'value': ''}, {'domain': '.glowceuticals.de', 'expiry': 1707509064, 'httpOnly': False, 'name': 'glowceuticals-_zldp', 'path': '/', 'secure': True, 'value': 'LybR6wOTudVRuJXiaY0SJUtk85OoEIDOmqI8gh3BFMMoAtubcfE2WmvDlzOxDoXLINu1ImkZS%2F0%3D'}, {'domain': '.glowceuticals.de', 'expiry': 1644438864, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T20%3A04%3A24.929Z'}, {'domain': '.glowceuticals.de', 'expiry': 1652213080, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644437063317.273926542'}, {'domain': '.glowceuticals.de', 'expiry': 1644437364, 'httpOnly': False, 'name': 'zld50693000000002052state', 'path': '/', 'secure': True, 'value': '0'}, {'domain': '.glowceuticals.de', 'expiry': 1644438864, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cbbe2df4-f2eb-42fc-95af-afda038a7f58'}, {'domain': '.glowceuticals.de', 'expiry': 1644523464, 'httpOnly': False, 'name': 'glowceuticals-_zldt', 'path': '/', 'secure': True, 'value': '5be0fd1b-e360-4562-a017-7b531d3dc66f-0'}, {'domain': 'glowceuticals.de', 'expiry': 1675973065, 'httpOnly': False, 'name': 'SALESREPS_STATE', 'path': '/', 'secure': False, 'value': '1644437065849'}, {'domain': '.glowceuticals.de', 'expiry': 1707509064, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.2024043052.1644437065'}, {'domain': 'glowceuticals.de', 'expiry': 1647029065, 'httpOnly': False, 'name': 'sa_session', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '{"r":"","l":"https://glowceuticals.de/"}'}, {'domain': '.glowceuticals.de', 'expiry': 1652213063, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1848748772.1644437063'}, {'domain': '.glowceuticals.de', 'expiry': 1675973065, 'httpOnly': False, 'name': '_privy_E8ADFEB6A845E98E14F5D39D', 'path': '/', 'secure': False, 'value': '%7B%22uuid%22%3A%22774cb2be-3474-4aae-96bb-1c333e9f962d%22%7D'}, {'domain': 'glowceuticals.de', 'expiry': 1644438862, 'httpOnly': False, 'name': 'dynamic_checkout_shown_on_cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.glowceuticals.de', 'expiry': 1644437124, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'glowceuticals.de', 'expiry': 1645646664, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'glowceuticals.de', 'expiry': 1675973065, 'httpOnly': False, 'name': 'SALESREPS_URL', 'path': '/', 'secure': False, 'value': 'https://glowceuticals.de/'}, {'domain': '.glowceuticals.de', 'expiry': 1644438864, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cbbe2df4-f2eb-42fc-95af-afda038a7f58'}, {'domain': '.glowceuticals.de', 'expiry': 1645646662, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.glowceuticals.de', 'expiry': 1644438864, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'glowceuticals.de', 'expiry': 1675973064, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.glowceuticals.de', 'expiry': 1645646662, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'glowceuticals.de', 'expiry': 1645646664, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}]
+[After] Cookie-Name 1: _pandectes_gdpr
+[After] Cookie-Name 2: SALESREPS_REFERRER
+[After] Cookie-Name 3: _y
+[After] Cookie-Name 4: _gid
+[After] Cookie-Name 5: _shopify_y
+[After] Cookie-Name 6: SALESREPS_TRACKING_ID
+[After] Cookie-Name 7: glowceuticals-_zldp
+[After] Cookie-Name 8: _shopify_sa_t
+[After] Cookie-Name 9: _fbp
+[After] Cookie-Name 10: zld50693000000002052state
+[After] Cookie-Name 11: _shopify_s
+[After] Cookie-Name 12: glowceuticals-_zldt
+[After] Cookie-Name 13: SALESREPS_STATE
+[After] Cookie-Name 14: _ga
+[After] Cookie-Name 15: sa_session
+[After] Cookie-Name 16: _gcl_au
+[After] Cookie-Name 17: _privy_E8ADFEB6A845E98E14F5D39D
+[After] Cookie-Name 18: dynamic_checkout_shown_on_cart
+[After] Cookie-Name 19: _gat
+[After] Cookie-Name 20: localization
+[After] Cookie-Name 21: SALESREPS_URL
+[After] Cookie-Name 22: _s
+[After] Cookie-Name 23: _orig_referrer
+[After] Cookie-Name 24: _shopify_sa_p
+[After] Cookie-Name 25: secure_customer_sig
+[After] Cookie-Name 26: _landing_page
+[After] Cookie-Name 27: cart_currency
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _gat (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

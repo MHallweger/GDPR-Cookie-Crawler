@@ -1,0 +1,68 @@
+Website 252: http://www.recolution.de/ | Created: 09.02.2022 20:53:53 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 18
+[Before] Website-Cookies: [{'domain': 'www.recolution.de', 'expiry': 1802116424, 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'secure': True, 'value': '4f3cab0b-d9dd-4be4-879a-9a093d721ad3'}, {'domain': 'www.recolution.de', 'expiry': 1644438224, 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'secure': True, 'value': '80c53b76-1817-42fb-b530-b7ae2d14a2fd'}, {'domain': '.recolution.de', 'expiry': 1644438224, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.recolution.de', 'expiry': 1645646017, 'httpOnly': False, 'name': '__cmpcvcx27712', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '__s1052_c12147_c12146_s65_s23_c5685_s1433_s905_s24_c12141_c12138_s2491_c12145_c12142_c12140_c12144_c12139_c12148_s971__'}, {'domain': '.recolution.de', 'expiry': 1645646017, 'httpOnly': False, 'name': '__cmpcpcx27712', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '__51__'}, {'domain': '.recolution.de', 'expiry': 1652212417, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.380095405.1644436417'}, {'domain': '.recolution.de', 'expiry': 1644438224, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c4168deb-1242-425d-824c-2dea2607b4cf'}, {'domain': '.recolution.de', 'expiry': 1675972416, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '327b7b5e-00c7-4425-8496-7b8b96147785'}, {'domain': 'www.recolution.de', 'expiry': 1644440017, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.recolution.de', 'expiry': 1645646016, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.recolution.de', 'expiry': 1675972416, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '327b7b5e-00c7-4425-8496-7b8b96147785'}, {'domain': 'www.recolution.de', 'expiry': 1645646016, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.recolution.de', 'expiry': 1644438224, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c4168deb-1242-425d-824c-2dea2607b4cf'}, {'domain': 'www.recolution.de', 'expiry': 1645646016, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.recolution.de', 'expiry': 1645646016, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.recolution.de', 'expiry': 1707508424, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MzY0MjQsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LnJlY29sdXRpb24uZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NDM2NDI0LCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL3d3dy5yZWNvbHV0aW9uLmRlLyJ9fQ=='}, {'domain': '.recolution.de', 'expiry': 1644438224, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A53%3A44.308Z'}, {'domain': 'www.recolution.de', 'expiry': 1675972416, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _shg_user_id
+[Before] Cookie-Name 2: _shg_session_id
+[Before] Cookie-Name 3: _shopify_sa_p
+[Before] Cookie-Name 4: __cmpcvcx27712
+[Before] Cookie-Name 5: __cmpcpcx27712
+[Before] Cookie-Name 6: _gcl_au
+[Before] Cookie-Name 7: _shopify_s
+[Before] Cookie-Name 8: _shopify_y
+[Before] Cookie-Name 9: shopify_pay_redirect
+[Before] Cookie-Name 10: _orig_referrer
+[Before] Cookie-Name 11: _y
+[Before] Cookie-Name 12: cart_currency
+[Before] Cookie-Name 13: _s
+[Before] Cookie-Name 14: localization
+[Before] Cookie-Name 15: _landing_page
+[Before] Cookie-Name 16: __kla_id
+[Before] Cookie-Name 17: _shopify_sa_t
+[Before] Cookie-Name 18: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 18
+[After] Website-Cookies: [{'domain': 'www.recolution.de', 'expiry': 1802116424, 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'secure': True, 'value': '4f3cab0b-d9dd-4be4-879a-9a093d721ad3'}, {'domain': 'www.recolution.de', 'expiry': 1644438224, 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'secure': True, 'value': '80c53b76-1817-42fb-b530-b7ae2d14a2fd'}, {'domain': '.recolution.de', 'expiry': 1644438224, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.recolution.de', 'expiry': 1645646017, 'httpOnly': False, 'name': '__cmpcvcx27712', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '__s1052_c12147_c12146_s65_s23_c5685_s1433_s905_s24_c12141_c12138_s2491_c12145_c12142_c12140_c12144_c12139_c12148_s971__'}, {'domain': '.recolution.de', 'expiry': 1645646017, 'httpOnly': False, 'name': '__cmpcpcx27712', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '__51__'}, {'domain': '.recolution.de', 'expiry': 1652212417, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.380095405.1644436417'}, {'domain': '.recolution.de', 'expiry': 1644438224, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c4168deb-1242-425d-824c-2dea2607b4cf'}, {'domain': '.recolution.de', 'expiry': 1675972416, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '327b7b5e-00c7-4425-8496-7b8b96147785'}, {'domain': 'www.recolution.de', 'expiry': 1644440017, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.recolution.de', 'expiry': 1645646016, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.recolution.de', 'expiry': 1675972416, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '327b7b5e-00c7-4425-8496-7b8b96147785'}, {'domain': 'www.recolution.de', 'expiry': 1645646016, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.recolution.de', 'expiry': 1644438224, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c4168deb-1242-425d-824c-2dea2607b4cf'}, {'domain': 'www.recolution.de', 'expiry': 1645646016, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.recolution.de', 'expiry': 1645646016, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.recolution.de', 'expiry': 1707508424, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MzY0MjQsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LnJlY29sdXRpb24uZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NDM2NDI0LCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL3d3dy5yZWNvbHV0aW9uLmRlLyJ9fQ=='}, {'domain': '.recolution.de', 'expiry': 1644438224, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A53%3A44.308Z'}, {'domain': 'www.recolution.de', 'expiry': 1675972416, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _shg_user_id
+[After] Cookie-Name 2: _shg_session_id
+[After] Cookie-Name 3: _shopify_sa_p
+[After] Cookie-Name 4: __cmpcvcx27712
+[After] Cookie-Name 5: __cmpcpcx27712
+[After] Cookie-Name 6: _gcl_au
+[After] Cookie-Name 7: _shopify_s
+[After] Cookie-Name 8: _shopify_y
+[After] Cookie-Name 9: shopify_pay_redirect
+[After] Cookie-Name 10: _orig_referrer
+[After] Cookie-Name 11: _y
+[After] Cookie-Name 12: cart_currency
+[After] Cookie-Name 13: _s
+[After] Cookie-Name 14: localization
+[After] Cookie-Name 15: _landing_page
+[After] Cookie-Name 16: __kla_id
+[After] Cookie-Name 17: _shopify_sa_t
+[After] Cookie-Name 18: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

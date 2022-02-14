@@ -1,0 +1,73 @@
+Website 199: http://www.sovrano.de/ | Created: 09.02.2022 20:36:47 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 20
+[Before] Website-Cookies: [{'domain': 'sovrano.de', 'expiry': 1675971398, 'httpOnly': False, 'name': '_ks_scriptVersion', 'path': '/', 'secure': True, 'value': '308'}, {'domain': 'sovrano.de', 'expiry': 1707507398, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MzUzOTgsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vc292cmFuby5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQ0MzUzOTgsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vc292cmFuby5kZS8ifX0='}, {'domain': '.sovrano.de', 'expiry': 1652211397, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644435397027.525277798'}, {'domain': '.sovrano.de', 'expiry': 1644435456, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'sovrano.de', 'expiry': 1644521798, 'httpOnly': False, 'name': '_ks_scriptVersionChecked', 'path': '/', 'secure': True, 'value': 'true'}, {'domain': '.sovrano.de', 'expiry': 1652211396, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1354384928.1644435397'}, {'domain': '.sovrano.de', 'expiry': 1707507396, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1220772428.1644435397'}, {'domain': '.sovrano.de', 'expiry': 1645644996, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.sovrano.de', 'expiry': 1644437196, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A36%3A36.787Z'}, {'domain': '.sovrano.de', 'expiry': 1645644996, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.sovrano.de', 'expiry': 1644437197, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '39a8b36f-57b7-4e7d-a0c2-8c8684e60b43'}, {'domain': '.sovrano.de', 'expiry': 1644437196, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'sovrano.de', 'expiry': 1645644997, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.sovrano.de', 'expiry': 1644437197, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '39a8b36f-57b7-4e7d-a0c2-8c8684e60b43'}, {'domain': '.sovrano.de', 'expiry': 1675971397, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd07940c5-d827-4b19-a465-11ff675eae56'}, {'domain': '.sovrano.de', 'expiry': 1644521796, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.253218161.1644435397'}, {'domain': '.sovrano.de', 'expiry': 1707507396, 'httpOnly': False, 'name': '_ga_7LWN1X4H90', 'path': '/', 'secure': False, 'value': 'GS1.1.1644435396.1.0.1644435396.60'}, {'domain': '.sovrano.de', 'expiry': 1675971397, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd07940c5-d827-4b19-a465-11ff675eae56'}, {'domain': 'sovrano.de', 'expiry': 1645644997, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'sovrano.de', 'expiry': 1675971397, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _ks_scriptVersion
+[Before] Cookie-Name 2: __kla_id
+[Before] Cookie-Name 3: _fbp
+[Before] Cookie-Name 4: _gat
+[Before] Cookie-Name 5: _ks_scriptVersionChecked
+[Before] Cookie-Name 6: _gcl_au
+[Before] Cookie-Name 7: _ga
+[Before] Cookie-Name 8: _landing_page
+[Before] Cookie-Name 9: _shopify_sa_t
+[Before] Cookie-Name 10: _orig_referrer
+[Before] Cookie-Name 11: _shopify_s
+[Before] Cookie-Name 12: _shopify_sa_p
+[Before] Cookie-Name 13: cart_currency
+[Before] Cookie-Name 14: _s
+[Before] Cookie-Name 15: _shopify_y
+[Before] Cookie-Name 16: _gid
+[Before] Cookie-Name 17: _ga_7LWN1X4H90
+[Before] Cookie-Name 18: _y
+[Before] Cookie-Name 19: localization
+[Before] Cookie-Name 20: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 20
+[After] Website-Cookies: [{'domain': 'sovrano.de', 'expiry': 1675971398, 'httpOnly': False, 'name': '_ks_scriptVersion', 'path': '/', 'secure': True, 'value': '308'}, {'domain': 'sovrano.de', 'expiry': 1707507398, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MzUzOTgsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vc292cmFuby5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQ0MzUzOTgsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vc292cmFuby5kZS8ifX0='}, {'domain': '.sovrano.de', 'expiry': 1652211412, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644435397027.525277798'}, {'domain': '.sovrano.de', 'expiry': 1644435456, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'sovrano.de', 'expiry': 1644521798, 'httpOnly': False, 'name': '_ks_scriptVersionChecked', 'path': '/', 'secure': True, 'value': 'true'}, {'domain': '.sovrano.de', 'expiry': 1652211396, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1354384928.1644435397'}, {'domain': '.sovrano.de', 'expiry': 1707507396, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1220772428.1644435397'}, {'domain': '.sovrano.de', 'expiry': 1645644996, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.sovrano.de', 'expiry': 1644437196, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A36%3A36.787Z'}, {'domain': '.sovrano.de', 'expiry': 1645644996, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.sovrano.de', 'expiry': 1644437197, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '39a8b36f-57b7-4e7d-a0c2-8c8684e60b43'}, {'domain': '.sovrano.de', 'expiry': 1644437196, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'sovrano.de', 'expiry': 1645644997, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.sovrano.de', 'expiry': 1644437197, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '39a8b36f-57b7-4e7d-a0c2-8c8684e60b43'}, {'domain': '.sovrano.de', 'expiry': 1675971397, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd07940c5-d827-4b19-a465-11ff675eae56'}, {'domain': '.sovrano.de', 'expiry': 1644521796, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.253218161.1644435397'}, {'domain': '.sovrano.de', 'expiry': 1707507396, 'httpOnly': False, 'name': '_ga_7LWN1X4H90', 'path': '/', 'secure': False, 'value': 'GS1.1.1644435396.1.0.1644435396.60'}, {'domain': '.sovrano.de', 'expiry': 1675971397, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd07940c5-d827-4b19-a465-11ff675eae56'}, {'domain': 'sovrano.de', 'expiry': 1645644997, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'sovrano.de', 'expiry': 1675971397, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _ks_scriptVersion
+[After] Cookie-Name 2: __kla_id
+[After] Cookie-Name 3: _fbp
+[After] Cookie-Name 4: _gat
+[After] Cookie-Name 5: _ks_scriptVersionChecked
+[After] Cookie-Name 6: _gcl_au
+[After] Cookie-Name 7: _ga
+[After] Cookie-Name 8: _landing_page
+[After] Cookie-Name 9: _shopify_sa_t
+[After] Cookie-Name 10: _orig_referrer
+[After] Cookie-Name 11: _shopify_s
+[After] Cookie-Name 12: _shopify_sa_p
+[After] Cookie-Name 13: cart_currency
+[After] Cookie-Name 14: _s
+[After] Cookie-Name 15: _shopify_y
+[After] Cookie-Name 16: _gid
+[After] Cookie-Name 17: _ga_7LWN1X4H90
+[After] Cookie-Name 18: _y
+[After] Cookie-Name 19: localization
+[After] Cookie-Name 20: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

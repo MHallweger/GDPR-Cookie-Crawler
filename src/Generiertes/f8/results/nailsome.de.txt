@@ -1,0 +1,70 @@
+Website 84: http://www.nailsome.de/ | Created: 10.02.2022 20:22:39 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 19
+[Before] Website-Cookies: [{'domain': '.nailsome.de', 'expiry': 1644522751, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'LVbN6TC4oISKHA-20220210192230'}, {'domain': '.nailsome.de', 'expiry': 1676056951, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'D4NxnbwAnxiZbw-20220210192230'}, {'domain': '.nailsome.de', 'expiry': 1652296950, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644520950413.529065448'}, {'domain': '.nailsome.de', 'expiry': 1644522750, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'nailsome.de', 'httpOnly': False, 'name': 'locale_bar_accepted', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.nailsome.de', 'expiry': 1644522750, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T19%3A22%3A30.164Z'}, {'domain': '.nailsome.de', 'expiry': 1644522754, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cf89e7bc-ffbb-4cab-9d11-5cceec097fb3'}, {'domain': '.nailsome.de', 'expiry': 1707592948, 'httpOnly': False, 'name': '_ga_7BWV7KGYXB', 'path': '/', 'secure': False, 'value': 'GS1.1.1644520948.1.0.1644520948.0'}, {'domain': '.nailsome.de', 'expiry': 1676056954, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c31747f0-f243-4f43-9edb-d8a6bdbecbd2'}, {'domain': '.nailsome.de', 'expiry': 1707592948, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.1.1526897235.1644520949'}, {'domain': '.nailsome.de', 'expiry': 1644522754, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cf89e7bc-ffbb-4cab-9d11-5cceec097fb3'}, {'domain': '.nailsome.de', 'httpOnly': False, 'name': 'soundest-views', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.nailsome.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220210192230-rQbkXtu4Yddo2ojivxTNlWJOSSHRHN5NkqSf1xTghVQ9f0168'}, {'domain': '.nailsome.de', 'expiry': 1676056954, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c31747f0-f243-4f43-9edb-d8a6bdbecbd2'}, {'domain': 'nailsome.de', 'expiry': 1645730554, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.nailsome.de', 'expiry': 1645730548, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.nailsome.de', 'expiry': 1645730548, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'nailsome.de', 'expiry': 1645730552, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'nailsome.de', 'expiry': 1676056954, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: omnisendSessionID
+[Before] Cookie-Name 2: omnisendAnonymousID
+[Before] Cookie-Name 3: _fbp
+[Before] Cookie-Name 4: _shopify_sa_p
+[Before] Cookie-Name 5: locale_bar_accepted
+[Before] Cookie-Name 6: _shopify_sa_t
+[Before] Cookie-Name 7: _shopify_s
+[Before] Cookie-Name 8: _ga_7BWV7KGYXB
+[Before] Cookie-Name 9: _shopify_y
+[Before] Cookie-Name 10: _ga
+[Before] Cookie-Name 11: _s
+[Before] Cookie-Name 12: soundest-views
+[Before] Cookie-Name 13: soundestID
+[Before] Cookie-Name 14: _y
+[Before] Cookie-Name 15: localization
+[Before] Cookie-Name 16: _landing_page
+[Before] Cookie-Name 17: _orig_referrer
+[Before] Cookie-Name 18: cart_currency
+[Before] Cookie-Name 19: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 19
+[After] Website-Cookies: [{'domain': '.nailsome.de', 'expiry': 1644522751, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'LVbN6TC4oISKHA-20220210192230'}, {'domain': '.nailsome.de', 'expiry': 1676056951, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'D4NxnbwAnxiZbw-20220210192230'}, {'domain': '.nailsome.de', 'expiry': 1652296950, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644520950413.529065448'}, {'domain': '.nailsome.de', 'expiry': 1644522750, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'nailsome.de', 'httpOnly': False, 'name': 'locale_bar_accepted', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.nailsome.de', 'expiry': 1644522750, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T19%3A22%3A30.164Z'}, {'domain': '.nailsome.de', 'expiry': 1644522754, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cf89e7bc-ffbb-4cab-9d11-5cceec097fb3'}, {'domain': '.nailsome.de', 'expiry': 1707592948, 'httpOnly': False, 'name': '_ga_7BWV7KGYXB', 'path': '/', 'secure': False, 'value': 'GS1.1.1644520948.1.0.1644520948.0'}, {'domain': '.nailsome.de', 'expiry': 1676056954, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c31747f0-f243-4f43-9edb-d8a6bdbecbd2'}, {'domain': '.nailsome.de', 'expiry': 1707592948, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.1.1526897235.1644520949'}, {'domain': '.nailsome.de', 'expiry': 1644522754, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cf89e7bc-ffbb-4cab-9d11-5cceec097fb3'}, {'domain': '.nailsome.de', 'httpOnly': False, 'name': 'soundest-views', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.nailsome.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220210192230-rQbkXtu4Yddo2ojivxTNlWJOSSHRHN5NkqSf1xTghVQ9f0168'}, {'domain': '.nailsome.de', 'expiry': 1676056954, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c31747f0-f243-4f43-9edb-d8a6bdbecbd2'}, {'domain': 'nailsome.de', 'expiry': 1645730554, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.nailsome.de', 'expiry': 1645730548, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.nailsome.de', 'expiry': 1645730548, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'nailsome.de', 'expiry': 1645730552, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'nailsome.de', 'expiry': 1676056954, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: omnisendSessionID
+[After] Cookie-Name 2: omnisendAnonymousID
+[After] Cookie-Name 3: _fbp
+[After] Cookie-Name 4: _shopify_sa_p
+[After] Cookie-Name 5: locale_bar_accepted
+[After] Cookie-Name 6: _shopify_sa_t
+[After] Cookie-Name 7: _shopify_s
+[After] Cookie-Name 8: _ga_7BWV7KGYXB
+[After] Cookie-Name 9: _shopify_y
+[After] Cookie-Name 10: _ga
+[After] Cookie-Name 11: _s
+[After] Cookie-Name 12: soundest-views
+[After] Cookie-Name 13: soundestID
+[After] Cookie-Name 14: _y
+[After] Cookie-Name 15: localization
+[After] Cookie-Name 16: _landing_page
+[After] Cookie-Name 17: _orig_referrer
+[After] Cookie-Name 18: cart_currency
+[After] Cookie-Name 19: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

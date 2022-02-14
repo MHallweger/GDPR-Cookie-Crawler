@@ -1,0 +1,104 @@
+Website 187: http://www.rackbuddy.de/ | Created: 09.02.2022 20:32:47 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 33
+[Before] Website-Cookies: [{'domain': 'www.rackbuddy.de', 'expiry': 1675971157, 'httpOnly': False, 'name': '_sn_n', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '{"a":{"i":"b93b23cb-e835-4502-9c9b-32593244ff55"}}'}, {'domain': 'www.rackbuddy.de', 'expiry': 1707507157, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MzUxNTcsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LnJhY2tidWRkeS5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQ0MzUxNTcsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LnJhY2tidWRkeS5kZS8ifX0='}, {'domain': 'www.rackbuddy.de', 'httpOnly': False, 'name': 'SNS', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.rackbuddy.de', 'expiry': 1644521556, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': 'ejntx3|1644435156442|1|1|j.clarity.ms/collect'}, {'domain': 'www.rackbuddy.de', 'httpOnly': False, 'name': 'GeoData', 'path': '/', 'secure': False, 'value': '%7B%22ip%22%3A%2291.184.168.63%22%2C%22type%22%3A%22ipv4%22%2C%22continent_code%22%3A%22EU%22%2C%22continent_name%22%3A%22Europe%22%2C%22country_code%22%3A%22DE%22%2C%22country_name%22%3A%22Germany%22%2C%22region_code%22%3A%22SL%22%2C%22region_name%22%3A%22Saarland%22%2C%22city%22%3A%22Saarbr%C3%BCcken%22%2C%22zip%22%3A%2266115%22%2C%22latitude%22%3A49.239898681640625%2C%22longitude%22%3A6.969600200653076%2C%22location%22%3A%7B%22geoname_id%22%3A2842647%2C%22capital%22%3A%22Berlin%22%2C%22languages%22%3A%5B%7B%22code%22%3A%22de%22%2C%22name%22%3A%22German%22%2C%22native%22%3A%22Deutsch%22%7D%5D%2C%22country_flag%22%3A%22https%3A%2F%2Fassets.ipstack.com%2Fflags%2Fde.svg%22%2C%22country_flag_emoji%22%3A%22%F0%9F%87%A9%F0%9F%87%AA%22%2C%22country_flag_emoji_unicode%22%3A%22U%2B1F1E9%20U%2B1F1EA%22%2C%22calling_code%22%3A%2249%22%2C%22is_eu%22%3Atrue%7D%2C%22time_zone%22%3A%7B%22id%22%3A%22Europe%2FBerlin%22%2C%22current_time%22%3A%222022-02-09T20%3A32%3A35%2B01%3A00%22%2C%22gmt_offset%22%3A3600%2C%22code%22%3A%22CET%22%2C%22is_daylight_saving%22%3Afalse%7D%2C%22currency%22%3A%7B%22code%22%3A%22EUR%22%2C%22name%22%3A%22Euro%22%2C%22plural%22%3A%22euros%22%2C%22symbol%22%3A%22%E2%82%AC%22%2C%22symbol_native%22%3A%22%E2%82%AC%22%7D%2C%22connection%22%3A%7B%22asn%22%3A9063%2C%22isp%22%3A%22Vse%20Net%20Gmbh%22%7D%7D'}, {'domain': '.rackbuddy.de', 'expiry': 1678131155, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '083b331089df11ecad77497f68f1189a'}, {'domain': 'www.rackbuddy.de', 'expiry': 1644438754, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.rackbuddy.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eb0a4b29-8a51-412a-b632-f685b5922d8e'}, {'domain': '.rackbuddy.de', 'expiry': 1644436957, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.rackbuddy.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.rackbuddy.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eb0a4b29-8a51-412a-b632-f685b5922d8e'}, {'domain': '.rackbuddy.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.rackbuddy.de', 'expiry': 1675971156, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': 'q6hgaf|1|eyu|0'}, {'domain': '.rackbuddy.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A32%3A34.545Z'}, {'domain': '.rackbuddy.de', 'expiry': 1644435214, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.rackbuddy.de', 'expiry': 1644521554, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.109842966.1644435154'}, {'domain': '.rackbuddy.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.rackbuddy.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.rackbuddy.de', 'expiry': 1644521555, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': '083b19c089df11ec81dbbd0f8550852a'}, {'domain': '.rackbuddy.de', 'expiry': 1707507154, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.50665014.1644435154'}, {'domain': '.rackbuddy.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '07635852-4469-4158-92c1-7a009fde3dd9'}, {'domain': '.rackbuddy.de', 'expiry': 1645644754, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.rackbuddy.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '07635852-4469-4158-92c1-7a009fde3dd9'}, {'domain': '.rackbuddy.de', 'expiry': 1675971154, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.rackbuddy.de', 'expiry': 1675971154, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22lim%22%3A%5B%22GDPR%22%5D%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%7D'}, {'domain': '.rackbuddy.de', 'expiry': 1652211154, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1204285476.1644435155'}, {'domain': 'www.rackbuddy.de', 'expiry': 1675971157, 'httpOnly': False, 'name': '_sn_a', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '{"a":{"s":1644435157798},"v":"263731e6-1372-4831-a3aa-cd2b184ba9cb"}'}, {'domain': '.rackbuddy.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.rackbuddy.de', 'expiry': 1675971157, 'httpOnly': False, 'name': '_sn_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '{"r":{"n":1},"cs":{"3d9e":{"pvs":1}}}'}, {'domain': '.rackbuddy.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A32%3A34.764Z'}, {'domain': 'www.rackbuddy.de', 'expiry': 1645644757, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.rackbuddy.de', 'expiry': 1645644757, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.rackbuddy.de', 'expiry': 1675971157, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _sn_n
+[Before] Cookie-Name 2: __kla_id
+[Before] Cookie-Name 3: SNS
+[Before] Cookie-Name 4: _clsk
+[Before] Cookie-Name 5: GeoData
+[Before] Cookie-Name 6: _uetvid
+[Before] Cookie-Name 7: shopify_pay_redirect
+[Before] Cookie-Name 8: _shopify_y
+[Before] Cookie-Name 9: _shopify_tm
+[Before] Cookie-Name 10: _shopify_evids
+[Before] Cookie-Name 11: _y
+[Before] Cookie-Name 12: _shopify_evids
+[Before] Cookie-Name 13: _clck
+[Before] Cookie-Name 14: _shopify_d
+[Before] Cookie-Name 15: _gat
+[Before] Cookie-Name 16: _gid
+[Before] Cookie-Name 17: _landing_page
+[Before] Cookie-Name 18: _shopify_sa_p
+[Before] Cookie-Name 19: _uetsid
+[Before] Cookie-Name 20: _ga
+[Before] Cookie-Name 21: _s
+[Before] Cookie-Name 22: _shopify_tw
+[Before] Cookie-Name 23: _shopify_s
+[Before] Cookie-Name 24: _shopify_m
+[Before] Cookie-Name 25: _tracking_consent
+[Before] Cookie-Name 26: _gcl_au
+[Before] Cookie-Name 27: _sn_a
+[Before] Cookie-Name 28: _orig_referrer
+[Before] Cookie-Name 29: _sn_m
+[Before] Cookie-Name 30: _shopify_sa_t
+[Before] Cookie-Name 31: cart_currency
+[Before] Cookie-Name 32: localization
+[Before] Cookie-Name 33: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 35
+[After] Website-Cookies: [{'domain': 'www.rackbuddy.de', 'expiry': 1675971157, 'httpOnly': False, 'name': '_sn_n', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '{"a":{"i":"b93b23cb-e835-4502-9c9b-32593244ff55"}}'}, {'domain': 'www.rackbuddy.de', 'expiry': 1675971173, 'httpOnly': False, 'name': 'CookieInformationConsent', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '%7B%22website_uuid%22%3A%220073327c-44c2-42cc-8f45-012f7d8b0881%22%2C%22timestamp%22%3A%222022-02-09T19%3A32%3A53.899Z%22%2C%22consent_url%22%3A%22https%3A%2F%2Fwww.rackbuddy.de%2F%22%2C%22consent_website%22%3A%22RackBuddy%22%2C%22consent_domain%22%3A%22www.rackbuddy.de%22%2C%22user_uid%22%3A%2242d8c377-0671-4cbd-af64-91e548c9bc56%22%2C%22consents_approved%22%3A%5B%22cookie_cat_necessary%22%2C%22cookie_cat_functional%22%2C%22cookie_cat_statistic%22%2C%22cookie_cat_marketing%22%2C%22cookie_cat_unclassified%22%5D%2C%22consents_denied%22%3A%5B%5D%2C%22user_agent%22%3A%22Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F98.0.4758.82%20Safari%2F537.36%22%7D'}, {'domain': 'www.rackbuddy.de', 'expiry': 1707507157, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MzUxNTcsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LnJhY2tidWRkeS5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQ0MzUxNTcsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LnJhY2tidWRkeS5kZS8ifX0='}, {'domain': 'www.rackbuddy.de', 'httpOnly': False, 'name': 'SNS', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.rackbuddy.de', 'expiry': 1644521556, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': 'ejntx3|1644435156442|1|1|j.clarity.ms/collect'}, {'domain': 'www.rackbuddy.de', 'httpOnly': False, 'name': 'GeoData', 'path': '/', 'secure': False, 'value': '%7B%22ip%22%3A%2291.184.168.63%22%2C%22type%22%3A%22ipv4%22%2C%22continent_code%22%3A%22EU%22%2C%22continent_name%22%3A%22Europe%22%2C%22country_code%22%3A%22DE%22%2C%22country_name%22%3A%22Germany%22%2C%22region_code%22%3A%22SL%22%2C%22region_name%22%3A%22Saarland%22%2C%22city%22%3A%22Saarbr%C3%BCcken%22%2C%22zip%22%3A%2266115%22%2C%22latitude%22%3A49.239898681640625%2C%22longitude%22%3A6.969600200653076%2C%22location%22%3A%7B%22geoname_id%22%3A2842647%2C%22capital%22%3A%22Berlin%22%2C%22languages%22%3A%5B%7B%22code%22%3A%22de%22%2C%22name%22%3A%22German%22%2C%22native%22%3A%22Deutsch%22%7D%5D%2C%22country_flag%22%3A%22https%3A%2F%2Fassets.ipstack.com%2Fflags%2Fde.svg%22%2C%22country_flag_emoji%22%3A%22%F0%9F%87%A9%F0%9F%87%AA%22%2C%22country_flag_emoji_unicode%22%3A%22U%2B1F1E9%20U%2B1F1EA%22%2C%22calling_code%22%3A%2249%22%2C%22is_eu%22%3Atrue%7D%2C%22time_zone%22%3A%7B%22id%22%3A%22Europe%2FBerlin%22%2C%22current_time%22%3A%222022-02-09T20%3A32%3A35%2B01%3A00%22%2C%22gmt_offset%22%3A3600%2C%22code%22%3A%22CET%22%2C%22is_daylight_saving%22%3Afalse%7D%2C%22currency%22%3A%7B%22code%22%3A%22EUR%22%2C%22name%22%3A%22Euro%22%2C%22plural%22%3A%22euros%22%2C%22symbol%22%3A%22%E2%82%AC%22%2C%22symbol_native%22%3A%22%E2%82%AC%22%7D%2C%22connection%22%3A%7B%22asn%22%3A9063%2C%22isp%22%3A%22Vse%20Net%20Gmbh%22%7D%7D'}, {'domain': '.rackbuddy.de', 'expiry': 1678131155, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '083b331089df11ecad77497f68f1189a'}, {'domain': 'www.rackbuddy.de', 'expiry': 1647027173, 'httpOnly': False, 'name': 'cookie-banner-action', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': 'www.rackbuddy.de', 'expiry': 1644438754, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.rackbuddy.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eb0a4b29-8a51-412a-b632-f685b5922d8e'}, {'domain': '.rackbuddy.de', 'expiry': 1644436957, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.rackbuddy.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.rackbuddy.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eb0a4b29-8a51-412a-b632-f685b5922d8e'}, {'domain': '.rackbuddy.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.rackbuddy.de', 'expiry': 1675971156, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': 'q6hgaf|1|eyu|0'}, {'domain': '.rackbuddy.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A32%3A34.545Z'}, {'domain': '.rackbuddy.de', 'expiry': 1644435214, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.rackbuddy.de', 'expiry': 1644521554, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.109842966.1644435154'}, {'domain': '.rackbuddy.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.rackbuddy.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.rackbuddy.de', 'expiry': 1644521555, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': '083b19c089df11ec81dbbd0f8550852a'}, {'domain': '.rackbuddy.de', 'expiry': 1707507154, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.50665014.1644435154'}, {'domain': '.rackbuddy.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '07635852-4469-4158-92c1-7a009fde3dd9'}, {'domain': '.rackbuddy.de', 'expiry': 1645644754, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.rackbuddy.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '07635852-4469-4158-92c1-7a009fde3dd9'}, {'domain': '.rackbuddy.de', 'expiry': 1675971154, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.rackbuddy.de', 'expiry': 1675971154, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22lim%22%3A%5B%22GDPR%22%5D%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%7D'}, {'domain': '.rackbuddy.de', 'expiry': 1652211154, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1204285476.1644435155'}, {'domain': 'www.rackbuddy.de', 'expiry': 1675971157, 'httpOnly': False, 'name': '_sn_a', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '{"a":{"s":1644435157798},"v":"263731e6-1372-4831-a3aa-cd2b184ba9cb"}'}, {'domain': '.rackbuddy.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.rackbuddy.de', 'expiry': 1675971157, 'httpOnly': False, 'name': '_sn_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '{"r":{"n":1},"cs":{"3d9e":{"pvs":1}}}'}, {'domain': '.rackbuddy.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A32%3A34.764Z'}, {'domain': 'www.rackbuddy.de', 'expiry': 1645644757, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.rackbuddy.de', 'expiry': 1645644757, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.rackbuddy.de', 'expiry': 1675971157, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _sn_n
+[After] Cookie-Name 2: CookieInformationConsent
+[After] Cookie-Name 3: __kla_id
+[After] Cookie-Name 4: SNS
+[After] Cookie-Name 5: _clsk
+[After] Cookie-Name 6: GeoData
+[After] Cookie-Name 7: _uetvid
+[After] Cookie-Name 8: cookie-banner-action
+[After] Cookie-Name 9: shopify_pay_redirect
+[After] Cookie-Name 10: _shopify_y
+[After] Cookie-Name 11: _shopify_tm
+[After] Cookie-Name 12: _shopify_evids
+[After] Cookie-Name 13: _y
+[After] Cookie-Name 14: _shopify_evids
+[After] Cookie-Name 15: _clck
+[After] Cookie-Name 16: _shopify_d
+[After] Cookie-Name 17: _gat
+[After] Cookie-Name 18: _gid
+[After] Cookie-Name 19: _landing_page
+[After] Cookie-Name 20: _shopify_sa_p
+[After] Cookie-Name 21: _uetsid
+[After] Cookie-Name 22: _ga
+[After] Cookie-Name 23: _s
+[After] Cookie-Name 24: _shopify_tw
+[After] Cookie-Name 25: _shopify_s
+[After] Cookie-Name 26: _shopify_m
+[After] Cookie-Name 27: _tracking_consent
+[After] Cookie-Name 28: _gcl_au
+[After] Cookie-Name 29: _sn_a
+[After] Cookie-Name 30: _orig_referrer
+[After] Cookie-Name 31: _sn_m
+[After] Cookie-Name 32: _shopify_sa_t
+[After] Cookie-Name 33: cart_currency
+[After] Cookie-Name 34: localization
+[After] Cookie-Name 35: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _clsk (Microsoft Clarity (User experience tool))
+[Used before] Cookie-Name: _clck (Microsoft Clarity (User experience tool))
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 2
+[Difference] Cookie-Name: 1: cookie-banner-action
+[Difference] Cookie-Name: 2: CookieInformationConsent
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

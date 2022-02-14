@@ -1,0 +1,71 @@
+Website 208: http://www.gravitydecke.de/ | Created: 09.02.2022 20:39:36 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 18
+[Before] Website-Cookies: [{'domain': 'gravitydecke.de', 'expiry': 1645645168, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': ''}, {'domain': 'gravitydecke.de', 'expiry': 1644439166, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.gravitydecke.de', 'expiry': 1652211566, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644435566205.697631920'}, {'domain': '.gravitydecke.de', 'expiry': 1644435626, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.gravitydecke.de', 'expiry': 1644521966, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1737075874.1644435566'}, {'domain': '.gravitydecke.de', 'expiry': 1707507566, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1119755596.1644435566'}, {'domain': '.gravitydecke.de', 'expiry': 1644437365, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.gravitydecke.de', 'expiry': 1644437368, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2f95571b-467d-4e51-a900-45f7b17429db'}, {'domain': '.gravitydecke.de', 'expiry': 1675971568, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f63d6479-3522-452d-9336-6957f691ae26'}, {'domain': '.gravitydecke.de', 'expiry': 1652211565, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1666452835.1644435566'}, {'domain': '.gravitydecke.de', 'expiry': 1675971568, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f63d6479-3522-452d-9336-6957f691ae26'}, {'domain': '.gravitydecke.de', 'expiry': 1645645165, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.gravitydecke.de', 'expiry': 1644437365, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A39%3A25.920Z'}, {'domain': 'gravitydecke.de', 'expiry': 1675971568, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.gravitydecke.de', 'expiry': 1645645165, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'gravitydecke.de', 'expiry': 1644437365, 'httpOnly': False, 'name': '_shopify_country', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'Germany'}, {'domain': '.gravitydecke.de', 'expiry': 1644437368, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2f95571b-467d-4e51-a900-45f7b17429db'}, {'domain': 'gravitydecke.de', 'expiry': 1645645168, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}]
+[Before] Cookie-Name 1: localization
+[Before] Cookie-Name 2: shopify_pay_redirect
+[Before] Cookie-Name 3: _fbp
+[Before] Cookie-Name 4: _gat
+[Before] Cookie-Name 5: _gid
+[Before] Cookie-Name 6: _ga
+[Before] Cookie-Name 7: _shopify_sa_p
+[Before] Cookie-Name 8: _s
+[Before] Cookie-Name 9: _shopify_y
+[Before] Cookie-Name 10: _gcl_au
+[Before] Cookie-Name 11: _y
+[Before] Cookie-Name 12: _landing_page
+[Before] Cookie-Name 13: _shopify_sa_t
+[Before] Cookie-Name 14: secure_customer_sig
+[Before] Cookie-Name 15: _orig_referrer
+[Before] Cookie-Name 16: _shopify_country
+[Before] Cookie-Name 17: _shopify_s
+[Before] Cookie-Name 18: cart_currency
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 18
+[After] Website-Cookies: [{'domain': 'gravitydecke.de', 'expiry': 1645645168, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': ''}, {'domain': 'gravitydecke.de', 'expiry': 1644439166, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.gravitydecke.de', 'expiry': 1652211566, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644435566205.697631920'}, {'domain': '.gravitydecke.de', 'expiry': 1644435626, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.gravitydecke.de', 'expiry': 1644521966, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1737075874.1644435566'}, {'domain': '.gravitydecke.de', 'expiry': 1707507566, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1119755596.1644435566'}, {'domain': '.gravitydecke.de', 'expiry': 1644437365, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.gravitydecke.de', 'expiry': 1644437368, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2f95571b-467d-4e51-a900-45f7b17429db'}, {'domain': '.gravitydecke.de', 'expiry': 1675971568, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f63d6479-3522-452d-9336-6957f691ae26'}, {'domain': '.gravitydecke.de', 'expiry': 1652211565, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1666452835.1644435566'}, {'domain': '.gravitydecke.de', 'expiry': 1675971568, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f63d6479-3522-452d-9336-6957f691ae26'}, {'domain': '.gravitydecke.de', 'expiry': 1645645165, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.gravitydecke.de', 'expiry': 1644437365, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A39%3A25.920Z'}, {'domain': 'gravitydecke.de', 'expiry': 1675971568, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.gravitydecke.de', 'expiry': 1645645165, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'gravitydecke.de', 'expiry': 1644437365, 'httpOnly': False, 'name': '_shopify_country', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'Germany'}, {'domain': '.gravitydecke.de', 'expiry': 1644437368, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2f95571b-467d-4e51-a900-45f7b17429db'}, {'domain': 'gravitydecke.de', 'expiry': 1645645168, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}]
+[After] Cookie-Name 1: localization
+[After] Cookie-Name 2: shopify_pay_redirect
+[After] Cookie-Name 3: _fbp
+[After] Cookie-Name 4: _gat
+[After] Cookie-Name 5: _gid
+[After] Cookie-Name 6: _ga
+[After] Cookie-Name 7: _shopify_sa_p
+[After] Cookie-Name 8: _s
+[After] Cookie-Name 9: _shopify_y
+[After] Cookie-Name 10: _gcl_au
+[After] Cookie-Name 11: _y
+[After] Cookie-Name 12: _landing_page
+[After] Cookie-Name 13: _shopify_sa_t
+[After] Cookie-Name 14: secure_customer_sig
+[After] Cookie-Name 15: _orig_referrer
+[After] Cookie-Name 16: _shopify_country
+[After] Cookie-Name 17: _shopify_s
+[After] Cookie-Name 18: cart_currency
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

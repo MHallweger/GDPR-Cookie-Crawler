@@ -1,0 +1,103 @@
+Website 282: http://www.locafox.de/ | Created: 09.02.2022 18:32:51 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 7
+[Before] Website-Cookies: [{'domain': '.locafox.de', 'expiry': 1644429760, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.locafox.de', 'expiry': 1675963960, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%7D'}, {'domain': '.locafox.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.locafox.de', 'expiry': 1675963960, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.locafox.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.locafox.de', 'expiry': 1645637560, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'locafox.de', 'expiry': 1675963960, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _shopify_tm
+[Before] Cookie-Name 2: _tracking_consent
+[Before] Cookie-Name 3: _landing_page
+[Before] Cookie-Name 4: _shopify_m
+[Before] Cookie-Name 5: _orig_referrer
+[Before] Cookie-Name 6: _shopify_tw
+[Before] Cookie-Name 7: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 41
+[After] Website-Cookies: [{'domain': '.locafox.de', 'httpOnly': False, 'name': '__hssrc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'locafox.de', 'expiry': 1647019977, 'httpOnly': False, 'name': 'gclid', 'path': '/', 'secure': False, 'value': 'undefined'}, {'domain': '.locafox.de', 'expiry': 1644429777, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0abe48e4-04c5-484e-8c3a-5248691205e2'}, {'domain': '.locafox.de', 'expiry': 1675963977, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'dc794a59-116e-4b8d-8a01-b67f643d8aca'}, {'domain': '.locafox.de', 'expiry': 1644429777, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0abe48e4-04c5-484e-8c3a-5248691205e2'}, {'domain': '.locafox.de', 'expiry': 1675963977, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'dc794a59-116e-4b8d-8a01-b67f643d8aca'}, {'domain': 'locafox.de', 'expiry': 1645637577, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '62161b683e127fd665c7d49fdc005362'}, {'domain': '.locafox.de', 'expiry': 1652203977, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644427977261.1798366958'}, {'domain': '.locafox.de', 'expiry': 1678123977, 'httpOnly': False, 'name': 'hubspotutk', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ad599afd6b674706e009fd86f9c87134'}, {'domain': 'locafox.de', 'expiry': 1645032776, 'httpOnly': False, 'name': 'utm_medium', 'path': '/', 'secure': False, 'value': 'referral'}, {'domain': '.locafox.de', 'expiry': 1652203976, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.291874671.1644427977'}, {'domain': 'locafox.de', 'expiry': 1647019976, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0NDI3OTc2OTAyLCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjowfX0='}, {'domain': 'locafox.de', 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.locafox.de', 'expiry': 1678123977, 'httpOnly': False, 'name': '__hstc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '28788259.ad599afd6b674706e009fd86f9c87134.1644427977952.1644427977952.1644427977952.1'}, {'domain': '.locafox.de', 'expiry': 1675963977, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': 'locafox.de', 'httpOnly': False, 'name': '_hjSession_2706086', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjRmODI2OGIyLWQ3N2UtNGJkMi04YzhkLTk1MDRkMTdjMTM3ZSIsImNyZWF0ZWQiOjE2NDQ0Mjc5NjA2NjMsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': '.locafox.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'locafox.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.locafox.de', 'expiry': 1644429777, 'httpOnly': False, 'name': '__hssc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '28788259.1.1644427977952'}, {'domain': 'locafox.de', 'httpOnly': False, 'name': '_hjSessionUser_2706086', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjYwOWY1NGUzLWExN2UtNWU4Ni1hZTUxLTVkYjJmYWRlZDdjYiIsImNyZWF0ZWQiOjE2NDQ0Mjc5NjA2NTUsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': 'locafox.de', 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.locafox.de', 'expiry': 1675963977, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22con%22%3A%7B%22GDPR%22%3A%221%22%7D%2C%22v%22%3A%222.0%22%7D'}, {'domain': 'locafox.de', 'expiry': 1645032776, 'httpOnly': False, 'name': 'utm_source', 'path': '/', 'secure': False, 'value': 'locafox.de'}, {'domain': 'locafox.de', 'expiry': 1644429776, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0abe48e4-04c5-484e-8c3a-5248691205e2'}, {'domain': 'locafox.de', 'httpOnly': False, 'name': '__pf_user', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4b6d5b25-21e9-4a63-a8d9-6da6a777d2ab'}, {'domain': 'locafox.de', 'httpOnly': False, 'name': '__pf_session', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '624b6d5b-2521-495a-a3a8-d96da6a777d2'}, {'domain': '.locafox.de', 'expiry': 1707499977, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.1.1394996549.1644427977'}, {'domain': 'locafox.de', 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'locafox.de', 'expiry': 1644429776, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A32%3A40.508Z'}, {'domain': '.locafox.de', 'expiry': 1644429777, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A32%3A40.508Z'}, {'domain': 'locafox.de', 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'locafox.de', 'expiry': 1675963976, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'dc794a59-116e-4b8d-8a01-b67f643d8aca'}, {'domain': '.locafox.de', 'expiry': 1644429777, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'locafox.de', 'expiry': 1645637576, 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A32%3A40.375Z'}, {'domain': 'locafox.de', 'expiry': 1675963977, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.locafox.de', 'expiry': 1645637560, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.locafox.de', 'expiry': 1707499977, 'httpOnly': False, 'name': '_ga_E2J8WLCN9B', 'path': '/', 'secure': False, 'value': 'GS1.1.1644427976.1.0.1644427976.0'}, {'domain': '.locafox.de', 'expiry': 1645637577, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'locafox.de', 'expiry': 1675963976, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'dc794a59-116e-4b8d-8a01-b67f643d8aca'}, {'domain': 'locafox.de', 'expiry': 1644429776, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0abe48e4-04c5-484e-8c3a-5248691205e2'}, {'domain': '.locafox.de', 'expiry': 1645637577, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}]
+[After] Cookie-Name 1: __hssrc
+[After] Cookie-Name 2: gclid
+[After] Cookie-Name 3: _shopify_s
+[After] Cookie-Name 4: _shopify_y
+[After] Cookie-Name 5: _s
+[After] Cookie-Name 6: _y
+[After] Cookie-Name 7: cart_sig
+[After] Cookie-Name 8: _fbp
+[After] Cookie-Name 9: hubspotutk
+[After] Cookie-Name 10: utm_medium
+[After] Cookie-Name 11: _gcl_au
+[After] Cookie-Name 12: _bc_c_set
+[After] Cookie-Name 13: _hjFirstSeen
+[After] Cookie-Name 14: __hstc
+[After] Cookie-Name 15: _shopify_m
+[After] Cookie-Name 16: _hjSession_2706086
+[After] Cookie-Name 17: _shopify_evids
+[After] Cookie-Name 18: _shopify_evids
+[After] Cookie-Name 19: __hssc
+[After] Cookie-Name 20: _hjSessionUser_2706086
+[After] Cookie-Name 21: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 22: _tracking_consent
+[After] Cookie-Name 23: utm_source
+[After] Cookie-Name 24: _shopify_s
+[After] Cookie-Name 25: __pf_user
+[After] Cookie-Name 26: __pf_session
+[After] Cookie-Name 27: _ga
+[After] Cookie-Name 28: _hjIncludedInSessionSample
+[After] Cookie-Name 29: _shopify_sa_t
+[After] Cookie-Name 30: _shopify_sa_t
+[After] Cookie-Name 31: _hjIncludedInPageviewSample
+[After] Cookie-Name 32: _y
+[After] Cookie-Name 33: _shopify_tm
+[After] Cookie-Name 34: _shopify_d
+[After] Cookie-Name 35: secure_customer_sig
+[After] Cookie-Name 36: _shopify_tw
+[After] Cookie-Name 37: _ga_E2J8WLCN9B
+[After] Cookie-Name 38: _orig_referrer
+[After] Cookie-Name 39: _shopify_y
+[After] Cookie-Name 40: _s
+[After] Cookie-Name 41: _landing_page
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 28
+[Difference] Cookie-Name: 1: __hstc
+[Difference] Cookie-Name: 2: _shopify_evids
+[Difference] Cookie-Name: 3: __pf_user
+[Difference] Cookie-Name: 4: gclid
+[Difference] Cookie-Name: 5: __hssrc
+[Difference] Cookie-Name: 6: _hjSession_2706086
+[Difference] Cookie-Name: 7: _shopify_y
+[Difference] Cookie-Name: 8: _hjFirstSeen
+[Difference] Cookie-Name: 9: _hjIncludedInPageviewSample
+[Difference] Cookie-Name: 10: hubspotutk
+[Difference] Cookie-Name: 11: _hjSessionUser_2706086
+[Difference] Cookie-Name: 12: _ga
+[Difference] Cookie-Name: 13: _y
+[Difference] Cookie-Name: 14: _shopify_sa_t
+[Difference] Cookie-Name: 15: _hjAbsoluteSessionInProgress
+[Difference] Cookie-Name: 16: _hjIncludedInSessionSample
+[Difference] Cookie-Name: 17: _bc_c_set
+[Difference] Cookie-Name: 18: cart_sig
+[Difference] Cookie-Name: 19: _gcl_au
+[Difference] Cookie-Name: 20: utm_medium
+[Difference] Cookie-Name: 21: _fbp
+[Difference] Cookie-Name: 22: _shopify_d
+[Difference] Cookie-Name: 23: _s
+[Difference] Cookie-Name: 24: _shopify_s
+[Difference] Cookie-Name: 25: __hssc
+[Difference] Cookie-Name: 26: _ga_E2J8WLCN9B
+[Difference] Cookie-Name: 27: __pf_session
+[Difference] Cookie-Name: 28: utm_source
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

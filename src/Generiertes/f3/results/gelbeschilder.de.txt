@@ -1,0 +1,82 @@
+Website 278: http://www.gelbeschilder.de/ | Created: 09.02.2022 15:05:38 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 24
+[Before] Website-Cookies: [{'domain': '.gelbeschilder.de', 'httpOnly': False, 'name': 'mf_25f0050f-d15c-41b5-9397-d92be7199b53', 'path': '/', 'sameSite': 'Strict', 'secure': False, 'value': '2ab308c14104ce773591f41550998e66|020928903f1ab23391c301236a52e1e7bab5e71b.47.1644415528792|1644415528790||1|||0|17.59|8.38174'}, {'domain': '.gelbeschilder.de', 'expiry': 1675951530, 'httpOnly': False, 'name': '_privy_63A5B1382DE3502DA369D254', 'path': '/', 'secure': False, 'value': '%7B%22uuid%22%3A%22fd2fd9f6-5c4a-4253-a789-5052fdd2ad61%22%2C%22variations%22%3A%7B%7D%2C%22country_code%22%3A%22DE%22%2C%22region_code%22%3A%22DE_%22%2C%22postal_code%22%3A%22%22%7D'}, {'domain': 'www.gelbeschilder.de', 'expiry': 1645625130, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.gelbeschilder.de', 'expiry': 1644416970, 'httpOnly': False, 'name': 'vntrust_visit', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.gelbeschilder.de', 'expiry': 1644417328, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T14%3A05%3A28.797Z'}, {'domain': '.gelbeschilder.de', 'expiry': 1644417328, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.gelbeschilder.de', 'httpOnly': False, 'name': 'fsb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.gelbeschilder.de', 'expiry': 1652191529, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644415529009.742071654'}, {'domain': '.gelbeschilder.de', 'expiry': 1644415588, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.gelbeschilder.de', 'expiry': 1644501928, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1037462520.1644415529'}, {'domain': '.gelbeschilder.de', 'expiry': 1707487528, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.29243326.1644415529'}, {'domain': 'www.gelbeschilder.de', 'httpOnly': False, 'name': 'qab_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.gelbeschilder.de', 'expiry': 1644417330, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '901797e4-ce56-4ec9-818e-cb65b0f7350f'}, {'domain': '.gelbeschilder.de', 'expiry': 1645625127, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.gelbeschilder.de', 'expiry': 1675951528, 'httpOnly': False, 'name': 'ba-pr-id', 'path': '/', 'secure': False, 'value': ''}, {'domain': '.gelbeschilder.de', 'expiry': 1652191539, 'httpOnly': False, 'name': 'mf_user', 'path': '/', 'sameSite': 'Strict', 'secure': False, 'value': '2e5477f23d152dfd90237229f97bc2f7|'}, {'domain': '.gelbeschilder.de', 'expiry': 1675951530, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5ee7f1ab-a5cc-4fa9-9231-c76fe0e61ae3'}, {'domain': '.gelbeschilder.de', 'expiry': 1652191528, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.423592269.1644415529'}, {'domain': '.gelbeschilder.de', 'expiry': 1644417330, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '901797e4-ce56-4ec9-818e-cb65b0f7350f'}, {'domain': '.gelbeschilder.de', 'expiry': 1675951530, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5ee7f1ab-a5cc-4fa9-9231-c76fe0e61ae3'}, {'domain': 'www.gelbeschilder.de', 'expiry': 1675951530, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'www.gelbeschilder.de', 'expiry': 1645625130, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.gelbeschilder.de', 'expiry': 1645625127, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.gelbeschilder.de', 'expiry': 1644419128, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}]
+[Before] Cookie-Name 1: mf_25f0050f-d15c-41b5-9397-d92be7199b53
+[Before] Cookie-Name 2: _privy_63A5B1382DE3502DA369D254
+[Before] Cookie-Name 3: cart_currency
+[Before] Cookie-Name 4: vntrust_visit
+[Before] Cookie-Name 5: _shopify_sa_t
+[Before] Cookie-Name 6: _shopify_sa_p
+[Before] Cookie-Name 7: fsb_previous_pathname
+[Before] Cookie-Name 8: _fbp
+[Before] Cookie-Name 9: _gat
+[Before] Cookie-Name 10: _gid
+[Before] Cookie-Name 11: _ga
+[Before] Cookie-Name 12: qab_previous_pathname
+[Before] Cookie-Name 13: _s
+[Before] Cookie-Name 14: _orig_referrer
+[Before] Cookie-Name 15: ba-pr-id
+[Before] Cookie-Name 16: mf_user
+[Before] Cookie-Name 17: _y
+[Before] Cookie-Name 18: _gcl_au
+[Before] Cookie-Name 19: _shopify_s
+[Before] Cookie-Name 20: _shopify_y
+[Before] Cookie-Name 21: secure_customer_sig
+[Before] Cookie-Name 22: localization
+[Before] Cookie-Name 23: _landing_page
+[Before] Cookie-Name 24: shopify_pay_redirect
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 25
+[After] Website-Cookies: [{'domain': '.gelbeschilder.de', 'httpOnly': False, 'name': 'mf_25f0050f-d15c-41b5-9397-d92be7199b53', 'path': '/', 'sameSite': 'Strict', 'secure': False, 'value': '2ab308c14104ce773591f41550998e66|020928903f1ab23391c301236a52e1e7bab5e71b.47.1644415528792|1644415544300||1|||0|17.59|8.38174'}, {'domain': 'www.gelbeschilder.de', 'expiry': 1675951543, 'httpOnly': False, 'name': 'cookieconsent_status', 'path': '/', 'secure': False, 'value': 'dismiss'}, {'domain': '.gelbeschilder.de', 'expiry': 1675951530, 'httpOnly': False, 'name': '_privy_63A5B1382DE3502DA369D254', 'path': '/', 'secure': False, 'value': '%7B%22uuid%22%3A%22fd2fd9f6-5c4a-4253-a789-5052fdd2ad61%22%2C%22variations%22%3A%7B%7D%2C%22country_code%22%3A%22DE%22%2C%22region_code%22%3A%22DE_%22%2C%22postal_code%22%3A%22%22%7D'}, {'domain': 'www.gelbeschilder.de', 'expiry': 1645625130, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.gelbeschilder.de', 'expiry': 1644416970, 'httpOnly': False, 'name': 'vntrust_visit', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.gelbeschilder.de', 'expiry': 1644417328, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T14%3A05%3A28.797Z'}, {'domain': '.gelbeschilder.de', 'expiry': 1644417328, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.gelbeschilder.de', 'httpOnly': False, 'name': 'fsb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.gelbeschilder.de', 'expiry': 1652191543, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644415529009.742071654'}, {'domain': '.gelbeschilder.de', 'expiry': 1644415588, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.gelbeschilder.de', 'expiry': 1644501928, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1037462520.1644415529'}, {'domain': '.gelbeschilder.de', 'expiry': 1707487528, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.29243326.1644415529'}, {'domain': 'www.gelbeschilder.de', 'httpOnly': False, 'name': 'qab_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.gelbeschilder.de', 'expiry': 1644417330, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '901797e4-ce56-4ec9-818e-cb65b0f7350f'}, {'domain': '.gelbeschilder.de', 'expiry': 1645625127, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.gelbeschilder.de', 'expiry': 1675951528, 'httpOnly': False, 'name': 'ba-pr-id', 'path': '/', 'secure': False, 'value': ''}, {'domain': '.gelbeschilder.de', 'expiry': 1652191544, 'httpOnly': False, 'name': 'mf_user', 'path': '/', 'sameSite': 'Strict', 'secure': False, 'value': '2e5477f23d152dfd90237229f97bc2f7|'}, {'domain': '.gelbeschilder.de', 'expiry': 1675951530, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5ee7f1ab-a5cc-4fa9-9231-c76fe0e61ae3'}, {'domain': '.gelbeschilder.de', 'expiry': 1652191528, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.423592269.1644415529'}, {'domain': '.gelbeschilder.de', 'expiry': 1644417330, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '901797e4-ce56-4ec9-818e-cb65b0f7350f'}, {'domain': '.gelbeschilder.de', 'expiry': 1675951530, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5ee7f1ab-a5cc-4fa9-9231-c76fe0e61ae3'}, {'domain': 'www.gelbeschilder.de', 'expiry': 1675951530, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'www.gelbeschilder.de', 'expiry': 1645625130, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.gelbeschilder.de', 'expiry': 1645625127, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.gelbeschilder.de', 'expiry': 1644419128, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}]
+[After] Cookie-Name 1: mf_25f0050f-d15c-41b5-9397-d92be7199b53
+[After] Cookie-Name 2: cookieconsent_status
+[After] Cookie-Name 3: _privy_63A5B1382DE3502DA369D254
+[After] Cookie-Name 4: cart_currency
+[After] Cookie-Name 5: vntrust_visit
+[After] Cookie-Name 6: _shopify_sa_t
+[After] Cookie-Name 7: _shopify_sa_p
+[After] Cookie-Name 8: fsb_previous_pathname
+[After] Cookie-Name 9: _fbp
+[After] Cookie-Name 10: _gat
+[After] Cookie-Name 11: _gid
+[After] Cookie-Name 12: _ga
+[After] Cookie-Name 13: qab_previous_pathname
+[After] Cookie-Name 14: _s
+[After] Cookie-Name 15: _orig_referrer
+[After] Cookie-Name 16: ba-pr-id
+[After] Cookie-Name 17: mf_user
+[After] Cookie-Name 18: _y
+[After] Cookie-Name 19: _gcl_au
+[After] Cookie-Name 20: _shopify_s
+[After] Cookie-Name 21: _shopify_y
+[After] Cookie-Name 22: secure_customer_sig
+[After] Cookie-Name 23: localization
+[After] Cookie-Name 24: _landing_page
+[After] Cookie-Name 25: shopify_pay_redirect
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: cookieconsent_status
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

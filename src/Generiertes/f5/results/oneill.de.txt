@@ -1,0 +1,111 @@
+Website 340: http://www.oneill.de/ | Created: 09.02.2022 21:20:51 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 29
+[Before] Website-Cookies: [{'domain': '.oneill.com', 'expiry': 1678602042, 'httpOnly': False, 'name': 'cto_bundle', 'path': '/', 'secure': False, 'value': 'g0Rew19hZDN3eFJTJTJGOGlsaWRTaTElMkZPSG9MT3lySVVTaEElMkJkJTJCbVEwdFIxOEoybVhKNHg1Y1d0d1ZMcGtuUlBoMElaMzVXb2VFUm16RmdJQlZWYmY3aEl1NUljMFlvdUdNZEdBNFlnVmRaVG9OOEt3bmFTajk4dE9nejRMdk12bkVCeXVZM000UmF3TmhJclcybmI5bUFudHJxZyUzRCUzRA'}, {'domain': 'de.oneill.com', 'expiry': 1770582042, 'httpOnly': False, 'name': 'nostojs', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'autoload'}, {'domain': 'de.oneill.com', 'expiry': 1659990042, 'httpOnly': False, 'name': 'primeai_16', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': 'de.oneill.com', 'expiry': 1644439842, 'httpOnly': False, 'name': 'gtm_ip', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'de.oneill.com', 'expiry': 1644438161, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'de.oneill.com', 'expiry': 1644438161, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.oneill.com', 'expiry': 1644439841, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.oneill.com', 'expiry': 1644439841, 'httpOnly': False, 'name': '_hjSession_467621', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjRkYjMwNTNmLWU4NzAtNGIwNi1hM2M3LTQzZjBlNTY2MzQyYiIsImNyZWF0ZWQiOjE2NDQ0MzgwNDEwNTcsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': '.oneill.com', 'expiry': 1707510042, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.893517020.1644438041'}, {'domain': '.oneill.com', 'expiry': 1675974041, 'httpOnly': False, 'name': '_hjSessionUser_467621', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjYxMDZhNTI1LWZkM2MtNWFlZS04NjU0LTU0MjVkN2NhZTIwNSIsImNyZWF0ZWQiOjE2NDQ0MzgwNDEwMDIsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.oneill.com', 'expiry': 1644439840, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.oneill.com', 'expiry': 1644524442, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1586235446.1644438041'}, {'domain': '.oneill.com', 'expiry': 1675974040, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '22baa652-deda-401f-902b-2a8a2f7103f8'}, {'domain': '.oneill.com', 'expiry': 1644439840, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T20%3A20%3A40.955Z'}, {'domain': 'de.oneill.com', 'expiry': 1675974040, 'httpOnly': False, 'name': 'cookieconsent_seen', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.oneill.com', 'expiry': 1707510040, 'httpOnly': False, 'name': '_ga_M4NYMGD5X9', 'path': '/', 'secure': False, 'value': 'GS1.1.1644438040.1.0.1644438040.0'}, {'domain': 'de.oneill.com', 'expiry': 1707510040, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MzgwNDEsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vZGUub25laWxsLmNvbS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQ0MzgwNDEsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vZGUub25laWxsLmNvbS8ifX0='}, {'domain': 'de.oneill.com', 'expiry': 1675974040, 'httpOnly': False, 'name': 'cookieconsent_level', 'path': '/', 'secure': False, 'value': '20'}, {'domain': '.oneill.com', 'expiry': 1644439840, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7af205e5-57d5-445f-9225-c92e47aecede'}, {'domain': '.oneill.com', 'expiry': 1652214040, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1405152293.1644438041'}, {'domain': '.oneill.com', 'expiry': 1644439841, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.de.oneill.com', 'httpOnly': False, 'name': 'hotjarId', 'path': '/', 'secure': False, 'value': '6106a525'}, {'domain': '.oneill.com', 'expiry': 1675974040, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '22baa652-deda-401f-902b-2a8a2f7103f8'}, {'domain': '.oneill.com', 'expiry': 1644439840, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7af205e5-57d5-445f-9225-c92e47aecede'}, {'domain': 'de.oneill.com', 'expiry': 1770582042, 'httpOnly': False, 'name': '2c.cId', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6204221ab3d1813a27f96c61'}, {'domain': 'de.oneill.com', 'expiry': 1675974040, 'httpOnly': False, 'name': 'cookieconsent_variant', 'path': '/', 'secure': False, 'value': 'weu__a1000'}, {'domain': 'de.oneill.com', 'expiry': 1675974040, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.oneill.com', 'expiry': 1645647639, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.oneill.com', 'expiry': 1645647639, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[Before] Cookie-Name 1: cto_bundle
+[Before] Cookie-Name 2: nostojs
+[Before] Cookie-Name 3: primeai_16
+[Before] Cookie-Name 4: gtm_ip
+[Before] Cookie-Name 5: _hjIncludedInPageviewSample
+[Before] Cookie-Name 6: _hjIncludedInSessionSample
+[Before] Cookie-Name 7: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 8: _hjSession_467621
+[Before] Cookie-Name 9: _ga
+[Before] Cookie-Name 10: _hjSessionUser_467621
+[Before] Cookie-Name 11: _shopify_sa_p
+[Before] Cookie-Name 12: _gid
+[Before] Cookie-Name 13: _y
+[Before] Cookie-Name 14: _shopify_sa_t
+[Before] Cookie-Name 15: cookieconsent_seen
+[Before] Cookie-Name 16: _ga_M4NYMGD5X9
+[Before] Cookie-Name 17: __kla_id
+[Before] Cookie-Name 18: cookieconsent_level
+[Before] Cookie-Name 19: _shopify_s
+[Before] Cookie-Name 20: _gcl_au
+[Before] Cookie-Name 21: _hjFirstSeen
+[Before] Cookie-Name 22: hotjarId
+[Before] Cookie-Name 23: _shopify_y
+[Before] Cookie-Name 24: _s
+[Before] Cookie-Name 25: 2c.cId
+[Before] Cookie-Name 26: cookieconsent_variant
+[Before] Cookie-Name 27: secure_customer_sig
+[Before] Cookie-Name 28: _landing_page
+[Before] Cookie-Name 29: _orig_referrer
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 35
+[After] Website-Cookies: [{'domain': '.oneill.com', 'expiry': 1644524458, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': 'mb013r|1644438058968|1|1|d.clarity.ms/collect'}, {'domain': '.oneill.com', 'expiry': 1652214057, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644438057985.1447244263'}, {'domain': '.oneill.com', 'expiry': 1644524457, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': 'ca78d4a089e511ecbb9711a0f39cedd7'}, {'domain': 'de.oneill.com', 'expiry': 1675974057, 'httpOnly': False, 'name': 'CookieConsentResponseEvent', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'de.oneill.com', 'expiry': 1675974057, 'httpOnly': False, 'name': 'cookieconsent_level', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'de.oneill.com', 'expiry': 1675974057, 'httpOnly': False, 'name': 'cookieconsent_seen', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'de.oneill.com', 'expiry': 1675974057, 'httpOnly': False, 'name': 'CookieConsent', 'path': '/', 'secure': True, 'value': '{stamp:%27eW0BA0Waxh8o0DS2zwqgs8uO0MbSzau0yML8q810bSZVzMfUqBZUIA==%27%2Cnecessary:true%2Cpreferences:true%2Cstatistics:true%2Cmarketing:true%2Cver:1%2Cutc:1644438057917%2Cregion:%27de%27}'}, {'domain': 'de.oneill.com', 'expiry': 1770582042, 'httpOnly': False, 'name': 'nostojs', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'autoload'}, {'domain': 'de.oneill.com', 'expiry': 1644438161, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.oneill.com', 'expiry': 1678602042, 'httpOnly': False, 'name': 'cto_bundle', 'path': '/', 'secure': False, 'value': 'g0Rew19hZDN3eFJTJTJGOGlsaWRTaTElMkZPSG9MT3lySVVTaEElMkJkJTJCbVEwdFIxOEoybVhKNHg1Y1d0d1ZMcGtuUlBoMElaMzVXb2VFUm16RmdJQlZWYmY3aEl1NUljMFlvdUdNZEdBNFlnVmRaVG9OOEt3bmFTajk4dE9nejRMdk12bkVCeXVZM000UmF3TmhJclcybmI5bUFudHJxZyUzRCUzRA'}, {'domain': 'de.oneill.com', 'expiry': 1644438161, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.oneill.com', 'expiry': 1644439841, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.oneill.com', 'expiry': 1644439841, 'httpOnly': False, 'name': '_hjSession_467621', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjRkYjMwNTNmLWU4NzAtNGIwNi1hM2M3LTQzZjBlNTY2MzQyYiIsImNyZWF0ZWQiOjE2NDQ0MzgwNDEwNTcsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': '.oneill.com', 'expiry': 1707510057, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.893517020.1644438041'}, {'domain': '.oneill.com', 'expiry': 1675974041, 'httpOnly': False, 'name': '_hjSessionUser_467621', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjYxMDZhNTI1LWZkM2MtNWFlZS04NjU0LTU0MjVkN2NhZTIwNSIsImNyZWF0ZWQiOjE2NDQ0MzgwNDEwMDIsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.oneill.com', 'expiry': 1644438117, 'httpOnly': False, 'name': '_dc_gtm_UA-25449815-2', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.oneill.com', 'expiry': 1644439840, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.oneill.com', 'expiry': 1675974058, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': 'y8t3f3|1|eyu|0'}, {'domain': '.oneill.com', 'expiry': 1644524457, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1586235446.1644438041'}, {'domain': '.oneill.com', 'expiry': 1675974040, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '22baa652-deda-401f-902b-2a8a2f7103f8'}, {'domain': '.oneill.com', 'expiry': 1644439840, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T20%3A20%3A40.955Z'}, {'domain': 'de.oneill.com', 'expiry': 1675974057, 'httpOnly': False, 'name': 'cookieconsent_variant', 'path': '/', 'secure': False, 'value': 'weu__a1000'}, {'domain': 'de.oneill.com', 'expiry': 1770582042, 'httpOnly': False, 'name': '2c.cId', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6204221ab3d1813a27f96c61'}, {'domain': '.oneill.com', 'expiry': 1707510040, 'httpOnly': False, 'name': '_ga_M4NYMGD5X9', 'path': '/', 'secure': False, 'value': 'GS1.1.1644438040.1.0.1644438040.0'}, {'domain': 'de.oneill.com', 'expiry': 1707510040, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MzgwNDEsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vZGUub25laWxsLmNvbS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQ0MzgwNDEsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vZGUub25laWxsLmNvbS8ifX0='}, {'domain': '.oneill.com', 'expiry': 1644439840, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7af205e5-57d5-445f-9225-c92e47aecede'}, {'domain': '.oneill.com', 'expiry': 1652214040, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1405152293.1644438041'}, {'domain': '.oneill.com', 'expiry': 1644439841, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'de.oneill.com', 'expiry': 1675974057, 'httpOnly': False, 'name': 'cookieconsent_system', 'path': '/', 'secure': False, 'value': 'CookieBot'}, {'domain': '.oneill.com', 'expiry': 1675974040, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '22baa652-deda-401f-902b-2a8a2f7103f8'}, {'domain': '.oneill.com', 'expiry': 1678134057, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': 'ca78c8e089e511ec9edc6fd3d98a7977'}, {'domain': '.oneill.com', 'expiry': 1644439840, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7af205e5-57d5-445f-9225-c92e47aecede'}, {'domain': 'de.oneill.com', 'expiry': 1675974040, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.oneill.com', 'expiry': 1645647639, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.oneill.com', 'expiry': 1645647639, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: _clsk
+[After] Cookie-Name 2: _fbp
+[After] Cookie-Name 3: _uetsid
+[After] Cookie-Name 4: CookieConsentResponseEvent
+[After] Cookie-Name 5: cookieconsent_level
+[After] Cookie-Name 6: cookieconsent_seen
+[After] Cookie-Name 7: CookieConsent
+[After] Cookie-Name 8: nostojs
+[After] Cookie-Name 9: _hjIncludedInPageviewSample
+[After] Cookie-Name 10: cto_bundle
+[After] Cookie-Name 11: _hjIncludedInSessionSample
+[After] Cookie-Name 12: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 13: _hjSession_467621
+[After] Cookie-Name 14: _ga
+[After] Cookie-Name 15: _hjSessionUser_467621
+[After] Cookie-Name 16: _dc_gtm_UA-25449815-2
+[After] Cookie-Name 17: _shopify_sa_p
+[After] Cookie-Name 18: _clck
+[After] Cookie-Name 19: _gid
+[After] Cookie-Name 20: _y
+[After] Cookie-Name 21: _shopify_sa_t
+[After] Cookie-Name 22: cookieconsent_variant
+[After] Cookie-Name 23: 2c.cId
+[After] Cookie-Name 24: _ga_M4NYMGD5X9
+[After] Cookie-Name 25: __kla_id
+[After] Cookie-Name 26: _shopify_s
+[After] Cookie-Name 27: _gcl_au
+[After] Cookie-Name 28: _hjFirstSeen
+[After] Cookie-Name 29: cookieconsent_system
+[After] Cookie-Name 30: _shopify_y
+[After] Cookie-Name 31: _uetvid
+[After] Cookie-Name 32: _s
+[After] Cookie-Name 33: secure_customer_sig
+[After] Cookie-Name 34: _landing_page
+[After] Cookie-Name 35: _orig_referrer
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _hjIncludedInPageviewSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjIncludedInSessionSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 12
+[Difference] Cookie-Name: 1: _dc_gtm_UA-25449815-2
+[Difference] Cookie-Name: 2: _uetvid
+[Difference] Cookie-Name: 3: primeai_16
+[Difference] Cookie-Name: 4: _clck
+[Difference] Cookie-Name: 5: _fbp
+[Difference] Cookie-Name: 6: CookieConsent
+[Difference] Cookie-Name: 7: cookieconsent_system
+[Difference] Cookie-Name: 8: _uetsid
+[Difference] Cookie-Name: 9: _clsk
+[Difference] Cookie-Name: 10: hotjarId
+[Difference] Cookie-Name: 11: CookieConsentResponseEvent
+[Difference] Cookie-Name: 12: gtm_ip
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

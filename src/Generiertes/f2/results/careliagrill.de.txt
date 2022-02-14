@@ -1,0 +1,79 @@
+Website 337: http://www.careliagrill.de/ | Created: 09.02.2022 12:27:30 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 22
+[Before] Website-Cookies: [{'domain': '.careliagrill.com', 'expiry': 1644407840, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T11%3A27%3A20.188Z'}, {'domain': '.careliagrill.com', 'expiry': 1652182040, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644406038590.926758004'}, {'domain': 'careliagrill.com', 'expiry': 1645615638, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e5b18de966278dd50407f740e0c8dc95'}, {'domain': 'careliagrill.com', 'expiry': 1645615638, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644406038'}, {'domain': 'careliagrill.com', 'expiry': 1675942041, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': ''}, {'domain': 'careliagrill.com', 'expiry': 1645615638, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd14ddf0ccfabb4120343dcfb519a9d71'}, {'domain': '.careliagrill.com', 'expiry': 1644406098, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.careliagrill.com', 'expiry': 1644492440, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.981089222.1644406038'}, {'domain': '.careliagrill.com', 'expiry': 1644407840, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '69120792-ff92-49ad-8f45-3f8a4004b055'}, {'domain': '.careliagrill.com', 'expiry': 1675942040, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '07f8beff-a042-4bdf-b2d4-7b91f4581667'}, {'domain': '.careliagrill.com', 'expiry': 1707478040, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.2028640066.1644406038'}, {'domain': '.careliagrill.com', 'expiry': 1644407840, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '69120792-ff92-49ad-8f45-3f8a4004b055'}, {'domain': '.careliagrill.com', 'expiry': 1659958043, 'httpOnly': False, 'name': '__tawkuuid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e::careliagrill.com::dcs9/cuV34V8V9A0MAhSNyiQBnElxmctVbvP3h2lJjaMQhrf6JwHLNEl3VBkXRQJ::2'}, {'domain': 'careliagrill.com', 'expiry': 1707478041, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MDYwNDEsInZhbHVlIjoiaHR0cHM6Ly9jYXJlbGlhZ3JpbGwuY29tLyIsImZpcnN0X3BhZ2UiOiJodHRwczovL2NhcmVsaWFncmlsbC5jb20vZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NDA2MDQxLCJ2YWx1ZSI6Imh0dHBzOi8vY2FyZWxpYWdyaWxsLmNvbS8iLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly9jYXJlbGlhZ3JpbGwuY29tL2RlLyJ9fQ=='}, {'domain': '.careliagrill.com', 'expiry': 1675942040, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '07f8beff-a042-4bdf-b2d4-7b91f4581667'}, {'domain': 'careliagrill.com', 'httpOnly': False, 'name': 'TawkConnectionTime', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.careliagrill.com', 'expiry': 1652182037, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.414688950.1644406038'}, {'domain': 'careliagrill.com', 'expiry': 1645615638, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': '.careliagrill.com', 'expiry': 1645615637, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.careliagrill.com', 'expiry': 1644407840, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.careliagrill.com', 'expiry': 1645615637, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'careliagrill.com', 'expiry': 1675942040, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _shopify_sa_t
+[Before] Cookie-Name 2: _fbp
+[Before] Cookie-Name 3: cart_sig
+[Before] Cookie-Name 4: cart_ts
+[Before] Cookie-Name 5: cookieconsent_preferences_disabled
+[Before] Cookie-Name 6: cart
+[Before] Cookie-Name 7: _gat
+[Before] Cookie-Name 8: _gid
+[Before] Cookie-Name 9: _s
+[Before] Cookie-Name 10: _shopify_y
+[Before] Cookie-Name 11: _ga
+[Before] Cookie-Name 12: _shopify_s
+[Before] Cookie-Name 13: __tawkuuid
+[Before] Cookie-Name 14: __kla_id
+[Before] Cookie-Name 15: _y
+[Before] Cookie-Name 16: TawkConnectionTime
+[Before] Cookie-Name 17: _gcl_au
+[Before] Cookie-Name 18: cart_ver
+[Before] Cookie-Name 19: _orig_referrer
+[Before] Cookie-Name 20: _shopify_sa_p
+[Before] Cookie-Name 21: _landing_page
+[Before] Cookie-Name 22: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 22
+[After] Website-Cookies: [{'domain': '.careliagrill.com', 'expiry': 1644407840, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T11%3A27%3A20.188Z'}, {'domain': '.careliagrill.com', 'expiry': 1652182040, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644406038590.926758004'}, {'domain': 'careliagrill.com', 'expiry': 1645615638, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e5b18de966278dd50407f740e0c8dc95'}, {'domain': 'careliagrill.com', 'expiry': 1645615638, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644406038'}, {'domain': 'careliagrill.com', 'expiry': 1675942041, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': ''}, {'domain': 'careliagrill.com', 'expiry': 1645615638, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd14ddf0ccfabb4120343dcfb519a9d71'}, {'domain': '.careliagrill.com', 'expiry': 1644406098, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.careliagrill.com', 'expiry': 1644492440, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.981089222.1644406038'}, {'domain': '.careliagrill.com', 'expiry': 1644407840, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '69120792-ff92-49ad-8f45-3f8a4004b055'}, {'domain': '.careliagrill.com', 'expiry': 1675942040, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '07f8beff-a042-4bdf-b2d4-7b91f4581667'}, {'domain': '.careliagrill.com', 'expiry': 1707478040, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.2028640066.1644406038'}, {'domain': '.careliagrill.com', 'expiry': 1644407840, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '69120792-ff92-49ad-8f45-3f8a4004b055'}, {'domain': '.careliagrill.com', 'expiry': 1659958043, 'httpOnly': False, 'name': '__tawkuuid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e::careliagrill.com::dcs9/cuV34V8V9A0MAhSNyiQBnElxmctVbvP3h2lJjaMQhrf6JwHLNEl3VBkXRQJ::2'}, {'domain': 'careliagrill.com', 'expiry': 1707478041, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MDYwNDEsInZhbHVlIjoiaHR0cHM6Ly9jYXJlbGlhZ3JpbGwuY29tLyIsImZpcnN0X3BhZ2UiOiJodHRwczovL2NhcmVsaWFncmlsbC5jb20vZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NDA2MDQxLCJ2YWx1ZSI6Imh0dHBzOi8vY2FyZWxpYWdyaWxsLmNvbS8iLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly9jYXJlbGlhZ3JpbGwuY29tL2RlLyJ9fQ=='}, {'domain': '.careliagrill.com', 'expiry': 1675942040, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '07f8beff-a042-4bdf-b2d4-7b91f4581667'}, {'domain': 'careliagrill.com', 'httpOnly': False, 'name': 'TawkConnectionTime', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.careliagrill.com', 'expiry': 1652182037, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.414688950.1644406038'}, {'domain': 'careliagrill.com', 'expiry': 1645615638, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': '.careliagrill.com', 'expiry': 1645615637, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.careliagrill.com', 'expiry': 1644407840, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.careliagrill.com', 'expiry': 1645615637, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'careliagrill.com', 'expiry': 1675942040, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _shopify_sa_t
+[After] Cookie-Name 2: _fbp
+[After] Cookie-Name 3: cart_sig
+[After] Cookie-Name 4: cart_ts
+[After] Cookie-Name 5: cookieconsent_preferences_disabled
+[After] Cookie-Name 6: cart
+[After] Cookie-Name 7: _gat
+[After] Cookie-Name 8: _gid
+[After] Cookie-Name 9: _s
+[After] Cookie-Name 10: _shopify_y
+[After] Cookie-Name 11: _ga
+[After] Cookie-Name 12: _shopify_s
+[After] Cookie-Name 13: __tawkuuid
+[After] Cookie-Name 14: __kla_id
+[After] Cookie-Name 15: _y
+[After] Cookie-Name 16: TawkConnectionTime
+[After] Cookie-Name 17: _gcl_au
+[After] Cookie-Name 18: cart_ver
+[After] Cookie-Name 19: _orig_referrer
+[After] Cookie-Name 20: _shopify_sa_p
+[After] Cookie-Name 21: _landing_page
+[After] Cookie-Name 22: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

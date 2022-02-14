@@ -1,0 +1,92 @@
+Website 40: http://www.soufeel.de/ | Created: 09.02.2022 13:54:45 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 27
+[Before] Website-Cookies: [{'domain': '.soufeel.de', 'expiry': 1690545276, 'httpOnly': False, 'name': 'ku1-vid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': 'e29f3d3c-d6cf-5bb2-b8d0-278da7c16e67'}, {'domain': '.soufeel.de', 'httpOnly': False, 'name': 'ku1-sid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': '05p4w_Ht15Ys91xPPyzYE'}, {'domain': '.soufeel.de', 'expiry': 1675947275, 'httpOnly': False, 'name': '__zlcmid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '18Skh4qqxKGzQve'}, {'domain': '.soufeel.de', 'expiry': 1644413074, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.soufeel.de', 'expiry': 1644411333, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.soufeel.de', 'expiry': 1652187274, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644411273833.1238171308'}, {'domain': '.soufeel.de', 'expiry': 1644413074, 'httpOnly': False, 'name': '_hjSession_1860917', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjNkMDVmNjQ1LWE5ZDEtNDg3OS04NmYwLTZjNTQwZGI4MmE4YiIsImNyZWF0ZWQiOjE2NDQ0MTEyNzQ0OTEsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': 'soufeel.de', 'expiry': 1644411394, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.soufeel.de', 'expiry': 1675947274, 'httpOnly': False, 'name': '_hjSessionUser_1860917', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjZjODY5YTgzLTlkNmEtNTA0MS1hN2VhLWI1ZTllNWY1MTc5YSIsImNyZWF0ZWQiOjE2NDQ0MTEyNzQwNDQsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.soufeel.de', 'expiry': 1678107274, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '6e19734089a711eca722b5420d1b6533'}, {'domain': '.soufeel.de', 'expiry': 1644411333, 'httpOnly': False, 'name': '_gat_gtag_UA_205740412_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.soufeel.de', 'expiry': 1644413074, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.soufeel.de', 'expiry': 1644413073, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.soufeel.de', 'expiry': 1644413074, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '00a41e43-c964-471b-97f3-09468d64f961'}, {'domain': '.soufeel.de', 'expiry': 1675947274, 'httpOnly': False, 'name': 'currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.soufeel.de', 'expiry': 1644413073, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T12%3A54%3A33.511Z'}, {'domain': '.soufeel.de', 'expiry': 1652187273, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1319219036.1644411273'}, {'domain': 'soufeel.de', 'expiry': 1675947274, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.soufeel.de', 'expiry': 1644413074, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '00a41e43-c964-471b-97f3-09468d64f961'}, {'domain': '.soufeel.de', 'expiry': 1644497673, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1926819581.1644411273'}, {'domain': '.soufeel.de', 'expiry': 1675947274, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ddab4e1b-ff08-4697-80fc-a2462c3feea7'}, {'domain': '.soufeel.de', 'expiry': 1707483273, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.2086533036.1644411273'}, {'domain': '.soufeel.de', 'expiry': 1644411333, 'httpOnly': False, 'name': '_gat_gtag_UA_34410748_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.soufeel.de', 'expiry': 1645620872, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.soufeel.de', 'expiry': 1645620872, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.soufeel.de', 'expiry': 1644497674, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': '6e1940a089a711ecbd3c57e05326efea'}, {'domain': '.soufeel.de', 'expiry': 1675947274, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ddab4e1b-ff08-4697-80fc-a2462c3feea7'}]
+[Before] Cookie-Name 1: ku1-vid
+[Before] Cookie-Name 2: ku1-sid
+[Before] Cookie-Name 3: __zlcmid
+[Before] Cookie-Name 4: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 5: _gat
+[Before] Cookie-Name 6: _fbp
+[Before] Cookie-Name 7: _hjSession_1860917
+[Before] Cookie-Name 8: _hjIncludedInSessionSample
+[Before] Cookie-Name 9: _hjSessionUser_1860917
+[Before] Cookie-Name 10: _uetvid
+[Before] Cookie-Name 11: _gat_gtag_UA_205740412_1
+[Before] Cookie-Name 12: _hjFirstSeen
+[Before] Cookie-Name 13: _shopify_sa_p
+[Before] Cookie-Name 14: _s
+[Before] Cookie-Name 15: currency
+[Before] Cookie-Name 16: _shopify_sa_t
+[Before] Cookie-Name 17: _gcl_au
+[Before] Cookie-Name 18: secure_customer_sig
+[Before] Cookie-Name 19: _shopify_s
+[Before] Cookie-Name 20: _gid
+[Before] Cookie-Name 21: _shopify_y
+[Before] Cookie-Name 22: _ga
+[Before] Cookie-Name 23: _gat_gtag_UA_34410748_1
+[Before] Cookie-Name 24: _orig_referrer
+[Before] Cookie-Name 25: _landing_page
+[Before] Cookie-Name 26: _uetsid
+[Before] Cookie-Name 27: _y
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 27
+[After] Website-Cookies: [{'domain': '.soufeel.de', 'expiry': 1690545276, 'httpOnly': False, 'name': 'ku1-vid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': 'e29f3d3c-d6cf-5bb2-b8d0-278da7c16e67'}, {'domain': '.soufeel.de', 'httpOnly': False, 'name': 'ku1-sid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': '05p4w_Ht15Ys91xPPyzYE'}, {'domain': '.soufeel.de', 'expiry': 1675947275, 'httpOnly': False, 'name': '__zlcmid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '18Skh4qqxKGzQve'}, {'domain': '.soufeel.de', 'expiry': 1644413074, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.soufeel.de', 'expiry': 1644411333, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.soufeel.de', 'expiry': 1652187274, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644411273833.1238171308'}, {'domain': '.soufeel.de', 'expiry': 1644413074, 'httpOnly': False, 'name': '_hjSession_1860917', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjNkMDVmNjQ1LWE5ZDEtNDg3OS04NmYwLTZjNTQwZGI4MmE4YiIsImNyZWF0ZWQiOjE2NDQ0MTEyNzQ0OTEsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': 'soufeel.de', 'expiry': 1644411394, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.soufeel.de', 'expiry': 1675947274, 'httpOnly': False, 'name': '_hjSessionUser_1860917', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjZjODY5YTgzLTlkNmEtNTA0MS1hN2VhLWI1ZTllNWY1MTc5YSIsImNyZWF0ZWQiOjE2NDQ0MTEyNzQwNDQsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.soufeel.de', 'expiry': 1678107274, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '6e19734089a711eca722b5420d1b6533'}, {'domain': '.soufeel.de', 'expiry': 1644411333, 'httpOnly': False, 'name': '_gat_gtag_UA_205740412_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.soufeel.de', 'expiry': 1644413074, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.soufeel.de', 'expiry': 1644413073, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.soufeel.de', 'expiry': 1644413074, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '00a41e43-c964-471b-97f3-09468d64f961'}, {'domain': '.soufeel.de', 'expiry': 1675947274, 'httpOnly': False, 'name': 'currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.soufeel.de', 'expiry': 1644413073, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T12%3A54%3A33.511Z'}, {'domain': '.soufeel.de', 'expiry': 1652187273, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1319219036.1644411273'}, {'domain': 'soufeel.de', 'expiry': 1675947274, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.soufeel.de', 'expiry': 1644413074, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '00a41e43-c964-471b-97f3-09468d64f961'}, {'domain': '.soufeel.de', 'expiry': 1644497673, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1926819581.1644411273'}, {'domain': '.soufeel.de', 'expiry': 1675947274, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ddab4e1b-ff08-4697-80fc-a2462c3feea7'}, {'domain': '.soufeel.de', 'expiry': 1707483273, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.2086533036.1644411273'}, {'domain': '.soufeel.de', 'expiry': 1644411333, 'httpOnly': False, 'name': '_gat_gtag_UA_34410748_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.soufeel.de', 'expiry': 1645620872, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.soufeel.de', 'expiry': 1645620872, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.soufeel.de', 'expiry': 1644497674, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': '6e1940a089a711ecbd3c57e05326efea'}, {'domain': '.soufeel.de', 'expiry': 1675947274, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ddab4e1b-ff08-4697-80fc-a2462c3feea7'}]
+[After] Cookie-Name 1: ku1-vid
+[After] Cookie-Name 2: ku1-sid
+[After] Cookie-Name 3: __zlcmid
+[After] Cookie-Name 4: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 5: _gat
+[After] Cookie-Name 6: _fbp
+[After] Cookie-Name 7: _hjSession_1860917
+[After] Cookie-Name 8: _hjIncludedInSessionSample
+[After] Cookie-Name 9: _hjSessionUser_1860917
+[After] Cookie-Name 10: _uetvid
+[After] Cookie-Name 11: _gat_gtag_UA_205740412_1
+[After] Cookie-Name 12: _hjFirstSeen
+[After] Cookie-Name 13: _shopify_sa_p
+[After] Cookie-Name 14: _s
+[After] Cookie-Name 15: currency
+[After] Cookie-Name 16: _shopify_sa_t
+[After] Cookie-Name 17: _gcl_au
+[After] Cookie-Name 18: secure_customer_sig
+[After] Cookie-Name 19: _shopify_s
+[After] Cookie-Name 20: _gid
+[After] Cookie-Name 21: _shopify_y
+[After] Cookie-Name 22: _ga
+[After] Cookie-Name 23: _gat_gtag_UA_34410748_1
+[After] Cookie-Name 24: _orig_referrer
+[After] Cookie-Name 25: _landing_page
+[After] Cookie-Name 26: _uetsid
+[After] Cookie-Name 27: _y
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _hjIncludedInSessionSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

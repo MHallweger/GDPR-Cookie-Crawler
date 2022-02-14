@@ -1,0 +1,85 @@
+Website 158: http://www.nebularx.de/ | Created: 08.02.2022 22:27:48 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 8
+[Before] Website-Cookies: [{'domain': '.nebularx.de', 'expiry': 1645565258, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.nebularx.de', 'expiry': 1675891658, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.nebularx.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.nebularx.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.nebularx.de', 'expiry': 1645565259, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.nebularx.de', 'expiry': 1644357459, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.nebularx.de', 'expiry': 1675891658, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%7D'}, {'domain': 'www.nebularx.de', 'expiry': 1675891659, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _shopify_tw
+[Before] Cookie-Name 2: _shopify_m
+[Before] Cookie-Name 3: _orig_referrer
+[Before] Cookie-Name 4: _landing_page
+[Before] Cookie-Name 5: cart_currency
+[Before] Cookie-Name 6: _shopify_tm
+[Before] Cookie-Name 7: _tracking_consent
+[Before] Cookie-Name 8: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 32
+[After] Website-Cookies: [{'domain': '.nebularx.de', 'expiry': 1652131674, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644355673945.503934773'}, {'domain': '.nebularx.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.nebularx.de', 'expiry': 1644355733, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.nebularx.de', 'expiry': 1644442073, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1947838755.1644355674'}, {'domain': '.nebularx.de', 'expiry': 1644357473, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c512ade2-1955-4c8f-821b-441dee44bc91'}, {'domain': '.nebularx.de', 'expiry': 1644357473, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c512ade2-1955-4c8f-821b-441dee44bc91'}, {'domain': '.nebularx.de', 'expiry': 1675891673, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '18265bb5-db67-4b2e-a221-61cf96aeeea3'}, {'domain': '.nebularx.de', 'expiry': 1675891673, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '18265bb5-db67-4b2e-a221-61cf96aeeea3'}, {'domain': '.nebularx.de', 'expiry': 1644357473, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A27%3A38.968Z'}, {'domain': 'www.nebularx.de', 'expiry': 1645565272, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '07c9839a636580302626c25ef8928c88'}, {'domain': 'www.nebularx.de', 'expiry': 1645565272, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': 'www.nebularx.de', 'expiry': 1645565272, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8d0bc38d733b516fc9b32ccc52a43a5b'}, {'domain': 'www.nebularx.de', 'expiry': 1645565272, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644355673'}, {'domain': 'www.nebularx.de', 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'pending'}, {'domain': 'www.nebularx.de', 'expiry': 1645565272, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.nebularx.de', 'expiry': 1675891673, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': 'www.nebularx.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.nebularx.de', 'expiry': 1644357473, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A27%3A38.968Z'}, {'domain': 'www.nebularx.de', 'expiry': 1675891673, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '18265bb5-db67-4b2e-a221-61cf96aeeea3'}, {'domain': '.nebularx.de', 'expiry': 1675891673, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22con%22%3A%7B%22GDPR%22%3A%221%22%7D%7D'}, {'domain': '.nebularx.de', 'expiry': 1707427673, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1200814286.1644355674'}, {'domain': '.nebularx.de', 'expiry': 1645565258, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.nebularx.de', 'expiry': 1645565273, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.nebularx.de', 'expiry': 1644357473, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c512ade2-1955-4c8f-821b-441dee44bc91'}, {'domain': 'www.nebularx.de', 'expiry': 1675891673, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '18265bb5-db67-4b2e-a221-61cf96aeeea3'}, {'domain': 'www.nebularx.de', 'expiry': 1675891673, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'www.nebularx.de', 'expiry': 1645565273, 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A27%3A38.961Z'}, {'domain': 'www.nebularx.de', 'expiry': 1646947673, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0MzU1NjczMzQ5LCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjowfX0='}, {'domain': '.nebularx.de', 'expiry': 1644357473, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.nebularx.de', 'expiry': 1644357473, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c512ade2-1955-4c8f-821b-441dee44bc91'}, {'domain': '.nebularx.de', 'expiry': 1645565273, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.nebularx.de', 'expiry': 1645565272, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}]
+[After] Cookie-Name 1: _fbp
+[After] Cookie-Name 2: _shopify_evids
+[After] Cookie-Name 3: _gat
+[After] Cookie-Name 4: _gid
+[After] Cookie-Name 5: _shopify_s
+[After] Cookie-Name 6: _s
+[After] Cookie-Name 7: _y
+[After] Cookie-Name 8: _shopify_y
+[After] Cookie-Name 9: _shopify_sa_t
+[After] Cookie-Name 10: cart
+[After] Cookie-Name 11: cart_ver
+[After] Cookie-Name 12: cart_sig
+[After] Cookie-Name 13: cart_ts
+[After] Cookie-Name 14: shopify_pay_redirect
+[After] Cookie-Name 15: localization
+[After] Cookie-Name 16: _shopify_m
+[After] Cookie-Name 17: _shopify_evids
+[After] Cookie-Name 18: _shopify_sa_t
+[After] Cookie-Name 19: _shopify_y
+[After] Cookie-Name 20: _tracking_consent
+[After] Cookie-Name 21: _ga
+[After] Cookie-Name 22: _shopify_tw
+[After] Cookie-Name 23: _landing_page
+[After] Cookie-Name 24: _s
+[After] Cookie-Name 25: _y
+[After] Cookie-Name 26: secure_customer_sig
+[After] Cookie-Name 27: _shopify_d
+[After] Cookie-Name 28: _bc_c_set
+[After] Cookie-Name 29: _shopify_tm
+[After] Cookie-Name 30: _shopify_s
+[After] Cookie-Name 31: _orig_referrer
+[After] Cookie-Name 32: cart_currency
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 18
+[Difference] Cookie-Name: 1: _shopify_y
+[Difference] Cookie-Name: 2: _bc_c_set
+[Difference] Cookie-Name: 3: _gid
+[Difference] Cookie-Name: 4: _y
+[Difference] Cookie-Name: 5: _shopify_d
+[Difference] Cookie-Name: 6: cart_ver
+[Difference] Cookie-Name: 7: _fbp
+[Difference] Cookie-Name: 8: _ga
+[Difference] Cookie-Name: 9: _shopify_sa_t
+[Difference] Cookie-Name: 10: _s
+[Difference] Cookie-Name: 11: localization
+[Difference] Cookie-Name: 12: shopify_pay_redirect
+[Difference] Cookie-Name: 13: _shopify_s
+[Difference] Cookie-Name: 14: cart_ts
+[Difference] Cookie-Name: 15: cart_sig
+[Difference] Cookie-Name: 16: cart
+[Difference] Cookie-Name: 17: _gat
+[Difference] Cookie-Name: 18: _shopify_evids
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

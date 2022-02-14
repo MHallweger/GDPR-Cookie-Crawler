@@ -1,0 +1,65 @@
+Website 4: http://www.cristal-jewelry.de/ | Created: 09.02.2022 10:46:44 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 13
+[Before] Website-Cookies: [{'domain': '.cristal-jewelry.de', 'expiry': 1675935994, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.cristal-jewelry.de', 'expiry': 1645609594, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.cristal-jewelry.de', 'expiry': 1675935994, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%7D'}, {'domain': 'cristal-jewelry.de', 'expiry': 1645609595, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.cristal-jewelry.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '843fae06-5c4a-414d-be48-18d25b7961cc'}, {'domain': '.cristal-jewelry.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '843fae06-5c4a-414d-be48-18d25b7961cc'}, {'domain': '.cristal-jewelry.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8127bc3a-8466-4783-9fed-37729ed92050'}, {'domain': '.cristal-jewelry.de', 'expiry': 1644401795, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.cristal-jewelry.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8127bc3a-8466-4783-9fed-37729ed92050'}, {'domain': '.cristal-jewelry.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.cristal-jewelry.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'cristal-jewelry.de', 'expiry': 1645609595, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': 'cristal-jewelry.de', 'expiry': 1675935995, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _shopify_m
+[Before] Cookie-Name 2: _shopify_tw
+[Before] Cookie-Name 3: _tracking_consent
+[Before] Cookie-Name 4: cart_currency
+[Before] Cookie-Name 5: _shopify_s
+[Before] Cookie-Name 6: _s
+[Before] Cookie-Name 7: _y
+[Before] Cookie-Name 8: _shopify_tm
+[Before] Cookie-Name 9: _shopify_y
+[Before] Cookie-Name 10: _landing_page
+[Before] Cookie-Name 11: _orig_referrer
+[Before] Cookie-Name 12: localization
+[Before] Cookie-Name 13: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 19
+[After] Website-Cookies: [{'domain': '.cristal-jewelry.de', 'expiry': 1707472009, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.519444339.1644400010'}, {'domain': '.cristal-jewelry.de', 'expiry': 1644486409, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.2088137404.1644400010'}, {'domain': '.cristal-jewelry.de', 'expiry': 1652176009, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.584449747.1644400010'}, {'domain': '.cristal-jewelry.de', 'expiry': 1675935994, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.cristal-jewelry.de', 'expiry': 1645609594, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.cristal-jewelry.de', 'expiry': 1675935994, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%7D'}, {'domain': 'cristal-jewelry.de', 'expiry': 1644410810, 'httpOnly': False, 'name': 'ba_redirect', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'true'}, {'domain': 'cristal-jewelry.de', 'expiry': 1645609610, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.cristal-jewelry.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '843fae06-5c4a-414d-be48-18d25b7961cc'}, {'domain': '.cristal-jewelry.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '843fae06-5c4a-414d-be48-18d25b7961cc'}, {'domain': 'cristal-jewelry.de', 'expiry': 1644410810, 'httpOnly': False, 'name': 'ba_hash', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '62038d8a08732'}, {'domain': '.cristal-jewelry.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8127bc3a-8466-4783-9fed-37729ed92050'}, {'domain': '.cristal-jewelry.de', 'expiry': 1644401810, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.cristal-jewelry.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8127bc3a-8466-4783-9fed-37729ed92050'}, {'domain': '.cristal-jewelry.de', 'expiry': 1644400069, 'httpOnly': False, 'name': '_gat_gtag_UA_10467082_3', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.cristal-jewelry.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.cristal-jewelry.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'cristal-jewelry.de', 'expiry': 1645609610, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': 'cristal-jewelry.de', 'expiry': 1675936010, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _ga
+[After] Cookie-Name 2: _gid
+[After] Cookie-Name 3: _gcl_au
+[After] Cookie-Name 4: _shopify_m
+[After] Cookie-Name 5: _shopify_tw
+[After] Cookie-Name 6: _tracking_consent
+[After] Cookie-Name 7: ba_redirect
+[After] Cookie-Name 8: cart_currency
+[After] Cookie-Name 9: _shopify_s
+[After] Cookie-Name 10: _s
+[After] Cookie-Name 11: ba_hash
+[After] Cookie-Name 12: _y
+[After] Cookie-Name 13: _shopify_tm
+[After] Cookie-Name 14: _shopify_y
+[After] Cookie-Name 15: _gat_gtag_UA_10467082_3
+[After] Cookie-Name 16: _landing_page
+[After] Cookie-Name 17: _orig_referrer
+[After] Cookie-Name 18: localization
+[After] Cookie-Name 19: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 6
+[Difference] Cookie-Name: 1: _gat_gtag_UA_10467082_3
+[Difference] Cookie-Name: 2: _ga
+[Difference] Cookie-Name: 3: _gcl_au
+[Difference] Cookie-Name: 4: ba_redirect
+[Difference] Cookie-Name: 5: _gid
+[Difference] Cookie-Name: 6: ba_hash
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

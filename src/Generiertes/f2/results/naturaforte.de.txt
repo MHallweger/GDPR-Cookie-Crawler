@@ -1,0 +1,68 @@
+Website 187: http://www.naturaforte.de/ | Created: 09.02.2022 11:43:05 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 5
+[Before] Website-Cookies: [{'domain': 'www.naturaforte.de', 'expiry': 1707475375, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MDMzNzUsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3Lm5hdHVyYWZvcnRlLmRlLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDQwMzM3NSwidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly93d3cubmF0dXJhZm9ydGUuZGUvIn19'}, {'domain': '.naturaforte.de', 'expiry': 1645612975, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.naturaforte.de', 'expiry': 1645612975, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.naturaforte.de', 'expiry': 1645612977, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.naturaforte.de', 'expiry': 1675939377, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: __kla_id
+[Before] Cookie-Name 2: _landing_page
+[Before] Cookie-Name 3: _orig_referrer
+[Before] Cookie-Name 4: cart_currency
+[Before] Cookie-Name 5: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 20
+[After] Website-Cookies: [{'domain': '.naturaforte.de', 'expiry': 1652179391, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644403390758.411664205'}, {'domain': '.naturaforte.de', 'expiry': 1644489790, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': '133b4220899511eca8ccc916beadc3bd'}, {'domain': '.naturaforte.de', 'expiry': 1652179390, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1004491895.1644403391'}, {'domain': '.naturaforte.de', 'expiry': 1644403450, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.naturaforte.de', 'expiry': 1644489790, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1540487784.1644403390'}, {'domain': 'www.naturaforte.de', 'expiry': 1646995390, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0NDAzMzkwNDE1LCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjowfX0='}, {'domain': '.naturaforte.de', 'expiry': 1707475390, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.231109949.1644403390'}, {'domain': 'www.naturaforte.de', 'expiry': 1644405190, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A42%3A55.470Z'}, {'domain': 'www.naturaforte.de', 'expiry': 1675939377, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'www.naturaforte.de', 'expiry': 1645612977, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.naturaforte.de', 'expiry': 1675939390, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '56dd76ef-79e0-4c4b-85d1-0dd74f7949f7'}, {'domain': 'www.naturaforte.de', 'expiry': 1675939390, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '56dd76ef-79e0-4c4b-85d1-0dd74f7949f7'}, {'domain': 'www.naturaforte.de', 'expiry': 1644405190, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a071048f-205c-4851-bf68-64b82c69afa8'}, {'domain': 'www.naturaforte.de', 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'www.naturaforte.de', 'expiry': 1644405190, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a071048f-205c-4851-bf68-64b82c69afa8'}, {'domain': 'www.naturaforte.de', 'expiry': 1707475375, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MDMzNzUsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3Lm5hdHVyYWZvcnRlLmRlLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDQwMzM3NSwidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly93d3cubmF0dXJhZm9ydGUuZGUvIn19'}, {'domain': '.naturaforte.de', 'expiry': 1645612975, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.naturaforte.de', 'expiry': 1645612975, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.naturaforte.de', 'expiry': 1678099390, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '133b74e0899511ec97c96d8fb57b3bdc'}, {'domain': 'www.naturaforte.de', 'httpOnly': False, 'name': 'hello_retail_id', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '62039aaf4f8f5c7a10eef4a8'}]
+[After] Cookie-Name 1: _fbp
+[After] Cookie-Name 2: _uetsid
+[After] Cookie-Name 3: _gcl_au
+[After] Cookie-Name 4: _gat
+[After] Cookie-Name 5: _gid
+[After] Cookie-Name 6: _bc_c_set
+[After] Cookie-Name 7: _ga
+[After] Cookie-Name 8: _shopify_sa_t
+[After] Cookie-Name 9: secure_customer_sig
+[After] Cookie-Name 10: cart_currency
+[After] Cookie-Name 11: _y
+[After] Cookie-Name 12: _shopify_y
+[After] Cookie-Name 13: _shopify_s
+[After] Cookie-Name 14: localization
+[After] Cookie-Name 15: _s
+[After] Cookie-Name 16: __kla_id
+[After] Cookie-Name 17: _landing_page
+[After] Cookie-Name 18: _orig_referrer
+[After] Cookie-Name 19: _uetvid
+[After] Cookie-Name 20: hello_retail_id
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 15
+[Difference] Cookie-Name: 1: localization
+[Difference] Cookie-Name: 2: _shopify_y
+[Difference] Cookie-Name: 3: _ga
+[Difference] Cookie-Name: 4: hello_retail_id
+[Difference] Cookie-Name: 5: _shopify_s
+[Difference] Cookie-Name: 6: _shopify_sa_t
+[Difference] Cookie-Name: 7: _gcl_au
+[Difference] Cookie-Name: 8: _fbp
+[Difference] Cookie-Name: 9: _bc_c_set
+[Difference] Cookie-Name: 10: _gat
+[Difference] Cookie-Name: 11: _uetvid
+[Difference] Cookie-Name: 12: _uetsid
+[Difference] Cookie-Name: 13: _s
+[Difference] Cookie-Name: 14: _gid
+[Difference] Cookie-Name: 15: _y
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

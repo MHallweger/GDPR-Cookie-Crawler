@@ -1,0 +1,81 @@
+Website 134: http://www.misscosy.de/ | Created: 10.02.2022 20:37:23 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 24
+[Before] Website-Cookies: [{'domain': '.misscosy.de', 'expiry': 1652297837, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644521836734.239757048'}, {'domain': 'misscosy.de', 'httpOnly': False, 'name': 'locale_bar_accepted', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.misscosy.de', 'expiry': 1676057834, 'httpOnly': False, 'name': '_vid_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cbkHmBq9dhu65oh0NVA3HnahXgmLTmYY6x8kxxxFyiJ2fwE0KcqA7nWFRsc4gy9m4GGuNV46VsmyJswJ2zTWTvMPRXicIW8='}, {'domain': '.misscosy.de', 'expiry': 1676057837, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f3ddaa4f-7ad2-41ce-a80e-2de2f317fdc3'}, {'domain': 'misscosy.de', 'expiry': 1645731437, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '40df0103ade501293ba961a7047202fe'}, {'domain': '.misscosy.de', 'expiry': 1644523636, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'misscosy.de', 'expiry': 1707593834, 'httpOnly': False, 'name': '_ama', 'path': '/', 'secure': False, 'value': '414413691.1644521834'}, {'domain': 'misscosy.de', 'expiry': 1707593834, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ1MjE4MzQsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vbWlzc2Nvc3kuZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NTIxODM0LCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL21pc3Njb3N5LmRlLyJ9fQ=='}, {'domain': '.misscosy.de', 'expiry': 1707593833, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.1.414413691.1644521834'}, {'domain': 'misscosy.de', 'expiry': 1645731437, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2e8eb6be55c913c25a207c84ade6a5a9'}, {'domain': '.misscosy.de', 'expiry': 1645731433, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.misscosy.de', 'expiry': 1644523637, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bf3f30b2-292b-4e86-bd66-d40b024650c9'}, {'domain': 'misscosy.de', 'expiry': 1645731437, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644521837'}, {'domain': '.misscosy.de', 'expiry': 1644523637, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bf3f30b2-292b-4e86-bd66-d40b024650c9'}, {'domain': 'misscosy.de', 'expiry': 1644525434, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'misscosy.de', 'expiry': 1645731437, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.misscosy.de', 'expiry': 1676057837, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f3ddaa4f-7ad2-41ce-a80e-2de2f317fdc3'}, {'domain': 'misscosy.de', 'expiry': 1645731437, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A6'}, {'domain': '.misscosy.de', 'expiry': 1676057836, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU56YzFZbVU0WW1VdFpUazFaUzAwTUdSakxXSmtaVEF0WlRJNU9UQmpaRFF4TkdRMg'}, {'domain': '.misscosy.de', 'expiry': 1645731433, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.misscosy.de', 'expiry': 1707593833, 'httpOnly': False, 'name': '_ga_BLZRRJNQF7', 'path': '/', 'secure': False, 'value': 'GS1.1.1644521833.1.0.1644521833.0'}, {'domain': '.misscosy.de', 'expiry': 1644523636, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T19%3A37%3A16.550Z'}, {'domain': 'misscosy.de', 'expiry': 1645731437, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'misscosy.de', 'expiry': 1676057837, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _fbp
+[Before] Cookie-Name 2: locale_bar_accepted
+[Before] Cookie-Name 3: _vid_t
+[Before] Cookie-Name 4: _y
+[Before] Cookie-Name 5: cart
+[Before] Cookie-Name 6: _shopify_sa_p
+[Before] Cookie-Name 7: _ama
+[Before] Cookie-Name 8: __kla_id
+[Before] Cookie-Name 9: _ga
+[Before] Cookie-Name 10: cart_sig
+[Before] Cookie-Name 11: _orig_referrer
+[Before] Cookie-Name 12: _s
+[Before] Cookie-Name 13: cart_ts
+[Before] Cookie-Name 14: _shopify_s
+[Before] Cookie-Name 15: shopify_pay_redirect
+[Before] Cookie-Name 16: cart_currency
+[Before] Cookie-Name 17: _shopify_y
+[Before] Cookie-Name 18: cart_ver
+[Before] Cookie-Name 19: _pin_unauth
+[Before] Cookie-Name 20: _landing_page
+[Before] Cookie-Name 21: _ga_BLZRRJNQF7
+[Before] Cookie-Name 22: _shopify_sa_t
+[Before] Cookie-Name 23: localization
+[Before] Cookie-Name 24: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 23
+[After] Website-Cookies: [{'domain': 'misscosy.de', 'expiry': 1676057848, 'httpOnly': False, 'name': 'CookieConsent', 'path': '/', 'secure': True, 'value': '{stamp:%27fwNaKhPm4Ktms7A6Ksrpyoh7gdb+DUcLhj8s4jVwTL0Lsogg9CC9gQ==%27%2Cnecessary:true%2Cpreferences:true%2Cstatistics:true%2Cmarketing:true%2Cver:1%2Cutc:1644521848382%2Cregion:%27de%27}'}, {'domain': 'misscosy.de', 'expiry': 1645731437, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A6'}, {'domain': '.misscosy.de', 'expiry': 1652297848, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644521836734.239757048'}, {'domain': '.misscosy.de', 'expiry': 1644523636, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'misscosy.de', 'httpOnly': False, 'name': 'locale_bar_accepted', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'misscosy.de', 'expiry': 1707593834, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ1MjE4MzQsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vbWlzc2Nvc3kuZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NTIxODM0LCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL21pc3Njb3N5LmRlLyJ9fQ=='}, {'domain': 'misscosy.de', 'expiry': 1645731437, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '40df0103ade501293ba961a7047202fe'}, {'domain': '.misscosy.de', 'expiry': 1707593833, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.1.414413691.1644521834'}, {'domain': '.misscosy.de', 'expiry': 1645731433, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.misscosy.de', 'expiry': 1644523637, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bf3f30b2-292b-4e86-bd66-d40b024650c9'}, {'domain': 'misscosy.de', 'expiry': 1645731437, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644521837'}, {'domain': '.misscosy.de', 'expiry': 1644523637, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bf3f30b2-292b-4e86-bd66-d40b024650c9'}, {'domain': '.misscosy.de', 'expiry': 1676057837, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f3ddaa4f-7ad2-41ce-a80e-2de2f317fdc3'}, {'domain': 'misscosy.de', 'expiry': 1645731437, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2e8eb6be55c913c25a207c84ade6a5a9'}, {'domain': 'misscosy.de', 'expiry': 1644525434, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'misscosy.de', 'expiry': 1645731437, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.misscosy.de', 'expiry': 1676057837, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f3ddaa4f-7ad2-41ce-a80e-2de2f317fdc3'}, {'domain': '.misscosy.de', 'expiry': 1676057836, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU56YzFZbVU0WW1VdFpUazFaUzAwTUdSakxXSmtaVEF0WlRJNU9UQmpaRFF4TkdRMg'}, {'domain': '.misscosy.de', 'expiry': 1645731433, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.misscosy.de', 'expiry': 1707593833, 'httpOnly': False, 'name': '_ga_BLZRRJNQF7', 'path': '/', 'secure': False, 'value': 'GS1.1.1644521833.1.0.1644521833.0'}, {'domain': '.misscosy.de', 'expiry': 1644523636, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T19%3A37%3A16.550Z'}, {'domain': 'misscosy.de', 'expiry': 1645731437, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'misscosy.de', 'expiry': 1676057837, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: CookieConsent
+[After] Cookie-Name 2: cart_ver
+[After] Cookie-Name 3: _fbp
+[After] Cookie-Name 4: _shopify_sa_p
+[After] Cookie-Name 5: locale_bar_accepted
+[After] Cookie-Name 6: __kla_id
+[After] Cookie-Name 7: cart
+[After] Cookie-Name 8: _ga
+[After] Cookie-Name 9: _orig_referrer
+[After] Cookie-Name 10: _s
+[After] Cookie-Name 11: cart_ts
+[After] Cookie-Name 12: _shopify_s
+[After] Cookie-Name 13: _y
+[After] Cookie-Name 14: cart_sig
+[After] Cookie-Name 15: shopify_pay_redirect
+[After] Cookie-Name 16: cart_currency
+[After] Cookie-Name 17: _shopify_y
+[After] Cookie-Name 18: _pin_unauth
+[After] Cookie-Name 19: _landing_page
+[After] Cookie-Name 20: _ga_BLZRRJNQF7
+[After] Cookie-Name 21: _shopify_sa_t
+[After] Cookie-Name 22: localization
+[After] Cookie-Name 23: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 3
+[Difference] Cookie-Name: 1: CookieConsent
+[Difference] Cookie-Name: 2: _ama
+[Difference] Cookie-Name: 3: _vid_t
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

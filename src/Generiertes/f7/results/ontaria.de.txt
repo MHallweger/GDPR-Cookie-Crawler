@@ -1,0 +1,75 @@
+Website 104: http://www.ontaria.de/ | Created: 10.02.2022 17:50:00 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 21
+[Before] Website-Cookies: [{'domain': '.ontaria.de', 'expiry': 1644511850, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.ontaria.de', 'expiry': 1644598190, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.2119606453.1644511791'}, {'domain': '.ontaria.de', 'expiry': 1707583790, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1570656458.1644511791'}, {'domain': '.ontaria.de', 'expiry': 1644513590, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.ontaria.de', 'expiry': 1644513590, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T16%3A49%3A50.748Z'}, {'domain': 'ontaria.de', 'expiry': 1645721389, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.ontaria.de', 'expiry': 1645721388, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.ontaria.de', 'expiry': 1644513590, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '66e09eff-9b11-464a-a9dc-04839567eea8'}, {'domain': '.ontaria.de', 'expiry': 1676047789, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '06cf7387-524a-44d0-9ebc-7472acfcfc4b'}, {'domain': '.ontaria.de', 'expiry': 1652287790, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.354228984.1644511791'}, {'domain': 'ontaria.de', 'expiry': 1645721389, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A2'}, {'domain': 'ontaria.de', 'expiry': 1645721389, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'dd8cf663d80455faa77277c56276480d'}, {'domain': '.ontaria.de', 'expiry': 1644513590, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '66e09eff-9b11-464a-a9dc-04839567eea8'}, {'domain': 'ontaria.de', 'expiry': 1644515389, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.ontaria.de', 'expiry': 1645721388, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.ontaria.de', 'expiry': 1676047790, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU56Vm1OR1JqWWprdE1ESTBPQzAwTkRVekxUbGlaVEF0TVdZellUWm1ZelV6TXpGbQ'}, {'domain': '.ontaria.de', 'expiry': 1676047789, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '06cf7387-524a-44d0-9ebc-7472acfcfc4b'}, {'domain': 'ontaria.de', 'expiry': 1645721389, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644511789'}, {'domain': 'ontaria.de', 'expiry': 1645721389, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'ontaria.de', 'expiry': 1645721389, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4974941f92762b1bfee3d90abe75aca8'}, {'domain': 'ontaria.de', 'expiry': 1676047789, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _gat
+[Before] Cookie-Name 2: _gid
+[Before] Cookie-Name 3: _ga
+[Before] Cookie-Name 4: _shopify_sa_p
+[Before] Cookie-Name 5: _shopify_sa_t
+[Before] Cookie-Name 6: cart_currency
+[Before] Cookie-Name 7: _orig_referrer
+[Before] Cookie-Name 8: _shopify_s
+[Before] Cookie-Name 9: _shopify_y
+[Before] Cookie-Name 10: _gcl_au
+[Before] Cookie-Name 11: cart_ver
+[Before] Cookie-Name 12: cart
+[Before] Cookie-Name 13: _s
+[Before] Cookie-Name 14: shopify_pay_redirect
+[Before] Cookie-Name 15: _landing_page
+[Before] Cookie-Name 16: _pin_unauth
+[Before] Cookie-Name 17: _y
+[Before] Cookie-Name 18: cart_ts
+[Before] Cookie-Name 19: localization
+[Before] Cookie-Name 20: cart_sig
+[Before] Cookie-Name 21: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 22
+[After] Website-Cookies: [{'domain': 'ontaria.de', 'expiry': 1644598205, 'httpOnly': False, 'name': 'DisableBanner', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'info_allow_cookie_btn'}, {'domain': '.ontaria.de', 'expiry': 1644511850, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.ontaria.de', 'expiry': 1644598190, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.2119606453.1644511791'}, {'domain': '.ontaria.de', 'expiry': 1707583790, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1570656458.1644511791'}, {'domain': '.ontaria.de', 'expiry': 1644513590, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.ontaria.de', 'expiry': 1644513590, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T16%3A49%3A50.748Z'}, {'domain': 'ontaria.de', 'expiry': 1645721389, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.ontaria.de', 'expiry': 1645721388, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.ontaria.de', 'expiry': 1644513590, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '66e09eff-9b11-464a-a9dc-04839567eea8'}, {'domain': '.ontaria.de', 'expiry': 1676047789, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '06cf7387-524a-44d0-9ebc-7472acfcfc4b'}, {'domain': '.ontaria.de', 'expiry': 1652287790, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.354228984.1644511791'}, {'domain': 'ontaria.de', 'expiry': 1645721389, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A2'}, {'domain': 'ontaria.de', 'expiry': 1645721389, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'dd8cf663d80455faa77277c56276480d'}, {'domain': '.ontaria.de', 'expiry': 1644513590, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '66e09eff-9b11-464a-a9dc-04839567eea8'}, {'domain': 'ontaria.de', 'expiry': 1644515389, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.ontaria.de', 'expiry': 1645721388, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.ontaria.de', 'expiry': 1676047790, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU56Vm1OR1JqWWprdE1ESTBPQzAwTkRVekxUbGlaVEF0TVdZellUWm1ZelV6TXpGbQ'}, {'domain': '.ontaria.de', 'expiry': 1676047789, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '06cf7387-524a-44d0-9ebc-7472acfcfc4b'}, {'domain': 'ontaria.de', 'expiry': 1645721389, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644511789'}, {'domain': 'ontaria.de', 'expiry': 1645721389, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'ontaria.de', 'expiry': 1645721389, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4974941f92762b1bfee3d90abe75aca8'}, {'domain': 'ontaria.de', 'expiry': 1676047789, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: DisableBanner
+[After] Cookie-Name 2: _gat
+[After] Cookie-Name 3: _gid
+[After] Cookie-Name 4: _ga
+[After] Cookie-Name 5: _shopify_sa_p
+[After] Cookie-Name 6: _shopify_sa_t
+[After] Cookie-Name 7: cart_currency
+[After] Cookie-Name 8: _orig_referrer
+[After] Cookie-Name 9: _shopify_s
+[After] Cookie-Name 10: _shopify_y
+[After] Cookie-Name 11: _gcl_au
+[After] Cookie-Name 12: cart_ver
+[After] Cookie-Name 13: cart
+[After] Cookie-Name 14: _s
+[After] Cookie-Name 15: shopify_pay_redirect
+[After] Cookie-Name 16: _landing_page
+[After] Cookie-Name 17: _pin_unauth
+[After] Cookie-Name 18: _y
+[After] Cookie-Name 19: cart_ts
+[After] Cookie-Name 20: localization
+[After] Cookie-Name 21: cart_sig
+[After] Cookie-Name 22: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: DisableBanner
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

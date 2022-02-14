@@ -1,0 +1,106 @@
+Website 317: http://www.roominabox.de/ | Created: 09.02.2022 21:13:38 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 8
+[Before] Website-Cookies: [{'domain': '.roominabox.de', 'expiry': 1675973607, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.roominabox.de', 'expiry': 1644439409, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.roominabox.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.roominabox.de', 'expiry': 1645647207, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.roominabox.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'roominabox.de', 'expiry': 1675973609, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.roominabox.de', 'expiry': 1675973607, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%7D'}, {'domain': 'roominabox.de', 'expiry': 1645647209, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}]
+[Before] Cookie-Name 1: _shopify_m
+[Before] Cookie-Name 2: _shopify_tm
+[Before] Cookie-Name 3: _landing_page
+[Before] Cookie-Name 4: _shopify_tw
+[Before] Cookie-Name 5: _orig_referrer
+[Before] Cookie-Name 6: secure_customer_sig
+[Before] Cookie-Name 7: _tracking_consent
+[Before] Cookie-Name 8: cart_currency
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 43
+[After] Website-Cookies: [{'domain': '.roominabox.de', 'expiry': 1675973625, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU1XVmpNamN3WXpBdE1HRm1ZUzAwTkdVMUxXRTNaVGd0T1dKak9UaGpaamswT0RaaA'}, {'domain': '.roominabox.de', 'expiry': 1675973624, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22lim%22%3A%5B%22GDPR%22%5D%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%2C%22CCPA%22%3A%221%22%7D%2C%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%7D'}, {'domain': 'roominabox.de', 'expiry': 1645647224, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644437625'}, {'domain': 'roominabox.de', 'expiry': 1645647224, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4b5ccf9417a31bd3fdba6398660a195d'}, {'domain': '.roominabox.de', 'expiry': 1652213625, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644437625044.1582282477'}, {'domain': '.roominabox.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6167ebd0-eaa2-41e3-95fe-9eb30d2d2d06'}, {'domain': '.roominabox.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6167ebd0-eaa2-41e3-95fe-9eb30d2d2d06'}, {'domain': '.roominabox.de', 'expiry': 1675973624, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': '.roominabox.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T20%3A13%3A27.999Z'}, {'domain': '.roominabox.de', 'expiry': 1644439428, 'httpOnly': False, 'name': 'swym-session-id', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"5d0tmvs84n9xtu2l97y4uozw12pemitkp74qkhxptmokucxnvklneg41uyqqg1lr"'}, {'domain': '.roominabox.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.roominabox.de', 'expiry': 1644524024, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1800434539.1644437625'}, {'domain': 'roominabox.de', 'expiry': 1647029624, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0NDM3NjI0MzAwLCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjoxfX0='}, {'domain': 'roominabox.de', 'httpOnly': False, 'name': 'swym-o_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'true'}, {'domain': 'roominabox.de', 'httpOnly': False, 'name': 'swym-email', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'null'}, {'domain': 'roominabox.de', 'expiry': 1645647224, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'roominabox.de', 'httpOnly': False, 'name': 'swym-swymRegid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '"rL9CYxwv1wWczFxifbkrR2u9FjLoklQQWI1jaj0Eyk5zoEV5PfoNCbJpGpbgRO39kxR-X1p-OqM-wSWpcqteeyXktBl_BW-bv3F1aKac1S4tyu9yrBT6jfSn40RCxKqLtdW7LE44ffqyA70I8WV-0Fu3y2DnkksRDT8k1Oe2PHE"'}, {'domain': 'roominabox.de', 'expiry': 1645647224, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'roominabox.de', 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'roominabox.de', 'expiry': 1645647224, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e0ef047e1d73e57465bed9599326d1a6'}, {'domain': 'roominabox.de', 'httpOnly': False, 'name': '_hjSession_1593420', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjdlZTgzZTY2LTFiNDctNDk2Ny04MDdhLWIyOWY3ODUwODgxNSIsImNyZWF0ZWQiOjE2NDQ0Mzc2MDg0MjMsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': 'roominabox.de', 'expiry': 1675973624, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'roominabox.de', 'httpOnly': False, 'name': 'swym-session-id', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '"5d0tmvs84n9xtu2l97y4uozw12pemitkp74qkhxptmokucxnvklneg41uyqqg1lr"'}, {'domain': 'roominabox.de', 'httpOnly': False, 'name': 'swym-pid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '"sF7PtIcY20jQy+mbGsXcLnCftdzyrgH6/QOmsET88DY="'}, {'domain': 'roominabox.de', 'httpOnly': False, 'name': '_hjSessionUser_1593420', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjYwNWVjNDFlLWYxMTAtNTExZi1iYmVmLTdjOGJlZDA4YjdiNCIsImNyZWF0ZWQiOjE2NDQ0Mzc2MDgzNTUsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': 'roominabox.de', 'expiry': 1675973624, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c27c52b6-c456-46c5-9a57-2a43e0da5cba'}, {'domain': '.roominabox.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c27c52b6-c456-46c5-9a57-2a43e0da5cba'}, {'domain': 'roominabox.de', 'httpOnly': False, 'name': 'popup', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'open'}, {'domain': 'roominabox.de', 'expiry': 1645647224, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': 'roominabox.de', 'expiry': 1644439424, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6167ebd0-eaa2-41e3-95fe-9eb30d2d2d06'}, {'domain': '.roominabox.de', 'expiry': 1645647224, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'roominabox.de', 'expiry': 1645647224, 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T20%3A13%3A27.978Z'}, {'domain': 'roominabox.de', 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': 'roominabox.de', 'expiry': 1644439424, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6167ebd0-eaa2-41e3-95fe-9eb30d2d2d06'}, {'domain': '.roominabox.de', 'expiry': 1645647207, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.roominabox.de', 'expiry': 1645647224, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'roominabox.de', 'expiry': 1675973624, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c27c52b6-c456-46c5-9a57-2a43e0da5cba'}, {'domain': '.roominabox.de', 'expiry': 1644437684, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.roominabox.de', 'expiry': 1707509624, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1653799181.1644437625'}, {'domain': '.roominabox.de', 'expiry': 1644439424, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.roominabox.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c27c52b6-c456-46c5-9a57-2a43e0da5cba'}, {'domain': 'roominabox.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'roominabox.de', 'expiry': 1644439424, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T20%3A13%3A27.999Z'}]
+[After] Cookie-Name 1: _pin_unauth
+[After] Cookie-Name 2: _tracking_consent
+[After] Cookie-Name 3: cart_ts
+[After] Cookie-Name 4: cart
+[After] Cookie-Name 5: _fbp
+[After] Cookie-Name 6: _shopify_s
+[After] Cookie-Name 7: _s
+[After] Cookie-Name 8: _shopify_m
+[After] Cookie-Name 9: _shopify_sa_t
+[After] Cookie-Name 10: swym-session-id
+[After] Cookie-Name 11: _shopify_evids
+[After] Cookie-Name 12: _gid
+[After] Cookie-Name 13: _bc_c_set
+[After] Cookie-Name 14: swym-o_s
+[After] Cookie-Name 15: swym-email
+[After] Cookie-Name 16: localization
+[After] Cookie-Name 17: swym-swymRegid
+[After] Cookie-Name 18: cart_currency
+[After] Cookie-Name 19: _hjFirstSeen
+[After] Cookie-Name 20: cart_sig
+[After] Cookie-Name 21: _hjSession_1593420
+[After] Cookie-Name 22: secure_customer_sig
+[After] Cookie-Name 23: swym-session-id
+[After] Cookie-Name 24: swym-pid
+[After] Cookie-Name 25: _hjSessionUser_1593420
+[After] Cookie-Name 26: _y
+[After] Cookie-Name 27: _shopify_y
+[After] Cookie-Name 28: popup
+[After] Cookie-Name 29: cart_ver
+[After] Cookie-Name 30: _shopify_s
+[After] Cookie-Name 31: _landing_page
+[After] Cookie-Name 32: _shopify_d
+[After] Cookie-Name 33: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 34: _s
+[After] Cookie-Name 35: _shopify_tw
+[After] Cookie-Name 36: _orig_referrer
+[After] Cookie-Name 37: _shopify_y
+[After] Cookie-Name 38: _gat
+[After] Cookie-Name 39: _ga
+[After] Cookie-Name 40: _shopify_tm
+[After] Cookie-Name 41: _y
+[After] Cookie-Name 42: _shopify_evids
+[After] Cookie-Name 43: _shopify_sa_t
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 28
+[Difference] Cookie-Name: 1: _y
+[Difference] Cookie-Name: 2: _shopify_s
+[Difference] Cookie-Name: 3: _shopify_evids
+[Difference] Cookie-Name: 4: cart_ver
+[Difference] Cookie-Name: 5: _shopify_y
+[Difference] Cookie-Name: 6: _hjSession_1593420
+[Difference] Cookie-Name: 7: _gid
+[Difference] Cookie-Name: 8: _bc_c_set
+[Difference] Cookie-Name: 9: cart_sig
+[Difference] Cookie-Name: 10: _hjFirstSeen
+[Difference] Cookie-Name: 11: cart
+[Difference] Cookie-Name: 12: _hjSessionUser_1593420
+[Difference] Cookie-Name: 13: swym-pid
+[Difference] Cookie-Name: 14: _s
+[Difference] Cookie-Name: 15: popup
+[Difference] Cookie-Name: 16: swym-session-id
+[Difference] Cookie-Name: 17: localization
+[Difference] Cookie-Name: 18: _shopify_d
+[Difference] Cookie-Name: 19: swym-email
+[Difference] Cookie-Name: 20: _fbp
+[Difference] Cookie-Name: 21: _shopify_sa_t
+[Difference] Cookie-Name: 22: swym-swymRegid
+[Difference] Cookie-Name: 23: cart_ts
+[Difference] Cookie-Name: 24: _hjAbsoluteSessionInProgress
+[Difference] Cookie-Name: 25: _ga
+[Difference] Cookie-Name: 26: _pin_unauth
+[Difference] Cookie-Name: 27: swym-o_s
+[Difference] Cookie-Name: 28: _gat
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

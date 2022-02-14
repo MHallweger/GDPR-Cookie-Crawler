@@ -1,0 +1,113 @@
+Website 176: http://www.mymarandino.de/ | Created: 10.02.2022 13:04:25 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 37
+[Before] Website-Cookies: [{'domain': '.marandino.de', 'expiry': 1676030661, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.marandino.de', 'expiry': 1676030657, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVpqUXdaRGd3Wm1RdFpqUTJOQzAwWmpkaUxXRXhaakF0Wmpkak5EZGtPVEEwWkRVdw'}, {'domain': '.marandino.de', 'expiry': 1652270657, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644494657301.1863096762'}, {'domain': 'marandino.de', 'expiry': 1645704257, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': 'marandino.de', 'expiry': 1645704257, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '12fc98ef5402511b5cb757f66aa2a654'}, {'domain': '.marandino.de', 'expiry': 1707566657, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1447316567.1644494657'}, {'domain': 'marandino.de', 'expiry': 1645704257, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644494656'}, {'domain': 'marandino.de', 'httpOnly': False, 'name': 'locale_bar_accepted', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'marandino.de', 'expiry': 1676030656, 'httpOnly': False, 'name': 'po_visitor', 'path': '/', 'secure': False, 'value': '5S-GsbiNiYOb'}, {'domain': '.marandino.de', 'expiry': 1644496455, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.marandino.de', 'expiry': 1644494717, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.marandino.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'marandino.de', 'expiry': 1644494775, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.marandino.de', 'expiry': 1676030655, 'httpOnly': False, 'name': '_hjSessionUser_2815954', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjEyNjU1YzYwLTlhMzctNTcxMy1hNDhkLThlMTI0ZmQ4NDU2OCIsImNyZWF0ZWQiOjE2NDQ0OTQ2NTU5MjIsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': 'marandino.de', 'expiry': 1644494775, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'marandino.de', 'expiry': 1644498255, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.marandino.de', 'expiry': 1676030661, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': '.marandino.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.marandino.de', 'expiry': 1652270655, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.562675493.1644494655'}, {'domain': 'marandino.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.marandino.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T12%3A04%3A15.788Z'}, {'domain': '.marandino.de', 'expiry': 1644496461, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.marandino.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '241a5442-bf5d-472e-9438-7dd33bf9263f'}, {'domain': '.marandino.de', 'expiry': 1645704255, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.marandino.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T12%3A04%3A15.852Z'}, {'domain': '.marandino.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '383a44cc-eb5e-4c7c-9932-e91b4634d214'}, {'domain': 'marandino.de', 'expiry': 1645704257, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '63387ee5241a1e5580644a1d533542ae'}, {'domain': '.marandino.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '241a5442-bf5d-472e-9438-7dd33bf9263f'}, {'domain': '.marandino.de', 'expiry': 1644496455, 'httpOnly': False, 'name': '_hjSession_2815954', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjUxY2U2ZDdjLWZjMzUtNDBiYi04ZmIxLTM1ODEwNjc3N2E1MyIsImNyZWF0ZWQiOjE2NDQ0OTQ2NTU5NTIsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': '.marandino.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '383a44cc-eb5e-4c7c-9932-e91b4634d214'}, {'domain': '.marandino.de', 'expiry': 1644581057, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1992704879.1644494657'}, {'domain': 'marandino.de', 'expiry': 1645704257, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.marandino.de', 'expiry': 1645704257, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.marandino.de', 'expiry': 1644496455, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.marandino.de', 'expiry': 1645704257, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'marandino.de', 'expiry': 1645704261, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'marandino.de', 'expiry': 1676030661, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _shopify_m
+[Before] Cookie-Name 2: _pin_unauth
+[Before] Cookie-Name 3: _fbp
+[Before] Cookie-Name 4: cart_ver
+[Before] Cookie-Name 5: cart_sig
+[Before] Cookie-Name 6: _ga
+[Before] Cookie-Name 7: cart_ts
+[Before] Cookie-Name 8: locale_bar_accepted
+[Before] Cookie-Name 9: po_visitor
+[Before] Cookie-Name 10: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 11: _gat
+[Before] Cookie-Name 12: _shopify_evids
+[Before] Cookie-Name 13: _hjIncludedInPageviewSample
+[Before] Cookie-Name 14: _hjSessionUser_2815954
+[Before] Cookie-Name 15: _hjIncludedInSessionSample
+[Before] Cookie-Name 16: shopify_pay_redirect
+[Before] Cookie-Name 17: _tracking_consent
+[Before] Cookie-Name 18: _shopify_sa_p
+[Before] Cookie-Name 19: _gcl_au
+[Before] Cookie-Name 20: _shopify_evids
+[Before] Cookie-Name 21: _shopify_d
+[Before] Cookie-Name 22: _shopify_tm
+[Before] Cookie-Name 23: _shopify_y
+[Before] Cookie-Name 24: _shopify_tw
+[Before] Cookie-Name 25: _shopify_sa_t
+[Before] Cookie-Name 26: _shopify_s
+[Before] Cookie-Name 27: cart
+[Before] Cookie-Name 28: _y
+[Before] Cookie-Name 29: _hjSession_2815954
+[Before] Cookie-Name 30: _s
+[Before] Cookie-Name 31: _gid
+[Before] Cookie-Name 32: cart_currency
+[Before] Cookie-Name 33: _landing_page
+[Before] Cookie-Name 34: _hjFirstSeen
+[Before] Cookie-Name 35: _orig_referrer
+[Before] Cookie-Name 36: localization
+[Before] Cookie-Name 37: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 38
+[After] Website-Cookies: [{'domain': '.marandino.de', 'expiry': 1676030671, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': 'marandino.de', 'expiry': 1647086670, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0NDk0NjcwNjI4LCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjowfX0='}, {'domain': '.marandino.de', 'expiry': 1676030657, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVpqUXdaRGd3Wm1RdFpqUTJOQzAwWmpkaUxXRXhaakF0Wmpkak5EZGtPVEEwWkRVdw'}, {'domain': '.marandino.de', 'expiry': 1652270670, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644494657301.1863096762'}, {'domain': 'marandino.de', 'expiry': 1645704257, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': 'marandino.de', 'expiry': 1645704271, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '12fc98ef5402511b5cb757f66aa2a654'}, {'domain': '.marandino.de', 'expiry': 1707566657, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1447316567.1644494657'}, {'domain': 'marandino.de', 'expiry': 1645704257, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644494656'}, {'domain': 'marandino.de', 'httpOnly': False, 'name': 'locale_bar_accepted', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'marandino.de', 'expiry': 1676030656, 'httpOnly': False, 'name': 'po_visitor', 'path': '/', 'secure': False, 'value': '5S-GsbiNiYOb'}, {'domain': '.marandino.de', 'expiry': 1644496455, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.marandino.de', 'expiry': 1644494717, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.marandino.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'marandino.de', 'expiry': 1644494775, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.marandino.de', 'expiry': 1676030655, 'httpOnly': False, 'name': '_hjSessionUser_2815954', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjEyNjU1YzYwLTlhMzctNTcxMy1hNDhkLThlMTI0ZmQ4NDU2OCIsImNyZWF0ZWQiOjE2NDQ0OTQ2NTU5MjIsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': 'marandino.de', 'expiry': 1644494775, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'marandino.de', 'expiry': 1644498255, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.marandino.de', 'expiry': 1676030671, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%2C%22CCPA%22%3A%221%22%7D%7D'}, {'domain': '.marandino.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.marandino.de', 'expiry': 1652270655, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.562675493.1644494655'}, {'domain': 'marandino.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.marandino.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T12%3A04%3A15.788Z'}, {'domain': '.marandino.de', 'expiry': 1644496471, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.marandino.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '241a5442-bf5d-472e-9438-7dd33bf9263f'}, {'domain': '.marandino.de', 'expiry': 1645704255, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.marandino.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T12%3A04%3A15.852Z'}, {'domain': '.marandino.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '383a44cc-eb5e-4c7c-9932-e91b4634d214'}, {'domain': 'marandino.de', 'expiry': 1645704257, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '63387ee5241a1e5580644a1d533542ae'}, {'domain': '.marandino.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '241a5442-bf5d-472e-9438-7dd33bf9263f'}, {'domain': '.marandino.de', 'expiry': 1644496455, 'httpOnly': False, 'name': '_hjSession_2815954', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjUxY2U2ZDdjLWZjMzUtNDBiYi04ZmIxLTM1ODEwNjc3N2E1MyIsImNyZWF0ZWQiOjE2NDQ0OTQ2NTU5NTIsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': '.marandino.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '383a44cc-eb5e-4c7c-9932-e91b4634d214'}, {'domain': '.marandino.de', 'expiry': 1644581057, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1992704879.1644494657'}, {'domain': 'marandino.de', 'expiry': 1645704271, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.marandino.de', 'expiry': 1645704271, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.marandino.de', 'expiry': 1644496455, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.marandino.de', 'expiry': 1645704271, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'marandino.de', 'expiry': 1645704271, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'marandino.de', 'expiry': 1676030671, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _shopify_m
+[After] Cookie-Name 2: _bc_c_set
+[After] Cookie-Name 3: _pin_unauth
+[After] Cookie-Name 4: _fbp
+[After] Cookie-Name 5: cart_ver
+[After] Cookie-Name 6: cart_sig
+[After] Cookie-Name 7: _ga
+[After] Cookie-Name 8: cart_ts
+[After] Cookie-Name 9: locale_bar_accepted
+[After] Cookie-Name 10: po_visitor
+[After] Cookie-Name 11: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 12: _gat
+[After] Cookie-Name 13: _shopify_evids
+[After] Cookie-Name 14: _hjIncludedInPageviewSample
+[After] Cookie-Name 15: _hjSessionUser_2815954
+[After] Cookie-Name 16: _hjIncludedInSessionSample
+[After] Cookie-Name 17: shopify_pay_redirect
+[After] Cookie-Name 18: _tracking_consent
+[After] Cookie-Name 19: _shopify_sa_p
+[After] Cookie-Name 20: _gcl_au
+[After] Cookie-Name 21: _shopify_evids
+[After] Cookie-Name 22: _shopify_d
+[After] Cookie-Name 23: _shopify_tm
+[After] Cookie-Name 24: _shopify_y
+[After] Cookie-Name 25: _shopify_tw
+[After] Cookie-Name 26: _shopify_sa_t
+[After] Cookie-Name 27: _shopify_s
+[After] Cookie-Name 28: cart
+[After] Cookie-Name 29: _y
+[After] Cookie-Name 30: _hjSession_2815954
+[After] Cookie-Name 31: _s
+[After] Cookie-Name 32: _gid
+[After] Cookie-Name 33: cart_currency
+[After] Cookie-Name 34: _landing_page
+[After] Cookie-Name 35: _hjFirstSeen
+[After] Cookie-Name 36: _orig_referrer
+[After] Cookie-Name 37: localization
+[After] Cookie-Name 38: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _hjIncludedInPageviewSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjIncludedInSessionSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: _bc_c_set
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

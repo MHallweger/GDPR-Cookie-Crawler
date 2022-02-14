@@ -1,0 +1,73 @@
+Website 279: http://www.vanguardworld.de/ | Created: 08.02.2022 23:04:53 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 20
+[Before] Website-Cookies: [{'domain': 'www.vanguardworld.de', 'expiry': 1707429894, 'httpOnly': False, 'name': '_sp_id.5f4c', 'path': '/', 'secure': False, 'value': 'ffaf336d179fd1bf.1644357884.1.1644357894.1644357884'}, {'domain': 'www.vanguardworld.de', 'expiry': 1644962684, 'httpOnly': False, 'name': 'plugGeoCountry', 'path': '/', 'secure': False, 'value': 'Germany'}, {'domain': 'www.vanguardworld.de', 'expiry': 1644962684, 'httpOnly': False, 'name': 'plugGeoCode', 'path': '/', 'secure': False, 'value': 'de'}, {'domain': 'www.vanguardworld.de', 'expiry': 1644361484, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'www.vanguardworld.de', 'expiry': 1644359694, 'httpOnly': False, 'name': '_sp_ses.5f4c', 'path': '/', 'secure': False, 'value': '*'}, {'domain': '.vanguardworld.de', 'expiry': 1644359684, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T22%3A04%3A44.237Z'}, {'domain': '.vanguardworld.de', 'expiry': 1644357944, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.vanguardworld.de', 'expiry': 1675893885, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd5c9d94d-70e9-4ec0-b2e8-aa7dcbbe7c5d'}, {'domain': '.vanguardworld.de', 'expiry': 1707429884, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.2084516840.1644357884'}, {'domain': '.vanguardworld.de', 'expiry': 1644359685, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '154e9369-e582-436d-a356-a789742f45c0'}, {'domain': '.vanguardworld.de', 'expiry': 1652133885, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644357884510.753711023'}, {'domain': '.vanguardworld.de', 'expiry': 1644359685, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '154e9369-e582-436d-a356-a789742f45c0'}, {'domain': '.vanguardworld.de', 'expiry': 1675893885, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd5c9d94d-70e9-4ec0-b2e8-aa7dcbbe7c5d'}, {'domain': '.vanguardworld.de', 'expiry': 1644444284, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.940108649.1644357884'}, {'domain': '.vanguardworld.de', 'expiry': 1645567483, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.vanguardworld.de', 'expiry': 1644359684, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.vanguardworld.de', 'expiry': 1645567485, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.vanguardworld.de', 'expiry': 1645567483, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.vanguardworld.de', 'expiry': 1645567485, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.vanguardworld.de', 'expiry': 1675893885, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _sp_id.5f4c
+[Before] Cookie-Name 2: plugGeoCountry
+[Before] Cookie-Name 3: plugGeoCode
+[Before] Cookie-Name 4: shopify_pay_redirect
+[Before] Cookie-Name 5: _sp_ses.5f4c
+[Before] Cookie-Name 6: _shopify_sa_t
+[Before] Cookie-Name 7: _gat
+[Before] Cookie-Name 8: _shopify_y
+[Before] Cookie-Name 9: _ga
+[Before] Cookie-Name 10: _shopify_s
+[Before] Cookie-Name 11: _fbp
+[Before] Cookie-Name 12: _s
+[Before] Cookie-Name 13: _y
+[Before] Cookie-Name 14: _gid
+[Before] Cookie-Name 15: _landing_page
+[Before] Cookie-Name 16: _shopify_sa_p
+[Before] Cookie-Name 17: localization
+[Before] Cookie-Name 18: _orig_referrer
+[Before] Cookie-Name 19: cart_currency
+[Before] Cookie-Name 20: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 19
+[After] Website-Cookies: [{'domain': 'www.vanguardworld.de', 'expiry': 1707429894, 'httpOnly': False, 'name': '_sp_id.5f4c', 'path': '/', 'secure': False, 'value': 'ffaf336d179fd1bf.1644357884.1.1644357894.1644357884'}, {'domain': 'www.vanguardworld.de', 'expiry': 1644361484, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'www.vanguardworld.de', 'expiry': 1644359694, 'httpOnly': False, 'name': '_sp_ses.5f4c', 'path': '/', 'secure': False, 'value': '*'}, {'domain': '.vanguardworld.de', 'expiry': 1644359684, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T22%3A04%3A44.237Z'}, {'domain': '.vanguardworld.de', 'expiry': 1644357944, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.vanguardworld.de', 'expiry': 1675893885, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd5c9d94d-70e9-4ec0-b2e8-aa7dcbbe7c5d'}, {'domain': '.vanguardworld.de', 'expiry': 1707429884, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.2084516840.1644357884'}, {'domain': '.vanguardworld.de', 'expiry': 1644359685, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '154e9369-e582-436d-a356-a789742f45c0'}, {'domain': '.vanguardworld.de', 'expiry': 1652133899, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644357884510.753711023'}, {'domain': '.vanguardworld.de', 'expiry': 1644359685, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '154e9369-e582-436d-a356-a789742f45c0'}, {'domain': '.vanguardworld.de', 'expiry': 1675893885, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd5c9d94d-70e9-4ec0-b2e8-aa7dcbbe7c5d'}, {'domain': '.vanguardworld.de', 'expiry': 1644444284, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.940108649.1644357884'}, {'domain': '.vanguardworld.de', 'expiry': 1645567483, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.vanguardworld.de', 'expiry': 1675893900, 'httpOnly': False, 'name': 'CookieConsent', 'path': '/', 'secure': True, 'value': '{stamp:%27jccbuIDhkb93K3YCQnc1/h+filL3VOkpPzcNWHKjvzdvELeAnxB5jg==%27%2Cnecessary:true%2Cpreferences:true%2Cstatistics:true%2Cmarketing:true%2Cver:1%2Cutc:1644357900313%2Cregion:%27de%27}'}, {'domain': '.vanguardworld.de', 'expiry': 1644359684, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.vanguardworld.de', 'expiry': 1645567485, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.vanguardworld.de', 'expiry': 1645567483, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.vanguardworld.de', 'expiry': 1645567485, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.vanguardworld.de', 'expiry': 1675893885, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _sp_id.5f4c
+[After] Cookie-Name 2: shopify_pay_redirect
+[After] Cookie-Name 3: _sp_ses.5f4c
+[After] Cookie-Name 4: _shopify_sa_t
+[After] Cookie-Name 5: _gat
+[After] Cookie-Name 6: _shopify_y
+[After] Cookie-Name 7: _ga
+[After] Cookie-Name 8: _shopify_s
+[After] Cookie-Name 9: _fbp
+[After] Cookie-Name 10: _s
+[After] Cookie-Name 11: _y
+[After] Cookie-Name 12: _gid
+[After] Cookie-Name 13: _landing_page
+[After] Cookie-Name 14: CookieConsent
+[After] Cookie-Name 15: _shopify_sa_p
+[After] Cookie-Name 16: localization
+[After] Cookie-Name 17: _orig_referrer
+[After] Cookie-Name 18: cart_currency
+[After] Cookie-Name 19: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gid (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 3
+[Difference] Cookie-Name: 1: plugGeoCode
+[Difference] Cookie-Name: 2: plugGeoCountry
+[Difference] Cookie-Name: 3: CookieConsent
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

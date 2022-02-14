@@ -1,0 +1,68 @@
+Website 149: http://www.kbsocken.de/ | Created: 09.02.2022 14:27:20 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 19
+[Before] Website-Cookies: [{'domain': 'kbsocken.de', 'httpOnly': False, 'name': '__brLastSetCartToken', 'path': '/', 'secure': False, 'value': ''}, {'domain': '.kbsocken.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A27%3A10.042Z'}, {'domain': '.kbsocken.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kbsocken.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A27%3A10.037Z'}, {'domain': '.kbsocken.de', 'expiry': 1675949229, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.kbsocken.de', 'expiry': 1645622829, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kbsocken.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kbsocken.de', 'expiry': 1644415032, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kbsocken.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a537ae2d-402d-4bc4-8a3c-53fd4d37115c'}, {'domain': '.kbsocken.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a537ae2d-402d-4bc4-8a3c-53fd4d37115c'}, {'domain': '.kbsocken.de', 'expiry': 1675949229, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22lim%22%3A%5B%22GDPR%22%5D%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%7D'}, {'domain': '.kbsocken.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0d671865-c11f-473c-9f9f-77570cfb3044'}, {'domain': '.kbsocken.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'kbsocken.de', 'expiry': 1645622832, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': 'kbsocken.de', 'expiry': 1645622832, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': ''}, {'domain': 'kbsocken.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kbsocken.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.kbsocken.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0d671865-c11f-473c-9f9f-77570cfb3044'}, {'domain': 'kbsocken.de', 'expiry': 1675949232, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: __brLastSetCartToken
+[Before] Cookie-Name 2: _shopify_sa_t
+[Before] Cookie-Name 3: _shopify_evids
+[Before] Cookie-Name 4: _shopify_d
+[Before] Cookie-Name 5: _shopify_m
+[Before] Cookie-Name 6: _shopify_tw
+[Before] Cookie-Name 7: _shopify_sa_p
+[Before] Cookie-Name 8: _shopify_tm
+[Before] Cookie-Name 9: _s
+[Before] Cookie-Name 10: _shopify_s
+[Before] Cookie-Name 11: _tracking_consent
+[Before] Cookie-Name 12: _shopify_y
+[Before] Cookie-Name 13: _orig_referrer
+[Before] Cookie-Name 14: cart_currency
+[Before] Cookie-Name 15: localization
+[Before] Cookie-Name 16: _shopify_evids
+[Before] Cookie-Name 17: _landing_page
+[Before] Cookie-Name 18: _y
+[Before] Cookie-Name 19: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 21
+[After] Website-Cookies: [{'domain': '.kbsocken.de', 'expiry': 1652189246, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1141189080.1644413246'}, {'domain': '.kbsocken.de', 'expiry': 1675949246, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%221%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%7D'}, {'domain': '.kbsocken.de', 'expiry': 1675949246, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': 'kbsocken.de', 'expiry': 1645622846, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f9fa9d06ae50239a857d705a57dab01f'}, {'domain': 'kbsocken.de', 'httpOnly': False, 'name': '__brLastSetCartToken', 'path': '/', 'secure': False, 'value': ''}, {'domain': '.kbsocken.de', 'expiry': 1644415046, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A27%3A10.042Z'}, {'domain': '.kbsocken.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kbsocken.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A27%3A10.037Z'}, {'domain': '.kbsocken.de', 'expiry': 1644415046, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kbsocken.de', 'expiry': 1644415046, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kbsocken.de', 'expiry': 1645622829, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kbsocken.de', 'expiry': 1644415046, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a537ae2d-402d-4bc4-8a3c-53fd4d37115c'}, {'domain': '.kbsocken.de', 'expiry': 1644415046, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a537ae2d-402d-4bc4-8a3c-53fd4d37115c'}, {'domain': '.kbsocken.de', 'expiry': 1675949246, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0d671865-c11f-473c-9f9f-77570cfb3044'}, {'domain': '.kbsocken.de', 'expiry': 1645622846, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'kbsocken.de', 'expiry': 1645622846, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'kbsocken.de', 'expiry': 1645622846, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'kbsocken.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kbsocken.de', 'expiry': 1645622846, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.kbsocken.de', 'expiry': 1675949246, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0d671865-c11f-473c-9f9f-77570cfb3044'}, {'domain': 'kbsocken.de', 'expiry': 1675949246, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _gcl_au
+[After] Cookie-Name 2: _tracking_consent
+[After] Cookie-Name 3: _shopify_m
+[After] Cookie-Name 4: cart_sig
+[After] Cookie-Name 5: __brLastSetCartToken
+[After] Cookie-Name 6: _shopify_sa_t
+[After] Cookie-Name 7: _shopify_evids
+[After] Cookie-Name 8: _shopify_d
+[After] Cookie-Name 9: _shopify_sa_p
+[After] Cookie-Name 10: _shopify_tm
+[After] Cookie-Name 11: _shopify_tw
+[After] Cookie-Name 12: _s
+[After] Cookie-Name 13: _shopify_s
+[After] Cookie-Name 14: _shopify_y
+[After] Cookie-Name 15: _orig_referrer
+[After] Cookie-Name 16: cart_currency
+[After] Cookie-Name 17: localization
+[After] Cookie-Name 18: _shopify_evids
+[After] Cookie-Name 19: _landing_page
+[After] Cookie-Name 20: _y
+[After] Cookie-Name 21: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 2
+[Difference] Cookie-Name: 1: cart_sig
+[Difference] Cookie-Name: 2: _gcl_au
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is NOT GDPR compliant!

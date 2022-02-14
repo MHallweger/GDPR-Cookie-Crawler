@@ -1,0 +1,59 @@
+Website 148: http://www.holyhall.de/ | Created: 10.02.2022 18:03:50 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 4
+[Before] Website-Cookies: [{'domain': '.holyhall.de', 'expiry': 1645722220, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.holyhall.de', 'expiry': 1645722220, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'holyhall.de', 'expiry': 1645722221, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': 'holyhall.de', 'expiry': 1676048621, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _landing_page
+[Before] Cookie-Name 2: _orig_referrer
+[Before] Cookie-Name 3: cart_currency
+[Before] Cookie-Name 4: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 16
+[After] Website-Cookies: [{'domain': '.holyhall.de', 'expiry': 1652288636, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644512636150.1553390462'}, {'domain': '.holyhall.de', 'expiry': 1644599035, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.414896443.1644512636'}, {'domain': 'holyhall.de', 'expiry': 1647104635, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0NTEyNjM1NzUzLCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjowfX0='}, {'domain': 'holyhall.de', 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'holyhall.de', 'expiry': 1644514435, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cee9777c-4acf-47dd-a992-423ea5970357'}, {'domain': 'holyhall.de', 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ1MTI2MjIsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vaG9seWhhbGwuZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NTEyNjIyLCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL2hvbHloYWxsLmRlLyJ9fQ=='}, {'domain': '.holyhall.de', 'expiry': 1644512695, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.holyhall.de', 'expiry': 1707584635, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.669025847.1644512636'}, {'domain': 'holyhall.de', 'expiry': 1676048635, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7e5d30c5-a275-4df2-a7bb-1d4816b898e0'}, {'domain': 'holyhall.de', 'expiry': 1644514435, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cee9777c-4acf-47dd-a992-423ea5970357'}, {'domain': '.holyhall.de', 'expiry': 1645722220, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.holyhall.de', 'expiry': 1645722220, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'holyhall.de', 'expiry': 1644514435, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A03%3A41.302Z'}, {'domain': 'holyhall.de', 'expiry': 1645722221, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': 'holyhall.de', 'expiry': 1676048635, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7e5d30c5-a275-4df2-a7bb-1d4816b898e0'}, {'domain': 'holyhall.de', 'expiry': 1676048621, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _fbp
+[After] Cookie-Name 2: _gid
+[After] Cookie-Name 3: _bc_c_set
+[After] Cookie-Name 4: localization
+[After] Cookie-Name 5: _shopify_s
+[After] Cookie-Name 6: __kla_id
+[After] Cookie-Name 7: _gat
+[After] Cookie-Name 8: _ga
+[After] Cookie-Name 9: _shopify_y
+[After] Cookie-Name 10: _s
+[After] Cookie-Name 11: _landing_page
+[After] Cookie-Name 12: _orig_referrer
+[After] Cookie-Name 13: _shopify_sa_t
+[After] Cookie-Name 14: cart_currency
+[After] Cookie-Name 15: _y
+[After] Cookie-Name 16: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 12
+[Difference] Cookie-Name: 1: _ga
+[Difference] Cookie-Name: 2: _bc_c_set
+[Difference] Cookie-Name: 3: _shopify_s
+[Difference] Cookie-Name: 4: _gid
+[Difference] Cookie-Name: 5: _shopify_sa_t
+[Difference] Cookie-Name: 6: _s
+[Difference] Cookie-Name: 7: _y
+[Difference] Cookie-Name: 8: _gat
+[Difference] Cookie-Name: 9: _shopify_y
+[Difference] Cookie-Name: 10: _fbp
+[Difference] Cookie-Name: 11: __kla_id
+[Difference] Cookie-Name: 12: localization
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

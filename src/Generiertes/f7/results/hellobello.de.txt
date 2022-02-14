@@ -1,0 +1,90 @@
+Website 73: http://www.hellobello.de/ | Created: 10.02.2022 17:41:16 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 29
+[Before] Website-Cookies: [{'domain': 'www.hellobello.de', 'expiry': 1645720869, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A3'}, {'domain': 'www.hellobello.de', 'expiry': 1645720869, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644511269'}, {'domain': '.hellobello.de', 'httpOnly': False, 'name': '_at_cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fcf8e7686665b5889afbbacbc5513d6b'}, {'domain': 'www.hellobello.de', 'expiry': 1645720869, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f9c220222f1ee5b47101bc912744a18f'}, {'domain': 'www.hellobello.de', 'expiry': 1676047269, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.hellobello.de', 'expiry': 1707583267, 'httpOnly': False, 'name': '_atcid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'dhjd8iX6mr2yMj'}, {'domain': '.hellobello.de', 'expiry': 1652287266, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.637005659.1644511267'}, {'domain': '.hellobello.de', 'expiry': 1644597665, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': '3db074708a9011eca318f7e3b79a50dd'}, {'domain': '.hellobello.de', 'expiry': 1652287267, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644511266895.1153258814'}, {'domain': '.hellobello.de', 'expiry': 1644597667, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': 'fkkyty|1644511267703|2|1|a.clarity.ms/collect'}, {'domain': '.hellobello.de', 'expiry': 1676047267, 'httpOnly': False, 'name': 'ajs_anonymous_id', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%22206ba392-b9e9-4c24-91e4-98bf742644bc%22'}, {'domain': '.hellobello.de', 'expiry': 1707583266, 'httpOnly': False, 'name': 'lo-uid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': 'b54873e6-1644511265914-8286574a9b06ae59'}, {'domain': 'www.hellobello.de', 'expiry': 1707583266, 'httpOnly': False, 'name': '_drip_client_1359088', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'vid%253Dd6c41a2a4ecc47a7aa94da8de9605a81%2526pageViews%253D1%2526sessionPageCount%253D1%2526lastVisitedAt%253D1644511266303%2526weeklySessionCount%253D1%2526lastSessionAt%253D1644511266303'}, {'domain': '.hellobello.de', 'expiry': 1644513065, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.hellobello.de', 'expiry': 1707583267, 'httpOnly': False, 'name': '_atcid-pt', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644511267139'}, {'domain': '.hellobello.de', 'expiry': 1644513069, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '82824167-ee2f-4784-a835-7dc3c5dc44c4'}, {'domain': 'www.hellobello.de', 'expiry': 1645720869, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'www.hellobello.de', 'expiry': 1644514865, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.hellobello.de', 'expiry': 1678207265, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '3db0b3408a9011ecb5aef1a830304576'}, {'domain': '.hellobello.de', 'expiry': 1644513069, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '82824167-ee2f-4784-a835-7dc3c5dc44c4'}, {'domain': '.hellobello.de', 'expiry': 1644513065, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T16%3A41%3A05.366Z'}, {'domain': '.hellobello.de', 'expiry': 1707583266, 'httpOnly': False, 'name': 'lo-visits', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': '1'}, {'domain': '.hellobello.de', 'expiry': 1676047269, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f4dce9f2-cca5-4e52-8d32-370d5a86c3d2'}, {'domain': '.hellobello.de', 'expiry': 1676047269, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f4dce9f2-cca5-4e52-8d32-370d5a86c3d2'}, {'domain': 'www.hellobello.de', 'expiry': 1645720869, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fcf8e7686665b5889afbbacbc5513d6b'}, {'domain': '.hellobello.de', 'expiry': 1645720865, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.hellobello.de', 'expiry': 1645720869, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.hellobello.de', 'expiry': 1676047266, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': 'knswv8|1|eyv|0'}, {'domain': '.hellobello.de', 'expiry': 1645720865, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[Before] Cookie-Name 1: cart_ver
+[Before] Cookie-Name 2: cart_ts
+[Before] Cookie-Name 3: _at_cart
+[Before] Cookie-Name 4: cart_sig
+[Before] Cookie-Name 5: secure_customer_sig
+[Before] Cookie-Name 6: _atcid
+[Before] Cookie-Name 7: _gcl_au
+[Before] Cookie-Name 8: _uetsid
+[Before] Cookie-Name 9: _fbp
+[Before] Cookie-Name 10: _clsk
+[Before] Cookie-Name 11: ajs_anonymous_id
+[Before] Cookie-Name 12: lo-uid
+[Before] Cookie-Name 13: _drip_client_1359088
+[Before] Cookie-Name 14: _shopify_sa_p
+[Before] Cookie-Name 15: _atcid-pt
+[Before] Cookie-Name 16: _s
+[Before] Cookie-Name 17: localization
+[Before] Cookie-Name 18: shopify_pay_redirect
+[Before] Cookie-Name 19: _uetvid
+[Before] Cookie-Name 20: _shopify_s
+[Before] Cookie-Name 21: _shopify_sa_t
+[Before] Cookie-Name 22: lo-visits
+[Before] Cookie-Name 23: _shopify_y
+[Before] Cookie-Name 24: _y
+[Before] Cookie-Name 25: cart
+[Before] Cookie-Name 26: _landing_page
+[Before] Cookie-Name 27: cart_currency
+[Before] Cookie-Name 28: _clck
+[Before] Cookie-Name 29: _orig_referrer
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 30
+[After] Website-Cookies: [{'domain': 'www.hellobello.de', 'expiry': 1676047281, 'httpOnly': False, 'name': 'cookieconsent_status', 'path': '/', 'secure': False, 'value': 'dismiss'}, {'domain': 'www.hellobello.de', 'expiry': 1645720869, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A3'}, {'domain': 'www.hellobello.de', 'expiry': 1645720869, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644511269'}, {'domain': '.hellobello.de', 'httpOnly': False, 'name': '_at_cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fcf8e7686665b5889afbbacbc5513d6b'}, {'domain': 'www.hellobello.de', 'expiry': 1645720869, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f9c220222f1ee5b47101bc912744a18f'}, {'domain': 'www.hellobello.de', 'expiry': 1676047269, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.hellobello.de', 'expiry': 1707583267, 'httpOnly': False, 'name': '_atcid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'dhjd8iX6mr2yMj'}, {'domain': '.hellobello.de', 'expiry': 1652287266, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.637005659.1644511267'}, {'domain': '.hellobello.de', 'expiry': 1644597665, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': '3db074708a9011eca318f7e3b79a50dd'}, {'domain': '.hellobello.de', 'expiry': 1652287281, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644511266895.1153258814'}, {'domain': '.hellobello.de', 'expiry': 1644597667, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': 'fkkyty|1644511267703|2|1|a.clarity.ms/collect'}, {'domain': '.hellobello.de', 'expiry': 1676047267, 'httpOnly': False, 'name': 'ajs_anonymous_id', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%22206ba392-b9e9-4c24-91e4-98bf742644bc%22'}, {'domain': '.hellobello.de', 'expiry': 1707583266, 'httpOnly': False, 'name': 'lo-uid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': 'b54873e6-1644511265914-8286574a9b06ae59'}, {'domain': 'www.hellobello.de', 'expiry': 1707583266, 'httpOnly': False, 'name': '_drip_client_1359088', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'vid%253Dd6c41a2a4ecc47a7aa94da8de9605a81%2526pageViews%253D1%2526sessionPageCount%253D1%2526lastVisitedAt%253D1644511266303%2526weeklySessionCount%253D1%2526lastSessionAt%253D1644511266303'}, {'domain': '.hellobello.de', 'expiry': 1644513065, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.hellobello.de', 'expiry': 1707583267, 'httpOnly': False, 'name': '_atcid-pt', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644511267139'}, {'domain': '.hellobello.de', 'expiry': 1644513069, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '82824167-ee2f-4784-a835-7dc3c5dc44c4'}, {'domain': 'www.hellobello.de', 'expiry': 1645720869, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'www.hellobello.de', 'expiry': 1644514865, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.hellobello.de', 'expiry': 1678207265, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '3db0b3408a9011ecb5aef1a830304576'}, {'domain': '.hellobello.de', 'expiry': 1644513069, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '82824167-ee2f-4784-a835-7dc3c5dc44c4'}, {'domain': '.hellobello.de', 'expiry': 1644513065, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T16%3A41%3A05.366Z'}, {'domain': '.hellobello.de', 'expiry': 1707583266, 'httpOnly': False, 'name': 'lo-visits', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': '1'}, {'domain': '.hellobello.de', 'expiry': 1676047269, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f4dce9f2-cca5-4e52-8d32-370d5a86c3d2'}, {'domain': '.hellobello.de', 'expiry': 1676047269, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f4dce9f2-cca5-4e52-8d32-370d5a86c3d2'}, {'domain': 'www.hellobello.de', 'expiry': 1645720869, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fcf8e7686665b5889afbbacbc5513d6b'}, {'domain': '.hellobello.de', 'expiry': 1645720865, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.hellobello.de', 'expiry': 1645720869, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.hellobello.de', 'expiry': 1676047266, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': 'knswv8|1|eyv|0'}, {'domain': '.hellobello.de', 'expiry': 1645720865, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: cookieconsent_status
+[After] Cookie-Name 2: cart_ver
+[After] Cookie-Name 3: cart_ts
+[After] Cookie-Name 4: _at_cart
+[After] Cookie-Name 5: cart_sig
+[After] Cookie-Name 6: secure_customer_sig
+[After] Cookie-Name 7: _atcid
+[After] Cookie-Name 8: _gcl_au
+[After] Cookie-Name 9: _uetsid
+[After] Cookie-Name 10: _fbp
+[After] Cookie-Name 11: _clsk
+[After] Cookie-Name 12: ajs_anonymous_id
+[After] Cookie-Name 13: lo-uid
+[After] Cookie-Name 14: _drip_client_1359088
+[After] Cookie-Name 15: _shopify_sa_p
+[After] Cookie-Name 16: _atcid-pt
+[After] Cookie-Name 17: _s
+[After] Cookie-Name 18: localization
+[After] Cookie-Name 19: shopify_pay_redirect
+[After] Cookie-Name 20: _uetvid
+[After] Cookie-Name 21: _shopify_s
+[After] Cookie-Name 22: _shopify_sa_t
+[After] Cookie-Name 23: lo-visits
+[After] Cookie-Name 24: _shopify_y
+[After] Cookie-Name 25: _y
+[After] Cookie-Name 26: cart
+[After] Cookie-Name 27: _landing_page
+[After] Cookie-Name 28: cart_currency
+[After] Cookie-Name 29: _clck
+[After] Cookie-Name 30: _orig_referrer
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _clsk (Microsoft Clarity (User experience tool))
+[Used before] Cookie-Name: _clck (Microsoft Clarity (User experience tool))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: cookieconsent_status
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

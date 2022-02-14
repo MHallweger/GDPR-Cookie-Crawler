@@ -1,0 +1,107 @@
+Website 242: http://www.rosental.de/ | Created: 09.02.2022 14:54:21 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 35
+[Before] Website-Cookies: [{'domain': '.rosental.de', 'expiry': 1678601549, 'httpOnly': False, 'name': '_scid', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '534d42f5-064a-4664-a8dd-141aadc072ed'}, {'domain': 'rosental.de', 'expiry': 1959774852, 'httpOnly': False, 'name': 'octane%2Fshopify%2Fuid', 'path': '/', 'secure': False, 'value': '5d8e73c6e7ec18c787d905204d36d376ffe07d377700c2b7cc85dbd8dc94976400e3a7d2d2b8ecd2877290c94511da465f753d4dba6bcddd278b8341'}, {'domain': '.rosental.de', 'expiry': 1675950851, 'httpOnly': False, 'name': 'egod_mfsrsntal', 'path': '/', 'secure': False, 'value': 'ed40599xqkyq9qv26.164293792773'}, {'domain': '.rosental.de', 'expiry': 1675950851, 'httpOnly': False, 'name': 'egos_mfsrsntal', 'path': '/', 'secure': False, 'value': 'es40599xjkzfm57rs.164447039548'}, {'domain': '.rosental.de', 'expiry': 1675950851, 'httpOnly': False, 'name': 'egou', 'path': '/', 'secure': False, 'value': 'eu40599xqkyq9qv1r.164290792730'}, {'domain': '.rosental.de', 'expiry': 1644416651, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.rosental.de', 'expiry': 1675950851, 'httpOnly': False, 'name': '_gcd', 'path': '/', 'secure': False, 'value': 'b2116d6a-96e7-4b7f-b7d2-e0b7db2f3b4b'}, {'domain': '.rosental.de', 'expiry': 1644416651, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.rosental.de', 'expiry': 1644416650, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.rosental.de', 'expiry': 1707486851, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.2038330458.1644414851'}, {'domain': 'rosental.de', 'expiry': 1707486851, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MTQ4NTEsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vcm9zZW50YWwuZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NDE0ODUxLCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL3Jvc2VudGFsLmRlLyJ9fQ=='}, {'domain': '.rosental.de', 'expiry': 1644414910, 'httpOnly': False, 'name': '_gat_UA-105719509-6', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.rosental.de', 'expiry': 1644501251, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.916431085.1644414851'}, {'domain': '.rosental.de', 'expiry': 1707486851, 'httpOnly': False, 'name': '_ga_NW8NHY18V4', 'path': '/', 'secure': False, 'value': 'GS1.1.1644414850.1.0.1644414850.60'}, {'domain': '.rosental.de', 'expiry': 1644414910, 'httpOnly': False, 'name': '_gat_UA-105719509-8', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.rosental.de', 'expiry': 1675950851, 'httpOnly': False, 'name': '_hjSessionUser_1541686', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjEwNzFmMzQ0LTE0OTgtNTk1MC1hMzYzLTVmNzY3ZDhlMjYxNiIsImNyZWF0ZWQiOjE2NDQ0MTQ4NTA3OTgsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.rosental.de', 'expiry': 1644416650, 'httpOnly': False, 'name': 'ABTastySession', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'mrasn=&sen=3&lp=https%253A%252F%252Frosental.de%252F'}, {'domain': '.rosental.de', 'expiry': 1644416654, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cb6f34d3-ab9b-43d3-9fd4-74a4e46000e0'}, {'domain': '.rosental.de', 'expiry': 1677938050, 'httpOnly': False, 'name': 'ABTasty', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'uid=5j1rqtv67t3ry5np&fst=1644414850554&pst=-1&cst=1644414850554&ns=1&pvt=1&pvis=1&th=794660.987128.1.1.1.1.1644414850669.1644414850669.1_801852.996090.1.1.1.1.1644414850671.1644414850671.1_811983.1008674.1.1.1.1.1644414850929.1644414850929.1'}, {'domain': '.rosental.de', 'expiry': 1675950854, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8a7c9e64-08cb-477d-9292-5fecc19a1d00'}, {'domain': '.rosental.de', 'expiry': 1652190850, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.84973540.1644414851'}, {'domain': '.rosental.de', 'expiry': 1644416650, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A54%3A10.873Z'}, {'domain': '.rosental.de', 'expiry': 1644416651, 'httpOnly': False, 'name': '_hjSession_1541686', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImJmMDEzNWExLWIwZWItNDQwYi05ODk5LWE0ZDk5Yjc1MTY0YyIsImNyZWF0ZWQiOjE2NDQ0MTQ4NTE0MTYsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': '.rosental.de', 'expiry': 1675950854, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8a7c9e64-08cb-477d-9292-5fecc19a1d00'}, {'domain': '.rosental.de', 'expiry': 1645624450, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.rosental.de', 'expiry': 1652190852, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644414851462.1339662803'}, {'domain': 'rosental.de', 'expiry': 1644414971, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.rosental.de', 'expiry': 1645624450, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'rosental.de', 'expiry': 1675950854, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'rosental.de', 'expiry': 1645624451, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.rosental.de', 'expiry': 1675950851, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVptTTFOVEprWVRRdE1qSXdaQzAwTXpNNUxUbGxNemd0TVRNME9UZzRaalk0TkRRMA'}, {'domain': '.rosental.de', 'expiry': 1644414910, 'httpOnly': False, 'name': '_gat_UA-105719509-9', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'rosental.de', 'expiry': 1644414971, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.rosental.de', 'expiry': 1644416654, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cb6f34d3-ab9b-43d3-9fd4-74a4e46000e0'}, {'domain': 'rosental.de', 'expiry': 1645624454, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[Before] Cookie-Name 1: _scid
+[Before] Cookie-Name 2: octane%2Fshopify%2Fuid
+[Before] Cookie-Name 3: egod_mfsrsntal
+[Before] Cookie-Name 4: egos_mfsrsntal
+[Before] Cookie-Name 5: egou
+[Before] Cookie-Name 6: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 7: _gcd
+[Before] Cookie-Name 8: _hjFirstSeen
+[Before] Cookie-Name 9: _shopify_sa_p
+[Before] Cookie-Name 10: _ga
+[Before] Cookie-Name 11: __kla_id
+[Before] Cookie-Name 12: _gat_UA-105719509-6
+[Before] Cookie-Name 13: _gid
+[Before] Cookie-Name 14: _ga_NW8NHY18V4
+[Before] Cookie-Name 15: _gat_UA-105719509-8
+[Before] Cookie-Name 16: _hjSessionUser_1541686
+[Before] Cookie-Name 17: ABTastySession
+[Before] Cookie-Name 18: _shopify_s
+[Before] Cookie-Name 19: ABTasty
+[Before] Cookie-Name 20: _shopify_y
+[Before] Cookie-Name 21: _gcl_au
+[Before] Cookie-Name 22: _shopify_sa_t
+[Before] Cookie-Name 23: _hjSession_1541686
+[Before] Cookie-Name 24: _y
+[Before] Cookie-Name 25: _landing_page
+[Before] Cookie-Name 26: _fbp
+[Before] Cookie-Name 27: _hjIncludedInSessionSample
+[Before] Cookie-Name 28: _orig_referrer
+[Before] Cookie-Name 29: secure_customer_sig
+[Before] Cookie-Name 30: cart_currency
+[Before] Cookie-Name 31: _pin_unauth
+[Before] Cookie-Name 32: _gat_UA-105719509-9
+[Before] Cookie-Name 33: _hjIncludedInPageviewSample
+[Before] Cookie-Name 34: _s
+[Before] Cookie-Name 35: localization
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 35
+[After] Website-Cookies: [{'domain': '.rosental.de', 'expiry': 1678601549, 'httpOnly': False, 'name': '_scid', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '534d42f5-064a-4664-a8dd-141aadc072ed'}, {'domain': 'rosental.de', 'expiry': 1959774852, 'httpOnly': False, 'name': 'octane%2Fshopify%2Fuid', 'path': '/', 'secure': False, 'value': '5d8e73c6e7ec18c787d905204d36d376ffe07d377700c2b7cc85dbd8dc94976400e3a7d2d2b8ecd2877290c94511da465f753d4dba6bcddd278b8341'}, {'domain': '.rosental.de', 'expiry': 1675950851, 'httpOnly': False, 'name': 'egod_mfsrsntal', 'path': '/', 'secure': False, 'value': 'ed40599xqkyq9qv26.164293792773'}, {'domain': '.rosental.de', 'expiry': 1675950851, 'httpOnly': False, 'name': 'egos_mfsrsntal', 'path': '/', 'secure': False, 'value': 'es40599xjkzfm57rs.164447039548'}, {'domain': '.rosental.de', 'expiry': 1675950851, 'httpOnly': False, 'name': 'egou', 'path': '/', 'secure': False, 'value': 'eu40599xqkyq9qv1r.164290792730'}, {'domain': '.rosental.de', 'expiry': 1644416651, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.rosental.de', 'expiry': 1675950851, 'httpOnly': False, 'name': '_gcd', 'path': '/', 'secure': False, 'value': 'b2116d6a-96e7-4b7f-b7d2-e0b7db2f3b4b'}, {'domain': '.rosental.de', 'expiry': 1644416651, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.rosental.de', 'expiry': 1644416650, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.rosental.de', 'expiry': 1707486851, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.2038330458.1644414851'}, {'domain': 'rosental.de', 'expiry': 1707486851, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MTQ4NTEsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vcm9zZW50YWwuZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NDE0ODUxLCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL3Jvc2VudGFsLmRlLyJ9fQ=='}, {'domain': '.rosental.de', 'expiry': 1644414910, 'httpOnly': False, 'name': '_gat_UA-105719509-6', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.rosental.de', 'expiry': 1644501251, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.916431085.1644414851'}, {'domain': '.rosental.de', 'expiry': 1707486851, 'httpOnly': False, 'name': '_ga_NW8NHY18V4', 'path': '/', 'secure': False, 'value': 'GS1.1.1644414850.1.0.1644414850.60'}, {'domain': '.rosental.de', 'expiry': 1644414910, 'httpOnly': False, 'name': '_gat_UA-105719509-8', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.rosental.de', 'expiry': 1675950851, 'httpOnly': False, 'name': '_hjSessionUser_1541686', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjEwNzFmMzQ0LTE0OTgtNTk1MC1hMzYzLTVmNzY3ZDhlMjYxNiIsImNyZWF0ZWQiOjE2NDQ0MTQ4NTA3OTgsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.rosental.de', 'expiry': 1644416650, 'httpOnly': False, 'name': 'ABTastySession', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'mrasn=&sen=3&lp=https%253A%252F%252Frosental.de%252F'}, {'domain': '.rosental.de', 'expiry': 1644416654, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cb6f34d3-ab9b-43d3-9fd4-74a4e46000e0'}, {'domain': '.rosental.de', 'expiry': 1677938050, 'httpOnly': False, 'name': 'ABTasty', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'uid=5j1rqtv67t3ry5np&fst=1644414850554&pst=-1&cst=1644414850554&ns=1&pvt=1&pvis=1&th=794660.987128.1.1.1.1.1644414850669.1644414850669.1_801852.996090.1.1.1.1.1644414850671.1644414850671.1_811983.1008674.1.1.1.1.1644414850929.1644414850929.1'}, {'domain': '.rosental.de', 'expiry': 1675950854, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8a7c9e64-08cb-477d-9292-5fecc19a1d00'}, {'domain': '.rosental.de', 'expiry': 1652190850, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.84973540.1644414851'}, {'domain': '.rosental.de', 'expiry': 1644416650, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A54%3A10.873Z'}, {'domain': '.rosental.de', 'expiry': 1644416651, 'httpOnly': False, 'name': '_hjSession_1541686', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImJmMDEzNWExLWIwZWItNDQwYi05ODk5LWE0ZDk5Yjc1MTY0YyIsImNyZWF0ZWQiOjE2NDQ0MTQ4NTE0MTYsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': '.rosental.de', 'expiry': 1675950854, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8a7c9e64-08cb-477d-9292-5fecc19a1d00'}, {'domain': '.rosental.de', 'expiry': 1645624450, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.rosental.de', 'expiry': 1652190866, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644414851462.1339662803'}, {'domain': 'rosental.de', 'expiry': 1644414971, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.rosental.de', 'expiry': 1645624450, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'rosental.de', 'expiry': 1675950854, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'rosental.de', 'expiry': 1645624451, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.rosental.de', 'expiry': 1675950851, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVptTTFOVEprWVRRdE1qSXdaQzAwTXpNNUxUbGxNemd0TVRNME9UZzRaalk0TkRRMA'}, {'domain': '.rosental.de', 'expiry': 1644414910, 'httpOnly': False, 'name': '_gat_UA-105719509-9', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'rosental.de', 'expiry': 1644414971, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.rosental.de', 'expiry': 1644416654, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cb6f34d3-ab9b-43d3-9fd4-74a4e46000e0'}, {'domain': 'rosental.de', 'expiry': 1645624454, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[After] Cookie-Name 1: _scid
+[After] Cookie-Name 2: octane%2Fshopify%2Fuid
+[After] Cookie-Name 3: egod_mfsrsntal
+[After] Cookie-Name 4: egos_mfsrsntal
+[After] Cookie-Name 5: egou
+[After] Cookie-Name 6: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 7: _gcd
+[After] Cookie-Name 8: _hjFirstSeen
+[After] Cookie-Name 9: _shopify_sa_p
+[After] Cookie-Name 10: _ga
+[After] Cookie-Name 11: __kla_id
+[After] Cookie-Name 12: _gat_UA-105719509-6
+[After] Cookie-Name 13: _gid
+[After] Cookie-Name 14: _ga_NW8NHY18V4
+[After] Cookie-Name 15: _gat_UA-105719509-8
+[After] Cookie-Name 16: _hjSessionUser_1541686
+[After] Cookie-Name 17: ABTastySession
+[After] Cookie-Name 18: _shopify_s
+[After] Cookie-Name 19: ABTasty
+[After] Cookie-Name 20: _shopify_y
+[After] Cookie-Name 21: _gcl_au
+[After] Cookie-Name 22: _shopify_sa_t
+[After] Cookie-Name 23: _hjSession_1541686
+[After] Cookie-Name 24: _y
+[After] Cookie-Name 25: _landing_page
+[After] Cookie-Name 26: _fbp
+[After] Cookie-Name 27: _hjIncludedInSessionSample
+[After] Cookie-Name 28: _orig_referrer
+[After] Cookie-Name 29: secure_customer_sig
+[After] Cookie-Name 30: cart_currency
+[After] Cookie-Name 31: _pin_unauth
+[After] Cookie-Name 32: _gat_UA-105719509-9
+[After] Cookie-Name 33: _hjIncludedInPageviewSample
+[After] Cookie-Name 34: _s
+[After] Cookie-Name 35: localization
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _hjIncludedInSessionSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _hjIncludedInPageviewSample (Hotjar (User experience tool))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

@@ -1,0 +1,91 @@
+Website 76: http://www.facebug.de/ | Created: 08.02.2022 22:02:43 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 28
+[Before] Website-Cookies: [{'domain': '.myfacebug.de', 'expiry': 1644361361, 'httpOnly': False, 'name': 'ps_payloadSeqId', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '4'}, {'domain': '.myfacebug.de', 'expiry': 1644361354, 'httpOnly': False, 'name': '1644354154398zsrv0.39736859983062933', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1644354154398-1-1644354161887'}, {'domain': 'myfacebug.de', 'expiry': 1675890154, 'httpOnly': False, 'name': 'po_visitor', 'path': '/', 'secure': False, 'value': 'fy8aA4F1_A8v'}, {'domain': '.myfacebug.de', 'expiry': 1644361354, 'httpOnly': False, 'name': 'zsr78570d4ffac8459eac0234553d9e25e9', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1644354154398zsrv0.39736859983062933'}, {'domain': '.myfacebug.de', 'expiry': 1675890154, 'httpOnly': False, 'name': 'zabHMBucket', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '21c8d9664d3746c3b635e9a9bb4c348d'}, {'domain': '.myfacebug.de', 'expiry': 1644355953, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A02%3A33.014Z'}, {'domain': 'myfacebug.de', 'expiry': 1644357753, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.myfacebug.de', 'expiry': 1644361199, 'httpOnly': False, 'name': 'zft-sdc', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'isef%3Dtrue-isfr%3Dtrue-src%3Ddirect'}, {'domain': 'myfacebug.de', 'expiry': 1645563753, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': 'myfacebug.de', 'expiry': 1645563753, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': ''}, {'domain': '.myfacebug.de', 'expiry': 1652130153, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.2015727299.1644354153'}, {'domain': 'myfacebug.de', 'expiry': 1644354453, 'httpOnly': False, 'name': 'outbrain_cid_fetch', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': '.myfacebug.de', 'expiry': 1644355953, 'httpOnly': False, 'name': 'zsc11f87f3532744c8dbfe2edfe95158686', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1644354153479zsc0.48347504394727836'}, {'domain': '.myfacebug.de', 'expiry': 1644354212, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.myfacebug.de', 'expiry': 1644355953, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.myfacebug.de', 'expiry': 1644440552, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1790392426.1644354153'}, {'domain': '.myfacebug.de', 'expiry': 1645563751, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.myfacebug.de', 'expiry': 1707426152, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1027900607.1644354153'}, {'domain': '.myfacebug.de', 'expiry': 1675890153, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'df553ecb-9b29-42f4-8404-6c9bd5f93fd7'}, {'domain': '.myfacebug.de', 'expiry': 1644355953, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6c020206-30e3-4a67-b574-e586236bf4bc'}, {'domain': '.myfacebug.de', 'expiry': 1675890151, 'httpOnly': False, 'name': 'zps-tgr-dts', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'sc%3D1-expAppOnNewSession%3D%5B%5D-pc%3D1-sesst%3D1644354153480'}, {'domain': '.myfacebug.de', 'expiry': 1652130154, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644354153560.61075540'}, {'domain': '.myfacebug.de', 'expiry': 1675890153, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'df553ecb-9b29-42f4-8404-6c9bd5f93fd7'}, {'domain': '.myfacebug.de', 'expiry': 1645563751, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'myfacebug.de', 'expiry': 1675890151, 'httpOnly': False, 'name': 'zabUserId', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1644354151825zabu0.03387489745953842'}, {'domain': 'myfacebug.de', 'httpOnly': False, 'name': 'zabVisitId', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1644354153478zabv0.15854370862209044'}, {'domain': '.myfacebug.de', 'expiry': 1644355953, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6c020206-30e3-4a67-b574-e586236bf4bc'}, {'domain': 'myfacebug.de', 'expiry': 1675890153, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: ps_payloadSeqId
+[Before] Cookie-Name 2: 1644354154398zsrv0.39736859983062933
+[Before] Cookie-Name 3: po_visitor
+[Before] Cookie-Name 4: zsr78570d4ffac8459eac0234553d9e25e9
+[Before] Cookie-Name 5: zabHMBucket
+[Before] Cookie-Name 6: _shopify_sa_t
+[Before] Cookie-Name 7: shopify_pay_redirect
+[Before] Cookie-Name 8: zft-sdc
+[Before] Cookie-Name 9: cart_currency
+[Before] Cookie-Name 10: localization
+[Before] Cookie-Name 11: _gcl_au
+[Before] Cookie-Name 12: outbrain_cid_fetch
+[Before] Cookie-Name 13: zsc11f87f3532744c8dbfe2edfe95158686
+[Before] Cookie-Name 14: _gat
+[Before] Cookie-Name 15: _shopify_sa_p
+[Before] Cookie-Name 16: _gid
+[Before] Cookie-Name 17: _orig_referrer
+[Before] Cookie-Name 18: _ga
+[Before] Cookie-Name 19: _y
+[Before] Cookie-Name 20: _shopify_s
+[Before] Cookie-Name 21: zps-tgr-dts
+[Before] Cookie-Name 22: _fbp
+[Before] Cookie-Name 23: _shopify_y
+[Before] Cookie-Name 24: _landing_page
+[Before] Cookie-Name 25: zabUserId
+[Before] Cookie-Name 26: zabVisitId
+[Before] Cookie-Name 27: _s
+[Before] Cookie-Name 28: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 28
+[After] Website-Cookies: [{'domain': '.myfacebug.de', 'expiry': 1644361361, 'httpOnly': False, 'name': 'ps_payloadSeqId', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '4'}, {'domain': '.myfacebug.de', 'expiry': 1644361354, 'httpOnly': False, 'name': '1644354154398zsrv0.39736859983062933', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1644354154398-1-1644354161887'}, {'domain': 'myfacebug.de', 'expiry': 1675890154, 'httpOnly': False, 'name': 'po_visitor', 'path': '/', 'secure': False, 'value': 'fy8aA4F1_A8v'}, {'domain': '.myfacebug.de', 'expiry': 1644361354, 'httpOnly': False, 'name': 'zsr78570d4ffac8459eac0234553d9e25e9', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1644354154398zsrv0.39736859983062933'}, {'domain': '.myfacebug.de', 'expiry': 1675890154, 'httpOnly': False, 'name': 'zabHMBucket', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '21c8d9664d3746c3b635e9a9bb4c348d'}, {'domain': '.myfacebug.de', 'expiry': 1644355953, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A02%3A33.014Z'}, {'domain': 'myfacebug.de', 'expiry': 1644357753, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.myfacebug.de', 'expiry': 1644361199, 'httpOnly': False, 'name': 'zft-sdc', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'isef%3Dtrue-isfr%3Dtrue-src%3Ddirect'}, {'domain': 'myfacebug.de', 'expiry': 1645563753, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': 'myfacebug.de', 'expiry': 1645563753, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': ''}, {'domain': '.myfacebug.de', 'expiry': 1652130153, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.2015727299.1644354153'}, {'domain': 'myfacebug.de', 'expiry': 1644354453, 'httpOnly': False, 'name': 'outbrain_cid_fetch', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': '.myfacebug.de', 'expiry': 1644355953, 'httpOnly': False, 'name': 'zsc11f87f3532744c8dbfe2edfe95158686', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1644354153479zsc0.48347504394727836'}, {'domain': '.myfacebug.de', 'expiry': 1644354212, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.myfacebug.de', 'expiry': 1644355953, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.myfacebug.de', 'expiry': 1644440552, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1790392426.1644354153'}, {'domain': '.myfacebug.de', 'expiry': 1645563751, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.myfacebug.de', 'expiry': 1707426152, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1027900607.1644354153'}, {'domain': '.myfacebug.de', 'expiry': 1675890153, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'df553ecb-9b29-42f4-8404-6c9bd5f93fd7'}, {'domain': '.myfacebug.de', 'expiry': 1644355953, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6c020206-30e3-4a67-b574-e586236bf4bc'}, {'domain': '.myfacebug.de', 'expiry': 1675890151, 'httpOnly': False, 'name': 'zps-tgr-dts', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'sc%3D1-expAppOnNewSession%3D%5B%5D-pc%3D1-sesst%3D1644354153480'}, {'domain': '.myfacebug.de', 'expiry': 1652130154, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644354153560.61075540'}, {'domain': '.myfacebug.de', 'expiry': 1675890153, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'df553ecb-9b29-42f4-8404-6c9bd5f93fd7'}, {'domain': '.myfacebug.de', 'expiry': 1645563751, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'myfacebug.de', 'expiry': 1675890151, 'httpOnly': False, 'name': 'zabUserId', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1644354151825zabu0.03387489745953842'}, {'domain': 'myfacebug.de', 'httpOnly': False, 'name': 'zabVisitId', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1644354153478zabv0.15854370862209044'}, {'domain': '.myfacebug.de', 'expiry': 1644355953, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6c020206-30e3-4a67-b574-e586236bf4bc'}, {'domain': 'myfacebug.de', 'expiry': 1675890153, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: ps_payloadSeqId
+[After] Cookie-Name 2: 1644354154398zsrv0.39736859983062933
+[After] Cookie-Name 3: po_visitor
+[After] Cookie-Name 4: zsr78570d4ffac8459eac0234553d9e25e9
+[After] Cookie-Name 5: zabHMBucket
+[After] Cookie-Name 6: _shopify_sa_t
+[After] Cookie-Name 7: shopify_pay_redirect
+[After] Cookie-Name 8: zft-sdc
+[After] Cookie-Name 9: cart_currency
+[After] Cookie-Name 10: localization
+[After] Cookie-Name 11: _gcl_au
+[After] Cookie-Name 12: outbrain_cid_fetch
+[After] Cookie-Name 13: zsc11f87f3532744c8dbfe2edfe95158686
+[After] Cookie-Name 14: _gat
+[After] Cookie-Name 15: _shopify_sa_p
+[After] Cookie-Name 16: _gid
+[After] Cookie-Name 17: _orig_referrer
+[After] Cookie-Name 18: _ga
+[After] Cookie-Name 19: _y
+[After] Cookie-Name 20: _shopify_s
+[After] Cookie-Name 21: zps-tgr-dts
+[After] Cookie-Name 22: _fbp
+[After] Cookie-Name 23: _shopify_y
+[After] Cookie-Name 24: _landing_page
+[After] Cookie-Name 25: zabUserId
+[After] Cookie-Name 26: zabVisitId
+[After] Cookie-Name 27: _s
+[After] Cookie-Name 28: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

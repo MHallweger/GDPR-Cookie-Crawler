@@ -1,0 +1,94 @@
+Website 50: http://www.livewell.design/ | Created: 09.02.2022 17:20:59 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 30
+[Before] Website-Cookies: [{'domain': '.livewell.design', 'expiry': 1644425450, 'httpOnly': False, 'name': '_ju_pn', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.livewell.design', 'expiry': 1647015652, 'httpOnly': False, 'name': '_ju_dn', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.livewell.design', 'expiry': 1644510052, 'httpOnly': False, 'name': '_ju_dm', 'path': '/', 'secure': False, 'value': 'cookie'}, {'domain': '.livewell.design', 'expiry': 1707495649, 'httpOnly': False, 'name': '_ga_WL2E3DY65C', 'path': '/', 'secure': False, 'value': 'GS1.1.1644423649.1.0.1644423649.60'}, {'domain': '.livewell.design', 'expiry': 1675959652, 'httpOnly': False, 'name': '_privy_43A016CD19567B518DA5BADA', 'path': '/', 'secure': False, 'value': '%7B%22uuid%22%3A%22a63ce401-4715-418b-bd89-c7b971d9b109%22%2C%22variations%22%3A%7B%223057174%22%3A%7B%22ab_test_id%22%3A41056%2C%22testable_id%22%3A3107430%2C%22ab_variation_id%22%3A62267%7D%7D%2C%22country_code%22%3A%22DE%22%2C%22region_code%22%3A%22DE_%22%2C%22postal_code%22%3A%22%22%2C%22cart_value%22%3A0%7D'}, {'domain': '.livewell.design', 'expiry': 1644510049, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.963338350.1644423650'}, {'domain': '.livewell.design', 'expiry': 1652199649, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.521377483.1644423649'}, {'domain': 'www.livewell.design', 'expiry': 1645633261, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'USD'}, {'domain': '.livewell.design', 'expiry': 1644425449, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.livewell.design', 'httpOnly': True, 'name': 'wrapin_session', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'eyJpdiI6IkltbXlmMlhRKzRNOUF3NVAzMFNnRVE9PSIsInZhbHVlIjoidlBmTWlZTWNPRUFNMlV4VHFJSkdqZ0dMNStBTnArWDFJeHlmU2NkN0pFL1VNM3ZVdWcxNDdrOGV3cHFwOWNlVWhuUHc1cUhDNFpMUGFWRkppcTZnOUw5Mk5qRjF4enpKeGl6aVRCdXZST1pMbHdiR2NCQlVvM0xzdG5DZDZJNXAiLCJtYWMiOiJkMzE0MjY1NDA3OWI2ODk3MmQxMDc0NWJiMWZmMWQxYTYwNTA5NzE5ZjU2NTZkZTllYzExNzU2OWVlNmE2ZmU0In0%3D'}, {'domain': '.livewell.design', 'expiry': 1644425461, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b238faec-b8f2-41d7-82bb-469001d8bb3c'}, {'domain': 'www.livewell.design', 'expiry': 1802103650, 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'secure': True, 'value': 'ef3ff700-723f-4cc1-af3f-7a036fe3f87d'}, {'domain': '.livewell.design', 'expiry': 1644425449, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T16%3A20%3A49.048Z'}, {'domain': 'www.livewell.design', 'expiry': 1645633248, 'httpOnly': False, 'name': 'cart_item_count', 'path': '/', 'secure': False, 'value': '0'}, {'domain': 'www.livewell.design', 'expiry': 1644425448, 'httpOnly': False, 'name': '_ju_v', 'path': '/', 'secure': True, 'value': '4.1_5.05'}, {'domain': '.livewell.design', 'expiry': 1644423709, 'httpOnly': False, 'name': '_gat_UA-65165900-1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.livewell.design', 'expiry': 1644425450, 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'secure': True, 'value': 'fd01560a-080d-4550-b446-be14c912c118'}, {'domain': '.livewell.design', 'expiry': 1644425461, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b238faec-b8f2-41d7-82bb-469001d8bb3c'}, {'domain': '.livewell.design', 'expiry': 1675959661, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'df618f83-6c41-4da9-9d4b-5d225e230c82'}, {'domain': 'www.livewell.design', 'expiry': 1644430852, 'httpOnly': False, 'name': 'XSRF-TOKEN', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'eyJpdiI6ImtibE1GckYrY2FvTFBaTzVsYmN5WVE9PSIsInZhbHVlIjoiaEl2SEdaYWMrVnVOMTQ2RnhieS9sVXlaNXNZWXJ6dzRJNTdNZHJHaDNoN2hjaHUyQ3lmWHl4amx4YTBhM3JOSHpRcnZNUXhZcXJtTVRPMkZ1Z0VvWGNXbUY3djgycmhzbXRnUjlTRW9FYTZTekUwc3czNDJpL1MvZ2MxZlpCbkQiLCJtYWMiOiI3YmUzOWMyYTVhY2MxNzZhNzgxNTNlZTU3MDZlMWEyZWYwZjI2MWQ3ZmZlMGExYzY5ZGVkMmZiY2YwNDg5YmRkIn0%3D'}, {'domain': '.livewell.design', 'expiry': 1652199650, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644423650245.1790246683'}, {'domain': '.livewell.design', 'expiry': 1645633247, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.livewell.design', 'expiry': 1707495650, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkZXhjaGFuZ2VfaWQiOiIyNHRvWGtobWVRMWprLUNoUmFSNWsxbXJlVjUyQXhPU2llV3FnU0pfN1lRPS5qcGp0RzkifQ=='}, {'domain': 'www.livewell.design', 'expiry': 1644427248, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.livewell.design', 'expiry': 1675959661, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'df618f83-6c41-4da9-9d4b-5d225e230c82'}, {'domain': 'www.livewell.design', 'expiry': 1675959661, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.livewell.design', 'expiry': 1645633247, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.livewell.design', 'expiry': 1645633261, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'US'}, {'domain': '.livewell.design', 'expiry': 1675959653, 'httpOnly': False, 'name': '_ju_dc', 'path': '/', 'secure': False, 'value': '40b7b420-89c4-11ec-ae72-cddc90620d5b'}, {'domain': '.livewell.design', 'expiry': 1707495649, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.1.1847215372.1644423650'}]
+[Before] Cookie-Name 1: _ju_pn
+[Before] Cookie-Name 2: _ju_dn
+[Before] Cookie-Name 3: _ju_dm
+[Before] Cookie-Name 4: _ga_WL2E3DY65C
+[Before] Cookie-Name 5: _privy_43A016CD19567B518DA5BADA
+[Before] Cookie-Name 6: _gid
+[Before] Cookie-Name 7: _gcl_au
+[Before] Cookie-Name 8: cart_currency
+[Before] Cookie-Name 9: _shopify_sa_p
+[Before] Cookie-Name 10: wrapin_session
+[Before] Cookie-Name 11: _s
+[Before] Cookie-Name 12: _shg_user_id
+[Before] Cookie-Name 13: _shopify_sa_t
+[Before] Cookie-Name 14: cart_item_count
+[Before] Cookie-Name 15: _ju_v
+[Before] Cookie-Name 16: _gat_UA-65165900-1
+[Before] Cookie-Name 17: _shg_session_id
+[Before] Cookie-Name 18: _shopify_s
+[Before] Cookie-Name 19: _shopify_y
+[Before] Cookie-Name 20: XSRF-TOKEN
+[Before] Cookie-Name 21: _fbp
+[Before] Cookie-Name 22: _landing_page
+[Before] Cookie-Name 23: __kla_id
+[Before] Cookie-Name 24: shopify_pay_redirect
+[Before] Cookie-Name 25: _y
+[Before] Cookie-Name 26: secure_customer_sig
+[Before] Cookie-Name 27: _orig_referrer
+[Before] Cookie-Name 28: localization
+[Before] Cookie-Name 29: _ju_dc
+[Before] Cookie-Name 30: _ga
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 30
+[After] Website-Cookies: [{'domain': '.livewell.design', 'expiry': 1644425450, 'httpOnly': False, 'name': '_ju_pn', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.livewell.design', 'expiry': 1647015652, 'httpOnly': False, 'name': '_ju_dn', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.livewell.design', 'expiry': 1644510052, 'httpOnly': False, 'name': '_ju_dm', 'path': '/', 'secure': False, 'value': 'cookie'}, {'domain': '.livewell.design', 'expiry': 1707495649, 'httpOnly': False, 'name': '_ga_WL2E3DY65C', 'path': '/', 'secure': False, 'value': 'GS1.1.1644423649.1.0.1644423649.60'}, {'domain': '.livewell.design', 'expiry': 1675959652, 'httpOnly': False, 'name': '_privy_43A016CD19567B518DA5BADA', 'path': '/', 'secure': False, 'value': '%7B%22uuid%22%3A%22a63ce401-4715-418b-bd89-c7b971d9b109%22%2C%22variations%22%3A%7B%223057174%22%3A%7B%22ab_test_id%22%3A41056%2C%22testable_id%22%3A3107430%2C%22ab_variation_id%22%3A62267%7D%7D%2C%22country_code%22%3A%22DE%22%2C%22region_code%22%3A%22DE_%22%2C%22postal_code%22%3A%22%22%2C%22cart_value%22%3A0%7D'}, {'domain': '.livewell.design', 'expiry': 1644510049, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.963338350.1644423650'}, {'domain': '.livewell.design', 'expiry': 1652199649, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.521377483.1644423649'}, {'domain': 'www.livewell.design', 'expiry': 1645633261, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'USD'}, {'domain': '.livewell.design', 'expiry': 1644425449, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.livewell.design', 'httpOnly': True, 'name': 'wrapin_session', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'eyJpdiI6IkltbXlmMlhRKzRNOUF3NVAzMFNnRVE9PSIsInZhbHVlIjoidlBmTWlZTWNPRUFNMlV4VHFJSkdqZ0dMNStBTnArWDFJeHlmU2NkN0pFL1VNM3ZVdWcxNDdrOGV3cHFwOWNlVWhuUHc1cUhDNFpMUGFWRkppcTZnOUw5Mk5qRjF4enpKeGl6aVRCdXZST1pMbHdiR2NCQlVvM0xzdG5DZDZJNXAiLCJtYWMiOiJkMzE0MjY1NDA3OWI2ODk3MmQxMDc0NWJiMWZmMWQxYTYwNTA5NzE5ZjU2NTZkZTllYzExNzU2OWVlNmE2ZmU0In0%3D'}, {'domain': '.livewell.design', 'expiry': 1644425461, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b238faec-b8f2-41d7-82bb-469001d8bb3c'}, {'domain': 'www.livewell.design', 'expiry': 1802103650, 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'secure': True, 'value': 'ef3ff700-723f-4cc1-af3f-7a036fe3f87d'}, {'domain': '.livewell.design', 'expiry': 1644425449, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T16%3A20%3A49.048Z'}, {'domain': 'www.livewell.design', 'expiry': 1645633248, 'httpOnly': False, 'name': 'cart_item_count', 'path': '/', 'secure': False, 'value': '0'}, {'domain': 'www.livewell.design', 'expiry': 1644425448, 'httpOnly': False, 'name': '_ju_v', 'path': '/', 'secure': True, 'value': '4.1_5.05'}, {'domain': '.livewell.design', 'expiry': 1644423709, 'httpOnly': False, 'name': '_gat_UA-65165900-1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.livewell.design', 'expiry': 1644425450, 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'secure': True, 'value': 'fd01560a-080d-4550-b446-be14c912c118'}, {'domain': '.livewell.design', 'expiry': 1644425461, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b238faec-b8f2-41d7-82bb-469001d8bb3c'}, {'domain': '.livewell.design', 'expiry': 1675959661, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'df618f83-6c41-4da9-9d4b-5d225e230c82'}, {'domain': 'www.livewell.design', 'expiry': 1644430852, 'httpOnly': False, 'name': 'XSRF-TOKEN', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'eyJpdiI6ImtibE1GckYrY2FvTFBaTzVsYmN5WVE9PSIsInZhbHVlIjoiaEl2SEdaYWMrVnVOMTQ2RnhieS9sVXlaNXNZWXJ6dzRJNTdNZHJHaDNoN2hjaHUyQ3lmWHl4amx4YTBhM3JOSHpRcnZNUXhZcXJtTVRPMkZ1Z0VvWGNXbUY3djgycmhzbXRnUjlTRW9FYTZTekUwc3czNDJpL1MvZ2MxZlpCbkQiLCJtYWMiOiI3YmUzOWMyYTVhY2MxNzZhNzgxNTNlZTU3MDZlMWEyZWYwZjI2MWQ3ZmZlMGExYzY5ZGVkMmZiY2YwNDg5YmRkIn0%3D'}, {'domain': '.livewell.design', 'expiry': 1652199650, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644423650245.1790246683'}, {'domain': '.livewell.design', 'expiry': 1645633247, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.livewell.design', 'expiry': 1707495650, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkZXhjaGFuZ2VfaWQiOiIyNHRvWGtobWVRMWprLUNoUmFSNWsxbXJlVjUyQXhPU2llV3FnU0pfN1lRPS5qcGp0RzkifQ=='}, {'domain': 'www.livewell.design', 'expiry': 1644427248, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.livewell.design', 'expiry': 1675959661, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'df618f83-6c41-4da9-9d4b-5d225e230c82'}, {'domain': 'www.livewell.design', 'expiry': 1675959661, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.livewell.design', 'expiry': 1645633247, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.livewell.design', 'expiry': 1645633261, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'US'}, {'domain': '.livewell.design', 'expiry': 1675959653, 'httpOnly': False, 'name': '_ju_dc', 'path': '/', 'secure': False, 'value': '40b7b420-89c4-11ec-ae72-cddc90620d5b'}, {'domain': '.livewell.design', 'expiry': 1707495649, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.1.1847215372.1644423650'}]
+[After] Cookie-Name 1: _ju_pn
+[After] Cookie-Name 2: _ju_dn
+[After] Cookie-Name 3: _ju_dm
+[After] Cookie-Name 4: _ga_WL2E3DY65C
+[After] Cookie-Name 5: _privy_43A016CD19567B518DA5BADA
+[After] Cookie-Name 6: _gid
+[After] Cookie-Name 7: _gcl_au
+[After] Cookie-Name 8: cart_currency
+[After] Cookie-Name 9: _shopify_sa_p
+[After] Cookie-Name 10: wrapin_session
+[After] Cookie-Name 11: _s
+[After] Cookie-Name 12: _shg_user_id
+[After] Cookie-Name 13: _shopify_sa_t
+[After] Cookie-Name 14: cart_item_count
+[After] Cookie-Name 15: _ju_v
+[After] Cookie-Name 16: _gat_UA-65165900-1
+[After] Cookie-Name 17: _shg_session_id
+[After] Cookie-Name 18: _shopify_s
+[After] Cookie-Name 19: _shopify_y
+[After] Cookie-Name 20: XSRF-TOKEN
+[After] Cookie-Name 21: _fbp
+[After] Cookie-Name 22: _landing_page
+[After] Cookie-Name 23: __kla_id
+[After] Cookie-Name 24: shopify_pay_redirect
+[After] Cookie-Name 25: _y
+[After] Cookie-Name 26: secure_customer_sig
+[After] Cookie-Name 27: _orig_referrer
+[After] Cookie-Name 28: localization
+[After] Cookie-Name 29: _ju_dc
+[After] Cookie-Name 30: _ga
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

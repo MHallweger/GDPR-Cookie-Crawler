@@ -1,0 +1,62 @@
+Website 86: http://www.walter-confiserie.de/ | Created: 09.02.2022 19:59:15 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 16
+[Before] Website-Cookies: [{'domain': 'www.walter-confiserie.de', 'expiry': 1675969146, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': ''}, {'domain': 'www.walter-confiserie.de', 'expiry': 1675969146, 'httpOnly': False, 'name': 'optiMonkClientId', 'path': '/', 'secure': False, 'value': '53b78e7e-3bfc-d4d0-5a45-73ba7eb0486d'}, {'domain': '.www.walter-confiserie.de', 'expiry': 1707505145, 'httpOnly': False, 'name': 'pf_vid', 'path': '/', 'secure': False, 'value': '607ecfbc-0bb5-4e08-877c-3661188fab8e'}, {'domain': '.walter-confiserie.de', 'expiry': 1652209146, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644433145747.669617696'}, {'domain': 'www.walter-confiserie.de', 'expiry': 1645642747, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.walter-confiserie.de', 'expiry': 1644434947, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c4972612-27e4-44a0-a5a7-c937f14a6ee2'}, {'domain': '.walter-confiserie.de', 'expiry': 1644434945, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T18%3A59%3A05.351Z'}, {'domain': '.walter-confiserie.de', 'expiry': 1644434947, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c4972612-27e4-44a0-a5a7-c937f14a6ee2'}, {'domain': '.walter-confiserie.de', 'expiry': 1675969147, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '170564f3-cd70-4f75-86a0-4d9441e17cab'}, {'domain': '.walter-confiserie.de', 'expiry': 1675969147, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '170564f3-cd70-4f75-86a0-4d9441e17cab'}, {'domain': '.walter-confiserie.de', 'expiry': 1645642744, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.walter-confiserie.de', 'expiry': 1645642744, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.walter-confiserie.de', 'expiry': 1645642747, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.walter-confiserie.de', 'httpOnly': False, 'name': 'usb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.walter-confiserie.de', 'expiry': 1644434945, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.walter-confiserie.de', 'expiry': 1675969147, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: cookieconsent_preferences_disabled
+[Before] Cookie-Name 2: optiMonkClientId
+[Before] Cookie-Name 3: pf_vid
+[Before] Cookie-Name 4: _fbp
+[Before] Cookie-Name 5: localization
+[Before] Cookie-Name 6: _s
+[Before] Cookie-Name 7: _shopify_sa_t
+[Before] Cookie-Name 8: _shopify_s
+[Before] Cookie-Name 9: _shopify_y
+[Before] Cookie-Name 10: _y
+[Before] Cookie-Name 11: _landing_page
+[Before] Cookie-Name 12: _orig_referrer
+[Before] Cookie-Name 13: cart_currency
+[Before] Cookie-Name 14: usb_previous_pathname
+[Before] Cookie-Name 15: _shopify_sa_p
+[Before] Cookie-Name 16: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 17
+[After] Website-Cookies: [{'domain': 'www.walter-confiserie.de', 'expiry': 1675969160, 'httpOnly': False, 'name': 'cookieconsent_status', 'path': '/', 'secure': False, 'value': 'allow'}, {'domain': 'www.walter-confiserie.de', 'expiry': 1675969160, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': ''}, {'domain': 'www.walter-confiserie.de', 'expiry': 1675969146, 'httpOnly': False, 'name': 'optiMonkClientId', 'path': '/', 'secure': False, 'value': '53b78e7e-3bfc-d4d0-5a45-73ba7eb0486d'}, {'domain': '.www.walter-confiserie.de', 'expiry': 1707505145, 'httpOnly': False, 'name': 'pf_vid', 'path': '/', 'secure': False, 'value': '607ecfbc-0bb5-4e08-877c-3661188fab8e'}, {'domain': '.walter-confiserie.de', 'expiry': 1652209160, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644433145747.669617696'}, {'domain': 'www.walter-confiserie.de', 'expiry': 1645642747, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.walter-confiserie.de', 'expiry': 1644434947, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c4972612-27e4-44a0-a5a7-c937f14a6ee2'}, {'domain': '.walter-confiserie.de', 'expiry': 1644434945, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T18%3A59%3A05.351Z'}, {'domain': '.walter-confiserie.de', 'expiry': 1644434947, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c4972612-27e4-44a0-a5a7-c937f14a6ee2'}, {'domain': '.walter-confiserie.de', 'expiry': 1675969147, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '170564f3-cd70-4f75-86a0-4d9441e17cab'}, {'domain': '.walter-confiserie.de', 'expiry': 1675969147, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '170564f3-cd70-4f75-86a0-4d9441e17cab'}, {'domain': '.walter-confiserie.de', 'expiry': 1645642744, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.walter-confiserie.de', 'expiry': 1645642744, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.walter-confiserie.de', 'expiry': 1645642747, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.walter-confiserie.de', 'httpOnly': False, 'name': 'usb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.walter-confiserie.de', 'expiry': 1644434945, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.walter-confiserie.de', 'expiry': 1675969147, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: cookieconsent_status
+[After] Cookie-Name 2: cookieconsent_preferences_disabled
+[After] Cookie-Name 3: optiMonkClientId
+[After] Cookie-Name 4: pf_vid
+[After] Cookie-Name 5: _fbp
+[After] Cookie-Name 6: localization
+[After] Cookie-Name 7: _s
+[After] Cookie-Name 8: _shopify_sa_t
+[After] Cookie-Name 9: _shopify_s
+[After] Cookie-Name 10: _shopify_y
+[After] Cookie-Name 11: _y
+[After] Cookie-Name 12: _landing_page
+[After] Cookie-Name 13: _orig_referrer
+[After] Cookie-Name 14: cart_currency
+[After] Cookie-Name 15: usb_previous_pathname
+[After] Cookie-Name 16: _shopify_sa_p
+[After] Cookie-Name 17: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: cookieconsent_status
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

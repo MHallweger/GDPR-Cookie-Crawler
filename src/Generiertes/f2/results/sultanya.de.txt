@@ -1,0 +1,59 @@
+Website 346: http://www.sultanya.de/ | Created: 09.02.2022 12:30:46 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 15
+[Before] Website-Cookies: [{'domain': 'sultanya.de', 'httpOnly': False, 'name': 'lsSema-Sirplus Main Theme - Versioned', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': ''}, {'domain': 'sultanya.de', 'httpOnly': False, 'name': 'lsContextID', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'A4EMJL0PukiidC05hh7K6Q'}, {'domain': 'sultanya.de', 'httpOnly': False, 'name': 'epb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.sultanya.de', 'expiry': 1652182235, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644406235018.1891316602'}, {'domain': '.sultanya.de', 'expiry': 1644408045, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a6d6750d-46e0-4e8c-9e89-43b38a9253da'}, {'domain': '.sultanya.de', 'expiry': 1645615834, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.sultanya.de', 'expiry': 1675942245, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bd9a5b88-2891-4cca-89b6-61daf29a7ef5'}, {'domain': 'sultanya.de', 'expiry': 1645615845, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.sultanya.de', 'expiry': 1644408034, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.sultanya.de', 'expiry': 1644408045, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a6d6750d-46e0-4e8c-9e89-43b38a9253da'}, {'domain': '.sultanya.de', 'expiry': 1675942245, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bd9a5b88-2891-4cca-89b6-61daf29a7ef5'}, {'domain': '.sultanya.de', 'expiry': 1644408034, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T11%3A30%3A34.699Z'}, {'domain': 'sultanya.de', 'expiry': 1645615845, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.sultanya.de', 'expiry': 1645615834, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'sultanya.de', 'expiry': 1675942245, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: lsSema-Sirplus Main Theme - Versioned
+[Before] Cookie-Name 2: lsContextID
+[Before] Cookie-Name 3: epb_previous_pathname
+[Before] Cookie-Name 4: _fbp
+[Before] Cookie-Name 5: _shopify_s
+[Before] Cookie-Name 6: _landing_page
+[Before] Cookie-Name 7: _shopify_y
+[Before] Cookie-Name 8: localization
+[Before] Cookie-Name 9: _shopify_sa_p
+[Before] Cookie-Name 10: _s
+[Before] Cookie-Name 11: _y
+[Before] Cookie-Name 12: _shopify_sa_t
+[Before] Cookie-Name 13: cart_currency
+[Before] Cookie-Name 14: _orig_referrer
+[Before] Cookie-Name 15: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 16
+[After] Website-Cookies: [{'domain': 'sultanya.de', 'expiry': 1675942251, 'httpOnly': False, 'name': '_3f0b_cookie_consent', 'path': '/', 'secure': False, 'value': 'dismiss'}, {'domain': 'sultanya.de', 'httpOnly': False, 'name': 'lsSema-Sirplus Main Theme - Versioned', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': ''}, {'domain': 'sultanya.de', 'httpOnly': False, 'name': 'lsContextID', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'A4EMJL0PukiidC05hh7K6Q'}, {'domain': 'sultanya.de', 'httpOnly': False, 'name': 'epb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.sultanya.de', 'expiry': 1652182251, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644406235018.1891316602'}, {'domain': '.sultanya.de', 'expiry': 1644408045, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a6d6750d-46e0-4e8c-9e89-43b38a9253da'}, {'domain': '.sultanya.de', 'expiry': 1645615834, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.sultanya.de', 'expiry': 1675942245, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bd9a5b88-2891-4cca-89b6-61daf29a7ef5'}, {'domain': 'sultanya.de', 'expiry': 1645615845, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.sultanya.de', 'expiry': 1644408034, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.sultanya.de', 'expiry': 1644408045, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a6d6750d-46e0-4e8c-9e89-43b38a9253da'}, {'domain': '.sultanya.de', 'expiry': 1675942245, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bd9a5b88-2891-4cca-89b6-61daf29a7ef5'}, {'domain': '.sultanya.de', 'expiry': 1644408034, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T11%3A30%3A34.699Z'}, {'domain': 'sultanya.de', 'expiry': 1645615845, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.sultanya.de', 'expiry': 1645615834, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'sultanya.de', 'expiry': 1675942245, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _3f0b_cookie_consent
+[After] Cookie-Name 2: lsSema-Sirplus Main Theme - Versioned
+[After] Cookie-Name 3: lsContextID
+[After] Cookie-Name 4: epb_previous_pathname
+[After] Cookie-Name 5: _fbp
+[After] Cookie-Name 6: _shopify_s
+[After] Cookie-Name 7: _landing_page
+[After] Cookie-Name 8: _shopify_y
+[After] Cookie-Name 9: localization
+[After] Cookie-Name 10: _shopify_sa_p
+[After] Cookie-Name 11: _s
+[After] Cookie-Name 12: _y
+[After] Cookie-Name 13: _shopify_sa_t
+[After] Cookie-Name 14: cart_currency
+[After] Cookie-Name 15: _orig_referrer
+[After] Cookie-Name 16: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: _3f0b_cookie_consent
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

@@ -1,0 +1,85 @@
+Website 151: http://www.sneakit.de/ | Created: 10.02.2022 20:43:15 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 24
+[Before] Website-Cookies: [{'domain': '.sneakit.de', 'expiry': 1652298181, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1912753207.1644522181'}, {'domain': '.sneakit.de', 'expiry': 1644608581, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': 'a83dd3d08aa911ec8b0d312757626b63'}, {'domain': '.sneakit.de', 'expiry': 1644522244, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.sneakit.de', 'expiry': 1644523984, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.sneakit.de', 'expiry': 1676058184, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU56YzFZbVU0WW1VdFpUazFaUzAwTUdSakxXSmtaVEF0WlRJNU9UQmpaRFF4TkdRMg'}, {'domain': '.sneakit.de', 'expiry': 1652298185, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644522184550.395312652'}, {'domain': '.sneakit.de', 'expiry': 1676058191, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c00a1de6-046a-45dd-ba44-528483207643'}, {'domain': '.sneakit.de', 'expiry': 1678218181, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': 'a83dedf08aa911ecbce43f8aa4450edf'}, {'domain': '.sneakit.de', 'expiry': 1653162181, 'httpOnly': False, 'name': '_vis_opt_s', 'path': '/', 'secure': False, 'value': '1%7C'}, {'domain': '.sneakit.de', 'expiry': 1644523991, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '39820887-d344-404c-a355-f50abccfa968'}, {'domain': '.sneakit.de', 'expiry': 1707594184, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.2131936269.1644522184'}, {'domain': '.sneakit.de', 'expiry': 1676144581, 'httpOnly': False, 'name': '_vwo_uuid_v2', 'path': '/', 'secure': False, 'value': 'DAD62BA336E01DA04171376A40FCB0BB4|f43d4dfd81749e328ee410c37ebafa6b'}, {'domain': '.sneakit.de', 'expiry': 1644523991, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '39820887-d344-404c-a355-f50abccfa968'}, {'domain': '.sneakit.de', 'httpOnly': False, 'name': '_vis_opt_test_cookie', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.sneakit.de', 'expiry': 1676058191, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c00a1de6-046a-45dd-ba44-528483207643'}, {'domain': '.sneakit.de', 'expiry': 1644608584, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1608951311.1644522184'}, {'domain': '.sneakit.de', 'expiry': 1645731781, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.sneakit.de', 'expiry': 1645731781, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'sneakit.de', 'expiry': 1645731791, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'sneakit.de', 'expiry': 1645731791, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'AT'}, {'domain': 'sneakit.de', 'expiry': 1645731781, 'httpOnly': True, 'name': 'keep_alive', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '39820887-d344-404c-a355-f50abccfa968'}, {'domain': '.sneakit.de', 'expiry': 1644523984, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T19%3A43%3A04.301Z'}, {'domain': 'sneakit.de', 'expiry': 1707594191, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ1MjIxOTEsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vc25lYWtpdC5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQ1MjIxOTEsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vc25lYWtpdC5kZS8ifX0='}, {'domain': 'sneakit.de', 'expiry': 1676058191, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _gcl_au
+[Before] Cookie-Name 2: _uetsid
+[Before] Cookie-Name 3: _gat
+[Before] Cookie-Name 4: _shopify_sa_p
+[Before] Cookie-Name 5: _pin_unauth
+[Before] Cookie-Name 6: _fbp
+[Before] Cookie-Name 7: _y
+[Before] Cookie-Name 8: _uetvid
+[Before] Cookie-Name 9: _vis_opt_s
+[Before] Cookie-Name 10: _shopify_s
+[Before] Cookie-Name 11: _ga
+[Before] Cookie-Name 12: _vwo_uuid_v2
+[Before] Cookie-Name 13: _s
+[Before] Cookie-Name 14: _vis_opt_test_cookie
+[Before] Cookie-Name 15: _shopify_y
+[Before] Cookie-Name 16: _gid
+[Before] Cookie-Name 17: _landing_page
+[Before] Cookie-Name 18: _orig_referrer
+[Before] Cookie-Name 19: cart_currency
+[Before] Cookie-Name 20: localization
+[Before] Cookie-Name 21: keep_alive
+[Before] Cookie-Name 22: _shopify_sa_t
+[Before] Cookie-Name 23: __kla_id
+[Before] Cookie-Name 24: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 24
+[After] Website-Cookies: [{'domain': '.sneakit.de', 'expiry': 1652298181, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1912753207.1644522181'}, {'domain': '.sneakit.de', 'expiry': 1644608581, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': 'a83dd3d08aa911ec8b0d312757626b63'}, {'domain': '.sneakit.de', 'expiry': 1644522244, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.sneakit.de', 'expiry': 1644523984, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.sneakit.de', 'expiry': 1676058184, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU56YzFZbVU0WW1VdFpUazFaUzAwTUdSakxXSmtaVEF0WlRJNU9UQmpaRFF4TkdRMg'}, {'domain': '.sneakit.de', 'expiry': 1652298185, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644522184550.395312652'}, {'domain': '.sneakit.de', 'expiry': 1676058191, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c00a1de6-046a-45dd-ba44-528483207643'}, {'domain': '.sneakit.de', 'expiry': 1678218181, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': 'a83dedf08aa911ecbce43f8aa4450edf'}, {'domain': '.sneakit.de', 'expiry': 1653162181, 'httpOnly': False, 'name': '_vis_opt_s', 'path': '/', 'secure': False, 'value': '1%7C'}, {'domain': '.sneakit.de', 'expiry': 1644523991, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '39820887-d344-404c-a355-f50abccfa968'}, {'domain': '.sneakit.de', 'expiry': 1707594184, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.2131936269.1644522184'}, {'domain': '.sneakit.de', 'expiry': 1676144581, 'httpOnly': False, 'name': '_vwo_uuid_v2', 'path': '/', 'secure': False, 'value': 'DAD62BA336E01DA04171376A40FCB0BB4|f43d4dfd81749e328ee410c37ebafa6b'}, {'domain': '.sneakit.de', 'expiry': 1644523991, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '39820887-d344-404c-a355-f50abccfa968'}, {'domain': '.sneakit.de', 'httpOnly': False, 'name': '_vis_opt_test_cookie', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.sneakit.de', 'expiry': 1676058191, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c00a1de6-046a-45dd-ba44-528483207643'}, {'domain': '.sneakit.de', 'expiry': 1644608584, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1608951311.1644522184'}, {'domain': '.sneakit.de', 'expiry': 1645731781, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.sneakit.de', 'expiry': 1645731781, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'sneakit.de', 'expiry': 1645731791, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'sneakit.de', 'expiry': 1645731791, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'AT'}, {'domain': 'sneakit.de', 'expiry': 1645731781, 'httpOnly': True, 'name': 'keep_alive', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '39820887-d344-404c-a355-f50abccfa968'}, {'domain': '.sneakit.de', 'expiry': 1644523984, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T19%3A43%3A04.301Z'}, {'domain': 'sneakit.de', 'expiry': 1707594191, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ1MjIxOTEsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vc25lYWtpdC5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQ1MjIxOTEsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vc25lYWtpdC5kZS8ifX0='}, {'domain': 'sneakit.de', 'expiry': 1676058191, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _gcl_au
+[After] Cookie-Name 2: _uetsid
+[After] Cookie-Name 3: _gat
+[After] Cookie-Name 4: _shopify_sa_p
+[After] Cookie-Name 5: _pin_unauth
+[After] Cookie-Name 6: _fbp
+[After] Cookie-Name 7: _y
+[After] Cookie-Name 8: _uetvid
+[After] Cookie-Name 9: _vis_opt_s
+[After] Cookie-Name 10: _shopify_s
+[After] Cookie-Name 11: _ga
+[After] Cookie-Name 12: _vwo_uuid_v2
+[After] Cookie-Name 13: _s
+[After] Cookie-Name 14: _vis_opt_test_cookie
+[After] Cookie-Name 15: _shopify_y
+[After] Cookie-Name 16: _gid
+[After] Cookie-Name 17: _landing_page
+[After] Cookie-Name 18: _orig_referrer
+[After] Cookie-Name 19: cart_currency
+[After] Cookie-Name 20: localization
+[After] Cookie-Name 21: keep_alive
+[After] Cookie-Name 22: _shopify_sa_t
+[After] Cookie-Name 23: __kla_id
+[After] Cookie-Name 24: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

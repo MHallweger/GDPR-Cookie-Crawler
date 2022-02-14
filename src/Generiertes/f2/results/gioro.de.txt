@@ -1,0 +1,85 @@
+Website 371: http://www.gioro.de/ | Created: 09.02.2022 12:38:40 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 12
+[Before] Website-Cookies: [{'domain': 'www.gioro.de', 'expiry': 1645616312, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': 'www.gioro.de', 'expiry': 1645616312, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a040046bfe9b2a1d9b3ab0011dda37b4'}, {'domain': 'www.gioro.de', 'expiry': 1645616312, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644406712'}, {'domain': '.gioro.de', 'expiry': 1675942711, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.gioro.de', 'expiry': 1675942711, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': '.gioro.de', 'expiry': 1645616311, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.gioro.de', 'expiry': 1644408512, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.gioro.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.gioro.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.gioro.de', 'expiry': 1645616312, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.gioro.de', 'expiry': 1645616312, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '42fb1ce6e8d20a7ce8ea6a2abf1794ec'}, {'domain': 'www.gioro.de', 'expiry': 1675942712, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: cart_ver
+[Before] Cookie-Name 2: cart
+[Before] Cookie-Name 3: cart_ts
+[Before] Cookie-Name 4: _shopify_m
+[Before] Cookie-Name 5: _tracking_consent
+[Before] Cookie-Name 6: _shopify_tw
+[Before] Cookie-Name 7: _shopify_tm
+[Before] Cookie-Name 8: _landing_page
+[Before] Cookie-Name 9: _orig_referrer
+[Before] Cookie-Name 10: cart_currency
+[Before] Cookie-Name 11: cart_sig
+[Before] Cookie-Name 12: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 32
+[After] Website-Cookies: [{'domain': '.gioro.de', 'expiry': 1644406786, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.gioro.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.gioro.de', 'expiry': 1675942726, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22lim%22%3A%5B%22GDPR%22%5D%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%2C%22CCPA%22%3A%221%22%7D%2C%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%7D'}, {'domain': '.gioro.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '735c1d46-41df-4552-8659-4a72925c09cd'}, {'domain': '.gioro.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '46e78201-0b43-4213-847b-d87899785a6a'}, {'domain': '.gioro.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '735c1d46-41df-4552-8659-4a72925c09cd'}, {'domain': '.gioro.de', 'expiry': 1707478726, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1116282721.1644406727'}, {'domain': '.gioro.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '46e78201-0b43-4213-847b-d87899785a6a'}, {'domain': '.gioro.de', 'expiry': 1675942726, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': '.gioro.de', 'expiry': 1645616326, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.gioro.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T11%3A38%3A31.861Z'}, {'domain': 'www.gioro.de', 'expiry': 1644408525, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T11%3A38%3A31.861Z'}, {'domain': 'www.gioro.de', 'expiry': 1644408525, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '735c1d46-41df-4552-8659-4a72925c09cd'}, {'domain': 'www.gioro.de', 'expiry': 1675942725, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '46e78201-0b43-4213-847b-d87899785a6a'}, {'domain': '.gioro.de', 'expiry': 1652182726, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1099658729.1644406727'}, {'domain': '.gioro.de', 'expiry': 1644493126, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.619435222.1644406727'}, {'domain': 'www.gioro.de', 'expiry': 1675942726, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'www.gioro.de', 'expiry': 1646998725, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0NDA2NzI1OTcxLCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjowfX0='}, {'domain': 'www.gioro.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.gioro.de', 'expiry': 1644408525, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '735c1d46-41df-4552-8659-4a72925c09cd'}, {'domain': 'www.gioro.de', 'expiry': 1645616325, 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T11%3A38%3A31.780Z'}, {'domain': 'www.gioro.de', 'expiry': 1645616326, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '42fb1ce6e8d20a7ce8ea6a2abf1794ec'}, {'domain': '.gioro.de', 'expiry': 1645616311, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.gioro.de', 'expiry': 1645616312, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644406712'}, {'domain': 'www.gioro.de', 'expiry': 1645616312, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': 'www.gioro.de', 'expiry': 1645616312, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a040046bfe9b2a1d9b3ab0011dda37b4'}, {'domain': 'www.gioro.de', 'expiry': 1675942725, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '46e78201-0b43-4213-847b-d87899785a6a'}, {'domain': 'www.gioro.de', 'expiry': 1645616326, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.gioro.de', 'expiry': 1645616326, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.gioro.de', 'expiry': 1645616326, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.gioro.de', 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'pending'}, {'domain': '.gioro.de', 'expiry': 1644408526, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: _gat
+[After] Cookie-Name 2: _shopify_evids
+[After] Cookie-Name 3: _tracking_consent
+[After] Cookie-Name 4: _shopify_s
+[After] Cookie-Name 5: _shopify_y
+[After] Cookie-Name 6: _s
+[After] Cookie-Name 7: _ga
+[After] Cookie-Name 8: _y
+[After] Cookie-Name 9: _shopify_m
+[After] Cookie-Name 10: _landing_page
+[After] Cookie-Name 11: _shopify_sa_t
+[After] Cookie-Name 12: _shopify_sa_t
+[After] Cookie-Name 13: _s
+[After] Cookie-Name 14: _shopify_y
+[After] Cookie-Name 15: _gcl_au
+[After] Cookie-Name 16: _gid
+[After] Cookie-Name 17: secure_customer_sig
+[After] Cookie-Name 18: _bc_c_set
+[After] Cookie-Name 19: _shopify_evids
+[After] Cookie-Name 20: _shopify_s
+[After] Cookie-Name 21: _shopify_d
+[After] Cookie-Name 22: cart_sig
+[After] Cookie-Name 23: _shopify_tw
+[After] Cookie-Name 24: cart_ts
+[After] Cookie-Name 25: cart_ver
+[After] Cookie-Name 26: cart
+[After] Cookie-Name 27: _y
+[After] Cookie-Name 28: localization
+[After] Cookie-Name 29: _orig_referrer
+[After] Cookie-Name 30: cart_currency
+[After] Cookie-Name 31: shopify_pay_redirect
+[After] Cookie-Name 32: _shopify_tm
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 14
+[Difference] Cookie-Name: 1: localization
+[Difference] Cookie-Name: 2: _shopify_y
+[Difference] Cookie-Name: 3: _ga
+[Difference] Cookie-Name: 4: _shopify_s
+[Difference] Cookie-Name: 5: _shopify_sa_t
+[Difference] Cookie-Name: 6: _gcl_au
+[Difference] Cookie-Name: 7: _shopify_d
+[Difference] Cookie-Name: 8: _bc_c_set
+[Difference] Cookie-Name: 9: _gat
+[Difference] Cookie-Name: 10: _shopify_evids
+[Difference] Cookie-Name: 11: shopify_pay_redirect
+[Difference] Cookie-Name: 12: _s
+[Difference] Cookie-Name: 13: _gid
+[Difference] Cookie-Name: 14: _y
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

@@ -1,0 +1,69 @@
+Website 381: http://www.weingut-rollanderhof.de/ | Created: 09.02.2022 21:33:04 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 18
+[Before] Website-Cookies: [{'domain': 'www.weingut-rollanderhof.de', 'httpOnly': False, 'name': 'discount_code', 'path': '/', 'secure': False, 'value': ''}, {'domain': 'www.weingut-rollanderhof.de', 'httpOnly': False, 'name': 'fsb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.weingut-rollanderhof.de', 'expiry': 1644440573, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.weingut-rollanderhof.de', 'expiry': 1644438833, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.weingut-rollanderhof.de', 'expiry': 1644440577, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'dce4475f-8bb5-4ee6-a87a-d96ec2bdd08b'}, {'domain': '.weingut-rollanderhof.de', 'expiry': 1644440577, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'dce4475f-8bb5-4ee6-a87a-d96ec2bdd08b'}, {'domain': 'www.weingut-rollanderhof.de', 'httpOnly': False, 'name': 'fsb_total_price_198994', 'path': '/', 'secure': False, 'value': '0'}, {'domain': '.weingut-rollanderhof.de', 'expiry': 1644525173, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.2089117882.1644438773'}, {'domain': '.weingut-rollanderhof.de', 'expiry': 1707510773, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.2131281011.1644438773'}, {'domain': '.weingut-rollanderhof.de', 'expiry': 1675974777, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a60a929f-3c6b-41f0-81bc-105aa1765e87'}, {'domain': '.weingut-rollanderhof.de', 'expiry': 1675974777, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a60a929f-3c6b-41f0-81bc-105aa1765e87'}, {'domain': '.weingut-rollanderhof.de', 'expiry': 1644440573, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T20%3A32%3A53.356Z'}, {'domain': 'www.weingut-rollanderhof.de', 'expiry': 1675974777, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.weingut-rollanderhof.de', 'expiry': 1645648373, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.weingut-rollanderhof.de', 'expiry': 1652214774, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644438773592.2066408129'}, {'domain': 'www.weingut-rollanderhof.de', 'expiry': 1645648377, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.weingut-rollanderhof.de', 'expiry': 1645648373, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.weingut-rollanderhof.de', 'expiry': 1645648378, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}]
+[Before] Cookie-Name 1: discount_code
+[Before] Cookie-Name 2: fsb_previous_pathname
+[Before] Cookie-Name 3: _shopify_sa_p
+[Before] Cookie-Name 4: _gat
+[Before] Cookie-Name 5: _shopify_s
+[Before] Cookie-Name 6: _s
+[Before] Cookie-Name 7: fsb_total_price_198994
+[Before] Cookie-Name 8: _gid
+[Before] Cookie-Name 9: _ga
+[Before] Cookie-Name 10: _shopify_y
+[Before] Cookie-Name 11: _y
+[Before] Cookie-Name 12: _shopify_sa_t
+[Before] Cookie-Name 13: secure_customer_sig
+[Before] Cookie-Name 14: _landing_page
+[Before] Cookie-Name 15: _fbp
+[Before] Cookie-Name 16: localization
+[Before] Cookie-Name 17: _orig_referrer
+[Before] Cookie-Name 18: cart_currency
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 19
+[After] Website-Cookies: [{'domain': 'www.weingut-rollanderhof.de', 'expiry': 1675974789, 'httpOnly': False, 'name': 'eg_cookieconsent_status', 'path': '/', 'secure': False, 'value': 'dismiss'}, {'domain': 'www.weingut-rollanderhof.de', 'httpOnly': False, 'name': 'discount_code', 'path': '/', 'secure': False, 'value': ''}, {'domain': 'www.weingut-rollanderhof.de', 'httpOnly': False, 'name': 'fsb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.weingut-rollanderhof.de', 'expiry': 1644440573, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.weingut-rollanderhof.de', 'expiry': 1644438833, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.weingut-rollanderhof.de', 'expiry': 1644440577, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'dce4475f-8bb5-4ee6-a87a-d96ec2bdd08b'}, {'domain': '.weingut-rollanderhof.de', 'expiry': 1644440577, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'dce4475f-8bb5-4ee6-a87a-d96ec2bdd08b'}, {'domain': 'www.weingut-rollanderhof.de', 'httpOnly': False, 'name': 'fsb_total_price_198994', 'path': '/', 'secure': False, 'value': '0'}, {'domain': '.weingut-rollanderhof.de', 'expiry': 1644525173, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.2089117882.1644438773'}, {'domain': '.weingut-rollanderhof.de', 'expiry': 1707510773, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.2131281011.1644438773'}, {'domain': '.weingut-rollanderhof.de', 'expiry': 1675974777, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a60a929f-3c6b-41f0-81bc-105aa1765e87'}, {'domain': '.weingut-rollanderhof.de', 'expiry': 1675974777, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a60a929f-3c6b-41f0-81bc-105aa1765e87'}, {'domain': '.weingut-rollanderhof.de', 'expiry': 1644440573, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T20%3A32%3A53.356Z'}, {'domain': 'www.weingut-rollanderhof.de', 'expiry': 1675974777, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.weingut-rollanderhof.de', 'expiry': 1645648373, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.weingut-rollanderhof.de', 'expiry': 1652214789, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644438773592.2066408129'}, {'domain': 'www.weingut-rollanderhof.de', 'expiry': 1645648377, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.weingut-rollanderhof.de', 'expiry': 1645648373, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.weingut-rollanderhof.de', 'expiry': 1645648378, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}]
+[After] Cookie-Name 1: eg_cookieconsent_status
+[After] Cookie-Name 2: discount_code
+[After] Cookie-Name 3: fsb_previous_pathname
+[After] Cookie-Name 4: _shopify_sa_p
+[After] Cookie-Name 5: _gat
+[After] Cookie-Name 6: _shopify_s
+[After] Cookie-Name 7: _s
+[After] Cookie-Name 8: fsb_total_price_198994
+[After] Cookie-Name 9: _gid
+[After] Cookie-Name 10: _ga
+[After] Cookie-Name 11: _shopify_y
+[After] Cookie-Name 12: _y
+[After] Cookie-Name 13: _shopify_sa_t
+[After] Cookie-Name 14: secure_customer_sig
+[After] Cookie-Name 15: _landing_page
+[After] Cookie-Name 16: _fbp
+[After] Cookie-Name 17: localization
+[After] Cookie-Name 18: _orig_referrer
+[After] Cookie-Name 19: cart_currency
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: eg_cookieconsent_status
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

@@ -1,0 +1,54 @@
+Website 193: http://www.unbegrenzt-speicher.de/ | Created: 10.02.2022 20:55:30 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 13
+[Before] Website-Cookies: [{'domain': 'unbegrenzt-speicher.de', 'expiry': 1644526522, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.unbegrenzt-speicher.de', 'expiry': 1652298922, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644522921976.135687093'}, {'domain': 'unbegrenzt-speicher.de', 'expiry': 1645732520, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.unbegrenzt-speicher.de', 'expiry': 1644524721, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '54fba57e-4a69-4c25-a37f-b7330e33e0b0'}, {'domain': '.unbegrenzt-speicher.de', 'expiry': 1645732521, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.unbegrenzt-speicher.de', 'expiry': 1676058921, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '85601da0-c2da-4ac9-a077-8ceead428f7e'}, {'domain': '.unbegrenzt-speicher.de', 'expiry': 1644524721, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '54fba57e-4a69-4c25-a37f-b7330e33e0b0'}, {'domain': '.unbegrenzt-speicher.de', 'expiry': 1676058921, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '85601da0-c2da-4ac9-a077-8ceead428f7e'}, {'domain': '.unbegrenzt-speicher.de', 'expiry': 1645732521, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.unbegrenzt-speicher.de', 'expiry': 1644524721, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.unbegrenzt-speicher.de', 'expiry': 1644524721, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T19%3A55%3A21.491Z'}, {'domain': 'unbegrenzt-speicher.de', 'expiry': 1645732520, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'unbegrenzt-speicher.de', 'expiry': 1676058920, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: shopify_pay_redirect
+[Before] Cookie-Name 2: _fbp
+[Before] Cookie-Name 3: localization
+[Before] Cookie-Name 4: _shopify_s
+[Before] Cookie-Name 5: _orig_referrer
+[Before] Cookie-Name 6: _shopify_y
+[Before] Cookie-Name 7: _s
+[Before] Cookie-Name 8: _y
+[Before] Cookie-Name 9: _landing_page
+[Before] Cookie-Name 10: _shopify_sa_p
+[Before] Cookie-Name 11: _shopify_sa_t
+[Before] Cookie-Name 12: cart_currency
+[Before] Cookie-Name 13: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 13
+[After] Website-Cookies: [{'domain': 'unbegrenzt-speicher.de', 'expiry': 1644526522, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.unbegrenzt-speicher.de', 'expiry': 1652298935, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644522921976.135687093'}, {'domain': 'unbegrenzt-speicher.de', 'expiry': 1645732520, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.unbegrenzt-speicher.de', 'expiry': 1644524721, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '54fba57e-4a69-4c25-a37f-b7330e33e0b0'}, {'domain': '.unbegrenzt-speicher.de', 'expiry': 1645732521, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.unbegrenzt-speicher.de', 'expiry': 1676058921, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '85601da0-c2da-4ac9-a077-8ceead428f7e'}, {'domain': '.unbegrenzt-speicher.de', 'expiry': 1644524721, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '54fba57e-4a69-4c25-a37f-b7330e33e0b0'}, {'domain': '.unbegrenzt-speicher.de', 'expiry': 1676058921, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '85601da0-c2da-4ac9-a077-8ceead428f7e'}, {'domain': '.unbegrenzt-speicher.de', 'expiry': 1645732521, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.unbegrenzt-speicher.de', 'expiry': 1644524721, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.unbegrenzt-speicher.de', 'expiry': 1644524721, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T19%3A55%3A21.491Z'}, {'domain': 'unbegrenzt-speicher.de', 'expiry': 1645732520, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'unbegrenzt-speicher.de', 'expiry': 1676058920, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: shopify_pay_redirect
+[After] Cookie-Name 2: _fbp
+[After] Cookie-Name 3: localization
+[After] Cookie-Name 4: _shopify_s
+[After] Cookie-Name 5: _orig_referrer
+[After] Cookie-Name 6: _shopify_y
+[After] Cookie-Name 7: _s
+[After] Cookie-Name 8: _y
+[After] Cookie-Name 9: _landing_page
+[After] Cookie-Name 10: _shopify_sa_p
+[After] Cookie-Name 11: _shopify_sa_t
+[After] Cookie-Name 12: cart_currency
+[After] Cookie-Name 13: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

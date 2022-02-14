@@ -1,0 +1,70 @@
+Website 65: http://www.luvett.de/ | Created: 09.02.2022 11:06:10 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 17
+[Before] Website-Cookies: [{'domain': 'luvett.de', 'httpOnly': False, 'name': 'snize-recommendation', 'path': '/', 'secure': False, 'value': '3ie639bpy9d'}, {'domain': '.luvett.de', 'expiry': 1959761164, 'httpOnly': False, 'name': 'smc_v4_68982', 'path': '/', 'secure': False, 'value': '%7B%22timer%22%3A0%2C%22start%22%3A1644401160832%2C%22last%22%3A1644401160832%2C%22disp%22%3Anull%2C%22close%22%3Anull%2C%22reset%22%3Anull%2C%22engaged%22%3Anull%2C%22active%22%3A1644401164142%2C%22cancel%22%3Anull%2C%22fm%22%3Anull%7D'}, {'domain': '.luvett.de', 'expiry': 1959761160, 'httpOnly': False, 'name': 'smc_not', 'path': '/', 'secure': False, 'value': 'default'}, {'domain': '.luvett.de', 'expiry': 1959761160, 'httpOnly': False, 'name': 'smc_sesn', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.luvett.de', 'expiry': 1959761160, 'httpOnly': False, 'name': 'smc_tpv', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.luvett.de', 'httpOnly': False, 'name': 'smc_session_id', 'path': '/', 'secure': False, 'value': 'vVrWejuOhG7pR9Gl13HraWfNktOo96mB'}, {'domain': '.luvett.de', 'httpOnly': False, 'name': 'smc_spv', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.luvett.de', 'httpOnly': False, 'name': 'smct_session', 'path': '/', 'secure': False, 'value': '%7B%22s%22%3A1644401160853%2C%22l%22%3A1644401172838%2C%22lt%22%3A1644401172838%2C%22t%22%3A13%2C%22p%22%3A13%7D'}, {'domain': '.luvett.de', 'expiry': 1646993160, 'httpOnly': False, 'name': 'smct_last_ov', 'path': '/', 'secure': False, 'value': '%5B%7B%22id%22%3A68982%2C%22loaded%22%3A1644401160540%2C%22open%22%3Anull%2C%22eng%22%3Anull%2C%22closed%22%3Anull%7D%5D'}, {'domain': '.luvett.de', 'expiry': 1675937159, 'httpOnly': False, 'name': 'smc_tag', 'path': '/', 'secure': False, 'value': 'eyJpZCI6NDA5OCwibmFtZSI6Imx1dmV0dC5kZSJ9'}, {'domain': '.luvett.de', 'expiry': 1645610758, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.luvett.de', 'expiry': 1959761159, 'httpOnly': False, 'name': 'smc_uid', 'path': '/', 'secure': False, 'value': '1644401159828733'}, {'domain': 'luvett.de', 'expiry': 1675937158, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.luvett.de', 'expiry': 1652177159, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644401159136.912480054'}, {'domain': '.luvett.de', 'expiry': 1645610758, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.luvett.de', 'expiry': 1707473160, 'httpOnly': False, 'name': 'smc_refresh', 'path': '/', 'secure': False, 'value': '18369'}, {'domain': 'luvett.de', 'expiry': 1645610758, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}]
+[Before] Cookie-Name 1: snize-recommendation
+[Before] Cookie-Name 2: smc_v4_68982
+[Before] Cookie-Name 3: smc_not
+[Before] Cookie-Name 4: smc_sesn
+[Before] Cookie-Name 5: smc_tpv
+[Before] Cookie-Name 6: smc_session_id
+[Before] Cookie-Name 7: smc_spv
+[Before] Cookie-Name 8: smct_session
+[Before] Cookie-Name 9: smct_last_ov
+[Before] Cookie-Name 10: smc_tag
+[Before] Cookie-Name 11: _orig_referrer
+[Before] Cookie-Name 12: smc_uid
+[Before] Cookie-Name 13: secure_customer_sig
+[Before] Cookie-Name 14: _fbp
+[Before] Cookie-Name 15: _landing_page
+[Before] Cookie-Name 16: smc_refresh
+[Before] Cookie-Name 17: cart_currency
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 21
+[After] Website-Cookies: [{'domain': '.luvett.de', 'expiry': 1644487576, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1907562867.1644401177'}, {'domain': '.luvett.de', 'expiry': 1707473176, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1518321097.1644401159'}, {'domain': 'luvett.de', 'httpOnly': False, 'name': 'snize-recommendation', 'path': '/', 'secure': False, 'value': '3ie639bpy9d'}, {'domain': '.luvett.de', 'expiry': 1959761164, 'httpOnly': False, 'name': 'smc_v4_68982', 'path': '/', 'secure': False, 'value': '%7B%22timer%22%3A0%2C%22start%22%3A1644401160832%2C%22last%22%3A1644401160832%2C%22disp%22%3Anull%2C%22close%22%3Anull%2C%22reset%22%3Anull%2C%22engaged%22%3Anull%2C%22active%22%3A1644401164142%2C%22cancel%22%3Anull%2C%22fm%22%3Anull%7D'}, {'domain': '.luvett.de', 'expiry': 1959761160, 'httpOnly': False, 'name': 'smc_not', 'path': '/', 'secure': False, 'value': 'default'}, {'domain': '.luvett.de', 'expiry': 1959761160, 'httpOnly': False, 'name': 'smc_sesn', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.luvett.de', 'expiry': 1959761160, 'httpOnly': False, 'name': 'smc_tpv', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.luvett.de', 'httpOnly': False, 'name': 'smc_session_id', 'path': '/', 'secure': False, 'value': 'vVrWejuOhG7pR9Gl13HraWfNktOo96mB'}, {'domain': '.luvett.de', 'httpOnly': False, 'name': 'smc_spv', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.luvett.de', 'httpOnly': False, 'name': 'smct_session', 'path': '/', 'secure': False, 'value': '%7B%22s%22%3A1644401160853%2C%22l%22%3A1644401178844%2C%22lt%22%3A1644401178844%2C%22t%22%3A19%2C%22p%22%3A19%7D'}, {'domain': '.luvett.de', 'expiry': 1644401236, 'httpOnly': False, 'name': '_gat_gtag_UA_140397870_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.luvett.de', 'expiry': 1646993160, 'httpOnly': False, 'name': 'smct_last_ov', 'path': '/', 'secure': False, 'value': '%5B%7B%22id%22%3A68982%2C%22loaded%22%3A1644401160540%2C%22open%22%3Anull%2C%22eng%22%3Anull%2C%22closed%22%3Anull%7D%5D'}, {'domain': '.luvett.de', 'expiry': 1675937159, 'httpOnly': False, 'name': 'smc_tag', 'path': '/', 'secure': False, 'value': 'eyJpZCI6NDA5OCwibmFtZSI6Imx1dmV0dC5kZSJ9'}, {'domain': '.luvett.de', 'expiry': 1645610758, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.luvett.de', 'expiry': 1959761159, 'httpOnly': False, 'name': 'smc_uid', 'path': '/', 'secure': False, 'value': '1644401159828733'}, {'domain': '.luvett.de', 'expiry': 1675937176, 'httpOnly': False, 'name': 'cookiehub', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJhbnN3ZXJlZCI6dHJ1ZSwicHJlY29uc2VudCI6ZmFsc2UsInJldmlzaW9uIjoxLCJkbnQiOmZhbHNlLCJjb29raWVMYXdzIjp0cnVlLCJ0b2tlbiI6IjJBVU5RMWxvNGNXeWR0SGlCYXlzYWpQQkF5WGFqczVtSUFNVGVscFJEQTE3dm9rVGNZRmg0Tjk4V2RSdkxTTzMiLCJ0aW1lc3RhbXAiOiIyMDIyLTAyLTA5VDEwOjA2OjE2LjY2NloiLCJjYXRlZ29yaWVzIjpbeyJjaWQiOjEsImlkIjoibmVjZXNzYXJ5IiwidmFsdWUiOnRydWUsInByZWNvbnNlbnQiOnRydWUsImZpcmVkIjp0cnVlfSx7ImNpZCI6MiwiaWQiOiJwcmVmZXJlbmNlcyIsInZhbHVlIjp0cnVlLCJwcmVjb25zZW50IjpmYWxzZSwiZmlyZWQiOmZhbHNlfSx7ImNpZCI6MywiaWQiOiJhbmFseXRpY3MiLCJ2YWx1ZSI6dHJ1ZSwicHJlY29uc2VudCI6ZmFsc2UsImZpcmVkIjpmYWxzZX0seyJjaWQiOjQsImlkIjoibWFya2V0aW5nIiwidmFsdWUiOnRydWUsInByZWNvbnNlbnQiOmZhbHNlLCJmaXJlZCI6ZmFsc2V9LHsiY2lkIjo1LCJpZCI6InVuY2F0ZWdvcml6ZWQiLCJ2YWx1ZSI6dHJ1ZSwicHJlY29uc2VudCI6ZmFsc2UsImZpcmVkIjpmYWxzZX1dfQ=='}, {'domain': 'luvett.de', 'expiry': 1675937158, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.luvett.de', 'expiry': 1652177176, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644401159136.912480054'}, {'domain': '.luvett.de', 'expiry': 1645610758, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.luvett.de', 'expiry': 1707473160, 'httpOnly': False, 'name': 'smc_refresh', 'path': '/', 'secure': False, 'value': '18369'}, {'domain': 'luvett.de', 'expiry': 1645610758, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}]
+[After] Cookie-Name 1: _gid
+[After] Cookie-Name 2: _ga
+[After] Cookie-Name 3: snize-recommendation
+[After] Cookie-Name 4: smc_v4_68982
+[After] Cookie-Name 5: smc_not
+[After] Cookie-Name 6: smc_sesn
+[After] Cookie-Name 7: smc_tpv
+[After] Cookie-Name 8: smc_session_id
+[After] Cookie-Name 9: smc_spv
+[After] Cookie-Name 10: smct_session
+[After] Cookie-Name 11: _gat_gtag_UA_140397870_1
+[After] Cookie-Name 12: smct_last_ov
+[After] Cookie-Name 13: smc_tag
+[After] Cookie-Name 14: _orig_referrer
+[After] Cookie-Name 15: smc_uid
+[After] Cookie-Name 16: cookiehub
+[After] Cookie-Name 17: secure_customer_sig
+[After] Cookie-Name 18: _fbp
+[After] Cookie-Name 19: _landing_page
+[After] Cookie-Name 20: smc_refresh
+[After] Cookie-Name 21: cart_currency
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 4
+[Difference] Cookie-Name: 1: _gat_gtag_UA_140397870_1
+[Difference] Cookie-Name: 2: _ga
+[Difference] Cookie-Name: 3: cookiehub
+[Difference] Cookie-Name: 4: _gid
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

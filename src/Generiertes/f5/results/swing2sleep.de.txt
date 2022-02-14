@@ -1,0 +1,84 @@
+Website 330: http://www.swing2sleep.de/ | Created: 09.02.2022 21:17:52 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 24
+[Before] Website-Cookies: [{'domain': '.swing2sleep.de', 'expiry': 1678601863, 'httpOnly': False, 'name': 'cto_bundle', 'path': '/', 'secure': False, 'value': 'Y0_icl95N2VIMXhtTkgwenpOeTdxS1hqSG1HY3VTVjMxVUFXRTVJN2FpZlJ4bVNqJTJCVFZFOWpDOWl5NmhxN2ZYT05MWmRsdTdmV0hQQ2xqTFB0SiUyRlBLMGxRdHpZeG15VmF5bGltc0kxblI2VW0ycFpNSG1MRkQlMkZKUzV4RElvSXlXeWFpbXdoM1hKRVJhU3NpeGEwY0RaTFBaM3clM0QlM0Q'}, {'domain': '.swing2sleep.de', 'expiry': 1707509862, 'httpOnly': False, 'name': '_flowbox', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '73ebb0f9-59eb-e638-b6a5-ebf3bd941014'}, {'domain': '.swing2sleep.de', 'expiry': 1675973862, 'httpOnly': False, 'name': 'egos_mfssw2s', 'path': '/', 'secure': False, 'value': 'es40599xqkzfzufrf.164445338851'}, {'domain': '.swing2sleep.de', 'expiry': 1675973862, 'httpOnly': False, 'name': 'egod_mfssw2s', 'path': '/', 'secure': False, 'value': 'ed40599xqkyq9qv26.164293792773'}, {'domain': '.swing2sleep.de', 'expiry': 1675973862, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU1XVmpNamN3WXpBdE1HRm1ZUzAwTkdVMUxXRTNaVGd0T1dKak9UaGpaamswT0RaaA'}, {'domain': '.swing2sleep.de', 'expiry': 1644437922, 'httpOnly': False, 'name': '_gat_UA-82266505-1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.swing2sleep.de', 'expiry': 1644439662, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.swing2sleep.de', 'expiry': 1644439662, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T20%3A17%3A42.515Z'}, {'domain': '.swing2sleep.de', 'expiry': 1644524272, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.796852284.1644437863'}, {'domain': 'www.swing2sleep.de', 'expiry': 1707509863, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0Mzc4NjQsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LnN3aW5nMnNsZWVwLmRlLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDQzNzg2NCwidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly93d3cuc3dpbmcyc2xlZXAuZGUvIn19'}, {'domain': 'www.swing2sleep.de', 'expiry': 2147483647, 'httpOnly': False, 'name': 'pf_ss', 'path': '/', 'secure': False, 'value': 'Direkter-Seitenaufruf'}, {'domain': '.swing2sleep.de', 'expiry': 1707509872, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.854972850.1644437863'}, {'domain': '.swing2sleep.de', 'expiry': 1652213862, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1480960754.1644437862'}, {'domain': 'www.swing2sleep.de', 'expiry': 2147483647, 'httpOnly': False, 'name': 'usercentricsoverride', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.swing2sleep.de', 'expiry': 1675973863, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.swing2sleep.de', 'expiry': 1644439663, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1840b465-89ca-4a24-af11-4598f2acc244'}, {'domain': '.swing2sleep.de', 'expiry': 1652213863, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1643049493817.429658719394058'}, {'domain': '.swing2sleep.de', 'expiry': 1675973862, 'httpOnly': False, 'name': 'egou', 'path': '/', 'secure': False, 'value': 'eu40599xqkyq9qv1r.164290792730'}, {'domain': '.swing2sleep.de', 'expiry': 1675973863, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'af8591f1-3013-4b65-a1c2-79272af1d9dc'}, {'domain': '.swing2sleep.de', 'expiry': 1644439663, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1840b465-89ca-4a24-af11-4598f2acc244'}, {'domain': '.swing2sleep.de', 'expiry': 1645647461, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.swing2sleep.de', 'expiry': 1675973863, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'af8591f1-3013-4b65-a1c2-79272af1d9dc'}, {'domain': 'www.swing2sleep.de', 'expiry': 2147483647, 'httpOnly': False, 'name': 'pf_nv', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.swing2sleep.de', 'expiry': 1645647461, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[Before] Cookie-Name 1: cto_bundle
+[Before] Cookie-Name 2: _flowbox
+[Before] Cookie-Name 3: egos_mfssw2s
+[Before] Cookie-Name 4: egod_mfssw2s
+[Before] Cookie-Name 5: _pin_unauth
+[Before] Cookie-Name 6: _gat_UA-82266505-1
+[Before] Cookie-Name 7: _shopify_sa_p
+[Before] Cookie-Name 8: _shopify_sa_t
+[Before] Cookie-Name 9: _gid
+[Before] Cookie-Name 10: __kla_id
+[Before] Cookie-Name 11: pf_ss
+[Before] Cookie-Name 12: _ga
+[Before] Cookie-Name 13: _gcl_au
+[Before] Cookie-Name 14: usercentricsoverride
+[Before] Cookie-Name 15: secure_customer_sig
+[Before] Cookie-Name 16: _shopify_s
+[Before] Cookie-Name 17: _fbp
+[Before] Cookie-Name 18: egou
+[Before] Cookie-Name 19: _shopify_y
+[Before] Cookie-Name 20: _s
+[Before] Cookie-Name 21: _landing_page
+[Before] Cookie-Name 22: _y
+[Before] Cookie-Name 23: pf_nv
+[Before] Cookie-Name 24: _orig_referrer
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 24
+[After] Website-Cookies: [{'domain': '.swing2sleep.de', 'expiry': 1678601863, 'httpOnly': False, 'name': 'cto_bundle', 'path': '/', 'secure': False, 'value': 'Y0_icl95N2VIMXhtTkgwenpOeTdxS1hqSG1HY3VTVjMxVUFXRTVJN2FpZlJ4bVNqJTJCVFZFOWpDOWl5NmhxN2ZYT05MWmRsdTdmV0hQQ2xqTFB0SiUyRlBLMGxRdHpZeG15VmF5bGltc0kxblI2VW0ycFpNSG1MRkQlMkZKUzV4RElvSXlXeWFpbXdoM1hKRVJhU3NpeGEwY0RaTFBaM3clM0QlM0Q'}, {'domain': '.swing2sleep.de', 'expiry': 1707509862, 'httpOnly': False, 'name': '_flowbox', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '73ebb0f9-59eb-e638-b6a5-ebf3bd941014'}, {'domain': '.swing2sleep.de', 'expiry': 1675973862, 'httpOnly': False, 'name': 'egos_mfssw2s', 'path': '/', 'secure': False, 'value': 'es40599xqkzfzufrf.164445338851'}, {'domain': '.swing2sleep.de', 'expiry': 1675973862, 'httpOnly': False, 'name': 'egod_mfssw2s', 'path': '/', 'secure': False, 'value': 'ed40599xqkyq9qv26.164293792773'}, {'domain': '.swing2sleep.de', 'expiry': 1675973862, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU1XVmpNamN3WXpBdE1HRm1ZUzAwTkdVMUxXRTNaVGd0T1dKak9UaGpaamswT0RaaA'}, {'domain': '.swing2sleep.de', 'expiry': 1644437922, 'httpOnly': False, 'name': '_gat_UA-82266505-1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.swing2sleep.de', 'expiry': 1644439662, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.swing2sleep.de', 'expiry': 1644439662, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T20%3A17%3A42.515Z'}, {'domain': '.swing2sleep.de', 'expiry': 1644524272, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.796852284.1644437863'}, {'domain': 'www.swing2sleep.de', 'expiry': 1707509863, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0Mzc4NjQsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LnN3aW5nMnNsZWVwLmRlLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDQzNzg2NCwidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly93d3cuc3dpbmcyc2xlZXAuZGUvIn19'}, {'domain': 'www.swing2sleep.de', 'expiry': 2147483647, 'httpOnly': False, 'name': 'pf_ss', 'path': '/', 'secure': False, 'value': 'Direkter-Seitenaufruf'}, {'domain': '.swing2sleep.de', 'expiry': 1707509872, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.854972850.1644437863'}, {'domain': '.swing2sleep.de', 'expiry': 1652213862, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1480960754.1644437862'}, {'domain': 'www.swing2sleep.de', 'expiry': 2147483647, 'httpOnly': False, 'name': 'usercentricsoverride', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.swing2sleep.de', 'expiry': 1675973878, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.swing2sleep.de', 'expiry': 1644439678, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1840b465-89ca-4a24-af11-4598f2acc244'}, {'domain': '.swing2sleep.de', 'expiry': 1652213863, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1643049493817.429658719394058'}, {'domain': '.swing2sleep.de', 'expiry': 1675973862, 'httpOnly': False, 'name': 'egou', 'path': '/', 'secure': False, 'value': 'eu40599xqkyq9qv1r.164290792730'}, {'domain': '.swing2sleep.de', 'expiry': 1675973878, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'af8591f1-3013-4b65-a1c2-79272af1d9dc'}, {'domain': '.swing2sleep.de', 'expiry': 1644439678, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1840b465-89ca-4a24-af11-4598f2acc244'}, {'domain': '.swing2sleep.de', 'expiry': 1645647461, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.swing2sleep.de', 'expiry': 1675973878, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'af8591f1-3013-4b65-a1c2-79272af1d9dc'}, {'domain': 'www.swing2sleep.de', 'expiry': 2147483647, 'httpOnly': False, 'name': 'pf_nv', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.swing2sleep.de', 'expiry': 1645647461, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: cto_bundle
+[After] Cookie-Name 2: _flowbox
+[After] Cookie-Name 3: egos_mfssw2s
+[After] Cookie-Name 4: egod_mfssw2s
+[After] Cookie-Name 5: _pin_unauth
+[After] Cookie-Name 6: _gat_UA-82266505-1
+[After] Cookie-Name 7: _shopify_sa_p
+[After] Cookie-Name 8: _shopify_sa_t
+[After] Cookie-Name 9: _gid
+[After] Cookie-Name 10: __kla_id
+[After] Cookie-Name 11: pf_ss
+[After] Cookie-Name 12: _ga
+[After] Cookie-Name 13: _gcl_au
+[After] Cookie-Name 14: usercentricsoverride
+[After] Cookie-Name 15: secure_customer_sig
+[After] Cookie-Name 16: _shopify_s
+[After] Cookie-Name 17: _fbp
+[After] Cookie-Name 18: egou
+[After] Cookie-Name 19: _shopify_y
+[After] Cookie-Name 20: _s
+[After] Cookie-Name 21: _landing_page
+[After] Cookie-Name 22: _y
+[After] Cookie-Name 23: pf_nv
+[After] Cookie-Name 24: _orig_referrer
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

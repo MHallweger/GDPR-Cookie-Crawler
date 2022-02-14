@@ -1,0 +1,87 @@
+Website 281: http://www.handy-wie-neu.de/ | Created: 09.02.2022 18:32:31 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 24
+[Before] Website-Cookies: [{'domain': '.handy-wie-neu.de', 'expiry': 1652203942, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644427942077.1150294401'}, {'domain': 'www.handy-wie-neu.de', 'expiry': 1644428061, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.handy-wie-neu.de', 'expiry': 1644429741, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.handy-wie-neu.de', 'expiry': 1644428001, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.handy-wie-neu.de', 'expiry': 1678123942, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '3d14f76089ce11ecb0fac1273a770f2a'}, {'domain': '.handy-wie-neu.de', 'expiry': 1644514342, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': '3d14f8b089ce11ec8f586dfc0aa94c45'}, {'domain': '.handy-wie-neu.de', 'expiry': 1675963941, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a7617b3c-5820-4fdb-b099-05e73169d582'}, {'domain': '.handy-wie-neu.de', 'expiry': 1644429741, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.handy-wie-neu.de', 'expiry': 1644514341, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.291074559.1644427942'}, {'domain': '.handy-wie-neu.de', 'expiry': 1675963941, 'httpOnly': False, 'name': '_hjSessionUser_1736539', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImI0YTg3NGNlLTY1ODgtNTJjNS1hODg3LTIxOTEzNGU1YWExNiIsImNyZWF0ZWQiOjE2NDQ0Mjc5NDE5NDUsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.handy-wie-neu.de', 'expiry': 1707499941, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1659816426.1644427942'}, {'domain': '.handy-wie-neu.de', 'expiry': 1675963941, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a7617b3c-5820-4fdb-b099-05e73169d582'}, {'domain': '.handy-wie-neu.de', 'expiry': 1644429741, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.handy-wie-neu.de', 'expiry': 1644429741, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A32%3A21.816Z'}, {'domain': '.handy-wie-neu.de', 'expiry': 1645637541, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.handy-wie-neu.de', 'expiry': 1645637541, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.handy-wie-neu.de', 'expiry': 1644429741, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2b29f3a0-2dc1-4680-a92c-4c6930fc668f'}, {'domain': '.handy-wie-neu.de', 'expiry': 1644514343, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': '17o4wjy|1644427943332|1|1|j.clarity.ms/collect'}, {'domain': '.handy-wie-neu.de', 'expiry': 1675963942, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': 'ikshc7|1|eyu|0'}, {'domain': '.handy-wie-neu.de', 'expiry': 1644429741, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2b29f3a0-2dc1-4680-a92c-4c6930fc668f'}, {'domain': '.handy-wie-neu.de', 'expiry': 1645637541, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.handy-wie-neu.de', 'expiry': 1644429741, 'httpOnly': False, 'name': '_hjSession_1736539', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjU3MzRiMjg3LTE0N2QtNGFmNy05ZTEwLTBmMjk2OWRlNTM1NyIsImNyZWF0ZWQiOjE2NDQ0Mjc5NDE5NTIsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': 'www.handy-wie-neu.de', 'expiry': 1645637541, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'www.handy-wie-neu.de', 'expiry': 1675963941, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _fbp
+[Before] Cookie-Name 2: _hjIncludedInPageviewSample
+[Before] Cookie-Name 3: _hjFirstSeen
+[Before] Cookie-Name 4: _gat
+[Before] Cookie-Name 5: _uetvid
+[Before] Cookie-Name 6: _uetsid
+[Before] Cookie-Name 7: _y
+[Before] Cookie-Name 8: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 9: _gid
+[Before] Cookie-Name 10: _hjSessionUser_1736539
+[Before] Cookie-Name 11: _ga
+[Before] Cookie-Name 12: _shopify_y
+[Before] Cookie-Name 13: _shopify_sa_p
+[Before] Cookie-Name 14: _shopify_sa_t
+[Before] Cookie-Name 15: _orig_referrer
+[Before] Cookie-Name 16: cart_currency
+[Before] Cookie-Name 17: _shopify_s
+[Before] Cookie-Name 18: _clsk
+[Before] Cookie-Name 19: _clck
+[Before] Cookie-Name 20: _s
+[Before] Cookie-Name 21: _landing_page
+[Before] Cookie-Name 22: _hjSession_1736539
+[Before] Cookie-Name 23: localization
+[Before] Cookie-Name 24: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 24
+[After] Website-Cookies: [{'domain': '.handy-wie-neu.de', 'expiry': 1652203942, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644427942077.1150294401'}, {'domain': 'www.handy-wie-neu.de', 'expiry': 1644428061, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.handy-wie-neu.de', 'expiry': 1644429741, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.handy-wie-neu.de', 'expiry': 1644428001, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.handy-wie-neu.de', 'expiry': 1678123942, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '3d14f76089ce11ecb0fac1273a770f2a'}, {'domain': '.handy-wie-neu.de', 'expiry': 1644514342, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': '3d14f8b089ce11ec8f586dfc0aa94c45'}, {'domain': '.handy-wie-neu.de', 'expiry': 1675963941, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a7617b3c-5820-4fdb-b099-05e73169d582'}, {'domain': '.handy-wie-neu.de', 'expiry': 1644429741, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.handy-wie-neu.de', 'expiry': 1644514341, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.291074559.1644427942'}, {'domain': '.handy-wie-neu.de', 'expiry': 1675963941, 'httpOnly': False, 'name': '_hjSessionUser_1736539', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImI0YTg3NGNlLTY1ODgtNTJjNS1hODg3LTIxOTEzNGU1YWExNiIsImNyZWF0ZWQiOjE2NDQ0Mjc5NDE5NDUsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.handy-wie-neu.de', 'expiry': 1707499941, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1659816426.1644427942'}, {'domain': '.handy-wie-neu.de', 'expiry': 1675963941, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a7617b3c-5820-4fdb-b099-05e73169d582'}, {'domain': '.handy-wie-neu.de', 'expiry': 1644429741, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.handy-wie-neu.de', 'expiry': 1644429741, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A32%3A21.816Z'}, {'domain': '.handy-wie-neu.de', 'expiry': 1645637541, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.handy-wie-neu.de', 'expiry': 1645637541, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.handy-wie-neu.de', 'expiry': 1644429741, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2b29f3a0-2dc1-4680-a92c-4c6930fc668f'}, {'domain': '.handy-wie-neu.de', 'expiry': 1644514343, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': '17o4wjy|1644427943332|1|1|j.clarity.ms/collect'}, {'domain': '.handy-wie-neu.de', 'expiry': 1675963942, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': 'ikshc7|1|eyu|0'}, {'domain': '.handy-wie-neu.de', 'expiry': 1644429741, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2b29f3a0-2dc1-4680-a92c-4c6930fc668f'}, {'domain': '.handy-wie-neu.de', 'expiry': 1645637541, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.handy-wie-neu.de', 'expiry': 1644429741, 'httpOnly': False, 'name': '_hjSession_1736539', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjU3MzRiMjg3LTE0N2QtNGFmNy05ZTEwLTBmMjk2OWRlNTM1NyIsImNyZWF0ZWQiOjE2NDQ0Mjc5NDE5NTIsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': 'www.handy-wie-neu.de', 'expiry': 1645637541, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'www.handy-wie-neu.de', 'expiry': 1675963941, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _fbp
+[After] Cookie-Name 2: _hjIncludedInPageviewSample
+[After] Cookie-Name 3: _hjFirstSeen
+[After] Cookie-Name 4: _gat
+[After] Cookie-Name 5: _uetvid
+[After] Cookie-Name 6: _uetsid
+[After] Cookie-Name 7: _y
+[After] Cookie-Name 8: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 9: _gid
+[After] Cookie-Name 10: _hjSessionUser_1736539
+[After] Cookie-Name 11: _ga
+[After] Cookie-Name 12: _shopify_y
+[After] Cookie-Name 13: _shopify_sa_p
+[After] Cookie-Name 14: _shopify_sa_t
+[After] Cookie-Name 15: _orig_referrer
+[After] Cookie-Name 16: cart_currency
+[After] Cookie-Name 17: _shopify_s
+[After] Cookie-Name 18: _clsk
+[After] Cookie-Name 19: _clck
+[After] Cookie-Name 20: _s
+[After] Cookie-Name 21: _landing_page
+[After] Cookie-Name 22: _hjSession_1736539
+[After] Cookie-Name 23: localization
+[After] Cookie-Name 24: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _hjIncludedInPageviewSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _clsk (Microsoft Clarity (User experience tool))
+[Used before] Cookie-Name: _clck (Microsoft Clarity (User experience tool))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

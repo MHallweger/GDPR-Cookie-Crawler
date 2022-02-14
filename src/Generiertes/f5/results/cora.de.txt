@@ -1,0 +1,79 @@
+Website 171: http://www.cora.de/ | Created: 09.02.2022 20:27:20 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 22
+[Before] Website-Cookies: [{'domain': 'www.cora.de', 'expiry': 1675970829, 'httpOnly': False, 'name': 'wishlist_id', 'path': '/', 'secure': False, 'value': '8790212667a0t6mzhxkrl'}, {'domain': 'www.cora.de', 'expiry': 1802114828, 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'secure': True, 'value': 'a5aec8d6-8918-408a-b976-4f0079fe43c9'}, {'domain': 'www.cora.de', 'expiry': 1644436628, 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'secure': True, 'value': '735607b8-fed8-41b9-bf97-27e7b0a92cd9'}, {'domain': '.cora.de', 'expiry': 1644434888, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.cora.de', 'expiry': 1675970830, 'httpOnly': False, 'name': 'sailthru_visitor', 'path': '/', 'secure': False, 'value': 'a1cd66e9-387b-4fd6-9641-a930989e7046'}, {'domain': '.cora.de', 'expiry': 1644436630, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd385d951-a8a6-4544-8b3b-bffb3b698078'}, {'domain': '.cora.de', 'expiry': 1644436627, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.cora.de', 'expiry': 1652210826, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1889436413.1644434826'}, {'domain': 'www.cora.de', 'expiry': 1675970829, 'httpOnly': False, 'name': 'wishlist_customer_id', 'path': '/', 'secure': False, 'value': '0'}, {'domain': '.cora.de', 'expiry': 1652210828, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644434828149.1933286205'}, {'domain': '.cora.de', 'expiry': 1644436627, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A27%3A07.902Z'}, {'domain': 'www.cora.de', 'expiry': 1675970829, 'httpOnly': False, 'name': 'bookmarkeditems', 'path': '/', 'secure': False, 'value': '{"items":[]}'}, {'domain': '.cora.de', 'expiry': 1644436630, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd385d951-a8a6-4544-8b3b-bffb3b698078'}, {'domain': '.cora.de', 'expiry': 1675970830, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1b87ea2e-6dfb-4bf5-822c-c4a96b53c5c2'}, {'domain': '.cora.de', 'expiry': 1644521228, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1657554749.1644434828'}, {'domain': '.cora.de', 'expiry': 1645644426, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.cora.de', 'expiry': 1644436629, 'httpOnly': False, 'name': 'sailthru_pageviews', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.cora.de', 'expiry': 1707506828, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.161006377.1644434828'}, {'domain': '.cora.de', 'expiry': 1675970828, 'httpOnly': False, 'name': 'OptanonConsent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'isIABGlobal=false&datestamp=Wed+Feb+09+2022+20%3A27%3A08+GMT%2B0100+(Mitteleurop%C3%A4ische+Normalzeit)&version=6.22.0&landingPath=https%3A%2F%2Fwww.cora.de%2F&groups=1%3A1%2C2%3A0%2C3%3A0%2C101%3A0%2C4%3A0%2C105%3A0%2C0_292126%3A0%2C0_300543%3A0%2C0_300542%3A1%2C0_292125%3A0%2C0_292124%3A1%2C8%3A0'}, {'domain': '.cora.de', 'expiry': 1675970830, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1b87ea2e-6dfb-4bf5-822c-c4a96b53c5c2'}, {'domain': '.cora.de', 'expiry': 1645644426, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.cora.de', 'expiry': 1675970830, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: wishlist_id
+[Before] Cookie-Name 2: _shg_user_id
+[Before] Cookie-Name 3: _shg_session_id
+[Before] Cookie-Name 4: _gat
+[Before] Cookie-Name 5: sailthru_visitor
+[Before] Cookie-Name 6: _s
+[Before] Cookie-Name 7: _shopify_sa_p
+[Before] Cookie-Name 8: _gcl_au
+[Before] Cookie-Name 9: wishlist_customer_id
+[Before] Cookie-Name 10: _fbp
+[Before] Cookie-Name 11: _shopify_sa_t
+[Before] Cookie-Name 12: bookmarkeditems
+[Before] Cookie-Name 13: _shopify_s
+[Before] Cookie-Name 14: _shopify_y
+[Before] Cookie-Name 15: _gid
+[Before] Cookie-Name 16: _landing_page
+[Before] Cookie-Name 17: sailthru_pageviews
+[Before] Cookie-Name 18: _ga
+[Before] Cookie-Name 19: OptanonConsent
+[Before] Cookie-Name 20: _y
+[Before] Cookie-Name 21: _orig_referrer
+[Before] Cookie-Name 22: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 22
+[After] Website-Cookies: [{'domain': 'www.cora.de', 'expiry': 1675970829, 'httpOnly': False, 'name': 'wishlist_id', 'path': '/', 'secure': False, 'value': '8790212667a0t6mzhxkrl'}, {'domain': 'www.cora.de', 'expiry': 1802114828, 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'secure': True, 'value': 'a5aec8d6-8918-408a-b976-4f0079fe43c9'}, {'domain': 'www.cora.de', 'expiry': 1644436628, 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'secure': True, 'value': '735607b8-fed8-41b9-bf97-27e7b0a92cd9'}, {'domain': '.cora.de', 'expiry': 1644434888, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.cora.de', 'expiry': 1675970830, 'httpOnly': False, 'name': 'sailthru_visitor', 'path': '/', 'secure': False, 'value': 'a1cd66e9-387b-4fd6-9641-a930989e7046'}, {'domain': '.cora.de', 'expiry': 1644436630, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd385d951-a8a6-4544-8b3b-bffb3b698078'}, {'domain': '.cora.de', 'expiry': 1644436627, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.cora.de', 'expiry': 1652210826, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1889436413.1644434826'}, {'domain': 'www.cora.de', 'expiry': 1675970829, 'httpOnly': False, 'name': 'wishlist_customer_id', 'path': '/', 'secure': False, 'value': '0'}, {'domain': '.cora.de', 'expiry': 1652210828, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644434828149.1933286205'}, {'domain': '.cora.de', 'expiry': 1644436627, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A27%3A07.902Z'}, {'domain': 'www.cora.de', 'expiry': 1675970829, 'httpOnly': False, 'name': 'bookmarkeditems', 'path': '/', 'secure': False, 'value': '{"items":[]}'}, {'domain': '.cora.de', 'expiry': 1644436630, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd385d951-a8a6-4544-8b3b-bffb3b698078'}, {'domain': '.cora.de', 'expiry': 1675970830, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1b87ea2e-6dfb-4bf5-822c-c4a96b53c5c2'}, {'domain': '.cora.de', 'expiry': 1644521228, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1657554749.1644434828'}, {'domain': '.cora.de', 'expiry': 1645644426, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.cora.de', 'expiry': 1644436629, 'httpOnly': False, 'name': 'sailthru_pageviews', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.cora.de', 'expiry': 1707506828, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.161006377.1644434828'}, {'domain': '.cora.de', 'expiry': 1675970828, 'httpOnly': False, 'name': 'OptanonConsent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'isIABGlobal=false&datestamp=Wed+Feb+09+2022+20%3A27%3A08+GMT%2B0100+(Mitteleurop%C3%A4ische+Normalzeit)&version=6.22.0&landingPath=https%3A%2F%2Fwww.cora.de%2F&groups=1%3A1%2C2%3A0%2C3%3A0%2C101%3A0%2C4%3A0%2C105%3A0%2C0_292126%3A0%2C0_300543%3A0%2C0_300542%3A1%2C0_292125%3A0%2C0_292124%3A1%2C8%3A0'}, {'domain': '.cora.de', 'expiry': 1675970830, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1b87ea2e-6dfb-4bf5-822c-c4a96b53c5c2'}, {'domain': '.cora.de', 'expiry': 1645644426, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.cora.de', 'expiry': 1675970830, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: wishlist_id
+[After] Cookie-Name 2: _shg_user_id
+[After] Cookie-Name 3: _shg_session_id
+[After] Cookie-Name 4: _gat
+[After] Cookie-Name 5: sailthru_visitor
+[After] Cookie-Name 6: _s
+[After] Cookie-Name 7: _shopify_sa_p
+[After] Cookie-Name 8: _gcl_au
+[After] Cookie-Name 9: wishlist_customer_id
+[After] Cookie-Name 10: _fbp
+[After] Cookie-Name 11: _shopify_sa_t
+[After] Cookie-Name 12: bookmarkeditems
+[After] Cookie-Name 13: _shopify_s
+[After] Cookie-Name 14: _shopify_y
+[After] Cookie-Name 15: _gid
+[After] Cookie-Name 16: _landing_page
+[After] Cookie-Name 17: sailthru_pageviews
+[After] Cookie-Name 18: _ga
+[After] Cookie-Name 19: OptanonConsent
+[After] Cookie-Name 20: _y
+[After] Cookie-Name 21: _orig_referrer
+[After] Cookie-Name 22: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

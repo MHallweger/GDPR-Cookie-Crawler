@@ -1,0 +1,88 @@
+Website 161: http://www.odonnell.de/ | Created: 08.02.2022 22:28:38 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 22
+[Before] Website-Cookies: [{'domain': 'odonnell.de', 'httpOnly': False, 'name': 'logState', 'path': '/', 'secure': False, 'value': 'loggedOut'}, {'domain': 'odonnell.de', 'httpOnly': False, 'name': 'landingPage', 'path': '/', 'secure': False, 'value': 'landed'}, {'domain': '.odonnell.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.odonnell.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A28%3A27.626Z'}, {'domain': 'odonnell.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.odonnell.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.odonnell.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A28%3A27.614Z'}, {'domain': '.odonnell.de', 'expiry': 1675891707, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.odonnell.de', 'expiry': 1645565307, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.odonnell.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c30198c8-5a93-4f15-8430-3a068f828f66'}, {'domain': '.odonnell.de', 'expiry': 1644357508, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.odonnell.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1ae19a88-dfcf-4349-b1bd-70f127efae63'}, {'domain': 'odonnell.de', 'expiry': 1707427709, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQzNTU3MDksInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vb2Rvbm5lbGwuZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0MzU1NzA5LCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL29kb25uZWxsLmRlLyJ9fQ=='}, {'domain': '.odonnell.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1ae19a88-dfcf-4349-b1bd-70f127efae63'}, {'domain': '.odonnell.de', 'expiry': 1675891707, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%7D'}, {'domain': 'odonnell.de', 'expiry': 1675891708, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.odonnell.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c30198c8-5a93-4f15-8430-3a068f828f66'}, {'domain': '.odonnell.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.odonnell.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'odonnell.de', 'expiry': 1644359308, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'odonnell.de', 'expiry': 1645565308, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'odonnell.de', 'expiry': 1645565308, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[Before] Cookie-Name 1: logState
+[Before] Cookie-Name 2: landingPage
+[Before] Cookie-Name 3: _shopify_sa_p
+[Before] Cookie-Name 4: _shopify_sa_t
+[Before] Cookie-Name 5: _shopify_evids
+[Before] Cookie-Name 6: _shopify_evids
+[Before] Cookie-Name 7: _shopify_d
+[Before] Cookie-Name 8: _shopify_m
+[Before] Cookie-Name 9: _shopify_tw
+[Before] Cookie-Name 10: _shopify_y
+[Before] Cookie-Name 11: _shopify_tm
+[Before] Cookie-Name 12: _shopify_s
+[Before] Cookie-Name 13: __kla_id
+[Before] Cookie-Name 14: _s
+[Before] Cookie-Name 15: _tracking_consent
+[Before] Cookie-Name 16: secure_customer_sig
+[Before] Cookie-Name 17: _y
+[Before] Cookie-Name 18: _landing_page
+[Before] Cookie-Name 19: _orig_referrer
+[Before] Cookie-Name 20: shopify_pay_redirect
+[Before] Cookie-Name 21: cart_currency
+[Before] Cookie-Name 22: localization
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 30
+[After] Website-Cookies: [{'domain': '.odonnell.de', 'expiry': 1644442125, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': 'hf8w9|1644355725329|1|1|a.clarity.ms/collect'}, {'domain': '.odonnell.de', 'expiry': 1675891725, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': '1chz8qg|1|eyt|0'}, {'domain': '.odonnell.de', 'expiry': 1678051724, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '17d7e330892611ecaa9613adedee6ea1'}, {'domain': '.odonnell.de', 'expiry': 1644442124, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': '17d7a4c0892611ec883a953f792a322f'}, {'domain': '.odonnell.de', 'expiry': 1707427724, 'httpOnly': False, 'name': '_ga_HLS2H1B938', 'path': '/', 'secure': False, 'value': 'GS1.1.1644355724.1.0.1644355724.0'}, {'domain': '.odonnell.de', 'expiry': 1652131724, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.570706103.1644355724'}, {'domain': 'odonnell.de', 'httpOnly': False, 'name': 'logState', 'path': '/', 'secure': False, 'value': 'loggedOut'}, {'domain': 'odonnell.de', 'httpOnly': False, 'name': 'landingPage', 'path': '/', 'secure': False, 'value': 'landed'}, {'domain': '.odonnell.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.odonnell.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A28%3A27.626Z'}, {'domain': 'odonnell.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.odonnell.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'odonnell.de', 'expiry': 1645565308, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.odonnell.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c30198c8-5a93-4f15-8430-3a068f828f66'}, {'domain': '.odonnell.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A28%3A27.614Z'}, {'domain': '.odonnell.de', 'expiry': 1675891707, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.odonnell.de', 'expiry': 1645565307, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.odonnell.de', 'expiry': 1644357508, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.odonnell.de', 'expiry': 1707427724, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.1.2029762669.1644355724'}, {'domain': '.odonnell.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1ae19a88-dfcf-4349-b1bd-70f127efae63'}, {'domain': '.odonnell.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'odonnell.de', 'expiry': 1707427709, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQzNTU3MDksInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vb2Rvbm5lbGwuZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0MzU1NzA5LCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL29kb25uZWxsLmRlLyJ9fQ=='}, {'domain': '.odonnell.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1ae19a88-dfcf-4349-b1bd-70f127efae63'}, {'domain': '.odonnell.de', 'expiry': 1675891707, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%7D'}, {'domain': 'odonnell.de', 'expiry': 1675891708, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.odonnell.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c30198c8-5a93-4f15-8430-3a068f828f66'}, {'domain': '.odonnell.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'odonnell.de', 'expiry': 1644359308, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'odonnell.de', 'expiry': 1645565308, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'odonnell.de', 'expiry': 1675891724, 'httpOnly': False, 'name': 'CookieConsent', 'path': '/', 'secure': True, 'value': '{stamp:%27J7Teqe0LNGaet5/LU+evk8I7n6eWlfuEnmMZp03AfHRSI0npXcy7wg==%27%2Cnecessary:true%2Cpreferences:true%2Cstatistics:true%2Cmarketing:true%2Cver:1%2Cutc:1644355724302%2Cregion:%27de%27}'}]
+[After] Cookie-Name 1: _clsk
+[After] Cookie-Name 2: _clck
+[After] Cookie-Name 3: _uetvid
+[After] Cookie-Name 4: _uetsid
+[After] Cookie-Name 5: _ga_HLS2H1B938
+[After] Cookie-Name 6: _gcl_au
+[After] Cookie-Name 7: logState
+[After] Cookie-Name 8: landingPage
+[After] Cookie-Name 9: _shopify_sa_p
+[After] Cookie-Name 10: _shopify_sa_t
+[After] Cookie-Name 11: _shopify_evids
+[After] Cookie-Name 12: _shopify_evids
+[After] Cookie-Name 13: localization
+[After] Cookie-Name 14: _shopify_y
+[After] Cookie-Name 15: _shopify_d
+[After] Cookie-Name 16: _shopify_m
+[After] Cookie-Name 17: _shopify_tw
+[After] Cookie-Name 18: _shopify_tm
+[After] Cookie-Name 19: _ga
+[After] Cookie-Name 20: _shopify_s
+[After] Cookie-Name 21: _orig_referrer
+[After] Cookie-Name 22: __kla_id
+[After] Cookie-Name 23: _s
+[After] Cookie-Name 24: _tracking_consent
+[After] Cookie-Name 25: secure_customer_sig
+[After] Cookie-Name 26: _y
+[After] Cookie-Name 27: _landing_page
+[After] Cookie-Name 28: shopify_pay_redirect
+[After] Cookie-Name 29: cart_currency
+[After] Cookie-Name 30: CookieConsent
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 8
+[Difference] Cookie-Name: 1: _ga_HLS2H1B938
+[Difference] Cookie-Name: 2: _ga
+[Difference] Cookie-Name: 3: _clsk
+[Difference] Cookie-Name: 4: _uetsid
+[Difference] Cookie-Name: 5: CookieConsent
+[Difference] Cookie-Name: 6: _clck
+[Difference] Cookie-Name: 7: _gcl_au
+[Difference] Cookie-Name: 8: _uetvid
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

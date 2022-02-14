@@ -1,0 +1,99 @@
+Website 84: http://www.two46.de/ | Created: 09.02.2022 19:58:35 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 27
+[Before] Website-Cookies: [{'domain': '.two46.de', 'expiry': 1644434908, 'httpOnly': False, 'name': '_hjSession_2442624', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjY1NTJlZmM3LTRiMzAtNGIzMC05ZTMzLWQxY2NiYTA5YTdhNCIsImNyZWF0ZWQiOjE2NDQ0MzMxMDg4NzEsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': '.two46.de', 'expiry': 1644434908, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.two46.de', 'expiry': 1644519504, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': '19mrq4o|1644433104409|1|1|f.clarity.ms/collect'}, {'domain': 'two46.de', 'expiry': 1645642703, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644433103'}, {'domain': '.two46.de', 'expiry': 1675969108, 'httpOnly': False, 'name': '_hjSessionUser_2442624', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6Ijg1OTZmZTg2LTU4ZjUtNTQxOS1hNTgzLTJkYmMzODM2MWU2YyIsImNyZWF0ZWQiOjE2NDQ0MzMxMDg4NTEsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': 'two46.de', 'expiry': 1645642703, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '96f6f9cc4125370bda5b3e6dc7bd376b'}, {'domain': '.two46.de', 'expiry': 1675969103, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': '17fgim1|1|eyu|0'}, {'domain': 'two46.de', 'expiry': 1644433228, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.two46.de', 'expiry': 1675969103, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU1XVmpNamN3WXpBdE1HRm1ZUzAwTkdVMUxXRTNaVGd0T1dKak9UaGpaamswT0RaaA'}, {'domain': '.two46.de', 'expiry': 1678129103, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '41202ca089da11ec91955b8ad3386629'}, {'domain': '.two46.de', 'expiry': 1644434902, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.two46.de', 'expiry': 1644519503, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': '41200a0089da11ec9658bbcaab47443f'}, {'domain': '.two46.de', 'expiry': 1675969109, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '41a38352-d76a-46e4-9cf3-80bba42dd820'}, {'domain': 'two46.de', 'expiry': 1645642703, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': '.two46.de', 'expiry': 1644434908, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': 'two46.de', 'expiry': 1645642703, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8184162aede972308c7760d87562805f'}, {'domain': '.two46.de', 'expiry': 1644434909, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5480991c-b66a-40a5-9c84-3a9b75063589'}, {'domain': '.two46.de', 'expiry': 1645642702, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.two46.de', 'expiry': 1675969109, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '41a38352-d76a-46e4-9cf3-80bba42dd820'}, {'domain': '.two46.de', 'expiry': 1644434909, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5480991c-b66a-40a5-9c84-3a9b75063589'}, {'domain': 'two46.de', 'expiry': 1707505108, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MzMxMDgsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vdHdvNDYuZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NDMzMTA4LCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL3R3bzQ2LmRlLyJ9fQ=='}, {'domain': '.two46.de', 'expiry': 1644434902, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T18%3A58%3A22.765Z'}, {'domain': '.two46.de', 'expiry': 1645642702, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'two46.de', 'expiry': 1644436707, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'two46.de', 'expiry': 1645642709, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'two46.de', 'expiry': 1645642709, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'two46.de', 'expiry': 1675969109, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _hjSession_2442624
+[Before] Cookie-Name 2: _hjFirstSeen
+[Before] Cookie-Name 3: _clsk
+[Before] Cookie-Name 4: cart_ts
+[Before] Cookie-Name 5: _hjSessionUser_2442624
+[Before] Cookie-Name 6: cart
+[Before] Cookie-Name 7: _clck
+[Before] Cookie-Name 8: _hjIncludedInPageviewSample
+[Before] Cookie-Name 9: _pin_unauth
+[Before] Cookie-Name 10: _uetvid
+[Before] Cookie-Name 11: _shopify_sa_p
+[Before] Cookie-Name 12: _uetsid
+[Before] Cookie-Name 13: _y
+[Before] Cookie-Name 14: cart_ver
+[Before] Cookie-Name 15: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 16: cart_sig
+[Before] Cookie-Name 17: _shopify_s
+[Before] Cookie-Name 18: _orig_referrer
+[Before] Cookie-Name 19: _shopify_y
+[Before] Cookie-Name 20: _s
+[Before] Cookie-Name 21: __kla_id
+[Before] Cookie-Name 22: _shopify_sa_t
+[Before] Cookie-Name 23: _landing_page
+[Before] Cookie-Name 24: shopify_pay_redirect
+[Before] Cookie-Name 25: cart_currency
+[Before] Cookie-Name 26: localization
+[Before] Cookie-Name 27: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 33
+[After] Website-Cookies: [{'domain': '.two46.de', 'expiry': 1644433181, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.two46.de', 'expiry': 1707505121, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.535522191.1644433122'}, {'domain': '.two46.de', 'expiry': 1644519521, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.775633403.1644433122'}, {'domain': '.two46.de', 'expiry': 1644434908, 'httpOnly': False, 'name': '_hjSession_2442624', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjY1NTJlZmM3LTRiMzAtNGIzMC05ZTMzLWQxY2NiYTA5YTdhNCIsImNyZWF0ZWQiOjE2NDQ0MzMxMDg4NzEsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': '.two46.de', 'expiry': 1644434908, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.two46.de', 'expiry': 1652209121, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1744623757.1644433122'}, {'domain': '.two46.de', 'expiry': 1644519504, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': '19mrq4o|1644433104409|1|1|f.clarity.ms/collect'}, {'domain': 'two46.de', 'expiry': 1645642703, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644433103'}, {'domain': '.two46.de', 'expiry': 1675969108, 'httpOnly': False, 'name': '_hjSessionUser_2442624', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6Ijg1OTZmZTg2LTU4ZjUtNTQxOS1hNTgzLTJkYmMzODM2MWU2YyIsImNyZWF0ZWQiOjE2NDQ0MzMxMDg4NTEsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': 'two46.de', 'expiry': 1645642703, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '96f6f9cc4125370bda5b3e6dc7bd376b'}, {'domain': '.two46.de', 'expiry': 1675969103, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': '17fgim1|1|eyu|0'}, {'domain': 'two46.de', 'expiry': 1644433228, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.two46.de', 'expiry': 1675969103, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU1XVmpNamN3WXpBdE1HRm1ZUzAwTkdVMUxXRTNaVGd0T1dKak9UaGpaamswT0RaaA'}, {'domain': '.two46.de', 'expiry': 1678129103, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '41202ca089da11ec91955b8ad3386629'}, {'domain': '.two46.de', 'expiry': 1644434902, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.two46.de', 'expiry': 1644519503, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': '41200a0089da11ec9658bbcaab47443f'}, {'domain': '.two46.de', 'expiry': 1675969109, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '41a38352-d76a-46e4-9cf3-80bba42dd820'}, {'domain': 'two46.de', 'expiry': 1645642703, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': '.two46.de', 'expiry': 1644434908, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': 'two46.de', 'expiry': 1645642703, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8184162aede972308c7760d87562805f'}, {'domain': 'two46.de', 'expiry': 1647025121, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0NDMzMTIxNjg5LCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjowfX0='}, {'domain': '.two46.de', 'expiry': 1644434909, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5480991c-b66a-40a5-9c84-3a9b75063589'}, {'domain': '.two46.de', 'expiry': 1645642702, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.two46.de', 'expiry': 1675969109, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '41a38352-d76a-46e4-9cf3-80bba42dd820'}, {'domain': '.two46.de', 'expiry': 1644434909, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5480991c-b66a-40a5-9c84-3a9b75063589'}, {'domain': 'two46.de', 'expiry': 1707505108, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MzMxMDgsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vdHdvNDYuZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NDMzMTA4LCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL3R3bzQ2LmRlLyJ9fQ=='}, {'domain': '.two46.de', 'expiry': 1644434902, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T18%3A58%3A22.765Z'}, {'domain': '.two46.de', 'expiry': 1645642702, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.two46.de', 'expiry': 1652209122, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644433121979.743607538'}, {'domain': 'two46.de', 'expiry': 1644436707, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'two46.de', 'expiry': 1645642709, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'two46.de', 'expiry': 1645642709, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'two46.de', 'expiry': 1675969109, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _gat
+[After] Cookie-Name 2: _ga
+[After] Cookie-Name 3: _gid
+[After] Cookie-Name 4: _hjSession_2442624
+[After] Cookie-Name 5: _hjFirstSeen
+[After] Cookie-Name 6: _gcl_au
+[After] Cookie-Name 7: _clsk
+[After] Cookie-Name 8: cart_ts
+[After] Cookie-Name 9: _hjSessionUser_2442624
+[After] Cookie-Name 10: cart
+[After] Cookie-Name 11: _clck
+[After] Cookie-Name 12: _hjIncludedInPageviewSample
+[After] Cookie-Name 13: _pin_unauth
+[After] Cookie-Name 14: _uetvid
+[After] Cookie-Name 15: _shopify_sa_p
+[After] Cookie-Name 16: _uetsid
+[After] Cookie-Name 17: _y
+[After] Cookie-Name 18: cart_ver
+[After] Cookie-Name 19: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 20: cart_sig
+[After] Cookie-Name 21: _bc_c_set
+[After] Cookie-Name 22: _shopify_s
+[After] Cookie-Name 23: _orig_referrer
+[After] Cookie-Name 24: _shopify_y
+[After] Cookie-Name 25: _s
+[After] Cookie-Name 26: __kla_id
+[After] Cookie-Name 27: _shopify_sa_t
+[After] Cookie-Name 28: _landing_page
+[After] Cookie-Name 29: _fbp
+[After] Cookie-Name 30: shopify_pay_redirect
+[After] Cookie-Name 31: cart_currency
+[After] Cookie-Name 32: localization
+[After] Cookie-Name 33: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+[Used before] Cookie-Name: _clsk (Microsoft Clarity (User experience tool))
+[Used before] Cookie-Name: _clck (Microsoft Clarity (User experience tool))
+[Used before] Cookie-Name: _hjIncludedInPageviewSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 6
+[Difference] Cookie-Name: 1: _gid
+[Difference] Cookie-Name: 2: _bc_c_set
+[Difference] Cookie-Name: 3: _gcl_au
+[Difference] Cookie-Name: 4: _fbp
+[Difference] Cookie-Name: 5: _ga
+[Difference] Cookie-Name: 6: _gat
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

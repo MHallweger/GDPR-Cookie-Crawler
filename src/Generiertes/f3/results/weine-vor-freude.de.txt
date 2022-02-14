@@ -1,0 +1,107 @@
+Website 191: http://www.weine-vor-freude.de/ | Created: 09.02.2022 14:39:59 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 8
+[Before] Website-Cookies: [{'domain': '.weine-vor-freude.de', 'expiry': 1675949988, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.weine-vor-freude.de', 'expiry': 1645623588, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.weine-vor-freude.de', 'expiry': 1644415790, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'weine-vor-freude.de', 'expiry': 1675949990, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.weine-vor-freude.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.weine-vor-freude.de', 'expiry': 1675949988, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': '.weine-vor-freude.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'weine-vor-freude.de', 'expiry': 1645623590, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}]
+[Before] Cookie-Name 1: _shopify_m
+[Before] Cookie-Name 2: _shopify_tw
+[Before] Cookie-Name 3: _shopify_tm
+[Before] Cookie-Name 4: secure_customer_sig
+[Before] Cookie-Name 5: _orig_referrer
+[Before] Cookie-Name 6: _tracking_consent
+[Before] Cookie-Name 7: _landing_page
+[Before] Cookie-Name 8: cart_currency
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 43
+[After] Website-Cookies: [{'domain': '.weine-vor-freude.de', 'expiry': 1652190005, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1925429635.1644414005'}, {'domain': '.weine-vor-freude.de', 'expiry': 1644415805, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.weine-vor-freude.de', 'expiry': 1675950005, 'httpOnly': False, 'name': '_hjSessionUser_2480086', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjkwMTQ3NzlhLWNkMmItNTY2ZS1hMDQyLWJjOWM5N2I2NmVhNSIsImNyZWF0ZWQiOjE2NDQ0MTQwMDUxMTUsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': 'weine-vor-freude.de', 'expiry': 1644414125, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.weine-vor-freude.de', 'expiry': 1675950005, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%221%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%7D'}, {'domain': '.weine-vor-freude.de', 'expiry': 1675950005, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': 'weine-vor-freude.de', 'expiry': 1645623604, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '68109cc853b01d64a4e50ba3bf61dce2'}, {'domain': 'weine-vor-freude.de', 'expiry': 1644414125, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.weine-vor-freude.de', 'expiry': 1644415805, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '665b1576-3ce0-4f85-ae1f-e38724afc6b1'}, {'domain': '.weine-vor-freude.de', 'expiry': 1675950005, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd51e7ba1-ab8c-4fed-b70d-4e121ad8ce54'}, {'domain': '.weine-vor-freude.de', 'expiry': 1644415805, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '665b1576-3ce0-4f85-ae1f-e38724afc6b1'}, {'domain': '.weine-vor-freude.de', 'expiry': 1675950005, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd51e7ba1-ab8c-4fed-b70d-4e121ad8ce54'}, {'domain': '.weine-vor-freude.de', 'expiry': 1644415805, 'httpOnly': False, 'name': '_hjSession_2480086', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImI0OWFkZDA5LTMyYmQtNGE2OC04N2NmLWQxMjdlODNlYzU2NiIsImNyZWF0ZWQiOjE2NDQ0MTQwMDUxNDcsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': '.weine-vor-freude.de', 'expiry': 1644415805, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A39%3A48.908Z'}, {'domain': 'weine-vor-freude.de', 'expiry': 1645623604, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ccef7b4dffd4e5ed78ea14baf8517faa'}, {'domain': 'weine-vor-freude.de', 'expiry': 1645623604, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644414004'}, {'domain': '.weine-vor-freude.de', 'expiry': 1652190005, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644414004877.2290246'}, {'domain': '.weine-vor-freude.de', 'expiry': 1644414065, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'weine-vor-freude.de', 'expiry': 1675950005, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.weine-vor-freude.de', 'expiry': 1644414064, 'httpOnly': False, 'name': '_gat_UA-50358972-1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'weine-vor-freude.de', 'httpOnly': False, 'name': 'optiMonkClientId', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '959a0da6-d349-81ea-1cc1-3c694b2fd5b2'}, {'domain': 'weine-vor-freude.de', 'expiry': 1647006004, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0NDE0MDA0NjAyLCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjowfX0='}, {'domain': 'weine-vor-freude.de', 'expiry': 1645623604, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'weine-vor-freude.de', 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'pending'}, {'domain': 'weine-vor-freude.de', 'httpOnly': False, 'name': 'cbuid_meta', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '{"referrer":"","href":"https://weine-vor-freude.de/"}'}, {'domain': '.weine-vor-freude.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'weine-vor-freude.de', 'expiry': 1675950004, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd51e7ba1-ab8c-4fed-b70d-4e121ad8ce54'}, {'domain': '.weine-vor-freude.de', 'expiry': 1645623605, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'weine-vor-freude.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.weine-vor-freude.de', 'expiry': 1645623605, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'weine-vor-freude.de', 'expiry': 1644415804, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A39%3A48.908Z'}, {'domain': 'weine-vor-freude.de', 'httpOnly': False, 'name': 'sib_cuid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd9d695b3-6861-40a6-99c9-4a8f1364283c'}, {'domain': 'weine-vor-freude.de', 'expiry': 1645623604, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': 'weine-vor-freude.de', 'expiry': 1675950004, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd51e7ba1-ab8c-4fed-b70d-4e121ad8ce54'}, {'domain': '.weine-vor-freude.de', 'expiry': 1645623588, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'weine-vor-freude.de', 'expiry': 1644415804, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '665b1576-3ce0-4f85-ae1f-e38724afc6b1'}, {'domain': '.weine-vor-freude.de', 'expiry': 1707486005, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.488945665.1644414005'}, {'domain': 'weine-vor-freude.de', 'expiry': 1645623604, 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A39%3A48.873Z'}, {'domain': '.weine-vor-freude.de', 'expiry': 1644415805, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.weine-vor-freude.de', 'expiry': 1644415805, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.weine-vor-freude.de', 'expiry': 1644500405, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.766441333.1644414005'}, {'domain': 'weine-vor-freude.de', 'expiry': 1644415804, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '665b1576-3ce0-4f85-ae1f-e38724afc6b1'}, {'domain': 'weine-vor-freude.de', 'expiry': 1645623604, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}]
+[After] Cookie-Name 1: _gcl_au
+[After] Cookie-Name 2: _hjFirstSeen
+[After] Cookie-Name 3: _hjSessionUser_2480086
+[After] Cookie-Name 4: _hjIncludedInPageviewSample
+[After] Cookie-Name 5: _tracking_consent
+[After] Cookie-Name 6: _shopify_m
+[After] Cookie-Name 7: cart
+[After] Cookie-Name 8: _hjIncludedInSessionSample
+[After] Cookie-Name 9: _shopify_s
+[After] Cookie-Name 10: _shopify_y
+[After] Cookie-Name 11: _s
+[After] Cookie-Name 12: _y
+[After] Cookie-Name 13: _hjSession_2480086
+[After] Cookie-Name 14: _shopify_sa_t
+[After] Cookie-Name 15: cart_sig
+[After] Cookie-Name 16: cart_ts
+[After] Cookie-Name 17: _fbp
+[After] Cookie-Name 18: _gat
+[After] Cookie-Name 19: secure_customer_sig
+[After] Cookie-Name 20: _gat_UA-50358972-1
+[After] Cookie-Name 21: optiMonkClientId
+[After] Cookie-Name 22: _bc_c_set
+[After] Cookie-Name 23: localization
+[After] Cookie-Name 24: shopify_pay_redirect
+[After] Cookie-Name 25: cbuid_meta
+[After] Cookie-Name 26: _shopify_evids
+[After] Cookie-Name 27: _y
+[After] Cookie-Name 28: _orig_referrer
+[After] Cookie-Name 29: _shopify_evids
+[After] Cookie-Name 30: _landing_page
+[After] Cookie-Name 31: _shopify_sa_t
+[After] Cookie-Name 32: sib_cuid
+[After] Cookie-Name 33: cart_ver
+[After] Cookie-Name 34: _shopify_y
+[After] Cookie-Name 35: _shopify_tw
+[After] Cookie-Name 36: _shopify_s
+[After] Cookie-Name 37: _ga
+[After] Cookie-Name 38: _shopify_d
+[After] Cookie-Name 39: _shopify_tm
+[After] Cookie-Name 40: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 41: _gid
+[After] Cookie-Name 42: _s
+[After] Cookie-Name 43: cart_currency
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 29
+[Difference] Cookie-Name: 1: _bc_c_set
+[Difference] Cookie-Name: 2: _y
+[Difference] Cookie-Name: 3: _hjSessionUser_2480086
+[Difference] Cookie-Name: 4: shopify_pay_redirect
+[Difference] Cookie-Name: 5: _hjAbsoluteSessionInProgress
+[Difference] Cookie-Name: 6: _hjIncludedInPageviewSample
+[Difference] Cookie-Name: 7: _shopify_s
+[Difference] Cookie-Name: 8: optiMonkClientId
+[Difference] Cookie-Name: 9: _gid
+[Difference] Cookie-Name: 10: sib_cuid
+[Difference] Cookie-Name: 11: _ga
+[Difference] Cookie-Name: 12: _gcl_au
+[Difference] Cookie-Name: 13: _hjIncludedInSessionSample
+[Difference] Cookie-Name: 14: _shopify_d
+[Difference] Cookie-Name: 15: cbuid_meta
+[Difference] Cookie-Name: 16: cart_ver
+[Difference] Cookie-Name: 17: localization
+[Difference] Cookie-Name: 18: _hjFirstSeen
+[Difference] Cookie-Name: 19: _shopify_sa_t
+[Difference] Cookie-Name: 20: cart_sig
+[Difference] Cookie-Name: 21: _gat_UA-50358972-1
+[Difference] Cookie-Name: 22: _s
+[Difference] Cookie-Name: 23: cart
+[Difference] Cookie-Name: 24: _shopify_y
+[Difference] Cookie-Name: 25: _gat
+[Difference] Cookie-Name: 26: _fbp
+[Difference] Cookie-Name: 27: _hjSession_2480086
+[Difference] Cookie-Name: 28: _shopify_evids
+[Difference] Cookie-Name: 29: cart_ts
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

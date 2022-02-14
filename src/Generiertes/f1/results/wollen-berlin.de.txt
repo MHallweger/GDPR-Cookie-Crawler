@@ -1,0 +1,95 @@
+Website 354: http://www.wollen-berlin.de/ | Created: 08.02.2022 23:27:05 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 29
+[Before] Website-Cookies: [{'domain': '.wollen-berlin.de', 'expiry': 1675895216, 'httpOnly': False, 'name': 'swym-cu_ct', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'undefined'}, {'domain': '.wollen-berlin.de', 'expiry': 1675895216, 'httpOnly': False, 'name': 'swym-email', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'null'}, {'domain': '.wollen-berlin.de', 'expiry': 1644361016, 'httpOnly': False, 'name': 'swym-o_s', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'true'}, {'domain': '.wollen-berlin.de', 'expiry': 1675895216, 'httpOnly': False, 'name': 'swym-swymRegid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"BpCUt6PCZ3CsM46LXLIN83tgojcF15n6qgEcZPN0Cb1MQlA1LpUL9TRIa3Mh_rKzXMrOZYigfIAK4udF7NkFLakpKn8q1kRm221nrNZnTlpsAMpqPvaOzwNQrTIWnQJffjJiPSOybtaJxb4DzlqJno8IhhWFgrThM3b9CTgwekc"'}, {'domain': '.wollen-berlin.de', 'expiry': 1675895214, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%7D'}, {'domain': '.wollen-berlin.de', 'expiry': 1675895215, 'httpOnly': False, 'name': 'swym-pid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"c73Lqlw/5ev3lNeS+WYeasX6j/k4DGfSAbg3lBfPSh8="'}, {'domain': '.wollen-berlin.de', 'expiry': 1644361016, 'httpOnly': False, 'name': 'swym-session-id', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"v6mz7ettnpyhmcg4l00qjwda3hgkxxb9e0mdy6flw1l978n6zls7icy0ai4jhopu"'}, {'domain': 'wollen-berlin.de', 'expiry': 1645568814, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644359215'}, {'domain': 'wollen-berlin.de', 'expiry': 1645568814, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5ca3c42948efae613876b6e2fbb63b99'}, {'domain': '.wollen-berlin.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bc7f3696-e70c-4fad-aedf-9d3f8ec0aacd'}, {'domain': '.wollen-berlin.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'wollen-berlin.de', 'expiry': 1645568814, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': '.wollen-berlin.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T22%3A26%3A55.321Z'}, {'domain': '.wollen-berlin.de', 'expiry': 1645568814, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.wollen-berlin.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T22%3A26%3A55.364Z'}, {'domain': '.wollen-berlin.de', 'expiry': 1675895214, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': 'wollen-berlin.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.wollen-berlin.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'wollen-berlin.de', 'expiry': 1645568814, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'wollen-berlin.de', 'expiry': 1645568814, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.wollen-berlin.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.wollen-berlin.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bc7f3696-e70c-4fad-aedf-9d3f8ec0aacd'}, {'domain': '.wollen-berlin.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.wollen-berlin.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6925a1bb-9be0-492b-8cd0-c8b45d59399a'}, {'domain': '.wollen-berlin.de', 'expiry': 1675895215, 'httpOnly': False, 'name': '_privy_036A6F6516847ECB3A779B51', 'path': '/', 'secure': False, 'value': '%7B%22uuid%22%3A%2269812e41-30a8-4cc2-a7a9-33d74bde2a2d%22%7D'}, {'domain': '.wollen-berlin.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6925a1bb-9be0-492b-8cd0-c8b45d59399a'}, {'domain': 'wollen-berlin.de', 'expiry': 1645568814, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '120eaf55d3a728d54407edf045c823c2'}, {'domain': '.wollen-berlin.de', 'expiry': 1644361015, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'wollen-berlin.de', 'expiry': 1675895214, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: swym-cu_ct
+[Before] Cookie-Name 2: swym-email
+[Before] Cookie-Name 3: swym-o_s
+[Before] Cookie-Name 4: swym-swymRegid
+[Before] Cookie-Name 5: _tracking_consent
+[Before] Cookie-Name 6: swym-pid
+[Before] Cookie-Name 7: swym-session-id
+[Before] Cookie-Name 8: cart_ts
+[Before] Cookie-Name 9: cart_sig
+[Before] Cookie-Name 10: _shopify_s
+[Before] Cookie-Name 11: _shopify_sa_p
+[Before] Cookie-Name 12: cart_ver
+[Before] Cookie-Name 13: _shopify_d
+[Before] Cookie-Name 14: _shopify_tw
+[Before] Cookie-Name 15: _shopify_sa_t
+[Before] Cookie-Name 16: _shopify_m
+[Before] Cookie-Name 17: _shopify_evids
+[Before] Cookie-Name 18: _shopify_evids
+[Before] Cookie-Name 19: cart_currency
+[Before] Cookie-Name 20: localization
+[Before] Cookie-Name 21: _landing_page
+[Before] Cookie-Name 22: _s
+[Before] Cookie-Name 23: _orig_referrer
+[Before] Cookie-Name 24: _y
+[Before] Cookie-Name 25: _privy_036A6F6516847ECB3A779B51
+[Before] Cookie-Name 26: _shopify_y
+[Before] Cookie-Name 27: cart
+[Before] Cookie-Name 28: _shopify_tm
+[Before] Cookie-Name 29: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 34
+[After] Website-Cookies: [{'domain': '.wollen-berlin.de', 'expiry': 1644359291, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.wollen-berlin.de', 'expiry': 1644359291, 'httpOnly': False, 'name': '_gat_webinterpret', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.wollen-berlin.de', 'expiry': 1707431231, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1640947611.1644359231'}, {'domain': '.wollen-berlin.de', 'expiry': 1675895231, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': '.wollen-berlin.de', 'expiry': 1675895216, 'httpOnly': False, 'name': 'swym-cu_ct', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'undefined'}, {'domain': '.wollen-berlin.de', 'expiry': 1675895216, 'httpOnly': False, 'name': 'swym-email', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'null'}, {'domain': '.wollen-berlin.de', 'expiry': 1644361016, 'httpOnly': False, 'name': 'swym-o_s', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'true'}, {'domain': '.wollen-berlin.de', 'expiry': 1644361031, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bc7f3696-e70c-4fad-aedf-9d3f8ec0aacd'}, {'domain': '.wollen-berlin.de', 'expiry': 1644361031, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'wollen-berlin.de', 'expiry': 1645568831, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5ca3c42948efae613876b6e2fbb63b99'}, {'domain': '.wollen-berlin.de', 'expiry': 1652135231, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644359231433.1973547569'}, {'domain': '.wollen-berlin.de', 'expiry': 1675895231, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%221%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': '.wollen-berlin.de', 'expiry': 1675895216, 'httpOnly': False, 'name': 'swym-swymRegid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"BpCUt6PCZ3CsM46LXLIN83tgojcF15n6qgEcZPN0Cb1MQlA1LpUL9TRIa3Mh_rKzXMrOZYigfIAK4udF7NkFLakpKn8q1kRm221nrNZnTlpsAMpqPvaOzwNQrTIWnQJffjJiPSOybtaJxb4DzlqJno8IhhWFgrThM3b9CTgwekc"'}, {'domain': '.wollen-berlin.de', 'expiry': 1675895215, 'httpOnly': False, 'name': 'swym-pid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"c73Lqlw/5ev3lNeS+WYeasX6j/k4DGfSAbg3lBfPSh8="'}, {'domain': '.wollen-berlin.de', 'expiry': 1644361031, 'httpOnly': False, 'name': 'swym-session-id', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"v6mz7ettnpyhmcg4l00qjwda3hgkxxb9e0mdy6flw1l978n6zls7icy0ai4jhopu"'}, {'domain': '.wollen-berlin.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T22%3A26%3A55.321Z'}, {'domain': 'wollen-berlin.de', 'expiry': 1645568814, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': 'wollen-berlin.de', 'expiry': 1645568814, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644359215'}, {'domain': '.wollen-berlin.de', 'expiry': 1645568814, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.wollen-berlin.de', 'expiry': 1644361031, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T22%3A26%3A55.364Z'}, {'domain': '.wollen-berlin.de', 'expiry': 1644445631, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.30242348.1644359231'}, {'domain': 'wollen-berlin.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.wollen-berlin.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.wollen-berlin.de', 'expiry': 1644361031, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bc7f3696-e70c-4fad-aedf-9d3f8ec0aacd'}, {'domain': '.wollen-berlin.de', 'expiry': 1645568831, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.wollen-berlin.de', 'expiry': 1675895231, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6925a1bb-9be0-492b-8cd0-c8b45d59399a'}, {'domain': '.wollen-berlin.de', 'expiry': 1675895215, 'httpOnly': False, 'name': '_privy_036A6F6516847ECB3A779B51', 'path': '/', 'secure': False, 'value': '%7B%22uuid%22%3A%2269812e41-30a8-4cc2-a7a9-33d74bde2a2d%22%7D'}, {'domain': '.wollen-berlin.de', 'expiry': 1675895231, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6925a1bb-9be0-492b-8cd0-c8b45d59399a'}, {'domain': 'wollen-berlin.de', 'expiry': 1645568831, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'wollen-berlin.de', 'expiry': 1645568831, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.wollen-berlin.de', 'expiry': 1645568831, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'wollen-berlin.de', 'expiry': 1645568814, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '120eaf55d3a728d54407edf045c823c2'}, {'domain': '.wollen-berlin.de', 'expiry': 1644361031, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'wollen-berlin.de', 'expiry': 1675895231, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _gat
+[After] Cookie-Name 2: _gat_webinterpret
+[After] Cookie-Name 3: _ga
+[After] Cookie-Name 4: _shopify_m
+[After] Cookie-Name 5: swym-cu_ct
+[After] Cookie-Name 6: swym-email
+[After] Cookie-Name 7: swym-o_s
+[After] Cookie-Name 8: _shopify_s
+[After] Cookie-Name 9: _shopify_sa_p
+[After] Cookie-Name 10: cart_sig
+[After] Cookie-Name 11: _fbp
+[After] Cookie-Name 12: _tracking_consent
+[After] Cookie-Name 13: swym-swymRegid
+[After] Cookie-Name 14: swym-pid
+[After] Cookie-Name 15: swym-session-id
+[After] Cookie-Name 16: _shopify_d
+[After] Cookie-Name 17: cart_ver
+[After] Cookie-Name 18: cart_ts
+[After] Cookie-Name 19: _shopify_tw
+[After] Cookie-Name 20: _shopify_sa_t
+[After] Cookie-Name 21: _gid
+[After] Cookie-Name 22: _shopify_evids
+[After] Cookie-Name 23: _shopify_evids
+[After] Cookie-Name 24: _s
+[After] Cookie-Name 25: _orig_referrer
+[After] Cookie-Name 26: _y
+[After] Cookie-Name 27: _privy_036A6F6516847ECB3A779B51
+[After] Cookie-Name 28: _shopify_y
+[After] Cookie-Name 29: cart_currency
+[After] Cookie-Name 30: localization
+[After] Cookie-Name 31: _landing_page
+[After] Cookie-Name 32: cart
+[After] Cookie-Name 33: _shopify_tm
+[After] Cookie-Name 34: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 5
+[Difference] Cookie-Name: 1: _gid
+[Difference] Cookie-Name: 2: _fbp
+[Difference] Cookie-Name: 3: _gat_webinterpret
+[Difference] Cookie-Name: 4: _ga
+[Difference] Cookie-Name: 5: _gat
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

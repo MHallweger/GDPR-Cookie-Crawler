@@ -1,0 +1,91 @@
+Website 220: http://www.polini-kids.de/ | Created: 09.02.2022 18:13:05 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 23
+[Before] Website-Cookies: [{'domain': 'polini-kids.de', 'httpOnly': False, 'name': 'usb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': 'polini-kids.de', 'expiry': 1770570777, 'httpOnly': False, 'name': '2c.dc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%225cc879eb5dd4b270f5382018%22%3A%7B%22state%22%3A%22shown%22%2C%22campaignId%22%3A%22Hei%C3%9Fen%20Sie%20neue%20Besucher%20willkommen%22%7D%7D'}, {'domain': 'polini-kids.de', 'expiry': 1770570776, 'httpOnly': False, 'name': 'nostojs', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'autoload'}, {'domain': 'polini-kids.de', 'expiry': 1707498776, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MjY3NzYsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vcG9saW5pLWtpZHMuZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NDI2Nzc2LCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL3BvbGluaS1raWRzLmRlLyJ9fQ=='}, {'domain': '.polini-kids.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'polini-kids.de', 'expiry': 1770570776, 'httpOnly': False, 'name': '2c.cId', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6203f61847287720dff97516'}, {'domain': 'polini-kids.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.polini-kids.de', 'expiry': 1645636374, 'httpOnly': False, 'name': '__cmpcccu15503', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'aBPUJ5zlAAAAwAXABgAA'}, {'domain': 'polini-kids.de', 'expiry': 1675962786, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.polini-kids.de', 'expiry': 1675962773, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': '.polini-kids.de', 'expiry': 1644428586, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.polini-kids.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e8aa637b-4b9c-47d6-8589-d5da71177452'}, {'domain': '.polini-kids.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e1fd6237-42ba-4f6a-8830-4ccc1078dbe4'}, {'domain': '.polini-kids.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e8aa637b-4b9c-47d6-8589-d5da71177452'}, {'domain': '.polini-kids.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A12%3A55.820Z'}, {'domain': '.polini-kids.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A12%3A55.786Z'}, {'domain': '.polini-kids.de', 'expiry': 1652202774, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.382720610.1644426775'}, {'domain': '.polini-kids.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e1fd6237-42ba-4f6a-8830-4ccc1078dbe4'}, {'domain': '.polini-kids.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.polini-kids.de', 'expiry': 1645636373, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.polini-kids.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.polini-kids.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.polini-kids.de', 'expiry': 1675962773, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}]
+[Before] Cookie-Name 1: usb_previous_pathname
+[Before] Cookie-Name 2: 2c.dc
+[Before] Cookie-Name 3: nostojs
+[Before] Cookie-Name 4: __kla_id
+[Before] Cookie-Name 5: _shopify_sa_p
+[Before] Cookie-Name 6: 2c.cId
+[Before] Cookie-Name 7: _shopify_evids
+[Before] Cookie-Name 8: __cmpcccu15503
+[Before] Cookie-Name 9: secure_customer_sig
+[Before] Cookie-Name 10: _tracking_consent
+[Before] Cookie-Name 11: _shopify_tm
+[Before] Cookie-Name 12: _shopify_y
+[Before] Cookie-Name 13: _s
+[Before] Cookie-Name 14: _y
+[Before] Cookie-Name 15: _shopify_sa_t
+[Before] Cookie-Name 16: _shopify_d
+[Before] Cookie-Name 17: _gcl_au
+[Before] Cookie-Name 18: _shopify_s
+[Before] Cookie-Name 19: _landing_page
+[Before] Cookie-Name 20: _shopify_tw
+[Before] Cookie-Name 21: _orig_referrer
+[Before] Cookie-Name 22: _shopify_evids
+[Before] Cookie-Name 23: _shopify_m
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 31
+[After] Website-Cookies: [{'domain': 'polini-kids.de', 'expiry': 1644426911, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.polini-kids.de', 'expiry': 1644428591, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.polini-kids.de', 'expiry': 1644428591, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.polini-kids.de', 'expiry': 1690560791, 'httpOnly': False, 'name': 'ku1-vid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': '8005a5c9-63c4-c215-79cd-e701bfc13f4f'}, {'domain': '.polini-kids.de', 'httpOnly': False, 'name': 'ku1-sid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': 'Pix0Q6ToIuzqbrIaXBVAJ'}, {'domain': '.polini-kids.de', 'expiry': 1675962790, 'httpOnly': False, 'name': '__cmpcccu15503', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'aBPUJ52EgBQAzADSAGwAbgNgABAAOAAuAC4AMAAaAA8ACgAFwAQQAvACHANCA4kB5YDzwIMgQcAiSBYECzAFsgMvggQBAqCJgE3YJwQAZ2iHaYA'}, {'domain': 'polini-kids.de', 'httpOnly': False, 'name': 'usb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': 'polini-kids.de', 'expiry': 1770570777, 'httpOnly': False, 'name': '2c.dc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%225cc879eb5dd4b270f5382018%22%3A%7B%22state%22%3A%22shown%22%2C%22campaignId%22%3A%22Hei%C3%9Fen%20Sie%20neue%20Besucher%20willkommen%22%7D%7D'}, {'domain': '.polini-kids.de', 'expiry': 1644428586, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'polini-kids.de', 'expiry': 1770570776, 'httpOnly': False, 'name': '2c.cId', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6203f61847287720dff97516'}, {'domain': 'polini-kids.de', 'expiry': 1770570776, 'httpOnly': False, 'name': 'nostojs', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'autoload'}, {'domain': 'polini-kids.de', 'expiry': 1707498776, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MjY3NzYsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vcG9saW5pLWtpZHMuZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NDI2Nzc2LCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL3BvbGluaS1raWRzLmRlLyJ9fQ=='}, {'domain': '.polini-kids.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.polini-kids.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'polini-kids.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.polini-kids.de', 'expiry': 1675962790, 'httpOnly': False, 'name': '__cmpconsent15503', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'BPUJ52EPUJ52EAfHXBDEDXAAAAAAAA'}, {'domain': 'polini-kids.de', 'expiry': 1675962786, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.polini-kids.de', 'expiry': 1675962791, 'httpOnly': False, 'name': '_hjSessionUser_641121', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjI5YmI4ZGQ4LWFhODgtNTcxMC1hNjU0LWY3YjQ5NDQ0ZmJkOSIsImNyZWF0ZWQiOjE2NDQ0MjY3OTEyNzcsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.polini-kids.de', 'expiry': 1675962773, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': '.polini-kids.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e8aa637b-4b9c-47d6-8589-d5da71177452'}, {'domain': '.polini-kids.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.polini-kids.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e1fd6237-42ba-4f6a-8830-4ccc1078dbe4'}, {'domain': '.polini-kids.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e8aa637b-4b9c-47d6-8589-d5da71177452'}, {'domain': '.polini-kids.de', 'expiry': 1644428591, 'httpOnly': False, 'name': '_hjSession_641121', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjlkYTZhOTU1LTE2YTctNGI0ZS1iNDg3LTBjZmYxM2UwOGVmMSIsImNyZWF0ZWQiOjE2NDQ0MjY3OTEyODcsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': '.polini-kids.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A12%3A55.820Z'}, {'domain': '.polini-kids.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A12%3A55.786Z'}, {'domain': '.polini-kids.de', 'expiry': 1652202774, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.382720610.1644426775'}, {'domain': '.polini-kids.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e1fd6237-42ba-4f6a-8830-4ccc1078dbe4'}, {'domain': '.polini-kids.de', 'expiry': 1645636373, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.polini-kids.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.polini-kids.de', 'expiry': 1675962773, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}]
+[After] Cookie-Name 1: _hjIncludedInPageviewSample
+[After] Cookie-Name 2: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 3: _hjFirstSeen
+[After] Cookie-Name 4: ku1-vid
+[After] Cookie-Name 5: ku1-sid
+[After] Cookie-Name 6: __cmpcccu15503
+[After] Cookie-Name 7: usb_previous_pathname
+[After] Cookie-Name 8: 2c.dc
+[After] Cookie-Name 9: _shopify_tm
+[After] Cookie-Name 10: 2c.cId
+[After] Cookie-Name 11: nostojs
+[After] Cookie-Name 12: __kla_id
+[After] Cookie-Name 13: _shopify_evids
+[After] Cookie-Name 14: _shopify_sa_p
+[After] Cookie-Name 15: _shopify_evids
+[After] Cookie-Name 16: __cmpconsent15503
+[After] Cookie-Name 17: secure_customer_sig
+[After] Cookie-Name 18: _hjSessionUser_641121
+[After] Cookie-Name 19: _tracking_consent
+[After] Cookie-Name 20: _shopify_y
+[After] Cookie-Name 21: _landing_page
+[After] Cookie-Name 22: _s
+[After] Cookie-Name 23: _y
+[After] Cookie-Name 24: _hjSession_641121
+[After] Cookie-Name 25: _shopify_sa_t
+[After] Cookie-Name 26: _shopify_d
+[After] Cookie-Name 27: _gcl_au
+[After] Cookie-Name 28: _shopify_s
+[After] Cookie-Name 29: _shopify_tw
+[After] Cookie-Name 30: _orig_referrer
+[After] Cookie-Name 31: _shopify_m
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 8
+[Difference] Cookie-Name: 1: __cmpconsent15503
+[Difference] Cookie-Name: 2: ku1-vid
+[Difference] Cookie-Name: 3: _hjSessionUser_641121
+[Difference] Cookie-Name: 4: _hjFirstSeen
+[Difference] Cookie-Name: 5: _hjIncludedInPageviewSample
+[Difference] Cookie-Name: 6: ku1-sid
+[Difference] Cookie-Name: 7: _hjSession_641121
+[Difference] Cookie-Name: 8: _hjAbsoluteSessionInProgress
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

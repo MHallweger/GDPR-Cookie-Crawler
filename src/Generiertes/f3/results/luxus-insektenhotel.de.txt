@@ -1,0 +1,63 @@
+Website 10: http://www.luxus-insektenhotel.de/ | Created: 09.02.2022 13:45:53 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 17
+[Before] Website-Cookies: [{'domain': '.luxus-insektenhotel.de', 'expiry': 1644412540, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.luxus-insektenhotel.de', 'expiry': 1675946745, 'httpOnly': False, 'name': '__zlcmid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '18Skh4nGTGJ2VEx'}, {'domain': '.luxus-insektenhotel.de', 'expiry': 1644412540, 'httpOnly': False, 'name': '__utmb', 'path': '/', 'secure': False, 'value': '129430673.1.10.1644410740'}, {'domain': '.luxus-insektenhotel.de', 'expiry': 1644411340, 'httpOnly': False, 'name': '__utmt', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.luxus-insektenhotel.de', 'expiry': 1644412540, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '25bf9f85-5cc9-49ef-85a0-971decd5d922'}, {'domain': '.luxus-insektenhotel.de', 'expiry': 1644412540, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '25bf9f85-5cc9-49ef-85a0-971decd5d922'}, {'domain': 'www.luxus-insektenhotel.de', 'expiry': 1644412544, 'httpOnly': False, 'name': '__atuvs', 'path': '/', 'secure': False, 'value': '6203b774454d98ac000'}, {'domain': 'www.luxus-insektenhotel.de', 'expiry': 1678365944, 'httpOnly': False, 'name': '__atuvc', 'path': '/', 'secure': False, 'value': '1%7C6'}, {'domain': '.luxus-insektenhotel.de', 'expiry': 1660178740, 'httpOnly': False, 'name': '__utmz', 'path': '/', 'secure': False, 'value': '129430673.1644410740.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)'}, {'domain': '.luxus-insektenhotel.de', 'expiry': 1707482740, 'httpOnly': False, 'name': '__utma', 'path': '/', 'secure': False, 'value': '129430673.1278638880.1644410740.1644410740.1644410740.1'}, {'domain': '.luxus-insektenhotel.de', 'expiry': 1675946740, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '85fe4208-6d21-4f6f-bb97-232503f12e94'}, {'domain': '.luxus-insektenhotel.de', 'expiry': 1645620340, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.luxus-insektenhotel.de', 'httpOnly': False, 'name': '__utmc', 'path': '/', 'secure': False, 'value': '129430673'}, {'domain': 'www.luxus-insektenhotel.de', 'expiry': 1675946740, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.luxus-insektenhotel.de', 'expiry': 1644412540, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T12%3A45%3A40.574Z'}, {'domain': '.luxus-insektenhotel.de', 'expiry': 1675946740, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '85fe4208-6d21-4f6f-bb97-232503f12e94'}, {'domain': '.luxus-insektenhotel.de', 'expiry': 1645620340, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[Before] Cookie-Name 1: _shopify_sa_p
+[Before] Cookie-Name 2: __zlcmid
+[Before] Cookie-Name 3: __utmb
+[Before] Cookie-Name 4: __utmt
+[Before] Cookie-Name 5: _s
+[Before] Cookie-Name 6: _shopify_s
+[Before] Cookie-Name 7: __atuvs
+[Before] Cookie-Name 8: __atuvc
+[Before] Cookie-Name 9: __utmz
+[Before] Cookie-Name 10: __utma
+[Before] Cookie-Name 11: _shopify_y
+[Before] Cookie-Name 12: _landing_page
+[Before] Cookie-Name 13: __utmc
+[Before] Cookie-Name 14: secure_customer_sig
+[Before] Cookie-Name 15: _shopify_sa_t
+[Before] Cookie-Name 16: _y
+[Before] Cookie-Name 17: _orig_referrer
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 17
+[After] Website-Cookies: [{'domain': '.luxus-insektenhotel.de', 'expiry': 1644412540, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.luxus-insektenhotel.de', 'expiry': 1675946745, 'httpOnly': False, 'name': '__zlcmid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '18Skh4nGTGJ2VEx'}, {'domain': '.luxus-insektenhotel.de', 'expiry': 1644412540, 'httpOnly': False, 'name': '__utmb', 'path': '/', 'secure': False, 'value': '129430673.1.10.1644410740'}, {'domain': '.luxus-insektenhotel.de', 'expiry': 1644411340, 'httpOnly': False, 'name': '__utmt', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.luxus-insektenhotel.de', 'expiry': 1644412540, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '25bf9f85-5cc9-49ef-85a0-971decd5d922'}, {'domain': '.luxus-insektenhotel.de', 'expiry': 1644412540, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '25bf9f85-5cc9-49ef-85a0-971decd5d922'}, {'domain': 'www.luxus-insektenhotel.de', 'expiry': 1644412544, 'httpOnly': False, 'name': '__atuvs', 'path': '/', 'secure': False, 'value': '6203b774454d98ac000'}, {'domain': 'www.luxus-insektenhotel.de', 'expiry': 1678365944, 'httpOnly': False, 'name': '__atuvc', 'path': '/', 'secure': False, 'value': '1%7C6'}, {'domain': '.luxus-insektenhotel.de', 'expiry': 1660178740, 'httpOnly': False, 'name': '__utmz', 'path': '/', 'secure': False, 'value': '129430673.1644410740.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)'}, {'domain': '.luxus-insektenhotel.de', 'expiry': 1707482740, 'httpOnly': False, 'name': '__utma', 'path': '/', 'secure': False, 'value': '129430673.1278638880.1644410740.1644410740.1644410740.1'}, {'domain': '.luxus-insektenhotel.de', 'expiry': 1675946740, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '85fe4208-6d21-4f6f-bb97-232503f12e94'}, {'domain': '.luxus-insektenhotel.de', 'expiry': 1645620340, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.luxus-insektenhotel.de', 'httpOnly': False, 'name': '__utmc', 'path': '/', 'secure': False, 'value': '129430673'}, {'domain': 'www.luxus-insektenhotel.de', 'expiry': 1675946740, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.luxus-insektenhotel.de', 'expiry': 1644412540, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T12%3A45%3A40.574Z'}, {'domain': '.luxus-insektenhotel.de', 'expiry': 1675946740, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '85fe4208-6d21-4f6f-bb97-232503f12e94'}, {'domain': '.luxus-insektenhotel.de', 'expiry': 1645620340, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: _shopify_sa_p
+[After] Cookie-Name 2: __zlcmid
+[After] Cookie-Name 3: __utmb
+[After] Cookie-Name 4: __utmt
+[After] Cookie-Name 5: _s
+[After] Cookie-Name 6: _shopify_s
+[After] Cookie-Name 7: __atuvs
+[After] Cookie-Name 8: __atuvc
+[After] Cookie-Name 9: __utmz
+[After] Cookie-Name 10: __utma
+[After] Cookie-Name 11: _shopify_y
+[After] Cookie-Name 12: _landing_page
+[After] Cookie-Name 13: __utmc
+[After] Cookie-Name 14: secure_customer_sig
+[After] Cookie-Name 15: _shopify_sa_t
+[After] Cookie-Name 16: _y
+[After] Cookie-Name 17: _orig_referrer
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is NOT GDPR compliant!

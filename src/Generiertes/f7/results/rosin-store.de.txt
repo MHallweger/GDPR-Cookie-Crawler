@@ -1,0 +1,62 @@
+Website 229: http://www.rosin-store.de/ | Created: 10.02.2022 18:28:21 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 16
+[Before] Website-Cookies: [{'domain': 'rosin-store.de', 'expiry': 1645723692, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644514092'}, {'domain': 'rosin-store.de', 'expiry': 1645723692, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a2e240a6ec2472c8b4d29063d5b24bb3'}, {'domain': '.rosin-store.de', 'expiry': 1645723691, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.rosin-store.de', 'expiry': 1644515891, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A28%3A11.839Z'}, {'domain': '.rosin-store.de', 'expiry': 1652290091, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.652877275.1644514092'}, {'domain': '.rosin-store.de', 'expiry': 1644515892, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5340dfca-1aa8-425d-b3b9-f5940fb084bc'}, {'domain': '.rosin-store.de', 'expiry': 1644515892, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5340dfca-1aa8-425d-b3b9-f5940fb084bc'}, {'domain': '.rosin-store.de', 'expiry': 1644515891, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.rosin-store.de', 'expiry': 1676050092, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3173f541-b512-4eec-8b8e-6f92b25cf83a'}, {'domain': 'rosin-store.de', 'expiry': 1645723692, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': '.rosin-store.de', 'expiry': 1645723691, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'rosin-store.de', 'expiry': 1645723692, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'rosin-store.de', 'expiry': 1645723692, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '32be00228f03bbf01fd46600e4f10191'}, {'domain': 'rosin-store.de', 'expiry': 1645723692, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.rosin-store.de', 'expiry': 1676050092, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3173f541-b512-4eec-8b8e-6f92b25cf83a'}, {'domain': 'rosin-store.de', 'expiry': 1676050092, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: cart_ts
+[Before] Cookie-Name 2: cart
+[Before] Cookie-Name 3: _landing_page
+[Before] Cookie-Name 4: _shopify_sa_t
+[Before] Cookie-Name 5: _gcl_au
+[Before] Cookie-Name 6: _shopify_s
+[Before] Cookie-Name 7: _s
+[Before] Cookie-Name 8: _shopify_sa_p
+[Before] Cookie-Name 9: _shopify_y
+[Before] Cookie-Name 10: cart_ver
+[Before] Cookie-Name 11: _orig_referrer
+[Before] Cookie-Name 12: cart_currency
+[Before] Cookie-Name 13: cart_sig
+[Before] Cookie-Name 14: localization
+[Before] Cookie-Name 15: _y
+[Before] Cookie-Name 16: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 16
+[After] Website-Cookies: [{'domain': 'rosin-store.de', 'expiry': 1645723692, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644514092'}, {'domain': 'rosin-store.de', 'expiry': 1645723692, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a2e240a6ec2472c8b4d29063d5b24bb3'}, {'domain': '.rosin-store.de', 'expiry': 1645723691, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.rosin-store.de', 'expiry': 1644515891, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A28%3A11.839Z'}, {'domain': '.rosin-store.de', 'expiry': 1652290091, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.652877275.1644514092'}, {'domain': '.rosin-store.de', 'expiry': 1644515892, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5340dfca-1aa8-425d-b3b9-f5940fb084bc'}, {'domain': '.rosin-store.de', 'expiry': 1644515892, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5340dfca-1aa8-425d-b3b9-f5940fb084bc'}, {'domain': '.rosin-store.de', 'expiry': 1644515891, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.rosin-store.de', 'expiry': 1676050092, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3173f541-b512-4eec-8b8e-6f92b25cf83a'}, {'domain': 'rosin-store.de', 'expiry': 1645723692, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': '.rosin-store.de', 'expiry': 1645723691, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'rosin-store.de', 'expiry': 1645723692, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'rosin-store.de', 'expiry': 1645723692, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '32be00228f03bbf01fd46600e4f10191'}, {'domain': 'rosin-store.de', 'expiry': 1645723692, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.rosin-store.de', 'expiry': 1676050092, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3173f541-b512-4eec-8b8e-6f92b25cf83a'}, {'domain': 'rosin-store.de', 'expiry': 1676050092, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: cart_ts
+[After] Cookie-Name 2: cart
+[After] Cookie-Name 3: _landing_page
+[After] Cookie-Name 4: _shopify_sa_t
+[After] Cookie-Name 5: _gcl_au
+[After] Cookie-Name 6: _shopify_s
+[After] Cookie-Name 7: _s
+[After] Cookie-Name 8: _shopify_sa_p
+[After] Cookie-Name 9: _shopify_y
+[After] Cookie-Name 10: cart_ver
+[After] Cookie-Name 11: _orig_referrer
+[After] Cookie-Name 12: cart_currency
+[After] Cookie-Name 13: cart_sig
+[After] Cookie-Name 14: localization
+[After] Cookie-Name 15: _y
+[After] Cookie-Name 16: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

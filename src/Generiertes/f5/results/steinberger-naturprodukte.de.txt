@@ -1,0 +1,76 @@
+Website 11: http://www.steinberger-naturprodukte.de/ | Created: 09.02.2022 19:35:22 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 13
+[Before] Website-Cookies: [{'domain': 'steinberger-superfoods.de', 'expiry': 1644435312, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.steinberger-superfoods.de', 'expiry': 1644433512, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T18%3A35%3A12.664Z'}, {'domain': '.steinberger-superfoods.de', 'expiry': 1644433512, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.steinberger-superfoods.de', 'expiry': 1675967714, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0af198d6-b584-45f1-8df8-6123d4f5b30a'}, {'domain': 'steinberger-superfoods.de', 'expiry': 1707503713, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MzE3MTMsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vc3RlaW5iZXJnZXItc3VwZXJmb29kcy5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQ0MzE3MTMsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vc3RlaW5iZXJnZXItc3VwZXJmb29kcy5kZS8ifX0='}, {'domain': '.steinberger-superfoods.de', 'expiry': 1644433514, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3e3b95f9-8aca-444b-a416-27255210a737'}, {'domain': 'steinberger-superfoods.de', 'expiry': 1645641314, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.steinberger-superfoods.de', 'expiry': 1675967714, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0af198d6-b584-45f1-8df8-6123d4f5b30a'}, {'domain': '.steinberger-superfoods.de', 'expiry': 1645641311, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.steinberger-superfoods.de', 'expiry': 1645641311, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'steinberger-superfoods.de', 'expiry': 1645641314, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.steinberger-superfoods.de', 'expiry': 1644433514, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3e3b95f9-8aca-444b-a416-27255210a737'}, {'domain': 'steinberger-superfoods.de', 'expiry': 1675967714, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: shopify_pay_redirect
+[Before] Cookie-Name 2: _shopify_sa_t
+[Before] Cookie-Name 3: _shopify_sa_p
+[Before] Cookie-Name 4: _shopify_y
+[Before] Cookie-Name 5: __kla_id
+[Before] Cookie-Name 6: _s
+[Before] Cookie-Name 7: localization
+[Before] Cookie-Name 8: _y
+[Before] Cookie-Name 9: _orig_referrer
+[Before] Cookie-Name 10: _landing_page
+[Before] Cookie-Name 11: cart_currency
+[Before] Cookie-Name 12: _shopify_s
+[Before] Cookie-Name 13: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 24
+[After] Website-Cookies: [{'domain': '.steinberger-superfoods.de', 'expiry': 1644433529, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.steinberger-superfoods.de', 'expiry': 1644433514, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3e3b95f9-8aca-444b-a416-27255210a737'}, {'domain': '.steinberger-superfoods.de', 'expiry': 1644433529, 'httpOnly': False, 'name': '_hjSession_1983349', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjVjMTIxNzVkLTk3NzQtNGJjZi1hYzQ5LWQ2Nzk1YTg0OGI2MSIsImNyZWF0ZWQiOjE2NDQ0MzE3MjkxNzMsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': '.steinberger-superfoods.de', 'expiry': 1644433514, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3e3b95f9-8aca-444b-a416-27255210a737'}, {'domain': 'steinberger-superfoods.de', 'expiry': 1644431849, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.steinberger-superfoods.de', 'expiry': 1675967728, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU1XVmpNamN3WXpBdE1HRm1ZUzAwTkdVMUxXRTNaVGd0T1dKak9UaGpaamswT0RaaA'}, {'domain': '.steinberger-superfoods.de', 'expiry': 1652207729, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644431728935.1422416317'}, {'domain': '.steinberger-superfoods.de', 'expiry': 1644518128, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.2003731658.1644431729'}, {'domain': '.steinberger-superfoods.de', 'expiry': 1675967729, 'httpOnly': False, 'name': '_hjSessionUser_1983349', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImZmOTY5MjZlLWRkNmMtNTg4Mi05NWIwLTY5MzBjNzgwMjRiNCIsImNyZWF0ZWQiOjE2NDQ0MzE3MjkxNTIsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.steinberger-superfoods.de', 'expiry': 1652207728, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1417726462.1644431729'}, {'domain': '.steinberger-superfoods.de', 'expiry': 1644433529, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'steinberger-superfoods.de', 'expiry': 1644435312, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.steinberger-superfoods.de', 'expiry': 1644433512, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T18%3A35%3A12.664Z'}, {'domain': '.steinberger-superfoods.de', 'expiry': 1644433512, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.steinberger-superfoods.de', 'expiry': 1644431788, 'httpOnly': False, 'name': '_gat_UA-161713493-2', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.steinberger-superfoods.de', 'expiry': 1707503728, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.142743345.1644431729'}, {'domain': '.steinberger-superfoods.de', 'expiry': 1645641311, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.steinberger-superfoods.de', 'expiry': 1675967714, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0af198d6-b584-45f1-8df8-6123d4f5b30a'}, {'domain': 'steinberger-superfoods.de', 'expiry': 1707503713, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MzE3MTMsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vc3RlaW5iZXJnZXItc3VwZXJmb29kcy5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQ0MzE3MTMsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vc3RlaW5iZXJnZXItc3VwZXJmb29kcy5kZS8ifX0='}, {'domain': 'steinberger-superfoods.de', 'expiry': 1645641314, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.steinberger-superfoods.de', 'expiry': 1675967714, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0af198d6-b584-45f1-8df8-6123d4f5b30a'}, {'domain': '.steinberger-superfoods.de', 'expiry': 1645641311, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'steinberger-superfoods.de', 'expiry': 1645641314, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'steinberger-superfoods.de', 'expiry': 1675967714, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 2: _shopify_s
+[After] Cookie-Name 3: _hjSession_1983349
+[After] Cookie-Name 4: _s
+[After] Cookie-Name 5: _hjIncludedInPageviewSample
+[After] Cookie-Name 6: _pin_unauth
+[After] Cookie-Name 7: _fbp
+[After] Cookie-Name 8: _gid
+[After] Cookie-Name 9: _hjSessionUser_1983349
+[After] Cookie-Name 10: _gcl_au
+[After] Cookie-Name 11: _hjFirstSeen
+[After] Cookie-Name 12: shopify_pay_redirect
+[After] Cookie-Name 13: _shopify_sa_t
+[After] Cookie-Name 14: _shopify_sa_p
+[After] Cookie-Name 15: _gat_UA-161713493-2
+[After] Cookie-Name 16: _ga
+[After] Cookie-Name 17: _orig_referrer
+[After] Cookie-Name 18: _shopify_y
+[After] Cookie-Name 19: __kla_id
+[After] Cookie-Name 20: localization
+[After] Cookie-Name 21: _y
+[After] Cookie-Name 22: _landing_page
+[After] Cookie-Name 23: cart_currency
+[After] Cookie-Name 24: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 11
+[Difference] Cookie-Name: 1: _hjSession_1983349
+[Difference] Cookie-Name: 2: _hjSessionUser_1983349
+[Difference] Cookie-Name: 3: _fbp
+[Difference] Cookie-Name: 4: _gid
+[Difference] Cookie-Name: 5: _hjIncludedInPageviewSample
+[Difference] Cookie-Name: 6: _hjFirstSeen
+[Difference] Cookie-Name: 7: _hjAbsoluteSessionInProgress
+[Difference] Cookie-Name: 8: _gcl_au
+[Difference] Cookie-Name: 9: _ga
+[Difference] Cookie-Name: 10: _pin_unauth
+[Difference] Cookie-Name: 11: _gat_UA-161713493-2
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

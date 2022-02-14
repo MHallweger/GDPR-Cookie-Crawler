@@ -1,0 +1,92 @@
+Website 307: http://www.woodpulse.de/ | Created: 09.02.2022 15:14:16 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 28
+[Before] Website-Cookies: [{'domain': 'woodpulse.de', 'expiry': 1645020857, 'httpOnly': False, 'name': 'chaty_settings', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '[{"k":"cs10547","v":"2022-02-09T14:14:17.171Z"}]'}, {'domain': 'woodpulse.de', 'expiry': 1645020857, 'httpOnly': False, 'name': 'chaty_status_string', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '[{"k":"cwds10547","v":"2022-02-09T14:14:17.170Z"},{"k":"cwds10547_phone","v":"2022-02-09T14:14:17.170Z"},{"k":"cwds10547_whatsapp","v":"2022-02-09T14:14:17.170Z"},{"k":"cwds10547_facebook_messenger","v":"2022-02-09T14:14:17.171Z"}]'}, {'domain': 'woodpulse.de', 'expiry': 1644502449, 'httpOnly': False, 'name': 'updatechatycounter', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'yes'}, {'domain': 'woodpulse.de', 'expiry': 1644502449, 'httpOnly': False, 'name': 'chaty_traffic_source', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'true'}, {'domain': '.woodpulse.de', 'expiry': 1675952046, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cda5f590-d50c-46fc-aaae-bac451d870e2'}, {'domain': '.woodpulse.de', 'expiry': 1652192047, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644416046660.47318225'}, {'domain': '.woodpulse.de', 'expiry': 1644416106, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.woodpulse.de', 'expiry': 1644417846, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.woodpulse.de', 'expiry': 1644417846, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T14%3A14%3A06.222Z'}, {'domain': 'woodpulse.de', 'expiry': 1644502449, 'httpOnly': False, 'name': 'updatechtwidgetvisitor_0', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'yes'}, {'domain': '.woodpulse.de', 'expiry': 1645625644, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'woodpulse.de', 'expiry': 1707488046, 'httpOnly': False, 'name': '__pf_user', 'path': '/', 'secure': False, 'value': '32017863-30ed-4d11-882e-c0802c31ac27'}, {'domain': '.woodpulse.de', 'expiry': 1644502446, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.696206750.1644416045'}, {'domain': '.woodpulse.de', 'expiry': 1644416104, 'httpOnly': False, 'name': '_gat_gtag_UA_151932574_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.woodpulse.de', 'expiry': 1675952046, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVptTTFOVEprWVRRdE1qSXdaQzAwTXpNNUxUbGxNemd0TVRNME9UZzRaalk0TkRRMA'}, {'domain': '.woodpulse.de', 'expiry': 1652192046, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.395796032.1644416046'}, {'domain': '.woodpulse.de', 'expiry': 1707488046, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.389514557.1644416045'}, {'domain': '.woodpulse.de', 'httpOnly': False, 'name': 'ssid', 'path': '/', 'secure': False, 'value': 'fa8a2422-2178-4ac3-b8bb-627d76bb44ea'}, {'domain': 'woodpulse.de', 'expiry': 1644419648, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.woodpulse.de', 'expiry': 1959952444, 'httpOnly': False, 'name': 'refb', 'path': '/', 'secure': False, 'value': '13815b7e-81f6-4318-837d-1c91d0de00de'}, {'domain': '.woodpulse.de', 'expiry': 1675952046, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cda5f590-d50c-46fc-aaae-bac451d870e2'}, {'domain': '.woodpulse.de', 'expiry': 1644417846, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6b569404-5463-436c-b399-3c5955f2983a'}, {'domain': 'woodpulse.de', 'expiry': 1644416946, 'httpOnly': False, 'name': '__pf_session', 'path': '/', 'secure': False, 'value': '51320178-6330-4d4d-9148-2ec0802c31ac'}, {'domain': '.woodpulse.de', 'expiry': 1644417846, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6b569404-5463-436c-b399-3c5955f2983a'}, {'domain': 'woodpulse.de', 'expiry': 1645625644, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'woodpulse.de', 'expiry': 1675952046, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.woodpulse.de', 'expiry': 1645625644, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'woodpulse.de', 'expiry': 1645625646, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[Before] Cookie-Name 1: chaty_settings
+[Before] Cookie-Name 2: chaty_status_string
+[Before] Cookie-Name 3: updatechatycounter
+[Before] Cookie-Name 4: chaty_traffic_source
+[Before] Cookie-Name 5: _shopify_y
+[Before] Cookie-Name 6: _fbp
+[Before] Cookie-Name 7: _gat
+[Before] Cookie-Name 8: _shopify_sa_p
+[Before] Cookie-Name 9: _shopify_sa_t
+[Before] Cookie-Name 10: updatechtwidgetvisitor_0
+[Before] Cookie-Name 11: _landing_page
+[Before] Cookie-Name 12: __pf_user
+[Before] Cookie-Name 13: _gid
+[Before] Cookie-Name 14: _gat_gtag_UA_151932574_1
+[Before] Cookie-Name 15: _pin_unauth
+[Before] Cookie-Name 16: _gcl_au
+[Before] Cookie-Name 17: _ga
+[Before] Cookie-Name 18: ssid
+[Before] Cookie-Name 19: shopify_pay_redirect
+[Before] Cookie-Name 20: refb
+[Before] Cookie-Name 21: _y
+[Before] Cookie-Name 22: _shopify_s
+[Before] Cookie-Name 23: __pf_session
+[Before] Cookie-Name 24: _s
+[Before] Cookie-Name 25: cart_currency
+[Before] Cookie-Name 26: secure_customer_sig
+[Before] Cookie-Name 27: _orig_referrer
+[Before] Cookie-Name 28: localization
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 28
+[After] Website-Cookies: [{'domain': 'woodpulse.de', 'expiry': 1645020857, 'httpOnly': False, 'name': 'chaty_settings', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '[{"k":"cs10547","v":"2022-02-09T14:14:17.171Z"}]'}, {'domain': 'woodpulse.de', 'expiry': 1645020857, 'httpOnly': False, 'name': 'chaty_status_string', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '[{"k":"cwds10547","v":"2022-02-09T14:14:17.170Z"},{"k":"cwds10547_phone","v":"2022-02-09T14:14:17.170Z"},{"k":"cwds10547_whatsapp","v":"2022-02-09T14:14:17.170Z"},{"k":"cwds10547_facebook_messenger","v":"2022-02-09T14:14:17.171Z"}]'}, {'domain': 'woodpulse.de', 'expiry': 1644502449, 'httpOnly': False, 'name': 'updatechatycounter', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'yes'}, {'domain': 'woodpulse.de', 'expiry': 1644502449, 'httpOnly': False, 'name': 'chaty_traffic_source', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'true'}, {'domain': '.woodpulse.de', 'expiry': 1675952046, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cda5f590-d50c-46fc-aaae-bac451d870e2'}, {'domain': '.woodpulse.de', 'expiry': 1652192047, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644416046660.47318225'}, {'domain': '.woodpulse.de', 'expiry': 1644416106, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.woodpulse.de', 'expiry': 1644417846, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.woodpulse.de', 'expiry': 1644417846, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T14%3A14%3A06.222Z'}, {'domain': 'woodpulse.de', 'expiry': 1644502449, 'httpOnly': False, 'name': 'updatechtwidgetvisitor_0', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'yes'}, {'domain': '.woodpulse.de', 'expiry': 1645625644, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'woodpulse.de', 'expiry': 1707488046, 'httpOnly': False, 'name': '__pf_user', 'path': '/', 'secure': False, 'value': '32017863-30ed-4d11-882e-c0802c31ac27'}, {'domain': '.woodpulse.de', 'expiry': 1644502446, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.696206750.1644416045'}, {'domain': '.woodpulse.de', 'expiry': 1644416104, 'httpOnly': False, 'name': '_gat_gtag_UA_151932574_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.woodpulse.de', 'expiry': 1675952046, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVptTTFOVEprWVRRdE1qSXdaQzAwTXpNNUxUbGxNemd0TVRNME9UZzRaalk0TkRRMA'}, {'domain': '.woodpulse.de', 'expiry': 1652192046, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.395796032.1644416046'}, {'domain': '.woodpulse.de', 'expiry': 1707488046, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.389514557.1644416045'}, {'domain': '.woodpulse.de', 'httpOnly': False, 'name': 'ssid', 'path': '/', 'secure': False, 'value': 'fa8a2422-2178-4ac3-b8bb-627d76bb44ea'}, {'domain': 'woodpulse.de', 'expiry': 1644419648, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.woodpulse.de', 'expiry': 1959952444, 'httpOnly': False, 'name': 'refb', 'path': '/', 'secure': False, 'value': '13815b7e-81f6-4318-837d-1c91d0de00de'}, {'domain': '.woodpulse.de', 'expiry': 1675952046, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cda5f590-d50c-46fc-aaae-bac451d870e2'}, {'domain': '.woodpulse.de', 'expiry': 1644417846, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6b569404-5463-436c-b399-3c5955f2983a'}, {'domain': 'woodpulse.de', 'expiry': 1644416946, 'httpOnly': False, 'name': '__pf_session', 'path': '/', 'secure': False, 'value': '51320178-6330-4d4d-9148-2ec0802c31ac'}, {'domain': '.woodpulse.de', 'expiry': 1644417846, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6b569404-5463-436c-b399-3c5955f2983a'}, {'domain': 'woodpulse.de', 'expiry': 1645625644, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'woodpulse.de', 'expiry': 1675952046, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.woodpulse.de', 'expiry': 1645625644, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'woodpulse.de', 'expiry': 1645625646, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[After] Cookie-Name 1: chaty_settings
+[After] Cookie-Name 2: chaty_status_string
+[After] Cookie-Name 3: updatechatycounter
+[After] Cookie-Name 4: chaty_traffic_source
+[After] Cookie-Name 5: _shopify_y
+[After] Cookie-Name 6: _fbp
+[After] Cookie-Name 7: _gat
+[After] Cookie-Name 8: _shopify_sa_p
+[After] Cookie-Name 9: _shopify_sa_t
+[After] Cookie-Name 10: updatechtwidgetvisitor_0
+[After] Cookie-Name 11: _landing_page
+[After] Cookie-Name 12: __pf_user
+[After] Cookie-Name 13: _gid
+[After] Cookie-Name 14: _gat_gtag_UA_151932574_1
+[After] Cookie-Name 15: _pin_unauth
+[After] Cookie-Name 16: _gcl_au
+[After] Cookie-Name 17: _ga
+[After] Cookie-Name 18: ssid
+[After] Cookie-Name 19: shopify_pay_redirect
+[After] Cookie-Name 20: refb
+[After] Cookie-Name 21: _y
+[After] Cookie-Name 22: _shopify_s
+[After] Cookie-Name 23: __pf_session
+[After] Cookie-Name 24: _s
+[After] Cookie-Name 25: cart_currency
+[After] Cookie-Name 26: secure_customer_sig
+[After] Cookie-Name 27: _orig_referrer
+[After] Cookie-Name 28: localization
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

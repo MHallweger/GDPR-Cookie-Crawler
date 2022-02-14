@@ -1,0 +1,89 @@
+Website 167: http://www.soyaconcept.de/ | Created: 09.02.2022 11:36:49 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 24
+[Before] Website-Cookies: [{'domain': '.www.soyaconcept.de', 'expiry': 1644403301, 'httpOnly': False, 'name': '54300-sid-seen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644403001973'}, {'domain': 'www.soyaconcept.de', 'expiry': 1675939001, 'httpOnly': False, 'name': 'lf-cmp-54300', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '{"displayCount":1,"lastSeen":1644403001}'}, {'domain': 'www.soyaconcept.de', 'expiry': 1707475000, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MDMwMDAsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LnNveWFjb25jZXB0LmRlLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDQwMzAwMCwidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly93d3cuc295YWNvbmNlcHQuZGUvIn19'}, {'domain': '.soyaconcept.de', 'expiry': 1644404800, 'httpOnly': False, 'name': '_hjSession_1377069', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImExNDgwZTRmLTI3YjUtNDIzOS04OGJkLWM5NTg1YmE5MjUxZCIsImNyZWF0ZWQiOjE2NDQ0MDMwMDAyMDQsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': '.www.soyaconcept.de', 'expiry': 1644403301, 'httpOnly': False, 'name': '54300-sid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'af429fe7-dc5d-43f1-8036-3c7d750da1bf'}, {'domain': '.soyaconcept.de', 'expiry': 1690536999, 'httpOnly': False, 'name': 'ku1-vid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': '10093b6e-06b7-be3a-dca8-a1e7a2d04f3d'}, {'domain': '.soyaconcept.de', 'expiry': 1652179000, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644403000091.1517827834'}, {'domain': '.soyaconcept.de', 'expiry': 1644403059, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.soyaconcept.de', 'expiry': 1645612599, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.soyaconcept.de', 'expiry': 1644489399, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.96154335.1644403000'}, {'domain': '.soyaconcept.de', 'expiry': 1644404801, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b5b2a500-4f44-44aa-8ce2-28bfb1d8c746'}, {'domain': '.soyaconcept.de', 'expiry': 1644404799, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.soyaconcept.de', 'expiry': 1675939001, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2ffab1c2-7a3e-437d-987f-0e22d61f0bb9'}, {'domain': '.soyaconcept.de', 'expiry': 1644404799, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A36%3A39.670Z'}, {'domain': '.soyaconcept.de', 'expiry': 1644404801, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b5b2a500-4f44-44aa-8ce2-28bfb1d8c746'}, {'domain': '.soyaconcept.de', 'expiry': 1644404800, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.soyaconcept.de', 'expiry': 1644404800, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.soyaconcept.de', 'expiry': 1645612599, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.soyaconcept.de', 'expiry': 1675939000, 'httpOnly': False, 'name': '_hjSessionUser_1377069', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImJhMjc3OTFlLTZiMzktNWI0NS1iMDk3LTdmYTA2Yzg0YmZlNiIsImNyZWF0ZWQiOjE2NDQ0MDI5OTk3MjcsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.soyaconcept.de', 'httpOnly': False, 'name': 'ku1-sid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': 'm3o1Z4eETfxbfV-xkKTQ7'}, {'domain': '.soyaconcept.de', 'expiry': 1707474999, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.2049529501.1644403000'}, {'domain': '.soyaconcept.de', 'expiry': 1675939001, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2ffab1c2-7a3e-437d-987f-0e22d61f0bb9'}, {'domain': '.soyaconcept.de', 'expiry': 1652178999, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.618537912.1644403000'}, {'domain': 'www.soyaconcept.de', 'expiry': 1675939001, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: 54300-sid-seen
+[Before] Cookie-Name 2: lf-cmp-54300
+[Before] Cookie-Name 3: __kla_id
+[Before] Cookie-Name 4: _hjSession_1377069
+[Before] Cookie-Name 5: 54300-sid
+[Before] Cookie-Name 6: ku1-vid
+[Before] Cookie-Name 7: _fbp
+[Before] Cookie-Name 8: _gat
+[Before] Cookie-Name 9: _orig_referrer
+[Before] Cookie-Name 10: _gid
+[Before] Cookie-Name 11: _shopify_s
+[Before] Cookie-Name 12: _shopify_sa_p
+[Before] Cookie-Name 13: _y
+[Before] Cookie-Name 14: _shopify_sa_t
+[Before] Cookie-Name 15: _s
+[Before] Cookie-Name 16: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 17: _hjFirstSeen
+[Before] Cookie-Name 18: _landing_page
+[Before] Cookie-Name 19: _hjSessionUser_1377069
+[Before] Cookie-Name 20: ku1-sid
+[Before] Cookie-Name 21: _ga
+[Before] Cookie-Name 22: _shopify_y
+[Before] Cookie-Name 23: _gcl_au
+[Before] Cookie-Name 24: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 27
+[After] Website-Cookies: [{'domain': '.soyaconcept.de', 'expiry': 1959763015, 'httpOnly': False, 'name': 'Ely_vID', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': 'zsw6mzwbgqdovdhr2uykmfp5nblfi8k5'}, {'domain': '.soyaconcept.de', 'expiry': 1959763015, 'httpOnly': False, 'name': 'ely_cc_answ', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': '%7B%22default%22%3A1%7D'}, {'domain': '.www.soyaconcept.de', 'expiry': 1644403301, 'httpOnly': False, 'name': '54300-sid-seen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644403001973'}, {'domain': 'www.soyaconcept.de', 'expiry': 1675939001, 'httpOnly': False, 'name': 'lf-cmp-54300', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '{"displayCount":1,"lastSeen":1644403001}'}, {'domain': 'www.soyaconcept.de', 'expiry': 1675939015, 'httpOnly': False, 'name': 'CookieInformationConsent', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '%7B%22website_uuid%22%3A%227c3308d3-50c4-49a2-b90f-46b4847d00d9%22%2C%22timestamp%22%3A%222022-02-09T10%3A36%3A55.349Z%22%2C%22consent_url%22%3A%22https%3A%2F%2Fwww.soyaconcept.de%2F%22%2C%22consent_website%22%3A%22soyaconcept.dk%22%2C%22consent_domain%22%3A%22www.soyaconcept.de%22%2C%22user_uid%22%3A%22c1ad49d4-01f6-4bfe-a37b-b64163ab15a6%22%2C%22consents_approved%22%3A%5B%22cookie_cat_necessary%22%2C%22cookie_cat_functional%22%2C%22cookie_cat_statistic%22%2C%22cookie_cat_marketing%22%2C%22cookie_cat_unclassified%22%5D%2C%22consents_denied%22%3A%5B%5D%2C%22user_agent%22%3A%22Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F98.0.4758.82%20Safari%2F537.36%22%7D'}, {'domain': 'www.soyaconcept.de', 'expiry': 1707475000, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MDMwMDAsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LnNveWFjb25jZXB0LmRlLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDQwMzAwMCwidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly93d3cuc295YWNvbmNlcHQuZGUvIn19'}, {'domain': '.soyaconcept.de', 'expiry': 1644404800, 'httpOnly': False, 'name': '_hjSession_1377069', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImExNDgwZTRmLTI3YjUtNDIzOS04OGJkLWM5NTg1YmE5MjUxZCIsImNyZWF0ZWQiOjE2NDQ0MDMwMDAyMDQsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': '.www.soyaconcept.de', 'expiry': 1644403301, 'httpOnly': False, 'name': '54300-sid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'af429fe7-dc5d-43f1-8036-3c7d750da1bf'}, {'domain': '.soyaconcept.de', 'expiry': 1690536999, 'httpOnly': False, 'name': 'ku1-vid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': '10093b6e-06b7-be3a-dca8-a1e7a2d04f3d'}, {'domain': '.soyaconcept.de', 'expiry': 1652179015, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644403000091.1517827834'}, {'domain': '.soyaconcept.de', 'expiry': 1644403059, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.soyaconcept.de', 'expiry': 1645612599, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.soyaconcept.de', 'expiry': 1644489399, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.96154335.1644403000'}, {'domain': '.soyaconcept.de', 'expiry': 1644404801, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b5b2a500-4f44-44aa-8ce2-28bfb1d8c746'}, {'domain': '.soyaconcept.de', 'expiry': 1644404799, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.soyaconcept.de', 'expiry': 1675939001, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2ffab1c2-7a3e-437d-987f-0e22d61f0bb9'}, {'domain': '.soyaconcept.de', 'expiry': 1644404799, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A36%3A39.670Z'}, {'domain': '.soyaconcept.de', 'expiry': 1644404801, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b5b2a500-4f44-44aa-8ce2-28bfb1d8c746'}, {'domain': '.soyaconcept.de', 'expiry': 1644404800, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.soyaconcept.de', 'expiry': 1644404800, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.soyaconcept.de', 'expiry': 1645612599, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.soyaconcept.de', 'expiry': 1675939000, 'httpOnly': False, 'name': '_hjSessionUser_1377069', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImJhMjc3OTFlLTZiMzktNWI0NS1iMDk3LTdmYTA2Yzg0YmZlNiIsImNyZWF0ZWQiOjE2NDQ0MDI5OTk3MjcsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.soyaconcept.de', 'httpOnly': False, 'name': 'ku1-sid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': 'm3o1Z4eETfxbfV-xkKTQ7'}, {'domain': '.soyaconcept.de', 'expiry': 1707474999, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.2049529501.1644403000'}, {'domain': '.soyaconcept.de', 'expiry': 1675939001, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2ffab1c2-7a3e-437d-987f-0e22d61f0bb9'}, {'domain': '.soyaconcept.de', 'expiry': 1652178999, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.618537912.1644403000'}, {'domain': 'www.soyaconcept.de', 'expiry': 1675939001, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: Ely_vID
+[After] Cookie-Name 2: ely_cc_answ
+[After] Cookie-Name 3: 54300-sid-seen
+[After] Cookie-Name 4: lf-cmp-54300
+[After] Cookie-Name 5: CookieInformationConsent
+[After] Cookie-Name 6: __kla_id
+[After] Cookie-Name 7: _hjSession_1377069
+[After] Cookie-Name 8: 54300-sid
+[After] Cookie-Name 9: ku1-vid
+[After] Cookie-Name 10: _fbp
+[After] Cookie-Name 11: _gat
+[After] Cookie-Name 12: _orig_referrer
+[After] Cookie-Name 13: _gid
+[After] Cookie-Name 14: _shopify_s
+[After] Cookie-Name 15: _shopify_sa_p
+[After] Cookie-Name 16: _y
+[After] Cookie-Name 17: _shopify_sa_t
+[After] Cookie-Name 18: _s
+[After] Cookie-Name 19: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 20: _hjFirstSeen
+[After] Cookie-Name 21: _landing_page
+[After] Cookie-Name 22: _hjSessionUser_1377069
+[After] Cookie-Name 23: ku1-sid
+[After] Cookie-Name 24: _ga
+[After] Cookie-Name 25: _shopify_y
+[After] Cookie-Name 26: _gcl_au
+[After] Cookie-Name 27: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 3
+[Difference] Cookie-Name: 1: ely_cc_answ
+[Difference] Cookie-Name: 2: CookieInformationConsent
+[Difference] Cookie-Name: 3: Ely_vID
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

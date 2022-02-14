@@ -1,0 +1,69 @@
+Website 94: http://www.taschenkinder.de/ | Created: 10.02.2022 12:40:38 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 5
+[Before] Website-Cookies: [{'domain': '.taschenkinder.de', 'expiry': 1645702827, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.taschenkinder.de', 'expiry': 1645702827, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'taschenkinder.de', 'expiry': 1645702830, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'taschenkinder.de', 'expiry': 1676029230, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'taschenkinder.de', 'expiry': 1645702827, 'httpOnly': True, 'name': 'keep_alive', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e24b8289-5d87-4849-b5e0-a91b85e94d20'}]
+[Before] Cookie-Name 1: _landing_page
+[Before] Cookie-Name 2: _orig_referrer
+[Before] Cookie-Name 3: cart_currency
+[Before] Cookie-Name 4: secure_customer_sig
+[Before] Cookie-Name 5: keep_alive
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 22
+[After] Website-Cookies: [{'domain': '.taschenkinder.de', 'expiry': 1644493304, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.taschenkinder.de', 'expiry': 1644495044, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T11%3A40%3A44.241Z'}, {'domain': '.taschenkinder.de', 'expiry': 1644495044, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '88f399b5-5987-4564-9c55-978cb94dcfda'}, {'domain': '.taschenkinder.de', 'expiry': 1644495044, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.taschenkinder.de', 'expiry': 1644495044, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '88f399b5-5987-4564-9c55-978cb94dcfda'}, {'domain': 'taschenkinder.de', 'httpOnly': False, 'name': 'swym-session-id', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '"zr66uug5tlukeq75my7llu6zvhdadwdrf1phibbuojp8mqepij2cdewfdjiwlxot"'}, {'domain': 'taschenkinder.de', 'expiry': 1676029230, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'taschenkinder.de', 'expiry': 1676029244, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ee1eb631-d716-4b21-bf0c-0b682c44b9cd'}, {'domain': 'taschenkinder.de', 'httpOnly': False, 'name': 'checkout_locale', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'de'}, {'domain': 'taschenkinder.de', 'expiry': 1676029244, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ee1eb631-d716-4b21-bf0c-0b682c44b9cd'}, {'domain': '.taschenkinder.de', 'expiry': 1707565244, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.63798615.1644493244'}, {'domain': 'taschenkinder.de', 'expiry': 1645702827, 'httpOnly': True, 'name': 'keep_alive', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e24b8289-5d87-4849-b5e0-a91b85e94d20'}, {'domain': 'taschenkinder.de', 'expiry': 1644495044, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '88f399b5-5987-4564-9c55-978cb94dcfda'}, {'domain': 'taschenkinder.de', 'expiry': 1644495044, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '88f399b5-5987-4564-9c55-978cb94dcfda'}, {'domain': '.taschenkinder.de', 'expiry': 1652269245, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644493244511.885318180'}, {'domain': 'taschenkinder.de', 'expiry': 1647085244, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0NDkzMjQ0MTczLCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjoxfX0='}, {'domain': 'taschenkinder.de', 'expiry': 1645702830, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'taschenkinder.de', 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.taschenkinder.de', 'expiry': 1645702827, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'taschenkinder.de', 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'pending'}, {'domain': '.taschenkinder.de', 'expiry': 1644579644, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.470973497.1644493244'}, {'domain': '.taschenkinder.de', 'expiry': 1645702827, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: _gat
+[After] Cookie-Name 2: _shopify_sa_t
+[After] Cookie-Name 3: _shopify_s
+[After] Cookie-Name 4: _shopify_sa_p
+[After] Cookie-Name 5: _s
+[After] Cookie-Name 6: swym-session-id
+[After] Cookie-Name 7: secure_customer_sig
+[After] Cookie-Name 8: _y
+[After] Cookie-Name 9: checkout_locale
+[After] Cookie-Name 10: _shopify_y
+[After] Cookie-Name 11: _ga
+[After] Cookie-Name 12: keep_alive
+[After] Cookie-Name 13: _shopify_s
+[After] Cookie-Name 14: _s
+[After] Cookie-Name 15: _fbp
+[After] Cookie-Name 16: _bc_c_set
+[After] Cookie-Name 17: cart_currency
+[After] Cookie-Name 18: localization
+[After] Cookie-Name 19: _landing_page
+[After] Cookie-Name 20: shopify_pay_redirect
+[After] Cookie-Name 21: _gid
+[After] Cookie-Name 22: _orig_referrer
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 15
+[Difference] Cookie-Name: 1: localization
+[Difference] Cookie-Name: 2: _gid
+[Difference] Cookie-Name: 3: _y
+[Difference] Cookie-Name: 4: _bc_c_set
+[Difference] Cookie-Name: 5: _shopify_sa_p
+[Difference] Cookie-Name: 6: _fbp
+[Difference] Cookie-Name: 7: _shopify_s
+[Difference] Cookie-Name: 8: _s
+[Difference] Cookie-Name: 9: _gat
+[Difference] Cookie-Name: 10: _ga
+[Difference] Cookie-Name: 11: shopify_pay_redirect
+[Difference] Cookie-Name: 12: checkout_locale
+[Difference] Cookie-Name: 13: _shopify_y
+[Difference] Cookie-Name: 14: swym-session-id
+[Difference] Cookie-Name: 15: _shopify_sa_t
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

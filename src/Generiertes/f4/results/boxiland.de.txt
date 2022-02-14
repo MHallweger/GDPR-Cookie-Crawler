@@ -1,0 +1,76 @@
+Website 92: http://www.boxiland.de/ | Created: 09.02.2022 17:34:05 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 22
+[Before] Website-Cookies: [{'domain': '.boxiland.de', 'expiry': 1644426236, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'Izzki8PPTggC1y-20220209163356'}, {'domain': '.boxiland.de', 'httpOnly': False, 'name': 'soundest-views', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.boxiland.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220209163356-ExUmGvlfnYy3WWDP6EyWAV9iXM6gOwE0sGrKpqHq84iNHqrEF'}, {'domain': '.boxiland.de', 'expiry': 1652200436, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644424436195.1950016593'}, {'domain': 'boxiland.de', 'expiry': 1644428036, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.boxiland.de', 'expiry': 1675960436, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU1EVXlOalExWmpndE9EWXhZeTAwTTJNM0xXSXpPR010WkdGbE1URTVNelF3WXpBdw'}, {'domain': 'boxiland.de', 'expiry': 1645634037, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.boxiland.de', 'expiry': 1644426235, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.boxiland.de', 'expiry': 1644426235, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T16%3A33%3A55.965Z'}, {'domain': '.boxiland.de', 'expiry': 1644426237, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'edf68615-a2b6-472f-a9ee-51d83d0b838d'}, {'domain': 'boxiland.de', 'expiry': 1645634037, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644424437'}, {'domain': '.boxiland.de', 'expiry': 1675960437, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '533bb0e6-90f4-425c-aa59-1c8cb7d68bf3'}, {'domain': 'boxiland.de', 'expiry': 1645634037, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': '.boxiland.de', 'expiry': 1645634035, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'boxiland.de', 'expiry': 1645634037, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ee4cf42ceb654d1efebe37bbb405b900'}, {'domain': '.boxiland.de', 'expiry': 1675960436, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'mVLGYpo7TiKkfQ-20220209163356'}, {'domain': '.boxiland.de', 'expiry': 1644426237, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'edf68615-a2b6-472f-a9ee-51d83d0b838d'}, {'domain': 'boxiland.de', 'expiry': 1645634037, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '015cf6e0e821558164c851ff79c86151'}, {'domain': 'boxiland.de', 'expiry': 1675960437, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'boxiland.de', 'expiry': 1645634037, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.boxiland.de', 'expiry': 1675960437, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '533bb0e6-90f4-425c-aa59-1c8cb7d68bf3'}, {'domain': '.boxiland.de', 'expiry': 1645634035, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}]
+[Before] Cookie-Name 1: omnisendSessionID
+[Before] Cookie-Name 2: soundest-views
+[Before] Cookie-Name 3: soundestID
+[Before] Cookie-Name 4: _fbp
+[Before] Cookie-Name 5: shopify_pay_redirect
+[Before] Cookie-Name 6: _pin_unauth
+[Before] Cookie-Name 7: cart_currency
+[Before] Cookie-Name 8: _shopify_sa_p
+[Before] Cookie-Name 9: _shopify_sa_t
+[Before] Cookie-Name 10: _shopify_s
+[Before] Cookie-Name 11: cart_ts
+[Before] Cookie-Name 12: _y
+[Before] Cookie-Name 13: cart_ver
+[Before] Cookie-Name 14: _orig_referrer
+[Before] Cookie-Name 15: cart_sig
+[Before] Cookie-Name 16: omnisendAnonymousID
+[Before] Cookie-Name 17: _s
+[Before] Cookie-Name 18: cart
+[Before] Cookie-Name 19: secure_customer_sig
+[Before] Cookie-Name 20: localization
+[Before] Cookie-Name 21: _shopify_y
+[Before] Cookie-Name 22: _landing_page
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 22
+[After] Website-Cookies: [{'domain': '.boxiland.de', 'expiry': 1644426236, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'Izzki8PPTggC1y-20220209163356'}, {'domain': '.boxiland.de', 'httpOnly': False, 'name': 'soundest-views', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.boxiland.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220209163356-ExUmGvlfnYy3WWDP6EyWAV9iXM6gOwE0sGrKpqHq84iNHqrEF'}, {'domain': '.boxiland.de', 'expiry': 1652200436, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644424436195.1950016593'}, {'domain': 'boxiland.de', 'expiry': 1644428036, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.boxiland.de', 'expiry': 1675960436, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU1EVXlOalExWmpndE9EWXhZeTAwTTJNM0xXSXpPR010WkdGbE1URTVNelF3WXpBdw'}, {'domain': 'boxiland.de', 'expiry': 1645634037, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.boxiland.de', 'expiry': 1644426235, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.boxiland.de', 'expiry': 1644426235, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T16%3A33%3A55.965Z'}, {'domain': '.boxiland.de', 'expiry': 1644426237, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'edf68615-a2b6-472f-a9ee-51d83d0b838d'}, {'domain': 'boxiland.de', 'expiry': 1645634037, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644424437'}, {'domain': '.boxiland.de', 'expiry': 1675960437, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '533bb0e6-90f4-425c-aa59-1c8cb7d68bf3'}, {'domain': 'boxiland.de', 'expiry': 1645634037, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': '.boxiland.de', 'expiry': 1645634035, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'boxiland.de', 'expiry': 1645634037, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ee4cf42ceb654d1efebe37bbb405b900'}, {'domain': '.boxiland.de', 'expiry': 1675960436, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'mVLGYpo7TiKkfQ-20220209163356'}, {'domain': '.boxiland.de', 'expiry': 1644426237, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'edf68615-a2b6-472f-a9ee-51d83d0b838d'}, {'domain': 'boxiland.de', 'expiry': 1645634037, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '015cf6e0e821558164c851ff79c86151'}, {'domain': 'boxiland.de', 'expiry': 1675960437, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'boxiland.de', 'expiry': 1645634037, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.boxiland.de', 'expiry': 1675960437, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '533bb0e6-90f4-425c-aa59-1c8cb7d68bf3'}, {'domain': '.boxiland.de', 'expiry': 1645634035, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}]
+[After] Cookie-Name 1: omnisendSessionID
+[After] Cookie-Name 2: soundest-views
+[After] Cookie-Name 3: soundestID
+[After] Cookie-Name 4: _fbp
+[After] Cookie-Name 5: shopify_pay_redirect
+[After] Cookie-Name 6: _pin_unauth
+[After] Cookie-Name 7: cart_currency
+[After] Cookie-Name 8: _shopify_sa_p
+[After] Cookie-Name 9: _shopify_sa_t
+[After] Cookie-Name 10: _shopify_s
+[After] Cookie-Name 11: cart_ts
+[After] Cookie-Name 12: _y
+[After] Cookie-Name 13: cart_ver
+[After] Cookie-Name 14: _orig_referrer
+[After] Cookie-Name 15: cart_sig
+[After] Cookie-Name 16: omnisendAnonymousID
+[After] Cookie-Name 17: _s
+[After] Cookie-Name 18: cart
+[After] Cookie-Name 19: secure_customer_sig
+[After] Cookie-Name 20: localization
+[After] Cookie-Name 21: _shopify_y
+[After] Cookie-Name 22: _landing_page
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

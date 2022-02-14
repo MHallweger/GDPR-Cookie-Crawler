@@ -1,0 +1,79 @@
+Website 64: http://www.mamiblock-shop.de/ | Created: 09.02.2022 11:05:48 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 8
+[Before] Website-Cookies: [{'domain': '.mamiblock-shop.de', 'expiry': 1675937139, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.mamiblock-shop.de', 'expiry': 1675937139, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22lim%22%3A%5B%22GDPR%22%5D%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%7D'}, {'domain': '.mamiblock-shop.de', 'expiry': 1645610739, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'mamiblock-shop.de', 'expiry': 1645610740, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.mamiblock-shop.de', 'expiry': 1644402940, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.mamiblock-shop.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.mamiblock-shop.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'mamiblock-shop.de', 'expiry': 1675937140, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _shopify_m
+[Before] Cookie-Name 2: _tracking_consent
+[Before] Cookie-Name 3: _shopify_tw
+[Before] Cookie-Name 4: cart_currency
+[Before] Cookie-Name 5: _shopify_tm
+[Before] Cookie-Name 6: _landing_page
+[Before] Cookie-Name 7: _orig_referrer
+[Before] Cookie-Name 8: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 29
+[After] Website-Cookies: [{'domain': '.mamiblock-shop.de', 'expiry': 1644487554, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1805337370.1644401155'}, {'domain': '.mamiblock-shop.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.mamiblock-shop.de', 'expiry': 1675937154, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22CCPA%22%3A%221%22%2C%22GDPR%22%3A%22%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': '.mamiblock-shop.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '02dd23e6-2471-44c9-b5f4-f6c23cc2402f'}, {'domain': '.mamiblock-shop.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '449721b5-df74-48a7-a9b0-9e45ba171cb9'}, {'domain': '.mamiblock-shop.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '02dd23e6-2471-44c9-b5f4-f6c23cc2402f'}, {'domain': '.mamiblock-shop.de', 'expiry': 1645610739, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'mamiblock-shop.de', 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MDExNDAsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vbWFtaWJsb2NrLXNob3AuZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NDAxMTQwLCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL21hbWlibG9jay1zaG9wLmRlLyJ9fQ=='}, {'domain': '.mamiblock-shop.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A05%3A39.399Z'}, {'domain': 'mamiblock-shop.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.mamiblock-shop.de', 'expiry': 1652177155, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644401154946.1509945235'}, {'domain': 'mamiblock-shop.de', 'expiry': 1675937154, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '449721b5-df74-48a7-a9b0-9e45ba171cb9'}, {'domain': 'mamiblock-shop.de', 'expiry': 1646993154, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0NDAxMTU0MzQzLCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjowfX0='}, {'domain': 'mamiblock-shop.de', 'expiry': 1644402954, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A05%3A39.399Z'}, {'domain': '.mamiblock-shop.de', 'expiry': 1645610754, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'mamiblock-shop.de', 'expiry': 1644402954, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '02dd23e6-2471-44c9-b5f4-f6c23cc2402f'}, {'domain': 'mamiblock-shop.de', 'expiry': 1645610754, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f611f627a42a46353a93a25def936f6b'}, {'domain': 'mamiblock-shop.de', 'expiry': 1645610754, 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A05%3A39.381Z'}, {'domain': 'mamiblock-shop.de', 'expiry': 1644402954, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '02dd23e6-2471-44c9-b5f4-f6c23cc2402f'}, {'domain': '.mamiblock-shop.de', 'expiry': 1675937154, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': '.mamiblock-shop.de', 'expiry': 1645610754, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'mamiblock-shop.de', 'expiry': 1675937154, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '449721b5-df74-48a7-a9b0-9e45ba171cb9'}, {'domain': '.mamiblock-shop.de', 'expiry': 1644402954, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'mamiblock-shop.de', 'expiry': 1645610754, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.mamiblock-shop.de', 'expiry': 1644401214, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'mamiblock-shop.de', 'expiry': 1645610754, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.mamiblock-shop.de', 'expiry': 1707473154, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.112737960.1644401155'}, {'domain': '.mamiblock-shop.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '449721b5-df74-48a7-a9b0-9e45ba171cb9'}, {'domain': 'mamiblock-shop.de', 'expiry': 1675937154, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _gid
+[After] Cookie-Name 2: _shopify_evids
+[After] Cookie-Name 3: _tracking_consent
+[After] Cookie-Name 4: _shopify_s
+[After] Cookie-Name 5: _shopify_y
+[After] Cookie-Name 6: _s
+[After] Cookie-Name 7: _shopify_tw
+[After] Cookie-Name 8: __kla_id
+[After] Cookie-Name 9: _shopify_sa_t
+[After] Cookie-Name 10: _shopify_evids
+[After] Cookie-Name 11: _fbp
+[After] Cookie-Name 12: _y
+[After] Cookie-Name 13: _bc_c_set
+[After] Cookie-Name 14: _shopify_sa_t
+[After] Cookie-Name 15: _landing_page
+[After] Cookie-Name 16: _shopify_s
+[After] Cookie-Name 17: cart_sig
+[After] Cookie-Name 18: _shopify_d
+[After] Cookie-Name 19: _s
+[After] Cookie-Name 20: _shopify_m
+[After] Cookie-Name 21: _orig_referrer
+[After] Cookie-Name 22: _shopify_y
+[After] Cookie-Name 23: _shopify_tm
+[After] Cookie-Name 24: localization
+[After] Cookie-Name 25: _gat
+[After] Cookie-Name 26: cart_currency
+[After] Cookie-Name 27: _ga
+[After] Cookie-Name 28: _y
+[After] Cookie-Name 29: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 15
+[Difference] Cookie-Name: 1: localization
+[Difference] Cookie-Name: 2: _shopify_y
+[Difference] Cookie-Name: 3: _ga
+[Difference] Cookie-Name: 4: __kla_id
+[Difference] Cookie-Name: 5: _shopify_s
+[Difference] Cookie-Name: 6: _shopify_sa_t
+[Difference] Cookie-Name: 7: _fbp
+[Difference] Cookie-Name: 8: _shopify_d
+[Difference] Cookie-Name: 9: _bc_c_set
+[Difference] Cookie-Name: 10: _gat
+[Difference] Cookie-Name: 11: _shopify_evids
+[Difference] Cookie-Name: 12: _s
+[Difference] Cookie-Name: 13: cart_sig
+[Difference] Cookie-Name: 14: _gid
+[Difference] Cookie-Name: 15: _y
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

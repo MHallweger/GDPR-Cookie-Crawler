@@ -1,0 +1,81 @@
+Website 191: http://www.bercher-schmidt.de/ | Created: 09.02.2022 20:33:56 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 20
+[Before] Website-Cookies: [{'domain': 'bercher-schmidt.de', 'expiry': 1644438827, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.bercher-schmidt.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.bercher-schmidt.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.bercher-schmidt.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A33%3A46.284Z'}, {'domain': '.bercher-schmidt.de', 'expiry': 1645644826, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.bercher-schmidt.de', 'expiry': 1675971226, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%7D'}, {'domain': 'bercher-schmidt.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.bercher-schmidt.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '16c2c95e-1b86-4d7e-81f4-6f9b17b785d8'}, {'domain': 'bercher-schmidt.de', 'expiry': 1645644828, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'bercher-schmidt.de', 'expiry': 1645644828, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.bercher-schmidt.de', 'expiry': 1675971226, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.bercher-schmidt.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ca8ae206-7247-4931-947d-cf63d17d2976'}, {'domain': '.bercher-schmidt.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A33%3A46.294Z'}, {'domain': '.bercher-schmidt.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.bercher-schmidt.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '16c2c95e-1b86-4d7e-81f4-6f9b17b785d8'}, {'domain': '.bercher-schmidt.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.bercher-schmidt.de', 'expiry': 1644437028, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.bercher-schmidt.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ca8ae206-7247-4931-947d-cf63d17d2976'}, {'domain': 'bercher-schmidt.de', 'httpOnly': False, 'name': 'locale_bar_accepted', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'bercher-schmidt.de', 'expiry': 1675971228, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: shopify_pay_redirect
+[Before] Cookie-Name 2: _shopify_sa_p
+[Before] Cookie-Name 3: _shopify_evids
+[Before] Cookie-Name 4: _shopify_d
+[Before] Cookie-Name 5: _shopify_tw
+[Before] Cookie-Name 6: _tracking_consent
+[Before] Cookie-Name 7: _shopify_evids
+[Before] Cookie-Name 8: _s
+[Before] Cookie-Name 9: localization
+[Before] Cookie-Name 10: cart_currency
+[Before] Cookie-Name 11: _shopify_m
+[Before] Cookie-Name 12: _shopify_y
+[Before] Cookie-Name 13: _shopify_sa_t
+[Before] Cookie-Name 14: _orig_referrer
+[Before] Cookie-Name 15: _shopify_s
+[Before] Cookie-Name 16: _landing_page
+[Before] Cookie-Name 17: _shopify_tm
+[Before] Cookie-Name 18: _y
+[Before] Cookie-Name 19: locale_bar_accepted
+[Before] Cookie-Name 20: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 27
+[After] Website-Cookies: [{'domain': '.bercher-schmidt.de', 'expiry': 1675971243, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%221%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%7D'}, {'domain': 'bercher-schmidt.de', 'expiry': 1675971243, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'bercher-schmidt.de', 'expiry': 1645644843, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644435243'}, {'domain': 'bercher-schmidt.de', 'expiry': 1652207643, 'httpOnly': False, 'name': 'cookieoptimizer_details', 'path': '/', 'secure': False, 'value': '{"consentDate":1644435243287,"user":"1a512d8c-d46b-4e25-a974-2cde8ee2ab1d","expireDays":90,"consent":"allow"}'}, {'domain': 'bercher-schmidt.de', 'expiry': 1644438827, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.bercher-schmidt.de', 'expiry': 1644437043, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'bercher-schmidt.de', 'expiry': 1645644843, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.bercher-schmidt.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.bercher-schmidt.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A33%3A46.284Z'}, {'domain': 'bercher-schmidt.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'bercher-schmidt.de', 'expiry': 1652207643, 'httpOnly': False, 'name': 'cookieoptimizer_consent', 'path': '/', 'secure': False, 'value': 'allow'}, {'domain': '.bercher-schmidt.de', 'expiry': 1644437043, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '16c2c95e-1b86-4d7e-81f4-6f9b17b785d8'}, {'domain': 'bercher-schmidt.de', 'expiry': 1645644843, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4f1f687e83ea1e0bb05cae127cd11868'}, {'domain': '.bercher-schmidt.de', 'expiry': 1675971243, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': 'bercher-schmidt.de', 'expiry': 1645644843, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.bercher-schmidt.de', 'expiry': 1675971243, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ca8ae206-7247-4931-947d-cf63d17d2976'}, {'domain': 'bercher-schmidt.de', 'expiry': 1645644843, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '847d9fb4d86759f5aaedde8aa011f573'}, {'domain': 'bercher-schmidt.de', 'expiry': 1645644843, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': '.bercher-schmidt.de', 'expiry': 1644437043, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A33%3A46.294Z'}, {'domain': '.bercher-schmidt.de', 'expiry': 1645644843, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.bercher-schmidt.de', 'expiry': 1645644826, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.bercher-schmidt.de', 'expiry': 1644437043, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.bercher-schmidt.de', 'expiry': 1644437043, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '16c2c95e-1b86-4d7e-81f4-6f9b17b785d8'}, {'domain': '.bercher-schmidt.de', 'expiry': 1652211243, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1189761066.1644435244'}, {'domain': '.bercher-schmidt.de', 'expiry': 1645644843, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.bercher-schmidt.de', 'expiry': 1675971243, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ca8ae206-7247-4931-947d-cf63d17d2976'}, {'domain': 'bercher-schmidt.de', 'httpOnly': False, 'name': 'locale_bar_accepted', 'path': '/', 'secure': False, 'value': '1'}]
+[After] Cookie-Name 1: _tracking_consent
+[After] Cookie-Name 2: secure_customer_sig
+[After] Cookie-Name 3: cart_ts
+[After] Cookie-Name 4: cookieoptimizer_details
+[After] Cookie-Name 5: shopify_pay_redirect
+[After] Cookie-Name 6: _shopify_sa_p
+[After] Cookie-Name 7: localization
+[After] Cookie-Name 8: _shopify_evids
+[After] Cookie-Name 9: _shopify_d
+[After] Cookie-Name 10: _shopify_evids
+[After] Cookie-Name 11: cookieoptimizer_consent
+[After] Cookie-Name 12: _s
+[After] Cookie-Name 13: cart_sig
+[After] Cookie-Name 14: _shopify_m
+[After] Cookie-Name 15: cart_currency
+[After] Cookie-Name 16: _shopify_y
+[After] Cookie-Name 17: cart
+[After] Cookie-Name 18: cart_ver
+[After] Cookie-Name 19: _shopify_sa_t
+[After] Cookie-Name 20: _orig_referrer
+[After] Cookie-Name 21: _shopify_tw
+[After] Cookie-Name 22: _shopify_tm
+[After] Cookie-Name 23: _shopify_s
+[After] Cookie-Name 24: _gcl_au
+[After] Cookie-Name 25: _landing_page
+[After] Cookie-Name 26: _y
+[After] Cookie-Name 27: locale_bar_accepted
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 7
+[Difference] Cookie-Name: 1: cart_ver
+[Difference] Cookie-Name: 2: cookieoptimizer_consent
+[Difference] Cookie-Name: 3: cart_sig
+[Difference] Cookie-Name: 4: cart_ts
+[Difference] Cookie-Name: 5: _gcl_au
+[Difference] Cookie-Name: 6: cart
+[Difference] Cookie-Name: 7: cookieoptimizer_details
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

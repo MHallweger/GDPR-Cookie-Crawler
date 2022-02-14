@@ -1,0 +1,84 @@
+Website 58: http://www.palmtreat.design/ | Created: 09.02.2022 14:00:07 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 22
+[Before] Website-Cookies: [{'domain': 'palmtreat.design', 'expiry': 1645621200, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'gcp-us-central1%3A2'}, {'domain': 'palmtreat.design', 'expiry': 1645621200, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'f507a4fa2116782b1f45d06096df5e48'}, {'domain': 'palmtreat.design', 'expiry': 1645621200, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'e2de2c900db3ff5cd4ef96fe82a86c1c'}, {'domain': '.palmtreat.design', 'expiry': 1652187597, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644411597133.2093230423'}, {'domain': '.palmtreat.design', 'expiry': 1652187596, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1065946842.1644411597'}, {'domain': '.palmtreat.design', 'expiry': 1644411656, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.palmtreat.design', 'expiry': 1644413396, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.palmtreat.design', 'expiry': 1644497996, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1863718001.1644411597'}, {'domain': '.palmtreat.design', 'expiry': 1644413396, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T12%3A59%3A56.873Z'}, {'domain': '.palmtreat.design', 'expiry': 1644413400, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5fc07bc0-2932-4be5-8870-264f4383fc52'}, {'domain': 'palmtreat.design', 'expiry': 1645621200, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1644411600'}, {'domain': '.palmtreat.design', 'expiry': 1678598294, 'httpOnly': False, 'name': '_scid', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '2772b5a4-5b15-4769-8fe3-5ea8ad8a9ab7'}, {'domain': '.palmtreat.design', 'expiry': 1675947600, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '28c505ac-3fc3-4e8a-9438-4911ed58d745'}, {'domain': '.palmtreat.design', 'expiry': 1675947600, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '28c505ac-3fc3-4e8a-9438-4911ed58d745'}, {'domain': '.palmtreat.design', 'expiry': 1645621194, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.palmtreat.design', 'expiry': 1645621194, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'palmtreat.design', 'expiry': 1644415195, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'palmtreat.design', 'expiry': 1675947600, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'palmtreat.design', 'expiry': 1645621200, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'USD'}, {'domain': '.palmtreat.design', 'expiry': 1644413400, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5fc07bc0-2932-4be5-8870-264f4383fc52'}, {'domain': '.palmtreat.design', 'expiry': 1707483596, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.2113737954.1644411597'}, {'domain': 'palmtreat.design', 'expiry': 1645621200, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'US'}]
+[Before] Cookie-Name 1: cart_ver
+[Before] Cookie-Name 2: cart_sig
+[Before] Cookie-Name 3: cart
+[Before] Cookie-Name 4: _fbp
+[Before] Cookie-Name 5: _gcl_au
+[Before] Cookie-Name 6: _gat
+[Before] Cookie-Name 7: _shopify_sa_p
+[Before] Cookie-Name 8: _gid
+[Before] Cookie-Name 9: _shopify_sa_t
+[Before] Cookie-Name 10: _shopify_s
+[Before] Cookie-Name 11: cart_ts
+[Before] Cookie-Name 12: _scid
+[Before] Cookie-Name 13: _shopify_y
+[Before] Cookie-Name 14: _y
+[Before] Cookie-Name 15: _orig_referrer
+[Before] Cookie-Name 16: _landing_page
+[Before] Cookie-Name 17: shopify_pay_redirect
+[Before] Cookie-Name 18: secure_customer_sig
+[Before] Cookie-Name 19: cart_currency
+[Before] Cookie-Name 20: _s
+[Before] Cookie-Name 21: _ga
+[Before] Cookie-Name 22: localization
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 26
+[After] Website-Cookies: [{'domain': '.palmtreat.design', 'expiry': 1675969213, 'httpOnly': False, 'name': '__adroll_fpc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7a25e7dae1c6779775e359c4898a723d-1644411613060'}, {'domain': '.palmtreat.design', 'expiry': 1675947613, 'httpOnly': False, 'name': '__adroll_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'CPUJUyiPUJUyiAAACBDEAJCv_____3___yiQAQwAYAAgBCAEMAGAAIAQgAA%23GSS5PY2LGFBPHKBKV73AZD'}, {'domain': 'palmtreat.design', 'expiry': 1645621200, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1644411600'}, {'domain': '.palmtreat.design', 'httpOnly': False, 'name': '__adroll_consent_params', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '_l%3Dde%26_c%3D1%26_v%3D9%26_tcf%3D2%26iab%3D2%26_e%3Ddeferred_consent%26_s%3Dd349eb3510104b184c79d2c5e0787ae3%26_b%3D2.1%26_a%3DGSS5PY2LGFBPHKBKV73AZD'}, {'domain': '.palmtreat.design', 'expiry': 1644413396, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'palmtreat.design', 'expiry': 1645621200, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'gcp-us-central1%3A2'}, {'domain': 'palmtreat.design', 'expiry': 1645621200, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'f507a4fa2116782b1f45d06096df5e48'}, {'domain': '.palmtreat.design', 'expiry': 1675947613, 'httpOnly': False, 'name': '__ar_v4', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7CGSS5PY2LGFBPHKBKV73AZD%3A20220211%3A1%7CAUUXAH6Z7JCW7FTQNQDPVC%3A20220211%3A1'}, {'domain': 'palmtreat.design', 'expiry': 1645621200, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'e2de2c900db3ff5cd4ef96fe82a86c1c'}, {'domain': '.palmtreat.design', 'expiry': 1652187613, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644411597133.2093230423'}, {'domain': '.palmtreat.design', 'expiry': 1652187596, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1065946842.1644411597'}, {'domain': '.palmtreat.design', 'expiry': 1644411656, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.palmtreat.design', 'expiry': 1644497996, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1863718001.1644411597'}, {'domain': '.palmtreat.design', 'expiry': 1644413396, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T12%3A59%3A56.873Z'}, {'domain': '.palmtreat.design', 'expiry': 1644413400, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5fc07bc0-2932-4be5-8870-264f4383fc52'}, {'domain': '.palmtreat.design', 'expiry': 1678598294, 'httpOnly': False, 'name': '_scid', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '2772b5a4-5b15-4769-8fe3-5ea8ad8a9ab7'}, {'domain': '.palmtreat.design', 'expiry': 1675947600, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '28c505ac-3fc3-4e8a-9438-4911ed58d745'}, {'domain': '.palmtreat.design', 'expiry': 1675947600, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '28c505ac-3fc3-4e8a-9438-4911ed58d745'}, {'domain': '.palmtreat.design', 'expiry': 1645621194, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.palmtreat.design', 'expiry': 1645621194, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'palmtreat.design', 'expiry': 1644415195, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'palmtreat.design', 'expiry': 1675947600, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'palmtreat.design', 'expiry': 1645621200, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'USD'}, {'domain': '.palmtreat.design', 'expiry': 1644413400, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5fc07bc0-2932-4be5-8870-264f4383fc52'}, {'domain': '.palmtreat.design', 'expiry': 1707483596, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.2113737954.1644411597'}, {'domain': 'palmtreat.design', 'expiry': 1645621200, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'US'}]
+[After] Cookie-Name 1: __adroll_fpc
+[After] Cookie-Name 2: __adroll_consent
+[After] Cookie-Name 3: cart_ts
+[After] Cookie-Name 4: __adroll_consent_params
+[After] Cookie-Name 5: _shopify_sa_p
+[After] Cookie-Name 6: cart_ver
+[After] Cookie-Name 7: cart_sig
+[After] Cookie-Name 8: __ar_v4
+[After] Cookie-Name 9: cart
+[After] Cookie-Name 10: _fbp
+[After] Cookie-Name 11: _gcl_au
+[After] Cookie-Name 12: _gat
+[After] Cookie-Name 13: _gid
+[After] Cookie-Name 14: _shopify_sa_t
+[After] Cookie-Name 15: _shopify_s
+[After] Cookie-Name 16: _scid
+[After] Cookie-Name 17: _shopify_y
+[After] Cookie-Name 18: _y
+[After] Cookie-Name 19: _orig_referrer
+[After] Cookie-Name 20: _landing_page
+[After] Cookie-Name 21: shopify_pay_redirect
+[After] Cookie-Name 22: secure_customer_sig
+[After] Cookie-Name 23: cart_currency
+[After] Cookie-Name 24: _s
+[After] Cookie-Name 25: _ga
+[After] Cookie-Name 26: localization
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 4
+[Difference] Cookie-Name: 1: __ar_v4
+[Difference] Cookie-Name: 2: __adroll_consent
+[Difference] Cookie-Name: 3: __adroll_consent_params
+[Difference] Cookie-Name: 4: __adroll_fpc
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

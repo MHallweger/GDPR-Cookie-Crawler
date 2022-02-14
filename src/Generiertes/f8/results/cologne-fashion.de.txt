@@ -1,0 +1,85 @@
+Website 114: http://www.cologne-fashion.de/ | Created: 10.02.2022 20:31:00 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 8
+[Before] Website-Cookies: [{'domain': '.cologne-fashion.de', 'expiry': 1676057450, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.cologne-fashion.de', 'expiry': 1644523253, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.cologne-fashion.de', 'expiry': 1676057450, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%7D'}, {'domain': 'cologne-fashion.de', 'expiry': 1645731053, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.cologne-fashion.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.cologne-fashion.de', 'expiry': 1645731050, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.cologne-fashion.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'cologne-fashion.de', 'expiry': 1676057453, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _shopify_m
+[Before] Cookie-Name 2: _shopify_tm
+[Before] Cookie-Name 3: _tracking_consent
+[Before] Cookie-Name 4: cart_currency
+[Before] Cookie-Name 5: _landing_page
+[Before] Cookie-Name 6: _shopify_tw
+[Before] Cookie-Name 7: _orig_referrer
+[Before] Cookie-Name 8: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 32
+[After] Website-Cookies: [{'domain': '.cologne-fashion.de', 'expiry': 1652297467, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644521467083.336858423'}, {'domain': '.cologne-fashion.de', 'expiry': 1676057466, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU56YzFZbVU0WW1VdFpUazFaUzAwTUdSakxXSmtaVEF0WlRJNU9UQmpaRFF4TkdRMg'}, {'domain': '.cologne-fashion.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.cologne-fashion.de', 'expiry': 1676057466, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22con%22%3A%7B%22CCPA%22%3A%221%22%2C%22GDPR%22%3A%22%22%7D%2C%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': 'cologne-fashion.de', 'expiry': 1645731066, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '237f387636ea3f98315c379e0f5e5131'}, {'domain': '.cologne-fashion.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd8c89dbb-52c0-4ed7-bb94-f564b386a5be'}, {'domain': '.cologne-fashion.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9d9d9021-cc88-4283-a986-29eeddf2995d'}, {'domain': '.cologne-fashion.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd8c89dbb-52c0-4ed7-bb94-f564b386a5be'}, {'domain': '.cologne-fashion.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T19%3A30%3A51.402Z'}, {'domain': 'cologne-fashion.de', 'expiry': 1645731066, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6a3f1895affe0c5ff5f935360a8ae914'}, {'domain': 'cologne-fashion.de', 'expiry': 1645731066, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644521466'}, {'domain': 'cologne-fashion.de', 'expiry': 1676057466, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'cologne-fashion.de', 'expiry': 1647113466, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0NTIxNDY2MjE3LCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjowfX0='}, {'domain': 'cologne-fashion.de', 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'pending'}, {'domain': 'cologne-fashion.de', 'httpOnly': False, 'name': '_goo_Fg3ld', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'edd4cHidhs34fd4sd5546sdfnslkj'}, {'domain': '.cologne-fashion.de', 'expiry': 1676057466, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': 'cologne-fashion.de', 'expiry': 1644523266, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T19%3A30%3A51.402Z'}, {'domain': 'cologne-fashion.de', 'expiry': 1676057466, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9d9d9021-cc88-4283-a986-29eeddf2995d'}, {'domain': 'cologne-fashion.de', 'expiry': 1645731066, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': 'cologne-fashion.de', 'expiry': 1644523266, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd8c89dbb-52c0-4ed7-bb94-f564b386a5be'}, {'domain': '.cologne-fashion.de', 'expiry': 1645731050, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'cologne-fashion.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'cologne-fashion.de', 'expiry': 1676057466, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9d9d9021-cc88-4283-a986-29eeddf2995d'}, {'domain': '.cologne-fashion.de', 'expiry': 1645731066, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'cologne-fashion.de', 'expiry': 1644523266, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd8c89dbb-52c0-4ed7-bb94-f564b386a5be'}, {'domain': 'cologne-fashion.de', 'expiry': 1645731066, 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T19%3A30%3A51.396Z'}, {'domain': 'cologne-fashion.de', 'expiry': 1645731066, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'cologne-fashion.de', 'expiry': 1645731066, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.cologne-fashion.de', 'expiry': 1645731066, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'cologne-fashion.de', 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ1MjE0NTIsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vY29sb2duZS1mYXNoaW9uLmRlLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDUyMTQ1MiwidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly9jb2xvZ25lLWZhc2hpb24uZGUvIn19'}, {'domain': '.cologne-fashion.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9d9d9021-cc88-4283-a986-29eeddf2995d'}, {'domain': '.cologne-fashion.de', 'expiry': 1644523266, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: _fbp
+[After] Cookie-Name 2: _pin_unauth
+[After] Cookie-Name 3: _shopify_evids
+[After] Cookie-Name 4: _tracking_consent
+[After] Cookie-Name 5: cart
+[After] Cookie-Name 6: _shopify_s
+[After] Cookie-Name 7: _shopify_y
+[After] Cookie-Name 8: _s
+[After] Cookie-Name 9: _shopify_sa_t
+[After] Cookie-Name 10: cart_sig
+[After] Cookie-Name 11: cart_ts
+[After] Cookie-Name 12: secure_customer_sig
+[After] Cookie-Name 13: _bc_c_set
+[After] Cookie-Name 14: shopify_pay_redirect
+[After] Cookie-Name 15: _goo_Fg3ld
+[After] Cookie-Name 16: _shopify_m
+[After] Cookie-Name 17: _shopify_sa_t
+[After] Cookie-Name 18: _y
+[After] Cookie-Name 19: cart_ver
+[After] Cookie-Name 20: _shopify_s
+[After] Cookie-Name 21: _shopify_tw
+[After] Cookie-Name 22: _shopify_evids
+[After] Cookie-Name 23: _shopify_y
+[After] Cookie-Name 24: _landing_page
+[After] Cookie-Name 25: _s
+[After] Cookie-Name 26: _shopify_d
+[After] Cookie-Name 27: cart_currency
+[After] Cookie-Name 28: localization
+[After] Cookie-Name 29: _orig_referrer
+[After] Cookie-Name 30: __kla_id
+[After] Cookie-Name 31: _y
+[After] Cookie-Name 32: _shopify_tm
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 18
+[Difference] Cookie-Name: 1: _goo_Fg3ld
+[Difference] Cookie-Name: 2: cart
+[Difference] Cookie-Name: 3: _fbp
+[Difference] Cookie-Name: 4: cart_sig
+[Difference] Cookie-Name: 5: _shopify_y
+[Difference] Cookie-Name: 6: _shopify_s
+[Difference] Cookie-Name: 7: _pin_unauth
+[Difference] Cookie-Name: 8: cart_ts
+[Difference] Cookie-Name: 9: _shopify_evids
+[Difference] Cookie-Name: 10: localization
+[Difference] Cookie-Name: 11: cart_ver
+[Difference] Cookie-Name: 12: _shopify_sa_t
+[Difference] Cookie-Name: 13: _y
+[Difference] Cookie-Name: 14: __kla_id
+[Difference] Cookie-Name: 15: _shopify_d
+[Difference] Cookie-Name: 16: _bc_c_set
+[Difference] Cookie-Name: 17: _s
+[Difference] Cookie-Name: 18: shopify_pay_redirect
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

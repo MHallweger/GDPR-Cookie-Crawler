@@ -1,0 +1,86 @@
+Website 87: http://www.orthomechanik.de/ | Created: 09.02.2022 19:59:35 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 25
+[Before] Website-Cookies: [{'domain': 'orthomechanik.de', 'expiry': 1675969176, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': ''}, {'domain': '.orthomechanik.de', 'expiry': 1644434976, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'wyM9QbzVPmzApv-20220209185936'}, {'domain': '.orthomechanik.de', 'expiry': 1652209175, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.338864013.1644433176'}, {'domain': '.orthomechanik.de', 'expiry': 1644519575, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': '6c5d11a089da11eca0dd05b7edbf3177'}, {'domain': '.orthomechanik.de', 'expiry': 1678129175, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '6c5d1d1089da11ecac76b912a0712616'}, {'domain': '.orthomechanik.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220209185936-7CG9gLZI7RZJG0utscmbjQNrwVKrGst6YDzU1151d09PAyHs7'}, {'domain': '.orthomechanik.de', 'expiry': 1675969165, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU1XVmpNamN3WXpBdE1HRm1ZUzAwTkdVMUxXRTNaVGd0T1dKak9UaGpaamswT0RaaA'}, {'domain': '.orthomechanik.de', 'expiry': 1644519565, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.185231623.1644433165'}, {'domain': '.orthomechanik.de', 'expiry': 1644434964, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.orthomechanik.de', 'expiry': 1644434964, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T18%3A59%3A24.905Z'}, {'domain': '.orthomechanik.de', 'expiry': 1644434977, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '139408ee-4d38-4973-8d50-0946bda1346d'}, {'domain': 'orthomechanik.de', 'expiry': 1707505176, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MzMxNzcsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vb3J0aG9tZWNoYW5pay5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQ0MzMxNzcsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vb3J0aG9tZWNoYW5pay5kZS8ifX0='}, {'domain': '.orthomechanik.de', 'expiry': 1644434977, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '139408ee-4d38-4973-8d50-0946bda1346d'}, {'domain': '.orthomechanik.de', 'expiry': 1675969177, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd039896a-4987-47df-9bee-faa5fe9b16d0'}, {'domain': '.orthomechanik.de', 'expiry': 1707505165, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.680380425.1644433165'}, {'domain': '.orthomechanik.de', 'httpOnly': False, 'name': 'soundest-views', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'orthomechanik.de', 'expiry': 1645642777, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'orthomechanik.de', 'expiry': 1645642777, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.orthomechanik.de', 'expiry': 1675969177, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd039896a-4987-47df-9bee-faa5fe9b16d0'}, {'domain': '.orthomechanik.de', 'expiry': 1675969176, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'gniFApo4N4xIcC-20220209185936'}, {'domain': '.orthomechanik.de', 'expiry': 1645642764, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'orthomechanik.de', 'expiry': 1675969177, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.orthomechanik.de', 'expiry': 1645642764, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.orthomechanik.de', 'expiry': 1652209165, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644433165197.1579841198'}, {'domain': '.orthomechanik.de', 'expiry': 1644433225, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}]
+[Before] Cookie-Name 1: cookieconsent_preferences_disabled
+[Before] Cookie-Name 2: omnisendSessionID
+[Before] Cookie-Name 3: _gcl_au
+[Before] Cookie-Name 4: _uetsid
+[Before] Cookie-Name 5: _uetvid
+[Before] Cookie-Name 6: soundestID
+[Before] Cookie-Name 7: _pin_unauth
+[Before] Cookie-Name 8: _gid
+[Before] Cookie-Name 9: _shopify_sa_p
+[Before] Cookie-Name 10: _shopify_sa_t
+[Before] Cookie-Name 11: _s
+[Before] Cookie-Name 12: __kla_id
+[Before] Cookie-Name 13: _shopify_s
+[Before] Cookie-Name 14: _y
+[Before] Cookie-Name 15: _ga
+[Before] Cookie-Name 16: soundest-views
+[Before] Cookie-Name 17: cart_currency
+[Before] Cookie-Name 18: localization
+[Before] Cookie-Name 19: _shopify_y
+[Before] Cookie-Name 20: omnisendAnonymousID
+[Before] Cookie-Name 21: _orig_referrer
+[Before] Cookie-Name 22: secure_customer_sig
+[Before] Cookie-Name 23: _landing_page
+[Before] Cookie-Name 24: _fbp
+[Before] Cookie-Name 25: _gat
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 26
+[After] Website-Cookies: [{'domain': 'orthomechanik.de', 'expiry': 1675969180, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': ''}, {'domain': '.orthomechanik.de', 'expiry': 1644434976, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'wyM9QbzVPmzApv-20220209185936'}, {'domain': '.orthomechanik.de', 'expiry': 1652209175, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.338864013.1644433176'}, {'domain': '.orthomechanik.de', 'expiry': 1644519575, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': '6c5d11a089da11eca0dd05b7edbf3177'}, {'domain': '.orthomechanik.de', 'expiry': 1678129175, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '6c5d1d1089da11ecac76b912a0712616'}, {'domain': '.orthomechanik.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220209185936-7CG9gLZI7RZJG0utscmbjQNrwVKrGst6YDzU1151d09PAyHs7'}, {'domain': '.orthomechanik.de', 'expiry': 1675969165, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU1XVmpNamN3WXpBdE1HRm1ZUzAwTkdVMUxXRTNaVGd0T1dKak9UaGpaamswT0RaaA'}, {'domain': '.orthomechanik.de', 'expiry': 1644519565, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.185231623.1644433165'}, {'domain': '.orthomechanik.de', 'expiry': 1644434964, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.orthomechanik.de', 'expiry': 1644434964, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T18%3A59%3A24.905Z'}, {'domain': '.orthomechanik.de', 'expiry': 1644434977, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '139408ee-4d38-4973-8d50-0946bda1346d'}, {'domain': 'orthomechanik.de', 'expiry': 1707505176, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MzMxNzcsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vb3J0aG9tZWNoYW5pay5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQ0MzMxNzcsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vb3J0aG9tZWNoYW5pay5kZS8ifX0='}, {'domain': 'orthomechanik.de', 'expiry': 1675969180, 'httpOnly': False, 'name': 'cookieconsent_status', 'path': '/', 'secure': False, 'value': 'allow'}, {'domain': '.orthomechanik.de', 'expiry': 1644434977, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '139408ee-4d38-4973-8d50-0946bda1346d'}, {'domain': '.orthomechanik.de', 'expiry': 1675969177, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd039896a-4987-47df-9bee-faa5fe9b16d0'}, {'domain': '.orthomechanik.de', 'expiry': 1707505165, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.680380425.1644433165'}, {'domain': '.orthomechanik.de', 'httpOnly': False, 'name': 'soundest-views', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'orthomechanik.de', 'expiry': 1645642777, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'orthomechanik.de', 'expiry': 1645642777, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.orthomechanik.de', 'expiry': 1675969177, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd039896a-4987-47df-9bee-faa5fe9b16d0'}, {'domain': '.orthomechanik.de', 'expiry': 1675969176, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'gniFApo4N4xIcC-20220209185936'}, {'domain': '.orthomechanik.de', 'expiry': 1645642764, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'orthomechanik.de', 'expiry': 1675969177, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.orthomechanik.de', 'expiry': 1645642764, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.orthomechanik.de', 'expiry': 1652209180, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644433165197.1579841198'}, {'domain': '.orthomechanik.de', 'expiry': 1644433225, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}]
+[After] Cookie-Name 1: cookieconsent_preferences_disabled
+[After] Cookie-Name 2: omnisendSessionID
+[After] Cookie-Name 3: _gcl_au
+[After] Cookie-Name 4: _uetsid
+[After] Cookie-Name 5: _uetvid
+[After] Cookie-Name 6: soundestID
+[After] Cookie-Name 7: _pin_unauth
+[After] Cookie-Name 8: _gid
+[After] Cookie-Name 9: _shopify_sa_p
+[After] Cookie-Name 10: _shopify_sa_t
+[After] Cookie-Name 11: _s
+[After] Cookie-Name 12: __kla_id
+[After] Cookie-Name 13: cookieconsent_status
+[After] Cookie-Name 14: _shopify_s
+[After] Cookie-Name 15: _y
+[After] Cookie-Name 16: _ga
+[After] Cookie-Name 17: soundest-views
+[After] Cookie-Name 18: cart_currency
+[After] Cookie-Name 19: localization
+[After] Cookie-Name 20: _shopify_y
+[After] Cookie-Name 21: omnisendAnonymousID
+[After] Cookie-Name 22: _orig_referrer
+[After] Cookie-Name 23: secure_customer_sig
+[After] Cookie-Name 24: _landing_page
+[After] Cookie-Name 25: _fbp
+[After] Cookie-Name 26: _gat
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gat (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: cookieconsent_status
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

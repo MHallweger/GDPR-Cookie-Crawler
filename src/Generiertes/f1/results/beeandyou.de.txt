@@ -1,0 +1,114 @@
+Website 60: http://www.beeandyou.de/ | Created: 08.02.2022 21:57:48 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 38
+[Before] Website-Cookies: [{'domain': '.beeandyou.de', 'httpOnly': False, 'name': 'soundest-views', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.beeandyou.de', 'expiry': 1678517858, 'httpOnly': False, 'name': 'cto_bundle', 'path': '/', 'secure': False, 'value': 'PNxMCF94TFhNTEF0RDcyOE5BM01IZ3g3R05IREs3JTJGMTBiUWQ2SWRaZkV6RkI0SEZFUURmSyUyRlQwc3FjOFJOZFhRNUx1d201eFh4dkhweVB5MCUyQiUyQmV2OU5xSWJVd1I3QTh6SzFDcDBEaVdNRWxKcHJtbVRWZTFzZGtQYzd5YyUyQiUyQnRxa1V4R1B0Zk1GYWdXaXM3WXg0dTJSN3g2WVElM0QlM0Q'}, {'domain': '.beeandyou.de', 'expiry': 1644355658, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'dBT9jiMZNrwzi7-20220208205737'}, {'domain': '.beeandyou.de', 'expiry': 1675889858, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'a1vrHEKBcvxPMr-20220208205737'}, {'domain': 'beeandyou.de', 'expiry': 1675889856, 'httpOnly': False, 'name': 'zc_tp', 'path': '/', 'secure': False, 'value': '3z0f1a3d3df694f19144cf93d5b76650cf10ea0a133a949f3467700b32569a74c9'}, {'domain': 'beeandyou.de', 'expiry': 1675889856, 'httpOnly': False, 'name': 'zc_cu', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '3zaaf3b6aa2befcc96a81e347ef68392bc-v3z0f1a3d3df694f19144cf93d5b76650cf6eb89bc707ad341ed29d96c3e7c1cc02'}, {'domain': 'beeandyou.de', 'expiry': 1675889856, 'httpOnly': False, 'name': 'zc_cu_exp', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1644384457000,1'}, {'domain': '.beeandyou.de', 'expiry': 1644355654, 'httpOnly': False, 'name': '_ju_pn', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.beeandyou.de', 'expiry': 1646945856, 'httpOnly': False, 'name': '_ju_dn', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.beeandyou.de', 'expiry': 1644440256, 'httpOnly': False, 'name': '_ju_dm', 'path': '/', 'secure': False, 'value': 'cookie'}, {'domain': 'beeandyou.de', 'expiry': 1675889856, 'httpOnly': False, 'name': 'zc_consent', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1'}, {'domain': 'beeandyou.de', 'expiry': 1644355652, 'httpOnly': False, 'name': '_ju_v', 'path': '/', 'secure': True, 'value': '4.1_5.05'}, {'domain': '.beeandyou.de', 'expiry': 1645563454, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.beeandyou.de', 'expiry': 1644355655, 'httpOnly': False, 'name': '_hjSession_1298542', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjM2YjBjMmU2LTI4YjEtNGMyOS1iZTdkLTkxYmFiMzZjZmJjMSIsImNyZWF0ZWQiOjE2NDQzNTM4NTU4MTUsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': '.beeandyou.de', 'expiry': 1644355655, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'beeandyou.de', 'expiry': 1644353975, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.beeandyou.de', 'expiry': 1675889855, 'httpOnly': False, 'name': '_hjSessionUser_1298542', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjVjZmNmY2UyLWNlZWEtNWExMi04ZWEyLTcwMmQwOTI5OGFjYSIsImNyZWF0ZWQiOjE2NDQzNTM4NTU0MjYsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.beeandyou.de', 'expiry': 1652129856, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644353855563.2112114212'}, {'domain': '.beeandyou.de', 'expiry': 1644440255, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.830589694.1644353855'}, {'domain': 'beeandyou.de', 'expiry': 1644353975, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.beeandyou.de', 'expiry': 1644353915, 'httpOnly': False, 'name': '_gat_UA-139211802-1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.beeandyou.de', 'expiry': 1644355655, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'beeandyou.de', 'expiry': 1675889856, 'httpOnly': False, 'name': 'zc_show', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '0'}, {'domain': '.beeandyou.de', 'expiry': 1675889866, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b3d30cba-a743-4ed9-a1e3-8fe1f56dd3fb'}, {'domain': '.beeandyou.de', 'expiry': 1644355666, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '82cedfb9-01a0-4e08-9a9c-1c8388e32734'}, {'domain': '.beeandyou.de', 'expiry': 1645563454, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.beeandyou.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220208205737-vBT7SoIl8ggd1d9Vn6ZJYxsW2OHSYi6BoAtytOAQw3hKsp20l'}, {'domain': '.beeandyou.de', 'expiry': 1675889866, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b3d30cba-a743-4ed9-a1e3-8fe1f56dd3fb'}, {'domain': '.beeandyou.de', 'expiry': 1707425855, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1847205430.1644353855'}, {'domain': 'beeandyou.de', 'expiry': 1645563466, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.beeandyou.de', 'expiry': 1644355666, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '82cedfb9-01a0-4e08-9a9c-1c8388e32734'}, {'domain': '.beeandyou.de', 'expiry': 1644355655, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': 'beeandyou.de', 'expiry': 1645563466, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.beeandyou.de', 'expiry': 1675889857, 'httpOnly': False, 'name': '_ju_dc', 'path': '/', 'secure': False, 'value': 'bf2cb1f1-8921-11ec-bf50-e10f4e77fe4d'}, {'domain': '.beeandyou.de', 'expiry': 1652129855, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1710097630.1644353855'}, {'domain': 'beeandyou.de', 'expiry': 1644357456, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.beeandyou.de', 'expiry': 1644355655, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T20%3A57%3A35.239Z'}, {'domain': 'beeandyou.de', 'expiry': 1675889866, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: soundest-views
+[Before] Cookie-Name 2: cto_bundle
+[Before] Cookie-Name 3: omnisendSessionID
+[Before] Cookie-Name 4: omnisendAnonymousID
+[Before] Cookie-Name 5: zc_tp
+[Before] Cookie-Name 6: zc_cu
+[Before] Cookie-Name 7: zc_cu_exp
+[Before] Cookie-Name 8: _ju_pn
+[Before] Cookie-Name 9: _ju_dn
+[Before] Cookie-Name 10: _ju_dm
+[Before] Cookie-Name 11: zc_consent
+[Before] Cookie-Name 12: _ju_v
+[Before] Cookie-Name 13: _orig_referrer
+[Before] Cookie-Name 14: _hjSession_1298542
+[Before] Cookie-Name 15: _hjFirstSeen
+[Before] Cookie-Name 16: _hjIncludedInPageviewSample
+[Before] Cookie-Name 17: _hjSessionUser_1298542
+[Before] Cookie-Name 18: _fbp
+[Before] Cookie-Name 19: _gid
+[Before] Cookie-Name 20: _hjIncludedInSessionSample
+[Before] Cookie-Name 21: _gat_UA-139211802-1
+[Before] Cookie-Name 22: _shopify_sa_p
+[Before] Cookie-Name 23: zc_show
+[Before] Cookie-Name 24: _shopify_y
+[Before] Cookie-Name 25: _s
+[Before] Cookie-Name 26: _landing_page
+[Before] Cookie-Name 27: soundestID
+[Before] Cookie-Name 28: _y
+[Before] Cookie-Name 29: _ga
+[Before] Cookie-Name 30: cart_currency
+[Before] Cookie-Name 31: _shopify_s
+[Before] Cookie-Name 32: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 33: localization
+[Before] Cookie-Name 34: _ju_dc
+[Before] Cookie-Name 35: _gcl_au
+[Before] Cookie-Name 36: shopify_pay_redirect
+[Before] Cookie-Name 37: _shopify_sa_t
+[Before] Cookie-Name 38: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 38
+[After] Website-Cookies: [{'domain': '.beeandyou.de', 'httpOnly': False, 'name': 'soundest-views', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.beeandyou.de', 'expiry': 1678517858, 'httpOnly': False, 'name': 'cto_bundle', 'path': '/', 'secure': False, 'value': 'PNxMCF94TFhNTEF0RDcyOE5BM01IZ3g3R05IREs3JTJGMTBiUWQ2SWRaZkV6RkI0SEZFUURmSyUyRlQwc3FjOFJOZFhRNUx1d201eFh4dkhweVB5MCUyQiUyQmV2OU5xSWJVd1I3QTh6SzFDcDBEaVdNRWxKcHJtbVRWZTFzZGtQYzd5YyUyQiUyQnRxa1V4R1B0Zk1GYWdXaXM3WXg0dTJSN3g2WVElM0QlM0Q'}, {'domain': '.beeandyou.de', 'expiry': 1644355658, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'dBT9jiMZNrwzi7-20220208205737'}, {'domain': '.beeandyou.de', 'expiry': 1675889858, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'a1vrHEKBcvxPMr-20220208205737'}, {'domain': 'beeandyou.de', 'expiry': 1675889856, 'httpOnly': False, 'name': 'zc_tp', 'path': '/', 'secure': False, 'value': '3z0f1a3d3df694f19144cf93d5b76650cf10ea0a133a949f3467700b32569a74c9'}, {'domain': 'beeandyou.de', 'expiry': 1675889856, 'httpOnly': False, 'name': 'zc_cu', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '3zaaf3b6aa2befcc96a81e347ef68392bc-v3z0f1a3d3df694f19144cf93d5b76650cf6eb89bc707ad341ed29d96c3e7c1cc02'}, {'domain': 'beeandyou.de', 'expiry': 1675889856, 'httpOnly': False, 'name': 'zc_cu_exp', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1644384457000,1'}, {'domain': '.beeandyou.de', 'expiry': 1644355654, 'httpOnly': False, 'name': '_ju_pn', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.beeandyou.de', 'expiry': 1646945856, 'httpOnly': False, 'name': '_ju_dn', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.beeandyou.de', 'expiry': 1644440256, 'httpOnly': False, 'name': '_ju_dm', 'path': '/', 'secure': False, 'value': 'cookie'}, {'domain': 'beeandyou.de', 'expiry': 1675889856, 'httpOnly': False, 'name': 'zc_consent', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1'}, {'domain': 'beeandyou.de', 'expiry': 1644355652, 'httpOnly': False, 'name': '_ju_v', 'path': '/', 'secure': True, 'value': '4.1_5.05'}, {'domain': '.beeandyou.de', 'expiry': 1645563454, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.beeandyou.de', 'expiry': 1644355655, 'httpOnly': False, 'name': '_hjSession_1298542', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjM2YjBjMmU2LTI4YjEtNGMyOS1iZTdkLTkxYmFiMzZjZmJjMSIsImNyZWF0ZWQiOjE2NDQzNTM4NTU4MTUsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': '.beeandyou.de', 'expiry': 1644355655, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'beeandyou.de', 'expiry': 1644353975, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.beeandyou.de', 'expiry': 1675889855, 'httpOnly': False, 'name': '_hjSessionUser_1298542', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjVjZmNmY2UyLWNlZWEtNWExMi04ZWEyLTcwMmQwOTI5OGFjYSIsImNyZWF0ZWQiOjE2NDQzNTM4NTU0MjYsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.beeandyou.de', 'expiry': 1652129856, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644353855563.2112114212'}, {'domain': '.beeandyou.de', 'expiry': 1644440255, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.830589694.1644353855'}, {'domain': 'beeandyou.de', 'expiry': 1644353975, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.beeandyou.de', 'expiry': 1644353915, 'httpOnly': False, 'name': '_gat_UA-139211802-1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.beeandyou.de', 'expiry': 1644355655, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'beeandyou.de', 'expiry': 1675889856, 'httpOnly': False, 'name': 'zc_show', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '0'}, {'domain': '.beeandyou.de', 'expiry': 1675889866, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b3d30cba-a743-4ed9-a1e3-8fe1f56dd3fb'}, {'domain': '.beeandyou.de', 'expiry': 1644355666, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '82cedfb9-01a0-4e08-9a9c-1c8388e32734'}, {'domain': '.beeandyou.de', 'expiry': 1645563454, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.beeandyou.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220208205737-vBT7SoIl8ggd1d9Vn6ZJYxsW2OHSYi6BoAtytOAQw3hKsp20l'}, {'domain': '.beeandyou.de', 'expiry': 1675889866, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b3d30cba-a743-4ed9-a1e3-8fe1f56dd3fb'}, {'domain': '.beeandyou.de', 'expiry': 1707425855, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1847205430.1644353855'}, {'domain': 'beeandyou.de', 'expiry': 1645563466, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.beeandyou.de', 'expiry': 1644355666, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '82cedfb9-01a0-4e08-9a9c-1c8388e32734'}, {'domain': '.beeandyou.de', 'expiry': 1644355655, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': 'beeandyou.de', 'expiry': 1645563466, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.beeandyou.de', 'expiry': 1675889857, 'httpOnly': False, 'name': '_ju_dc', 'path': '/', 'secure': False, 'value': 'bf2cb1f1-8921-11ec-bf50-e10f4e77fe4d'}, {'domain': '.beeandyou.de', 'expiry': 1652129855, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1710097630.1644353855'}, {'domain': 'beeandyou.de', 'expiry': 1644357456, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.beeandyou.de', 'expiry': 1644355655, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T20%3A57%3A35.239Z'}, {'domain': 'beeandyou.de', 'expiry': 1675889866, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: soundest-views
+[After] Cookie-Name 2: cto_bundle
+[After] Cookie-Name 3: omnisendSessionID
+[After] Cookie-Name 4: omnisendAnonymousID
+[After] Cookie-Name 5: zc_tp
+[After] Cookie-Name 6: zc_cu
+[After] Cookie-Name 7: zc_cu_exp
+[After] Cookie-Name 8: _ju_pn
+[After] Cookie-Name 9: _ju_dn
+[After] Cookie-Name 10: _ju_dm
+[After] Cookie-Name 11: zc_consent
+[After] Cookie-Name 12: _ju_v
+[After] Cookie-Name 13: _orig_referrer
+[After] Cookie-Name 14: _hjSession_1298542
+[After] Cookie-Name 15: _hjFirstSeen
+[After] Cookie-Name 16: _hjIncludedInPageviewSample
+[After] Cookie-Name 17: _hjSessionUser_1298542
+[After] Cookie-Name 18: _fbp
+[After] Cookie-Name 19: _gid
+[After] Cookie-Name 20: _hjIncludedInSessionSample
+[After] Cookie-Name 21: _gat_UA-139211802-1
+[After] Cookie-Name 22: _shopify_sa_p
+[After] Cookie-Name 23: zc_show
+[After] Cookie-Name 24: _shopify_y
+[After] Cookie-Name 25: _s
+[After] Cookie-Name 26: _landing_page
+[After] Cookie-Name 27: soundestID
+[After] Cookie-Name 28: _y
+[After] Cookie-Name 29: _ga
+[After] Cookie-Name 30: cart_currency
+[After] Cookie-Name 31: _shopify_s
+[After] Cookie-Name 32: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 33: localization
+[After] Cookie-Name 34: _ju_dc
+[After] Cookie-Name 35: _gcl_au
+[After] Cookie-Name 36: shopify_pay_redirect
+[After] Cookie-Name 37: _shopify_sa_t
+[After] Cookie-Name 38: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjIncludedInPageviewSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _hjIncludedInSessionSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

@@ -1,0 +1,115 @@
+Website 52: http://www.kanademono.design/ | Created: 09.02.2022 17:21:45 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 40
+[Before] Website-Cookies: [{'domain': 'kanademono.design', 'expiry': 1647015697, 'httpOnly': False, 'name': 'hash_key', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '6203ea113c909814730067bc'}, {'domain': 'kanademono.design', 'expiry': 1644510097, 'httpOnly': False, 'name': '_ssw_cart_data', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'eyJjYXJ0X3Rva2VuIjoiMjE1ODkxYjU4NjY4OWI2ZWM2OGMyMTM2YmEwYjZhZTAifQ%3D%3D'}, {'domain': 'kanademono.design', 'httpOnly': False, 'name': 'hesid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'bd089d60-a83b-4de1-756a-957e599904f9'}, {'domain': '.kanademono.design', 'expiry': 1675959696, 'httpOnly': False, 'name': 'swym-cu_ct', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'undefined'}, {'domain': '.kanademono.design', 'expiry': 1675959696, 'httpOnly': False, 'name': 'swym-email', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'null'}, {'domain': 'kanademono.design', 'expiry': 1644425797, 'httpOnly': False, 'name': 'ssw_visitor', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'ssw_visitor1644423697380'}, {'domain': '.kanademono.design', 'expiry': 1644425496, 'httpOnly': False, 'name': 'swym-o_s', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'true'}, {'domain': '.kanademono.design', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220209162135-fHRz69bfgYbL12WvSHomkytfhKCopejcoHj2VL4M780cWO6Ov'}, {'domain': 'kanademono.design', 'expiry': 1707495695, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MjM2OTUsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8va2FuYWRlbW9uby5kZXNpZ24vIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NDIzNjk1LCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL2thbmFkZW1vbm8uZGVzaWduLyJ9fQ=='}, {'domain': '.kanademono.design', 'expiry': 1675959695, 'httpOnly': False, 'name': 'swym-pid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"zSLCVCgO9tqHj6zAULQaWh9mllyXr2sxE+jlCEN34Xk="'}, {'domain': 'kanademono.design', 'expiry': 1802103695, 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'secure': True, 'value': '7f01f3ba-61d8-42d6-a526-08879417c46d'}, {'domain': 'kanademono.design', 'expiry': 1644425495, 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'secure': True, 'value': '4e70f2f4-cb08-45a4-adab-f5704d1c05da'}, {'domain': 'kanademono.design', 'expiry': 1644425493, 'httpOnly': False, 'name': '_im_ses.1006374', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.kanademono.design', 'expiry': 1644425495, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'FrCmtUzF2k9y6H-20220209162135'}, {'domain': '.kanademono.design', 'expiry': 1644425492, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T16%3A21%3A32.013Z'}, {'domain': '.kanademono.design', 'expiry': 1644425492, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kanademono.design', 'expiry': 1707495692, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.624935768.1644423692'}, {'domain': '.kanademono.design', 'expiry': 1644425492, 'httpOnly': False, 'name': '__lt__sid', 'path': '/', 'secure': False, 'value': '00ece784-745ce88b'}, {'domain': '.kanademono.design', 'expiry': 1645633289, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kanademono.design', 'expiry': 1644425496, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '23e64dea-12d6-4c45-9bce-668ef7eaaaf0'}, {'domain': '.kanademono.design', 'expiry': 1707495692, 'httpOnly': False, 'name': '__lt__cid', 'path': '/', 'secure': False, 'value': '9fdede8b-d391-49f5-a749-7b59af763d3a'}, {'domain': '.kanademono.design', 'expiry': 1675959695, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'TxzSJm7A9km2Z2-20220209162135'}, {'domain': '.kanademono.design', 'expiry': 1652199693, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644423691583.1443865093'}, {'domain': '.kanademono.design', 'expiry': 1644425497, 'httpOnly': False, 'name': 'swym-session-id', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"zbyhjvar058w11lowswr9pqng1saykwe4xprj3qez7c6vbm2dcb4o9q4t3ctplqr"'}, {'domain': '.kanademono.design', 'expiry': 1644424891, 'httpOnly': False, 'name': 'dmSessionID', 'path': '/', 'secure': False, 'value': 'c2cbbc07-3c31-42bf-908f-f6ad89f30709'}, {'domain': '.kanademono.design', 'expiry': 1644423752, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.kanademono.design', 'expiry': 1675959691, 'httpOnly': False, 'name': 'recordID', 'path': '/', 'secure': False, 'value': '702908e7-70c5-4f85-a930-87d38cc12e05'}, {'domain': '.kanademono.design', 'expiry': 1678587691, 'httpOnly': False, 'name': 'cto_bundle', 'path': '/', 'secure': False, 'value': 'RZxvxF9HWm5MS2pRYUclMkJvRHJRN0NlcUNBNjNCbGY3YnJpNyUyQmoybjNqSERlNVZaeFZocmxWQUZ1Y1dDelV5ZVJGbHdaejhiTGEzWHI4dzJaMDdSbm5BYmdhdm9KSGxyY1Vsb2ZuOW5lTHZhTzJXaUx0cmVJbEpadjJ5SG0lMkJWNFRNd3RUSDJtRE42Y3V0QlE3NG1zckJ6JTJGY0lvZyUzRCUzRA'}, {'domain': '.kanademono.design', 'expiry': 1675959696, 'httpOnly': False, 'name': 'swym-swymRegid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"ZUQ1SW6E9s6tjj43UxypE1v4I_BfYmf7li_jqyajGJzPTsSYYoKdmb4J3wg4zZkBMi5oGWNH25WgWuNbd0FlSPW_cctzXUVZ4Asvte6fF-010w7j4J5Owd6tmuahCacQlFPR8LgB2-g7WyjAlPAteIO8GlmEZj-u_FI7GH4HeA4"'}, {'domain': '.kanademono.design', 'expiry': 1652199690, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.2027417578.1644423690'}, {'domain': '.kanademono.design', 'expiry': 1675959696, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'dd974f7b-6f0b-42d5-af1f-117933fcda1a'}, {'domain': '.kanademono.design', 'expiry': 1644510092, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1772969402.1644423692'}, {'domain': '.kanademono.design', 'expiry': 1675959696, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'dd974f7b-6f0b-42d5-af1f-117933fcda1a'}, {'domain': '.kanademono.design', 'expiry': 1644425496, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '23e64dea-12d6-4c45-9bce-668ef7eaaaf0'}, {'domain': 'kanademono.design', 'expiry': 1645633297, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'JPY'}, {'domain': '.kanademono.design', 'expiry': 1645633289, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.kanademono.design', 'expiry': 1707495691, 'httpOnly': False, 'name': '_ts_yjad', 'path': '/', 'secure': False, 'value': '1644423691756'}, {'domain': 'kanademono.design', 'expiry': 1645633296, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'JP'}, {'domain': 'kanademono.design', 'expiry': 1678378893, 'httpOnly': False, 'name': '_im_id.1006374', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8bf1f9f2e3f260ce.1644423693.'}, {'domain': 'kanademono.design', 'expiry': 1675959696, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: hash_key
+[Before] Cookie-Name 2: _ssw_cart_data
+[Before] Cookie-Name 3: hesid
+[Before] Cookie-Name 4: swym-cu_ct
+[Before] Cookie-Name 5: swym-email
+[Before] Cookie-Name 6: ssw_visitor
+[Before] Cookie-Name 7: swym-o_s
+[Before] Cookie-Name 8: soundestID
+[Before] Cookie-Name 9: __kla_id
+[Before] Cookie-Name 10: swym-pid
+[Before] Cookie-Name 11: _shg_user_id
+[Before] Cookie-Name 12: _shg_session_id
+[Before] Cookie-Name 13: _im_ses.1006374
+[Before] Cookie-Name 14: omnisendSessionID
+[Before] Cookie-Name 15: _shopify_sa_t
+[Before] Cookie-Name 16: _shopify_sa_p
+[Before] Cookie-Name 17: _ga
+[Before] Cookie-Name 18: __lt__sid
+[Before] Cookie-Name 19: _orig_referrer
+[Before] Cookie-Name 20: _shopify_s
+[Before] Cookie-Name 21: __lt__cid
+[Before] Cookie-Name 22: omnisendAnonymousID
+[Before] Cookie-Name 23: _fbp
+[Before] Cookie-Name 24: swym-session-id
+[Before] Cookie-Name 25: dmSessionID
+[Before] Cookie-Name 26: _gat
+[Before] Cookie-Name 27: recordID
+[Before] Cookie-Name 28: cto_bundle
+[Before] Cookie-Name 29: swym-swymRegid
+[Before] Cookie-Name 30: _gcl_au
+[Before] Cookie-Name 31: _shopify_y
+[Before] Cookie-Name 32: _gid
+[Before] Cookie-Name 33: _y
+[Before] Cookie-Name 34: _s
+[Before] Cookie-Name 35: cart_currency
+[Before] Cookie-Name 36: _landing_page
+[Before] Cookie-Name 37: _ts_yjad
+[Before] Cookie-Name 38: localization
+[Before] Cookie-Name 39: _im_id.1006374
+[Before] Cookie-Name 40: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 40
+[After] Website-Cookies: [{'domain': 'kanademono.design', 'expiry': 1647015697, 'httpOnly': False, 'name': 'hash_key', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '6203ea113c909814730067bc'}, {'domain': 'kanademono.design', 'expiry': 1644510097, 'httpOnly': False, 'name': '_ssw_cart_data', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'eyJjYXJ0X3Rva2VuIjoiMjE1ODkxYjU4NjY4OWI2ZWM2OGMyMTM2YmEwYjZhZTAifQ%3D%3D'}, {'domain': 'kanademono.design', 'httpOnly': False, 'name': 'hesid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'bd089d60-a83b-4de1-756a-957e599904f9'}, {'domain': '.kanademono.design', 'expiry': 1675959696, 'httpOnly': False, 'name': 'swym-cu_ct', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'undefined'}, {'domain': '.kanademono.design', 'expiry': 1675959696, 'httpOnly': False, 'name': 'swym-email', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'null'}, {'domain': 'kanademono.design', 'expiry': 1644425797, 'httpOnly': False, 'name': 'ssw_visitor', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'ssw_visitor1644423697380'}, {'domain': '.kanademono.design', 'expiry': 1644425496, 'httpOnly': False, 'name': 'swym-o_s', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'true'}, {'domain': '.kanademono.design', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220209162135-fHRz69bfgYbL12WvSHomkytfhKCopejcoHj2VL4M780cWO6Ov'}, {'domain': 'kanademono.design', 'expiry': 1707495695, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MjM2OTUsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8va2FuYWRlbW9uby5kZXNpZ24vIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NDIzNjk1LCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL2thbmFkZW1vbm8uZGVzaWduLyJ9fQ=='}, {'domain': '.kanademono.design', 'expiry': 1675959695, 'httpOnly': False, 'name': 'swym-pid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"zSLCVCgO9tqHj6zAULQaWh9mllyXr2sxE+jlCEN34Xk="'}, {'domain': 'kanademono.design', 'expiry': 1802103695, 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'secure': True, 'value': '7f01f3ba-61d8-42d6-a526-08879417c46d'}, {'domain': 'kanademono.design', 'expiry': 1644425495, 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'secure': True, 'value': '4e70f2f4-cb08-45a4-adab-f5704d1c05da'}, {'domain': 'kanademono.design', 'expiry': 1644425493, 'httpOnly': False, 'name': '_im_ses.1006374', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.kanademono.design', 'expiry': 1644425495, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'FrCmtUzF2k9y6H-20220209162135'}, {'domain': '.kanademono.design', 'expiry': 1644425492, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T16%3A21%3A32.013Z'}, {'domain': '.kanademono.design', 'expiry': 1644425492, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kanademono.design', 'expiry': 1707495692, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.624935768.1644423692'}, {'domain': '.kanademono.design', 'expiry': 1644425492, 'httpOnly': False, 'name': '__lt__sid', 'path': '/', 'secure': False, 'value': '00ece784-745ce88b'}, {'domain': '.kanademono.design', 'expiry': 1645633289, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kanademono.design', 'expiry': 1644425496, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '23e64dea-12d6-4c45-9bce-668ef7eaaaf0'}, {'domain': '.kanademono.design', 'expiry': 1707495692, 'httpOnly': False, 'name': '__lt__cid', 'path': '/', 'secure': False, 'value': '9fdede8b-d391-49f5-a749-7b59af763d3a'}, {'domain': '.kanademono.design', 'expiry': 1675959695, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'TxzSJm7A9km2Z2-20220209162135'}, {'domain': '.kanademono.design', 'expiry': 1652199693, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644423691583.1443865093'}, {'domain': '.kanademono.design', 'expiry': 1644425497, 'httpOnly': False, 'name': 'swym-session-id', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"zbyhjvar058w11lowswr9pqng1saykwe4xprj3qez7c6vbm2dcb4o9q4t3ctplqr"'}, {'domain': '.kanademono.design', 'expiry': 1644424891, 'httpOnly': False, 'name': 'dmSessionID', 'path': '/', 'secure': False, 'value': 'c2cbbc07-3c31-42bf-908f-f6ad89f30709'}, {'domain': '.kanademono.design', 'expiry': 1644423752, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.kanademono.design', 'expiry': 1675959691, 'httpOnly': False, 'name': 'recordID', 'path': '/', 'secure': False, 'value': '702908e7-70c5-4f85-a930-87d38cc12e05'}, {'domain': '.kanademono.design', 'expiry': 1678587691, 'httpOnly': False, 'name': 'cto_bundle', 'path': '/', 'secure': False, 'value': 'RZxvxF9HWm5MS2pRYUclMkJvRHJRN0NlcUNBNjNCbGY3YnJpNyUyQmoybjNqSERlNVZaeFZocmxWQUZ1Y1dDelV5ZVJGbHdaejhiTGEzWHI4dzJaMDdSbm5BYmdhdm9KSGxyY1Vsb2ZuOW5lTHZhTzJXaUx0cmVJbEpadjJ5SG0lMkJWNFRNd3RUSDJtRE42Y3V0QlE3NG1zckJ6JTJGY0lvZyUzRCUzRA'}, {'domain': '.kanademono.design', 'expiry': 1675959696, 'httpOnly': False, 'name': 'swym-swymRegid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"ZUQ1SW6E9s6tjj43UxypE1v4I_BfYmf7li_jqyajGJzPTsSYYoKdmb4J3wg4zZkBMi5oGWNH25WgWuNbd0FlSPW_cctzXUVZ4Asvte6fF-010w7j4J5Owd6tmuahCacQlFPR8LgB2-g7WyjAlPAteIO8GlmEZj-u_FI7GH4HeA4"'}, {'domain': '.kanademono.design', 'expiry': 1652199690, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.2027417578.1644423690'}, {'domain': '.kanademono.design', 'expiry': 1675959696, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'dd974f7b-6f0b-42d5-af1f-117933fcda1a'}, {'domain': '.kanademono.design', 'expiry': 1644510092, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1772969402.1644423692'}, {'domain': '.kanademono.design', 'expiry': 1675959696, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'dd974f7b-6f0b-42d5-af1f-117933fcda1a'}, {'domain': '.kanademono.design', 'expiry': 1644425496, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '23e64dea-12d6-4c45-9bce-668ef7eaaaf0'}, {'domain': 'kanademono.design', 'expiry': 1645633297, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'JPY'}, {'domain': '.kanademono.design', 'expiry': 1645633289, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.kanademono.design', 'expiry': 1707495691, 'httpOnly': False, 'name': '_ts_yjad', 'path': '/', 'secure': False, 'value': '1644423691756'}, {'domain': 'kanademono.design', 'expiry': 1645633296, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'JP'}, {'domain': 'kanademono.design', 'expiry': 1678378893, 'httpOnly': False, 'name': '_im_id.1006374', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8bf1f9f2e3f260ce.1644423693.'}, {'domain': 'kanademono.design', 'expiry': 1675959696, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: hash_key
+[After] Cookie-Name 2: _ssw_cart_data
+[After] Cookie-Name 3: hesid
+[After] Cookie-Name 4: swym-cu_ct
+[After] Cookie-Name 5: swym-email
+[After] Cookie-Name 6: ssw_visitor
+[After] Cookie-Name 7: swym-o_s
+[After] Cookie-Name 8: soundestID
+[After] Cookie-Name 9: __kla_id
+[After] Cookie-Name 10: swym-pid
+[After] Cookie-Name 11: _shg_user_id
+[After] Cookie-Name 12: _shg_session_id
+[After] Cookie-Name 13: _im_ses.1006374
+[After] Cookie-Name 14: omnisendSessionID
+[After] Cookie-Name 15: _shopify_sa_t
+[After] Cookie-Name 16: _shopify_sa_p
+[After] Cookie-Name 17: _ga
+[After] Cookie-Name 18: __lt__sid
+[After] Cookie-Name 19: _orig_referrer
+[After] Cookie-Name 20: _shopify_s
+[After] Cookie-Name 21: __lt__cid
+[After] Cookie-Name 22: omnisendAnonymousID
+[After] Cookie-Name 23: _fbp
+[After] Cookie-Name 24: swym-session-id
+[After] Cookie-Name 25: dmSessionID
+[After] Cookie-Name 26: _gat
+[After] Cookie-Name 27: recordID
+[After] Cookie-Name 28: cto_bundle
+[After] Cookie-Name 29: swym-swymRegid
+[After] Cookie-Name 30: _gcl_au
+[After] Cookie-Name 31: _shopify_y
+[After] Cookie-Name 32: _gid
+[After] Cookie-Name 33: _y
+[After] Cookie-Name 34: _s
+[After] Cookie-Name 35: cart_currency
+[After] Cookie-Name 36: _landing_page
+[After] Cookie-Name 37: _ts_yjad
+[After] Cookie-Name 38: localization
+[After] Cookie-Name 39: _im_id.1006374
+[After] Cookie-Name 40: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _gid (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

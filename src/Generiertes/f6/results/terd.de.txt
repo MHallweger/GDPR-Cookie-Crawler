@@ -1,0 +1,105 @@
+Website 210: http://www.terd.de/ | Created: 10.02.2022 13:14:39 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 8
+[Before] Website-Cookies: [{'domain': 'terd.de', 'expiry': 1645704870, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b42a6768ac7e42c670dfd97ef907f963'}, {'domain': '.terd.de', 'expiry': 1645704868, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'terd.de', 'expiry': 1676031276, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'terd.de', 'expiry': 1645704870, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b88f9062bb18eb367f894f26253612ef'}, {'domain': 'terd.de', 'expiry': 1645704870, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': 'terd.de', 'expiry': 1645704870, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644495270'}, {'domain': '.terd.de', 'expiry': 1645704868, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'terd.de', 'expiry': 1645704868, 'httpOnly': True, 'name': 'keep_alive', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4fdfd25b-2518-4e70-ad64-07ac5afed59e'}]
+[Before] Cookie-Name 1: cart_sig
+[Before] Cookie-Name 2: _orig_referrer
+[Before] Cookie-Name 3: secure_customer_sig
+[Before] Cookie-Name 4: cart
+[Before] Cookie-Name 5: cart_ver
+[Before] Cookie-Name 6: cart_ts
+[Before] Cookie-Name 7: _landing_page
+[Before] Cookie-Name 8: keep_alive
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 39
+[After] Website-Cookies: [{'domain': 'terd.de', 'expiry': 1647087285, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0NDk1Mjg1MDE2LCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjoxfX0='}, {'domain': 'terd.de', 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'tO3wZxHVdmVerS-20220210121430'}, {'domain': 'terd.de', 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'IJepOKWPWEnlO4-20220210121430'}, {'domain': 'terd.de', 'httpOnly': False, 'name': 'soundest-views', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'terd.de', 'httpOnly': False, 'name': 'po_visitor', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9sJBhFKBQZMn'}, {'domain': 'terd.de', 'httpOnly': False, 'name': 'ba_cart_token', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b88f9062bb18eb367f894f26253612ef'}, {'domain': 'terd.de', 'httpOnly': False, 'name': 'rskxRunCookie', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': 'terd.de', 'httpOnly': False, 'name': '_ga_K43N410KMR', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'GS1.1.1644495268.1.0.1644495268.60'}, {'domain': 'terd.de', 'httpOnly': False, 'name': '_ga', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'GA1.2.889158260.1644495269'}, {'domain': 'terd.de', 'httpOnly': False, 'name': '_gat_gtag_UA_175275514_1', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'terd.de', 'httpOnly': False, 'name': 'baMet_visit', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c59603f7e7524e71865a1d5f768606cd1644495270894'}, {'domain': 'terd.de', 'httpOnly': False, 'name': 'baMet_baEvs', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%5B%5D'}, {'domain': 'terd.de', 'httpOnly': False, 'name': 'lastRskxRun', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644495271152'}, {'domain': 'terd.de', 'expiry': 1645704870, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': 'terd.de', 'httpOnly': False, 'name': '_gat', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'terd.de', 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': 'terd.de', 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'terd.de', 'httpOnly': False, 'name': '_gid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'GA1.2.1495161719.1644495269'}, {'domain': 'terd.de', 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': 'terd.de', 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1.1.490031711.1644495270'}, {'domain': 'terd.de', 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644495284990.1352648036'}, {'domain': 'terd.de', 'expiry': 1676031285, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '67df8991-f5f0-40d0-a777-711aa1da9b03'}, {'domain': 'terd.de', 'expiry': 1676031284, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '67df8991-f5f0-40d0-a777-711aa1da9b03'}, {'domain': 'terd.de', 'expiry': 1644497084, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2389206c-1490-4748-b648-f160fe7b279d'}, {'domain': 'terd.de', 'expiry': 1645704870, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b42a6768ac7e42c670dfd97ef907f963'}, {'domain': 'terd.de', 'httpOnly': False, 'name': '_hjSessionUser_2379556', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImYxMzdiYTM5LWEzNjUtNWFhYy04N2M3LTY0MTM5NTFkOWU2ZiIsImNyZWF0ZWQiOjE2NDQ0OTUyNjg3NTAsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.terd.de', 'expiry': 1645704868, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'terd.de', 'expiry': 1645704868, 'httpOnly': True, 'name': 'keep_alive', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4fdfd25b-2518-4e70-ad64-07ac5afed59e'}, {'domain': 'terd.de', 'expiry': 1644497085, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T12%3A14%3A30.078Z'}, {'domain': 'terd.de', 'expiry': 1676031276, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'terd.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '20220210121430-6h48AqdAd9laJiccUUv1nTm4XSFg70bRhoAR0BY9G6FyQ3kth'}, {'domain': 'terd.de', 'expiry': 1644497084, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2389206c-1490-4748-b648-f160fe7b279d'}, {'domain': 'terd.de', 'expiry': 1645704870, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b88f9062bb18eb367f894f26253612ef'}, {'domain': 'terd.de', 'expiry': 1645704870, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644495270'}, {'domain': 'terd.de', 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'terd.de', 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'dWlkPVpqUXdaRGd3Wm1RdFpqUTJOQzAwWmpkaUxXRXhaakF0Wmpkak5EZGtPVEEwWkRVdw'}, {'domain': 'terd.de', 'httpOnly': False, 'name': 'rCookie', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'onxx98ghfrhnznmo7g02ifkzgy0w6p'}, {'domain': '.terd.de', 'expiry': 1645704868, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'terd.de', 'httpOnly': False, 'name': '_hjSession_2379556', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjA4ODNjNTg0LTFlZjUtNDhjYy1iYWNiLWM4MjM1ZjY0YzAwMyIsImNyZWF0ZWQiOjE2NDQ0OTUyNzAxMDUsImluU2FtcGxlIjpmYWxzZX0='}]
+[After] Cookie-Name 1: _bc_c_set
+[After] Cookie-Name 2: omnisendAnonymousID
+[After] Cookie-Name 3: omnisendSessionID
+[After] Cookie-Name 4: soundest-views
+[After] Cookie-Name 5: po_visitor
+[After] Cookie-Name 6: ba_cart_token
+[After] Cookie-Name 7: rskxRunCookie
+[After] Cookie-Name 8: _ga_K43N410KMR
+[After] Cookie-Name 9: _ga
+[After] Cookie-Name 10: _gat_gtag_UA_175275514_1
+[After] Cookie-Name 11: baMet_visit
+[After] Cookie-Name 12: baMet_baEvs
+[After] Cookie-Name 13: lastRskxRun
+[After] Cookie-Name 14: cart_ver
+[After] Cookie-Name 15: _gat
+[After] Cookie-Name 16: _hjIncludedInSessionSample
+[After] Cookie-Name 17: _hjIncludedInPageviewSample
+[After] Cookie-Name 18: _gid
+[After] Cookie-Name 19: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 20: _gcl_au
+[After] Cookie-Name 21: _fbp
+[After] Cookie-Name 22: _y
+[After] Cookie-Name 23: _shopify_y
+[After] Cookie-Name 24: _shopify_s
+[After] Cookie-Name 25: cart_sig
+[After] Cookie-Name 26: _hjSessionUser_2379556
+[After] Cookie-Name 27: _orig_referrer
+[After] Cookie-Name 28: keep_alive
+[After] Cookie-Name 29: _shopify_sa_t
+[After] Cookie-Name 30: secure_customer_sig
+[After] Cookie-Name 31: soundestID
+[After] Cookie-Name 32: _s
+[After] Cookie-Name 33: cart
+[After] Cookie-Name 34: cart_ts
+[After] Cookie-Name 35: _hjFirstSeen
+[After] Cookie-Name 36: _pin_unauth
+[After] Cookie-Name 37: rCookie
+[After] Cookie-Name 38: _landing_page
+[After] Cookie-Name 39: _hjSession_2379556
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 31
+[Difference] Cookie-Name: 1: _gid
+[Difference] Cookie-Name: 2: _bc_c_set
+[Difference] Cookie-Name: 3: _gcl_au
+[Difference] Cookie-Name: 4: _hjAbsoluteSessionInProgress
+[Difference] Cookie-Name: 5: _pin_unauth
+[Difference] Cookie-Name: 6: soundest-views
+[Difference] Cookie-Name: 7: _hjSession_2379556
+[Difference] Cookie-Name: 8: ba_cart_token
+[Difference] Cookie-Name: 9: lastRskxRun
+[Difference] Cookie-Name: 10: omnisendSessionID
+[Difference] Cookie-Name: 11: baMet_visit
+[Difference] Cookie-Name: 12: po_visitor
+[Difference] Cookie-Name: 13: _fbp
+[Difference] Cookie-Name: 14: _shopify_s
+[Difference] Cookie-Name: 15: soundestID
+[Difference] Cookie-Name: 16: _gat
+[Difference] Cookie-Name: 17: _s
+[Difference] Cookie-Name: 18: rskxRunCookie
+[Difference] Cookie-Name: 19: _y
+[Difference] Cookie-Name: 20: omnisendAnonymousID
+[Difference] Cookie-Name: 21: baMet_baEvs
+[Difference] Cookie-Name: 22: _ga_K43N410KMR
+[Difference] Cookie-Name: 23: _hjIncludedInSessionSample
+[Difference] Cookie-Name: 24: _gat_gtag_UA_175275514_1
+[Difference] Cookie-Name: 25: _hjFirstSeen
+[Difference] Cookie-Name: 26: _hjSessionUser_2379556
+[Difference] Cookie-Name: 27: _hjIncludedInPageviewSample
+[Difference] Cookie-Name: 28: _ga
+[Difference] Cookie-Name: 29: _shopify_y
+[Difference] Cookie-Name: 30: rCookie
+[Difference] Cookie-Name: 31: _shopify_sa_t
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

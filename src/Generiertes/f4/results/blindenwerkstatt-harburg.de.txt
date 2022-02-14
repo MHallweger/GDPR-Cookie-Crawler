@@ -1,0 +1,72 @@
+Website 337: http://www.blindenwerkstatt-harburg.de/ | Created: 09.02.2022 18:53:23 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 8
+[Before] Website-Cookies: [{'domain': 'www.blindenwerkstatt-harburg.de', 'expiry': 1645638794, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '813b0d333f669e1882876838b1a660ea'}, {'domain': '.blindenwerkstatt-harburg.de', 'expiry': 1675965191, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.blindenwerkstatt-harburg.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.blindenwerkstatt-harburg.de', 'expiry': 1644430994, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.blindenwerkstatt-harburg.de', 'expiry': 1645638791, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.blindenwerkstatt-harburg.de', 'expiry': 1675965191, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%7D'}, {'domain': '.blindenwerkstatt-harburg.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.blindenwerkstatt-harburg.de', 'expiry': 1675965194, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: cart_sig
+[Before] Cookie-Name 2: _shopify_m
+[Before] Cookie-Name 3: _orig_referrer
+[Before] Cookie-Name 4: _shopify_tm
+[Before] Cookie-Name 5: _shopify_tw
+[Before] Cookie-Name 6: _tracking_consent
+[Before] Cookie-Name 7: _landing_page
+[Before] Cookie-Name 8: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 25
+[After] Website-Cookies: [{'domain': '.blindenwerkstatt-harburg.de', 'expiry': 1707501209, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1404550293.1644429209'}, {'domain': '.blindenwerkstatt-harburg.de', 'expiry': 1675965209, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22CCPA%22%3A%221%22%2C%22GDPR%22%3A%22%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%7D'}, {'domain': '.blindenwerkstatt-harburg.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A53%3A28.842Z'}, {'domain': '.blindenwerkstatt-harburg.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3c2b9682-e857-4683-ba14-da4520a73a90'}, {'domain': '.blindenwerkstatt-harburg.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1a475832-1d09-4fe9-af9d-09b9ad23a3b3'}, {'domain': '.blindenwerkstatt-harburg.de', 'expiry': 1675965209, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': '.blindenwerkstatt-harburg.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3c2b9682-e857-4683-ba14-da4520a73a90'}, {'domain': '.blindenwerkstatt-harburg.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.blindenwerkstatt-harburg.de', 'expiry': 1645638809, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.blindenwerkstatt-harburg.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1a475832-1d09-4fe9-af9d-09b9ad23a3b3'}, {'domain': '.blindenwerkstatt-harburg.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A53%3A28.831Z'}, {'domain': 'www.blindenwerkstatt-harburg.de', 'expiry': 1675965208, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3c2b9682-e857-4683-ba14-da4520a73a90'}, {'domain': 'www.blindenwerkstatt-harburg.de', 'expiry': 1647021208, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0NDI5MjA4NzU3LCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfX0='}, {'domain': 'www.blindenwerkstatt-harburg.de', 'expiry': 1675965209, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.blindenwerkstatt-harburg.de', 'expiry': 1645638791, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.blindenwerkstatt-harburg.de', 'expiry': 1644429269, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.blindenwerkstatt-harburg.de', 'expiry': 1644431008, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1a475832-1d09-4fe9-af9d-09b9ad23a3b3'}, {'domain': 'www.blindenwerkstatt-harburg.de', 'expiry': 1675965208, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3c2b9682-e857-4683-ba14-da4520a73a90'}, {'domain': '.blindenwerkstatt-harburg.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.blindenwerkstatt-harburg.de', 'expiry': 1645638809, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.blindenwerkstatt-harburg.de', 'expiry': 1644431009, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.blindenwerkstatt-harburg.de', 'expiry': 1644515609, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.672864428.1644429209'}, {'domain': 'www.blindenwerkstatt-harburg.de', 'expiry': 1644431008, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1a475832-1d09-4fe9-af9d-09b9ad23a3b3'}, {'domain': 'www.blindenwerkstatt-harburg.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.blindenwerkstatt-harburg.de', 'expiry': 1645638809, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '813b0d333f669e1882876838b1a660ea'}]
+[After] Cookie-Name 1: _ga
+[After] Cookie-Name 2: _tracking_consent
+[After] Cookie-Name 3: _shopify_sa_t
+[After] Cookie-Name 4: _shopify_y
+[After] Cookie-Name 5: _s
+[After] Cookie-Name 6: _shopify_m
+[After] Cookie-Name 7: _y
+[After] Cookie-Name 8: _shopify_sa_p
+[After] Cookie-Name 9: _landing_page
+[After] Cookie-Name 10: _shopify_s
+[After] Cookie-Name 11: _shopify_d
+[After] Cookie-Name 12: _y
+[After] Cookie-Name 13: _bc_c_set
+[After] Cookie-Name 14: secure_customer_sig
+[After] Cookie-Name 15: _shopify_tw
+[After] Cookie-Name 16: _gat
+[After] Cookie-Name 17: _s
+[After] Cookie-Name 18: _shopify_y
+[After] Cookie-Name 19: _shopify_evids
+[After] Cookie-Name 20: _orig_referrer
+[After] Cookie-Name 21: _shopify_tm
+[After] Cookie-Name 22: _gid
+[After] Cookie-Name 23: _shopify_s
+[After] Cookie-Name 24: _shopify_evids
+[After] Cookie-Name 25: cart_sig
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 12
+[Difference] Cookie-Name: 1: _shopify_evids
+[Difference] Cookie-Name: 2: _gid
+[Difference] Cookie-Name: 3: _gat
+[Difference] Cookie-Name: 4: _shopify_y
+[Difference] Cookie-Name: 5: _shopify_d
+[Difference] Cookie-Name: 6: _s
+[Difference] Cookie-Name: 7: _shopify_s
+[Difference] Cookie-Name: 8: _ga
+[Difference] Cookie-Name: 9: _y
+[Difference] Cookie-Name: 10: _shopify_sa_t
+[Difference] Cookie-Name: 11: _shopify_sa_p
+[Difference] Cookie-Name: 12: _bc_c_set
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

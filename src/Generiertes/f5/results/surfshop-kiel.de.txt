@@ -1,0 +1,97 @@
+Website 147: http://www.surfshop-kiel.de/ | Created: 09.02.2022 20:19:17 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 26
+[Before] Website-Cookies: [{'domain': 'www.surfshop-kiel.de', 'expiry': 1645643948, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': 'www.surfshop-kiel.de', 'expiry': 1707506347, 'httpOnly': False, 'name': 'ahoy_visitor', 'path': '/', 'secure': False, 'value': 'c49e2146-0763-48cc-bc76-a3498aaef426'}, {'domain': 'www.surfshop-kiel.de', 'expiry': 1644448747, 'httpOnly': False, 'name': 'ahoy_visit', 'path': '/', 'secure': False, 'value': 'eeff12fc-8a70-44e4-9365-985753049e2a'}, {'domain': 'www.surfshop-kiel.de', 'expiry': 1645643948, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644434348'}, {'domain': '.www.surfshop-kiel.de', 'expiry': 1675970345, 'httpOnly': False, 'name': 'swym-pid', 'path': '/', 'secure': False, 'value': '"eGiaU39/OhL83iq3hg+dnKVEFpnzoJwUOWx4FGH8Gww="'}, {'domain': 'www.surfshop-kiel.de', 'expiry': 1675970346, 'httpOnly': False, 'name': 'po_visitor', 'path': '/', 'secure': False, 'value': 'iH3fk6cxL6tS'}, {'domain': '.www.surfshop-kiel.de', 'expiry': 1675970345, 'httpOnly': False, 'name': 'swym-instrumentMap', 'path': '/', 'secure': False, 'value': '{}'}, {'domain': '.www.surfshop-kiel.de', 'expiry': 1675970347, 'httpOnly': False, 'name': 'swym-cu_ct', 'path': '/', 'secure': False, 'value': '"e039da78f56e514e93ed51142bbd8388"'}, {'domain': '.www.surfshop-kiel.de', 'expiry': 1675970345, 'httpOnly': False, 'name': 'swym-swymRegid', 'path': '/', 'secure': False, 'value': '"yCQ5HqkgbIqsXSpPRTN8TMw1TSNvXYuRHaE_qNaIOZvBUXQYs87QmY8lzHNjbctTKa06Zh6FPLPshw-i2Kycc_tVXJeEZrILpHRCAjihMgUpFW9zceMrPY9a-pMuSrNaitcG_GRM_lqtH80sL6CadYcbHDnJAxjHrVq1Q2GLs6w"'}, {'domain': '.www.surfshop-kiel.de', 'expiry': 1675970345, 'httpOnly': False, 'name': 'swym-np_r', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': 'www.surfshop-kiel.de', 'expiry': 1645643948, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ea84935a389756f23ac4d7fa1be29423'}, {'domain': '.www.surfshop-kiel.de', 'expiry': 1644436152, 'httpOnly': False, 'name': 'swym-session-id', 'path': '/', 'secure': False, 'value': '"ycrpsg56oixp7tu22z0vrder2b04kmtg5ael1cba55ltislgybheci8ne3cb8d07"'}, {'domain': 'www.surfshop-kiel.de', 'expiry': 1675970348, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.surfshop-kiel.de', 'expiry': 1644436144, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.surfshop-kiel.de', 'expiry': 1644436148, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b7496db5-7d25-410e-ba58-82351fc716da'}, {'domain': '.surfshop-kiel.de', 'expiry': 1644436144, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A19%3A04.931Z'}, {'domain': '.surfshop-kiel.de', 'expiry': 1644436148, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b7496db5-7d25-410e-ba58-82351fc716da'}, {'domain': '.www.surfshop-kiel.de', 'expiry': 1644436145, 'httpOnly': False, 'name': 'swym-o_s', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': '.surfshop-kiel.de', 'expiry': 1675970348, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '64f2c969-fdf7-4825-8f73-63057c3fe580'}, {'domain': 'www.surfshop-kiel.de', 'expiry': 1645643948, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.surfshop-kiel.de', 'expiry': 1645643943, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.surfshop-kiel.de', 'expiry': 1645643943, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.surfshop-kiel.de', 'expiry': 1645643948, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '41357a6636a4dae6002443818928749c'}, {'domain': '.www.surfshop-kiel.de', 'expiry': 1675970345, 'httpOnly': False, 'name': 'swym-currentFilter', 'path': '/', 'secure': False, 'value': '"Wunschliste"'}, {'domain': '.surfshop-kiel.de', 'expiry': 1675970348, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '64f2c969-fdf7-4825-8f73-63057c3fe580'}, {'domain': 'www.surfshop-kiel.de', 'expiry': 1645643948, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[Before] Cookie-Name 1: cart_ver
+[Before] Cookie-Name 2: ahoy_visitor
+[Before] Cookie-Name 3: ahoy_visit
+[Before] Cookie-Name 4: cart_ts
+[Before] Cookie-Name 5: swym-pid
+[Before] Cookie-Name 6: po_visitor
+[Before] Cookie-Name 7: swym-instrumentMap
+[Before] Cookie-Name 8: swym-cu_ct
+[Before] Cookie-Name 9: swym-swymRegid
+[Before] Cookie-Name 10: swym-np_r
+[Before] Cookie-Name 11: cart_sig
+[Before] Cookie-Name 12: swym-session-id
+[Before] Cookie-Name 13: secure_customer_sig
+[Before] Cookie-Name 14: _shopify_sa_p
+[Before] Cookie-Name 15: _s
+[Before] Cookie-Name 16: _shopify_sa_t
+[Before] Cookie-Name 17: _shopify_s
+[Before] Cookie-Name 18: swym-o_s
+[Before] Cookie-Name 19: _shopify_y
+[Before] Cookie-Name 20: cart_currency
+[Before] Cookie-Name 21: _landing_page
+[Before] Cookie-Name 22: _orig_referrer
+[Before] Cookie-Name 23: cart
+[Before] Cookie-Name 24: swym-currentFilter
+[Before] Cookie-Name 25: _y
+[Before] Cookie-Name 26: localization
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 35
+[After] Website-Cookies: [{'domain': '.surfshop-kiel.de', 'expiry': 1652210364, 'httpOnly': False, 'name': 'mf_user', 'path': '/', 'sameSite': 'Strict', 'secure': False, 'value': '7eee1231d0d5421597f7ea68aae3f2d9|'}, {'domain': 'www.surfshop-kiel.de', 'expiry': 1707506362, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MzQzNjMsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LnN1cmZzaG9wLWtpZWwuZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NDM0MzYzLCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL3d3dy5zdXJmc2hvcC1raWVsLmRlLyJ9fQ=='}, {'domain': '.surfshop-kiel.de', 'expiry': 1644520762, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.2005592461.1644434363'}, {'domain': 'www.surfshop-kiel.de', 'expiry': 1802114362, 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'secure': True, 'value': '0d028cab-f9f9-41a4-b7f0-4c5d7462be6d'}, {'domain': 'www.surfshop-kiel.de', 'expiry': 1644436162, 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'secure': True, 'value': '99229321-5591-4cc3-b5c2-e1ee2d721a53'}, {'domain': 'www.surfshop-kiel.de', 'expiry': 1645643948, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': 'www.surfshop-kiel.de', 'expiry': 1707506347, 'httpOnly': False, 'name': 'ahoy_visitor', 'path': '/', 'secure': False, 'value': 'c49e2146-0763-48cc-bc76-a3498aaef426'}, {'domain': 'www.surfshop-kiel.de', 'expiry': 1644448747, 'httpOnly': False, 'name': 'ahoy_visit', 'path': '/', 'secure': False, 'value': 'eeff12fc-8a70-44e4-9365-985753049e2a'}, {'domain': '.surfshop-kiel.de', 'expiry': 1707506362, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1383483815.1644434363'}, {'domain': 'www.surfshop-kiel.de', 'expiry': 1645643948, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644434348'}, {'domain': '.www.surfshop-kiel.de', 'expiry': 1675970345, 'httpOnly': False, 'name': 'swym-pid', 'path': '/', 'secure': False, 'value': '"eGiaU39/OhL83iq3hg+dnKVEFpnzoJwUOWx4FGH8Gww="'}, {'domain': 'www.surfshop-kiel.de', 'expiry': 1675970346, 'httpOnly': False, 'name': 'po_visitor', 'path': '/', 'secure': False, 'value': 'iH3fk6cxL6tS'}, {'domain': '.surfshop-kiel.de', 'expiry': 1644434422, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.www.surfshop-kiel.de', 'expiry': 1675970345, 'httpOnly': False, 'name': 'swym-instrumentMap', 'path': '/', 'secure': False, 'value': '{}'}, {'domain': '.www.surfshop-kiel.de', 'expiry': 1675970347, 'httpOnly': False, 'name': 'swym-cu_ct', 'path': '/', 'secure': False, 'value': '"e039da78f56e514e93ed51142bbd8388"'}, {'domain': '.www.surfshop-kiel.de', 'expiry': 1675970345, 'httpOnly': False, 'name': 'swym-swymRegid', 'path': '/', 'secure': False, 'value': '"yCQ5HqkgbIqsXSpPRTN8TMw1TSNvXYuRHaE_qNaIOZvBUXQYs87QmY8lzHNjbctTKa06Zh6FPLPshw-i2Kycc_tVXJeEZrILpHRCAjihMgUpFW9zceMrPY9a-pMuSrNaitcG_GRM_lqtH80sL6CadYcbHDnJAxjHrVq1Q2GLs6w"'}, {'domain': '.www.surfshop-kiel.de', 'expiry': 1675970345, 'httpOnly': False, 'name': 'swym-np_r', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': 'www.surfshop-kiel.de', 'expiry': 1645643948, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ea84935a389756f23ac4d7fa1be29423'}, {'domain': '.www.surfshop-kiel.de', 'expiry': 1644436164, 'httpOnly': False, 'name': 'swym-session-id', 'path': '/', 'secure': False, 'value': '"ycrpsg56oixp7tu22z0vrder2b04kmtg5ael1cba55ltislgybheci8ne3cb8d07"'}, {'domain': 'www.surfshop-kiel.de', 'expiry': 1675970348, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.surfshop-kiel.de', 'expiry': 1644436144, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.surfshop-kiel.de', 'expiry': 1644436148, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b7496db5-7d25-410e-ba58-82351fc716da'}, {'domain': '.surfshop-kiel.de', 'httpOnly': False, 'name': 'mf_3411372f-a472-429c-9d6f-fe59c45a2e4a', 'path': '/', 'sameSite': 'Strict', 'secure': False, 'value': 'f50af07968502eb01b62f4c98491aa8f|02092343d7fae7a43b0dc85712517420ba1e62d2.47.1644434363047|1644434363043||0|||0|17.59|43.44859'}, {'domain': '.surfshop-kiel.de', 'expiry': 1644436144, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A19%3A04.931Z'}, {'domain': '.surfshop-kiel.de', 'expiry': 1644436148, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b7496db5-7d25-410e-ba58-82351fc716da'}, {'domain': '.www.surfshop-kiel.de', 'expiry': 1644436145, 'httpOnly': False, 'name': 'swym-o_s', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': '.surfshop-kiel.de', 'expiry': 1675970348, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '64f2c969-fdf7-4825-8f73-63057c3fe580'}, {'domain': '.surfshop-kiel.de', 'expiry': 1652210363, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644434363071.533650842'}, {'domain': 'www.surfshop-kiel.de', 'expiry': 1645643948, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.surfshop-kiel.de', 'expiry': 1645643943, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.surfshop-kiel.de', 'expiry': 1645643943, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.surfshop-kiel.de', 'expiry': 1645643948, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '41357a6636a4dae6002443818928749c'}, {'domain': '.www.surfshop-kiel.de', 'expiry': 1675970345, 'httpOnly': False, 'name': 'swym-currentFilter', 'path': '/', 'secure': False, 'value': '"Wunschliste"'}, {'domain': '.surfshop-kiel.de', 'expiry': 1675970348, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '64f2c969-fdf7-4825-8f73-63057c3fe580'}, {'domain': 'www.surfshop-kiel.de', 'expiry': 1645643948, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[After] Cookie-Name 1: mf_user
+[After] Cookie-Name 2: __kla_id
+[After] Cookie-Name 3: _gid
+[After] Cookie-Name 4: _shg_user_id
+[After] Cookie-Name 5: _shg_session_id
+[After] Cookie-Name 6: cart_ver
+[After] Cookie-Name 7: ahoy_visitor
+[After] Cookie-Name 8: ahoy_visit
+[After] Cookie-Name 9: _ga
+[After] Cookie-Name 10: cart_ts
+[After] Cookie-Name 11: swym-pid
+[After] Cookie-Name 12: po_visitor
+[After] Cookie-Name 13: _gat
+[After] Cookie-Name 14: swym-instrumentMap
+[After] Cookie-Name 15: swym-cu_ct
+[After] Cookie-Name 16: swym-swymRegid
+[After] Cookie-Name 17: swym-np_r
+[After] Cookie-Name 18: cart_sig
+[After] Cookie-Name 19: swym-session-id
+[After] Cookie-Name 20: secure_customer_sig
+[After] Cookie-Name 21: _shopify_sa_p
+[After] Cookie-Name 22: _s
+[After] Cookie-Name 23: mf_3411372f-a472-429c-9d6f-fe59c45a2e4a
+[After] Cookie-Name 24: _shopify_sa_t
+[After] Cookie-Name 25: _shopify_s
+[After] Cookie-Name 26: swym-o_s
+[After] Cookie-Name 27: _shopify_y
+[After] Cookie-Name 28: _fbp
+[After] Cookie-Name 29: cart_currency
+[After] Cookie-Name 30: _landing_page
+[After] Cookie-Name 31: _orig_referrer
+[After] Cookie-Name 32: cart
+[After] Cookie-Name 33: swym-currentFilter
+[After] Cookie-Name 34: _y
+[After] Cookie-Name 35: localization
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 9
+[Difference] Cookie-Name: 1: _gid
+[Difference] Cookie-Name: 2: __kla_id
+[Difference] Cookie-Name: 3: _shg_session_id
+[Difference] Cookie-Name: 4: _shg_user_id
+[Difference] Cookie-Name: 5: _fbp
+[Difference] Cookie-Name: 6: mf_3411372f-a472-429c-9d6f-fe59c45a2e4a
+[Difference] Cookie-Name: 7: _ga
+[Difference] Cookie-Name: 8: mf_user
+[Difference] Cookie-Name: 9: _gat
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

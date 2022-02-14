@@ -1,0 +1,54 @@
+Website 206: http://www.monoprice.de/ | Created: 09.02.2022 18:09:04 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 11
+[Before] Website-Cookies: [{'domain': '.monoprice.de', 'expiry': 1675962535, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cb1f182f-1df5-48b3-8a13-96470295406d'}, {'domain': '.monoprice.de', 'expiry': 1707498536, 'httpOnly': False, 'name': '__mmapiwsid', 'path': '/', 'secure': True, 'value': '800722f7-7a87-4f6f-aceb-a67603a55c89:d802d361b9df8ee9e44148d0c93d831351c13986'}, {'domain': '.monoprice.de', 'expiry': 1644428335, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0358a298-ba16-4ad2-aa8c-ee74659dd36e'}, {'domain': '.monoprice.de', 'expiry': 1644428335, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0358a298-ba16-4ad2-aa8c-ee74659dd36e'}, {'domain': 'monoprice.de', 'expiry': 1675962535, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': 'marketing%2Canalytics'}, {'domain': '.monoprice.de', 'expiry': 1652202534, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1522030644.1644426535'}, {'domain': '.monoprice.de', 'expiry': 1675962535, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cb1f182f-1df5-48b3-8a13-96470295406d'}, {'domain': '.monoprice.de', 'expiry': 1644428334, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.monoprice.de', 'expiry': 1645636133, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.monoprice.de', 'expiry': 1645636133, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'monoprice.de', 'expiry': 1675962535, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _y
+[Before] Cookie-Name 2: __mmapiwsid
+[Before] Cookie-Name 3: _shopify_s
+[Before] Cookie-Name 4: _s
+[Before] Cookie-Name 5: cookieconsent_preferences_disabled
+[Before] Cookie-Name 6: _gcl_au
+[Before] Cookie-Name 7: _shopify_y
+[Before] Cookie-Name 8: _shopify_sa_p
+[Before] Cookie-Name 9: _landing_page
+[Before] Cookie-Name 10: _orig_referrer
+[Before] Cookie-Name 11: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 13
+[After] Website-Cookies: [{'domain': '.monoprice.de', 'expiry': 1644428334, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'monoprice.de', 'expiry': 1675962550, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': 'marketing%2Canalytics'}, {'domain': '.monoprice.de', 'expiry': 1675962535, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cb1f182f-1df5-48b3-8a13-96470295406d'}, {'domain': '.monoprice.de', 'expiry': 1707498536, 'httpOnly': False, 'name': '__mmapiwsid', 'path': '/', 'secure': True, 'value': '800722f7-7a87-4f6f-aceb-a67603a55c89:d802d361b9df8ee9e44148d0c93d831351c13986'}, {'domain': 'monoprice.de', 'expiry': 1675962550, 'httpOnly': False, 'name': 'cookieconsent_status', 'path': '/', 'secure': False, 'value': 'allow'}, {'domain': '.monoprice.de', 'expiry': 1644428335, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0358a298-ba16-4ad2-aa8c-ee74659dd36e'}, {'domain': '.monoprice.de', 'expiry': 1652202550, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644426550534.989234748'}, {'domain': '.monoprice.de', 'expiry': 1645636133, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.monoprice.de', 'expiry': 1675962535, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cb1f182f-1df5-48b3-8a13-96470295406d'}, {'domain': '.monoprice.de', 'expiry': 1644428335, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0358a298-ba16-4ad2-aa8c-ee74659dd36e'}, {'domain': '.monoprice.de', 'expiry': 1652202534, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1522030644.1644426535'}, {'domain': '.monoprice.de', 'expiry': 1645636133, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'monoprice.de', 'expiry': 1675962535, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _shopify_sa_p
+[After] Cookie-Name 2: cookieconsent_preferences_disabled
+[After] Cookie-Name 3: _y
+[After] Cookie-Name 4: __mmapiwsid
+[After] Cookie-Name 5: cookieconsent_status
+[After] Cookie-Name 6: _shopify_s
+[After] Cookie-Name 7: _fbp
+[After] Cookie-Name 8: _landing_page
+[After] Cookie-Name 9: _shopify_y
+[After] Cookie-Name 10: _s
+[After] Cookie-Name 11: _gcl_au
+[After] Cookie-Name 12: _orig_referrer
+[After] Cookie-Name 13: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 2
+[Difference] Cookie-Name: 1: _fbp
+[Difference] Cookie-Name: 2: cookieconsent_status
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

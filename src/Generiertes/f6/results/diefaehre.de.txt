@@ -1,0 +1,62 @@
+Website 140: http://www.diefaehre.de/ | Created: 10.02.2022 12:53:45 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 16
+[Before] Website-Cookies: [{'domain': 'diefaehre.de', 'expiry': 1644497613, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.diefaehre.de', 'expiry': 1645703613, 'httpOnly': False, 'name': '__cmpcvcu11980', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '__s23_s24__'}, {'domain': '.diefaehre.de', 'expiry': 1644495813, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T11%3A53%3A33.333Z'}, {'domain': '.diefaehre.de', 'expiry': 1676030017, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '86a35b7d-a780-49d9-8699-de0b0eaabec4'}, {'domain': '.diefaehre.de', 'expiry': 1644495813, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.diefaehre.de', 'expiry': 1652270014, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644494013678.1412239896'}, {'domain': '.diefaehre.de', 'expiry': 1676030017, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '86a35b7d-a780-49d9-8699-de0b0eaabec4'}, {'domain': '.diefaehre.de', 'expiry': 1644495817, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '60ac38f2-20e0-4f85-b04e-abc0ce5ffcb4'}, {'domain': '.diefaehre.de', 'expiry': 1645703613, 'httpOnly': False, 'name': '__cmpcpcu11980', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '____'}, {'domain': '.diefaehre.de', 'expiry': 1645703613, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.diefaehre.de', 'expiry': 1644495817, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '60ac38f2-20e0-4f85-b04e-abc0ce5ffcb4'}, {'domain': 'diefaehre.de', 'expiry': 1645703617, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9107f894bf95f20cd6288c6c4e7be75c'}, {'domain': 'diefaehre.de', 'expiry': 1645703617, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'diefaehre.de', 'expiry': 1645703617, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.diefaehre.de', 'expiry': 1645703613, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'diefaehre.de', 'expiry': 1676030017, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: shopify_pay_redirect
+[Before] Cookie-Name 2: __cmpcvcu11980
+[Before] Cookie-Name 3: _shopify_sa_t
+[Before] Cookie-Name 4: _y
+[Before] Cookie-Name 5: _shopify_sa_p
+[Before] Cookie-Name 6: _fbp
+[Before] Cookie-Name 7: _shopify_y
+[Before] Cookie-Name 8: _s
+[Before] Cookie-Name 9: __cmpcpcu11980
+[Before] Cookie-Name 10: _orig_referrer
+[Before] Cookie-Name 11: _shopify_s
+[Before] Cookie-Name 12: cart_sig
+[Before] Cookie-Name 13: localization
+[Before] Cookie-Name 14: cart_currency
+[Before] Cookie-Name 15: _landing_page
+[Before] Cookie-Name 16: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 17
+[After] Website-Cookies: [{'domain': '.diefaehre.de', 'expiry': 1676030031, 'httpOnly': False, 'name': '__cmpcvcu11980', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '__s94_s65_s23_s7_s1_s26_s135_s1104_s1409_s24_s1097_c7080_c7081_s971_U__'}, {'domain': '.diefaehre.de', 'expiry': 1676030031, 'httpOnly': False, 'name': '__cmpconsent11980', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'BPUMeAXPUMeAXAfODBDEDXAAAAAAAA'}, {'domain': 'diefaehre.de', 'expiry': 1644497613, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.diefaehre.de', 'expiry': 1644495813, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T11%3A53%3A33.333Z'}, {'domain': '.diefaehre.de', 'expiry': 1676030017, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '86a35b7d-a780-49d9-8699-de0b0eaabec4'}, {'domain': '.diefaehre.de', 'expiry': 1644495813, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.diefaehre.de', 'expiry': 1652270031, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644494013678.1412239896'}, {'domain': '.diefaehre.de', 'expiry': 1676030017, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '86a35b7d-a780-49d9-8699-de0b0eaabec4'}, {'domain': '.diefaehre.de', 'expiry': 1644495817, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '60ac38f2-20e0-4f85-b04e-abc0ce5ffcb4'}, {'domain': '.diefaehre.de', 'expiry': 1676030031, 'httpOnly': False, 'name': '__cmpcpcu11980', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '__51_52_53_54_55__'}, {'domain': '.diefaehre.de', 'expiry': 1645703613, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.diefaehre.de', 'expiry': 1644495817, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '60ac38f2-20e0-4f85-b04e-abc0ce5ffcb4'}, {'domain': 'diefaehre.de', 'expiry': 1645703617, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9107f894bf95f20cd6288c6c4e7be75c'}, {'domain': 'diefaehre.de', 'expiry': 1645703617, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'diefaehre.de', 'expiry': 1645703617, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.diefaehre.de', 'expiry': 1645703613, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'diefaehre.de', 'expiry': 1676030017, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: __cmpcvcu11980
+[After] Cookie-Name 2: __cmpconsent11980
+[After] Cookie-Name 3: shopify_pay_redirect
+[After] Cookie-Name 4: _shopify_sa_t
+[After] Cookie-Name 5: _y
+[After] Cookie-Name 6: _shopify_sa_p
+[After] Cookie-Name 7: _fbp
+[After] Cookie-Name 8: _shopify_y
+[After] Cookie-Name 9: _s
+[After] Cookie-Name 10: __cmpcpcu11980
+[After] Cookie-Name 11: _orig_referrer
+[After] Cookie-Name 12: _shopify_s
+[After] Cookie-Name 13: cart_sig
+[After] Cookie-Name 14: localization
+[After] Cookie-Name 15: cart_currency
+[After] Cookie-Name 16: _landing_page
+[After] Cookie-Name 17: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: __cmpconsent11980
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

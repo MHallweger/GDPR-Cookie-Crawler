@@ -1,0 +1,119 @@
+Website 316: http://www.nixplay.de/ | Created: 09.02.2022 18:46:41 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 41
+[Before] Website-Cookies: [{'domain': '.nixplay.de', 'expiry': 1675964795, 'httpOnly': False, 'name': '_ju_dc', 'path': '/', 'secure': False, 'value': '397635f3-89d0-11ec-967b-8d792162f199'}, {'domain': 'www.nixplay.de', 'httpOnly': False, 'name': 'aeatstartmessage', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': 'www.nixplay.de', 'expiry': 1675964793, 'httpOnly': False, 'name': '_aeaid', 'path': '/', 'secure': False, 'value': '1a3bd1a6-e80d-4f58-9fb0-7d3495e5c5fd'}, {'domain': '.nixplay.de', 'expiry': 1647020793, 'httpOnly': False, 'name': '_ju_dn', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.nixplay.de', 'expiry': 1644515193, 'httpOnly': False, 'name': '_ju_dm', 'path': '/', 'secure': False, 'value': 'cookie'}, {'domain': 'www.nixplay.de', 'expiry': 1644430590, 'httpOnly': False, 'name': '_ju_v', 'path': '/', 'secure': True, 'value': '4.1_5.05'}, {'domain': '.nixplay.de', 'expiry': 1678556792, 'httpOnly': False, 'name': 'cjConsent', 'path': '/', 'secure': True, 'value': 'MHxZfDB8Tnww'}, {'domain': 'www.nixplay.de', 'expiry': 1675964792, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': ''}, {'domain': '.nixplay.de', 'expiry': 1707500793, 'httpOnly': False, 'name': '__mmapiwsid', 'path': '/', 'secure': True, 'value': '70ef19f0-9199-42b3-8ca1-47501480e1ab:b08911a737686d0e35f6035a716b219de89bf53e'}, {'domain': '.nixplay.de', 'expiry': 1675964791, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': '1yl2d2z|1|eyu|0'}, {'domain': '.nixplay.de', 'expiry': 1675964790, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU1EVXlOalExWmpndE9EWXhZeTAwTTJNM0xXSXpPR010WkdGbE1URTVNelF3WXpBdw'}, {'domain': '.nixplay.de', 'expiry': 1652204790, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644428790166.1939610502'}, {'domain': 'www.nixplay.de', 'expiry': 1644432390, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.nixplay.de', 'expiry': 1644430592, 'httpOnly': False, 'name': '_ju_pn', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.nixplay.de', 'expiry': 1678124790, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '366549d089d011ecaf18095238c1d84b'}, {'domain': '.nixplay.de', 'expiry': 1644515190, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': '3665540089d011ec8435cb16f5de450f'}, {'domain': '.nixplay.de', 'expiry': 1678615487, 'httpOnly': False, 'name': '_scid', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '7e90f54d-d9fe-4561-81eb-1e804bc8a40d'}, {'domain': '.nixplay.de', 'expiry': 1644428849, 'httpOnly': False, 'name': '_dc_gtm_UA-145022348-1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.nixplay.de', 'expiry': 1644515191, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': '5gwxk3|1644428791495|1|1|g.clarity.ms/collect'}, {'domain': '.nixplay.de', 'expiry': 1644515194, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1220214319.1644428790'}, {'domain': '.nixplay.de', 'expiry': 1644430589, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.nixplay.de', 'expiry': 1707500789, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0Mjg3OTAsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3Lm5peHBsYXkuZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NDI4NzkwLCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL3d3dy5uaXhwbGF5LmRlLyJ9fQ=='}, {'domain': '.nixplay.de', 'expiry': 1644430589, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A46%3A29.853Z'}, {'domain': '.nixplay.de', 'expiry': 1678592793, 'httpOnly': False, 'name': 'cto_bundle', 'path': '/', 'secure': False, 'value': 'Z2jLNV9XZGVqMDdYTXFWTzJhOG9FU2xyWVozOXJ1M3Zta25wUFA2VWgxRER1Qm1nRW5mcDFkMmZkdUVnaVFScnh2QkJKY2Q5Z1BPdGVRSGIwYlloSHpNQzIlMkIyQkolMkYlMkZkRUsxdGhjZkhObzI4M3VnTlVEb04zc3plaUxsanJRQTRqVFJDUUFmQk00c2doTk1WZUU0dnUlMkI1eE9uZyUzRCUzRA'}, {'domain': 'www.nixplay.de', 'expiry': 1645638403, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.nixplay.de', 'expiry': 1652204789, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.2097052395.1644428790'}, {'domain': '.nixplay.de', 'expiry': 1647020789, 'httpOnly': False, 'name': '_vwo_ds', 'path': '/', 'secure': False, 'value': '3%241644428789%3A28.98146122%3A%3A'}, {'domain': 'www.nixplay.de', 'expiry': 1675964803, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'www.nixplay.de', 'expiry': 1645638403, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.nixplay.de', 'expiry': 1676051189, 'httpOnly': False, 'name': '_vwo_uuid_v2', 'path': '/', 'secure': False, 'value': 'DEB73F30EB11F467BD8179E77EBCC49E8|432f338541bb8e48a2996ff81c334c8d'}, {'domain': '.nixplay.de', 'httpOnly': False, 'name': '_vis_opt_test_cookie', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.nixplay.de', 'expiry': 1644430603, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '74dbf208-a316-4885-a64a-e5207b2c8861'}, {'domain': '.nixplay.de', 'expiry': 1959788789, 'httpOnly': False, 'name': '_vwo_uuid', 'path': '/', 'secure': False, 'value': 'DEB73F30EB11F467BD8179E77EBCC49E8'}, {'domain': '.nixplay.de', 'expiry': 1644430589, 'httpOnly': False, 'name': '_vwo_sn', 'path': '/', 'secure': False, 'value': '0%3A1'}, {'domain': '.nixplay.de', 'expiry': 1644430603, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '74dbf208-a316-4885-a64a-e5207b2c8861'}, {'domain': '.nixplay.de', 'expiry': 1707500794, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1417814583.1644428790'}, {'domain': '.nixplay.de', 'expiry': 1645638388, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.nixplay.de', 'expiry': 1645638388, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.nixplay.de', 'expiry': 1653068789, 'httpOnly': False, 'name': '_vis_opt_s', 'path': '/', 'secure': False, 'value': '1%7C'}, {'domain': '.nixplay.de', 'expiry': 1675964803, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '845c8be1-4ded-44af-a569-c0e73b7015ca'}, {'domain': '.nixplay.de', 'expiry': 1675964803, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '845c8be1-4ded-44af-a569-c0e73b7015ca'}]
+[Before] Cookie-Name 1: _ju_dc
+[Before] Cookie-Name 2: aeatstartmessage
+[Before] Cookie-Name 3: _aeaid
+[Before] Cookie-Name 4: _ju_dn
+[Before] Cookie-Name 5: _ju_dm
+[Before] Cookie-Name 6: _ju_v
+[Before] Cookie-Name 7: cjConsent
+[Before] Cookie-Name 8: cookieconsent_preferences_disabled
+[Before] Cookie-Name 9: __mmapiwsid
+[Before] Cookie-Name 10: _clck
+[Before] Cookie-Name 11: _pin_unauth
+[Before] Cookie-Name 12: _fbp
+[Before] Cookie-Name 13: shopify_pay_redirect
+[Before] Cookie-Name 14: _ju_pn
+[Before] Cookie-Name 15: _uetvid
+[Before] Cookie-Name 16: _uetsid
+[Before] Cookie-Name 17: _scid
+[Before] Cookie-Name 18: _dc_gtm_UA-145022348-1
+[Before] Cookie-Name 19: _clsk
+[Before] Cookie-Name 20: _gid
+[Before] Cookie-Name 21: _shopify_sa_p
+[Before] Cookie-Name 22: __kla_id
+[Before] Cookie-Name 23: _shopify_sa_t
+[Before] Cookie-Name 24: cto_bundle
+[Before] Cookie-Name 25: cart_currency
+[Before] Cookie-Name 26: _gcl_au
+[Before] Cookie-Name 27: _vwo_ds
+[Before] Cookie-Name 28: secure_customer_sig
+[Before] Cookie-Name 29: localization
+[Before] Cookie-Name 30: _vwo_uuid_v2
+[Before] Cookie-Name 31: _vis_opt_test_cookie
+[Before] Cookie-Name 32: _shopify_s
+[Before] Cookie-Name 33: _vwo_uuid
+[Before] Cookie-Name 34: _vwo_sn
+[Before] Cookie-Name 35: _s
+[Before] Cookie-Name 36: _ga
+[Before] Cookie-Name 37: _orig_referrer
+[Before] Cookie-Name 38: _landing_page
+[Before] Cookie-Name 39: _vis_opt_s
+[Before] Cookie-Name 40: _shopify_y
+[Before] Cookie-Name 41: _y
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 42
+[After] Website-Cookies: [{'domain': 'www.nixplay.de', 'expiry': 1675964807, 'httpOnly': False, 'name': 'cookieconsent_status', 'path': '/', 'secure': False, 'value': 'allow'}, {'domain': '.nixplay.de', 'expiry': 1675964795, 'httpOnly': False, 'name': '_ju_dc', 'path': '/', 'secure': False, 'value': '397635f3-89d0-11ec-967b-8d792162f199'}, {'domain': 'www.nixplay.de', 'httpOnly': False, 'name': 'aeatstartmessage', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': 'www.nixplay.de', 'expiry': 1675964793, 'httpOnly': False, 'name': '_aeaid', 'path': '/', 'secure': False, 'value': '1a3bd1a6-e80d-4f58-9fb0-7d3495e5c5fd'}, {'domain': '.nixplay.de', 'expiry': 1647020793, 'httpOnly': False, 'name': '_ju_dn', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.nixplay.de', 'expiry': 1644515193, 'httpOnly': False, 'name': '_ju_dm', 'path': '/', 'secure': False, 'value': 'cookie'}, {'domain': 'www.nixplay.de', 'expiry': 1644430590, 'httpOnly': False, 'name': '_ju_v', 'path': '/', 'secure': True, 'value': '4.1_5.05'}, {'domain': '.nixplay.de', 'expiry': 1678556792, 'httpOnly': False, 'name': 'cjConsent', 'path': '/', 'secure': True, 'value': 'MHxZfDB8Tnww'}, {'domain': 'www.nixplay.de', 'expiry': 1675964807, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': ''}, {'domain': '.nixplay.de', 'expiry': 1707500793, 'httpOnly': False, 'name': '__mmapiwsid', 'path': '/', 'secure': True, 'value': '70ef19f0-9199-42b3-8ca1-47501480e1ab:b08911a737686d0e35f6035a716b219de89bf53e'}, {'domain': '.nixplay.de', 'expiry': 1675964791, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': '1yl2d2z|1|eyu|0'}, {'domain': '.nixplay.de', 'expiry': 1675964790, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU1EVXlOalExWmpndE9EWXhZeTAwTTJNM0xXSXpPR010WkdGbE1URTVNelF3WXpBdw'}, {'domain': '.nixplay.de', 'expiry': 1652204807, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644428790166.1939610502'}, {'domain': 'www.nixplay.de', 'expiry': 1644432390, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.nixplay.de', 'expiry': 1644430592, 'httpOnly': False, 'name': '_ju_pn', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.nixplay.de', 'expiry': 1678124790, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '366549d089d011ecaf18095238c1d84b'}, {'domain': '.nixplay.de', 'expiry': 1644515190, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': '3665540089d011ec8435cb16f5de450f'}, {'domain': '.nixplay.de', 'expiry': 1678615487, 'httpOnly': False, 'name': '_scid', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '7e90f54d-d9fe-4561-81eb-1e804bc8a40d'}, {'domain': '.nixplay.de', 'expiry': 1644428849, 'httpOnly': False, 'name': '_dc_gtm_UA-145022348-1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.nixplay.de', 'expiry': 1644515191, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': '5gwxk3|1644428791495|1|1|g.clarity.ms/collect'}, {'domain': '.nixplay.de', 'expiry': 1644515194, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1220214319.1644428790'}, {'domain': '.nixplay.de', 'expiry': 1644430589, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.nixplay.de', 'expiry': 1707500789, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0Mjg3OTAsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3Lm5peHBsYXkuZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NDI4NzkwLCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL3d3dy5uaXhwbGF5LmRlLyJ9fQ=='}, {'domain': '.nixplay.de', 'expiry': 1644430589, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A46%3A29.853Z'}, {'domain': '.nixplay.de', 'expiry': 1678592793, 'httpOnly': False, 'name': 'cto_bundle', 'path': '/', 'secure': False, 'value': 'Z2jLNV9XZGVqMDdYTXFWTzJhOG9FU2xyWVozOXJ1M3Zta25wUFA2VWgxRER1Qm1nRW5mcDFkMmZkdUVnaVFScnh2QkJKY2Q5Z1BPdGVRSGIwYlloSHpNQzIlMkIyQkolMkYlMkZkRUsxdGhjZkhObzI4M3VnTlVEb04zc3plaUxsanJRQTRqVFJDUUFmQk00c2doTk1WZUU0dnUlMkI1eE9uZyUzRCUzRA'}, {'domain': 'www.nixplay.de', 'expiry': 1645638403, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.nixplay.de', 'expiry': 1652204789, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.2097052395.1644428790'}, {'domain': '.nixplay.de', 'expiry': 1647020789, 'httpOnly': False, 'name': '_vwo_ds', 'path': '/', 'secure': False, 'value': '3%241644428789%3A28.98146122%3A%3A'}, {'domain': 'www.nixplay.de', 'expiry': 1675964803, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'www.nixplay.de', 'expiry': 1645638403, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.nixplay.de', 'expiry': 1676051189, 'httpOnly': False, 'name': '_vwo_uuid_v2', 'path': '/', 'secure': False, 'value': 'DEB73F30EB11F467BD8179E77EBCC49E8|432f338541bb8e48a2996ff81c334c8d'}, {'domain': '.nixplay.de', 'httpOnly': False, 'name': '_vis_opt_test_cookie', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.nixplay.de', 'expiry': 1644430603, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '74dbf208-a316-4885-a64a-e5207b2c8861'}, {'domain': '.nixplay.de', 'expiry': 1959788789, 'httpOnly': False, 'name': '_vwo_uuid', 'path': '/', 'secure': False, 'value': 'DEB73F30EB11F467BD8179E77EBCC49E8'}, {'domain': '.nixplay.de', 'expiry': 1644430607, 'httpOnly': False, 'name': '_vwo_sn', 'path': '/', 'secure': False, 'value': '0%3A1'}, {'domain': '.nixplay.de', 'expiry': 1644430603, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '74dbf208-a316-4885-a64a-e5207b2c8861'}, {'domain': '.nixplay.de', 'expiry': 1707500794, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1417814583.1644428790'}, {'domain': '.nixplay.de', 'expiry': 1645638388, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.nixplay.de', 'expiry': 1645638388, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.nixplay.de', 'expiry': 1653068789, 'httpOnly': False, 'name': '_vis_opt_s', 'path': '/', 'secure': False, 'value': '1%7C'}, {'domain': '.nixplay.de', 'expiry': 1675964803, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '845c8be1-4ded-44af-a569-c0e73b7015ca'}, {'domain': '.nixplay.de', 'expiry': 1675964803, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '845c8be1-4ded-44af-a569-c0e73b7015ca'}]
+[After] Cookie-Name 1: cookieconsent_status
+[After] Cookie-Name 2: _ju_dc
+[After] Cookie-Name 3: aeatstartmessage
+[After] Cookie-Name 4: _aeaid
+[After] Cookie-Name 5: _ju_dn
+[After] Cookie-Name 6: _ju_dm
+[After] Cookie-Name 7: _ju_v
+[After] Cookie-Name 8: cjConsent
+[After] Cookie-Name 9: cookieconsent_preferences_disabled
+[After] Cookie-Name 10: __mmapiwsid
+[After] Cookie-Name 11: _clck
+[After] Cookie-Name 12: _pin_unauth
+[After] Cookie-Name 13: _fbp
+[After] Cookie-Name 14: shopify_pay_redirect
+[After] Cookie-Name 15: _ju_pn
+[After] Cookie-Name 16: _uetvid
+[After] Cookie-Name 17: _uetsid
+[After] Cookie-Name 18: _scid
+[After] Cookie-Name 19: _dc_gtm_UA-145022348-1
+[After] Cookie-Name 20: _clsk
+[After] Cookie-Name 21: _gid
+[After] Cookie-Name 22: _shopify_sa_p
+[After] Cookie-Name 23: __kla_id
+[After] Cookie-Name 24: _shopify_sa_t
+[After] Cookie-Name 25: cto_bundle
+[After] Cookie-Name 26: cart_currency
+[After] Cookie-Name 27: _gcl_au
+[After] Cookie-Name 28: _vwo_ds
+[After] Cookie-Name 29: secure_customer_sig
+[After] Cookie-Name 30: localization
+[After] Cookie-Name 31: _vwo_uuid_v2
+[After] Cookie-Name 32: _vis_opt_test_cookie
+[After] Cookie-Name 33: _shopify_s
+[After] Cookie-Name 34: _vwo_uuid
+[After] Cookie-Name 35: _vwo_sn
+[After] Cookie-Name 36: _s
+[After] Cookie-Name 37: _ga
+[After] Cookie-Name 38: _orig_referrer
+[After] Cookie-Name 39: _landing_page
+[After] Cookie-Name 40: _vis_opt_s
+[After] Cookie-Name 41: _shopify_y
+[After] Cookie-Name 42: _y
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _clck (Microsoft Clarity (User experience tool))
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _clsk (Microsoft Clarity (User experience tool))
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: cookieconsent_status
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

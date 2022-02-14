@@ -1,0 +1,113 @@
+Website 219: http://www.juwelkerze.de/ | Created: 08.02.2022 22:46:48 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 22
+[Before] Website-Cookies: [{'domain': '.www.juwelkerze.de', 'expiry': 253402257600, 'httpOnly': False, 'name': 'G_ENABLED_IDPS', 'path': '/', 'secure': False, 'value': 'google'}, {'domain': 'www.juwelkerze.de', 'expiry': 1644443201, 'httpOnly': False, 'name': '_ssw_cart_data', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'eyJjYXJ0X3Rva2VuIjoiNGE0MWM0MWI3NzM3MWQ2ZWM1ZTkyODMxNTkzYmU5YTcifQ%3D%3D'}, {'domain': 'www.juwelkerze.de', 'expiry': 1646948801, 'httpOnly': False, 'name': 'hash_key', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '6202e4c1988a4d01546d722a'}, {'domain': 'www.juwelkerze.de', 'expiry': 1644358598, 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'secure': True, 'value': 'ab883bb3-17c2-4ce1-a8c8-98ef96c4959a'}, {'domain': 'www.juwelkerze.de', 'expiry': 1802036798, 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'secure': True, 'value': 'f547eeb3-db55-4d40-9bf1-ce304c883bfb'}, {'domain': 'www.juwelkerze.de', 'expiry': 1644356918, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.juwelkerze.de', 'expiry': 1644356918, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.juwelkerze.de', 'expiry': 1675892798, 'httpOnly': False, 'name': '_hjSessionUser_2727867', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjEyZDljMjhiLWE3YTEtNTBhNS1iZjBjLTA5ZDgyNDcwNGQwYyIsImNyZWF0ZWQiOjE2NDQzNTY3OTg2MjAsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.juwelkerze.de', 'expiry': 1644358598, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A46%3A38.350Z'}, {'domain': '.juwelkerze.de', 'expiry': 1644358603, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c5ebcd0a-c620-430c-ba23-d9a4659f0588'}, {'domain': '.juwelkerze.de', 'expiry': 1644358598, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.juwelkerze.de', 'expiry': 1644358598, 'httpOnly': False, 'name': '_hjSession_2727867', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImI5Mzg0NzZmLTBlM2ItNGJkNi1hMWMzLWY0MThkOWQ3NGU4MCIsImNyZWF0ZWQiOjE2NDQzNTY3OTg2NjAsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': '.juwelkerze.de', 'expiry': 1675892803, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'dc9c0956-1501-48f5-a162-709fd315aca6'}, {'domain': 'www.juwelkerze.de', 'expiry': 1644358900, 'httpOnly': False, 'name': 'ssw_visitor', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'ssw_visitor1644356800962'}, {'domain': 'www.juwelkerze.de', 'httpOnly': False, 'name': 'hesid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '6cf7a35d-57f1-7dab-af73-d0d01df5b27d'}, {'domain': 'www.juwelkerze.de', 'expiry': 1675892803, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.juwelkerze.de', 'expiry': 1644358598, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.juwelkerze.de', 'expiry': 1675892803, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'dc9c0956-1501-48f5-a162-709fd315aca6'}, {'domain': '.juwelkerze.de', 'expiry': 1645566397, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.juwelkerze.de', 'expiry': 1644358598, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.juwelkerze.de', 'expiry': 1645566397, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.juwelkerze.de', 'expiry': 1644358603, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c5ebcd0a-c620-430c-ba23-d9a4659f0588'}]
+[Before] Cookie-Name 1: G_ENABLED_IDPS
+[Before] Cookie-Name 2: _ssw_cart_data
+[Before] Cookie-Name 3: hash_key
+[Before] Cookie-Name 4: _shg_session_id
+[Before] Cookie-Name 5: _shg_user_id
+[Before] Cookie-Name 6: _hjIncludedInPageviewSample
+[Before] Cookie-Name 7: _hjIncludedInSessionSample
+[Before] Cookie-Name 8: _hjSessionUser_2727867
+[Before] Cookie-Name 9: _shopify_sa_t
+[Before] Cookie-Name 10: _shopify_s
+[Before] Cookie-Name 11: _shopify_sa_p
+[Before] Cookie-Name 12: _hjSession_2727867
+[Before] Cookie-Name 13: _shopify_y
+[Before] Cookie-Name 14: ssw_visitor
+[Before] Cookie-Name 15: hesid
+[Before] Cookie-Name 16: secure_customer_sig
+[Before] Cookie-Name 17: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 18: _y
+[Before] Cookie-Name 19: _landing_page
+[Before] Cookie-Name 20: _hjFirstSeen
+[Before] Cookie-Name 21: _orig_referrer
+[Before] Cookie-Name 22: _s
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 41
+[After] Website-Cookies: [{'domain': '.juwelkerze.de', 'expiry': 1644443214, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': '1xrfkd|1644356814960|1|1|d.clarity.ms/collect'}, {'domain': '.juwelkerze.de', 'expiry': 1652996814, 'httpOnly': False, 'name': '_vis_opt_exp_7_combi', 'path': '/', 'secure': False, 'value': '2'}, {'domain': '.juwelkerze.de', 'expiry': 1644358614, 'httpOnly': False, 'name': '_vwo_sn', 'path': '/', 'secure': False, 'value': '0%3A1%3A%3A%3A1'}, {'domain': '.juwelkerze.de', 'expiry': 1652132814, 'httpOnly': False, 'name': '_vwo_ds', 'path': '/', 'secure': False, 'value': '3%241644356813%3A1.39238197%3A%3A'}, {'domain': '.juwelkerze.de', 'expiry': 1959716814, 'httpOnly': False, 'name': '_vwo_uuid', 'path': '/', 'secure': False, 'value': 'DA66DED02C4BDAAC90BF5E9DBDFD72791'}, {'domain': '.juwelkerze.de', 'httpOnly': False, 'name': '_vis_opt_test_cookie', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.juwelkerze.de', 'expiry': 1652996814, 'httpOnly': False, 'name': '_vis_opt_s', 'path': '/', 'secure': False, 'value': '1%7C'}, {'domain': '.juwelkerze.de', 'expiry': 1644443213, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': 'a14d8bc0892811eca19383defb74cbf3'}, {'domain': '.juwelkerze.de', 'expiry': 1644356873, 'httpOnly': False, 'name': '_dc_gtm_UA-35254483-3', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.juwelkerze.de', 'expiry': 1678052813, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': 'a14dbb70892811ecad0e1db647e4c03f'}, {'domain': '.juwelkerze.de', 'expiry': 1644443213, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1171327319.1644356814'}, {'domain': '.juwelkerze.de', 'expiry': 1707428813, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1078603596.1644356814'}, {'domain': '.juwelkerze.de', 'expiry': 1652132813, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.12950432.1644356814'}, {'domain': '.juwelkerze.de', 'expiry': 1675979213, 'httpOnly': False, 'name': '_vwo_uuid_v2', 'path': '/', 'secure': False, 'value': 'DA66DED02C4BDAAC90BF5E9DBDFD72791|3a4c3c48c2bedcd9e6c1d2020d89aa39'}, {'domain': '.www.juwelkerze.de', 'expiry': 253402257600, 'httpOnly': False, 'name': 'G_ENABLED_IDPS', 'path': '/', 'secure': False, 'value': 'google'}, {'domain': 'www.juwelkerze.de', 'httpOnly': False, 'name': 'hesid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '6cf7a35d-57f1-7dab-af73-d0d01df5b27d'}, {'domain': 'www.juwelkerze.de', 'expiry': 1644443201, 'httpOnly': False, 'name': '_ssw_cart_data', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'eyJjYXJ0X3Rva2VuIjoiNGE0MWM0MWI3NzM3MWQ2ZWM1ZTkyODMxNTkzYmU5YTcifQ%3D%3D'}, {'domain': '.juwelkerze.de', 'expiry': 1644358598, 'httpOnly': False, 'name': '_hjSession_2727867', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImI5Mzg0NzZmLTBlM2ItNGJkNi1hMWMzLWY0MThkOWQ3NGU4MCIsImNyZWF0ZWQiOjE2NDQzNTY3OTg2NjAsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': 'www.juwelkerze.de', 'expiry': 1646948801, 'httpOnly': False, 'name': 'hash_key', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '6202e4c1988a4d01546d722a'}, {'domain': 'www.juwelkerze.de', 'expiry': 1644358598, 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'secure': True, 'value': 'ab883bb3-17c2-4ce1-a8c8-98ef96c4959a'}, {'domain': 'www.juwelkerze.de', 'expiry': 1802036798, 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'secure': True, 'value': 'f547eeb3-db55-4d40-9bf1-ce304c883bfb'}, {'domain': 'www.juwelkerze.de', 'expiry': 1644356918, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.juwelkerze.de', 'expiry': 1675892803, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.juwelkerze.de', 'expiry': 1644358598, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.juwelkerze.de', 'expiry': 1644356918, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.juwelkerze.de', 'expiry': 1675892814, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': 'cz8pwj|1|eyt|0'}, {'domain': '.juwelkerze.de', 'expiry': 1675892798, 'httpOnly': False, 'name': '_hjSessionUser_2727867', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjEyZDljMjhiLWE3YTEtNTBhNS1iZjBjLTA5ZDgyNDcwNGQwYyIsImNyZWF0ZWQiOjE2NDQzNTY3OTg2MjAsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.juwelkerze.de', 'expiry': 1678520814, 'httpOnly': False, 'name': 'cto_bundle', 'path': '/', 'secure': False, 'value': 'phdjD19qRjk2ck5PQUVCMyUyRlI2VldPRDd4TjZJUjVVS1NXajBQdklxT3RyT1h6WXJlb1NGajQ5N1JVYUlUaTdEVGpEcXhWNW9LMlYzaGJvQkRBT0FLTm1henpnbkdHcVA1Q1ZWQzZ1TDhkeGMxOXJLaUNtOFVmaSUyRkl1OWx1MkJqWGNvR3hIV0RtaEklMkZvTmpLWndPUkhJMWhpUXclM0QlM0Q'}, {'domain': '.juwelkerze.de', 'expiry': 1644358598, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A46%3A38.350Z'}, {'domain': '.juwelkerze.de', 'expiry': 1645566397, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.juwelkerze.de', 'expiry': 1644358603, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c5ebcd0a-c620-430c-ba23-d9a4659f0588'}, {'domain': 'www.juwelkerze.de', 'expiry': 1707428813, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQzNTY4MTQsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3Lmp1d2Vsa2VyemUuZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0MzU2ODE0LCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL3d3dy5qdXdlbGtlcnplLmRlLyJ9fQ=='}, {'domain': '.juwelkerze.de', 'expiry': 1652132814, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644356814099.972564468'}, {'domain': '.juwelkerze.de', 'expiry': 1675892814, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVptUTJZekkwTlRFdFpEZ3dOaTAwWkRrd0xXSTVObVl0TTJNMFptSTJPRGRtTkRCbQ'}, {'domain': '.juwelkerze.de', 'expiry': 1675892803, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'dc9c0956-1501-48f5-a162-709fd315aca6'}, {'domain': 'www.juwelkerze.de', 'expiry': 1644358900, 'httpOnly': False, 'name': 'ssw_visitor', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'ssw_visitor1644356800962'}, {'domain': '.juwelkerze.de', 'expiry': 1644358598, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.juwelkerze.de', 'expiry': 1675892803, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'dc9c0956-1501-48f5-a162-709fd315aca6'}, {'domain': '.juwelkerze.de', 'expiry': 1644358598, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.juwelkerze.de', 'expiry': 1645566397, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.juwelkerze.de', 'expiry': 1644358603, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c5ebcd0a-c620-430c-ba23-d9a4659f0588'}]
+[After] Cookie-Name 1: _clsk
+[After] Cookie-Name 2: _vis_opt_exp_7_combi
+[After] Cookie-Name 3: _vwo_sn
+[After] Cookie-Name 4: _vwo_ds
+[After] Cookie-Name 5: _vwo_uuid
+[After] Cookie-Name 6: _vis_opt_test_cookie
+[After] Cookie-Name 7: _vis_opt_s
+[After] Cookie-Name 8: _uetsid
+[After] Cookie-Name 9: _dc_gtm_UA-35254483-3
+[After] Cookie-Name 10: _uetvid
+[After] Cookie-Name 11: _gid
+[After] Cookie-Name 12: _ga
+[After] Cookie-Name 13: _gcl_au
+[After] Cookie-Name 14: _vwo_uuid_v2
+[After] Cookie-Name 15: G_ENABLED_IDPS
+[After] Cookie-Name 16: hesid
+[After] Cookie-Name 17: _ssw_cart_data
+[After] Cookie-Name 18: _hjSession_2727867
+[After] Cookie-Name 19: hash_key
+[After] Cookie-Name 20: _shg_session_id
+[After] Cookie-Name 21: _shg_user_id
+[After] Cookie-Name 22: _hjIncludedInPageviewSample
+[After] Cookie-Name 23: secure_customer_sig
+[After] Cookie-Name 24: _shopify_sa_p
+[After] Cookie-Name 25: _hjIncludedInSessionSample
+[After] Cookie-Name 26: _clck
+[After] Cookie-Name 27: _hjSessionUser_2727867
+[After] Cookie-Name 28: cto_bundle
+[After] Cookie-Name 29: _shopify_sa_t
+[After] Cookie-Name 30: _landing_page
+[After] Cookie-Name 31: _shopify_s
+[After] Cookie-Name 32: __kla_id
+[After] Cookie-Name 33: _fbp
+[After] Cookie-Name 34: _pin_unauth
+[After] Cookie-Name 35: _shopify_y
+[After] Cookie-Name 36: ssw_visitor
+[After] Cookie-Name 37: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 38: _y
+[After] Cookie-Name 39: _hjFirstSeen
+[After] Cookie-Name 40: _orig_referrer
+[After] Cookie-Name 41: _s
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _hjIncludedInPageviewSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjIncludedInSessionSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 19
+[Difference] Cookie-Name: 1: _vwo_uuid
+[Difference] Cookie-Name: 2: _gid
+[Difference] Cookie-Name: 3: cto_bundle
+[Difference] Cookie-Name: 4: __kla_id
+[Difference] Cookie-Name: 5: _pin_unauth
+[Difference] Cookie-Name: 6: _fbp
+[Difference] Cookie-Name: 7: _vwo_uuid_v2
+[Difference] Cookie-Name: 8: _clsk
+[Difference] Cookie-Name: 9: _gcl_au
+[Difference] Cookie-Name: 10: _uetvid
+[Difference] Cookie-Name: 11: _vwo_ds
+[Difference] Cookie-Name: 12: _vwo_sn
+[Difference] Cookie-Name: 13: _vis_opt_exp_7_combi
+[Difference] Cookie-Name: 14: _vis_opt_s
+[Difference] Cookie-Name: 15: _vis_opt_test_cookie
+[Difference] Cookie-Name: 16: _ga
+[Difference] Cookie-Name: 17: _uetsid
+[Difference] Cookie-Name: 18: _clck
+[Difference] Cookie-Name: 19: _dc_gtm_UA-35254483-3
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

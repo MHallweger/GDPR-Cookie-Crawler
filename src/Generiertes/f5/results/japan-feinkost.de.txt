@@ -1,0 +1,63 @@
+Website 227: http://www.japan-feinkost.de/ | Created: 09.02.2022 20:45:31 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 16
+[Before] Website-Cookies: [{'domain': 'japan-feinkost.de', 'expiry': 1675971922, 'httpOnly': False, 'name': 'sec-banner', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': 'japan-feinkost.de', 'expiry': 1645645522, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'db16dd4fa526a6fff909aec0fe80d8cd'}, {'domain': 'japan-feinkost.de', 'expiry': 1645645522, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644435922'}, {'domain': '.japan-feinkost.de', 'expiry': 1675971924, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3f11e909-4801-45b0-b480-3c3803d095be'}, {'domain': 'japan-feinkost.de', 'expiry': 1645645522, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '889fbe0121750692abfd992a2d5e99ed'}, {'domain': '.japan-feinkost.de', 'expiry': 1652211922, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.271681788.1644435922'}, {'domain': '.japan-feinkost.de', 'expiry': 1675971924, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3f11e909-4801-45b0-b480-3c3803d095be'}, {'domain': '.japan-feinkost.de', 'expiry': 1644437722, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.japan-feinkost.de', 'expiry': 1644437724, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ed70ca29-0e61-4b2c-a33d-0ea8bce56f36'}, {'domain': '.japan-feinkost.de', 'expiry': 1644437722, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A45%3A22.091Z'}, {'domain': 'japan-feinkost.de', 'expiry': 1675971924, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.japan-feinkost.de', 'expiry': 1644437724, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ed70ca29-0e61-4b2c-a33d-0ea8bce56f36'}, {'domain': 'japan-feinkost.de', 'expiry': 1645645522, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A2'}, {'domain': 'japan-feinkost.de', 'expiry': 1645645522, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.japan-feinkost.de', 'expiry': 1645645521, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.japan-feinkost.de', 'expiry': 1645645521, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[Before] Cookie-Name 1: sec-banner
+[Before] Cookie-Name 2: cart_sig
+[Before] Cookie-Name 3: cart_ts
+[Before] Cookie-Name 4: _y
+[Before] Cookie-Name 5: cart
+[Before] Cookie-Name 6: _gcl_au
+[Before] Cookie-Name 7: _shopify_y
+[Before] Cookie-Name 8: _shopify_sa_p
+[Before] Cookie-Name 9: _shopify_s
+[Before] Cookie-Name 10: _shopify_sa_t
+[Before] Cookie-Name 11: secure_customer_sig
+[Before] Cookie-Name 12: _s
+[Before] Cookie-Name 13: cart_ver
+[Before] Cookie-Name 14: localization
+[Before] Cookie-Name 15: _landing_page
+[Before] Cookie-Name 16: _orig_referrer
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 16
+[After] Website-Cookies: [{'domain': 'japan-feinkost.de', 'expiry': 1675971922, 'httpOnly': False, 'name': 'sec-banner', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': 'japan-feinkost.de', 'expiry': 1645645522, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'db16dd4fa526a6fff909aec0fe80d8cd'}, {'domain': 'japan-feinkost.de', 'expiry': 1645645522, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644435922'}, {'domain': '.japan-feinkost.de', 'expiry': 1675971924, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3f11e909-4801-45b0-b480-3c3803d095be'}, {'domain': 'japan-feinkost.de', 'expiry': 1645645522, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '889fbe0121750692abfd992a2d5e99ed'}, {'domain': '.japan-feinkost.de', 'expiry': 1652211922, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.271681788.1644435922'}, {'domain': '.japan-feinkost.de', 'expiry': 1675971924, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3f11e909-4801-45b0-b480-3c3803d095be'}, {'domain': '.japan-feinkost.de', 'expiry': 1644437722, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.japan-feinkost.de', 'expiry': 1644437724, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ed70ca29-0e61-4b2c-a33d-0ea8bce56f36'}, {'domain': '.japan-feinkost.de', 'expiry': 1644437722, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A45%3A22.091Z'}, {'domain': 'japan-feinkost.de', 'expiry': 1675971924, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.japan-feinkost.de', 'expiry': 1644437724, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ed70ca29-0e61-4b2c-a33d-0ea8bce56f36'}, {'domain': 'japan-feinkost.de', 'expiry': 1645645522, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A2'}, {'domain': 'japan-feinkost.de', 'expiry': 1645645522, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.japan-feinkost.de', 'expiry': 1645645521, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.japan-feinkost.de', 'expiry': 1645645521, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: sec-banner
+[After] Cookie-Name 2: cart_sig
+[After] Cookie-Name 3: cart_ts
+[After] Cookie-Name 4: _y
+[After] Cookie-Name 5: cart
+[After] Cookie-Name 6: _gcl_au
+[After] Cookie-Name 7: _shopify_y
+[After] Cookie-Name 8: _shopify_sa_p
+[After] Cookie-Name 9: _shopify_s
+[After] Cookie-Name 10: _shopify_sa_t
+[After] Cookie-Name 11: secure_customer_sig
+[After] Cookie-Name 12: _s
+[After] Cookie-Name 13: cart_ver
+[After] Cookie-Name 14: localization
+[After] Cookie-Name 15: _landing_page
+[After] Cookie-Name 16: _orig_referrer
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

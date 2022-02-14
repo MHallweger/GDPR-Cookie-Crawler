@@ -1,0 +1,84 @@
+Website 145: http://www.sexy.delivery/ | Created: 10.02.2022 12:55:21 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 26
+[Before] Website-Cookies: [{'domain': '.sexy.delivery', 'expiry': 1645703712, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'sexy.delivery', 'expiry': 1645703714, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'CA'}, {'domain': 'sexy.delivery', 'expiry': 1645703714, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': 'sexy.delivery', 'expiry': 1645703714, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644494113'}, {'domain': 'sexy.delivery', 'expiry': 1645703714, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'CAD'}, {'domain': 'sexy.delivery', 'expiry': 1644495014, 'httpOnly': False, 'name': '__pf_session', 'path': '/', 'secure': False, 'value': '494fb8b8-b928-46d9-915a-fd91492055d3'}, {'domain': '.sexy.delivery', 'expiry': 1644495914, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'IZBqzwWRYuiC4Y-20220210115513'}, {'domain': '.sexy.delivery', 'expiry': 1707566112, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1479205433.1644494113'}, {'domain': '.sexy.delivery', 'expiry': 1644495912, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.sexy.delivery', 'expiry': 1644494172, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.sexy.delivery', 'expiry': 1676030114, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': '0I0MKXAPPiDIVw-20220210115513'}, {'domain': '.sexy.delivery', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220210115513-0nifEM1NqhNJ4lr4xRF99nYtCXFuDB1mHqmEHP4vl5tMYDdHL'}, {'domain': '.sexy.delivery', 'expiry': 1644580512, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.112515986.1644494113'}, {'domain': '.sexy.delivery', 'expiry': 1644495914, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ebbb1b15-9a8f-4ae5-bc85-ecd3985b7087'}, {'domain': 'sexy.delivery', 'expiry': 1645703714, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e833ec2401908ff094bb142da5e1a878'}, {'domain': 'sexy.delivery', 'expiry': 1707566114, 'httpOnly': False, 'name': '__pf_user', 'path': '/', 'secure': False, 'value': '4fb8b8b9-28c6-4951-9afd-91492055d326'}, {'domain': '.sexy.delivery', 'expiry': 1676030114, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1dec34a3-e276-4f93-84cc-cc52f66154e6'}, {'domain': 'sexy.delivery', 'expiry': 1645703714, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3befa2a10d3cf83ceee0cab29480bc94'}, {'domain': '.sexy.delivery', 'expiry': 1644495912, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T11%3A55%3A12.907Z'}, {'domain': '.sexy.delivery', 'expiry': 1660046114, 'httpOnly': False, 'name': '__tawkuuid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e::sexy.delivery::A6KC34QZ/PT7vfNFaOAyTNCfwFoyfzTHUrseC9Aykil1O5rAacHViBQlvuAwripM::2'}, {'domain': 'sexy.delivery', 'httpOnly': False, 'name': 'TawkConnectionTime', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.sexy.delivery', 'expiry': 1676030114, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1dec34a3-e276-4f93-84cc-cc52f66154e6'}, {'domain': '.sexy.delivery', 'expiry': 1644495914, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ebbb1b15-9a8f-4ae5-bc85-ecd3985b7087'}, {'domain': '.sexy.delivery', 'httpOnly': False, 'name': 'soundest-views', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'sexy.delivery', 'expiry': 1676030114, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.sexy.delivery', 'expiry': 1645703712, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}]
+[Before] Cookie-Name 1: _orig_referrer
+[Before] Cookie-Name 2: localization
+[Before] Cookie-Name 3: cart_ver
+[Before] Cookie-Name 4: cart_ts
+[Before] Cookie-Name 5: cart_currency
+[Before] Cookie-Name 6: __pf_session
+[Before] Cookie-Name 7: omnisendSessionID
+[Before] Cookie-Name 8: _ga
+[Before] Cookie-Name 9: _shopify_sa_p
+[Before] Cookie-Name 10: _gat
+[Before] Cookie-Name 11: omnisendAnonymousID
+[Before] Cookie-Name 12: soundestID
+[Before] Cookie-Name 13: _gid
+[Before] Cookie-Name 14: _shopify_s
+[Before] Cookie-Name 15: cart
+[Before] Cookie-Name 16: __pf_user
+[Before] Cookie-Name 17: _shopify_y
+[Before] Cookie-Name 18: cart_sig
+[Before] Cookie-Name 19: _shopify_sa_t
+[Before] Cookie-Name 20: __tawkuuid
+[Before] Cookie-Name 21: TawkConnectionTime
+[Before] Cookie-Name 22: _y
+[Before] Cookie-Name 23: _s
+[Before] Cookie-Name 24: soundest-views
+[Before] Cookie-Name 25: secure_customer_sig
+[Before] Cookie-Name 26: _landing_page
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 26
+[After] Website-Cookies: [{'domain': '.sexy.delivery', 'expiry': 1645703712, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'sexy.delivery', 'expiry': 1645703714, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'CA'}, {'domain': 'sexy.delivery', 'expiry': 1645703714, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': 'sexy.delivery', 'expiry': 1645703714, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644494113'}, {'domain': 'sexy.delivery', 'expiry': 1645703714, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'CAD'}, {'domain': 'sexy.delivery', 'expiry': 1644495014, 'httpOnly': False, 'name': '__pf_session', 'path': '/', 'secure': False, 'value': '494fb8b8-b928-46d9-915a-fd91492055d3'}, {'domain': '.sexy.delivery', 'expiry': 1644495914, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'IZBqzwWRYuiC4Y-20220210115513'}, {'domain': '.sexy.delivery', 'expiry': 1707566112, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1479205433.1644494113'}, {'domain': '.sexy.delivery', 'expiry': 1644495912, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.sexy.delivery', 'expiry': 1644494172, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.sexy.delivery', 'expiry': 1676030114, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': '0I0MKXAPPiDIVw-20220210115513'}, {'domain': '.sexy.delivery', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220210115513-0nifEM1NqhNJ4lr4xRF99nYtCXFuDB1mHqmEHP4vl5tMYDdHL'}, {'domain': '.sexy.delivery', 'expiry': 1644580512, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.112515986.1644494113'}, {'domain': '.sexy.delivery', 'expiry': 1644495914, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ebbb1b15-9a8f-4ae5-bc85-ecd3985b7087'}, {'domain': 'sexy.delivery', 'expiry': 1645703714, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e833ec2401908ff094bb142da5e1a878'}, {'domain': 'sexy.delivery', 'expiry': 1707566114, 'httpOnly': False, 'name': '__pf_user', 'path': '/', 'secure': False, 'value': '4fb8b8b9-28c6-4951-9afd-91492055d326'}, {'domain': '.sexy.delivery', 'expiry': 1676030114, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1dec34a3-e276-4f93-84cc-cc52f66154e6'}, {'domain': 'sexy.delivery', 'expiry': 1645703714, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3befa2a10d3cf83ceee0cab29480bc94'}, {'domain': '.sexy.delivery', 'expiry': 1644495912, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T11%3A55%3A12.907Z'}, {'domain': '.sexy.delivery', 'expiry': 1660046114, 'httpOnly': False, 'name': '__tawkuuid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e::sexy.delivery::A6KC34QZ/PT7vfNFaOAyTNCfwFoyfzTHUrseC9Aykil1O5rAacHViBQlvuAwripM::2'}, {'domain': 'sexy.delivery', 'httpOnly': False, 'name': 'TawkConnectionTime', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.sexy.delivery', 'expiry': 1676030114, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1dec34a3-e276-4f93-84cc-cc52f66154e6'}, {'domain': '.sexy.delivery', 'expiry': 1644495914, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ebbb1b15-9a8f-4ae5-bc85-ecd3985b7087'}, {'domain': '.sexy.delivery', 'httpOnly': False, 'name': 'soundest-views', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'sexy.delivery', 'expiry': 1676030114, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.sexy.delivery', 'expiry': 1645703712, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}]
+[After] Cookie-Name 1: _orig_referrer
+[After] Cookie-Name 2: localization
+[After] Cookie-Name 3: cart_ver
+[After] Cookie-Name 4: cart_ts
+[After] Cookie-Name 5: cart_currency
+[After] Cookie-Name 6: __pf_session
+[After] Cookie-Name 7: omnisendSessionID
+[After] Cookie-Name 8: _ga
+[After] Cookie-Name 9: _shopify_sa_p
+[After] Cookie-Name 10: _gat
+[After] Cookie-Name 11: omnisendAnonymousID
+[After] Cookie-Name 12: soundestID
+[After] Cookie-Name 13: _gid
+[After] Cookie-Name 14: _shopify_s
+[After] Cookie-Name 15: cart
+[After] Cookie-Name 16: __pf_user
+[After] Cookie-Name 17: _shopify_y
+[After] Cookie-Name 18: cart_sig
+[After] Cookie-Name 19: _shopify_sa_t
+[After] Cookie-Name 20: __tawkuuid
+[After] Cookie-Name 21: TawkConnectionTime
+[After] Cookie-Name 22: _y
+[After] Cookie-Name 23: _s
+[After] Cookie-Name 24: soundest-views
+[After] Cookie-Name 25: secure_customer_sig
+[After] Cookie-Name 26: _landing_page
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

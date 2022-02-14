@@ -1,0 +1,53 @@
+Website 339: http://www.mabucare.de/ | Created: 09.02.2022 18:54:04 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 4
+[Before] Website-Cookies: [{'domain': '.mabucare.de', 'expiry': 1645638834, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.mabucare.de', 'expiry': 1645638834, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'mabucare.de', 'expiry': 1645638846, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'mabucare.de', 'expiry': 1675965246, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _orig_referrer
+[Before] Cookie-Name 2: _landing_page
+[Before] Cookie-Name 3: cart_currency
+[Before] Cookie-Name 4: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 13
+[After] Website-Cookies: [{'domain': '.mabucare.de', 'expiry': 1652205251, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644429250808.14184625'}, {'domain': '.mabucare.de', 'expiry': 1652205250, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.486679846.1644429250'}, {'domain': 'mabucare.de', 'expiry': 1647021250, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0NDI5MjUwMTM3LCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjowfX0='}, {'domain': 'mabucare.de', 'expiry': 1645638846, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'mabucare.de', 'expiry': 1675965250, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e6e76e20-a1f2-4148-a16a-d926ca54a43e'}, {'domain': 'mabucare.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cad64dce-6dbd-4a03-a606-0c1ed6758c1c'}, {'domain': 'mabucare.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A53%3A55.052Z'}, {'domain': '.mabucare.de', 'expiry': 1645638834, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'mabucare.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cad64dce-6dbd-4a03-a606-0c1ed6758c1c'}, {'domain': 'mabucare.de', 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.mabucare.de', 'expiry': 1645638834, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'mabucare.de', 'expiry': 1675965250, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e6e76e20-a1f2-4148-a16a-d926ca54a43e'}, {'domain': 'mabucare.de', 'expiry': 1675965246, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _fbp
+[After] Cookie-Name 2: _gcl_au
+[After] Cookie-Name 3: _bc_c_set
+[After] Cookie-Name 4: cart_currency
+[After] Cookie-Name 5: _y
+[After] Cookie-Name 6: _shopify_s
+[After] Cookie-Name 7: _shopify_sa_t
+[After] Cookie-Name 8: _orig_referrer
+[After] Cookie-Name 9: _s
+[After] Cookie-Name 10: localization
+[After] Cookie-Name 11: _landing_page
+[After] Cookie-Name 12: _shopify_y
+[After] Cookie-Name 13: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 9
+[Difference] Cookie-Name: 1: _fbp
+[Difference] Cookie-Name: 2: _s
+[Difference] Cookie-Name: 3: _shopify_s
+[Difference] Cookie-Name: 4: localization
+[Difference] Cookie-Name: 5: _y
+[Difference] Cookie-Name: 6: _gcl_au
+[Difference] Cookie-Name: 7: _shopify_y
+[Difference] Cookie-Name: 8: _shopify_sa_t
+[Difference] Cookie-Name: 9: _bc_c_set
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

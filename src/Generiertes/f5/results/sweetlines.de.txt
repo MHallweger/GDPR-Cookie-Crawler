@@ -1,0 +1,67 @@
+Website 256: http://www.sweetlines.de/ | Created: 09.02.2022 20:55:01 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 17
+[Before] Website-Cookies: [{'domain': 'sweetlines.de', 'expiry': 1644436553, 'httpOnly': False, 'name': '_aii_Rh9np', 'path': '/', 'secure': False, 'value': '790ad2744af750f2d4116668a4d3f3cb'}, {'domain': '.sweetlines.de', 'expiry': 1652212493, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644436492919.1999082233'}, {'domain': '.sweetlines.de', 'expiry': 1644436552, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.sweetlines.de', 'expiry': 1707508492, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.236323827.1644436493'}, {'domain': '.sweetlines.de', 'expiry': 1644438292, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'sweetlines.de', 'httpOnly': False, 'name': 'snize-recommendation', 'path': '/', 'secure': False, 'value': '2t4uyynvwwf'}, {'domain': '.sweetlines.de', 'expiry': 1644438292, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a4237dee-f7bd-4c30-9fec-a9808cab099c'}, {'domain': '.sweetlines.de', 'expiry': 1644438292, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a4237dee-f7bd-4c30-9fec-a9808cab099c'}, {'domain': 'sweetlines.de', 'expiry': 1645646092, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.sweetlines.de', 'expiry': 1675972492, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '47400e69-bd24-4e1e-92e3-17663263d719'}, {'domain': '.sweetlines.de', 'expiry': 1644438292, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A54%3A52.696Z'}, {'domain': 'sweetlines.de', 'expiry': 1675972492, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.sweetlines.de', 'expiry': 1644522892, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.869154027.1644436493'}, {'domain': '.sweetlines.de', 'expiry': 1645646092, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'sweetlines.de', 'expiry': 1645646092, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.sweetlines.de', 'expiry': 1675972492, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '47400e69-bd24-4e1e-92e3-17663263d719'}, {'domain': '.sweetlines.de', 'expiry': 1645646092, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[Before] Cookie-Name 1: _aii_Rh9np
+[Before] Cookie-Name 2: _fbp
+[Before] Cookie-Name 3: _gat
+[Before] Cookie-Name 4: _ga
+[Before] Cookie-Name 5: _shopify_sa_p
+[Before] Cookie-Name 6: snize-recommendation
+[Before] Cookie-Name 7: _shopify_s
+[Before] Cookie-Name 8: _s
+[Before] Cookie-Name 9: cart_currency
+[Before] Cookie-Name 10: _y
+[Before] Cookie-Name 11: _shopify_sa_t
+[Before] Cookie-Name 12: secure_customer_sig
+[Before] Cookie-Name 13: _gid
+[Before] Cookie-Name 14: _landing_page
+[Before] Cookie-Name 15: localization
+[Before] Cookie-Name 16: _shopify_y
+[Before] Cookie-Name 17: _orig_referrer
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 18
+[After] Website-Cookies: [{'domain': 'sweetlines.de', 'expiry': 1644436553, 'httpOnly': False, 'name': '_aii_Rh9np', 'path': '/', 'secure': False, 'value': '790ad2744af750f2d4116668a4d3f3cb'}, {'domain': '.sweetlines.de', 'expiry': 1652212506, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644436492919.1999082233'}, {'domain': '.sweetlines.de', 'expiry': 1644436552, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.sweetlines.de', 'expiry': 1707508492, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.236323827.1644436493'}, {'domain': '.sweetlines.de', 'expiry': 1644438292, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'sweetlines.de', 'httpOnly': False, 'name': 'snize-recommendation', 'path': '/', 'secure': False, 'value': '2t4uyynvwwf'}, {'domain': '.sweetlines.de', 'expiry': 1644438292, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a4237dee-f7bd-4c30-9fec-a9808cab099c'}, {'domain': '.sweetlines.de', 'expiry': 1644438292, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a4237dee-f7bd-4c30-9fec-a9808cab099c'}, {'domain': 'sweetlines.de', 'expiry': 1645646092, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.sweetlines.de', 'expiry': 1675972492, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '47400e69-bd24-4e1e-92e3-17663263d719'}, {'domain': 'sweetlines.de', 'expiry': 1647028506, 'httpOnly': False, 'name': 'CookieScriptConsent', 'path': '/', 'secure': True, 'value': '{"action":"accept","categories":"[]"}'}, {'domain': '.sweetlines.de', 'expiry': 1644438292, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A54%3A52.696Z'}, {'domain': 'sweetlines.de', 'expiry': 1675972492, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.sweetlines.de', 'expiry': 1644522892, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.869154027.1644436493'}, {'domain': '.sweetlines.de', 'expiry': 1645646092, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'sweetlines.de', 'expiry': 1645646092, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.sweetlines.de', 'expiry': 1675972492, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '47400e69-bd24-4e1e-92e3-17663263d719'}, {'domain': '.sweetlines.de', 'expiry': 1645646092, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: _aii_Rh9np
+[After] Cookie-Name 2: _fbp
+[After] Cookie-Name 3: _gat
+[After] Cookie-Name 4: _ga
+[After] Cookie-Name 5: _shopify_sa_p
+[After] Cookie-Name 6: snize-recommendation
+[After] Cookie-Name 7: _shopify_s
+[After] Cookie-Name 8: _s
+[After] Cookie-Name 9: cart_currency
+[After] Cookie-Name 10: _y
+[After] Cookie-Name 11: CookieScriptConsent
+[After] Cookie-Name 12: _shopify_sa_t
+[After] Cookie-Name 13: secure_customer_sig
+[After] Cookie-Name 14: _gid
+[After] Cookie-Name 15: _landing_page
+[After] Cookie-Name 16: localization
+[After] Cookie-Name 17: _shopify_y
+[After] Cookie-Name 18: _orig_referrer
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: CookieScriptConsent
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

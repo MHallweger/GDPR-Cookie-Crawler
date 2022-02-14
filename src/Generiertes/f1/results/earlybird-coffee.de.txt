@@ -1,0 +1,82 @@
+Website 163: http://www.earlybird-coffee.de/ | Created: 08.02.2022 22:29:07 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 23
+[Before] Website-Cookies: [{'domain': '.earlybird-coffee.de', 'expiry': 1644357539, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e46510c7-0c5f-47f1-a015-9e53d236c905'}, {'domain': '.earlybird-coffee.de', 'expiry': 1644357539, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e46510c7-0c5f-47f1-a015-9e53d236c905'}, {'domain': '.earlybird-coffee.de', 'expiry': 1675891739, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '33556c03-e675-4046-bdaf-8c256bbf57b2'}, {'domain': '.earlybird-coffee.de', 'expiry': 1675891739, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '33556c03-e675-4046-bdaf-8c256bbf57b2'}, {'domain': 'earlybird-coffee.de', 'expiry': 1675891739, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': 'analytics%2Cfunctionality%2Cmarketing'}, {'domain': 'earlybird-coffee.de', 'httpOnly': False, 'name': 'fsb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': 'earlybird-coffee.de', 'expiry': 1707427739, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQzNTU3MzksInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vZWFybHliaXJkLWNvZmZlZS5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQzNTU3MzksInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vZWFybHliaXJkLWNvZmZlZS5kZS8ifX0='}, {'domain': 'earlybird-coffee.de', 'httpOnly': False, 'name': 'qab_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.earlybird-coffee.de', 'expiry': 1707427738, 'httpOnly': False, 'name': '_ga_XJ77V97BVH', 'path': '/', 'secure': False, 'value': 'GS1.1.1644355738.1.0.1644355738.0'}, {'domain': '.earlybird-coffee.de', 'expiry': 1644357538, 'httpOnly': False, 'name': '_hjSession_2649663', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjM2ZTIxMzg0LWY4MmQtNGFmZi1hZTYxLTIzYTgxN2ZiNGI3NCIsImNyZWF0ZWQiOjE2NDQzNTU3Mzg0MjgsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': 'earlybird-coffee.de', 'expiry': 1644359338, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'earlybird-coffee.de', 'expiry': 1644355858, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.earlybird-coffee.de', 'expiry': 1644357538, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.earlybird-coffee.de', 'expiry': 1644357538, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'earlybird-coffee.de', 'expiry': 1675891739, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.earlybird-coffee.de', 'expiry': 1675891738, 'httpOnly': False, 'name': '_hjSessionUser_2649663', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImZlZDI5ZWRlLWFiMzUtNWU4Zi1hNGEwLTUxZTE4NmM5NzUwNyIsImNyZWF0ZWQiOjE2NDQzNTU3Mzg0MTksImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': 'earlybird-coffee.de', 'expiry': 1645565339, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': ''}, {'domain': '.earlybird-coffee.de', 'expiry': 1652131738, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1369881200.1644355739'}, {'domain': '.earlybird-coffee.de', 'expiry': 1644357538, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.earlybird-coffee.de', 'expiry': 1645565337, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.earlybird-coffee.de', 'expiry': 1645565337, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'earlybird-coffee.de', 'expiry': 1644442139, 'httpOnly': True, 'name': '_secure_session_id', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '7bb5c1bbf1048a90000e29201a7bd7ac'}, {'domain': 'earlybird-coffee.de', 'expiry': 1645565339, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}]
+[Before] Cookie-Name 1: _shopify_s
+[Before] Cookie-Name 2: _s
+[Before] Cookie-Name 3: _shopify_y
+[Before] Cookie-Name 4: _y
+[Before] Cookie-Name 5: cookieconsent_preferences_disabled
+[Before] Cookie-Name 6: fsb_previous_pathname
+[Before] Cookie-Name 7: __kla_id
+[Before] Cookie-Name 8: qab_previous_pathname
+[Before] Cookie-Name 9: _ga_XJ77V97BVH
+[Before] Cookie-Name 10: _hjSession_2649663
+[Before] Cookie-Name 11: shopify_pay_redirect
+[Before] Cookie-Name 12: _hjIncludedInSessionSample
+[Before] Cookie-Name 13: _hjFirstSeen
+[Before] Cookie-Name 14: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 15: secure_customer_sig
+[Before] Cookie-Name 16: _hjSessionUser_2649663
+[Before] Cookie-Name 17: localization
+[Before] Cookie-Name 18: _gcl_au
+[Before] Cookie-Name 19: _shopify_sa_p
+[Before] Cookie-Name 20: _landing_page
+[Before] Cookie-Name 21: _orig_referrer
+[Before] Cookie-Name 22: _secure_session_id
+[Before] Cookie-Name 23: cart_currency
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 25
+[After] Website-Cookies: [{'domain': '.earlybird-coffee.de', 'expiry': 1644357539, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e46510c7-0c5f-47f1-a015-9e53d236c905'}, {'domain': 'earlybird-coffee.de', 'httpOnly': False, 'name': 'fsb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.earlybird-coffee.de', 'expiry': 1644357539, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e46510c7-0c5f-47f1-a015-9e53d236c905'}, {'domain': '.earlybird-coffee.de', 'expiry': 1675891739, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '33556c03-e675-4046-bdaf-8c256bbf57b2'}, {'domain': '.earlybird-coffee.de', 'expiry': 1675891739, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '33556c03-e675-4046-bdaf-8c256bbf57b2'}, {'domain': 'earlybird-coffee.de', 'expiry': 1675891739, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'earlybird-coffee.de', 'expiry': 1675891752, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': 'analytics%2Cfunctionality%2Cmarketing'}, {'domain': 'earlybird-coffee.de', 'expiry': 1707427739, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQzNTU3MzksInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vZWFybHliaXJkLWNvZmZlZS5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQzNTU3MzksInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vZWFybHliaXJkLWNvZmZlZS5kZS8ifX0='}, {'domain': 'earlybird-coffee.de', 'httpOnly': False, 'name': 'qab_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.earlybird-coffee.de', 'expiry': 1707427738, 'httpOnly': False, 'name': '_ga_XJ77V97BVH', 'path': '/', 'secure': False, 'value': 'GS1.1.1644355738.1.0.1644355738.0'}, {'domain': 'earlybird-coffee.de', 'expiry': 1675891752, 'httpOnly': False, 'name': 'cookieconsent_status', 'path': '/', 'secure': False, 'value': 'allow'}, {'domain': '.earlybird-coffee.de', 'expiry': 1644357538, 'httpOnly': False, 'name': '_hjSession_2649663', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjM2ZTIxMzg0LWY4MmQtNGFmZi1hZTYxLTIzYTgxN2ZiNGI3NCIsImNyZWF0ZWQiOjE2NDQzNTU3Mzg0MjgsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': 'earlybird-coffee.de', 'expiry': 1644359338, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'earlybird-coffee.de', 'expiry': 1644355858, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.earlybird-coffee.de', 'expiry': 1644357538, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.earlybird-coffee.de', 'expiry': 1644357538, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.earlybird-coffee.de', 'expiry': 1675891738, 'httpOnly': False, 'name': '_hjSessionUser_2649663', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImZlZDI5ZWRlLWFiMzUtNWU4Zi1hNGEwLTUxZTE4NmM5NzUwNyIsImNyZWF0ZWQiOjE2NDQzNTU3Mzg0MTksImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.earlybird-coffee.de', 'expiry': 1652131752, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644355752614.891709215'}, {'domain': 'earlybird-coffee.de', 'expiry': 1645565339, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': ''}, {'domain': '.earlybird-coffee.de', 'expiry': 1652131738, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1369881200.1644355739'}, {'domain': '.earlybird-coffee.de', 'expiry': 1644357538, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.earlybird-coffee.de', 'expiry': 1645565337, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.earlybird-coffee.de', 'expiry': 1645565337, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'earlybird-coffee.de', 'expiry': 1644442139, 'httpOnly': True, 'name': '_secure_session_id', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '7bb5c1bbf1048a90000e29201a7bd7ac'}, {'domain': 'earlybird-coffee.de', 'expiry': 1645565339, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}]
+[After] Cookie-Name 1: _shopify_s
+[After] Cookie-Name 2: fsb_previous_pathname
+[After] Cookie-Name 3: _s
+[After] Cookie-Name 4: _shopify_y
+[After] Cookie-Name 5: _y
+[After] Cookie-Name 6: secure_customer_sig
+[After] Cookie-Name 7: cookieconsent_preferences_disabled
+[After] Cookie-Name 8: __kla_id
+[After] Cookie-Name 9: qab_previous_pathname
+[After] Cookie-Name 10: _ga_XJ77V97BVH
+[After] Cookie-Name 11: cookieconsent_status
+[After] Cookie-Name 12: _hjSession_2649663
+[After] Cookie-Name 13: shopify_pay_redirect
+[After] Cookie-Name 14: _hjIncludedInSessionSample
+[After] Cookie-Name 15: _hjFirstSeen
+[After] Cookie-Name 16: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 17: _hjSessionUser_2649663
+[After] Cookie-Name 18: _fbp
+[After] Cookie-Name 19: localization
+[After] Cookie-Name 20: _gcl_au
+[After] Cookie-Name 21: _shopify_sa_p
+[After] Cookie-Name 22: _landing_page
+[After] Cookie-Name 23: _orig_referrer
+[After] Cookie-Name 24: _secure_session_id
+[After] Cookie-Name 25: cart_currency
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _hjIncludedInSessionSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 2
+[Difference] Cookie-Name: 1: _fbp
+[Difference] Cookie-Name: 2: cookieconsent_status
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

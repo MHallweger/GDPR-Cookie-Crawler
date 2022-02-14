@@ -1,0 +1,69 @@
+Website 358: http://www.re-athlete.de/ | Created: 09.02.2022 21:26:02 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 18
+[Before] Website-Cookies: [{'domain': 're-athlete.de', 'httpOnly': False, 'name': 'TawkConnectionTime', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': 're-athlete.de', 'expiry': 1675974350, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': ''}, {'domain': '.re-athlete.de', 'expiry': 1644440148, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T20%3A25%3A48.230Z'}, {'domain': '.re-athlete.de', 'expiry': 1707510348, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.637730885.1644438348'}, {'domain': '.re-athlete.de', 'expiry': 1644440148, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '43b74aac-0f17-42ac-9298-9625cea9b968'}, {'domain': '.re-athlete.de', 'expiry': 1652214349, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644438348557.2271967'}, {'domain': '.re-athlete.de', 'expiry': 1644440148, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.re-athlete.de', 'expiry': 1644524748, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1827867545.1644438348'}, {'domain': '.re-athlete.de', 'expiry': 1644440148, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '43b74aac-0f17-42ac-9298-9625cea9b968'}, {'domain': '.re-athlete.de', 'expiry': 1645647947, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.re-athlete.de', 'expiry': 1644438408, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 're-athlete.de', 'expiry': 1645647947, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.re-athlete.de', 'expiry': 1645647947, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 're-athlete.de', 'expiry': 1644441948, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.re-athlete.de', 'expiry': 1675974347, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f0cb11ee-76f7-4715-b644-65f167fa2df1'}, {'domain': 're-athlete.de', 'expiry': 1645647947, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.re-athlete.de', 'expiry': 1675974347, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f0cb11ee-76f7-4715-b644-65f167fa2df1'}, {'domain': 're-athlete.de', 'expiry': 1675974347, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: TawkConnectionTime
+[Before] Cookie-Name 2: cookieconsent_preferences_disabled
+[Before] Cookie-Name 3: _shopify_sa_t
+[Before] Cookie-Name 4: _ga
+[Before] Cookie-Name 5: _shopify_s
+[Before] Cookie-Name 6: _fbp
+[Before] Cookie-Name 7: _shopify_sa_p
+[Before] Cookie-Name 8: _gid
+[Before] Cookie-Name 9: _s
+[Before] Cookie-Name 10: _orig_referrer
+[Before] Cookie-Name 11: _gat
+[Before] Cookie-Name 12: cart_currency
+[Before] Cookie-Name 13: _landing_page
+[Before] Cookie-Name 14: shopify_pay_redirect
+[Before] Cookie-Name 15: _shopify_y
+[Before] Cookie-Name 16: localization
+[Before] Cookie-Name 17: _y
+[Before] Cookie-Name 18: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 19
+[After] Website-Cookies: [{'domain': 're-athlete.de', 'expiry': 1675974368, 'httpOnly': False, 'name': 'cookieconsent_status', 'path': '/', 'secure': False, 'value': 'allow'}, {'domain': 're-athlete.de', 'httpOnly': False, 'name': 'TawkConnectionTime', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': 're-athlete.de', 'expiry': 1675974368, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': ''}, {'domain': '.re-athlete.de', 'expiry': 1644440148, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T20%3A25%3A48.230Z'}, {'domain': '.re-athlete.de', 'expiry': 1707510348, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.637730885.1644438348'}, {'domain': '.re-athlete.de', 'expiry': 1644440148, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '43b74aac-0f17-42ac-9298-9625cea9b968'}, {'domain': '.re-athlete.de', 'expiry': 1652214368, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644438348557.2271967'}, {'domain': '.re-athlete.de', 'expiry': 1644440148, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.re-athlete.de', 'expiry': 1644524748, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1827867545.1644438348'}, {'domain': '.re-athlete.de', 'expiry': 1644440148, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '43b74aac-0f17-42ac-9298-9625cea9b968'}, {'domain': '.re-athlete.de', 'expiry': 1645647947, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.re-athlete.de', 'expiry': 1644438408, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 're-athlete.de', 'expiry': 1645647947, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.re-athlete.de', 'expiry': 1645647947, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 're-athlete.de', 'expiry': 1644441948, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.re-athlete.de', 'expiry': 1675974347, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f0cb11ee-76f7-4715-b644-65f167fa2df1'}, {'domain': 're-athlete.de', 'expiry': 1645647947, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.re-athlete.de', 'expiry': 1675974347, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f0cb11ee-76f7-4715-b644-65f167fa2df1'}, {'domain': 're-athlete.de', 'expiry': 1675974347, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: cookieconsent_status
+[After] Cookie-Name 2: TawkConnectionTime
+[After] Cookie-Name 3: cookieconsent_preferences_disabled
+[After] Cookie-Name 4: _shopify_sa_t
+[After] Cookie-Name 5: _ga
+[After] Cookie-Name 6: _shopify_s
+[After] Cookie-Name 7: _fbp
+[After] Cookie-Name 8: _shopify_sa_p
+[After] Cookie-Name 9: _gid
+[After] Cookie-Name 10: _s
+[After] Cookie-Name 11: _orig_referrer
+[After] Cookie-Name 12: _gat
+[After] Cookie-Name 13: cart_currency
+[After] Cookie-Name 14: _landing_page
+[After] Cookie-Name 15: shopify_pay_redirect
+[After] Cookie-Name 16: _shopify_y
+[After] Cookie-Name 17: localization
+[After] Cookie-Name 18: _y
+[After] Cookie-Name 19: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _gat (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: cookieconsent_status
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

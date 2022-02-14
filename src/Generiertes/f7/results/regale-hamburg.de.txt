@@ -1,0 +1,80 @@
+Website 19: http://www.regale-hamburg.de/ | Created: 10.02.2022 17:23:55 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 22
+[Before] Website-Cookies: [{'domain': '.regale-hamburg.de', 'expiry': 1644596627, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': '14bhqdu|1644510227191|1|1|j.clarity.ms/collect'}, {'domain': '.regale-hamburg.de', 'expiry': 1644510286, 'httpOnly': False, 'name': '_gat_gtag_UA_191798241_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.regale-hamburg.de', 'expiry': 1644596626, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.217676743.1644510226'}, {'domain': '.regale-hamburg.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.regale-hamburg.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T16%3A23%3A46.043Z'}, {'domain': '.regale-hamburg.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'regale-hamburg.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.regale-hamburg.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T16%3A23%3A46.008Z'}, {'domain': '.regale-hamburg.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e27672a4-f734-46b5-a78a-3540647cca2a'}, {'domain': '.regale-hamburg.de', 'expiry': 1676046225, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.regale-hamburg.de', 'expiry': 1645719825, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.regale-hamburg.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e27672a4-f734-46b5-a78a-3540647cca2a'}, {'domain': '.regale-hamburg.de', 'expiry': 1676046226, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': '1dm23yc|1|eyv|0'}, {'domain': '.regale-hamburg.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.regale-hamburg.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '065c1019-cdb9-43be-ae0f-03c1d5ca5d77'}, {'domain': '.regale-hamburg.de', 'expiry': 1676046225, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%7D'}, {'domain': '.regale-hamburg.de', 'expiry': 1707582226, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1887695685.1644510226'}, {'domain': '.regale-hamburg.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.regale-hamburg.de', 'expiry': 1707582226, 'httpOnly': False, 'name': '_ga_YP3SEJY3HQ', 'path': '/', 'secure': False, 'value': 'GS1.1.1644510226.1.0.1644510226.60'}, {'domain': '.regale-hamburg.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '065c1019-cdb9-43be-ae0f-03c1d5ca5d77'}, {'domain': '.regale-hamburg.de', 'expiry': 1644512025, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'regale-hamburg.de', 'expiry': 1676046225, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _clsk
+[Before] Cookie-Name 2: _gat_gtag_UA_191798241_1
+[Before] Cookie-Name 3: _gid
+[Before] Cookie-Name 4: _shopify_sa_p
+[Before] Cookie-Name 5: _shopify_sa_t
+[Before] Cookie-Name 6: _shopify_evids
+[Before] Cookie-Name 7: _shopify_evids
+[Before] Cookie-Name 8: _shopify_d
+[Before] Cookie-Name 9: _shopify_s
+[Before] Cookie-Name 10: _shopify_m
+[Before] Cookie-Name 11: _shopify_tw
+[Before] Cookie-Name 12: _s
+[Before] Cookie-Name 13: _clck
+[Before] Cookie-Name 14: _landing_page
+[Before] Cookie-Name 15: _shopify_y
+[Before] Cookie-Name 16: _tracking_consent
+[Before] Cookie-Name 17: _ga
+[Before] Cookie-Name 18: _orig_referrer
+[Before] Cookie-Name 19: _ga_YP3SEJY3HQ
+[Before] Cookie-Name 20: _y
+[Before] Cookie-Name 21: _shopify_tm
+[Before] Cookie-Name 22: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 25
+[After] Website-Cookies: [{'domain': '.regale-hamburg.de', 'expiry': 1644510301, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.regale-hamburg.de', 'expiry': 1676046241, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22con%22%3A%7B%22GDPR%22%3A%221%22%7D%7D'}, {'domain': '.regale-hamburg.de', 'expiry': 1676046241, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': '.regale-hamburg.de', 'expiry': 1645719825, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.regale-hamburg.de', 'expiry': 1644512041, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e27672a4-f734-46b5-a78a-3540647cca2a'}, {'domain': 'regale-hamburg.de', 'expiry': 1645719841, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '179ae10de29b4122a36dcae1d34a0df1'}, {'domain': 'regale-hamburg.de', 'expiry': 1676046240, 'httpOnly': False, 'name': 'cookieconsent_status', 'path': '/', 'secure': False, 'value': 'dismiss'}, {'domain': '.regale-hamburg.de', 'expiry': 1644596627, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': '14bhqdu|1644510227191|1|1|j.clarity.ms/collect'}, {'domain': '.regale-hamburg.de', 'expiry': 1644510286, 'httpOnly': False, 'name': '_gat_gtag_UA_191798241_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'regale-hamburg.de', 'expiry': 1676046241, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.regale-hamburg.de', 'expiry': 1644596641, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.217676743.1644510226'}, {'domain': '.regale-hamburg.de', 'expiry': 1644512041, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.regale-hamburg.de', 'expiry': 1644512041, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T16%3A23%3A46.043Z'}, {'domain': '.regale-hamburg.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'regale-hamburg.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.regale-hamburg.de', 'expiry': 1676046226, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': '1dm23yc|1|eyv|0'}, {'domain': '.regale-hamburg.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T16%3A23%3A46.008Z'}, {'domain': '.regale-hamburg.de', 'expiry': 1644512041, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e27672a4-f734-46b5-a78a-3540647cca2a'}, {'domain': '.regale-hamburg.de', 'expiry': 1645719841, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.regale-hamburg.de', 'expiry': 1707582241, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1887695685.1644510226'}, {'domain': '.regale-hamburg.de', 'expiry': 1645719841, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.regale-hamburg.de', 'expiry': 1676046241, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '065c1019-cdb9-43be-ae0f-03c1d5ca5d77'}, {'domain': '.regale-hamburg.de', 'expiry': 1707582226, 'httpOnly': False, 'name': '_ga_YP3SEJY3HQ', 'path': '/', 'secure': False, 'value': 'GS1.1.1644510226.1.0.1644510226.60'}, {'domain': '.regale-hamburg.de', 'expiry': 1676046241, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '065c1019-cdb9-43be-ae0f-03c1d5ca5d77'}, {'domain': '.regale-hamburg.de', 'expiry': 1644512041, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: _gat
+[After] Cookie-Name 2: _tracking_consent
+[After] Cookie-Name 3: _shopify_m
+[After] Cookie-Name 4: _shopify_tw
+[After] Cookie-Name 5: _shopify_s
+[After] Cookie-Name 6: cart_sig
+[After] Cookie-Name 7: cookieconsent_status
+[After] Cookie-Name 8: _clsk
+[After] Cookie-Name 9: _gat_gtag_UA_191798241_1
+[After] Cookie-Name 10: secure_customer_sig
+[After] Cookie-Name 11: _gid
+[After] Cookie-Name 12: _shopify_sa_p
+[After] Cookie-Name 13: _shopify_sa_t
+[After] Cookie-Name 14: _shopify_evids
+[After] Cookie-Name 15: _shopify_evids
+[After] Cookie-Name 16: _clck
+[After] Cookie-Name 17: _shopify_d
+[After] Cookie-Name 18: _s
+[After] Cookie-Name 19: _landing_page
+[After] Cookie-Name 20: _ga
+[After] Cookie-Name 21: _orig_referrer
+[After] Cookie-Name 22: _shopify_y
+[After] Cookie-Name 23: _ga_YP3SEJY3HQ
+[After] Cookie-Name 24: _y
+[After] Cookie-Name 25: _shopify_tm
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _clsk (Microsoft Clarity (User experience tool))
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _clck (Microsoft Clarity (User experience tool))
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 3
+[Difference] Cookie-Name: 1: cookieconsent_status
+[Difference] Cookie-Name: 2: cart_sig
+[Difference] Cookie-Name: 3: _gat
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

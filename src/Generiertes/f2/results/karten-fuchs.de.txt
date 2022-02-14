@@ -1,0 +1,51 @@
+Website 229: http://www.karten-fuchs.de/ | Created: 09.02.2022 11:55:25 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 4
+[Before] Website-Cookies: [{'domain': '.karten-fuchs.de', 'expiry': 1645613716, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.karten-fuchs.de', 'expiry': 1645613716, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.karten-fuchs.de', 'expiry': 1645613716, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.karten-fuchs.de', 'expiry': 1675940116, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _landing_page
+[Before] Cookie-Name 2: _orig_referrer
+[Before] Cookie-Name 3: cart_currency
+[Before] Cookie-Name 4: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 12
+[After] Website-Cookies: [{'domain': '.karten-fuchs.de', 'expiry': 1652180132, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644404131697.406703903'}, {'domain': 'www.karten-fuchs.de', 'expiry': 1644405931, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5408ebfc-77fa-486b-afc5-911d604658c6'}, {'domain': 'www.karten-fuchs.de', 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.karten-fuchs.de', 'expiry': 1675940131, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3c9a17bb-eee6-4726-b867-c02d2fe8d02d'}, {'domain': 'www.karten-fuchs.de', 'expiry': 1675940131, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3c9a17bb-eee6-4726-b867-c02d2fe8d02d'}, {'domain': 'www.karten-fuchs.de', 'expiry': 1646996131, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0NDA0MTMxNTEyLCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjowfX0='}, {'domain': '.karten-fuchs.de', 'expiry': 1645613716, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.karten-fuchs.de', 'expiry': 1644405931, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5408ebfc-77fa-486b-afc5-911d604658c6'}, {'domain': 'www.karten-fuchs.de', 'expiry': 1645613716, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.karten-fuchs.de', 'expiry': 1645613716, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.karten-fuchs.de', 'expiry': 1644405931, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A55%3A17.294Z'}, {'domain': 'www.karten-fuchs.de', 'expiry': 1675940116, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _fbp
+[After] Cookie-Name 2: _s
+[After] Cookie-Name 3: localization
+[After] Cookie-Name 4: _y
+[After] Cookie-Name 5: _shopify_y
+[After] Cookie-Name 6: _bc_c_set
+[After] Cookie-Name 7: _landing_page
+[After] Cookie-Name 8: _shopify_s
+[After] Cookie-Name 9: cart_currency
+[After] Cookie-Name 10: _orig_referrer
+[After] Cookie-Name 11: _shopify_sa_t
+[After] Cookie-Name 12: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 8
+[Difference] Cookie-Name: 1: localization
+[Difference] Cookie-Name: 2: _shopify_sa_t
+[Difference] Cookie-Name: 3: _shopify_y
+[Difference] Cookie-Name: 4: _fbp
+[Difference] Cookie-Name: 5: _bc_c_set
+[Difference] Cookie-Name: 6: _shopify_s
+[Difference] Cookie-Name: 7: _s
+[Difference] Cookie-Name: 8: _y
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

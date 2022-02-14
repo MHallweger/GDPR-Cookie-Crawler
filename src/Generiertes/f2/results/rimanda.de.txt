@@ -1,0 +1,67 @@
+Website 205: http://www.rimanda.de/ | Created: 09.02.2022 11:48:21 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 17
+[Before] Website-Cookies: [{'domain': 'www.vlaroni.de', 'expiry': 1707475691, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MDM2OTEsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LnZsYXJvbmkuZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NDAzNjkxLCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL3d3dy52bGFyb25pLmRlLyJ9fQ=='}, {'domain': '.vlaroni.de', 'expiry': 1644405489, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.vlaroni.de', 'expiry': 1644405500, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2e450e5c-a3f6-4c63-a38f-ab115188afac'}, {'domain': '.vlaroni.de', 'expiry': 1644405489, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A48%3A09.940Z'}, {'domain': '.vlaroni.de', 'expiry': 1675939690, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU9HWTFPRFJqWTJFdE5EQTRNQzAwWW1ZeExUZzJNV1V0TmpRNVl6azJNVEV4TWpCaA'}, {'domain': '.vlaroni.de', 'expiry': 1675939700, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3e141819-950e-44f4-bd89-5c11e0b26391'}, {'domain': 'www.vlaroni.de', 'expiry': 1645613288, 'httpOnly': True, 'name': 'keep_alive', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2e450e5c-a3f6-4c63-a38f-ab115188afac'}, {'domain': '.vlaroni.de', 'expiry': 1675939700, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3e141819-950e-44f4-bd89-5c11e0b26391'}, {'domain': '.vlaroni.de', 'expiry': 1707475692, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.1.794498668.1644403692'}, {'domain': '.vlaroni.de', 'expiry': 1644405500, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2e450e5c-a3f6-4c63-a38f-ab115188afac'}, {'domain': '.vlaroni.de', 'expiry': 1645613289, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.vlaroni.de', 'expiry': 1707475692, 'httpOnly': False, 'name': '_ga_S5PSPP6KFJ', 'path': '/', 'secure': False, 'value': 'GS1.1.1644403692.1.0.1644403692.0'}, {'domain': 'www.vlaroni.de', 'expiry': 1645613300, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.vlaroni.de', 'expiry': 1645613300, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.vlaroni.de', 'expiry': 1652179691, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644403690527.1780883898'}, {'domain': '.vlaroni.de', 'expiry': 1645613289, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.vlaroni.de', 'expiry': 1675939700, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: __kla_id
+[Before] Cookie-Name 2: _shopify_sa_p
+[Before] Cookie-Name 3: _shopify_s
+[Before] Cookie-Name 4: _shopify_sa_t
+[Before] Cookie-Name 5: _pin_unauth
+[Before] Cookie-Name 6: _y
+[Before] Cookie-Name 7: keep_alive
+[Before] Cookie-Name 8: _shopify_y
+[Before] Cookie-Name 9: _ga
+[Before] Cookie-Name 10: _s
+[Before] Cookie-Name 11: _landing_page
+[Before] Cookie-Name 12: _ga_S5PSPP6KFJ
+[Before] Cookie-Name 13: localization
+[Before] Cookie-Name 14: cart_currency
+[Before] Cookie-Name 15: _fbp
+[Before] Cookie-Name 16: _orig_referrer
+[Before] Cookie-Name 17: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 17
+[After] Website-Cookies: [{'domain': 'www.vlaroni.de', 'expiry': 1707475691, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MDM2OTEsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LnZsYXJvbmkuZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NDAzNjkxLCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL3d3dy52bGFyb25pLmRlLyJ9fQ=='}, {'domain': '.vlaroni.de', 'expiry': 1644405489, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.vlaroni.de', 'expiry': 1644405500, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2e450e5c-a3f6-4c63-a38f-ab115188afac'}, {'domain': '.vlaroni.de', 'expiry': 1644405489, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A48%3A09.940Z'}, {'domain': '.vlaroni.de', 'expiry': 1675939690, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU9HWTFPRFJqWTJFdE5EQTRNQzAwWW1ZeExUZzJNV1V0TmpRNVl6azJNVEV4TWpCaA'}, {'domain': '.vlaroni.de', 'expiry': 1675939700, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3e141819-950e-44f4-bd89-5c11e0b26391'}, {'domain': 'www.vlaroni.de', 'expiry': 1645613288, 'httpOnly': True, 'name': 'keep_alive', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2e450e5c-a3f6-4c63-a38f-ab115188afac'}, {'domain': '.vlaroni.de', 'expiry': 1675939700, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3e141819-950e-44f4-bd89-5c11e0b26391'}, {'domain': '.vlaroni.de', 'expiry': 1707475692, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.1.794498668.1644403692'}, {'domain': '.vlaroni.de', 'expiry': 1644405500, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2e450e5c-a3f6-4c63-a38f-ab115188afac'}, {'domain': '.vlaroni.de', 'expiry': 1645613289, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.vlaroni.de', 'expiry': 1707475692, 'httpOnly': False, 'name': '_ga_S5PSPP6KFJ', 'path': '/', 'secure': False, 'value': 'GS1.1.1644403692.1.0.1644403692.0'}, {'domain': 'www.vlaroni.de', 'expiry': 1645613300, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.vlaroni.de', 'expiry': 1645613300, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.vlaroni.de', 'expiry': 1652179691, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644403690527.1780883898'}, {'domain': '.vlaroni.de', 'expiry': 1645613289, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.vlaroni.de', 'expiry': 1675939700, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: __kla_id
+[After] Cookie-Name 2: _shopify_sa_p
+[After] Cookie-Name 3: _shopify_s
+[After] Cookie-Name 4: _shopify_sa_t
+[After] Cookie-Name 5: _pin_unauth
+[After] Cookie-Name 6: _y
+[After] Cookie-Name 7: keep_alive
+[After] Cookie-Name 8: _shopify_y
+[After] Cookie-Name 9: _ga
+[After] Cookie-Name 10: _s
+[After] Cookie-Name 11: _landing_page
+[After] Cookie-Name 12: _ga_S5PSPP6KFJ
+[After] Cookie-Name 13: localization
+[After] Cookie-Name 14: cart_currency
+[After] Cookie-Name 15: _fbp
+[After] Cookie-Name 16: _orig_referrer
+[After] Cookie-Name 17: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

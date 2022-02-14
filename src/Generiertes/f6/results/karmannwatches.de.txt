@@ -1,0 +1,44 @@
+Website 90: http://www.karmannwatches.de/ | Created: 10.02.2022 12:39:19 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 7
+[Before] Website-Cookies: [{'domain': 'karmannwatches.de', 'expiry': 1676029151, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': 'analytics'}, {'domain': '.karmannwatches.de', 'expiry': 1652269151, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644493150929.149385059'}, {'domain': '.karmannwatches.de', 'expiry': 1644494951, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fd90c565-2ca2-4f98-8fdf-f77160ec5f45'}, {'domain': '.karmannwatches.de', 'expiry': 1645702750, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.karmannwatches.de', 'expiry': 1644494950, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.karmannwatches.de', 'expiry': 1645702750, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'karmannwatches.de', 'expiry': 1676029151, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: cookieconsent_preferences_disabled
+[Before] Cookie-Name 2: _fbp
+[Before] Cookie-Name 3: _s
+[Before] Cookie-Name 4: _orig_referrer
+[Before] Cookie-Name 5: _shopify_sa_p
+[Before] Cookie-Name 6: _landing_page
+[Before] Cookie-Name 7: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 8
+[After] Website-Cookies: [{'domain': 'karmannwatches.de', 'expiry': 1676029165, 'httpOnly': False, 'name': 'cookieconsent_status', 'path': '/', 'secure': False, 'value': 'allow'}, {'domain': 'karmannwatches.de', 'expiry': 1676029165, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': 'analytics'}, {'domain': '.karmannwatches.de', 'expiry': 1652269165, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644493150929.149385059'}, {'domain': '.karmannwatches.de', 'expiry': 1644494951, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fd90c565-2ca2-4f98-8fdf-f77160ec5f45'}, {'domain': '.karmannwatches.de', 'expiry': 1645702750, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.karmannwatches.de', 'expiry': 1644494950, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.karmannwatches.de', 'expiry': 1645702750, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'karmannwatches.de', 'expiry': 1676029151, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: cookieconsent_status
+[After] Cookie-Name 2: cookieconsent_preferences_disabled
+[After] Cookie-Name 3: _fbp
+[After] Cookie-Name 4: _s
+[After] Cookie-Name 5: _orig_referrer
+[After] Cookie-Name 6: _shopify_sa_p
+[After] Cookie-Name 7: _landing_page
+[After] Cookie-Name 8: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: cookieconsent_status
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

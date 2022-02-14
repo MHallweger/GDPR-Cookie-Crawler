@@ -1,0 +1,64 @@
+Website 9: http://www.skielka-designschmuck.de/ | Created: 09.02.2022 10:48:17 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 18
+[Before] Website-Cookies: [{'domain': '.skielka-designschmuck.de', 'expiry': 1645609688, 'httpOnly': False, 'name': '__cmpcvcu6400', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '__s40_s1052_s23_s26_s135_s1409_s905_s24_c2238_s1508_s1097_s971_s1432_s902__'}, {'domain': '.skielka-designschmuck.de', 'expiry': 1644401888, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.skielka-designschmuck.de', 'expiry': 1645609688, 'httpOnly': False, 'name': '__cmpcpcu6400', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '__51__'}, {'domain': '.skielka-designschmuck.de', 'expiry': 1645609687, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.skielka-designschmuck.de', 'expiry': 1644400688, 'httpOnly': False, 'name': '__utmt', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.skielka-designschmuck.de', 'httpOnly': False, 'name': '__utmc', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.skielka-designschmuck.de', 'expiry': 1644401888, 'httpOnly': False, 'name': '__utmb', 'path': '/', 'secure': False, 'value': '1.1.10.1644400088'}, {'domain': 'www.skielka-designschmuck.de', 'expiry': 1707472088, 'httpOnly': False, 'name': '__utma', 'path': '/', 'secure': False, 'value': '1.387672481.1644400088.1644400088.1644400088.1'}, {'domain': '.skielka-designschmuck.de', 'expiry': 1644401888, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T09%3A48%3A08.309Z'}, {'domain': '.skielka-designschmuck.de', 'expiry': 1645609687, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.skielka-designschmuck.de', 'expiry': 1644401888, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '61c35cca-e02d-4ed8-8999-6cdf4d4edfad'}, {'domain': '.skielka-designschmuck.de', 'expiry': 1645609688, 'httpOnly': False, 'name': '__cmpconsent6400', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'CPUHZtgPUHZtgAfRNBDECBCgAAAAAAAAAAigAAAAAAAA'}, {'domain': 'www.skielka-designschmuck.de', 'expiry': 1660168088, 'httpOnly': False, 'name': '__utmz', 'path': '/', 'secure': False, 'value': '1.1644400088.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)'}, {'domain': '.skielka-designschmuck.de', 'expiry': 1652176088, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.2083341088.1644400088'}, {'domain': '.skielka-designschmuck.de', 'expiry': 1675936087, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1e15cbb5-f4d4-4f28-9e14-9a02c5cfde44'}, {'domain': '.skielka-designschmuck.de', 'expiry': 1644401888, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '61c35cca-e02d-4ed8-8999-6cdf4d4edfad'}, {'domain': '.skielka-designschmuck.de', 'expiry': 1675936087, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1e15cbb5-f4d4-4f28-9e14-9a02c5cfde44'}, {'domain': 'www.skielka-designschmuck.de', 'expiry': 1675936087, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: __cmpcvcu6400
+[Before] Cookie-Name 2: _shopify_sa_p
+[Before] Cookie-Name 3: __cmpcpcu6400
+[Before] Cookie-Name 4: _landing_page
+[Before] Cookie-Name 5: __utmt
+[Before] Cookie-Name 6: __utmc
+[Before] Cookie-Name 7: __utmb
+[Before] Cookie-Name 8: __utma
+[Before] Cookie-Name 9: _shopify_sa_t
+[Before] Cookie-Name 10: _orig_referrer
+[Before] Cookie-Name 11: _shopify_s
+[Before] Cookie-Name 12: __cmpconsent6400
+[Before] Cookie-Name 13: __utmz
+[Before] Cookie-Name 14: _gcl_au
+[Before] Cookie-Name 15: _shopify_y
+[Before] Cookie-Name 16: _s
+[Before] Cookie-Name 17: _y
+[Before] Cookie-Name 18: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 18
+[After] Website-Cookies: [{'domain': '.skielka-designschmuck.de', 'expiry': 1675936102, 'httpOnly': False, 'name': '__cmpcvcu6400', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '__s94_s40_s1052_s65_s23_s7_s1_s26_s135_s1409_s905_s417_s24_c2238_s1508_s1097_s971_s1432_s30_s902_U__'}, {'domain': '.skielka-designschmuck.de', 'expiry': 1644401888, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.skielka-designschmuck.de', 'expiry': 1675936102, 'httpOnly': False, 'name': '__cmpcpcu6400', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '__51_54_55__'}, {'domain': '.skielka-designschmuck.de', 'expiry': 1645609687, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.skielka-designschmuck.de', 'expiry': 1644400688, 'httpOnly': False, 'name': '__utmt', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.skielka-designschmuck.de', 'httpOnly': False, 'name': '__utmc', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.skielka-designschmuck.de', 'expiry': 1644401888, 'httpOnly': False, 'name': '__utmb', 'path': '/', 'secure': False, 'value': '1.1.10.1644400088'}, {'domain': 'www.skielka-designschmuck.de', 'expiry': 1707472088, 'httpOnly': False, 'name': '__utma', 'path': '/', 'secure': False, 'value': '1.387672481.1644400088.1644400088.1644400088.1'}, {'domain': '.skielka-designschmuck.de', 'expiry': 1644401888, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T09%3A48%3A08.309Z'}, {'domain': '.skielka-designschmuck.de', 'expiry': 1645609687, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.skielka-designschmuck.de', 'expiry': 1644401888, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '61c35cca-e02d-4ed8-8999-6cdf4d4edfad'}, {'domain': '.skielka-designschmuck.de', 'expiry': 1675936102, 'httpOnly': False, 'name': '__cmpconsent6400', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'CPUHZtgPUHZtgAfRNBDECBCgAHLAAHLAAAigBGwAQBGgEbABAEaAAA'}, {'domain': 'www.skielka-designschmuck.de', 'expiry': 1660168088, 'httpOnly': False, 'name': '__utmz', 'path': '/', 'secure': False, 'value': '1.1644400088.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)'}, {'domain': '.skielka-designschmuck.de', 'expiry': 1652176088, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.2083341088.1644400088'}, {'domain': '.skielka-designschmuck.de', 'expiry': 1675936087, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1e15cbb5-f4d4-4f28-9e14-9a02c5cfde44'}, {'domain': '.skielka-designschmuck.de', 'expiry': 1644401888, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '61c35cca-e02d-4ed8-8999-6cdf4d4edfad'}, {'domain': '.skielka-designschmuck.de', 'expiry': 1675936087, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1e15cbb5-f4d4-4f28-9e14-9a02c5cfde44'}, {'domain': 'www.skielka-designschmuck.de', 'expiry': 1675936087, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: __cmpcvcu6400
+[After] Cookie-Name 2: _shopify_sa_p
+[After] Cookie-Name 3: __cmpcpcu6400
+[After] Cookie-Name 4: _landing_page
+[After] Cookie-Name 5: __utmt
+[After] Cookie-Name 6: __utmc
+[After] Cookie-Name 7: __utmb
+[After] Cookie-Name 8: __utma
+[After] Cookie-Name 9: _shopify_sa_t
+[After] Cookie-Name 10: _orig_referrer
+[After] Cookie-Name 11: _shopify_s
+[After] Cookie-Name 12: __cmpconsent6400
+[After] Cookie-Name 13: __utmz
+[After] Cookie-Name 14: _gcl_au
+[After] Cookie-Name 15: _shopify_y
+[After] Cookie-Name 16: _s
+[After] Cookie-Name 17: _y
+[After] Cookie-Name 18: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

@@ -1,0 +1,103 @@
+Website 41: http://www.klarseifen.de/ | Created: 09.02.2022 17:18:09 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 31
+[Before] Website-Cookies: [{'domain': 'www.klarseifen.de', 'httpOnly': False, 'name': 'snize-recommendation', 'path': '/', 'secure': False, 'value': 'e26vb5230lr'}, {'domain': 'www.klarseifen.de', 'expiry': 1645633079, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644423479'}, {'domain': '.klarseifen.de', 'expiry': 1644425278, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': 'www.klarseifen.de', 'expiry': 1645633079, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'dc98eb4504ac897e26688c4c794630a8'}, {'domain': 'www.klarseifen.de', 'expiry': 1644423598, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.klarseifen.de', 'expiry': 1645633077, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.klarseifen.de', 'expiry': 1644425278, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.klarseifen.de', 'expiry': 1644425278, 'httpOnly': False, 'name': '_hjSession_2204282', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjY3M2ZlNDg4LWM4ZWUtNDY4OC05NjZkLTVjN2NjNGIyMzg0MCIsImNyZWF0ZWQiOjE2NDQ0MjM0Nzg4MzIsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': '.klarseifen.de', 'expiry': 1644425282, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd219d27c-3c3e-4d2e-b23c-6216656aa156'}, {'domain': '.klarseifen.de', 'expiry': 1675959477, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU1EVXlOalExWmpndE9EWXhZeTAwTTJNM0xXSXpPR010WkdGbE1URTVNelF3WXpBdw'}, {'domain': 'www.klarseifen.de', 'expiry': 1645633079, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': '.klarseifen.de', 'expiry': 1652199478, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644423477865.1547708504'}, {'domain': '.klarseifen.de', 'expiry': 1644423537, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.klarseifen.de', 'expiry': 1707495477, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1452962181.1644423478'}, {'domain': '.klarseifen.de', 'expiry': 1644509877, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1242663271.1644423478'}, {'domain': '.klarseifen.de', 'expiry': 1644425277, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.klarseifen.de', 'expiry': 1644425277, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T16%3A17%3A57.493Z'}, {'domain': 'www.klarseifen.de', 'expiry': 1647015478, 'httpOnly': False, 'name': 'nextleveltracking', 'path': '/', 'secure': False, 'value': 'eJyNzDEOhCAQQNG7TG0BzsAw3IaF0RBNTBa0Md7dUosttv/vn7A3/dYC8YQjrbtCBDZsgrNSSAoiTkKfEBhZPRvJYv1oUAWdcskTDNAbROuJaERivgZYU+tHbbW/rk/wA+RtW6qmWf8D1w0p0jIe'}, {'domain': '.klarseifen.de', 'expiry': 1652199480, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.904733726.1644423481'}, {'domain': 'www.klarseifen.de', 'expiry': 1645633079, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3ae2327b6e4d5e418989059b071d84ec'}, {'domain': '.klarseifen.de', 'expiry': 1644425282, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd219d27c-3c3e-4d2e-b23c-6216656aa156'}, {'domain': 'www.klarseifen.de', 'expiry': 1644423598, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.klarseifen.de', 'expiry': 1675959482, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '06c64362-9da1-4433-bbeb-b4fbd68e800e'}, {'domain': 'www.klarseifen.de', 'expiry': 1707495480, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MjM0ODEsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LmtsYXJzZWlmZW4uZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NDIzNDgxLCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL3d3dy5rbGFyc2VpZmVuLmRlLyJ9fQ=='}, {'domain': 'www.klarseifen.de', 'expiry': 1645633082, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.klarseifen.de', 'expiry': 1645633077, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.klarseifen.de', 'expiry': 1644427078, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'www.klarseifen.de', 'expiry': 1645633082, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.klarseifen.de', 'expiry': 1675959478, 'httpOnly': False, 'name': '_hjSessionUser_2204282', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImQ3ZjI3M2EyLTVjYWItNThiNi1hYjg1LTY3NTg4ZmFmOWJjZSIsImNyZWF0ZWQiOjE2NDQ0MjM0Nzc5MTIsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.klarseifen.de', 'expiry': 1675959482, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '06c64362-9da1-4433-bbeb-b4fbd68e800e'}, {'domain': 'www.klarseifen.de', 'expiry': 1675959482, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: snize-recommendation
+[Before] Cookie-Name 2: cart_ts
+[Before] Cookie-Name 3: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 4: cart_sig
+[Before] Cookie-Name 5: _hjIncludedInSessionSample
+[Before] Cookie-Name 6: _landing_page
+[Before] Cookie-Name 7: _hjFirstSeen
+[Before] Cookie-Name 8: _hjSession_2204282
+[Before] Cookie-Name 9: _s
+[Before] Cookie-Name 10: _pin_unauth
+[Before] Cookie-Name 11: cart_ver
+[Before] Cookie-Name 12: _fbp
+[Before] Cookie-Name 13: _gat
+[Before] Cookie-Name 14: _ga
+[Before] Cookie-Name 15: _gid
+[Before] Cookie-Name 16: _shopify_sa_p
+[Before] Cookie-Name 17: _shopify_sa_t
+[Before] Cookie-Name 18: nextleveltracking
+[Before] Cookie-Name 19: _gcl_au
+[Before] Cookie-Name 20: cart
+[Before] Cookie-Name 21: _shopify_s
+[Before] Cookie-Name 22: _hjIncludedInPageviewSample
+[Before] Cookie-Name 23: _y
+[Before] Cookie-Name 24: __kla_id
+[Before] Cookie-Name 25: localization
+[Before] Cookie-Name 26: _orig_referrer
+[Before] Cookie-Name 27: shopify_pay_redirect
+[Before] Cookie-Name 28: cart_currency
+[Before] Cookie-Name 29: _hjSessionUser_2204282
+[Before] Cookie-Name 30: _shopify_y
+[Before] Cookie-Name 31: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 31
+[After] Website-Cookies: [{'domain': 'www.klarseifen.de', 'httpOnly': False, 'name': 'snize-recommendation', 'path': '/', 'secure': False, 'value': 'e26vb5230lr'}, {'domain': 'www.klarseifen.de', 'expiry': 1645633079, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644423479'}, {'domain': '.klarseifen.de', 'expiry': 1644425278, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': 'www.klarseifen.de', 'expiry': 1645633079, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'dc98eb4504ac897e26688c4c794630a8'}, {'domain': 'www.klarseifen.de', 'expiry': 1644423598, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.klarseifen.de', 'expiry': 1645633077, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.klarseifen.de', 'expiry': 1644425278, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.klarseifen.de', 'expiry': 1644425278, 'httpOnly': False, 'name': '_hjSession_2204282', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjY3M2ZlNDg4LWM4ZWUtNDY4OC05NjZkLTVjN2NjNGIyMzg0MCIsImNyZWF0ZWQiOjE2NDQ0MjM0Nzg4MzIsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': '.klarseifen.de', 'expiry': 1644425282, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd219d27c-3c3e-4d2e-b23c-6216656aa156'}, {'domain': '.klarseifen.de', 'expiry': 1675959477, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU1EVXlOalExWmpndE9EWXhZeTAwTTJNM0xXSXpPR010WkdGbE1URTVNelF3WXpBdw'}, {'domain': 'www.klarseifen.de', 'expiry': 1645633079, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': '.klarseifen.de', 'expiry': 1652199478, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644423477865.1547708504'}, {'domain': '.klarseifen.de', 'expiry': 1644423537, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.klarseifen.de', 'expiry': 1707495477, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1452962181.1644423478'}, {'domain': '.klarseifen.de', 'expiry': 1644509877, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1242663271.1644423478'}, {'domain': '.klarseifen.de', 'expiry': 1644425277, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.klarseifen.de', 'expiry': 1644425277, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T16%3A17%3A57.493Z'}, {'domain': 'www.klarseifen.de', 'expiry': 1647015478, 'httpOnly': False, 'name': 'nextleveltracking', 'path': '/', 'secure': False, 'value': 'eJyNzDEOhCAQQNG7TG0BzsAw3IaF0RBNTBa0Md7dUosttv/vn7A3/dYC8YQjrbtCBDZsgrNSSAoiTkKfEBhZPRvJYv1oUAWdcskTDNAbROuJaERivgZYU+tHbbW/rk/wA+RtW6qmWf8D1w0p0jIe'}, {'domain': '.klarseifen.de', 'expiry': 1652199480, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.904733726.1644423481'}, {'domain': 'www.klarseifen.de', 'expiry': 1645633079, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3ae2327b6e4d5e418989059b071d84ec'}, {'domain': '.klarseifen.de', 'expiry': 1644425282, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd219d27c-3c3e-4d2e-b23c-6216656aa156'}, {'domain': 'www.klarseifen.de', 'expiry': 1644423598, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.klarseifen.de', 'expiry': 1675959482, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '06c64362-9da1-4433-bbeb-b4fbd68e800e'}, {'domain': 'www.klarseifen.de', 'expiry': 1707495480, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MjM0ODEsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LmtsYXJzZWlmZW4uZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NDIzNDgxLCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL3d3dy5rbGFyc2VpZmVuLmRlLyJ9fQ=='}, {'domain': 'www.klarseifen.de', 'expiry': 1645633082, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.klarseifen.de', 'expiry': 1645633077, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.klarseifen.de', 'expiry': 1644427078, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'www.klarseifen.de', 'expiry': 1645633082, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.klarseifen.de', 'expiry': 1675959478, 'httpOnly': False, 'name': '_hjSessionUser_2204282', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImQ3ZjI3M2EyLTVjYWItNThiNi1hYjg1LTY3NTg4ZmFmOWJjZSIsImNyZWF0ZWQiOjE2NDQ0MjM0Nzc5MTIsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.klarseifen.de', 'expiry': 1675959482, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '06c64362-9da1-4433-bbeb-b4fbd68e800e'}, {'domain': 'www.klarseifen.de', 'expiry': 1675959482, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: snize-recommendation
+[After] Cookie-Name 2: cart_ts
+[After] Cookie-Name 3: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 4: cart_sig
+[After] Cookie-Name 5: _hjIncludedInSessionSample
+[After] Cookie-Name 6: _landing_page
+[After] Cookie-Name 7: _hjFirstSeen
+[After] Cookie-Name 8: _hjSession_2204282
+[After] Cookie-Name 9: _s
+[After] Cookie-Name 10: _pin_unauth
+[After] Cookie-Name 11: cart_ver
+[After] Cookie-Name 12: _fbp
+[After] Cookie-Name 13: _gat
+[After] Cookie-Name 14: _ga
+[After] Cookie-Name 15: _gid
+[After] Cookie-Name 16: _shopify_sa_p
+[After] Cookie-Name 17: _shopify_sa_t
+[After] Cookie-Name 18: nextleveltracking
+[After] Cookie-Name 19: _gcl_au
+[After] Cookie-Name 20: cart
+[After] Cookie-Name 21: _shopify_s
+[After] Cookie-Name 22: _hjIncludedInPageviewSample
+[After] Cookie-Name 23: _y
+[After] Cookie-Name 24: __kla_id
+[After] Cookie-Name 25: localization
+[After] Cookie-Name 26: _orig_referrer
+[After] Cookie-Name 27: shopify_pay_redirect
+[After] Cookie-Name 28: cart_currency
+[After] Cookie-Name 29: _hjSessionUser_2204282
+[After] Cookie-Name 30: _shopify_y
+[After] Cookie-Name 31: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjIncludedInSessionSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _hjIncludedInPageviewSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

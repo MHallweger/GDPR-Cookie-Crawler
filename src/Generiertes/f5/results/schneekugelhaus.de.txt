@@ -1,0 +1,80 @@
+Website 248: http://www.schneekugelhaus.de/ | Created: 09.02.2022 20:52:28 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 23
+[Before] Website-Cookies: [{'domain': 'www.schneekugelhaus.de', 'expiry': 1645645940, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': 'www.schneekugelhaus.de', 'expiry': 1645645940, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '163da69b10a85767301ea3c93490435e'}, {'domain': 'www.schneekugelhaus.de', 'expiry': 1645645940, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ce5f71846d1efd8f057e782d971bc681'}, {'domain': '.schneekugelhaus.de', 'expiry': 1644438139, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.schneekugelhaus.de', 'expiry': 1645645940, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644436340'}, {'domain': '.schneekugelhaus.de', 'expiry': 1707508339, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.1.1177736306.1644436339'}, {'domain': '.schneekugelhaus.de', 'expiry': 1652212340, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644436339591.1871168705'}, {'domain': '.schneekugelhaus.de', 'expiry': 1675972339, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU1XVmpNamN3WXpBdE1HRm1ZUzAwTkdVMUxXRTNaVGd0T1dKak9UaGpaamswT0RaaA'}, {'domain': '.schneekugelhaus.de', 'expiry': 1644522739, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.65082035.1644436339'}, {'domain': 'www.schneekugelhaus.de', 'expiry': 1644439939, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.schneekugelhaus.de', 'expiry': 1644438140, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2126a0e1-dc41-49aa-a157-f3092f25d11c'}, {'domain': '.schneekugelhaus.de', 'expiry': 1675972340, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3ce7ad6a-2fb8-47a8-87c0-fb27ae5c4eab'}, {'domain': '.schneekugelhaus.de', 'expiry': 1644436399, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.schneekugelhaus.de', 'expiry': 1644438139, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A52%3A19.329Z'}, {'domain': 'www.schneekugelhaus.de', 'expiry': 1645645940, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.schneekugelhaus.de', 'expiry': 1644438140, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2126a0e1-dc41-49aa-a157-f3092f25d11c'}, {'domain': '.schneekugelhaus.de', 'expiry': 1645645939, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.schneekugelhaus.de', 'expiry': 1645645939, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.schneekugelhaus.de', 'expiry': 1645645940, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.schneekugelhaus.de', 'expiry': 1644436399, 'httpOnly': False, 'name': '_gat_gtag_UA_183062344_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.schneekugelhaus.de', 'expiry': 1675972340, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3ce7ad6a-2fb8-47a8-87c0-fb27ae5c4eab'}, {'domain': '.schneekugelhaus.de', 'expiry': 1707508339, 'httpOnly': False, 'name': '_ga_EBVNB81MBS', 'path': '/', 'secure': False, 'value': 'GS1.1.1644436339.1.0.1644436339.0'}, {'domain': 'www.schneekugelhaus.de', 'expiry': 1675972340, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: cart_ver
+[Before] Cookie-Name 2: cart_sig
+[Before] Cookie-Name 3: cart
+[Before] Cookie-Name 4: _shopify_sa_p
+[Before] Cookie-Name 5: cart_ts
+[Before] Cookie-Name 6: _ga
+[Before] Cookie-Name 7: _fbp
+[Before] Cookie-Name 8: _pin_unauth
+[Before] Cookie-Name 9: _gid
+[Before] Cookie-Name 10: shopify_pay_redirect
+[Before] Cookie-Name 11: _shopify_s
+[Before] Cookie-Name 12: _shopify_y
+[Before] Cookie-Name 13: _gat
+[Before] Cookie-Name 14: _shopify_sa_t
+[Before] Cookie-Name 15: cart_currency
+[Before] Cookie-Name 16: _s
+[Before] Cookie-Name 17: _landing_page
+[Before] Cookie-Name 18: _orig_referrer
+[Before] Cookie-Name 19: localization
+[Before] Cookie-Name 20: _gat_gtag_UA_183062344_1
+[Before] Cookie-Name 21: _y
+[Before] Cookie-Name 22: _ga_EBVNB81MBS
+[Before] Cookie-Name 23: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 24
+[After] Website-Cookies: [{'domain': 'www.schneekugelhaus.de', 'expiry': 1675972353, 'httpOnly': False, 'name': 'cookieconsent_status', 'path': '/', 'secure': False, 'value': 'dismiss'}, {'domain': '.schneekugelhaus.de', 'expiry': 1644438140, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2126a0e1-dc41-49aa-a157-f3092f25d11c'}, {'domain': 'www.schneekugelhaus.de', 'expiry': 1645645940, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': 'www.schneekugelhaus.de', 'expiry': 1645645940, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '163da69b10a85767301ea3c93490435e'}, {'domain': '.schneekugelhaus.de', 'expiry': 1675972340, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3ce7ad6a-2fb8-47a8-87c0-fb27ae5c4eab'}, {'domain': 'www.schneekugelhaus.de', 'expiry': 1645645940, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ce5f71846d1efd8f057e782d971bc681'}, {'domain': '.schneekugelhaus.de', 'expiry': 1644438139, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.schneekugelhaus.de', 'expiry': 1645645940, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644436340'}, {'domain': '.schneekugelhaus.de', 'expiry': 1707508339, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.1.1177736306.1644436339'}, {'domain': '.schneekugelhaus.de', 'expiry': 1652212353, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644436339591.1871168705'}, {'domain': '.schneekugelhaus.de', 'expiry': 1675972339, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU1XVmpNamN3WXpBdE1HRm1ZUzAwTkdVMUxXRTNaVGd0T1dKak9UaGpaamswT0RaaA'}, {'domain': '.schneekugelhaus.de', 'expiry': 1644522739, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.65082035.1644436339'}, {'domain': 'www.schneekugelhaus.de', 'expiry': 1644439939, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.schneekugelhaus.de', 'expiry': 1644436399, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.schneekugelhaus.de', 'expiry': 1644438139, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A52%3A19.329Z'}, {'domain': 'www.schneekugelhaus.de', 'expiry': 1645645940, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.schneekugelhaus.de', 'expiry': 1644438140, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2126a0e1-dc41-49aa-a157-f3092f25d11c'}, {'domain': '.schneekugelhaus.de', 'expiry': 1645645939, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.schneekugelhaus.de', 'expiry': 1675972340, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.schneekugelhaus.de', 'expiry': 1644436399, 'httpOnly': False, 'name': '_gat_gtag_UA_183062344_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.schneekugelhaus.de', 'expiry': 1645645939, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.schneekugelhaus.de', 'expiry': 1645645940, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.schneekugelhaus.de', 'expiry': 1675972340, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3ce7ad6a-2fb8-47a8-87c0-fb27ae5c4eab'}, {'domain': '.schneekugelhaus.de', 'expiry': 1707508339, 'httpOnly': False, 'name': '_ga_EBVNB81MBS', 'path': '/', 'secure': False, 'value': 'GS1.1.1644436339.1.0.1644436339.0'}]
+[After] Cookie-Name 1: cookieconsent_status
+[After] Cookie-Name 2: _shopify_s
+[After] Cookie-Name 3: cart_ver
+[After] Cookie-Name 4: cart_sig
+[After] Cookie-Name 5: _shopify_y
+[After] Cookie-Name 6: cart
+[After] Cookie-Name 7: _shopify_sa_p
+[After] Cookie-Name 8: cart_ts
+[After] Cookie-Name 9: _ga
+[After] Cookie-Name 10: _fbp
+[After] Cookie-Name 11: _pin_unauth
+[After] Cookie-Name 12: _gid
+[After] Cookie-Name 13: shopify_pay_redirect
+[After] Cookie-Name 14: _gat
+[After] Cookie-Name 15: _shopify_sa_t
+[After] Cookie-Name 16: cart_currency
+[After] Cookie-Name 17: _s
+[After] Cookie-Name 18: _landing_page
+[After] Cookie-Name 19: secure_customer_sig
+[After] Cookie-Name 20: _gat_gtag_UA_183062344_1
+[After] Cookie-Name 21: _orig_referrer
+[After] Cookie-Name 22: localization
+[After] Cookie-Name 23: _y
+[After] Cookie-Name 24: _ga_EBVNB81MBS
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _gat (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: cookieconsent_status
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

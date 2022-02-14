@@ -1,0 +1,84 @@
+Website 274: http://www.kigudeutschland.de/ | Created: 08.02.2022 23:03:11 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 23
+[Before] Website-Cookies: [{'domain': 'kigu.co.uk', 'expiry': 1645567382, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644357783'}, {'domain': 'kigu.co.uk', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kigu.co.uk', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T22%3A03%3A02.869Z'}, {'domain': '.kigu.co.uk', 'expiry': 1645567381, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'kigu.co.uk', 'expiry': 1645567382, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'GB'}, {'domain': 'kigu.co.uk', 'expiry': 1645567382, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7f2e17915a48ad9d4bc6b2b268fa4678'}, {'domain': '.kigu.co.uk', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T22%3A03%3A02.875Z'}, {'domain': '.kigu.co.uk', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kigu.co.uk', 'expiry': 1675893781, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%7D'}, {'domain': '.kigu.co.uk', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kigu.co.uk', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7269ac68-2693-4113-a616-56096d634836'}, {'domain': '.kigu.co.uk', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kigu.co.uk', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2430c091-c942-4089-9df2-64b6c9376610'}, {'domain': '.kigu.co.uk', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2430c091-c942-4089-9df2-64b6c9376610'}, {'domain': '.kigu.co.uk', 'expiry': 1675893781, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': 'kigu.co.uk', 'expiry': 1645567382, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'GBP'}, {'domain': '.kigu.co.uk', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7269ac68-2693-4113-a616-56096d634836'}, {'domain': 'kigu.co.uk', 'expiry': 1645567382, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '91985725ad4c919414ede0c1f8eff35a'}, {'domain': '.kigu.co.uk', 'expiry': 1644359583, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'kigu.co.uk', 'expiry': 1644444183, 'httpOnly': False, 'name': '_goo_Fg3ld', 'path': '/', 'secure': False, 'value': 'edd4cHidhs34fd4sd5546sdfnslkj'}, {'domain': '.kigu.co.uk', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'kigu.co.uk', 'expiry': 1645567382, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': 'kigu.co.uk', 'expiry': 1675893782, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: cart_ts
+[Before] Cookie-Name 2: _shopify_evids
+[Before] Cookie-Name 3: _shopify_d
+[Before] Cookie-Name 4: _shopify_tw
+[Before] Cookie-Name 5: localization
+[Before] Cookie-Name 6: cart
+[Before] Cookie-Name 7: _shopify_sa_t
+[Before] Cookie-Name 8: _orig_referrer
+[Before] Cookie-Name 9: _tracking_consent
+[Before] Cookie-Name 10: _shopify_sa_p
+[Before] Cookie-Name 11: _shopify_y
+[Before] Cookie-Name 12: _shopify_evids
+[Before] Cookie-Name 13: _shopify_s
+[Before] Cookie-Name 14: _s
+[Before] Cookie-Name 15: _shopify_m
+[Before] Cookie-Name 16: cart_currency
+[Before] Cookie-Name 17: _y
+[Before] Cookie-Name 18: cart_sig
+[Before] Cookie-Name 19: _shopify_tm
+[Before] Cookie-Name 20: _goo_Fg3ld
+[Before] Cookie-Name 21: _landing_page
+[Before] Cookie-Name 22: cart_ver
+[Before] Cookie-Name 23: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 29
+[After] Website-Cookies: [{'domain': '.kigu.co.uk', 'expiry': 1707429797, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.3.1813976486.1644357798'}, {'domain': '.kigu.co.uk', 'expiry': 1675893797, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%221%22%7D%7D'}, {'domain': '.kigu.co.uk', 'expiry': 1675893797, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': 'kigu.co.uk', 'expiry': 1645567382, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': '.kigu.co.uk', 'expiry': 1644359597, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2430c091-c942-4089-9df2-64b6c9376610'}, {'domain': 'kigu.co.uk', 'expiry': 1675893797, 'httpOnly': False, 'name': 'eg_cookieconsent_status', 'path': '/', 'secure': False, 'value': 'dismiss'}, {'domain': 'kigu.co.uk', 'expiry': 1645567382, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644357783'}, {'domain': '.kigu.co.uk', 'expiry': 1675893797, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7269ac68-2693-4113-a616-56096d634836'}, {'domain': 'kigu.co.uk', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kigu.co.uk', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T22%3A03%3A02.869Z'}, {'domain': '.kigu.co.uk', 'expiry': 1645567381, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kigu.co.uk', 'expiry': 1644359597, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kigu.co.uk', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kigu.co.uk', 'expiry': 1644359597, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2430c091-c942-4089-9df2-64b6c9376610'}, {'domain': 'kigu.co.uk', 'expiry': 1645567397, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'GBP'}, {'domain': 'kigu.co.uk', 'expiry': 1644444183, 'httpOnly': False, 'name': '_goo_Fg3ld', 'path': '/', 'secure': False, 'value': 'edd4cHidhs34fd4sd5546sdfnslkj'}, {'domain': '.kigu.co.uk', 'expiry': 1675893797, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7269ac68-2693-4113-a616-56096d634836'}, {'domain': '.kigu.co.uk', 'expiry': 1652133798, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.2.1644357797744.205195128'}, {'domain': 'kigu.co.uk', 'expiry': 1645567397, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '91985725ad4c919414ede0c1f8eff35a'}, {'domain': '.kigu.co.uk', 'expiry': 1644357857, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.kigu.co.uk', 'expiry': 1644359597, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kigu.co.uk', 'expiry': 1645567397, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'kigu.co.uk', 'expiry': 1645567397, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'GB'}, {'domain': 'kigu.co.uk', 'expiry': 1645567382, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7f2e17915a48ad9d4bc6b2b268fa4678'}, {'domain': '.kigu.co.uk', 'expiry': 1652133797, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1329308085.1644357798'}, {'domain': '.kigu.co.uk', 'expiry': 1644444197, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.3.1191823947.1644357798'}, {'domain': '.kigu.co.uk', 'expiry': 1644359597, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T22%3A03%3A02.875Z'}, {'domain': '.kigu.co.uk', 'expiry': 1645567397, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'kigu.co.uk', 'expiry': 1675893797, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _ga
+[After] Cookie-Name 2: _tracking_consent
+[After] Cookie-Name 3: _shopify_m
+[After] Cookie-Name 4: cart_ver
+[After] Cookie-Name 5: _shopify_s
+[After] Cookie-Name 6: eg_cookieconsent_status
+[After] Cookie-Name 7: cart_ts
+[After] Cookie-Name 8: _shopify_y
+[After] Cookie-Name 9: _shopify_evids
+[After] Cookie-Name 10: _shopify_d
+[After] Cookie-Name 11: _shopify_tw
+[After] Cookie-Name 12: _shopify_sa_p
+[After] Cookie-Name 13: _shopify_evids
+[After] Cookie-Name 14: _s
+[After] Cookie-Name 15: cart_currency
+[After] Cookie-Name 16: _goo_Fg3ld
+[After] Cookie-Name 17: _y
+[After] Cookie-Name 18: _fbp
+[After] Cookie-Name 19: cart_sig
+[After] Cookie-Name 20: _gat
+[After] Cookie-Name 21: _shopify_tm
+[After] Cookie-Name 22: _landing_page
+[After] Cookie-Name 23: localization
+[After] Cookie-Name 24: cart
+[After] Cookie-Name 25: _gcl_au
+[After] Cookie-Name 26: _gid
+[After] Cookie-Name 27: _shopify_sa_t
+[After] Cookie-Name 28: _orig_referrer
+[After] Cookie-Name 29: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 6
+[Difference] Cookie-Name: 1: _gid
+[Difference] Cookie-Name: 2: _fbp
+[Difference] Cookie-Name: 3: _ga
+[Difference] Cookie-Name: 4: _gcl_au
+[Difference] Cookie-Name: 5: _gat
+[Difference] Cookie-Name: 6: eg_cookieconsent_status
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is NOT GDPR compliant!

@@ -1,0 +1,73 @@
+Website 133: http://www.krautmotors.de/ | Created: 10.02.2022 12:51:28 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 19
+[Before] Website-Cookies: [{'domain': 'krautmotors.de', 'expiry': 1645703481, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': 'krautmotors.de', 'expiry': 1645703481, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '10784e38ac8fe5b02160a0a93a17c282'}, {'domain': 'krautmotors.de', 'expiry': 1645703481, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'krautmotors.de', 'expiry': 1645703481, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'krautmotors.de', 'expiry': 1645703481, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644493880'}, {'domain': '.krautmotors.de', 'expiry': 1652269880, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644493880421.458601189'}, {'domain': '.krautmotors.de', 'expiry': 1707565880, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1035933244.1644493880'}, {'domain': '.krautmotors.de', 'expiry': 1644495680, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T11%3A51%3A20.202Z'}, {'domain': '.krautmotors.de', 'expiry': 1644495681, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '28d1b353-538b-46e2-b17a-fd2587c55904'}, {'domain': '.krautmotors.de', 'expiry': 1676029881, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c5a61ceb-481d-48ec-a423-19bbe164c9dc'}, {'domain': '.krautmotors.de', 'expiry': 1644493940, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.krautmotors.de', 'expiry': 1645703480, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.krautmotors.de', 'expiry': 1644495681, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '28d1b353-538b-46e2-b17a-fd2587c55904'}, {'domain': '.krautmotors.de', 'expiry': 1644580280, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1651150288.1644493880'}, {'domain': '.krautmotors.de', 'expiry': 1644495680, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'krautmotors.de', 'expiry': 1645703481, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '98dcf961e841c1c8dc7ba985e7541c9a'}, {'domain': 'krautmotors.de', 'expiry': 1676029881, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.krautmotors.de', 'expiry': 1676029881, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c5a61ceb-481d-48ec-a423-19bbe164c9dc'}, {'domain': '.krautmotors.de', 'expiry': 1645703480, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}]
+[Before] Cookie-Name 1: cart_ver
+[Before] Cookie-Name 2: cart_sig
+[Before] Cookie-Name 3: cart_currency
+[Before] Cookie-Name 4: localization
+[Before] Cookie-Name 5: cart_ts
+[Before] Cookie-Name 6: _fbp
+[Before] Cookie-Name 7: _ga
+[Before] Cookie-Name 8: _shopify_sa_t
+[Before] Cookie-Name 9: _shopify_s
+[Before] Cookie-Name 10: _shopify_y
+[Before] Cookie-Name 11: _gat
+[Before] Cookie-Name 12: _orig_referrer
+[Before] Cookie-Name 13: _s
+[Before] Cookie-Name 14: _gid
+[Before] Cookie-Name 15: _shopify_sa_p
+[Before] Cookie-Name 16: cart
+[Before] Cookie-Name 17: secure_customer_sig
+[Before] Cookie-Name 18: _y
+[Before] Cookie-Name 19: _landing_page
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 21
+[After] Website-Cookies: [{'domain': 'krautmotors.de', 'expiry': 1652266294, 'httpOnly': False, 'name': 'cookieoptimizer_consent', 'path': '/', 'secure': False, 'value': 'allow'}, {'domain': 'krautmotors.de', 'expiry': 1645703481, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': 'krautmotors.de', 'expiry': 1645703481, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '10784e38ac8fe5b02160a0a93a17c282'}, {'domain': 'krautmotors.de', 'expiry': 1645703481, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'krautmotors.de', 'expiry': 1645703481, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'krautmotors.de', 'expiry': 1645703481, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644493880'}, {'domain': '.krautmotors.de', 'expiry': 1652269894, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644493880421.458601189'}, {'domain': '.krautmotors.de', 'expiry': 1707565880, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1035933244.1644493880'}, {'domain': '.krautmotors.de', 'expiry': 1644495680, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T11%3A51%3A20.202Z'}, {'domain': '.krautmotors.de', 'expiry': 1644495681, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '28d1b353-538b-46e2-b17a-fd2587c55904'}, {'domain': '.krautmotors.de', 'expiry': 1676029881, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c5a61ceb-481d-48ec-a423-19bbe164c9dc'}, {'domain': '.krautmotors.de', 'expiry': 1644493940, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.krautmotors.de', 'expiry': 1645703480, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.krautmotors.de', 'expiry': 1644495681, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '28d1b353-538b-46e2-b17a-fd2587c55904'}, {'domain': '.krautmotors.de', 'expiry': 1644580280, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1651150288.1644493880'}, {'domain': '.krautmotors.de', 'expiry': 1644495680, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'krautmotors.de', 'expiry': 1645703481, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '98dcf961e841c1c8dc7ba985e7541c9a'}, {'domain': 'krautmotors.de', 'expiry': 1676029881, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.krautmotors.de', 'expiry': 1676029881, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c5a61ceb-481d-48ec-a423-19bbe164c9dc'}, {'domain': 'krautmotors.de', 'expiry': 1652266294, 'httpOnly': False, 'name': 'cookieoptimizer_details', 'path': '/', 'secure': False, 'value': '{"consentDate":1644493894330,"user":"56268e4a-b791-4427-9121-de793e26b739","expireDays":90,"consent":"allow"}'}, {'domain': '.krautmotors.de', 'expiry': 1645703480, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}]
+[After] Cookie-Name 1: cookieoptimizer_consent
+[After] Cookie-Name 2: cart_ver
+[After] Cookie-Name 3: cart_sig
+[After] Cookie-Name 4: cart_currency
+[After] Cookie-Name 5: localization
+[After] Cookie-Name 6: cart_ts
+[After] Cookie-Name 7: _fbp
+[After] Cookie-Name 8: _ga
+[After] Cookie-Name 9: _shopify_sa_t
+[After] Cookie-Name 10: _shopify_s
+[After] Cookie-Name 11: _shopify_y
+[After] Cookie-Name 12: _gat
+[After] Cookie-Name 13: _orig_referrer
+[After] Cookie-Name 14: _s
+[After] Cookie-Name 15: _gid
+[After] Cookie-Name 16: _shopify_sa_p
+[After] Cookie-Name 17: cart
+[After] Cookie-Name 18: secure_customer_sig
+[After] Cookie-Name 19: _y
+[After] Cookie-Name 20: cookieoptimizer_details
+[After] Cookie-Name 21: _landing_page
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 2
+[Difference] Cookie-Name: 1: cookieoptimizer_consent
+[Difference] Cookie-Name: 2: cookieoptimizer_details
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

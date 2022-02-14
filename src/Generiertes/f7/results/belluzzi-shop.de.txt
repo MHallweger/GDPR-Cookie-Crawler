@@ -1,0 +1,48 @@
+Website 244: http://www.belluzzi-shop.de/ | Created: 10.02.2022 18:33:00 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 8
+[Before] Website-Cookies: [{'domain': '.belluzzi-shop.de', 'expiry': 1652290371, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.785766716.1644514371'}, {'domain': '.belluzzi-shop.de', 'expiry': 1644516171, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.belluzzi-shop.de', 'expiry': 1645723970, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.belluzzi-shop.de', 'expiry': 1645723970, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'belluzzi-shop.de', 'expiry': 1645723970, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': 'belluzzi-shop.de', 'expiry': 1645723970, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': 'belluzzi-shop.de', 'expiry': 1676050372, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': 'marketing%2Canalytics'}, {'domain': 'belluzzi-shop.de', 'expiry': 1676050370, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _gcl_au
+[Before] Cookie-Name 2: _shopify_sa_p
+[Before] Cookie-Name 3: _landing_page
+[Before] Cookie-Name 4: _orig_referrer
+[Before] Cookie-Name 5: cart_currency
+[Before] Cookie-Name 6: localization
+[Before] Cookie-Name 7: cookieconsent_preferences_disabled
+[Before] Cookie-Name 8: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 10
+[After] Website-Cookies: [{'domain': 'belluzzi-shop.de', 'expiry': 1676050385, 'httpOnly': False, 'name': 'cookieconsent_status', 'path': '/', 'secure': False, 'value': 'allow'}, {'domain': '.belluzzi-shop.de', 'expiry': 1652290385, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644514385609.400915687'}, {'domain': '.belluzzi-shop.de', 'expiry': 1652290371, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.785766716.1644514371'}, {'domain': '.belluzzi-shop.de', 'expiry': 1644516171, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.belluzzi-shop.de', 'expiry': 1645723970, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.belluzzi-shop.de', 'expiry': 1645723970, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'belluzzi-shop.de', 'expiry': 1645723970, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': 'belluzzi-shop.de', 'expiry': 1645723970, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': 'belluzzi-shop.de', 'expiry': 1676050385, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': 'marketing%2Canalytics'}, {'domain': 'belluzzi-shop.de', 'expiry': 1676050370, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: cookieconsent_status
+[After] Cookie-Name 2: _fbp
+[After] Cookie-Name 3: _gcl_au
+[After] Cookie-Name 4: _shopify_sa_p
+[After] Cookie-Name 5: _landing_page
+[After] Cookie-Name 6: _orig_referrer
+[After] Cookie-Name 7: cart_currency
+[After] Cookie-Name 8: localization
+[After] Cookie-Name 9: cookieconsent_preferences_disabled
+[After] Cookie-Name 10: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 2
+[Difference] Cookie-Name: 1: cookieconsent_status
+[Difference] Cookie-Name: 2: _fbp
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

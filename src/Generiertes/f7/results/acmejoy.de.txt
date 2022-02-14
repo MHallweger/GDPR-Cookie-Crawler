@@ -1,0 +1,61 @@
+Website 356: http://www.acmejoy.de/ | Created: 10.02.2022 19:05:17 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 15
+[Before] Website-Cookies: [{'domain': '.acmejoy.de', 'expiry': 1707588312, 'httpOnly': False, 'name': '_ga_S8VXCC5E20', 'path': '/', 'secure': False, 'value': 'GS1.1.ef0b9ef8-73a4-4820-bbc8-64bdf7b9d4c7.1.0.1644516312.0'}, {'domain': 'www.acmejoy.de', 'expiry': 1707588308, 'httpOnly': False, 'name': '_ama', 'path': '/', 'secure': False, 'value': '921293672.1644516308'}, {'domain': 'www.acmejoy.de', 'httpOnly': False, 'name': 'epb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.acmejoy.de', 'expiry': 1644518108, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.acmejoy.de', 'expiry': 1645725907, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.acmejoy.de', 'expiry': 1707588308, 'httpOnly': False, 'name': '_ga_E49S5EHGWN', 'path': '/', 'secure': False, 'value': 'GS1.1.1644516308.1.0.1644516308.0'}, {'domain': '.acmejoy.de', 'expiry': 1644518108, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T18%3A05%3A08.491Z'}, {'domain': '.acmejoy.de', 'expiry': 1644518118, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7bc81d5e-6791-4d6c-a30b-06b07834a08d'}, {'domain': '.acmejoy.de', 'expiry': 1707588309, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.1.921293672.1644516308'}, {'domain': '.acmejoy.de', 'expiry': 1676052318, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ce45084b-0526-41f0-86a3-9d686c1c15be'}, {'domain': '.acmejoy.de', 'expiry': 1644518118, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7bc81d5e-6791-4d6c-a30b-06b07834a08d'}, {'domain': '.acmejoy.de', 'expiry': 1676052318, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ce45084b-0526-41f0-86a3-9d686c1c15be'}, {'domain': 'www.acmejoy.de', 'expiry': 1645725907, 'httpOnly': True, 'name': 'keep_alive', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7bc81d5e-6791-4d6c-a30b-06b07834a08d'}, {'domain': '.acmejoy.de', 'expiry': 1645725907, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.acmejoy.de', 'expiry': 1676052318, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _ga_S8VXCC5E20
+[Before] Cookie-Name 2: _ama
+[Before] Cookie-Name 3: epb_previous_pathname
+[Before] Cookie-Name 4: _shopify_sa_p
+[Before] Cookie-Name 5: _landing_page
+[Before] Cookie-Name 6: _ga_E49S5EHGWN
+[Before] Cookie-Name 7: _shopify_sa_t
+[Before] Cookie-Name 8: _shopify_s
+[Before] Cookie-Name 9: _ga
+[Before] Cookie-Name 10: _shopify_y
+[Before] Cookie-Name 11: _s
+[Before] Cookie-Name 12: _y
+[Before] Cookie-Name 13: keep_alive
+[Before] Cookie-Name 14: _orig_referrer
+[Before] Cookie-Name 15: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 15
+[After] Website-Cookies: [{'domain': '.acmejoy.de', 'expiry': 1707588312, 'httpOnly': False, 'name': '_ga_S8VXCC5E20', 'path': '/', 'secure': False, 'value': 'GS1.1.ef0b9ef8-73a4-4820-bbc8-64bdf7b9d4c7.1.0.1644516312.0'}, {'domain': 'www.acmejoy.de', 'expiry': 1707588308, 'httpOnly': False, 'name': '_ama', 'path': '/', 'secure': False, 'value': '921293672.1644516308'}, {'domain': 'www.acmejoy.de', 'httpOnly': False, 'name': 'epb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.acmejoy.de', 'expiry': 1644518108, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.acmejoy.de', 'expiry': 1645725907, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.acmejoy.de', 'expiry': 1707588308, 'httpOnly': False, 'name': '_ga_E49S5EHGWN', 'path': '/', 'secure': False, 'value': 'GS1.1.1644516308.1.0.1644516308.0'}, {'domain': '.acmejoy.de', 'expiry': 1644518108, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T18%3A05%3A08.491Z'}, {'domain': '.acmejoy.de', 'expiry': 1644518118, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7bc81d5e-6791-4d6c-a30b-06b07834a08d'}, {'domain': '.acmejoy.de', 'expiry': 1707588309, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.1.921293672.1644516308'}, {'domain': '.acmejoy.de', 'expiry': 1676052318, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ce45084b-0526-41f0-86a3-9d686c1c15be'}, {'domain': '.acmejoy.de', 'expiry': 1644518118, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7bc81d5e-6791-4d6c-a30b-06b07834a08d'}, {'domain': '.acmejoy.de', 'expiry': 1676052318, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ce45084b-0526-41f0-86a3-9d686c1c15be'}, {'domain': 'www.acmejoy.de', 'expiry': 1645725907, 'httpOnly': True, 'name': 'keep_alive', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7bc81d5e-6791-4d6c-a30b-06b07834a08d'}, {'domain': '.acmejoy.de', 'expiry': 1645725907, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.acmejoy.de', 'expiry': 1676052318, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _ga_S8VXCC5E20
+[After] Cookie-Name 2: _ama
+[After] Cookie-Name 3: epb_previous_pathname
+[After] Cookie-Name 4: _shopify_sa_p
+[After] Cookie-Name 5: _landing_page
+[After] Cookie-Name 6: _ga_E49S5EHGWN
+[After] Cookie-Name 7: _shopify_sa_t
+[After] Cookie-Name 8: _shopify_s
+[After] Cookie-Name 9: _ga
+[After] Cookie-Name 10: _shopify_y
+[After] Cookie-Name 11: _s
+[After] Cookie-Name 12: _y
+[After] Cookie-Name 13: keep_alive
+[After] Cookie-Name 14: _orig_referrer
+[After] Cookie-Name 15: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

@@ -1,0 +1,90 @@
+Website 195: http://www.airpaq.de/ | Created: 08.02.2022 22:39:03 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 27
+[Before] Website-Cookies: [{'domain': 'www.airpaq.de', 'httpOnly': False, 'name': 'qab_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': 'www.airpaq.de', 'expiry': 1645565934, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A3'}, {'domain': 'www.airpaq.de', 'expiry': 1645565934, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2780db8225dd51ff34b0ebbcab7fbc2b'}, {'domain': '.airpaq.de', 'expiry': 1645565932, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.airpaq.de', 'expiry': 1645565934, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644356334'}, {'domain': 'www.airpaq.de', 'expiry': 1644356453, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.airpaq.de', 'expiry': 1644358133, 'httpOnly': False, 'name': '_hjSession_1064718', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImIxYWQwZmFhLTI4YjQtNDUyMi1hMGZkLTNmMDRlMDQxNTYzMiIsImNyZWF0ZWQiOjE2NDQzNTYzMzMzMjcsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': 'www.airpaq.de', 'expiry': 1644356453, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.airpaq.de', 'expiry': 1644358133, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A38%3A53.176Z'}, {'domain': '.airpaq.de', 'expiry': 1644358134, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '92064bf1-34fb-4479-800a-ca8975543419'}, {'domain': '.airpaq.de', 'expiry': 1644358133, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.airpaq.de', 'expiry': 1644358133, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.airpaq.de', 'expiry': 1675892333, 'httpOnly': False, 'name': '_hjSessionUser_1064718', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjA2MDY3MmRiLThhZTAtNWY2ZC1iM2NjLTkzYTc4OGNmZjIzYyIsImNyZWF0ZWQiOjE2NDQzNTYzMzMzMDAsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': 'www.airpaq.de', 'expiry': 1645565934, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.airpaq.de', 'expiry': 1644356393, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.airpaq.de', 'expiry': 1707428333, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1162459963.1644356333'}, {'domain': '.airpaq.de', 'expiry': 1652132334, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644356333466.1853762257'}, {'domain': '.airpaq.de', 'expiry': 1644358133, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.airpaq.de', 'expiry': 1644358134, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '92064bf1-34fb-4479-800a-ca8975543419'}, {'domain': '.airpaq.de', 'expiry': 1675892334, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ff62ff18-3d4c-43fa-9689-efcaa8d91a72'}, {'domain': '.airpaq.de', 'expiry': 1644442733, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1364708782.1644356333'}, {'domain': '.airpaq.de', 'expiry': 1675892333, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVptUTJZekkwTlRFdFpEZ3dOaTAwWkRrd0xXSTVObVl0TTJNMFptSTJPRGRtTkRCbQ'}, {'domain': 'www.airpaq.de', 'expiry': 1707428334, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQzNTYzMzUsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LmFpcnBhcS5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQzNTYzMzUsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LmFpcnBhcS5kZS8ifX0='}, {'domain': 'www.airpaq.de', 'expiry': 1675892334, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'www.airpaq.de', 'expiry': 1645565934, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5da96db3739536028db6f1c33cff621d'}, {'domain': '.airpaq.de', 'expiry': 1675892334, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ff62ff18-3d4c-43fa-9689-efcaa8d91a72'}, {'domain': '.airpaq.de', 'expiry': 1645565932, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[Before] Cookie-Name 1: qab_previous_pathname
+[Before] Cookie-Name 2: cart_ver
+[Before] Cookie-Name 3: cart_sig
+[Before] Cookie-Name 4: _landing_page
+[Before] Cookie-Name 5: cart_ts
+[Before] Cookie-Name 6: _hjIncludedInPageviewSample
+[Before] Cookie-Name 7: _hjSession_1064718
+[Before] Cookie-Name 8: _hjIncludedInSessionSample
+[Before] Cookie-Name 9: _shopify_sa_t
+[Before] Cookie-Name 10: _shopify_s
+[Before] Cookie-Name 11: _hjFirstSeen
+[Before] Cookie-Name 12: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 13: _hjSessionUser_1064718
+[Before] Cookie-Name 14: localization
+[Before] Cookie-Name 15: _gat
+[Before] Cookie-Name 16: _ga
+[Before] Cookie-Name 17: _fbp
+[Before] Cookie-Name 18: _shopify_sa_p
+[Before] Cookie-Name 19: _s
+[Before] Cookie-Name 20: _shopify_y
+[Before] Cookie-Name 21: _gid
+[Before] Cookie-Name 22: _pin_unauth
+[Before] Cookie-Name 23: __kla_id
+[Before] Cookie-Name 24: secure_customer_sig
+[Before] Cookie-Name 25: cart
+[Before] Cookie-Name 26: _y
+[Before] Cookie-Name 27: _orig_referrer
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 27
+[After] Website-Cookies: [{'domain': 'www.airpaq.de', 'httpOnly': False, 'name': 'qab_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': 'www.airpaq.de', 'expiry': 1645565934, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A3'}, {'domain': 'www.airpaq.de', 'expiry': 1645565934, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2780db8225dd51ff34b0ebbcab7fbc2b'}, {'domain': '.airpaq.de', 'expiry': 1645565932, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.airpaq.de', 'expiry': 1645565934, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644356334'}, {'domain': 'www.airpaq.de', 'expiry': 1644356453, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.airpaq.de', 'expiry': 1644358133, 'httpOnly': False, 'name': '_hjSession_1064718', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImIxYWQwZmFhLTI4YjQtNDUyMi1hMGZkLTNmMDRlMDQxNTYzMiIsImNyZWF0ZWQiOjE2NDQzNTYzMzMzMjcsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': 'www.airpaq.de', 'expiry': 1644356453, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.airpaq.de', 'expiry': 1644358133, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A38%3A53.176Z'}, {'domain': '.airpaq.de', 'expiry': 1644358134, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '92064bf1-34fb-4479-800a-ca8975543419'}, {'domain': '.airpaq.de', 'expiry': 1644358133, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.airpaq.de', 'expiry': 1644358133, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.airpaq.de', 'expiry': 1675892333, 'httpOnly': False, 'name': '_hjSessionUser_1064718', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjA2MDY3MmRiLThhZTAtNWY2ZC1iM2NjLTkzYTc4OGNmZjIzYyIsImNyZWF0ZWQiOjE2NDQzNTYzMzMzMDAsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': 'www.airpaq.de', 'expiry': 1645565934, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.airpaq.de', 'expiry': 1644356393, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.airpaq.de', 'expiry': 1707428333, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1162459963.1644356333'}, {'domain': '.airpaq.de', 'expiry': 1652132348, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644356333466.1853762257'}, {'domain': '.airpaq.de', 'expiry': 1644358133, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.airpaq.de', 'expiry': 1644358134, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '92064bf1-34fb-4479-800a-ca8975543419'}, {'domain': '.airpaq.de', 'expiry': 1675892334, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ff62ff18-3d4c-43fa-9689-efcaa8d91a72'}, {'domain': '.airpaq.de', 'expiry': 1644442733, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1364708782.1644356333'}, {'domain': '.airpaq.de', 'expiry': 1675892333, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVptUTJZekkwTlRFdFpEZ3dOaTAwWkRrd0xXSTVObVl0TTJNMFptSTJPRGRtTkRCbQ'}, {'domain': 'www.airpaq.de', 'expiry': 1707428334, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQzNTYzMzUsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LmFpcnBhcS5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQzNTYzMzUsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LmFpcnBhcS5kZS8ifX0='}, {'domain': 'www.airpaq.de', 'expiry': 1675892334, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'www.airpaq.de', 'expiry': 1645565934, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5da96db3739536028db6f1c33cff621d'}, {'domain': '.airpaq.de', 'expiry': 1675892334, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ff62ff18-3d4c-43fa-9689-efcaa8d91a72'}, {'domain': '.airpaq.de', 'expiry': 1645565932, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: qab_previous_pathname
+[After] Cookie-Name 2: cart_ver
+[After] Cookie-Name 3: cart_sig
+[After] Cookie-Name 4: _landing_page
+[After] Cookie-Name 5: cart_ts
+[After] Cookie-Name 6: _hjIncludedInPageviewSample
+[After] Cookie-Name 7: _hjSession_1064718
+[After] Cookie-Name 8: _hjIncludedInSessionSample
+[After] Cookie-Name 9: _shopify_sa_t
+[After] Cookie-Name 10: _shopify_s
+[After] Cookie-Name 11: _hjFirstSeen
+[After] Cookie-Name 12: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 13: _hjSessionUser_1064718
+[After] Cookie-Name 14: localization
+[After] Cookie-Name 15: _gat
+[After] Cookie-Name 16: _ga
+[After] Cookie-Name 17: _fbp
+[After] Cookie-Name 18: _shopify_sa_p
+[After] Cookie-Name 19: _s
+[After] Cookie-Name 20: _shopify_y
+[After] Cookie-Name 21: _gid
+[After] Cookie-Name 22: _pin_unauth
+[After] Cookie-Name 23: __kla_id
+[After] Cookie-Name 24: secure_customer_sig
+[After] Cookie-Name 25: cart
+[After] Cookie-Name 26: _y
+[After] Cookie-Name 27: _orig_referrer
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _hjIncludedInPageviewSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjIncludedInSessionSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

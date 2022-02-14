@@ -1,0 +1,93 @@
+Website 159: http://www.bluebella.de/ | Created: 09.02.2022 20:23:33 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 29
+[Before] Website-Cookies: [{'domain': 'www.bluebella.de', 'expiry': 1644521006, 'httpOnly': False, 'name': '_ssw_cart_data', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'eyJjYXJ0X3Rva2VuIjoiY2U0YmMzOWRkMzIzMzMzMTBhYWFmMzIwOGE2MmY3NDYifQ%3D%3D'}, {'domain': 'www.bluebella.de', 'httpOnly': False, 'name': 'hesid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'b9ef8db6-b4e6-8f7a-5fb9-fa68c9fc8003'}, {'domain': '.bluebella.de', 'expiry': 1678598604, 'httpOnly': False, 'name': 'cto_bundle', 'path': '/', 'secure': False, 'value': '5h5xMl9EdXZ0ekxsVE9oeWpzY2JjOEVjJTJCbVJJRXlUZ2NFRnVuJTJCSUJWZ29IeWxqNFdncjBsTHgzUGxVRGg2ZjVHRzJWanFLU2tGczB2eUtOdDlHT0c5bDlCSlVuSjJCM0hudVVweFNkYXhKWmZISWJvSDQ5WDV0SXNCdlMlMkI1RkRpVHJlQTJaZ21KTnBZUlE5dVlJaUZ5RXhJY3clM0QlM0Q'}, {'domain': 'www.bluebella.de', 'expiry': 1802114604, 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'secure': True, 'value': 'a00bb601-f2d3-4e33-9dea-f513c7ce1526'}, {'domain': '.bluebella.de', 'expiry': 1644434663, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.bluebella.de', 'expiry': 1675970603, 'httpOnly': False, 'name': '_y2', 'path': '/', 'secure': False, 'value': '1%3AeyJjIjp7IjE3NTkxNiI6LTE0NzM5ODQwMDAsIm8iOi0xNDczOTg0MDAwfX0%3D%3ALTE0NzEzNjMxNjg%3D%3A99'}, {'domain': '.bluebella.de', 'expiry': 1644436403, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.bluebella.de', 'expiry': 1675970606, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bcc6844d-3414-4101-affe-e3a4c43be4a0'}, {'domain': 'www.bluebella.de', 'expiry': 1707506604, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MzQ2MDQsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LmJsdWViZWxsYS5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQ0MzQ2MDQsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LmJsdWViZWxsYS5kZS8ifX0='}, {'domain': 'www.bluebella.de', 'expiry': 1739042603, 'httpOnly': False, 'name': '_utid', 'path': '/', 'secure': True, 'value': '%22e625f26a91f6c6c8a11bb5d1dde54fd8%22'}, {'domain': 'www.bluebella.de', 'expiry': 1644436403, 'httpOnly': False, 'name': '_at', 'path': '/', 'secure': True, 'value': '%7B%22visits%22%3A1%2C%22sessionId%22%3A%22d10699e0-4ee9-444d-974d-22a4e764a2a7%22%2C%22start%22%3A1644434603145%2C%22last_visit%22%3A1644434603145%2C%22search%22%3A%7B%22engine%22%3Anull%2C%22query%22%3Anull%7D%2C%22title%22%3A%22Bluebella%20Lingerie%20%E2%80%93%20Bluebella%20-%20DE%22%2C%22url%22%3A%22https%3A%2F%2Fwww.bluebella.de%2F%22%2C%22path%22%3A%22%2F%22%2C%22referrer%22%3A%22%22%2C%22referrer_info%22%3A%7B%22host%22%3A%22www.bluebella.de%22%2C%22path%22%3A%22%2F%22%2C%22protocol%22%3A%22https%3A%22%2C%22port%22%3A80%2C%22search%22%3A%22%22%2C%22query%22%3A%7B%7D%7D%2C%22up%22%3A%7B%7D%7D'}, {'domain': '.bluebella.de', 'expiry': 1652210602, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.210558665.1644434603'}, {'domain': '.bluebella.de', 'expiry': 1644436406, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1e6a698d-cd0a-494b-b7c3-7866c4e7e292'}, {'domain': 'www.bluebella.de', 'expiry': 1644436404, 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'secure': True, 'value': 'fb18988f-d842-4aff-97cb-73fb7d25f15a'}, {'domain': 'www.bluebella.de', 'expiry': 1644521003, 'httpOnly': False, 'name': 'pageViews', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.bluebella.de', 'expiry': 1707506603, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.390245554.1644434603'}, {'domain': 'www.bluebella.de', 'expiry': 1647026607, 'httpOnly': False, 'name': 'hash_key', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '620414af694984784f48a522'}, {'domain': '.bluebella.de', 'expiry': 1652210604, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644434603816.965135934'}, {'domain': '.bluebella.de', 'expiry': 1644436403, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A23%3A23.563Z'}, {'domain': '.bluebella.de', 'expiry': 1644434662, 'httpOnly': False, 'name': '_gat_UA-22147005-11', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.bluebella.de', 'expiry': 1645644202, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.bluebella.de', 'expiry': 1644436406, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1e6a698d-cd0a-494b-b7c3-7866c4e7e292'}, {'domain': 'www.bluebella.de', 'expiry': 1675970615, 'httpOnly': False, 'name': '_yi', 'path': '/', 'secure': False, 'value': '1%3AeyJsaSI6bnVsbCwic2UiOnsiYyI6MSwiZWMiOjYsImxhIjoxNjQ0NDM0NjE1MzA0LCJwIjoxLCJzYyI6MTJ9LCJ1Ijp7ImlkIjoiNjc2N2E3NzEtYmUwYS00Yjk3LTgyNmYtMGVlODk0M2IxNzk5IiwiZmwiOiIwIn19%3ALTE0MzE4NDYxMTI%3D%3A99'}, {'domain': '.bluebella.de', 'expiry': 1644521003, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1316029348.1644434603'}, {'domain': '.bluebella.de', 'expiry': 1675970606, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bcc6844d-3414-4101-affe-e3a4c43be4a0'}, {'domain': '.www.bluebella.de', 'expiry': 1675970603, 'httpOnly': False, 'name': 'currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.bluebella.de', 'expiry': 1645644202, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.bluebella.de', 'expiry': 1644436706, 'httpOnly': False, 'name': 'ssw_visitor', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'ssw_visitor1644434606707'}, {'domain': 'www.bluebella.de', 'expiry': 1675970606, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _ssw_cart_data
+[Before] Cookie-Name 2: hesid
+[Before] Cookie-Name 3: cto_bundle
+[Before] Cookie-Name 4: _shg_user_id
+[Before] Cookie-Name 5: _gat
+[Before] Cookie-Name 6: _y2
+[Before] Cookie-Name 7: _shopify_sa_p
+[Before] Cookie-Name 8: _shopify_y
+[Before] Cookie-Name 9: __kla_id
+[Before] Cookie-Name 10: _utid
+[Before] Cookie-Name 11: _at
+[Before] Cookie-Name 12: _gcl_au
+[Before] Cookie-Name 13: _shopify_s
+[Before] Cookie-Name 14: _shg_session_id
+[Before] Cookie-Name 15: pageViews
+[Before] Cookie-Name 16: _ga
+[Before] Cookie-Name 17: hash_key
+[Before] Cookie-Name 18: _fbp
+[Before] Cookie-Name 19: _shopify_sa_t
+[Before] Cookie-Name 20: _gat_UA-22147005-11
+[Before] Cookie-Name 21: _orig_referrer
+[Before] Cookie-Name 22: _s
+[Before] Cookie-Name 23: _yi
+[Before] Cookie-Name 24: _gid
+[Before] Cookie-Name 25: _y
+[Before] Cookie-Name 26: currency
+[Before] Cookie-Name 27: _landing_page
+[Before] Cookie-Name 28: ssw_visitor
+[Before] Cookie-Name 29: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 29
+[After] Website-Cookies: [{'domain': 'www.bluebella.de', 'expiry': 1644521006, 'httpOnly': False, 'name': '_ssw_cart_data', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'eyJjYXJ0X3Rva2VuIjoiY2U0YmMzOWRkMzIzMzMzMTBhYWFmMzIwOGE2MmY3NDYifQ%3D%3D'}, {'domain': 'www.bluebella.de', 'httpOnly': False, 'name': 'hesid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'b9ef8db6-b4e6-8f7a-5fb9-fa68c9fc8003'}, {'domain': '.bluebella.de', 'expiry': 1678598604, 'httpOnly': False, 'name': 'cto_bundle', 'path': '/', 'secure': False, 'value': '5h5xMl9EdXZ0ekxsVE9oeWpzY2JjOEVjJTJCbVJJRXlUZ2NFRnVuJTJCSUJWZ29IeWxqNFdncjBsTHgzUGxVRGg2ZjVHRzJWanFLU2tGczB2eUtOdDlHT0c5bDlCSlVuSjJCM0hudVVweFNkYXhKWmZISWJvSDQ5WDV0SXNCdlMlMkI1RkRpVHJlQTJaZ21KTnBZUlE5dVlJaUZ5RXhJY3clM0QlM0Q'}, {'domain': 'www.bluebella.de', 'expiry': 1802114604, 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'secure': True, 'value': 'a00bb601-f2d3-4e33-9dea-f513c7ce1526'}, {'domain': '.bluebella.de', 'expiry': 1644434663, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.bluebella.de', 'expiry': 1675970603, 'httpOnly': False, 'name': '_y2', 'path': '/', 'secure': False, 'value': '1%3AeyJjIjp7IjE3NTkxNiI6LTE0NzM5ODQwMDAsIm8iOi0xNDczOTg0MDAwfX0%3D%3ALTE0NzEzNjMxNjg%3D%3A99'}, {'domain': '.bluebella.de', 'expiry': 1644436403, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.bluebella.de', 'expiry': 1675970606, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bcc6844d-3414-4101-affe-e3a4c43be4a0'}, {'domain': 'www.bluebella.de', 'expiry': 1707506604, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MzQ2MDQsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LmJsdWViZWxsYS5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQ0MzQ2MDQsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LmJsdWViZWxsYS5kZS8ifX0='}, {'domain': 'www.bluebella.de', 'expiry': 1739042603, 'httpOnly': False, 'name': '_utid', 'path': '/', 'secure': True, 'value': '%22e625f26a91f6c6c8a11bb5d1dde54fd8%22'}, {'domain': 'www.bluebella.de', 'expiry': 1644436403, 'httpOnly': False, 'name': '_at', 'path': '/', 'secure': True, 'value': '%7B%22visits%22%3A1%2C%22sessionId%22%3A%22d10699e0-4ee9-444d-974d-22a4e764a2a7%22%2C%22start%22%3A1644434603145%2C%22last_visit%22%3A1644434603145%2C%22search%22%3A%7B%22engine%22%3Anull%2C%22query%22%3Anull%7D%2C%22title%22%3A%22Bluebella%20Lingerie%20%E2%80%93%20Bluebella%20-%20DE%22%2C%22url%22%3A%22https%3A%2F%2Fwww.bluebella.de%2F%22%2C%22path%22%3A%22%2F%22%2C%22referrer%22%3A%22%22%2C%22referrer_info%22%3A%7B%22host%22%3A%22www.bluebella.de%22%2C%22path%22%3A%22%2F%22%2C%22protocol%22%3A%22https%3A%22%2C%22port%22%3A80%2C%22search%22%3A%22%22%2C%22query%22%3A%7B%7D%7D%2C%22up%22%3A%7B%7D%7D'}, {'domain': '.bluebella.de', 'expiry': 1652210602, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.210558665.1644434603'}, {'domain': '.bluebella.de', 'expiry': 1644436406, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1e6a698d-cd0a-494b-b7c3-7866c4e7e292'}, {'domain': 'www.bluebella.de', 'expiry': 1644436404, 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'secure': True, 'value': 'fb18988f-d842-4aff-97cb-73fb7d25f15a'}, {'domain': 'www.bluebella.de', 'expiry': 1644521003, 'httpOnly': False, 'name': 'pageViews', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.bluebella.de', 'expiry': 1707506603, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.390245554.1644434603'}, {'domain': 'www.bluebella.de', 'expiry': 1647026607, 'httpOnly': False, 'name': 'hash_key', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '620414af694984784f48a522'}, {'domain': '.bluebella.de', 'expiry': 1652210604, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644434603816.965135934'}, {'domain': '.bluebella.de', 'expiry': 1644436403, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A23%3A23.563Z'}, {'domain': '.bluebella.de', 'expiry': 1644434662, 'httpOnly': False, 'name': '_gat_UA-22147005-11', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.bluebella.de', 'expiry': 1645644202, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.bluebella.de', 'expiry': 1644436406, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1e6a698d-cd0a-494b-b7c3-7866c4e7e292'}, {'domain': 'www.bluebella.de', 'expiry': 1675970620, 'httpOnly': False, 'name': '_yi', 'path': '/', 'secure': False, 'value': '1%3AeyJsaSI6bnVsbCwic2UiOnsiYyI6MSwiZWMiOjYsImxhIjoxNjQ0NDM0NjIwMjk3LCJwIjoxLCJzYyI6MTd9LCJ1Ijp7ImlkIjoiNjc2N2E3NzEtYmUwYS00Yjk3LTgyNmYtMGVlODk0M2IxNzk5IiwiZmwiOiIwIn19%3ALTE0MzE4NDYxMTI%3D%3A99'}, {'domain': '.bluebella.de', 'expiry': 1644521003, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1316029348.1644434603'}, {'domain': '.bluebella.de', 'expiry': 1675970606, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bcc6844d-3414-4101-affe-e3a4c43be4a0'}, {'domain': '.www.bluebella.de', 'expiry': 1675970603, 'httpOnly': False, 'name': 'currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.bluebella.de', 'expiry': 1645644202, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.bluebella.de', 'expiry': 1644436706, 'httpOnly': False, 'name': 'ssw_visitor', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'ssw_visitor1644434606707'}, {'domain': 'www.bluebella.de', 'expiry': 1675970606, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _ssw_cart_data
+[After] Cookie-Name 2: hesid
+[After] Cookie-Name 3: cto_bundle
+[After] Cookie-Name 4: _shg_user_id
+[After] Cookie-Name 5: _gat
+[After] Cookie-Name 6: _y2
+[After] Cookie-Name 7: _shopify_sa_p
+[After] Cookie-Name 8: _shopify_y
+[After] Cookie-Name 9: __kla_id
+[After] Cookie-Name 10: _utid
+[After] Cookie-Name 11: _at
+[After] Cookie-Name 12: _gcl_au
+[After] Cookie-Name 13: _shopify_s
+[After] Cookie-Name 14: _shg_session_id
+[After] Cookie-Name 15: pageViews
+[After] Cookie-Name 16: _ga
+[After] Cookie-Name 17: hash_key
+[After] Cookie-Name 18: _fbp
+[After] Cookie-Name 19: _shopify_sa_t
+[After] Cookie-Name 20: _gat_UA-22147005-11
+[After] Cookie-Name 21: _orig_referrer
+[After] Cookie-Name 22: _s
+[After] Cookie-Name 23: _yi
+[After] Cookie-Name 24: _gid
+[After] Cookie-Name 25: _y
+[After] Cookie-Name 26: currency
+[After] Cookie-Name 27: _landing_page
+[After] Cookie-Name 28: ssw_visitor
+[After] Cookie-Name 29: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gid (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

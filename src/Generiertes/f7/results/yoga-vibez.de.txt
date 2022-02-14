@@ -1,0 +1,77 @@
+Website 364: http://www.yoga-vibez.de/ | Created: 10.02.2022 19:07:57 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 21
+[Before] Website-Cookies: [{'domain': 'www.yoga-vibez.de', 'expiry': 1644520060, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.yoga-vibez.de', 'expiry': 1652292459, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644516458339.1205448271'}, {'domain': 'www.yoga-vibez.de', 'expiry': 1707588461, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ1MTY0NjEsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LnlvZ2EtdmliZXouZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NTE2NDYxLCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL3d3dy55b2dhLXZpYmV6LmRlLyJ9fQ=='}, {'domain': '.yoga-vibez.de', 'expiry': 1644518258, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.yoga-vibez.de', 'expiry': 1644518258, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T18%3A07%3A38.078Z'}, {'domain': '.yoga-vibez.de', 'expiry': 1690650458, 'httpOnly': False, 'name': 'ku1-vid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': 'b96874d4-7f0b-ce3e-33df-873bb8898b94'}, {'domain': 'www.yoga-vibez.de', 'httpOnly': False, 'name': 'usb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.yoga-vibez.de', 'httpOnly': False, 'name': 'ku1-sid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': 'HB4DJAy69QV4sFuageOlQ'}, {'domain': '.yoga-vibez.de', 'expiry': 1644602858, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.822289132.1644516458'}, {'domain': 'www.yoga-vibez.de', 'httpOnly': False, 'name': 'epb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.yoga-vibez.de', 'expiry': 1644516518, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.yoga-vibez.de', 'expiry': 1707588458, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.291412172.1644516458'}, {'domain': '.yoga-vibez.de', 'expiry': 1676052457, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '747e6858-7120-4960-8915-c7890decbff0'}, {'domain': '.yoga-vibez.de', 'expiry': 1644518258, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6efd2ba4-e01c-4dac-be47-a891cd255c27'}, {'domain': '.yoga-vibez.de', 'expiry': 1676052457, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '747e6858-7120-4960-8915-c7890decbff0'}, {'domain': '.yoga-vibez.de', 'expiry': 1644518258, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6efd2ba4-e01c-4dac-be47-a891cd255c27'}, {'domain': 'www.yoga-vibez.de', 'expiry': 1645726057, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.yoga-vibez.de', 'expiry': 1645726057, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.yoga-vibez.de', 'expiry': 1645726057, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.yoga-vibez.de', 'expiry': 1645726057, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.yoga-vibez.de', 'expiry': 1676052457, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: shopify_pay_redirect
+[Before] Cookie-Name 2: _fbp
+[Before] Cookie-Name 3: __kla_id
+[Before] Cookie-Name 4: _shopify_sa_p
+[Before] Cookie-Name 5: _shopify_sa_t
+[Before] Cookie-Name 6: ku1-vid
+[Before] Cookie-Name 7: usb_previous_pathname
+[Before] Cookie-Name 8: ku1-sid
+[Before] Cookie-Name 9: _gid
+[Before] Cookie-Name 10: epb_previous_pathname
+[Before] Cookie-Name 11: _gat
+[Before] Cookie-Name 12: _ga
+[Before] Cookie-Name 13: _y
+[Before] Cookie-Name 14: _shopify_s
+[Before] Cookie-Name 15: _shopify_y
+[Before] Cookie-Name 16: _s
+[Before] Cookie-Name 17: localization
+[Before] Cookie-Name 18: _landing_page
+[Before] Cookie-Name 19: _orig_referrer
+[Before] Cookie-Name 20: cart_currency
+[Before] Cookie-Name 21: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 21
+[After] Website-Cookies: [{'domain': 'www.yoga-vibez.de', 'expiry': 1644520060, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.yoga-vibez.de', 'expiry': 1652292459, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644516458339.1205448271'}, {'domain': 'www.yoga-vibez.de', 'expiry': 1707588461, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ1MTY0NjEsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LnlvZ2EtdmliZXouZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NTE2NDYxLCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL3d3dy55b2dhLXZpYmV6LmRlLyJ9fQ=='}, {'domain': '.yoga-vibez.de', 'expiry': 1644518258, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.yoga-vibez.de', 'expiry': 1644518258, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T18%3A07%3A38.078Z'}, {'domain': '.yoga-vibez.de', 'expiry': 1690650458, 'httpOnly': False, 'name': 'ku1-vid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': 'b96874d4-7f0b-ce3e-33df-873bb8898b94'}, {'domain': 'www.yoga-vibez.de', 'httpOnly': False, 'name': 'usb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.yoga-vibez.de', 'httpOnly': False, 'name': 'ku1-sid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': 'HB4DJAy69QV4sFuageOlQ'}, {'domain': '.yoga-vibez.de', 'expiry': 1644602858, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.822289132.1644516458'}, {'domain': 'www.yoga-vibez.de', 'httpOnly': False, 'name': 'epb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.yoga-vibez.de', 'expiry': 1644516518, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.yoga-vibez.de', 'expiry': 1707588458, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.291412172.1644516458'}, {'domain': '.yoga-vibez.de', 'expiry': 1676052457, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '747e6858-7120-4960-8915-c7890decbff0'}, {'domain': '.yoga-vibez.de', 'expiry': 1644518258, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6efd2ba4-e01c-4dac-be47-a891cd255c27'}, {'domain': '.yoga-vibez.de', 'expiry': 1676052457, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '747e6858-7120-4960-8915-c7890decbff0'}, {'domain': '.yoga-vibez.de', 'expiry': 1644518258, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6efd2ba4-e01c-4dac-be47-a891cd255c27'}, {'domain': 'www.yoga-vibez.de', 'expiry': 1645726057, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.yoga-vibez.de', 'expiry': 1645726057, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.yoga-vibez.de', 'expiry': 1645726057, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.yoga-vibez.de', 'expiry': 1645726057, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.yoga-vibez.de', 'expiry': 1676052457, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: shopify_pay_redirect
+[After] Cookie-Name 2: _fbp
+[After] Cookie-Name 3: __kla_id
+[After] Cookie-Name 4: _shopify_sa_p
+[After] Cookie-Name 5: _shopify_sa_t
+[After] Cookie-Name 6: ku1-vid
+[After] Cookie-Name 7: usb_previous_pathname
+[After] Cookie-Name 8: ku1-sid
+[After] Cookie-Name 9: _gid
+[After] Cookie-Name 10: epb_previous_pathname
+[After] Cookie-Name 11: _gat
+[After] Cookie-Name 12: _ga
+[After] Cookie-Name 13: _y
+[After] Cookie-Name 14: _shopify_s
+[After] Cookie-Name 15: _shopify_y
+[After] Cookie-Name 16: _s
+[After] Cookie-Name 17: localization
+[After] Cookie-Name 18: _landing_page
+[After] Cookie-Name 19: _orig_referrer
+[After] Cookie-Name 20: cart_currency
+[After] Cookie-Name 21: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

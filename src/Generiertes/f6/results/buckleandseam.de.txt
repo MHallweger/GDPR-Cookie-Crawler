@@ -1,0 +1,103 @@
+Website 285: http://www.buckleandseam.de/ | Created: 10.02.2022 13:37:12 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 31
+[Before] Website-Cookies: [{'domain': '.buckleandseam.de', 'expiry': 1678660623, 'httpOnly': False, 'name': 'cto_bundle', 'path': '/', 'secure': False, 'value': 'ivHasl9taGlLbXJMMFB2UDdlNDhUTHllV042S0I4ZmVCdmklMkZxSkl6T1I1TjJEMTNRYyUyRmZUQ3ElMkI3NFl2b0Y1JTJGZzhBaWxJeFBKaEZmZ3BVNXUxTFZKeDJjbElvQkkxMzNHTElZRTdncExzNmhsb3dEcDNsa3JiY2JDY0tLaGtoenFKT3ZJT3RqMWFwNFlpQkZhdTZ1dWpEWWUwQSUzRCUzRA'}, {'domain': '.buckleandseam.de', 'expiry': 1660048622, 'httpOnly': False, 'name': '__lotl', 'path': '/', 'secure': False, 'value': 'https%3A%2F%2Fbuckleandseam.de%2F'}, {'domain': '.buckleandseam.de', 'expiry': 1676032622, 'httpOnly': False, 'name': '_lo_v', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.buckleandseam.de', 'expiry': 1644497222, 'httpOnly': False, 'name': '_lorid', 'path': '/', 'secure': False, 'value': '122869-1644496620818-10519a510f2ad116'}, {'domain': '.buckleandseam.de', 'expiry': 1707568622, 'httpOnly': False, 'name': '_lo_uid', 'path': '/', 'secure': False, 'value': '122869-1644496620818-ac82550094699b32'}, {'domain': '.buckleandseam.de', 'expiry': 1644583022, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': 'v2gc7e|1644496622382|1|1|f.clarity.ms/collect'}, {'domain': '.buckleandseam.de', 'expiry': 1676032622, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': '1ec8hsy|1|eyv|0'}, {'domain': 'buckleandseam.de', 'expiry': 1707568621, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0OTY2MjEsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vYnVja2xlYW5kc2VhbS5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQ0OTY2MjEsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vYnVja2xlYW5kc2VhbS5kZS8ifX0='}, {'domain': '.buckleandseam.de', 'expiry': 1676032622, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b5ec8e20-273c-4ad7-bf9a-27c420553d39'}, {'domain': 'buckleandseam.de', 'expiry': 1644496921, 'httpOnly': False, 'name': 'outbrain_cid_fetch', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': '.buckleandseam.de', 'expiry': 1652272621, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644496621411.656664581'}, {'domain': '.buckleandseam.de', 'expiry': 1678192621, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '24f927008a6e11ecbe028f80e077f533'}, {'domain': '.buckleandseam.de', 'expiry': 1644583021, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': '24f8ed308a6e11ec9a23bd7ebcdcad27'}, {'domain': 'buckleandseam.de', 'expiry': 1645706222, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': ''}, {'domain': '.buckleandseam.de', 'expiry': 1644498421, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.buckleandseam.de', 'expiry': 1644496681, 'httpOnly': False, 'name': '_gat_UA-85236934-6', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.buckleandseam.de', 'expiry': 1644583022, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1631019791.1644496621'}, {'domain': '.buckleandseam.de', 'expiry': 1676032622, 'httpOnly': False, 'name': '__zlcmid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '18TkhEARVLDNeA9'}, {'domain': '.buckleandseam.de', 'httpOnly': False, 'name': '__utmzzses', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.buckleandseam.de', 'expiry': 1644498422, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c0fb58e1-d49f-4190-8066-d091db2b018a'}, {'domain': '.buckleandseam.de', 'expiry': 1706704621, 'httpOnly': False, 'name': 'initialTrafficSource', 'path': '/', 'secure': False, 'value': 'utmcsr=(direct)|utmcmd=(none)|utmccn=(not set)'}, {'domain': '.buckleandseam.de', 'expiry': 1676032621, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVpqUXdaRGd3Wm1RdFpqUTJOQzAwWmpkaUxXRXhaakF0Wmpkak5EZGtPVEEwWkRVdw'}, {'domain': '.buckleandseam.de', 'expiry': 1652272621, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.169708872.1644496621'}, {'domain': '.buckleandseam.de', 'expiry': 1644498421, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T12%3A37%3A01.604Z'}, {'domain': '.buckleandseam.de', 'expiry': 1644498422, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c0fb58e1-d49f-4190-8066-d091db2b018a'}, {'domain': '.buckleandseam.de', 'expiry': 1645706220, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.buckleandseam.de', 'expiry': 1645706220, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.buckleandseam.de', 'expiry': 1676032622, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b5ec8e20-273c-4ad7-bf9a-27c420553d39'}, {'domain': 'buckleandseam.de', 'expiry': 1645706222, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'EUR'}, {'domain': '.buckleandseam.de', 'expiry': 1707568622, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1578383739.1644496621'}, {'domain': 'buckleandseam.de', 'expiry': 1676032622, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: cto_bundle
+[Before] Cookie-Name 2: __lotl
+[Before] Cookie-Name 3: _lo_v
+[Before] Cookie-Name 4: _lorid
+[Before] Cookie-Name 5: _lo_uid
+[Before] Cookie-Name 6: _clsk
+[Before] Cookie-Name 7: _clck
+[Before] Cookie-Name 8: __kla_id
+[Before] Cookie-Name 9: _y
+[Before] Cookie-Name 10: outbrain_cid_fetch
+[Before] Cookie-Name 11: _fbp
+[Before] Cookie-Name 12: _uetvid
+[Before] Cookie-Name 13: _uetsid
+[Before] Cookie-Name 14: localization
+[Before] Cookie-Name 15: _shopify_sa_p
+[Before] Cookie-Name 16: _gat_UA-85236934-6
+[Before] Cookie-Name 17: _gid
+[Before] Cookie-Name 18: __zlcmid
+[Before] Cookie-Name 19: __utmzzses
+[Before] Cookie-Name 20: _shopify_s
+[Before] Cookie-Name 21: initialTrafficSource
+[Before] Cookie-Name 22: _pin_unauth
+[Before] Cookie-Name 23: _gcl_au
+[Before] Cookie-Name 24: _shopify_sa_t
+[Before] Cookie-Name 25: _s
+[Before] Cookie-Name 26: _landing_page
+[Before] Cookie-Name 27: _orig_referrer
+[Before] Cookie-Name 28: _shopify_y
+[Before] Cookie-Name 29: cart_currency
+[Before] Cookie-Name 30: _ga
+[Before] Cookie-Name 31: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 31
+[After] Website-Cookies: [{'domain': '.buckleandseam.de', 'expiry': 1678660623, 'httpOnly': False, 'name': 'cto_bundle', 'path': '/', 'secure': False, 'value': 'ivHasl9taGlLbXJMMFB2UDdlNDhUTHllV042S0I4ZmVCdmklMkZxSkl6T1I1TjJEMTNRYyUyRmZUQ3ElMkI3NFl2b0Y1JTJGZzhBaWxJeFBKaEZmZ3BVNXUxTFZKeDJjbElvQkkxMzNHTElZRTdncExzNmhsb3dEcDNsa3JiY2JDY0tLaGtoenFKT3ZJT3RqMWFwNFlpQkZhdTZ1dWpEWWUwQSUzRCUzRA'}, {'domain': '.buckleandseam.de', 'expiry': 1660048622, 'httpOnly': False, 'name': '__lotl', 'path': '/', 'secure': False, 'value': 'https%3A%2F%2Fbuckleandseam.de%2F'}, {'domain': '.buckleandseam.de', 'expiry': 1676032622, 'httpOnly': False, 'name': '_lo_v', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.buckleandseam.de', 'expiry': 1644497222, 'httpOnly': False, 'name': '_lorid', 'path': '/', 'secure': False, 'value': '122869-1644496620818-10519a510f2ad116'}, {'domain': '.buckleandseam.de', 'expiry': 1707568622, 'httpOnly': False, 'name': '_lo_uid', 'path': '/', 'secure': False, 'value': '122869-1644496620818-ac82550094699b32'}, {'domain': '.buckleandseam.de', 'expiry': 1644583022, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': 'v2gc7e|1644496622382|1|1|f.clarity.ms/collect'}, {'domain': '.buckleandseam.de', 'expiry': 1676032622, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': '1ec8hsy|1|eyv|0'}, {'domain': 'buckleandseam.de', 'expiry': 1707568621, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0OTY2MjEsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vYnVja2xlYW5kc2VhbS5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQ0OTY2MjEsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vYnVja2xlYW5kc2VhbS5kZS8ifX0='}, {'domain': '.buckleandseam.de', 'expiry': 1676032622, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b5ec8e20-273c-4ad7-bf9a-27c420553d39'}, {'domain': 'buckleandseam.de', 'expiry': 1644496921, 'httpOnly': False, 'name': 'outbrain_cid_fetch', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': '.buckleandseam.de', 'expiry': 1652272621, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644496621411.656664581'}, {'domain': '.buckleandseam.de', 'expiry': 1678192621, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '24f927008a6e11ecbe028f80e077f533'}, {'domain': '.buckleandseam.de', 'expiry': 1644583021, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': '24f8ed308a6e11ec9a23bd7ebcdcad27'}, {'domain': 'buckleandseam.de', 'expiry': 1645706222, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': ''}, {'domain': '.buckleandseam.de', 'expiry': 1644498421, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.buckleandseam.de', 'expiry': 1644496681, 'httpOnly': False, 'name': '_gat_UA-85236934-6', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.buckleandseam.de', 'expiry': 1644583022, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1631019791.1644496621'}, {'domain': '.buckleandseam.de', 'expiry': 1676032622, 'httpOnly': False, 'name': '__zlcmid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '18TkhEARVLDNeA9'}, {'domain': '.buckleandseam.de', 'httpOnly': False, 'name': '__utmzzses', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.buckleandseam.de', 'expiry': 1644498422, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c0fb58e1-d49f-4190-8066-d091db2b018a'}, {'domain': '.buckleandseam.de', 'expiry': 1706704621, 'httpOnly': False, 'name': 'initialTrafficSource', 'path': '/', 'secure': False, 'value': 'utmcsr=(direct)|utmcmd=(none)|utmccn=(not set)'}, {'domain': '.buckleandseam.de', 'expiry': 1676032621, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVpqUXdaRGd3Wm1RdFpqUTJOQzAwWmpkaUxXRXhaakF0Wmpkak5EZGtPVEEwWkRVdw'}, {'domain': '.buckleandseam.de', 'expiry': 1652272621, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.169708872.1644496621'}, {'domain': '.buckleandseam.de', 'expiry': 1644498421, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T12%3A37%3A01.604Z'}, {'domain': '.buckleandseam.de', 'expiry': 1644498422, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c0fb58e1-d49f-4190-8066-d091db2b018a'}, {'domain': '.buckleandseam.de', 'expiry': 1645706220, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.buckleandseam.de', 'expiry': 1645706220, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.buckleandseam.de', 'expiry': 1676032622, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b5ec8e20-273c-4ad7-bf9a-27c420553d39'}, {'domain': 'buckleandseam.de', 'expiry': 1645706222, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'EUR'}, {'domain': '.buckleandseam.de', 'expiry': 1707568622, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1578383739.1644496621'}, {'domain': 'buckleandseam.de', 'expiry': 1676032622, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: cto_bundle
+[After] Cookie-Name 2: __lotl
+[After] Cookie-Name 3: _lo_v
+[After] Cookie-Name 4: _lorid
+[After] Cookie-Name 5: _lo_uid
+[After] Cookie-Name 6: _clsk
+[After] Cookie-Name 7: _clck
+[After] Cookie-Name 8: __kla_id
+[After] Cookie-Name 9: _y
+[After] Cookie-Name 10: outbrain_cid_fetch
+[After] Cookie-Name 11: _fbp
+[After] Cookie-Name 12: _uetvid
+[After] Cookie-Name 13: _uetsid
+[After] Cookie-Name 14: localization
+[After] Cookie-Name 15: _shopify_sa_p
+[After] Cookie-Name 16: _gat_UA-85236934-6
+[After] Cookie-Name 17: _gid
+[After] Cookie-Name 18: __zlcmid
+[After] Cookie-Name 19: __utmzzses
+[After] Cookie-Name 20: _shopify_s
+[After] Cookie-Name 21: initialTrafficSource
+[After] Cookie-Name 22: _pin_unauth
+[After] Cookie-Name 23: _gcl_au
+[After] Cookie-Name 24: _shopify_sa_t
+[After] Cookie-Name 25: _s
+[After] Cookie-Name 26: _landing_page
+[After] Cookie-Name 27: _orig_referrer
+[After] Cookie-Name 28: _shopify_y
+[After] Cookie-Name 29: cart_currency
+[After] Cookie-Name 30: _ga
+[After] Cookie-Name 31: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: __lotl (Lucky Orange (User experience tool))
+[Used before] Cookie-Name: _lo_v (Lucky Orange (User experience tool))
+[Used before] Cookie-Name: _lorid (Lucky Orange (User experience tool))
+[Used before] Cookie-Name: _lo_uid (Lucky Orange (User experience tool))
+[Used before] Cookie-Name: _clsk (Microsoft Clarity (User experience tool))
+[Used before] Cookie-Name: _clck (Microsoft Clarity (User experience tool))
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

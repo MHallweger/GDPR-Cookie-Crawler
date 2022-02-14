@@ -1,0 +1,101 @@
+Website 123: http://www.true-fellas.de/ | Created: 10.02.2022 12:48:47 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 32
+[Before] Website-Cookies: [{'domain': '.true-fellas.de', 'expiry': 1707565719, 'httpOnly': False, 'name': 'proof-factor-user-7dea5bcd-d06a-45c2-9a6a-29fcbe56275a-all-time-data', 'path': '/', 'secure': False, 'value': '{"referring_url":"","initial_url":"https://true-fellas.de/","visitor_token":"38b6e2e2-956a-4b9e-976e-e4d500230cd4","sessions_count":1,"pages_viewed":1}'}, {'domain': '.true-fellas.de', 'expiry': 1644495518, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'VrgSIApBm3pDWs-20220210114838'}, {'domain': '.true-fellas.de', 'expiry': 1676029718, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': '3YKSzfw2KfjCMO-20220210114838'}, {'domain': '.true-fellas.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220210114838-vNxlam4l5t8v1QWlD3sXn6TJISD0QxpEkTHDgTB7xmlM2fPV9'}, {'domain': 'true-fellas.de', 'expiry': 1707565718, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0OTM3MTgsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vdHJ1ZS1mZWxsYXMuZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NDkzNzE4LCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL3RydWUtZmVsbGFzLmRlLyJ9fQ=='}, {'domain': 'true-fellas.de', 'httpOnly': False, 'name': 'epb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.true-fellas.de', 'expiry': 1644495518, 'httpOnly': False, 'name': '_hjSession_2239107', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjM4NGNiYzBiLTc5NDctNDQ0OS05YjliLTIyZDBjYjVlMzk0NyIsImNyZWF0ZWQiOjE2NDQ0OTM3MTgzMDEsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': 'true-fellas.de', 'expiry': 1645703319, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.true-fellas.de', 'expiry': 1644495518, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'true-fellas.de', 'expiry': 1676029719, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.true-fellas.de', 'expiry': 1676029718, 'httpOnly': False, 'name': '_hjSessionUser_2239107', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6Ijg1NTE1NmY1LTA3NTEtNTk0OS1iMTJhLWRjNzAxOTVmMTIxMSIsImNyZWF0ZWQiOjE2NDQ0OTM3MTgyNTUsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.true-fellas.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.true-fellas.de', 'expiry': 1644495518, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.true-fellas.de', 'expiry': 1676029717, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.true-fellas.de', 'expiry': 1644493778, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.true-fellas.de', 'expiry': 1644580118, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1538645842.1644493718'}, {'domain': '.true-fellas.de', 'expiry': 1645703317, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'true-fellas.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.true-fellas.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T11%3A48%3A38.147Z'}, {'domain': '.true-fellas.de', 'expiry': 1707565718, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1419645183.1644493718'}, {'domain': '.true-fellas.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.true-fellas.de', 'expiry': 1676029717, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%7D'}, {'domain': '.true-fellas.de', 'expiry': 1644495519, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.true-fellas.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8fbfa276-d666-445a-a333-0a29ad19f1cc'}, {'domain': 'true-fellas.de', 'expiry': 1644493838, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.true-fellas.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '633ac35d-8814-4146-a537-98d946d3ac0f'}, {'domain': '.true-fellas.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '633ac35d-8814-4146-a537-98d946d3ac0f'}, {'domain': '.true-fellas.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.true-fellas.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'true-fellas.de', 'expiry': 1645703319, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.true-fellas.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T11%3A48%3A38.132Z'}, {'domain': '.true-fellas.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8fbfa276-d666-445a-a333-0a29ad19f1cc'}]
+[Before] Cookie-Name 1: proof-factor-user-7dea5bcd-d06a-45c2-9a6a-29fcbe56275a-all-time-data
+[Before] Cookie-Name 2: omnisendSessionID
+[Before] Cookie-Name 3: omnisendAnonymousID
+[Before] Cookie-Name 4: soundestID
+[Before] Cookie-Name 5: __kla_id
+[Before] Cookie-Name 6: epb_previous_pathname
+[Before] Cookie-Name 7: _hjSession_2239107
+[Before] Cookie-Name 8: localization
+[Before] Cookie-Name 9: _hjFirstSeen
+[Before] Cookie-Name 10: secure_customer_sig
+[Before] Cookie-Name 11: _hjSessionUser_2239107
+[Before] Cookie-Name 12: _shopify_evids
+[Before] Cookie-Name 13: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 14: _shopify_m
+[Before] Cookie-Name 15: _gat
+[Before] Cookie-Name 16: _gid
+[Before] Cookie-Name 17: _shopify_tw
+[Before] Cookie-Name 18: _shopify_evids
+[Before] Cookie-Name 19: _shopify_sa_t
+[Before] Cookie-Name 20: _ga
+[Before] Cookie-Name 21: _shopify_sa_p
+[Before] Cookie-Name 22: _tracking_consent
+[Before] Cookie-Name 23: _shopify_tm
+[Before] Cookie-Name 24: _shopify_s
+[Before] Cookie-Name 25: _hjIncludedInPageviewSample
+[Before] Cookie-Name 26: _shopify_y
+[Before] Cookie-Name 27: _y
+[Before] Cookie-Name 28: _orig_referrer
+[Before] Cookie-Name 29: _landing_page
+[Before] Cookie-Name 30: cart_currency
+[Before] Cookie-Name 31: _shopify_d
+[Before] Cookie-Name 32: _s
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 34
+[After] Website-Cookies: [{'domain': '.true-fellas.de', 'expiry': 1707565719, 'httpOnly': False, 'name': 'proof-factor-user-7dea5bcd-d06a-45c2-9a6a-29fcbe56275a-all-time-data', 'path': '/', 'secure': False, 'value': '{"referring_url":"","initial_url":"https://true-fellas.de/","visitor_token":"38b6e2e2-956a-4b9e-976e-e4d500230cd4","sessions_count":1,"pages_viewed":1}'}, {'domain': '.true-fellas.de', 'expiry': 1644495518, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'VrgSIApBm3pDWs-20220210114838'}, {'domain': '.true-fellas.de', 'expiry': 1652269733, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644493733227.998988318'}, {'domain': '.true-fellas.de', 'expiry': 1676029718, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': '3YKSzfw2KfjCMO-20220210114838'}, {'domain': '.true-fellas.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220210114838-vNxlam4l5t8v1QWlD3sXn6TJISD0QxpEkTHDgTB7xmlM2fPV9'}, {'domain': 'true-fellas.de', 'expiry': 1707565718, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0OTM3MTgsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vdHJ1ZS1mZWxsYXMuZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NDkzNzE4LCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL3RydWUtZmVsbGFzLmRlLyJ9fQ=='}, {'domain': 'true-fellas.de', 'httpOnly': False, 'name': 'epb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.true-fellas.de', 'expiry': 1676029733, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '633ac35d-8814-4146-a537-98d946d3ac0f'}, {'domain': 'true-fellas.de', 'expiry': 1644493838, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'true-fellas.de', 'expiry': 1645703333, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.true-fellas.de', 'expiry': 1644495518, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'true-fellas.de', 'expiry': 1645703333, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e8bd1ab9609beb97fadba428795c129c'}, {'domain': 'true-fellas.de', 'expiry': 1676029733, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.true-fellas.de', 'expiry': 1676029718, 'httpOnly': False, 'name': '_hjSessionUser_2239107', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6Ijg1NTE1NmY1LTA3NTEtNTk0OS1iMTJhLWRjNzAxOTVmMTIxMSIsImNyZWF0ZWQiOjE2NDQ0OTM3MTgyNTUsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.true-fellas.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.true-fellas.de', 'expiry': 1676029733, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': '.true-fellas.de', 'expiry': 1644495518, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.true-fellas.de', 'expiry': 1644493778, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.true-fellas.de', 'expiry': 1644580118, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1538645842.1644493718'}, {'domain': 'true-fellas.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.true-fellas.de', 'expiry': 1644495533, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T11%3A48%3A38.147Z'}, {'domain': '.true-fellas.de', 'expiry': 1707565718, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1419645183.1644493718'}, {'domain': '.true-fellas.de', 'expiry': 1644495533, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.true-fellas.de', 'expiry': 1644495533, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8fbfa276-d666-445a-a333-0a29ad19f1cc'}, {'domain': '.true-fellas.de', 'expiry': 1676029733, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '633ac35d-8814-4146-a537-98d946d3ac0f'}, {'domain': '.true-fellas.de', 'expiry': 1645703317, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.true-fellas.de', 'expiry': 1645703333, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.true-fellas.de', 'expiry': 1645703333, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'true-fellas.de', 'expiry': 1645703333, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.true-fellas.de', 'expiry': 1676029733, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%221%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': '.true-fellas.de', 'expiry': 1644495533, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.true-fellas.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T11%3A48%3A38.132Z'}, {'domain': '.true-fellas.de', 'expiry': 1644495533, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8fbfa276-d666-445a-a333-0a29ad19f1cc'}, {'domain': '.true-fellas.de', 'expiry': 1644495518, 'httpOnly': False, 'name': '_hjSession_2239107', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjM4NGNiYzBiLTc5NDctNDQ0OS05YjliLTIyZDBjYjVlMzk0NyIsImNyZWF0ZWQiOjE2NDQ0OTM3MTgzMDEsImluU2FtcGxlIjp0cnVlfQ=='}]
+[After] Cookie-Name 1: proof-factor-user-7dea5bcd-d06a-45c2-9a6a-29fcbe56275a-all-time-data
+[After] Cookie-Name 2: omnisendSessionID
+[After] Cookie-Name 3: _fbp
+[After] Cookie-Name 4: omnisendAnonymousID
+[After] Cookie-Name 5: soundestID
+[After] Cookie-Name 6: __kla_id
+[After] Cookie-Name 7: epb_previous_pathname
+[After] Cookie-Name 8: _shopify_y
+[After] Cookie-Name 9: _hjIncludedInPageviewSample
+[After] Cookie-Name 10: localization
+[After] Cookie-Name 11: _hjFirstSeen
+[After] Cookie-Name 12: cart_sig
+[After] Cookie-Name 13: secure_customer_sig
+[After] Cookie-Name 14: _hjSessionUser_2239107
+[After] Cookie-Name 15: _shopify_evids
+[After] Cookie-Name 16: _shopify_m
+[After] Cookie-Name 17: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 18: _gat
+[After] Cookie-Name 19: _gid
+[After] Cookie-Name 20: _shopify_evids
+[After] Cookie-Name 21: _shopify_sa_t
+[After] Cookie-Name 22: _ga
+[After] Cookie-Name 23: _shopify_tm
+[After] Cookie-Name 24: _shopify_s
+[After] Cookie-Name 25: _y
+[After] Cookie-Name 26: _shopify_tw
+[After] Cookie-Name 27: _orig_referrer
+[After] Cookie-Name 28: _landing_page
+[After] Cookie-Name 29: cart_currency
+[After] Cookie-Name 30: _tracking_consent
+[After] Cookie-Name 31: _shopify_sa_p
+[After] Cookie-Name 32: _shopify_d
+[After] Cookie-Name 33: _s
+[After] Cookie-Name 34: _hjSession_2239107
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _hjIncludedInPageviewSample (Hotjar (User experience tool))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 2
+[Difference] Cookie-Name: 1: cart_sig
+[Difference] Cookie-Name: 2: _fbp
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

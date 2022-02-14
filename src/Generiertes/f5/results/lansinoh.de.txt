@@ -1,0 +1,77 @@
+Website 47: http://www.lansinoh.de/ | Created: 09.02.2022 19:46:35 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 21
+[Before] Website-Cookies: [{'domain': 'lansinoh.de', 'expiry': 1644434186, 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'secure': True, 'value': '23376e46-9215-4030-bf14-47bee3492f7f'}, {'domain': '.lansinoh.de', 'expiry': 1644518785, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1937144715.1644432385'}, {'domain': '.lansinoh.de', 'expiry': 1707504385, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.289470253.1644432385'}, {'domain': '.lansinoh.de', 'expiry': 1644434184, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T18%3A46%3A24.883Z'}, {'domain': '.lansinoh.de', 'expiry': 1644434184, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'lansinoh.de', 'expiry': 1645296384, 'httpOnly': False, 'name': 'kifxjkvybqq', 'path': '/', 'secure': False, 'value': 'ok'}, {'domain': '.lansinoh.de', 'expiry': 1644434184, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f648b79c-ba5e-42f7-9745-b7976d735e06'}, {'domain': '.lansinoh.de', 'expiry': 1644434184, 'httpOnly': False, 'name': '_hjSession_2181414', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImZmMzY1ZmEwLTEyODctNDUyNy1iMGQ0LTI1Y2NiMTY4NDUyYSIsImNyZWF0ZWQiOjE2NDQ0MzIzODQ2ODgsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': 'lansinoh.de', 'expiry': 1644432504, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.lansinoh.de', 'expiry': 1644434184, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f648b79c-ba5e-42f7-9745-b7976d735e06'}, {'domain': 'lansinoh.de', 'expiry': 1802112386, 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'secure': True, 'value': 'c4570349-d102-4a4f-879a-27f7420a9476'}, {'domain': '.lansinoh.de', 'expiry': 1644432445, 'httpOnly': False, 'name': '_gat_UA-4466669-2', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.lansinoh.de', 'expiry': 1644434184, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.lansinoh.de', 'expiry': 1675968384, 'httpOnly': False, 'name': '_hjSessionUser_2181414', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImI3NTFkMGJiLWE2M2EtNWZkOS05ZmIzLTdmOTI4MWUzZDUyMiIsImNyZWF0ZWQiOjE2NDQ0MzIzODQ2MDMsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.lansinoh.de', 'expiry': 1675968384, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '59478684-1dba-4581-a544-11167572db91'}, {'domain': '.lansinoh.de', 'expiry': 1644434184, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.lansinoh.de', 'expiry': 1645641984, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.lansinoh.de', 'expiry': 1675968384, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '59478684-1dba-4581-a544-11167572db91'}, {'domain': '.lansinoh.de', 'expiry': 1652208386, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644432385541.1385307628'}, {'domain': '.lansinoh.de', 'expiry': 1645641984, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'lansinoh.de', 'expiry': 1675968384, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _shg_session_id
+[Before] Cookie-Name 2: _gid
+[Before] Cookie-Name 3: _ga
+[Before] Cookie-Name 4: _shopify_sa_t
+[Before] Cookie-Name 5: _hjFirstSeen
+[Before] Cookie-Name 6: kifxjkvybqq
+[Before] Cookie-Name 7: _shopify_s
+[Before] Cookie-Name 8: _hjSession_2181414
+[Before] Cookie-Name 9: _hjIncludedInPageviewSample
+[Before] Cookie-Name 10: _s
+[Before] Cookie-Name 11: _shg_user_id
+[Before] Cookie-Name 12: _gat_UA-4466669-2
+[Before] Cookie-Name 13: _shopify_sa_p
+[Before] Cookie-Name 14: _hjSessionUser_2181414
+[Before] Cookie-Name 15: _y
+[Before] Cookie-Name 16: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 17: _landing_page
+[Before] Cookie-Name 18: _shopify_y
+[Before] Cookie-Name 19: _fbp
+[Before] Cookie-Name 20: _orig_referrer
+[Before] Cookie-Name 21: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 21
+[After] Website-Cookies: [{'domain': 'lansinoh.de', 'expiry': 1644434186, 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'secure': True, 'value': '23376e46-9215-4030-bf14-47bee3492f7f'}, {'domain': '.lansinoh.de', 'expiry': 1644518785, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1937144715.1644432385'}, {'domain': '.lansinoh.de', 'expiry': 1707504385, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.289470253.1644432385'}, {'domain': '.lansinoh.de', 'expiry': 1644434184, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T18%3A46%3A24.883Z'}, {'domain': '.lansinoh.de', 'expiry': 1644434184, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.lansinoh.de', 'expiry': 1644434184, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f648b79c-ba5e-42f7-9745-b7976d735e06'}, {'domain': '.lansinoh.de', 'expiry': 1644434184, 'httpOnly': False, 'name': '_hjSession_2181414', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImZmMzY1ZmEwLTEyODctNDUyNy1iMGQ0LTI1Y2NiMTY4NDUyYSIsImNyZWF0ZWQiOjE2NDQ0MzIzODQ2ODgsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': 'lansinoh.de', 'expiry': 1644432504, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.lansinoh.de', 'expiry': 1644434184, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f648b79c-ba5e-42f7-9745-b7976d735e06'}, {'domain': 'lansinoh.de', 'expiry': 1802112386, 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'secure': True, 'value': 'c4570349-d102-4a4f-879a-27f7420a9476'}, {'domain': '.lansinoh.de', 'expiry': 1644432445, 'httpOnly': False, 'name': '_gat_UA-4466669-2', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.lansinoh.de', 'expiry': 1644434184, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.lansinoh.de', 'expiry': 1675968384, 'httpOnly': False, 'name': '_hjSessionUser_2181414', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImI3NTFkMGJiLWE2M2EtNWZkOS05ZmIzLTdmOTI4MWUzZDUyMiIsImNyZWF0ZWQiOjE2NDQ0MzIzODQ2MDMsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': 'lansinoh.de', 'expiry': 1675968401, 'httpOnly': False, 'name': 'CookieConsent', 'path': '/', 'secure': True, 'value': '{stamp:%276m+BrryIjlOqLT2k4Va/TpwXS26/5IHiayjzWbzzGhxST3wbEVrpwA==%27%2Cnecessary:true%2Cpreferences:true%2Cstatistics:true%2Cmarketing:true%2Cver:1%2Cutc:1644432401981%2Cregion:%27de%27}'}, {'domain': '.lansinoh.de', 'expiry': 1675968384, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '59478684-1dba-4581-a544-11167572db91'}, {'domain': '.lansinoh.de', 'expiry': 1644434184, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.lansinoh.de', 'expiry': 1645641984, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.lansinoh.de', 'expiry': 1675968384, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '59478684-1dba-4581-a544-11167572db91'}, {'domain': '.lansinoh.de', 'expiry': 1652208401, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644432385541.1385307628'}, {'domain': '.lansinoh.de', 'expiry': 1645641984, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'lansinoh.de', 'expiry': 1675968384, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _shg_session_id
+[After] Cookie-Name 2: _gid
+[After] Cookie-Name 3: _ga
+[After] Cookie-Name 4: _shopify_sa_t
+[After] Cookie-Name 5: _hjFirstSeen
+[After] Cookie-Name 6: _shopify_s
+[After] Cookie-Name 7: _hjSession_2181414
+[After] Cookie-Name 8: _hjIncludedInPageviewSample
+[After] Cookie-Name 9: _s
+[After] Cookie-Name 10: _shg_user_id
+[After] Cookie-Name 11: _gat_UA-4466669-2
+[After] Cookie-Name 12: _shopify_sa_p
+[After] Cookie-Name 13: _hjSessionUser_2181414
+[After] Cookie-Name 14: CookieConsent
+[After] Cookie-Name 15: _y
+[After] Cookie-Name 16: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 17: _landing_page
+[After] Cookie-Name 18: _shopify_y
+[After] Cookie-Name 19: _fbp
+[After] Cookie-Name 20: _orig_referrer
+[After] Cookie-Name 21: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjIncludedInPageviewSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 2
+[Difference] Cookie-Name: 1: kifxjkvybqq
+[Difference] Cookie-Name: 2: CookieConsent
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

@@ -1,0 +1,93 @@
+Website 59: http://www.modbrix.de/ | Created: 09.02.2022 19:50:09 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 5
+[Before] Website-Cookies: [{'domain': 'www.modbrix.de', 'expiry': 1707504599, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MzI1OTksInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3Lm1vZGJyaXguZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NDMyNTk5LCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL3d3dy5tb2Ricml4LmRlLyJ9fQ=='}, {'domain': '.modbrix.de', 'expiry': 1645642196, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.modbrix.de', 'expiry': 1645642206, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.modbrix.de', 'expiry': 1645642196, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.modbrix.de', 'expiry': 1675968606, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: __kla_id
+[Before] Cookie-Name 2: _orig_referrer
+[Before] Cookie-Name 3: cart_currency
+[Before] Cookie-Name 4: _landing_page
+[Before] Cookie-Name 5: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 33
+[After] Website-Cookies: [{'domain': '.modbrix.de', 'expiry': 1652208615, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644432615201.1630820189'}, {'domain': '.modbrix.de', 'expiry': 1644434415, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.modbrix.de', 'expiry': 1644434415, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.www.modbrix.de', 'expiry': 1644434415, 'httpOnly': False, 'name': 'swym-session-id', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"u619mbj13ueyez2ss44djp0pqbdadjblzsok7mlpe8ubzldwtdjaipwk861q2738"'}, {'domain': '.modbrix.de', 'expiry': 1644432674, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.modbrix.de', 'expiry': 1707504599, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MzI1OTksInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3Lm1vZGJyaXguZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NDMyNTk5LCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL3d3dy5tb2Ricml4LmRlLyJ9fQ=='}, {'domain': '.modbrix.de', 'expiry': 1707504614, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1468592457.1644432615'}, {'domain': 'www.modbrix.de', 'httpOnly': False, 'name': 'swym-swymRegid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '"Fu1WrB3DvBVJ4klDmqe-hOpq7oMHHiEO_mYTIs3N9DbYgIBMjF1gQLgqPuv3jc9ySQgaNrTSirv8cin6KkEr5MuZrD4GnKI_HPGilyHy410bFDRU5pDevhyle-DLjNNiggXhGwXibs5j_MbVTPATBegxVASHqhz01rUReydIVKQ"'}, {'domain': 'www.modbrix.de', 'httpOnly': False, 'name': 'swym-email', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'null'}, {'domain': 'www.modbrix.de', 'httpOnly': False, 'name': 'swym-cu_ct', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '"04e89c86bb34ceff54c2227d4a2484a6"'}, {'domain': '.modbrix.de', 'expiry': 1644432674, 'httpOnly': False, 'name': '_gat_UA-177238021-1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.modbrix.de', 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1.1.1307229078.1644432597'}, {'domain': 'www.modbrix.de', 'expiry': 1647024614, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0NDMyNjE0NzkxLCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjowfX0='}, {'domain': 'www.modbrix.de', 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'dWlkPU1XVmpNamN3WXpBdE1HRm1ZUzAwTkdVMUxXRTNaVGd0T1dKak9UaGpaamswT0RaaA'}, {'domain': 'www.modbrix.de', 'httpOnly': False, 'name': 'snize-recommendation', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'wyhx4by5c4n'}, {'domain': '.modbrix.de', 'expiry': 1675968615, 'httpOnly': False, 'name': '_hjSessionUser_2392386', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImVkNjVjODdhLWE2MTQtNTgxMS04MDgyLTZhOTJiNTZmM2MxYiIsImNyZWF0ZWQiOjE2NDQ0MzI2MTUxNzAsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': 'www.modbrix.de', 'expiry': 1645642206, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.modbrix.de', 'httpOnly': False, 'name': 'swym-pid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '"9gAjTLMVb+Dky3keLLloVvDykZpDVru7n4PHU8oBMzw="'}, {'domain': 'www.modbrix.de', 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'pending'}, {'domain': 'www.modbrix.de', 'httpOnly': False, 'name': 'swym-session-id', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '"u619mbj13ueyez2ss44djp0pqbdadjblzsok7mlpe8ubzldwtdjaipwk861q2738"'}, {'domain': 'www.modbrix.de', 'expiry': 1644432735, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.modbrix.de', 'expiry': 1645642196, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.modbrix.de', 'httpOnly': False, 'name': 'swym-o_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'true'}, {'domain': 'www.modbrix.de', 'expiry': 1675968614, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e95d31b1-fbc9-409e-b367-c25415e53227'}, {'domain': 'www.modbrix.de', 'expiry': 1675968614, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e95d31b1-fbc9-409e-b367-c25415e53227'}, {'domain': '.modbrix.de', 'expiry': 1644434415, 'httpOnly': False, 'name': '_hjSession_2392386', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6Ijg3NDUxMmZmLTJhMmItNGRmYS04NjEwLTM5MGU3MmUzY2ZjZSIsImNyZWF0ZWQiOjE2NDQ0MzI2MTUxODUsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': '.modbrix.de', 'expiry': 1644519014, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.292630672.1644432615'}, {'domain': 'www.modbrix.de', 'expiry': 1675968606, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'www.modbrix.de', 'expiry': 1644434414, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4aea7229-a0b6-4f23-a624-b1fd6ef6283e'}, {'domain': 'www.modbrix.de', 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'www.modbrix.de', 'expiry': 1644434414, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T18%3A49%3A57.143Z'}, {'domain': '.modbrix.de', 'expiry': 1645642196, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.modbrix.de', 'expiry': 1644434414, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4aea7229-a0b6-4f23-a624-b1fd6ef6283e'}]
+[After] Cookie-Name 1: _fbp
+[After] Cookie-Name 2: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 3: _hjFirstSeen
+[After] Cookie-Name 4: swym-session-id
+[After] Cookie-Name 5: _gat
+[After] Cookie-Name 6: __kla_id
+[After] Cookie-Name 7: _ga
+[After] Cookie-Name 8: swym-swymRegid
+[After] Cookie-Name 9: swym-email
+[After] Cookie-Name 10: swym-cu_ct
+[After] Cookie-Name 11: _gat_UA-177238021-1
+[After] Cookie-Name 12: _gcl_au
+[After] Cookie-Name 13: _bc_c_set
+[After] Cookie-Name 14: _pin_unauth
+[After] Cookie-Name 15: snize-recommendation
+[After] Cookie-Name 16: _hjSessionUser_2392386
+[After] Cookie-Name 17: cart_currency
+[After] Cookie-Name 18: swym-pid
+[After] Cookie-Name 19: shopify_pay_redirect
+[After] Cookie-Name 20: swym-session-id
+[After] Cookie-Name 21: _hjIncludedInSessionSample
+[After] Cookie-Name 22: _orig_referrer
+[After] Cookie-Name 23: swym-o_s
+[After] Cookie-Name 24: _y
+[After] Cookie-Name 25: _shopify_y
+[After] Cookie-Name 26: _hjSession_2392386
+[After] Cookie-Name 27: _gid
+[After] Cookie-Name 28: secure_customer_sig
+[After] Cookie-Name 29: _shopify_s
+[After] Cookie-Name 30: localization
+[After] Cookie-Name 31: _shopify_sa_t
+[After] Cookie-Name 32: _landing_page
+[After] Cookie-Name 33: _s
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 27
+[Difference] Cookie-Name: 1: _y
+[Difference] Cookie-Name: 2: _hjSession_2392386
+[Difference] Cookie-Name: 3: _shopify_s
+[Difference] Cookie-Name: 4: _shopify_y
+[Difference] Cookie-Name: 5: snize-recommendation
+[Difference] Cookie-Name: 6: _gid
+[Difference] Cookie-Name: 7: _bc_c_set
+[Difference] Cookie-Name: 8: swym-cu_ct
+[Difference] Cookie-Name: 9: _hjFirstSeen
+[Difference] Cookie-Name: 10: _gcl_au
+[Difference] Cookie-Name: 11: _hjIncludedInSessionSample
+[Difference] Cookie-Name: 12: swym-pid
+[Difference] Cookie-Name: 13: _s
+[Difference] Cookie-Name: 14: swym-session-id
+[Difference] Cookie-Name: 15: localization
+[Difference] Cookie-Name: 16: swym-email
+[Difference] Cookie-Name: 17: _fbp
+[Difference] Cookie-Name: 18: _hjSessionUser_2392386
+[Difference] Cookie-Name: 19: swym-swymRegid
+[Difference] Cookie-Name: 20: _shopify_sa_t
+[Difference] Cookie-Name: 21: _gat_UA-177238021-1
+[Difference] Cookie-Name: 22: _hjAbsoluteSessionInProgress
+[Difference] Cookie-Name: 23: _ga
+[Difference] Cookie-Name: 24: _pin_unauth
+[Difference] Cookie-Name: 25: swym-o_s
+[Difference] Cookie-Name: 26: _gat
+[Difference] Cookie-Name: 27: shopify_pay_redirect
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

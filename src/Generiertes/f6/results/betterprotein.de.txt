@@ -1,0 +1,65 @@
+Website 305: http://www.betterprotein.de/ | Created: 10.02.2022 13:42:43 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 4
+[Before] Website-Cookies: [{'domain': '.betterprotein.de', 'expiry': 1645706551, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.betterprotein.de', 'expiry': 1645706551, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'betterprotein.de', 'expiry': 1645706554, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'betterprotein.de', 'expiry': 1676032954, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _landing_page
+[Before] Cookie-Name 2: _orig_referrer
+[Before] Cookie-Name 3: cart_currency
+[Before] Cookie-Name 4: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 19
+[After] Website-Cookies: [{'domain': '.betterprotein.de', 'expiry': 1644497028, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.betterprotein.de', 'expiry': 1644583368, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.996308508.1644496969'}, {'domain': '.betterprotein.de', 'expiry': 1707568968, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1067456347.1644496969'}, {'domain': 'betterprotein.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '20220210124234-zh2yOSanzcAAmnrvvOnSUmTeOEVtqbk17r2JI1btpZmz7LxgF'}, {'domain': 'betterprotein.de', 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eWJX8rpEkqnq3g-20220210124234'}, {'domain': 'betterprotein.de', 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'betterprotein.de', 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'pending'}, {'domain': 'betterprotein.de', 'expiry': 1647088968, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0NDk2OTY4NjYxLCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjoxfX0='}, {'domain': 'betterprotein.de', 'expiry': 1676032968, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c537523f-3f93-4b8f-9e01-984445ddb8be'}, {'domain': 'betterprotein.de', 'expiry': 1676032954, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'betterprotein.de', 'expiry': 1644498768, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T12%3A42%3A33.006Z'}, {'domain': 'betterprotein.de', 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'yo9079oyyQIj3J-20220210124234'}, {'domain': '.betterprotein.de', 'expiry': 1645706551, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'betterprotein.de', 'expiry': 1644498768, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6f81d38b-6cae-469b-92a8-37f47ed556f2'}, {'domain': '.betterprotein.de', 'expiry': 1652272969, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644496969162.1108872008'}, {'domain': 'betterprotein.de', 'expiry': 1644498768, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6f81d38b-6cae-469b-92a8-37f47ed556f2'}, {'domain': '.betterprotein.de', 'expiry': 1645706551, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'betterprotein.de', 'expiry': 1645706554, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'betterprotein.de', 'expiry': 1676032968, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c537523f-3f93-4b8f-9e01-984445ddb8be'}]
+[After] Cookie-Name 1: _gat
+[After] Cookie-Name 2: _gid
+[After] Cookie-Name 3: _ga
+[After] Cookie-Name 4: soundestID
+[After] Cookie-Name 5: omnisendSessionID
+[After] Cookie-Name 6: localization
+[After] Cookie-Name 7: shopify_pay_redirect
+[After] Cookie-Name 8: _bc_c_set
+[After] Cookie-Name 9: _shopify_y
+[After] Cookie-Name 10: secure_customer_sig
+[After] Cookie-Name 11: _shopify_sa_t
+[After] Cookie-Name 12: omnisendAnonymousID
+[After] Cookie-Name 13: _orig_referrer
+[After] Cookie-Name 14: _shopify_s
+[After] Cookie-Name 15: _fbp
+[After] Cookie-Name 16: _s
+[After] Cookie-Name 17: _landing_page
+[After] Cookie-Name 18: cart_currency
+[After] Cookie-Name 19: _y
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 15
+[Difference] Cookie-Name: 1: localization
+[Difference] Cookie-Name: 2: _gid
+[Difference] Cookie-Name: 3: _y
+[Difference] Cookie-Name: 4: omnisendAnonymousID
+[Difference] Cookie-Name: 5: _bc_c_set
+[Difference] Cookie-Name: 6: omnisendSessionID
+[Difference] Cookie-Name: 7: _fbp
+[Difference] Cookie-Name: 8: _shopify_s
+[Difference] Cookie-Name: 9: soundestID
+[Difference] Cookie-Name: 10: _gat
+[Difference] Cookie-Name: 11: _s
+[Difference] Cookie-Name: 12: _ga
+[Difference] Cookie-Name: 13: shopify_pay_redirect
+[Difference] Cookie-Name: 14: _shopify_y
+[Difference] Cookie-Name: 15: _shopify_sa_t
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

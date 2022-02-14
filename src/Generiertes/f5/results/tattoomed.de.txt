@@ -1,0 +1,83 @@
+Website 123: http://www.tattoomed.de/ | Created: 09.02.2022 20:11:29 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 26
+[Before] Website-Cookies: [{'domain': 'tattoomed.de', 'expiry': 1645643480, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A2'}, {'domain': '.tattoomed.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.tattoomed.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A11%3A20.410Z'}, {'domain': '.tattoomed.de', 'expiry': 1644520280, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1052740205.1644433880'}, {'domain': 'tattoomed.de', 'expiry': 1644437480, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'tattoomed.de', 'expiry': 1645643480, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '42cf3152b4d95aa011d3e305f4649070'}, {'domain': '.tattoomed.de', 'expiry': 1707505880, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1171346510.1644433880'}, {'domain': 'tattoomed.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.tattoomed.de', 'expiry': 1645643480, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'tattoomed.de', 'expiry': 1645643480, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644433881'}, {'domain': '.tattoomed.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a28c436b-8a0e-4d9f-9ff4-377decad5a80'}, {'domain': '.tattoomed.de', 'expiry': 1644435681, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'tattoomed.de', 'expiry': 1645643480, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1676df1689165589a13e589752d7af05'}, {'domain': '.tattoomed.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.tattoomed.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb8bdd1d-64ac-451e-8877-ae7e01d7d335'}, {'domain': '.tattoomed.de', 'expiry': 1644433940, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.tattoomed.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A11%3A20.461Z'}, {'domain': 'tattoomed.de', 'expiry': 1675969881, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.tattoomed.de', 'expiry': 1675969880, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': '.tattoomed.de', 'expiry': 1675969880, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.tattoomed.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a28c436b-8a0e-4d9f-9ff4-377decad5a80'}, {'domain': '.tattoomed.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.tattoomed.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'tattoomed.de', 'expiry': 1645643480, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'tattoomed.de', 'expiry': 1645643480, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.tattoomed.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb8bdd1d-64ac-451e-8877-ae7e01d7d335'}]
+[Before] Cookie-Name 1: cart_ver
+[Before] Cookie-Name 2: _shopify_sa_p
+[Before] Cookie-Name 3: _shopify_d
+[Before] Cookie-Name 4: _gid
+[Before] Cookie-Name 5: shopify_pay_redirect
+[Before] Cookie-Name 6: cart
+[Before] Cookie-Name 7: _ga
+[Before] Cookie-Name 8: _shopify_evids
+[Before] Cookie-Name 9: _shopify_tw
+[Before] Cookie-Name 10: cart_ts
+[Before] Cookie-Name 11: _shopify_s
+[Before] Cookie-Name 12: _shopify_tm
+[Before] Cookie-Name 13: cart_sig
+[Before] Cookie-Name 14: _shopify_evids
+[Before] Cookie-Name 15: _shopify_y
+[Before] Cookie-Name 16: _gat
+[Before] Cookie-Name 17: _shopify_sa_t
+[Before] Cookie-Name 18: secure_customer_sig
+[Before] Cookie-Name 19: _tracking_consent
+[Before] Cookie-Name 20: _shopify_m
+[Before] Cookie-Name 21: _s
+[Before] Cookie-Name 22: _orig_referrer
+[Before] Cookie-Name 23: _landing_page
+[Before] Cookie-Name 24: localization
+[Before] Cookie-Name 25: cart_currency
+[Before] Cookie-Name 26: _y
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 27
+[After] Website-Cookies: [{'domain': '.tattoomed.de', 'expiry': 1652209896, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644433896049.552378691'}, {'domain': '.tattoomed.de', 'expiry': 1675969895, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%221%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': '.tattoomed.de', 'expiry': 1675969895, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': 'tattoomed.de', 'expiry': 1645643480, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A2'}, {'domain': '.tattoomed.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'tattoomed.de', 'expiry': 1645643494, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1676df1689165589a13e589752d7af05'}, {'domain': '.tattoomed.de', 'expiry': 1644435695, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.tattoomed.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A11%3A20.410Z'}, {'domain': '.tattoomed.de', 'expiry': 1644520280, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1052740205.1644433880'}, {'domain': 'tattoomed.de', 'expiry': 1644437480, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'tattoomed.de', 'expiry': 1645643480, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '42cf3152b4d95aa011d3e305f4649070'}, {'domain': '.tattoomed.de', 'expiry': 1707505880, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1171346510.1644433880'}, {'domain': '.tattoomed.de', 'expiry': 1645643480, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'tattoomed.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'tattoomed.de', 'expiry': 1645643480, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644433881'}, {'domain': '.tattoomed.de', 'expiry': 1644435695, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a28c436b-8a0e-4d9f-9ff4-377decad5a80'}, {'domain': '.tattoomed.de', 'expiry': 1644435695, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.tattoomed.de', 'expiry': 1675969895, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb8bdd1d-64ac-451e-8877-ae7e01d7d335'}, {'domain': '.tattoomed.de', 'expiry': 1644435695, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a28c436b-8a0e-4d9f-9ff4-377decad5a80'}, {'domain': '.tattoomed.de', 'expiry': 1645643495, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.tattoomed.de', 'expiry': 1645643495, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'tattoomed.de', 'expiry': 1645643494, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'tattoomed.de', 'expiry': 1675969894, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.tattoomed.de', 'expiry': 1644435695, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A11%3A20.461Z'}, {'domain': 'tattoomed.de', 'expiry': 1645643494, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.tattoomed.de', 'expiry': 1675969895, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb8bdd1d-64ac-451e-8877-ae7e01d7d335'}, {'domain': '.tattoomed.de', 'expiry': 1644433940, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}]
+[After] Cookie-Name 1: _fbp
+[After] Cookie-Name 2: _tracking_consent
+[After] Cookie-Name 3: _shopify_m
+[After] Cookie-Name 4: cart_ver
+[After] Cookie-Name 5: _shopify_evids
+[After] Cookie-Name 6: cart_sig
+[After] Cookie-Name 7: _shopify_sa_p
+[After] Cookie-Name 8: _shopify_d
+[After] Cookie-Name 9: _gid
+[After] Cookie-Name 10: shopify_pay_redirect
+[After] Cookie-Name 11: cart
+[After] Cookie-Name 12: _ga
+[After] Cookie-Name 13: _shopify_tw
+[After] Cookie-Name 14: _shopify_evids
+[After] Cookie-Name 15: cart_ts
+[After] Cookie-Name 16: _shopify_s
+[After] Cookie-Name 17: _shopify_tm
+[After] Cookie-Name 18: _shopify_y
+[After] Cookie-Name 19: _s
+[After] Cookie-Name 20: _orig_referrer
+[After] Cookie-Name 21: _landing_page
+[After] Cookie-Name 22: localization
+[After] Cookie-Name 23: secure_customer_sig
+[After] Cookie-Name 24: _shopify_sa_t
+[After] Cookie-Name 25: cart_currency
+[After] Cookie-Name 26: _y
+[After] Cookie-Name 27: _gat
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gat (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: _fbp
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

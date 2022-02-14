@@ -1,0 +1,97 @@
+Website 315: http://www.yvolve.de/ | Created: 10.02.2022 13:45:43 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 25
+[Before] Website-Cookies: [{'domain': 'yvolve.shop', 'httpOnly': False, 'name': 'TawkConnectionTime', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644497146043'}, {'domain': 'yvolve.shop', 'httpOnly': False, 'name': 'locale_bar_accepted', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'yvolve.shop', 'expiry': 1645706738, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.yvolve.shop', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '849f9139-de9a-4c74-a340-49c2ec1463a7'}, {'domain': 'yvolve.shop', 'expiry': 1676033132, 'httpOnly': False, 'name': 'po_visitor', 'path': '/', 'secure': False, 'value': 'WL6cwtKRDk9B'}, {'domain': '.yvolve.shop', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '667557f6-6eac-403c-baf9-cb2b9bf8ba3e'}, {'domain': 'yvolve.shop', 'expiry': 1676033132, 'httpOnly': False, 'name': '_ks_scriptVersion', 'path': '/', 'secure': True, 'value': '308'}, {'domain': 'yvolve.shop', 'expiry': 1676033132, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': 'marketing%2Canalytics'}, {'domain': 'yvolve.shop', 'expiry': 1707569132, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0OTcxMzMsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8veXZvbHZlLnNob3AvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NDk3MTMzLCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL3l2b2x2ZS5zaG9wLyJ9fQ=='}, {'domain': '.yvolve.shop', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '667557f6-6eac-403c-baf9-cb2b9bf8ba3e'}, {'domain': 'yvolve.shop', 'expiry': 1645706733, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.yvolve.shop', 'expiry': 1645706731, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'yvolve.shop', 'expiry': 1644583532, 'httpOnly': False, 'name': '_ks_scriptVersionChecked', 'path': '/', 'secure': True, 'value': 'true'}, {'domain': '.yvolve.shop', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.yvolve.shop', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'yvolve.shop', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.yvolve.shop', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.yvolve.shop', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T12%3A45%3A31.638Z'}, {'domain': '.yvolve.shop', 'expiry': 1676033131, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.yvolve.shop', 'expiry': 1652273131, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.2007378323.1644497131'}, {'domain': 'yvolve.shop', 'expiry': 1676033138, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.yvolve.shop', 'expiry': 1644498938, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.yvolve.shop', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '849f9139-de9a-4c74-a340-49c2ec1463a7'}, {'domain': '.yvolve.shop', 'expiry': 1676033131, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22v%22%3A%222.0%22%7D'}, {'domain': '.yvolve.shop', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[Before] Cookie-Name 1: TawkConnectionTime
+[Before] Cookie-Name 2: locale_bar_accepted
+[Before] Cookie-Name 3: localization
+[Before] Cookie-Name 4: _shopify_s
+[Before] Cookie-Name 5: po_visitor
+[Before] Cookie-Name 6: _y
+[Before] Cookie-Name 7: _ks_scriptVersion
+[Before] Cookie-Name 8: cookieconsent_preferences_disabled
+[Before] Cookie-Name 9: __kla_id
+[Before] Cookie-Name 10: _shopify_y
+[Before] Cookie-Name 11: cart_currency
+[Before] Cookie-Name 12: _shopify_tw
+[Before] Cookie-Name 13: _ks_scriptVersionChecked
+[Before] Cookie-Name 14: _shopify_evids
+[Before] Cookie-Name 15: _orig_referrer
+[Before] Cookie-Name 16: _shopify_evids
+[Before] Cookie-Name 17: _landing_page
+[Before] Cookie-Name 18: _shopify_d
+[Before] Cookie-Name 19: _shopify_m
+[Before] Cookie-Name 20: _gcl_au
+[Before] Cookie-Name 21: secure_customer_sig
+[Before] Cookie-Name 22: _shopify_tm
+[Before] Cookie-Name 23: _s
+[Before] Cookie-Name 24: _tracking_consent
+[Before] Cookie-Name 25: _shopify_sa_p
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 34
+[After] Website-Cookies: [{'domain': 'yvolve.shop', 'httpOnly': False, 'name': 'TawkConnectionTime', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644497153140'}, {'domain': '.yvolve.shop', 'expiry': 1652273151, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644497150805.1499256383'}, {'domain': '.yvolve.shop', 'expiry': 1644583550, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1626275946.1644497151'}, {'domain': '.yvolve.shop', 'expiry': 1707569150, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1921623197.1644497151'}, {'domain': '.yvolve.shop', 'expiry': 1676033150, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22con%22%3A%7B%22GDPR%22%3A%221%22%7D%2C%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': 'yvolve.shop', 'expiry': 1645706749, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '474f4e19464d7fc7410df1b5c47b9fd1'}, {'domain': 'yvolve.shop', 'expiry': 1645706749, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644497149'}, {'domain': 'yvolve.shop', 'expiry': 1676033150, 'httpOnly': False, 'name': 'cookieconsent_status', 'path': '/', 'secure': False, 'value': 'allow'}, {'domain': 'yvolve.shop', 'httpOnly': False, 'name': 'locale_bar_accepted', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'yvolve.shop', 'expiry': 1645706752, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.yvolve.shop', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '849f9139-de9a-4c74-a340-49c2ec1463a7'}, {'domain': '.yvolve.shop', 'expiry': 1644497210, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'yvolve.shop', 'expiry': 1676033132, 'httpOnly': False, 'name': 'po_visitor', 'path': '/', 'secure': False, 'value': 'WL6cwtKRDk9B'}, {'domain': '.yvolve.shop', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '667557f6-6eac-403c-baf9-cb2b9bf8ba3e'}, {'domain': 'yvolve.shop', 'expiry': 1676033132, 'httpOnly': False, 'name': '_ks_scriptVersion', 'path': '/', 'secure': True, 'value': '308'}, {'domain': 'yvolve.shop', 'expiry': 1676033150, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': 'marketing%2Canalytics'}, {'domain': 'yvolve.shop', 'expiry': 1707569132, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0OTcxMzMsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8veXZvbHZlLnNob3AvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NDk3MTMzLCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL3l2b2x2ZS5zaG9wLyJ9fQ=='}, {'domain': 'yvolve.shop', 'expiry': 1645706749, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': '.yvolve.shop', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '667557f6-6eac-403c-baf9-cb2b9bf8ba3e'}, {'domain': '.yvolve.shop', 'expiry': 1645706750, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'yvolve.shop', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.yvolve.shop', 'expiry': 1645706750, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.yvolve.shop', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T12%3A45%3A31.638Z'}, {'domain': 'yvolve.shop', 'expiry': 1645706752, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'yvolve.shop', 'expiry': 1644583532, 'httpOnly': False, 'name': '_ks_scriptVersionChecked', 'path': '/', 'secure': True, 'value': 'true'}, {'domain': '.yvolve.shop', 'expiry': 1645706731, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.yvolve.shop', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.yvolve.shop', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.yvolve.shop', 'expiry': 1676033150, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': 'yvolve.shop', 'expiry': 1645706749, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e5489fa1857739d7f0131f50ba42e1a3'}, {'domain': '.yvolve.shop', 'expiry': 1652273131, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.2007378323.1644497131'}, {'domain': '.yvolve.shop', 'expiry': 1644498952, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'yvolve.shop', 'expiry': 1676033152, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.yvolve.shop', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '849f9139-de9a-4c74-a340-49c2ec1463a7'}]
+[After] Cookie-Name 1: TawkConnectionTime
+[After] Cookie-Name 2: _fbp
+[After] Cookie-Name 3: _gid
+[After] Cookie-Name 4: _ga
+[After] Cookie-Name 5: _tracking_consent
+[After] Cookie-Name 6: cart_sig
+[After] Cookie-Name 7: cart_ts
+[After] Cookie-Name 8: cookieconsent_status
+[After] Cookie-Name 9: locale_bar_accepted
+[After] Cookie-Name 10: localization
+[After] Cookie-Name 11: _shopify_s
+[After] Cookie-Name 12: _gat
+[After] Cookie-Name 13: po_visitor
+[After] Cookie-Name 14: _y
+[After] Cookie-Name 15: _ks_scriptVersion
+[After] Cookie-Name 16: cookieconsent_preferences_disabled
+[After] Cookie-Name 17: __kla_id
+[After] Cookie-Name 18: cart_ver
+[After] Cookie-Name 19: _shopify_y
+[After] Cookie-Name 20: _orig_referrer
+[After] Cookie-Name 21: _shopify_evids
+[After] Cookie-Name 22: _landing_page
+[After] Cookie-Name 23: _shopify_d
+[After] Cookie-Name 24: cart_currency
+[After] Cookie-Name 25: _ks_scriptVersionChecked
+[After] Cookie-Name 26: _shopify_tw
+[After] Cookie-Name 27: _shopify_evids
+[After] Cookie-Name 28: _shopify_sa_p
+[After] Cookie-Name 29: _shopify_m
+[After] Cookie-Name 30: cart
+[After] Cookie-Name 31: _gcl_au
+[After] Cookie-Name 32: _shopify_tm
+[After] Cookie-Name 33: secure_customer_sig
+[After] Cookie-Name 34: _s
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 9
+[Difference] Cookie-Name: 1: _gid
+[Difference] Cookie-Name: 2: cookieconsent_status
+[Difference] Cookie-Name: 3: cart_ts
+[Difference] Cookie-Name: 4: cart
+[Difference] Cookie-Name: 5: cart_sig
+[Difference] Cookie-Name: 6: _fbp
+[Difference] Cookie-Name: 7: _gat
+[Difference] Cookie-Name: 8: cart_ver
+[Difference] Cookie-Name: 9: _ga
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

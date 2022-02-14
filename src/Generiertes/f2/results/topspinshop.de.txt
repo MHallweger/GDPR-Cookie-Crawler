@@ -1,0 +1,84 @@
+Website 194: http://www.topspinshop.de/ | Created: 09.02.2022 11:45:17 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: True
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 25
+[Before] Website-Cookies: [{'domain': 'topspinshop.de', 'expiry': 1645613108, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644403508'}, {'domain': 'topspinshop.de', 'expiry': 1645613108, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A2'}, {'domain': '.topspinshop.de', 'expiry': 1645613107, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'topspinshop.de', 'expiry': 1645613108, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '812d8def773f769cb45bfbbae5d77e17'}, {'domain': '.topspinshop.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.topspinshop.de', 'expiry': 1675939507, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.topspinshop.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'topspinshop.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'topspinshop.de', 'expiry': 1645613108, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b99b02cc4a133e187141f05f2a1948e2'}, {'domain': '.topspinshop.de', 'expiry': 1644405308, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.topspinshop.de', 'expiry': 1675939507, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': '.topspinshop.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A45%3A08.087Z'}, {'domain': '.topspinshop.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.topspinshop.de', 'expiry': 1660085109, 'httpOnly': False, 'name': 'sib_cuid', 'path': '/', 'secure': False, 'value': '7aebdbe9-6271-4e69-973a-d6f8a32ac4dc'}, {'domain': '.topspinshop.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a8e958b2-25b6-4b90-a116-152c94187f56'}, {'domain': 'topspinshop.de', 'expiry': 1644407108, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.topspinshop.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a8e958b2-25b6-4b90-a116-152c94187f56'}, {'domain': '.topspinshop.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bd967678-2f44-4f74-ab26-937afbc3343a'}, {'domain': '.topspinshop.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bd967678-2f44-4f74-ab26-937afbc3343a'}, {'domain': 'topspinshop.de', 'expiry': 1645613108, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.topspinshop.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.topspinshop.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A45%3A08.042Z'}, {'domain': 'topspinshop.de', 'expiry': 1645613108, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'topspinshop.de', 'expiry': 1644943509, 'httpOnly': False, 'name': 'cbuid_meta', 'path': '/', 'secure': False, 'value': '{"referrer":"","href":"https://topspinshop.de/"}'}, {'domain': 'topspinshop.de', 'expiry': 1675939508, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: cart_ts
+[Before] Cookie-Name 2: cart_ver
+[Before] Cookie-Name 3: _shopify_tw
+[Before] Cookie-Name 4: cart
+[Before] Cookie-Name 5: _shopify_sa_p
+[Before] Cookie-Name 6: _shopify_m
+[Before] Cookie-Name 7: _shopify_evids
+[Before] Cookie-Name 8: _shopify_evids
+[Before] Cookie-Name 9: cart_sig
+[Before] Cookie-Name 10: _shopify_tm
+[Before] Cookie-Name 11: _tracking_consent
+[Before] Cookie-Name 12: _shopify_sa_t
+[Before] Cookie-Name 13: _landing_page
+[Before] Cookie-Name 14: sib_cuid
+[Before] Cookie-Name 15: _shopify_y
+[Before] Cookie-Name 16: shopify_pay_redirect
+[Before] Cookie-Name 17: _y
+[Before] Cookie-Name 18: _shopify_s
+[Before] Cookie-Name 19: _s
+[Before] Cookie-Name 20: cart_currency
+[Before] Cookie-Name 21: _orig_referrer
+[Before] Cookie-Name 22: _shopify_d
+[Before] Cookie-Name 23: localization
+[Before] Cookie-Name 24: cbuid_meta
+[Before] Cookie-Name 25: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 29
+[After] Website-Cookies: [{'domain': '.topspinshop.de', 'expiry': 1652179524, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644403524461.1999594312'}, {'domain': '.topspinshop.de', 'expiry': 1644489924, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1903483653.1644403524'}, {'domain': '.topspinshop.de', 'expiry': 1707475524, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1804873832.1644403524'}, {'domain': '.topspinshop.de', 'expiry': 1675939524, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%221%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%7D'}, {'domain': '.topspinshop.de', 'expiry': 1675939524, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a8e958b2-25b6-4b90-a116-152c94187f56'}, {'domain': '.topspinshop.de', 'expiry': 1660085109, 'httpOnly': False, 'name': 'sib_cuid', 'path': '/', 'secure': False, 'value': '7aebdbe9-6271-4e69-973a-d6f8a32ac4dc'}, {'domain': 'topspinshop.de', 'expiry': 1645613108, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644403508'}, {'domain': 'topspinshop.de', 'expiry': 1645613108, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A2'}, {'domain': 'topspinshop.de', 'expiry': 1675939524, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'topspinshop.de', 'expiry': 1644943509, 'httpOnly': False, 'name': 'cbuid_meta', 'path': '/', 'secure': False, 'value': '{"referrer":"","href":"https://topspinshop.de/"}'}, {'domain': '.topspinshop.de', 'expiry': 1645613107, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'topspinshop.de', 'expiry': 1645613108, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '812d8def773f769cb45bfbbae5d77e17'}, {'domain': '.topspinshop.de', 'expiry': 1644405324, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.topspinshop.de', 'expiry': 1675939524, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': '.topspinshop.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'topspinshop.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'topspinshop.de', 'expiry': 1645613124, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b99b02cc4a133e187141f05f2a1948e2'}, {'domain': '.topspinshop.de', 'expiry': 1644403584, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.topspinshop.de', 'expiry': 1644405324, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.topspinshop.de', 'expiry': 1644405324, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A45%3A08.087Z'}, {'domain': '.topspinshop.de', 'expiry': 1645613124, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'topspinshop.de', 'expiry': 1644407108, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.topspinshop.de', 'expiry': 1675939524, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a8e958b2-25b6-4b90-a116-152c94187f56'}, {'domain': '.topspinshop.de', 'expiry': 1644405324, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bd967678-2f44-4f74-ab26-937afbc3343a'}, {'domain': '.topspinshop.de', 'expiry': 1644405324, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bd967678-2f44-4f74-ab26-937afbc3343a'}, {'domain': 'topspinshop.de', 'expiry': 1645613124, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.topspinshop.de', 'expiry': 1645613124, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.topspinshop.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A45%3A08.042Z'}, {'domain': 'topspinshop.de', 'expiry': 1645613124, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[After] Cookie-Name 1: _fbp
+[After] Cookie-Name 2: _gid
+[After] Cookie-Name 3: _ga
+[After] Cookie-Name 4: _tracking_consent
+[After] Cookie-Name 5: _shopify_y
+[After] Cookie-Name 6: sib_cuid
+[After] Cookie-Name 7: cart_ts
+[After] Cookie-Name 8: cart_ver
+[After] Cookie-Name 9: secure_customer_sig
+[After] Cookie-Name 10: cbuid_meta
+[After] Cookie-Name 11: _shopify_tw
+[After] Cookie-Name 12: cart
+[After] Cookie-Name 13: _shopify_sa_p
+[After] Cookie-Name 14: _shopify_m
+[After] Cookie-Name 15: _shopify_evids
+[After] Cookie-Name 16: _shopify_evids
+[After] Cookie-Name 17: cart_sig
+[After] Cookie-Name 18: _gat
+[After] Cookie-Name 19: _shopify_tm
+[After] Cookie-Name 20: _shopify_sa_t
+[After] Cookie-Name 21: _landing_page
+[After] Cookie-Name 22: shopify_pay_redirect
+[After] Cookie-Name 23: _y
+[After] Cookie-Name 24: _shopify_s
+[After] Cookie-Name 25: _s
+[After] Cookie-Name 26: cart_currency
+[After] Cookie-Name 27: _orig_referrer
+[After] Cookie-Name 28: _shopify_d
+[After] Cookie-Name 29: localization
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 4
+[Difference] Cookie-Name: 1: _ga
+[Difference] Cookie-Name: 2: _fbp
+[Difference] Cookie-Name: 3: _gat
+[Difference] Cookie-Name: 4: _gid
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

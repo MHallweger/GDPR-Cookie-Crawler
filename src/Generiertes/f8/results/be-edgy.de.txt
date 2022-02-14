@@ -1,0 +1,85 @@
+Website 241: http://www.be-edgy.de/ | Created: 10.02.2022 21:09:31 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 24
+[Before] Website-Cookies: [{'domain': 'www.be-edgy.de', 'expiry': 1645733363, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5dc6fea861feec29d56fdbacbbbb2ad7'}, {'domain': '.be-edgy.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.be-edgy.de', 'expiry': 1645733363, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'www.be-edgy.de', 'expiry': 1802203762, 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'secure': True, 'value': '7d6e8b37-436a-42ba-a75e-fdef0e669f89'}, {'domain': '.be-edgy.de', 'expiry': 1645733361, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.be-edgy.de', 'expiry': 1644525562, 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'secure': True, 'value': '9f5809ef-7a47-4218-b4ec-3f8327189e7a'}, {'domain': '.be-edgy.de', 'expiry': 1644525563, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.be-edgy.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.be-edgy.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.be-edgy.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T20%3A09%3A22.439Z'}, {'domain': '.be-edgy.de', 'expiry': 1676059761, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.be-edgy.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.be-edgy.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T20%3A09%3A22.454Z'}, {'domain': '.be-edgy.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e36667ac-b70a-4e38-babd-5d04c27ff2b5'}, {'domain': '.be-edgy.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '526e2d7e-8b77-487a-8c1d-9b5c74a8e59c'}, {'domain': '.be-edgy.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e36667ac-b70a-4e38-babd-5d04c27ff2b5'}, {'domain': '.be-edgy.de', 'expiry': 1676059761, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%7D'}, {'domain': 'www.be-edgy.de', 'expiry': 1645733363, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644523762'}, {'domain': 'www.be-edgy.de', 'expiry': 1676059763, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'www.be-edgy.de', 'expiry': 1645733363, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c2221b86374a777443efbd051d1273e6'}, {'domain': '.be-edgy.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.be-edgy.de', 'expiry': 1676059763, 'httpOnly': False, 'name': 'optiMonkClientId', 'path': '/', 'secure': False, 'value': 'c4aa7f50-83d8-b121-203c-1ab842a0a8a3'}, {'domain': 'www.be-edgy.de', 'expiry': 1645733363, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A2'}, {'domain': '.be-edgy.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '526e2d7e-8b77-487a-8c1d-9b5c74a8e59c'}]
+[Before] Cookie-Name 1: cart_sig
+[Before] Cookie-Name 2: _orig_referrer
+[Before] Cookie-Name 3: localization
+[Before] Cookie-Name 4: _shg_user_id
+[Before] Cookie-Name 5: _shopify_tw
+[Before] Cookie-Name 6: _shg_session_id
+[Before] Cookie-Name 7: _shopify_tm
+[Before] Cookie-Name 8: _shopify_evids
+[Before] Cookie-Name 9: _shopify_evids
+[Before] Cookie-Name 10: _shopify_d
+[Before] Cookie-Name 11: _shopify_m
+[Before] Cookie-Name 12: _landing_page
+[Before] Cookie-Name 13: _shopify_sa_t
+[Before] Cookie-Name 14: _shopify_y
+[Before] Cookie-Name 15: _s
+[Before] Cookie-Name 16: _y
+[Before] Cookie-Name 17: _tracking_consent
+[Before] Cookie-Name 18: cart_ts
+[Before] Cookie-Name 19: secure_customer_sig
+[Before] Cookie-Name 20: cart
+[Before] Cookie-Name 21: _shopify_sa_p
+[Before] Cookie-Name 22: optiMonkClientId
+[Before] Cookie-Name 23: cart_ver
+[Before] Cookie-Name 24: _shopify_s
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 29
+[After] Website-Cookies: [{'domain': '.be-edgy.de', 'expiry': 1644523837, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.be-edgy.de', 'expiry': 1644610177, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.2051479814.1644523778'}, {'domain': '.be-edgy.de', 'expiry': 1652299777, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.2062735566.1644523778'}, {'domain': '.be-edgy.de', 'expiry': 1707595777, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.347894204.1644523778'}, {'domain': '.be-edgy.de', 'expiry': 1676059777, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%221%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': '.be-edgy.de', 'expiry': 1676059777, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': 'www.be-edgy.de', 'expiry': 1645733363, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A2'}, {'domain': 'www.be-edgy.de', 'expiry': 1676059763, 'httpOnly': False, 'name': 'optiMonkClientId', 'path': '/', 'secure': False, 'value': 'c4aa7f50-83d8-b121-203c-1ab842a0a8a3'}, {'domain': 'www.be-edgy.de', 'expiry': 1645733377, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5dc6fea861feec29d56fdbacbbbb2ad7'}, {'domain': '.be-edgy.de', 'expiry': 1645733377, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.be-edgy.de', 'expiry': 1645733377, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'www.be-edgy.de', 'expiry': 1802203762, 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'secure': True, 'value': '7d6e8b37-436a-42ba-a75e-fdef0e669f89'}, {'domain': '.be-edgy.de', 'expiry': 1645733361, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.be-edgy.de', 'expiry': 1644525562, 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'secure': True, 'value': '9f5809ef-7a47-4218-b4ec-3f8327189e7a'}, {'domain': '.be-edgy.de', 'expiry': 1644525577, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.be-edgy.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.be-edgy.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.be-edgy.de', 'expiry': 1645733377, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.be-edgy.de', 'expiry': 1644525577, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T20%3A09%3A22.454Z'}, {'domain': '.be-edgy.de', 'expiry': 1676059777, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e36667ac-b70a-4e38-babd-5d04c27ff2b5'}, {'domain': '.be-edgy.de', 'expiry': 1652299778, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644523777916.427543029'}, {'domain': '.be-edgy.de', 'expiry': 1644525577, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '526e2d7e-8b77-487a-8c1d-9b5c74a8e59c'}, {'domain': '.be-edgy.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T20%3A09%3A22.439Z'}, {'domain': '.be-edgy.de', 'expiry': 1676059777, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e36667ac-b70a-4e38-babd-5d04c27ff2b5'}, {'domain': 'www.be-edgy.de', 'expiry': 1645733363, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644523762'}, {'domain': 'www.be-edgy.de', 'expiry': 1676059777, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'www.be-edgy.de', 'expiry': 1645733363, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c2221b86374a777443efbd051d1273e6'}, {'domain': '.be-edgy.de', 'expiry': 1644525577, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.be-edgy.de', 'expiry': 1644525577, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '526e2d7e-8b77-487a-8c1d-9b5c74a8e59c'}]
+[After] Cookie-Name 1: _gat
+[After] Cookie-Name 2: _gid
+[After] Cookie-Name 3: _gcl_au
+[After] Cookie-Name 4: _ga
+[After] Cookie-Name 5: _tracking_consent
+[After] Cookie-Name 6: _shopify_m
+[After] Cookie-Name 7: cart_ver
+[After] Cookie-Name 8: optiMonkClientId
+[After] Cookie-Name 9: cart_sig
+[After] Cookie-Name 10: _orig_referrer
+[After] Cookie-Name 11: localization
+[After] Cookie-Name 12: _shg_user_id
+[After] Cookie-Name 13: _shopify_tw
+[After] Cookie-Name 14: _shg_session_id
+[After] Cookie-Name 15: _shopify_tm
+[After] Cookie-Name 16: _shopify_evids
+[After] Cookie-Name 17: _shopify_evids
+[After] Cookie-Name 18: _landing_page
+[After] Cookie-Name 19: _shopify_sa_t
+[After] Cookie-Name 20: _shopify_y
+[After] Cookie-Name 21: _fbp
+[After] Cookie-Name 22: _s
+[After] Cookie-Name 23: _shopify_d
+[After] Cookie-Name 24: _y
+[After] Cookie-Name 25: cart_ts
+[After] Cookie-Name 26: secure_customer_sig
+[After] Cookie-Name 27: cart
+[After] Cookie-Name 28: _shopify_sa_p
+[After] Cookie-Name 29: _shopify_s
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 5
+[Difference] Cookie-Name: 1: _fbp
+[Difference] Cookie-Name: 2: _ga
+[Difference] Cookie-Name: 3: _gat
+[Difference] Cookie-Name: 4: _gid
+[Difference] Cookie-Name: 5: _gcl_au
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

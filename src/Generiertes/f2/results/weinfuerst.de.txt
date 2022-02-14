@@ -1,0 +1,81 @@
+Website 86: http://www.weinfuerst.de/ | Created: 09.02.2022 11:12:24 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 25
+[Before] Website-Cookies: [{'domain': '.weinfuerst.de', 'expiry': 1675937535, 'httpOnly': False, 'name': '_privy_8AA35618A996469923B32859', 'path': '/', 'secure': False, 'value': '%7B%22uuid%22%3A%22201c1e8c-9217-4215-9768-2a8db4c36374%22%2C%22variations%22%3A%7B%7D%2C%22country_code%22%3A%22DE%22%2C%22region_code%22%3A%22DE_%22%2C%22postal_code%22%3A%22%22%2C%22cart_value%22%3A0%7D'}, {'domain': 'www.weinfuerst.de', 'expiry': 1707473535, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MDE1MzUsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LndlaW5mdWVyc3QuZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NDAxNTM1LCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL3d3dy53ZWluZnVlcnN0LmRlLyJ9fQ=='}, {'domain': '.weinfuerst.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.weinfuerst.de', 'httpOnly': False, 'name': 'landingPage', 'path': '/', 'secure': False, 'value': 'landed'}, {'domain': 'www.weinfuerst.de', 'expiry': 1659953535, 'httpOnly': False, 'name': 'baqend-speedkit-ab-test-info', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '%7B%22group%22%3A%22A%22%2C%22testId%22%3A%22100vs0%22%7D'}, {'domain': '.weinfuerst.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A12%3A14.786Z'}, {'domain': 'www.weinfuerst.de', 'httpOnly': False, 'name': 'logState', 'path': '/', 'secure': False, 'value': 'loggedOut'}, {'domain': '.weinfuerst.de', 'expiry': 1675937534, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.weinfuerst.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A12%3A14.820Z'}, {'domain': 'www.weinfuerst.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.weinfuerst.de', 'expiry': 1644403334, 'httpOnly': False, 'name': '_shopify_country', 'path': '/', 'secure': False, 'value': 'Germany'}, {'domain': '.weinfuerst.de', 'expiry': 1645611134, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.weinfuerst.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '268a17f5-5291-4eb0-ab44-e899d441c3e2'}, {'domain': '.weinfuerst.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.weinfuerst.de', 'expiry': 1644403336, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.weinfuerst.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '268a17f5-5291-4eb0-ab44-e899d441c3e2'}, {'domain': '.weinfuerst.de', 'expiry': 1675937534, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': '.weinfuerst.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.weinfuerst.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1133d1a2-cc97-44fc-91e3-96dfa33e8b7b'}, {'domain': 'www.weinfuerst.de', 'expiry': 1645611136, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.weinfuerst.de', 'expiry': 1659953535, 'httpOnly': False, 'name': 'baqend-speedkit-user-id', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'BnAmDVcvjoAocOtLAyeMen91h'}, {'domain': '.weinfuerst.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.weinfuerst.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1133d1a2-cc97-44fc-91e3-96dfa33e8b7b'}, {'domain': 'www.weinfuerst.de', 'expiry': 1645611136, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.weinfuerst.de', 'expiry': 1675937536, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _privy_8AA35618A996469923B32859
+[Before] Cookie-Name 2: __kla_id
+[Before] Cookie-Name 3: _shopify_evids
+[Before] Cookie-Name 4: landingPage
+[Before] Cookie-Name 5: baqend-speedkit-ab-test-info
+[Before] Cookie-Name 6: _shopify_d
+[Before] Cookie-Name 7: logState
+[Before] Cookie-Name 8: _shopify_m
+[Before] Cookie-Name 9: _shopify_sa_t
+[Before] Cookie-Name 10: _shopify_evids
+[Before] Cookie-Name 11: _shopify_country
+[Before] Cookie-Name 12: _shopify_tw
+[Before] Cookie-Name 13: _shopify_y
+[Before] Cookie-Name 14: _shopify_sa_p
+[Before] Cookie-Name 15: _shopify_tm
+[Before] Cookie-Name 16: _y
+[Before] Cookie-Name 17: _tracking_consent
+[Before] Cookie-Name 18: _orig_referrer
+[Before] Cookie-Name 19: _shopify_s
+[Before] Cookie-Name 20: localization
+[Before] Cookie-Name 21: baqend-speedkit-user-id
+[Before] Cookie-Name 22: _landing_page
+[Before] Cookie-Name 23: _s
+[Before] Cookie-Name 24: cart_currency
+[Before] Cookie-Name 25: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 25
+[After] Website-Cookies: [{'domain': '.weinfuerst.de', 'expiry': 1675937535, 'httpOnly': False, 'name': '_privy_8AA35618A996469923B32859', 'path': '/', 'secure': False, 'value': '%7B%22uuid%22%3A%22201c1e8c-9217-4215-9768-2a8db4c36374%22%2C%22variations%22%3A%7B%7D%2C%22country_code%22%3A%22DE%22%2C%22region_code%22%3A%22DE_%22%2C%22postal_code%22%3A%22%22%2C%22cart_value%22%3A0%7D'}, {'domain': 'www.weinfuerst.de', 'expiry': 1707473535, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MDE1MzUsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LndlaW5mdWVyc3QuZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NDAxNTM1LCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL3d3dy53ZWluZnVlcnN0LmRlLyJ9fQ=='}, {'domain': '.weinfuerst.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.weinfuerst.de', 'httpOnly': False, 'name': 'landingPage', 'path': '/', 'secure': False, 'value': 'landed'}, {'domain': 'www.weinfuerst.de', 'expiry': 1659953535, 'httpOnly': False, 'name': 'baqend-speedkit-ab-test-info', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '%7B%22group%22%3A%22A%22%2C%22testId%22%3A%22100vs0%22%7D'}, {'domain': '.weinfuerst.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A12%3A14.786Z'}, {'domain': 'www.weinfuerst.de', 'httpOnly': False, 'name': 'logState', 'path': '/', 'secure': False, 'value': 'loggedOut'}, {'domain': '.weinfuerst.de', 'expiry': 1675937534, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.weinfuerst.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A12%3A14.820Z'}, {'domain': 'www.weinfuerst.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.weinfuerst.de', 'expiry': 1644403334, 'httpOnly': False, 'name': '_shopify_country', 'path': '/', 'secure': False, 'value': 'Germany'}, {'domain': '.weinfuerst.de', 'expiry': 1645611134, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.weinfuerst.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '268a17f5-5291-4eb0-ab44-e899d441c3e2'}, {'domain': '.weinfuerst.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.weinfuerst.de', 'expiry': 1644403336, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.weinfuerst.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '268a17f5-5291-4eb0-ab44-e899d441c3e2'}, {'domain': '.weinfuerst.de', 'expiry': 1675937534, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': '.weinfuerst.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.weinfuerst.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1133d1a2-cc97-44fc-91e3-96dfa33e8b7b'}, {'domain': 'www.weinfuerst.de', 'expiry': 1645611136, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.weinfuerst.de', 'expiry': 1659953535, 'httpOnly': False, 'name': 'baqend-speedkit-user-id', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'BnAmDVcvjoAocOtLAyeMen91h'}, {'domain': '.weinfuerst.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.weinfuerst.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1133d1a2-cc97-44fc-91e3-96dfa33e8b7b'}, {'domain': 'www.weinfuerst.de', 'expiry': 1645611136, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.weinfuerst.de', 'expiry': 1675937536, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _privy_8AA35618A996469923B32859
+[After] Cookie-Name 2: __kla_id
+[After] Cookie-Name 3: _shopify_evids
+[After] Cookie-Name 4: landingPage
+[After] Cookie-Name 5: baqend-speedkit-ab-test-info
+[After] Cookie-Name 6: _shopify_d
+[After] Cookie-Name 7: logState
+[After] Cookie-Name 8: _shopify_m
+[After] Cookie-Name 9: _shopify_sa_t
+[After] Cookie-Name 10: _shopify_evids
+[After] Cookie-Name 11: _shopify_country
+[After] Cookie-Name 12: _shopify_tw
+[After] Cookie-Name 13: _shopify_y
+[After] Cookie-Name 14: _shopify_sa_p
+[After] Cookie-Name 15: _shopify_tm
+[After] Cookie-Name 16: _y
+[After] Cookie-Name 17: _tracking_consent
+[After] Cookie-Name 18: _orig_referrer
+[After] Cookie-Name 19: _shopify_s
+[After] Cookie-Name 20: localization
+[After] Cookie-Name 21: baqend-speedkit-user-id
+[After] Cookie-Name 22: _landing_page
+[After] Cookie-Name 23: _s
+[After] Cookie-Name 24: cart_currency
+[After] Cookie-Name 25: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

@@ -1,0 +1,87 @@
+Website 252: http://www.ever-tag.de/ | Created: 09.02.2022 14:57:40 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 25
+[Before] Website-Cookies: [{'domain': 'ever-tag.de', 'expiry': 1675951052, 'httpOnly': False, 'name': '_growthhero_last_visit', 'path': '/', 'secure': False, 'value': 'Wed, 09 Feb 2022 13:57:32 GMT'}, {'domain': 'ever-tag.de', 'expiry': 1644501452, 'httpOnly': False, 'name': '_growthhero_uid', 'path': '/', 'secure': False, 'value': 'b8e005cc-fa5b-47ec-850f-3cc31983bf02'}, {'domain': '.ever-tag.de', 'expiry': 1652191051, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644415051252.266991804'}, {'domain': '.ever-tag.de', 'expiry': 1644416851, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.ever-tag.de', 'expiry': 1644416851, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A57%3A31.078Z'}, {'domain': 'ever-tag.de', 'expiry': 1644418649, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.ever-tag.de', 'expiry': 1644416849, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'ever-tag.de', 'expiry': 1645624649, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.ever-tag.de', 'expiry': 1644501451, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1677598183.1644415051'}, {'domain': '.ever-tag.de', 'expiry': 1644416849, 'httpOnly': False, 'name': '_hjSession_1733942', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjFmOWNlMDAxLWRkM2MtNDVkYS05NjQwLTQxNDM0NjgyM2Y0OCIsImNyZWF0ZWQiOjE2NDQ0MTUwNDk2MTYsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': 'ever-tag.de', 'expiry': 1644415169, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.ever-tag.de', 'expiry': 1644416849, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'ever-tag.de', 'expiry': 1645624649, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': '.ever-tag.de', 'expiry': 1675951052, 'httpOnly': False, 'name': '_privy_B3E3470E04E750B6FBCCDCCC', 'path': '/', 'secure': False, 'value': '%7B%22uuid%22%3A%22ce92c0ab-2782-49e4-9345-fb369803c4cb%22%7D'}, {'domain': '.ever-tag.de', 'expiry': 1675951049, 'httpOnly': False, 'name': '_hjSessionUser_1733942', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjUyNzNlMmU3LTQ5NmQtNWM5NS1hMWJhLTVjMDkyNGY4NTQ5MyIsImNyZWF0ZWQiOjE2NDQ0MTUwNDk1NzcsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.ever-tag.de', 'expiry': 1675951049, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVptTTFOVEprWVRRdE1qSXdaQzAwTXpNNUxUbGxNemd0TVRNME9UZzRaalk0TkRRMA'}, {'domain': '.ever-tag.de', 'expiry': 1644416851, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '85893348-183d-417e-aacf-09db0bac1342'}, {'domain': '.ever-tag.de', 'expiry': 1645624649, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.ever-tag.de', 'expiry': 1675951049, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f1e3c743-92a7-403f-961d-19a3651ff53f'}, {'domain': '.ever-tag.de', 'expiry': 1707487051, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.845394967.1644415051'}, {'domain': '.ever-tag.de', 'expiry': 1644415111, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.ever-tag.de', 'expiry': 1675951049, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f1e3c743-92a7-403f-961d-19a3651ff53f'}, {'domain': '.ever-tag.de', 'expiry': 1644416851, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '85893348-183d-417e-aacf-09db0bac1342'}, {'domain': '.ever-tag.de', 'expiry': 1645624649, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'ever-tag.de', 'expiry': 1675951049, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _growthhero_last_visit
+[Before] Cookie-Name 2: _growthhero_uid
+[Before] Cookie-Name 3: _fbp
+[Before] Cookie-Name 4: _shopify_sa_p
+[Before] Cookie-Name 5: _shopify_sa_t
+[Before] Cookie-Name 6: shopify_pay_redirect
+[Before] Cookie-Name 7: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 8: cart_currency
+[Before] Cookie-Name 9: _gid
+[Before] Cookie-Name 10: _hjSession_1733942
+[Before] Cookie-Name 11: _hjIncludedInPageviewSample
+[Before] Cookie-Name 12: _hjFirstSeen
+[Before] Cookie-Name 13: localization
+[Before] Cookie-Name 14: _privy_B3E3470E04E750B6FBCCDCCC
+[Before] Cookie-Name 15: _hjSessionUser_1733942
+[Before] Cookie-Name 16: _pin_unauth
+[Before] Cookie-Name 17: _shopify_s
+[Before] Cookie-Name 18: _orig_referrer
+[Before] Cookie-Name 19: _shopify_y
+[Before] Cookie-Name 20: _ga
+[Before] Cookie-Name 21: _gat
+[Before] Cookie-Name 22: _y
+[Before] Cookie-Name 23: _s
+[Before] Cookie-Name 24: _landing_page
+[Before] Cookie-Name 25: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 26
+[After] Website-Cookies: [{'domain': 'ever-tag.de', 'expiry': 1647007065, 'httpOnly': False, 'name': 'cookie', 'path': '/', 'secure': False, 'value': 'empty'}, {'domain': 'ever-tag.de', 'expiry': 1675951052, 'httpOnly': False, 'name': '_growthhero_last_visit', 'path': '/', 'secure': False, 'value': 'Wed, 09 Feb 2022 13:57:32 GMT'}, {'domain': 'ever-tag.de', 'expiry': 1644501452, 'httpOnly': False, 'name': '_growthhero_uid', 'path': '/', 'secure': False, 'value': 'b8e005cc-fa5b-47ec-850f-3cc31983bf02'}, {'domain': '.ever-tag.de', 'expiry': 1652191065, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644415051252.266991804'}, {'domain': '.ever-tag.de', 'expiry': 1644416851, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.ever-tag.de', 'expiry': 1644416851, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A57%3A31.078Z'}, {'domain': 'ever-tag.de', 'expiry': 1644418649, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.ever-tag.de', 'expiry': 1644416849, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'ever-tag.de', 'expiry': 1645624649, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.ever-tag.de', 'expiry': 1644501451, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1677598183.1644415051'}, {'domain': '.ever-tag.de', 'expiry': 1644416849, 'httpOnly': False, 'name': '_hjSession_1733942', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjFmOWNlMDAxLWRkM2MtNDVkYS05NjQwLTQxNDM0NjgyM2Y0OCIsImNyZWF0ZWQiOjE2NDQ0MTUwNDk2MTYsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': 'ever-tag.de', 'expiry': 1644415169, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.ever-tag.de', 'expiry': 1644416849, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'ever-tag.de', 'expiry': 1645624649, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': '.ever-tag.de', 'expiry': 1675951052, 'httpOnly': False, 'name': '_privy_B3E3470E04E750B6FBCCDCCC', 'path': '/', 'secure': False, 'value': '%7B%22uuid%22%3A%22ce92c0ab-2782-49e4-9345-fb369803c4cb%22%7D'}, {'domain': '.ever-tag.de', 'expiry': 1675951049, 'httpOnly': False, 'name': '_hjSessionUser_1733942', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjUyNzNlMmU3LTQ5NmQtNWM5NS1hMWJhLTVjMDkyNGY4NTQ5MyIsImNyZWF0ZWQiOjE2NDQ0MTUwNDk1NzcsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.ever-tag.de', 'expiry': 1675951049, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVptTTFOVEprWVRRdE1qSXdaQzAwTXpNNUxUbGxNemd0TVRNME9UZzRaalk0TkRRMA'}, {'domain': '.ever-tag.de', 'expiry': 1644416851, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '85893348-183d-417e-aacf-09db0bac1342'}, {'domain': '.ever-tag.de', 'expiry': 1645624649, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.ever-tag.de', 'expiry': 1675951049, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f1e3c743-92a7-403f-961d-19a3651ff53f'}, {'domain': '.ever-tag.de', 'expiry': 1707487051, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.845394967.1644415051'}, {'domain': '.ever-tag.de', 'expiry': 1644415111, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.ever-tag.de', 'expiry': 1675951049, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f1e3c743-92a7-403f-961d-19a3651ff53f'}, {'domain': '.ever-tag.de', 'expiry': 1644416851, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '85893348-183d-417e-aacf-09db0bac1342'}, {'domain': '.ever-tag.de', 'expiry': 1645624649, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'ever-tag.de', 'expiry': 1675951049, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: cookie
+[After] Cookie-Name 2: _growthhero_last_visit
+[After] Cookie-Name 3: _growthhero_uid
+[After] Cookie-Name 4: _fbp
+[After] Cookie-Name 5: _shopify_sa_p
+[After] Cookie-Name 6: _shopify_sa_t
+[After] Cookie-Name 7: shopify_pay_redirect
+[After] Cookie-Name 8: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 9: cart_currency
+[After] Cookie-Name 10: _gid
+[After] Cookie-Name 11: _hjSession_1733942
+[After] Cookie-Name 12: _hjIncludedInPageviewSample
+[After] Cookie-Name 13: _hjFirstSeen
+[After] Cookie-Name 14: localization
+[After] Cookie-Name 15: _privy_B3E3470E04E750B6FBCCDCCC
+[After] Cookie-Name 16: _hjSessionUser_1733942
+[After] Cookie-Name 17: _pin_unauth
+[After] Cookie-Name 18: _shopify_s
+[After] Cookie-Name 19: _orig_referrer
+[After] Cookie-Name 20: _shopify_y
+[After] Cookie-Name 21: _ga
+[After] Cookie-Name 22: _gat
+[After] Cookie-Name 23: _y
+[After] Cookie-Name 24: _s
+[After] Cookie-Name 25: _landing_page
+[After] Cookie-Name 26: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _hjIncludedInPageviewSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gat (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: cookie
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

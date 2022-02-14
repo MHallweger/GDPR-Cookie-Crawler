@@ -1,0 +1,102 @@
+Website 61: http://www.uandu.de/ | Created: 08.02.2022 21:58:08 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 32
+[Before] Website-Cookies: [{'domain': '.uandu.de', 'expiry': 1675889881, 'httpOnly': False, 'name': '_ju_dc', 'path': '/', 'secure': False, 'value': 'cdbb78d2-8921-11ec-b56f-55a8da884df1'}, {'domain': '.uandu.de', 'expiry': 1644355690, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2a1d4ee9-3a01-4149-a27b-18798000d637'}, {'domain': '.uandu.de', 'expiry': 1675889890, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3686a24b-4054-4993-ba03-3453b9f572f0'}, {'domain': '.uandu.de', 'expiry': 1675889890, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3686a24b-4054-4993-ba03-3453b9f572f0'}, {'domain': '.uandu.de', 'expiry': 1646945880, 'httpOnly': False, 'name': '_ju_dn', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.uandu.de', 'expiry': 1707425889, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.412672011.1644353879'}, {'domain': '.uandu.de', 'expiry': 1644440280, 'httpOnly': False, 'name': '_ju_dm', 'path': '/', 'secure': False, 'value': 'cookie'}, {'domain': '.uandu.de', 'expiry': 1644355679, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.uandu.de', 'expiry': 1644355680, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'uHVk2SJDDr8KmI-20220208205800'}, {'domain': '.uandu.de', 'expiry': 1644355690, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2a1d4ee9-3a01-4149-a27b-18798000d637'}, {'domain': 'uandu.de', 'expiry': 1644353999, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.uandu.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220208205800-CM6jkM3vdadiuTsXIBgtiSEDPXV25GC04ZiXIDJalq23nA7wV'}, {'domain': 'uandu.de', 'expiry': 1644355677, 'httpOnly': False, 'name': '_ju_v', 'path': '/', 'secure': True, 'value': '4.1_5.05'}, {'domain': '.uandu.de', 'expiry': 1644355679, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'uandu.de', 'expiry': 1659905879, 'httpOnly': False, 'name': '_ALGOLIA', 'path': '/', 'secure': False, 'value': 'anonymous-23a9decd-b147-4910-ba19-bfe44db8fe7e'}, {'domain': 'uandu.de', 'expiry': 1644353999, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'uandu.de', 'expiry': 1675889890, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.uandu.de', 'expiry': 1675889879, 'httpOnly': False, 'name': '_hjSessionUser_1922655', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjFiOTdkMzZhLTdhNzUtNTdmYS05OWFlLTBhZGZlZmFjNmQ3NiIsImNyZWF0ZWQiOjE2NDQzNTM4Nzg5OTQsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.uandu.de', 'expiry': 1644353939, 'httpOnly': False, 'name': '_dc_gtm_UA-167312995-1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.uandu.de', 'expiry': 1644355678, 'httpOnly': False, 'name': '_ju_pn', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'uandu.de', 'expiry': 1675889880, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': 'analytics%2Cfunctionality%2Cmarketing'}, {'domain': '.uandu.de', 'expiry': 1652129879, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.220614771.1644353879'}, {'domain': '.uandu.de', 'expiry': 1644355679, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.uandu.de', 'expiry': 1675889880, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'Sn8Wtx4utS2dZg-20220208205800'}, {'domain': 'uandu.de', 'expiry': 1644357479, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.uandu.de', 'httpOnly': False, 'name': 'soundest-views', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.uandu.de', 'expiry': 1645563478, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.uandu.de', 'expiry': 1644440289, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.2049595107.1644353884'}, {'domain': '.uandu.de', 'expiry': 1645563478, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'uandu.de', 'expiry': 1645563490, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.uandu.de', 'expiry': 1644355679, 'httpOnly': False, 'name': '_hjSession_1922655', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjY1YTk2NTc4LTk4ZWUtNDcwMi04Zjk0LTEyNzlmMzJmZjlhZCIsImNyZWF0ZWQiOjE2NDQzNTM4NzkzMDgsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': 'uandu.de', 'expiry': 1645563490, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[Before] Cookie-Name 1: _ju_dc
+[Before] Cookie-Name 2: _shopify_s
+[Before] Cookie-Name 3: _shopify_y
+[Before] Cookie-Name 4: _y
+[Before] Cookie-Name 5: _ju_dn
+[Before] Cookie-Name 6: _ga
+[Before] Cookie-Name 7: _ju_dm
+[Before] Cookie-Name 8: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 9: omnisendSessionID
+[Before] Cookie-Name 10: _s
+[Before] Cookie-Name 11: _hjIncludedInPageviewSample
+[Before] Cookie-Name 12: soundestID
+[Before] Cookie-Name 13: _ju_v
+[Before] Cookie-Name 14: _shopify_sa_p
+[Before] Cookie-Name 15: _ALGOLIA
+[Before] Cookie-Name 16: _hjIncludedInSessionSample
+[Before] Cookie-Name 17: secure_customer_sig
+[Before] Cookie-Name 18: _hjSessionUser_1922655
+[Before] Cookie-Name 19: _dc_gtm_UA-167312995-1
+[Before] Cookie-Name 20: _ju_pn
+[Before] Cookie-Name 21: cookieconsent_preferences_disabled
+[Before] Cookie-Name 22: _gcl_au
+[Before] Cookie-Name 23: _hjFirstSeen
+[Before] Cookie-Name 24: omnisendAnonymousID
+[Before] Cookie-Name 25: shopify_pay_redirect
+[Before] Cookie-Name 26: soundest-views
+[Before] Cookie-Name 27: _orig_referrer
+[Before] Cookie-Name 28: _gid
+[Before] Cookie-Name 29: _landing_page
+[Before] Cookie-Name 30: cart_currency
+[Before] Cookie-Name 31: _hjSession_1922655
+[Before] Cookie-Name 32: localization
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 34
+[After] Website-Cookies: [{'domain': 'uandu.de', 'expiry': 1675889894, 'httpOnly': False, 'name': 'cookieconsent_status', 'path': '/', 'secure': False, 'value': 'dismiss'}, {'domain': '.uandu.de', 'expiry': 1675889881, 'httpOnly': False, 'name': '_ju_dc', 'path': '/', 'secure': False, 'value': 'cdbb78d2-8921-11ec-b56f-55a8da884df1'}, {'domain': '.uandu.de', 'expiry': 1644355690, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2a1d4ee9-3a01-4149-a27b-18798000d637'}, {'domain': '.uandu.de', 'expiry': 1675889890, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3686a24b-4054-4993-ba03-3453b9f572f0'}, {'domain': '.uandu.de', 'expiry': 1675889890, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3686a24b-4054-4993-ba03-3453b9f572f0'}, {'domain': '.uandu.de', 'expiry': 1707425889, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.412672011.1644353879'}, {'domain': '.uandu.de', 'expiry': 1644440280, 'httpOnly': False, 'name': '_ju_dm', 'path': '/', 'secure': False, 'value': 'cookie'}, {'domain': '.uandu.de', 'expiry': 1644355679, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.uandu.de', 'expiry': 1646945880, 'httpOnly': False, 'name': '_ju_dn', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.uandu.de', 'expiry': 1644355680, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'uHVk2SJDDr8KmI-20220208205800'}, {'domain': '.uandu.de', 'expiry': 1644355690, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2a1d4ee9-3a01-4149-a27b-18798000d637'}, {'domain': 'uandu.de', 'expiry': 1644353999, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.uandu.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220208205800-CM6jkM3vdadiuTsXIBgtiSEDPXV25GC04ZiXIDJalq23nA7wV'}, {'domain': 'uandu.de', 'expiry': 1644355677, 'httpOnly': False, 'name': '_ju_v', 'path': '/', 'secure': True, 'value': '4.1_5.05'}, {'domain': '.uandu.de', 'expiry': 1644355679, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'uandu.de', 'expiry': 1659905879, 'httpOnly': False, 'name': '_ALGOLIA', 'path': '/', 'secure': False, 'value': 'anonymous-23a9decd-b147-4910-ba19-bfe44db8fe7e'}, {'domain': 'uandu.de', 'expiry': 1644353999, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'uandu.de', 'expiry': 1675889890, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.uandu.de', 'expiry': 1675889879, 'httpOnly': False, 'name': '_hjSessionUser_1922655', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjFiOTdkMzZhLTdhNzUtNTdmYS05OWFlLTBhZGZlZmFjNmQ3NiIsImNyZWF0ZWQiOjE2NDQzNTM4Nzg5OTQsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.uandu.de', 'expiry': 1644353939, 'httpOnly': False, 'name': '_dc_gtm_UA-167312995-1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'uandu.de', 'expiry': 1675889894, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': 'analytics%2Cfunctionality%2Cmarketing'}, {'domain': '.uandu.de', 'expiry': 1644355678, 'httpOnly': False, 'name': '_ju_pn', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.uandu.de', 'expiry': 1652129879, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.220614771.1644353879'}, {'domain': '.uandu.de', 'expiry': 1644355679, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.uandu.de', 'expiry': 1675889880, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'Sn8Wtx4utS2dZg-20220208205800'}, {'domain': 'uandu.de', 'expiry': 1644357479, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.uandu.de', 'httpOnly': False, 'name': 'soundest-views', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.uandu.de', 'expiry': 1645563478, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.uandu.de', 'expiry': 1644440289, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.2049595107.1644353884'}, {'domain': '.uandu.de', 'expiry': 1645563478, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'uandu.de', 'expiry': 1645563490, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.uandu.de', 'expiry': 1652129894, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644353894062.1680659251'}, {'domain': '.uandu.de', 'expiry': 1644355679, 'httpOnly': False, 'name': '_hjSession_1922655', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjY1YTk2NTc4LTk4ZWUtNDcwMi04Zjk0LTEyNzlmMzJmZjlhZCIsImNyZWF0ZWQiOjE2NDQzNTM4NzkzMDgsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': 'uandu.de', 'expiry': 1645563490, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: cookieconsent_status
+[After] Cookie-Name 2: _ju_dc
+[After] Cookie-Name 3: _shopify_s
+[After] Cookie-Name 4: _shopify_y
+[After] Cookie-Name 5: _y
+[After] Cookie-Name 6: _ga
+[After] Cookie-Name 7: _ju_dm
+[After] Cookie-Name 8: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 9: _ju_dn
+[After] Cookie-Name 10: omnisendSessionID
+[After] Cookie-Name 11: _s
+[After] Cookie-Name 12: _hjIncludedInPageviewSample
+[After] Cookie-Name 13: soundestID
+[After] Cookie-Name 14: _ju_v
+[After] Cookie-Name 15: _shopify_sa_p
+[After] Cookie-Name 16: _ALGOLIA
+[After] Cookie-Name 17: _hjIncludedInSessionSample
+[After] Cookie-Name 18: secure_customer_sig
+[After] Cookie-Name 19: _hjSessionUser_1922655
+[After] Cookie-Name 20: _dc_gtm_UA-167312995-1
+[After] Cookie-Name 21: cookieconsent_preferences_disabled
+[After] Cookie-Name 22: _ju_pn
+[After] Cookie-Name 23: _gcl_au
+[After] Cookie-Name 24: _hjFirstSeen
+[After] Cookie-Name 25: omnisendAnonymousID
+[After] Cookie-Name 26: shopify_pay_redirect
+[After] Cookie-Name 27: soundest-views
+[After] Cookie-Name 28: _orig_referrer
+[After] Cookie-Name 29: _gid
+[After] Cookie-Name 30: _landing_page
+[After] Cookie-Name 31: cart_currency
+[After] Cookie-Name 32: _fbp
+[After] Cookie-Name 33: _hjSession_1922655
+[After] Cookie-Name 34: localization
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjIncludedInPageviewSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjIncludedInSessionSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+[Used before] Cookie-Name: _gid (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 2
+[Difference] Cookie-Name: 1: _fbp
+[Difference] Cookie-Name: 2: cookieconsent_status
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

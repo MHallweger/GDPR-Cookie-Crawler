@@ -1,0 +1,63 @@
+Website 40: http://www.bavariaboote.de/ | Created: 09.02.2022 17:17:48 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 17
+[Before] Website-Cookies: [{'domain': 'bavariaboote.de', 'expiry': 1675959460, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': ''}, {'domain': 'bavariaboote.de', 'expiry': 1645633060, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': 'bavariaboote.de', 'expiry': 1645633060, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1ce0c8796554c548e203200b8403ea9c'}, {'domain': 'bavariaboote.de', 'expiry': 1645633060, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e332de738b8e2708e61ae26297570704'}, {'domain': 'bavariaboote.de', 'expiry': 1644427059, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'bavariaboote.de', 'expiry': 1645633060, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.bavariaboote.de', 'expiry': 1675959460, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a149ec1e-49d4-43c3-85ad-c481afab3cf6'}, {'domain': '.bavariaboote.de', 'expiry': 1644425259, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.bavariaboote.de', 'expiry': 1644425260, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '45ff179a-3ca6-4aef-9021-09b0e26d6fee'}, {'domain': 'bavariaboote.de', 'expiry': 1645633060, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644423460'}, {'domain': '.bavariaboote.de', 'expiry': 1644425259, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T16%3A17%3A39.746Z'}, {'domain': 'bavariaboote.de', 'expiry': 1675959460, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.bavariaboote.de', 'expiry': 1675959460, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a149ec1e-49d4-43c3-85ad-c481afab3cf6'}, {'domain': '.bavariaboote.de', 'expiry': 1644425260, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '45ff179a-3ca6-4aef-9021-09b0e26d6fee'}, {'domain': '.bavariaboote.de', 'expiry': 1645633059, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.bavariaboote.de', 'expiry': 1645633059, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'bavariaboote.de', 'expiry': 1645633060, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[Before] Cookie-Name 1: cookieconsent_preferences_disabled
+[Before] Cookie-Name 2: cart_ver
+[Before] Cookie-Name 3: cart_sig
+[Before] Cookie-Name 4: cart
+[Before] Cookie-Name 5: shopify_pay_redirect
+[Before] Cookie-Name 6: cart_currency
+[Before] Cookie-Name 7: _y
+[Before] Cookie-Name 8: _shopify_sa_p
+[Before] Cookie-Name 9: _s
+[Before] Cookie-Name 10: cart_ts
+[Before] Cookie-Name 11: _shopify_sa_t
+[Before] Cookie-Name 12: secure_customer_sig
+[Before] Cookie-Name 13: _shopify_y
+[Before] Cookie-Name 14: _shopify_s
+[Before] Cookie-Name 15: _landing_page
+[Before] Cookie-Name 16: _orig_referrer
+[Before] Cookie-Name 17: localization
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 18
+[After] Website-Cookies: [{'domain': 'bavariaboote.de', 'expiry': 1675959473, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': ''}, {'domain': 'bavariaboote.de', 'expiry': 1645633060, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': 'bavariaboote.de', 'expiry': 1645633060, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1ce0c8796554c548e203200b8403ea9c'}, {'domain': 'bavariaboote.de', 'expiry': 1645633060, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e332de738b8e2708e61ae26297570704'}, {'domain': 'bavariaboote.de', 'expiry': 1644427059, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'bavariaboote.de', 'expiry': 1645633060, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.bavariaboote.de', 'expiry': 1675959460, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a149ec1e-49d4-43c3-85ad-c481afab3cf6'}, {'domain': '.bavariaboote.de', 'expiry': 1644425259, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.bavariaboote.de', 'expiry': 1644425260, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '45ff179a-3ca6-4aef-9021-09b0e26d6fee'}, {'domain': 'bavariaboote.de', 'expiry': 1645633060, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644423460'}, {'domain': '.bavariaboote.de', 'expiry': 1644425259, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T16%3A17%3A39.746Z'}, {'domain': 'bavariaboote.de', 'expiry': 1675959460, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.bavariaboote.de', 'expiry': 1675959460, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a149ec1e-49d4-43c3-85ad-c481afab3cf6'}, {'domain': '.bavariaboote.de', 'expiry': 1644425260, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '45ff179a-3ca6-4aef-9021-09b0e26d6fee'}, {'domain': '.bavariaboote.de', 'expiry': 1645633059, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'bavariaboote.de', 'expiry': 1675959473, 'httpOnly': False, 'name': 'cookieconsent_status', 'path': '/', 'secure': False, 'value': 'allow'}, {'domain': '.bavariaboote.de', 'expiry': 1645633059, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'bavariaboote.de', 'expiry': 1645633060, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[After] Cookie-Name 1: cookieconsent_preferences_disabled
+[After] Cookie-Name 2: cart_ver
+[After] Cookie-Name 3: cart_sig
+[After] Cookie-Name 4: cart
+[After] Cookie-Name 5: shopify_pay_redirect
+[After] Cookie-Name 6: cart_currency
+[After] Cookie-Name 7: _y
+[After] Cookie-Name 8: _shopify_sa_p
+[After] Cookie-Name 9: _s
+[After] Cookie-Name 10: cart_ts
+[After] Cookie-Name 11: _shopify_sa_t
+[After] Cookie-Name 12: secure_customer_sig
+[After] Cookie-Name 13: _shopify_y
+[After] Cookie-Name 14: _shopify_s
+[After] Cookie-Name 15: _landing_page
+[After] Cookie-Name 16: cookieconsent_status
+[After] Cookie-Name 17: _orig_referrer
+[After] Cookie-Name 18: localization
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: cookieconsent_status
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

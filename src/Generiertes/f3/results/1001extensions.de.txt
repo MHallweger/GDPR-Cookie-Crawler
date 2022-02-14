@@ -1,0 +1,72 @@
+Website 281: http://www.1001extensions.de/ | Created: 09.02.2022 15:06:33 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 19
+[Before] Website-Cookies: [{'domain': '.1001extensions.de', 'httpOnly': False, 'name': 'soundest-views', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.1001extensions.de', 'expiry': 1707487585, 'httpOnly': False, 'name': '_ama', 'path': '/', 'secure': False, 'value': '1328544542.1644415584'}, {'domain': '.1001extensions.de', 'expiry': 1652191584, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644415583897.1140279585'}, {'domain': '.1001extensions.de', 'expiry': 1675951585, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'gyqPl9mFpeb9Lq-20220209140624'}, {'domain': '.1001extensions.de', 'expiry': 1644417383, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.1001extensions.de', 'expiry': 1644501983, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1000830452.1644415584'}, {'domain': '.1001extensions.de', 'expiry': 1644417383, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T14%3A06%3A23.649Z'}, {'domain': '.1001extensions.de', 'expiry': 1652191583, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1076364609.1644415584'}, {'domain': '.1001extensions.de', 'expiry': 1644417385, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '62b95301-083c-48a5-833c-15bc1dff424a'}, {'domain': '.1001extensions.de', 'expiry': 1675951585, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a1827109-595d-447e-aff9-e8639530937a'}, {'domain': '.1001extensions.de', 'expiry': 1645625183, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.1001extensions.de', 'expiry': 1675951585, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a1827109-595d-447e-aff9-e8639530937a'}, {'domain': '.1001extensions.de', 'expiry': 1707487583, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1328544542.1644415584'}, {'domain': '.1001extensions.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220209140624-tgp6GcK75dDEY2fxecIvzA8Ura3p7SrsMHWBxFTkCCo6hkfpE'}, {'domain': '.1001extensions.de', 'expiry': 1644417385, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '62b95301-083c-48a5-833c-15bc1dff424a'}, {'domain': '.1001extensions.de', 'expiry': 1644417385, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': '3I09w6RNLPzYd3-20220209140624'}, {'domain': '.1001extensions.de', 'expiry': 1645625183, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.1001extensions.de', 'expiry': 1644415643, 'httpOnly': False, 'name': '_gat_UA-22341171-24', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.1001extensions.de', 'expiry': 1675951585, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: soundest-views
+[Before] Cookie-Name 2: _ama
+[Before] Cookie-Name 3: _fbp
+[Before] Cookie-Name 4: omnisendAnonymousID
+[Before] Cookie-Name 5: _shopify_sa_p
+[Before] Cookie-Name 6: _gid
+[Before] Cookie-Name 7: _shopify_sa_t
+[Before] Cookie-Name 8: _gcl_au
+[Before] Cookie-Name 9: _shopify_s
+[Before] Cookie-Name 10: _shopify_y
+[Before] Cookie-Name 11: _landing_page
+[Before] Cookie-Name 12: _y
+[Before] Cookie-Name 13: _ga
+[Before] Cookie-Name 14: soundestID
+[Before] Cookie-Name 15: _s
+[Before] Cookie-Name 16: omnisendSessionID
+[Before] Cookie-Name 17: _orig_referrer
+[Before] Cookie-Name 18: _gat_UA-22341171-24
+[Before] Cookie-Name 19: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 19
+[After] Website-Cookies: [{'domain': '.1001extensions.de', 'httpOnly': False, 'name': 'soundest-views', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.1001extensions.de', 'expiry': 1707487585, 'httpOnly': False, 'name': '_ama', 'path': '/', 'secure': False, 'value': '1328544542.1644415584'}, {'domain': '.1001extensions.de', 'expiry': 1652191584, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644415583897.1140279585'}, {'domain': '.1001extensions.de', 'expiry': 1675951585, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'gyqPl9mFpeb9Lq-20220209140624'}, {'domain': '.1001extensions.de', 'expiry': 1644417383, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.1001extensions.de', 'expiry': 1644501983, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1000830452.1644415584'}, {'domain': '.1001extensions.de', 'expiry': 1644417383, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T14%3A06%3A23.649Z'}, {'domain': '.1001extensions.de', 'expiry': 1652191583, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1076364609.1644415584'}, {'domain': '.1001extensions.de', 'expiry': 1644417385, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '62b95301-083c-48a5-833c-15bc1dff424a'}, {'domain': '.1001extensions.de', 'expiry': 1675951585, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a1827109-595d-447e-aff9-e8639530937a'}, {'domain': '.1001extensions.de', 'expiry': 1645625183, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.1001extensions.de', 'expiry': 1675951585, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a1827109-595d-447e-aff9-e8639530937a'}, {'domain': '.1001extensions.de', 'expiry': 1707487583, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1328544542.1644415584'}, {'domain': '.1001extensions.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220209140624-tgp6GcK75dDEY2fxecIvzA8Ura3p7SrsMHWBxFTkCCo6hkfpE'}, {'domain': '.1001extensions.de', 'expiry': 1644417385, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '62b95301-083c-48a5-833c-15bc1dff424a'}, {'domain': '.1001extensions.de', 'expiry': 1644417385, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': '3I09w6RNLPzYd3-20220209140624'}, {'domain': '.1001extensions.de', 'expiry': 1645625183, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.1001extensions.de', 'expiry': 1644415643, 'httpOnly': False, 'name': '_gat_UA-22341171-24', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.1001extensions.de', 'expiry': 1675951585, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: soundest-views
+[After] Cookie-Name 2: _ama
+[After] Cookie-Name 3: _fbp
+[After] Cookie-Name 4: omnisendAnonymousID
+[After] Cookie-Name 5: _shopify_sa_p
+[After] Cookie-Name 6: _gid
+[After] Cookie-Name 7: _shopify_sa_t
+[After] Cookie-Name 8: _gcl_au
+[After] Cookie-Name 9: _shopify_s
+[After] Cookie-Name 10: _shopify_y
+[After] Cookie-Name 11: _landing_page
+[After] Cookie-Name 12: _y
+[After] Cookie-Name 13: _ga
+[After] Cookie-Name 14: soundestID
+[After] Cookie-Name 15: _s
+[After] Cookie-Name 16: omnisendSessionID
+[After] Cookie-Name 17: _orig_referrer
+[After] Cookie-Name 18: _gat_UA-22341171-24
+[After] Cookie-Name 19: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

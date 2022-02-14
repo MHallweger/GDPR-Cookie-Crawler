@@ -1,0 +1,59 @@
+Website 110: http://www.guehring-men-women.de/ | Created: 09.02.2022 14:15:42 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 14
+[Before] Website-Cookies: [{'domain': '.guehring-men-women.de', 'expiry': 1652188533, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644412532754.1000611697'}, {'domain': 'www.guehring-men-women.de', 'expiry': 1644416133, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.guehring-men-women.de', 'expiry': 1644414332, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.guehring-men-women.de', 'expiry': 1644414332, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7f4cb5b4-33f4-4d6a-9f3f-ff3d7efd02c4'}, {'domain': '.guehring-men-women.de', 'expiry': 1675948532, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '83e1f320-5a76-44e7-bad3-10a70a8bb99c'}, {'domain': '.guehring-men-women.de', 'expiry': 1644414332, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7f4cb5b4-33f4-4d6a-9f3f-ff3d7efd02c4'}, {'domain': '.guehring-men-women.de', 'expiry': 1675948532, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '83e1f320-5a76-44e7-bad3-10a70a8bb99c'}, {'domain': 'www.guehring-men-women.de', 'expiry': 1675948534, 'httpOnly': False, 'name': '_pandectes_gdpr', 'path': '/', 'secure': True, 'value': 'eyJzdGF0dXMiOiIiLCJ0aW1lc3RhbXAiOm51bGwsInByZWZlcmVuY2VzIjpudWxsfQ=='}, {'domain': '.guehring-men-women.de', 'expiry': 1645622132, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.guehring-men-women.de', 'expiry': 1645622132, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.guehring-men-women.de', 'expiry': 1645622132, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.guehring-men-women.de', 'expiry': 1644414332, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A15%3A32.463Z'}, {'domain': 'www.guehring-men-women.de', 'expiry': 1645622132, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.guehring-men-women.de', 'expiry': 1675948532, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _fbp
+[Before] Cookie-Name 2: shopify_pay_redirect
+[Before] Cookie-Name 3: _shopify_sa_p
+[Before] Cookie-Name 4: _shopify_s
+[Before] Cookie-Name 5: _shopify_y
+[Before] Cookie-Name 6: _s
+[Before] Cookie-Name 7: _y
+[Before] Cookie-Name 8: _pandectes_gdpr
+[Before] Cookie-Name 9: _orig_referrer
+[Before] Cookie-Name 10: cart_currency
+[Before] Cookie-Name 11: _landing_page
+[Before] Cookie-Name 12: _shopify_sa_t
+[Before] Cookie-Name 13: localization
+[Before] Cookie-Name 14: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 14
+[After] Website-Cookies: [{'domain': '.guehring-men-women.de', 'expiry': 1652188533, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644412532754.1000611697'}, {'domain': 'www.guehring-men-women.de', 'expiry': 1644416133, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.guehring-men-women.de', 'expiry': 1644414332, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.guehring-men-women.de', 'expiry': 1644414332, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7f4cb5b4-33f4-4d6a-9f3f-ff3d7efd02c4'}, {'domain': '.guehring-men-women.de', 'expiry': 1675948532, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '83e1f320-5a76-44e7-bad3-10a70a8bb99c'}, {'domain': '.guehring-men-women.de', 'expiry': 1644414332, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7f4cb5b4-33f4-4d6a-9f3f-ff3d7efd02c4'}, {'domain': '.guehring-men-women.de', 'expiry': 1675948532, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '83e1f320-5a76-44e7-bad3-10a70a8bb99c'}, {'domain': 'www.guehring-men-women.de', 'expiry': 1675948534, 'httpOnly': False, 'name': '_pandectes_gdpr', 'path': '/', 'secure': True, 'value': 'eyJzdGF0dXMiOiIiLCJ0aW1lc3RhbXAiOm51bGwsInByZWZlcmVuY2VzIjpudWxsfQ=='}, {'domain': '.guehring-men-women.de', 'expiry': 1645622132, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.guehring-men-women.de', 'expiry': 1645622132, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.guehring-men-women.de', 'expiry': 1645622132, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.guehring-men-women.de', 'expiry': 1644414332, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A15%3A32.463Z'}, {'domain': 'www.guehring-men-women.de', 'expiry': 1645622132, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.guehring-men-women.de', 'expiry': 1675948532, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _fbp
+[After] Cookie-Name 2: shopify_pay_redirect
+[After] Cookie-Name 3: _shopify_sa_p
+[After] Cookie-Name 4: _shopify_s
+[After] Cookie-Name 5: _shopify_y
+[After] Cookie-Name 6: _s
+[After] Cookie-Name 7: _y
+[After] Cookie-Name 8: _pandectes_gdpr
+[After] Cookie-Name 9: _orig_referrer
+[After] Cookie-Name 10: cart_currency
+[After] Cookie-Name 11: _landing_page
+[After] Cookie-Name 12: _shopify_sa_t
+[After] Cookie-Name 13: localization
+[After] Cookie-Name 14: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

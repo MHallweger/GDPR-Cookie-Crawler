@@ -1,0 +1,68 @@
+Website 218: http://www.opsilon.de/ | Created: 08.02.2022 22:46:28 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 19
+[Before] Website-Cookies: [{'domain': '.opsilon.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A46%3A19.103Z'}, {'domain': '.opsilon.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A46%3A19.092Z'}, {'domain': '.opsilon.de', 'expiry': 1675892778, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.opsilon.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.opsilon.de', 'expiry': 1645566378, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.opsilon.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '77b3a3dd-2780-4f1b-aeb1-60c714314403'}, {'domain': '.opsilon.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '29f9e9ba-750d-4c44-ba7e-facf9afa5ae7'}, {'domain': '.opsilon.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '29f9e9ba-750d-4c44-ba7e-facf9afa5ae7'}, {'domain': '.opsilon.de', 'expiry': 1675892778, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%7D'}, {'domain': 'opsilon.de', 'expiry': 1645566380, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.opsilon.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.opsilon.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.opsilon.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '77b3a3dd-2780-4f1b-aeb1-60c714314403'}, {'domain': 'opsilon.de', 'expiry': 1644360379, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'opsilon.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.opsilon.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'opsilon.de', 'expiry': 1645566378, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.opsilon.de', 'expiry': 1644358580, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'opsilon.de', 'expiry': 1675892780, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _shopify_sa_t
+[Before] Cookie-Name 2: _shopify_d
+[Before] Cookie-Name 3: _shopify_m
+[Before] Cookie-Name 4: _shopify_sa_p
+[Before] Cookie-Name 5: _shopify_tw
+[Before] Cookie-Name 6: _shopify_y
+[Before] Cookie-Name 7: _shopify_s
+[Before] Cookie-Name 8: _s
+[Before] Cookie-Name 9: _tracking_consent
+[Before] Cookie-Name 10: localization
+[Before] Cookie-Name 11: _landing_page
+[Before] Cookie-Name 12: _shopify_evids
+[Before] Cookie-Name 13: _y
+[Before] Cookie-Name 14: shopify_pay_redirect
+[Before] Cookie-Name 15: _shopify_evids
+[Before] Cookie-Name 16: _orig_referrer
+[Before] Cookie-Name 17: cart_currency
+[Before] Cookie-Name 18: _shopify_tm
+[Before] Cookie-Name 19: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 19
+[After] Website-Cookies: [{'domain': '.opsilon.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A46%3A19.103Z'}, {'domain': '.opsilon.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A46%3A19.092Z'}, {'domain': '.opsilon.de', 'expiry': 1675892778, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.opsilon.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.opsilon.de', 'expiry': 1645566378, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.opsilon.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '77b3a3dd-2780-4f1b-aeb1-60c714314403'}, {'domain': '.opsilon.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '29f9e9ba-750d-4c44-ba7e-facf9afa5ae7'}, {'domain': '.opsilon.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '29f9e9ba-750d-4c44-ba7e-facf9afa5ae7'}, {'domain': '.opsilon.de', 'expiry': 1675892778, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%7D'}, {'domain': 'opsilon.de', 'expiry': 1645566380, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.opsilon.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.opsilon.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.opsilon.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '77b3a3dd-2780-4f1b-aeb1-60c714314403'}, {'domain': 'opsilon.de', 'expiry': 1644360379, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'opsilon.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.opsilon.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'opsilon.de', 'expiry': 1645566378, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.opsilon.de', 'expiry': 1644358580, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'opsilon.de', 'expiry': 1675892780, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _shopify_sa_t
+[After] Cookie-Name 2: _shopify_d
+[After] Cookie-Name 3: _shopify_m
+[After] Cookie-Name 4: _shopify_sa_p
+[After] Cookie-Name 5: _shopify_tw
+[After] Cookie-Name 6: _shopify_y
+[After] Cookie-Name 7: _shopify_s
+[After] Cookie-Name 8: _s
+[After] Cookie-Name 9: _tracking_consent
+[After] Cookie-Name 10: localization
+[After] Cookie-Name 11: _landing_page
+[After] Cookie-Name 12: _shopify_evids
+[After] Cookie-Name 13: _y
+[After] Cookie-Name 14: shopify_pay_redirect
+[After] Cookie-Name 15: _shopify_evids
+[After] Cookie-Name 16: _orig_referrer
+[After] Cookie-Name 17: cart_currency
+[After] Cookie-Name 18: _shopify_tm
+[After] Cookie-Name 19: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

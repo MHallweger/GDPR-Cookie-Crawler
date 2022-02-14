@@ -1,0 +1,100 @@
+Website 104: http://www.mdfinstruments.de/ | Created: 08.02.2022 22:11:30 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 31
+[Before] Website-Cookies: [{'domain': 'www.mdfinstruments.de', 'expiry': 1644354741, 'httpOnly': False, 'name': 'baMet_baEvs', 'path': '/', 'secure': False, 'value': '%5B%5D'}, {'domain': '.www.mdfinstruments.de', 'expiry': 1675890681, 'httpOnly': False, 'name': 'swym-email', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'null'}, {'domain': '.www.mdfinstruments.de', 'expiry': 1675890680, 'httpOnly': False, 'name': 'swym-pid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"dDBOwxMgnTUIRDTjC+FDGP56UZsqlVaV9jMjdAVxh1Y="'}, {'domain': '.www.mdfinstruments.de', 'expiry': 1644356481, 'httpOnly': False, 'name': 'swym-session-id', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"c1msd8j23tewt8t3wuhtzcikadq1hevks45ds4hdkac29sy378rvwua0qyvcmbnk"'}, {'domain': 'www.mdfinstruments.de', 'expiry': 1644527480, 'httpOnly': False, 'name': 'ba_cart_token', 'path': '/', 'secure': False, 'value': 'bd4930bff62fba23c35d65c0d9372f85'}, {'domain': 'www.mdfinstruments.de', 'expiry': 1645564280, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A2'}, {'domain': 'www.mdfinstruments.de', 'expiry': 1645564280, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644354680'}, {'domain': '.mdfinstruments.de', 'expiry': 1644356480, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9684b7f7-5df5-4336-a96f-125412b7315a'}, {'domain': 'www.mdfinstruments.de', 'expiry': 1707426679, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQzNTQ2ODAsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3Lm1kZmluc3RydW1lbnRzLmRlLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDM1NDY4MCwidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly93d3cubWRmaW5zdHJ1bWVudHMuZGUvIn19'}, {'domain': '.mdfinstruments.de', 'expiry': 1644441079, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.2095188978.1644354680'}, {'domain': '.www.mdfinstruments.de', 'expiry': 1675890681, 'httpOnly': False, 'name': 'swym-swymRegid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"CEhbFsFU9QnOGDLStXK3OhpEdsW-druinQUQuuyzMsqwBDrUFG6ctUH2RTVQt4wm0OcEesgq3qpFVKKwhaJJWJ3ulZ1tnNn-xX_IDSf5c-XXr5eIKkDZSFUnKDU0BkbJ2ltIagxc9jI6BbqHTUtynl6lzKs1Qe_bp17Mvae7OuY"'}, {'domain': '.mdfinstruments.de', 'expiry': 1675890680, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '358aa6a0-6aa7-4702-8874-1a52b3e147d3'}, {'domain': 'www.mdfinstruments.de', 'expiry': 1645564280, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.mdfinstruments.de', 'expiry': 1645564278, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.mdfinstruments.de', 'expiry': 1644356479, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A11%3A19.442Z'}, {'domain': '.mdfinstruments.de', 'expiry': 1652130680, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644354680114.1521723218'}, {'domain': 'www.mdfinstruments.de', 'expiry': 1644358279, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.mdfinstruments.de', 'expiry': 1645564278, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.mdfinstruments.de', 'expiry': 1707426679, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.963751000.1644354680'}, {'domain': '.www.mdfinstruments.de', 'expiry': 1675890681, 'httpOnly': False, 'name': 'swym-cu_ct', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'undefined'}, {'domain': 'www.mdfinstruments.de', 'expiry': 1675890680, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.mdfinstruments.de', 'expiry': 1675890680, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '358aa6a0-6aa7-4702-8874-1a52b3e147d3'}, {'domain': '.mdfinstruments.de', 'expiry': 1652130679, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1820415885.1644354679'}, {'domain': '.www.mdfinstruments.de', 'expiry': 1644356481, 'httpOnly': False, 'name': 'swym-o_s', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'true'}, {'domain': 'www.mdfinstruments.de', 'expiry': 1645564280, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd508abcb5c675ceb049f6d75604a677b'}, {'domain': '.mdfinstruments.de', 'expiry': 1644354739, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.mdfinstruments.de', 'expiry': 1644356479, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.mdfinstruments.de', 'expiry': 1645564280, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.mdfinstruments.de', 'expiry': 1645564280, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bd4930bff62fba23c35d65c0d9372f85'}, {'domain': '.mdfinstruments.de', 'expiry': 1644356480, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9684b7f7-5df5-4336-a96f-125412b7315a'}, {'domain': 'www.mdfinstruments.de', 'expiry': 1644356479, 'httpOnly': False, 'name': 'baMet_visit', 'path': '/', 'secure': False, 'value': '9e6713e75f594b62a832d489e006afdc1644354679663'}]
+[Before] Cookie-Name 1: baMet_baEvs
+[Before] Cookie-Name 2: swym-email
+[Before] Cookie-Name 3: swym-pid
+[Before] Cookie-Name 4: swym-session-id
+[Before] Cookie-Name 5: ba_cart_token
+[Before] Cookie-Name 6: cart_ver
+[Before] Cookie-Name 7: cart_ts
+[Before] Cookie-Name 8: _s
+[Before] Cookie-Name 9: __kla_id
+[Before] Cookie-Name 10: _gid
+[Before] Cookie-Name 11: swym-swymRegid
+[Before] Cookie-Name 12: _shopify_y
+[Before] Cookie-Name 13: localization
+[Before] Cookie-Name 14: _landing_page
+[Before] Cookie-Name 15: _shopify_sa_t
+[Before] Cookie-Name 16: _fbp
+[Before] Cookie-Name 17: shopify_pay_redirect
+[Before] Cookie-Name 18: _orig_referrer
+[Before] Cookie-Name 19: _ga
+[Before] Cookie-Name 20: swym-cu_ct
+[Before] Cookie-Name 21: secure_customer_sig
+[Before] Cookie-Name 22: _y
+[Before] Cookie-Name 23: _gcl_au
+[Before] Cookie-Name 24: swym-o_s
+[Before] Cookie-Name 25: cart_sig
+[Before] Cookie-Name 26: _gat
+[Before] Cookie-Name 27: _shopify_sa_p
+[Before] Cookie-Name 28: cart_currency
+[Before] Cookie-Name 29: cart
+[Before] Cookie-Name 30: _shopify_s
+[Before] Cookie-Name 31: baMet_visit
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 34
+[After] Website-Cookies: [{'domain': 'www.mdfinstruments.de', 'expiry': 1644354741, 'httpOnly': False, 'name': 'baMet_baEvs', 'path': '/', 'secure': False, 'value': '%5B%5D'}, {'domain': '.mdfinstruments.de', 'expiry': 1675890695, 'httpOnly': False, 'name': '_iub_cs-77811937', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '%7B%22timestamp%22%3A%222022-02-08T21%3A11%3A35.928Z%22%2C%22version%22%3A%221.36.1%22%2C%22consent%22%3Atrue%2C%22id%22%3A77811937%7D'}, {'domain': '.www.mdfinstruments.de', 'expiry': 1675890681, 'httpOnly': False, 'name': 'swym-email', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'null'}, {'domain': '.mdfinstruments.de', 'expiry': 1675890695, 'httpOnly': False, 'name': '_iub_cs-77811937-granular', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '%7B%7D'}, {'domain': '.www.mdfinstruments.de', 'expiry': 1675890680, 'httpOnly': False, 'name': 'swym-pid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"dDBOwxMgnTUIRDTjC+FDGP56UZsqlVaV9jMjdAVxh1Y="'}, {'domain': '.www.mdfinstruments.de', 'expiry': 1644356496, 'httpOnly': False, 'name': 'swym-session-id', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"c1msd8j23tewt8t3wuhtzcikadq1hevks45ds4hdkac29sy378rvwua0qyvcmbnk"'}, {'domain': 'www.mdfinstruments.de', 'expiry': 1644527480, 'httpOnly': False, 'name': 'ba_cart_token', 'path': '/', 'secure': False, 'value': 'bd4930bff62fba23c35d65c0d9372f85'}, {'domain': 'www.mdfinstruments.de', 'expiry': 1645564280, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A2'}, {'domain': 'www.mdfinstruments.de', 'expiry': 1645564280, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644354680'}, {'domain': '.mdfinstruments.de', 'expiry': 1644356480, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9684b7f7-5df5-4336-a96f-125412b7315a'}, {'domain': 'www.mdfinstruments.de', 'expiry': 1707426679, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQzNTQ2ODAsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3Lm1kZmluc3RydW1lbnRzLmRlLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDM1NDY4MCwidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly93d3cubWRmaW5zdHJ1bWVudHMuZGUvIn19'}, {'domain': '.mdfinstruments.de', 'expiry': 1678050695, 'httpOnly': False, 'name': 'euconsent-v2', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'CPUHJyyPUHJ1QB7EKBENCBCsAP_AAH_AAAAAIkNf_X__bX9j-_5_f_t0eY1P9_r3v-QzjhfNt-8F3L_W_L0X42E7NF36pq4KuR4Eu3LBIQNlHMHUTUmwaokVrzHsak2cpyNKJ7LEmnMZO2dYGHtPn9lDuYKY7_7___fz3j-v_t_-39T378X_3_d5_2---vCfV799zLv9____39nP___9v-_9_____BEMAkw1LyALsyxwZNo0qhRAjCsJCoBQAUUAwtEVgA4OCnZWAT6ghYAITUBGBECDEFGDAIABBIAkIiAkALBAIgCIBAACAFCAhAARMAgsALAwCAAUA0LEAKAAQJCDI4KjlMCAqRaKCWysQSgr2NMIAyzwIoFEZFQAI1miBYGQkLBzHAEgJeLJA8xQvkAA'}, {'domain': '.mdfinstruments.de', 'expiry': 1644441079, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.2095188978.1644354680'}, {'domain': '.www.mdfinstruments.de', 'expiry': 1675890681, 'httpOnly': False, 'name': 'swym-swymRegid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"CEhbFsFU9QnOGDLStXK3OhpEdsW-druinQUQuuyzMsqwBDrUFG6ctUH2RTVQt4wm0OcEesgq3qpFVKKwhaJJWJ3ulZ1tnNn-xX_IDSf5c-XXr5eIKkDZSFUnKDU0BkbJ2ltIagxc9jI6BbqHTUtynl6lzKs1Qe_bp17Mvae7OuY"'}, {'domain': '.mdfinstruments.de', 'expiry': 1675890680, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '358aa6a0-6aa7-4702-8874-1a52b3e147d3'}, {'domain': 'www.mdfinstruments.de', 'expiry': 1645564280, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.mdfinstruments.de', 'expiry': 1645564278, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.mdfinstruments.de', 'expiry': 1644356479, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A11%3A19.442Z'}, {'domain': '.mdfinstruments.de', 'expiry': 1652130695, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644354680114.1521723218'}, {'domain': 'www.mdfinstruments.de', 'expiry': 1644358279, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.mdfinstruments.de', 'expiry': 1645564278, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.mdfinstruments.de', 'expiry': 1707426679, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.963751000.1644354680'}, {'domain': '.www.mdfinstruments.de', 'expiry': 1675890681, 'httpOnly': False, 'name': 'swym-cu_ct', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'undefined'}, {'domain': 'www.mdfinstruments.de', 'expiry': 1675890680, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.mdfinstruments.de', 'expiry': 1675890680, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '358aa6a0-6aa7-4702-8874-1a52b3e147d3'}, {'domain': '.mdfinstruments.de', 'expiry': 1652130679, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1820415885.1644354679'}, {'domain': '.www.mdfinstruments.de', 'expiry': 1644356481, 'httpOnly': False, 'name': 'swym-o_s', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'true'}, {'domain': 'www.mdfinstruments.de', 'expiry': 1645564280, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd508abcb5c675ceb049f6d75604a677b'}, {'domain': '.mdfinstruments.de', 'expiry': 1644354739, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.mdfinstruments.de', 'expiry': 1644356479, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.mdfinstruments.de', 'expiry': 1645564280, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.mdfinstruments.de', 'expiry': 1645564280, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bd4930bff62fba23c35d65c0d9372f85'}, {'domain': '.mdfinstruments.de', 'expiry': 1644356480, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9684b7f7-5df5-4336-a96f-125412b7315a'}, {'domain': 'www.mdfinstruments.de', 'expiry': 1644356479, 'httpOnly': False, 'name': 'baMet_visit', 'path': '/', 'secure': False, 'value': '9e6713e75f594b62a832d489e006afdc1644354679663'}]
+[After] Cookie-Name 1: baMet_baEvs
+[After] Cookie-Name 2: _iub_cs-77811937
+[After] Cookie-Name 3: swym-email
+[After] Cookie-Name 4: _iub_cs-77811937-granular
+[After] Cookie-Name 5: swym-pid
+[After] Cookie-Name 6: swym-session-id
+[After] Cookie-Name 7: ba_cart_token
+[After] Cookie-Name 8: cart_ver
+[After] Cookie-Name 9: cart_ts
+[After] Cookie-Name 10: _s
+[After] Cookie-Name 11: __kla_id
+[After] Cookie-Name 12: euconsent-v2
+[After] Cookie-Name 13: _gid
+[After] Cookie-Name 14: swym-swymRegid
+[After] Cookie-Name 15: _shopify_y
+[After] Cookie-Name 16: localization
+[After] Cookie-Name 17: _landing_page
+[After] Cookie-Name 18: _shopify_sa_t
+[After] Cookie-Name 19: _fbp
+[After] Cookie-Name 20: shopify_pay_redirect
+[After] Cookie-Name 21: _orig_referrer
+[After] Cookie-Name 22: _ga
+[After] Cookie-Name 23: swym-cu_ct
+[After] Cookie-Name 24: secure_customer_sig
+[After] Cookie-Name 25: _y
+[After] Cookie-Name 26: _gcl_au
+[After] Cookie-Name 27: swym-o_s
+[After] Cookie-Name 28: cart_sig
+[After] Cookie-Name 29: _gat
+[After] Cookie-Name 30: _shopify_sa_p
+[After] Cookie-Name 31: cart_currency
+[After] Cookie-Name 32: cart
+[After] Cookie-Name 33: _shopify_s
+[After] Cookie-Name 34: baMet_visit
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _gat (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 3
+[Difference] Cookie-Name: 1: _iub_cs-77811937
+[Difference] Cookie-Name: 2: euconsent-v2
+[Difference] Cookie-Name: 3: _iub_cs-77811937-granular
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

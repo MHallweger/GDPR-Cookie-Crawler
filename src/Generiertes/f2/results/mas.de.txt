@@ -1,0 +1,90 @@
+Website 79: http://www.mas.de/ | Created: 09.02.2022 11:10:11 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 25
+[Before] Website-Cookies: [{'domain': '.mas.de', 'httpOnly': False, 'name': 'soundest-views', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.mas.de', 'expiry': 1644403203, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'jWUZijchF2y21v-20220209101002'}, {'domain': '.mas.de', 'expiry': 1675937403, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': '02QlwNFYnhaYNd-20220209101002'}, {'domain': '.mas.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.mas.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A10%3A01.795Z'}, {'domain': '.mas.de', 'expiry': 1644403202, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.mas.de', 'expiry': 1707473401, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.2137536752.1644401402'}, {'domain': 'www.mas.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.mas.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A10%3A01.738Z'}, {'domain': '.mas.de', 'expiry': 1645611001, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.mas.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.mas.de', 'expiry': 1675937401, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': 'www.mas.de', 'expiry': 1675937402, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.mas.de', 'expiry': 1644401461, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.mas.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a7f7df26-bce3-4e95-8d84-d04a741c543b'}, {'domain': 'www.mas.de', 'expiry': 1645611002, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.mas.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '49020e19-72e8-4208-91a4-70f3bba895cf'}, {'domain': '.mas.de', 'expiry': 1644487801, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.344719766.1644401402'}, {'domain': '.mas.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a7f7df26-bce3-4e95-8d84-d04a741c543b'}, {'domain': '.mas.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.mas.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '49020e19-72e8-4208-91a4-70f3bba895cf'}, {'domain': '.mas.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220209101002-Z7qXa2r3HCI3Jbf6oZ9F0xdtF2dvewtWSe2lHWp9EFFquQTlJ'}, {'domain': '.mas.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.mas.de', 'expiry': 1675937401, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': 'www.mas.de', 'expiry': 1645611002, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}]
+[Before] Cookie-Name 1: soundest-views
+[Before] Cookie-Name 2: omnisendSessionID
+[Before] Cookie-Name 3: omnisendAnonymousID
+[Before] Cookie-Name 4: _shopify_sa_p
+[Before] Cookie-Name 5: _shopify_sa_t
+[Before] Cookie-Name 6: _shopify_tm
+[Before] Cookie-Name 7: _ga
+[Before] Cookie-Name 8: _shopify_evids
+[Before] Cookie-Name 9: _shopify_d
+[Before] Cookie-Name 10: _shopify_tw
+[Before] Cookie-Name 11: _shopify_evids
+[Before] Cookie-Name 12: _tracking_consent
+[Before] Cookie-Name 13: secure_customer_sig
+[Before] Cookie-Name 14: _gat
+[Before] Cookie-Name 15: _shopify_s
+[Before] Cookie-Name 16: cart_currency
+[Before] Cookie-Name 17: _shopify_y
+[Before] Cookie-Name 18: _gid
+[Before] Cookie-Name 19: _s
+[Before] Cookie-Name 20: _landing_page
+[Before] Cookie-Name 21: _y
+[Before] Cookie-Name 22: soundestID
+[Before] Cookie-Name 23: _orig_referrer
+[Before] Cookie-Name 24: _shopify_m
+[Before] Cookie-Name 25: localization
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 30
+[After] Website-Cookies: [{'domain': '.mas.de', 'expiry': 1675937416, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': 'www.mas.de', 'expiry': 1645611016, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': 'www.mas.de', 'expiry': 1645611016, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644401416'}, {'domain': '.mas.de', 'expiry': 1644403203, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'jWUZijchF2y21v-20220209101002'}, {'domain': '.mas.de', 'expiry': 1675937403, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': '02QlwNFYnhaYNd-20220209101002'}, {'domain': '.mas.de', 'expiry': 1644403216, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.mas.de', 'expiry': 1645611016, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '77e862ebcfd841c5a602252174b6a419'}, {'domain': '.mas.de', 'expiry': 1644403216, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A10%3A01.795Z'}, {'domain': '.mas.de', 'expiry': 1644403216, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.mas.de', 'expiry': 1707473401, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.2137536752.1644401402'}, {'domain': 'www.mas.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.mas.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A10%3A01.738Z'}, {'domain': 'www.mas.de', 'expiry': 1675937416, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.mas.de', 'expiry': 1644401461, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.mas.de', 'expiry': 1644403216, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a7f7df26-bce3-4e95-8d84-d04a741c543b'}, {'domain': '.mas.de', 'expiry': 1645611001, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.mas.de', 'expiry': 1645611016, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.mas.de', 'expiry': 1675937416, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '49020e19-72e8-4208-91a4-70f3bba895cf'}, {'domain': '.mas.de', 'httpOnly': False, 'name': 'soundest-views', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.mas.de', 'expiry': 1644487801, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.344719766.1644401402'}, {'domain': '.mas.de', 'expiry': 1644403216, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a7f7df26-bce3-4e95-8d84-d04a741c543b'}, {'domain': '.mas.de', 'expiry': 1675937416, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22con%22%3A%7B%22GDPR%22%3A%221%22%7D%2C%22v%22%3A%222.0%22%7D'}, {'domain': '.mas.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.mas.de', 'expiry': 1645611016, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '76a2e9fdeba87136be1d6601929254e4'}, {'domain': '.mas.de', 'expiry': 1645611016, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.mas.de', 'expiry': 1675937416, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '49020e19-72e8-4208-91a4-70f3bba895cf'}, {'domain': '.mas.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220209101002-Z7qXa2r3HCI3Jbf6oZ9F0xdtF2dvewtWSe2lHWp9EFFquQTlJ'}, {'domain': 'www.mas.de', 'expiry': 1675937416, 'httpOnly': False, 'name': 'cookieconsent_status', 'path': '/', 'secure': False, 'value': 'dismiss'}, {'domain': '.mas.de', 'expiry': 1645611016, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.mas.de', 'expiry': 1645611016, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[After] Cookie-Name 1: _shopify_m
+[After] Cookie-Name 2: cart_ver
+[After] Cookie-Name 3: cart_ts
+[After] Cookie-Name 4: omnisendSessionID
+[After] Cookie-Name 5: omnisendAnonymousID
+[After] Cookie-Name 6: _shopify_sa_p
+[After] Cookie-Name 7: cart_sig
+[After] Cookie-Name 8: _shopify_sa_t
+[After] Cookie-Name 9: _shopify_tm
+[After] Cookie-Name 10: _ga
+[After] Cookie-Name 11: _shopify_evids
+[After] Cookie-Name 12: _shopify_d
+[After] Cookie-Name 13: secure_customer_sig
+[After] Cookie-Name 14: _gat
+[After] Cookie-Name 15: _shopify_s
+[After] Cookie-Name 16: _shopify_tw
+[After] Cookie-Name 17: cart_currency
+[After] Cookie-Name 18: _shopify_y
+[After] Cookie-Name 19: soundest-views
+[After] Cookie-Name 20: _gid
+[After] Cookie-Name 21: _s
+[After] Cookie-Name 22: _tracking_consent
+[After] Cookie-Name 23: _shopify_evids
+[After] Cookie-Name 24: cart
+[After] Cookie-Name 25: _landing_page
+[After] Cookie-Name 26: _y
+[After] Cookie-Name 27: soundestID
+[After] Cookie-Name 28: cookieconsent_status
+[After] Cookie-Name 29: _orig_referrer
+[After] Cookie-Name 30: localization
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 5
+[Difference] Cookie-Name: 1: cart_ts
+[Difference] Cookie-Name: 2: cart_ver
+[Difference] Cookie-Name: 3: cookieconsent_status
+[Difference] Cookie-Name: 4: cart_sig
+[Difference] Cookie-Name: 5: cart
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

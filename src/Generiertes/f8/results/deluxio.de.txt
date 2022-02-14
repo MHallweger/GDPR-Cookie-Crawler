@@ -1,0 +1,55 @@
+Website 200: http://www.deluxio.de/ | Created: 10.02.2022 20:57:10 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 12
+[Before] Website-Cookies: [{'domain': 'deluxio.de', 'expiry': 1707595022, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ1MjMwMjIsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vZGVsdXhpby5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQ1MjMwMjIsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vZGVsdXhpby5kZS8ifX0='}, {'domain': '.deluxio.de', 'expiry': 1645732621, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.deluxio.de', 'expiry': 1644524821, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.deluxio.de', 'expiry': 1644524821, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T19%3A57%3A01.484Z'}, {'domain': '.deluxio.de', 'expiry': 1676059022, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '349f91db-67a2-414c-a9bb-12259c2a8b0c'}, {'domain': '.deluxio.de', 'expiry': 1644524822, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd7d07d30-57c5-4d9d-b36c-3e40a7db1dfe'}, {'domain': '.deluxio.de', 'expiry': 1645732621, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.deluxio.de', 'expiry': 1644524822, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd7d07d30-57c5-4d9d-b36c-3e40a7db1dfe'}, {'domain': '.deluxio.de', 'expiry': 1676059022, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '349f91db-67a2-414c-a9bb-12259c2a8b0c'}, {'domain': 'deluxio.de', 'expiry': 1676059022, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'deluxio.de', 'expiry': 1645732622, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'deluxio.de', 'expiry': 1645732622, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}]
+[Before] Cookie-Name 1: __kla_id
+[Before] Cookie-Name 2: _orig_referrer
+[Before] Cookie-Name 3: _shopify_sa_p
+[Before] Cookie-Name 4: _shopify_sa_t
+[Before] Cookie-Name 5: _shopify_y
+[Before] Cookie-Name 6: _s
+[Before] Cookie-Name 7: _landing_page
+[Before] Cookie-Name 8: _shopify_s
+[Before] Cookie-Name 9: _y
+[Before] Cookie-Name 10: secure_customer_sig
+[Before] Cookie-Name 11: localization
+[Before] Cookie-Name 12: cart_currency
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 12
+[After] Website-Cookies: [{'domain': 'deluxio.de', 'expiry': 1707595022, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ1MjMwMjIsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vZGVsdXhpby5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQ1MjMwMjIsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vZGVsdXhpby5kZS8ifX0='}, {'domain': '.deluxio.de', 'expiry': 1645732621, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.deluxio.de', 'expiry': 1644524821, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.deluxio.de', 'expiry': 1644524821, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T19%3A57%3A01.484Z'}, {'domain': '.deluxio.de', 'expiry': 1676059022, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '349f91db-67a2-414c-a9bb-12259c2a8b0c'}, {'domain': '.deluxio.de', 'expiry': 1644524822, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd7d07d30-57c5-4d9d-b36c-3e40a7db1dfe'}, {'domain': '.deluxio.de', 'expiry': 1645732621, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.deluxio.de', 'expiry': 1644524822, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd7d07d30-57c5-4d9d-b36c-3e40a7db1dfe'}, {'domain': '.deluxio.de', 'expiry': 1676059022, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '349f91db-67a2-414c-a9bb-12259c2a8b0c'}, {'domain': 'deluxio.de', 'expiry': 1676059022, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'deluxio.de', 'expiry': 1645732622, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'deluxio.de', 'expiry': 1645732622, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}]
+[After] Cookie-Name 1: __kla_id
+[After] Cookie-Name 2: _orig_referrer
+[After] Cookie-Name 3: _shopify_sa_p
+[After] Cookie-Name 4: _shopify_sa_t
+[After] Cookie-Name 5: _shopify_y
+[After] Cookie-Name 6: _s
+[After] Cookie-Name 7: _landing_page
+[After] Cookie-Name 8: _shopify_s
+[After] Cookie-Name 9: _y
+[After] Cookie-Name 10: secure_customer_sig
+[After] Cookie-Name 11: localization
+[After] Cookie-Name 12: cart_currency
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

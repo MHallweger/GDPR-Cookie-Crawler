@@ -1,0 +1,62 @@
+Website 356: http://www.numusi.de/ | Created: 09.02.2022 12:34:08 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 15
+[Before] Website-Cookies: [{'domain': 'numusi.de', 'expiry': 1644410040, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.numusi.de', 'expiry': 1644408240, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T11%3A34%3A00.266Z'}, {'domain': 'numusi.de', 'expiry': 1675942440, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.numusi.de', 'expiry': 1644492840, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1567283115.1644406440'}, {'domain': '.numusi.de', 'expiry': 1644408240, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd3308249-531f-4dcf-bbc8-2db1fd73c46b'}, {'domain': '.numusi.de', 'expiry': 1675942440, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '91d29bb3-00d4-485a-a74f-d866757e3ad1'}, {'domain': '.numusi.de', 'expiry': 1644408240, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd3308249-531f-4dcf-bbc8-2db1fd73c46b'}, {'domain': '.numusi.de', 'expiry': 1675942440, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '91d29bb3-00d4-485a-a74f-d866757e3ad1'}, {'domain': '.numusi.de', 'expiry': 1645616039, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.numusi.de', 'expiry': 1644406500, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.numusi.de', 'expiry': 1645616039, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.numusi.de', 'expiry': 1707478440, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1293567749.1644406440'}, {'domain': '.numusi.de', 'expiry': 1644408240, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'numusi.de', 'expiry': 1645616040, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'numusi.de', 'expiry': 1645616040, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[Before] Cookie-Name 1: shopify_pay_redirect
+[Before] Cookie-Name 2: _shopify_sa_t
+[Before] Cookie-Name 3: secure_customer_sig
+[Before] Cookie-Name 4: _gid
+[Before] Cookie-Name 5: _shopify_s
+[Before] Cookie-Name 6: _shopify_y
+[Before] Cookie-Name 7: _s
+[Before] Cookie-Name 8: _y
+[Before] Cookie-Name 9: _orig_referrer
+[Before] Cookie-Name 10: _gat
+[Before] Cookie-Name 11: _landing_page
+[Before] Cookie-Name 12: _ga
+[Before] Cookie-Name 13: _shopify_sa_p
+[Before] Cookie-Name 14: cart_currency
+[Before] Cookie-Name 15: localization
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 15
+[After] Website-Cookies: [{'domain': 'numusi.de', 'expiry': 1644410040, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.numusi.de', 'expiry': 1644408240, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T11%3A34%3A00.266Z'}, {'domain': 'numusi.de', 'expiry': 1675942440, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.numusi.de', 'expiry': 1644492840, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1567283115.1644406440'}, {'domain': '.numusi.de', 'expiry': 1644408240, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd3308249-531f-4dcf-bbc8-2db1fd73c46b'}, {'domain': '.numusi.de', 'expiry': 1675942440, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '91d29bb3-00d4-485a-a74f-d866757e3ad1'}, {'domain': '.numusi.de', 'expiry': 1644408240, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd3308249-531f-4dcf-bbc8-2db1fd73c46b'}, {'domain': '.numusi.de', 'expiry': 1675942440, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '91d29bb3-00d4-485a-a74f-d866757e3ad1'}, {'domain': '.numusi.de', 'expiry': 1645616039, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.numusi.de', 'expiry': 1644406500, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.numusi.de', 'expiry': 1645616039, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.numusi.de', 'expiry': 1707478440, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1293567749.1644406440'}, {'domain': '.numusi.de', 'expiry': 1644408240, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'numusi.de', 'expiry': 1645616040, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'numusi.de', 'expiry': 1645616040, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: shopify_pay_redirect
+[After] Cookie-Name 2: _shopify_sa_t
+[After] Cookie-Name 3: secure_customer_sig
+[After] Cookie-Name 4: _gid
+[After] Cookie-Name 5: _shopify_s
+[After] Cookie-Name 6: _shopify_y
+[After] Cookie-Name 7: _s
+[After] Cookie-Name 8: _y
+[After] Cookie-Name 9: _orig_referrer
+[After] Cookie-Name 10: _gat
+[After] Cookie-Name 11: _landing_page
+[After] Cookie-Name 12: _ga
+[After] Cookie-Name 13: _shopify_sa_p
+[After] Cookie-Name 14: cart_currency
+[After] Cookie-Name 15: localization
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

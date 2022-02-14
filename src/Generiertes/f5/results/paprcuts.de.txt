@@ -1,0 +1,91 @@
+Website 180: http://www.paprcuts.de/ | Created: 09.02.2022 20:30:14 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 24
+[Before] Website-Cookies: [{'domain': 'www.paprcuts.de', 'httpOnly': False, 'name': 'epb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.paprcuts.de', 'expiry': 1647027013, 'httpOnly': False, 'name': 'prism_611637826', 'path': '/', 'secure': False, 'value': '23969ec8-a715-4167-a6f4-463f6efec47b'}, {'domain': '.paprcuts.de', 'expiry': 1675971013, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e283fd60-40be-4c1f-bfdc-9fb56171ac27'}, {'domain': '.paprcuts.de', 'expiry': 1675971002, 'httpOnly': False, 'name': 'rcuid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6204163a0c813e0001bbe969'}, {'domain': '.paprcuts.de', 'expiry': 1675971002, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU1XVmpNamN3WXpBdE1HRm1ZUzAwTkdVMUxXRTNaVGd0T1dKak9UaGpaamswT0RaaA'}, {'domain': '.paprcuts.de', 'expiry': 1652211002, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.2001476374.1644435002'}, {'domain': 'www.paprcuts.de', 'httpOnly': False, 'name': 'fsb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.paprcuts.de', 'expiry': 1644435061, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.paprcuts.de', 'expiry': 1644438612, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.paprcuts.de', 'expiry': 1644521401, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1949188352.1644435002'}, {'domain': '.paprcuts.de', 'expiry': 1675971002, 'httpOnly': False, 'name': 'rrpvid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '882306594037022'}, {'domain': 'www.paprcuts.de', 'expiry': 1675971012, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.paprcuts.de', 'expiry': 1644436813, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '80893a70-60a1-4ce6-840b-f962d1765a21'}, {'domain': '.paprcuts.de', 'expiry': 1707507001, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.429769783.1644435002'}, {'domain': '.paprcuts.de', 'expiry': 1675971013, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e283fd60-40be-4c1f-bfdc-9fb56171ac27'}, {'domain': '.paprcuts.de', 'expiry': 1644436813, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '80893a70-60a1-4ce6-840b-f962d1765a21'}, {'domain': '.paprcuts.de', 'expiry': 1652211002, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644435002087.504586914'}, {'domain': '.paprcuts.de', 'expiry': 1644436801, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.paprcuts.de', 'expiry': 1645644600, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.paprcuts.de', 'expiry': 1644436801, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A30%3A01.871Z'}, {'domain': '.paprcuts.de', 'expiry': 1675971004, 'httpOnly': False, 'name': '__zlcmid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '18Skh7RRUhQrq81'}, {'domain': 'www.paprcuts.de', 'expiry': 1645644612, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.paprcuts.de', 'expiry': 1645644600, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.paprcuts.de', 'expiry': 1645644612, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[Before] Cookie-Name 1: epb_previous_pathname
+[Before] Cookie-Name 2: prism_611637826
+[Before] Cookie-Name 3: _y
+[Before] Cookie-Name 4: rcuid
+[Before] Cookie-Name 5: _pin_unauth
+[Before] Cookie-Name 6: _gcl_au
+[Before] Cookie-Name 7: fsb_previous_pathname
+[Before] Cookie-Name 8: _gat
+[Before] Cookie-Name 9: shopify_pay_redirect
+[Before] Cookie-Name 10: _gid
+[Before] Cookie-Name 11: rrpvid
+[Before] Cookie-Name 12: secure_customer_sig
+[Before] Cookie-Name 13: _shopify_s
+[Before] Cookie-Name 14: _ga
+[Before] Cookie-Name 15: _shopify_y
+[Before] Cookie-Name 16: _s
+[Before] Cookie-Name 17: _fbp
+[Before] Cookie-Name 18: _shopify_sa_p
+[Before] Cookie-Name 19: _landing_page
+[Before] Cookie-Name 20: _shopify_sa_t
+[Before] Cookie-Name 21: __zlcmid
+[Before] Cookie-Name 22: cart_currency
+[Before] Cookie-Name 23: _orig_referrer
+[Before] Cookie-Name 24: localization
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 27
+[After] Website-Cookies: [{'domain': '.paprcuts.de', 'expiry': 1644521422, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': 'dvx9xq|1644435022093|1|1|d.clarity.ms/collect'}, {'domain': '.paprcuts.de', 'expiry': 1675971021, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': '1ujqr3j|1|eyu|0'}, {'domain': '.paprcuts.de', 'expiry': 1678131021, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': 'b85ac35089de11ecb927c99e2050a5ec'}, {'domain': '.paprcuts.de', 'expiry': 1644521421, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': 'b85ab58089de11ecb7263393b8f013fb'}, {'domain': '.paprcuts.de', 'expiry': 1675971013, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e283fd60-40be-4c1f-bfdc-9fb56171ac27'}, {'domain': '.paprcuts.de', 'expiry': 1647027013, 'httpOnly': False, 'name': 'prism_611637826', 'path': '/', 'secure': False, 'value': '23969ec8-a715-4167-a6f4-463f6efec47b'}, {'domain': '.paprcuts.de', 'expiry': 1675971002, 'httpOnly': False, 'name': 'rcuid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6204163a0c813e0001bbe969'}, {'domain': '.paprcuts.de', 'expiry': 1675971002, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU1XVmpNamN3WXpBdE1HRm1ZUzAwTkdVMUxXRTNaVGd0T1dKak9UaGpaamswT0RaaA'}, {'domain': 'www.paprcuts.de', 'expiry': 1675971021, 'httpOnly': False, 'name': 'CookieConsent', 'path': '/', 'secure': True, 'value': '{stamp:%27WUJsfX5macAh4Whv4sh4L9ZYbOz/Dqz0JZace1P4mxlArrjZD2vLEw==%27%2Cnecessary:true%2Cpreferences:true%2Cstatistics:true%2Cmarketing:true%2Cver:1%2Cutc:1644435021159%2Cregion:%27de%27}'}, {'domain': '.paprcuts.de', 'expiry': 1652211002, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.2001476374.1644435002'}, {'domain': 'www.paprcuts.de', 'httpOnly': False, 'name': 'fsb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.paprcuts.de', 'expiry': 1644435061, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.paprcuts.de', 'expiry': 1644438612, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.paprcuts.de', 'expiry': 1644521401, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1949188352.1644435002'}, {'domain': 'www.paprcuts.de', 'expiry': 1675971012, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.paprcuts.de', 'expiry': 1644436813, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '80893a70-60a1-4ce6-840b-f962d1765a21'}, {'domain': '.paprcuts.de', 'expiry': 1707507001, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.429769783.1644435002'}, {'domain': '.paprcuts.de', 'expiry': 1675971013, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e283fd60-40be-4c1f-bfdc-9fb56171ac27'}, {'domain': '.paprcuts.de', 'expiry': 1644436813, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '80893a70-60a1-4ce6-840b-f962d1765a21'}, {'domain': '.paprcuts.de', 'expiry': 1652211020, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644435002087.504586914'}, {'domain': '.paprcuts.de', 'expiry': 1644436801, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.paprcuts.de', 'expiry': 1645644600, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.paprcuts.de', 'expiry': 1644436801, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A30%3A01.871Z'}, {'domain': '.paprcuts.de', 'expiry': 1675971004, 'httpOnly': False, 'name': '__zlcmid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '18Skh7RRUhQrq81'}, {'domain': 'www.paprcuts.de', 'expiry': 1645644612, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.paprcuts.de', 'expiry': 1645644600, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.paprcuts.de', 'expiry': 1645644612, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[After] Cookie-Name 1: _clsk
+[After] Cookie-Name 2: _clck
+[After] Cookie-Name 3: _uetvid
+[After] Cookie-Name 4: _uetsid
+[After] Cookie-Name 5: _y
+[After] Cookie-Name 6: prism_611637826
+[After] Cookie-Name 7: rcuid
+[After] Cookie-Name 8: _pin_unauth
+[After] Cookie-Name 9: CookieConsent
+[After] Cookie-Name 10: _gcl_au
+[After] Cookie-Name 11: fsb_previous_pathname
+[After] Cookie-Name 12: _gat
+[After] Cookie-Name 13: shopify_pay_redirect
+[After] Cookie-Name 14: _gid
+[After] Cookie-Name 15: secure_customer_sig
+[After] Cookie-Name 16: _shopify_s
+[After] Cookie-Name 17: _ga
+[After] Cookie-Name 18: _shopify_y
+[After] Cookie-Name 19: _s
+[After] Cookie-Name 20: _fbp
+[After] Cookie-Name 21: _shopify_sa_p
+[After] Cookie-Name 22: _landing_page
+[After] Cookie-Name 23: _shopify_sa_t
+[After] Cookie-Name 24: __zlcmid
+[After] Cookie-Name 25: cart_currency
+[After] Cookie-Name 26: _orig_referrer
+[After] Cookie-Name 27: localization
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 7
+[Difference] Cookie-Name: 1: _uetvid
+[Difference] Cookie-Name: 2: _clck
+[Difference] Cookie-Name: 3: CookieConsent
+[Difference] Cookie-Name: 4: _uetsid
+[Difference] Cookie-Name: 5: epb_previous_pathname
+[Difference] Cookie-Name: 6: _clsk
+[Difference] Cookie-Name: 7: rrpvid
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

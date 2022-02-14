@@ -1,0 +1,92 @@
+Website 208: http://www.engelsinn.de/ | Created: 09.02.2022 14:44:37 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 28
+[Before] Website-Cookies: [{'domain': '.engelsinn.de', 'expiry': 1707486271, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.1.1409386198.1644414268'}, {'domain': 'engelsinn.de', 'httpOnly': False, 'name': 'tms_previous_pathname', 'path': '/', 'secure': False, 'value': '/de'}, {'domain': 'engelsinn.de', 'expiry': 1707486271, 'httpOnly': False, 'name': '_ama', 'path': '/', 'secure': False, 'value': '1409386198.1644414268'}, {'domain': '.engelsinn.de', 'expiry': 1678600966, 'httpOnly': False, 'name': '_scid', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '319d8af8-22d3-43cc-938b-f39abaf5cef4'}, {'domain': 'engelsinn.de', 'expiry': 1645623868, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '798a7eeecf553e573b35cabc4041c81c'}, {'domain': '.engelsinn.de', 'expiry': 1652190270, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644414268072.1722912822'}, {'domain': 'engelsinn.de', 'expiry': 1645623868, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '03663d91da43336d3190fed2095e018f'}, {'domain': '.engelsinn.de', 'expiry': 1675950270, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVptTTFOVEprWVRRdE1qSXdaQzAwTXpNNUxUbGxNemd0TVRNME9UZzRaalk0TkRRMA'}, {'domain': 'engelsinn.de', 'expiry': 1645623871, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'engelsinn.de', 'expiry': 1675950271, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.engelsinn.de', 'expiry': 1652190267, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1549154129.1644414268'}, {'domain': '.engelsinn.de', 'expiry': 1707486271, 'httpOnly': False, 'name': '_ga_S8VXCC5E20', 'path': '/', 'secure': False, 'value': 'GS1.1.555ea408-aee5-4b63-917a-febd8aa7230a.1.0.1644414271.0'}, {'domain': 'engelsinn.de', 'expiry': 1644417867, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.engelsinn.de', 'expiry': 1644416070, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'engelsinn.de', 'expiry': 1645623871, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'engelsinn.de', 'expiry': 1644500670, 'httpOnly': False, 'name': 'tms_default_locale', 'path': '/', 'secure': False, 'value': 'de'}, {'domain': '.engelsinn.de', 'expiry': 1644416071, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2479bc0c-7d84-4345-b18b-f031320436cd'}, {'domain': '.engelsinn.de', 'expiry': 1644414327, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.engelsinn.de', 'expiry': 1644500670, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1320564911.1644414268'}, {'domain': '.engelsinn.de', 'expiry': 1644416071, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2479bc0c-7d84-4345-b18b-f031320436cd'}, {'domain': '.engelsinn.de', 'expiry': 1675950271, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ef74ddce-311c-4ee3-846a-f993ab42a1f9'}, {'domain': '.engelsinn.de', 'expiry': 1644416070, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A44%3A30.121Z'}, {'domain': '.engelsinn.de', 'expiry': 1645623867, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'engelsinn.de', 'expiry': 1645623869, 'httpOnly': False, 'name': 'localization', 'path': '/de', 'secure': False, 'value': 'DE'}, {'domain': '.engelsinn.de', 'expiry': 1675950271, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ef74ddce-311c-4ee3-846a-f993ab42a1f9'}, {'domain': 'engelsinn.de', 'expiry': 1645623868, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644414268'}, {'domain': '.engelsinn.de', 'expiry': 1645623867, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'engelsinn.de', 'expiry': 1645623868, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A2'}]
+[Before] Cookie-Name 1: _ga
+[Before] Cookie-Name 2: tms_previous_pathname
+[Before] Cookie-Name 3: _ama
+[Before] Cookie-Name 4: _scid
+[Before] Cookie-Name 5: cart_sig
+[Before] Cookie-Name 6: _fbp
+[Before] Cookie-Name 7: cart
+[Before] Cookie-Name 8: _pin_unauth
+[Before] Cookie-Name 9: localization
+[Before] Cookie-Name 10: secure_customer_sig
+[Before] Cookie-Name 11: _gcl_au
+[Before] Cookie-Name 12: _ga_S8VXCC5E20
+[Before] Cookie-Name 13: shopify_pay_redirect
+[Before] Cookie-Name 14: _shopify_sa_p
+[Before] Cookie-Name 15: cart_currency
+[Before] Cookie-Name 16: tms_default_locale
+[Before] Cookie-Name 17: _shopify_s
+[Before] Cookie-Name 18: _gat
+[Before] Cookie-Name 19: _gid
+[Before] Cookie-Name 20: _s
+[Before] Cookie-Name 21: _y
+[Before] Cookie-Name 22: _shopify_sa_t
+[Before] Cookie-Name 23: _orig_referrer
+[Before] Cookie-Name 24: localization
+[Before] Cookie-Name 25: _shopify_y
+[Before] Cookie-Name 26: cart_ts
+[Before] Cookie-Name 27: _landing_page
+[Before] Cookie-Name 28: cart_ver
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 30
+[After] Website-Cookies: [{'domain': 'engelsinn.de', 'expiry': 1675950282, 'httpOnly': False, 'name': '_3f0b_cookie_consent_ts', 'path': '/', 'secure': False, 'value': '1644414282'}, {'domain': '.engelsinn.de', 'expiry': 1707486271, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.1.1409386198.1644414268'}, {'domain': 'engelsinn.de', 'httpOnly': False, 'name': 'tms_previous_pathname', 'path': '/', 'secure': False, 'value': '/de'}, {'domain': 'engelsinn.de', 'expiry': 1707486271, 'httpOnly': False, 'name': '_ama', 'path': '/', 'secure': False, 'value': '1409386198.1644414268'}, {'domain': '.engelsinn.de', 'expiry': 1678600966, 'httpOnly': False, 'name': '_scid', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '319d8af8-22d3-43cc-938b-f39abaf5cef4'}, {'domain': 'engelsinn.de', 'expiry': 1675950282, 'httpOnly': False, 'name': '_3f0b_cookie_consent', 'path': '/', 'secure': False, 'value': 'dismiss'}, {'domain': 'engelsinn.de', 'expiry': 1645623868, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '798a7eeecf553e573b35cabc4041c81c'}, {'domain': '.engelsinn.de', 'expiry': 1652190282, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644414268072.1722912822'}, {'domain': 'engelsinn.de', 'expiry': 1645623868, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '03663d91da43336d3190fed2095e018f'}, {'domain': '.engelsinn.de', 'expiry': 1675950270, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVptTTFOVEprWVRRdE1qSXdaQzAwTXpNNUxUbGxNemd0TVRNME9UZzRaalk0TkRRMA'}, {'domain': 'engelsinn.de', 'expiry': 1645623871, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'engelsinn.de', 'expiry': 1675950271, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.engelsinn.de', 'expiry': 1652190267, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1549154129.1644414268'}, {'domain': '.engelsinn.de', 'expiry': 1707486271, 'httpOnly': False, 'name': '_ga_S8VXCC5E20', 'path': '/', 'secure': False, 'value': 'GS1.1.555ea408-aee5-4b63-917a-febd8aa7230a.1.0.1644414271.0'}, {'domain': 'engelsinn.de', 'expiry': 1644417867, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.engelsinn.de', 'expiry': 1644416070, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'engelsinn.de', 'expiry': 1645623871, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'engelsinn.de', 'expiry': 1644500670, 'httpOnly': False, 'name': 'tms_default_locale', 'path': '/', 'secure': False, 'value': 'de'}, {'domain': '.engelsinn.de', 'expiry': 1644416071, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2479bc0c-7d84-4345-b18b-f031320436cd'}, {'domain': '.engelsinn.de', 'expiry': 1644414327, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.engelsinn.de', 'expiry': 1644500670, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1320564911.1644414268'}, {'domain': '.engelsinn.de', 'expiry': 1644416071, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2479bc0c-7d84-4345-b18b-f031320436cd'}, {'domain': '.engelsinn.de', 'expiry': 1675950271, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ef74ddce-311c-4ee3-846a-f993ab42a1f9'}, {'domain': '.engelsinn.de', 'expiry': 1644416070, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A44%3A30.121Z'}, {'domain': '.engelsinn.de', 'expiry': 1645623867, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'engelsinn.de', 'expiry': 1645623869, 'httpOnly': False, 'name': 'localization', 'path': '/de', 'secure': False, 'value': 'DE'}, {'domain': '.engelsinn.de', 'expiry': 1675950271, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ef74ddce-311c-4ee3-846a-f993ab42a1f9'}, {'domain': 'engelsinn.de', 'expiry': 1645623868, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644414268'}, {'domain': '.engelsinn.de', 'expiry': 1645623867, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'engelsinn.de', 'expiry': 1645623868, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A2'}]
+[After] Cookie-Name 1: _3f0b_cookie_consent_ts
+[After] Cookie-Name 2: _ga
+[After] Cookie-Name 3: tms_previous_pathname
+[After] Cookie-Name 4: _ama
+[After] Cookie-Name 5: _scid
+[After] Cookie-Name 6: _3f0b_cookie_consent
+[After] Cookie-Name 7: cart_sig
+[After] Cookie-Name 8: _fbp
+[After] Cookie-Name 9: cart
+[After] Cookie-Name 10: _pin_unauth
+[After] Cookie-Name 11: localization
+[After] Cookie-Name 12: secure_customer_sig
+[After] Cookie-Name 13: _gcl_au
+[After] Cookie-Name 14: _ga_S8VXCC5E20
+[After] Cookie-Name 15: shopify_pay_redirect
+[After] Cookie-Name 16: _shopify_sa_p
+[After] Cookie-Name 17: cart_currency
+[After] Cookie-Name 18: tms_default_locale
+[After] Cookie-Name 19: _shopify_s
+[After] Cookie-Name 20: _gat
+[After] Cookie-Name 21: _gid
+[After] Cookie-Name 22: _s
+[After] Cookie-Name 23: _y
+[After] Cookie-Name 24: _shopify_sa_t
+[After] Cookie-Name 25: _orig_referrer
+[After] Cookie-Name 26: localization
+[After] Cookie-Name 27: _shopify_y
+[After] Cookie-Name 28: cart_ts
+[After] Cookie-Name 29: _landing_page
+[After] Cookie-Name 30: cart_ver
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 2
+[Difference] Cookie-Name: 1: _3f0b_cookie_consent_ts
+[Difference] Cookie-Name: 2: _3f0b_cookie_consent
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

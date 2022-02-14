@@ -1,0 +1,63 @@
+Website 144: http://www.menthol24.de/ | Created: 10.02.2022 20:40:53 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 15
+[Before] Website-Cookies: [{'domain': 'menthol24.de', 'expiry': 1739130042, 'httpOnly': False, 'name': '_ruid', 'path': '/', 'secure': False, 'value': 'eyJ1dWlkIjoiOGJkYWY4ZTctM2UxYy00MTA2LTgyM2ItYzY5MzExZTc5MDNmIn0%3D'}, {'domain': '.menthol24.de', 'expiry': 1644523839, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.menthol24.de', 'expiry': 1644523839, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T19%3A40%3A39.833Z'}, {'domain': '.menthol24.de', 'expiry': 1644522099, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.menthol24.de', 'expiry': 1676058043, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b9556c61-9ca4-404f-bfef-483cd032cde7'}, {'domain': '.menthol24.de', 'expiry': 1707594039, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1371408899.1644522040'}, {'domain': 'menthol24.de', 'expiry': 1644523842, 'httpOnly': False, 'name': '_rsession', 'path': '/', 'secure': False, 'value': 'ca190176a13bfa48'}, {'domain': '.menthol24.de', 'expiry': 1644608439, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.560939973.1644522040'}, {'domain': '.menthol24.de', 'expiry': 1644523843, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'dc793dcd-db73-4e41-920d-d5a45c75fb83'}, {'domain': '.menthol24.de', 'expiry': 1652298039, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1333655828.1644522040'}, {'domain': '.menthol24.de', 'expiry': 1645731639, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.menthol24.de', 'expiry': 1676058043, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b9556c61-9ca4-404f-bfef-483cd032cde7'}, {'domain': '.menthol24.de', 'expiry': 1644523843, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'dc793dcd-db73-4e41-920d-d5a45c75fb83'}, {'domain': '.menthol24.de', 'expiry': 1645731639, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'menthol24.de', 'expiry': 1676058043, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _ruid
+[Before] Cookie-Name 2: _shopify_sa_p
+[Before] Cookie-Name 3: _shopify_sa_t
+[Before] Cookie-Name 4: _gat
+[Before] Cookie-Name 5: _shopify_y
+[Before] Cookie-Name 6: _ga
+[Before] Cookie-Name 7: _rsession
+[Before] Cookie-Name 8: _gid
+[Before] Cookie-Name 9: _shopify_s
+[Before] Cookie-Name 10: _gcl_au
+[Before] Cookie-Name 11: _landing_page
+[Before] Cookie-Name 12: _y
+[Before] Cookie-Name 13: _s
+[Before] Cookie-Name 14: _orig_referrer
+[Before] Cookie-Name 15: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 15
+[After] Website-Cookies: [{'domain': 'menthol24.de', 'expiry': 1739130042, 'httpOnly': False, 'name': '_ruid', 'path': '/', 'secure': False, 'value': 'eyJ1dWlkIjoiOGJkYWY4ZTctM2UxYy00MTA2LTgyM2ItYzY5MzExZTc5MDNmIn0%3D'}, {'domain': '.menthol24.de', 'expiry': 1644523839, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.menthol24.de', 'expiry': 1644523839, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T19%3A40%3A39.833Z'}, {'domain': '.menthol24.de', 'expiry': 1644522099, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.menthol24.de', 'expiry': 1676058043, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b9556c61-9ca4-404f-bfef-483cd032cde7'}, {'domain': '.menthol24.de', 'expiry': 1707594039, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1371408899.1644522040'}, {'domain': 'menthol24.de', 'expiry': 1644523842, 'httpOnly': False, 'name': '_rsession', 'path': '/', 'secure': False, 'value': 'ca190176a13bfa48'}, {'domain': '.menthol24.de', 'expiry': 1644608439, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.560939973.1644522040'}, {'domain': '.menthol24.de', 'expiry': 1644523843, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'dc793dcd-db73-4e41-920d-d5a45c75fb83'}, {'domain': '.menthol24.de', 'expiry': 1652298039, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1333655828.1644522040'}, {'domain': '.menthol24.de', 'expiry': 1645731639, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.menthol24.de', 'expiry': 1676058043, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b9556c61-9ca4-404f-bfef-483cd032cde7'}, {'domain': '.menthol24.de', 'expiry': 1644523843, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'dc793dcd-db73-4e41-920d-d5a45c75fb83'}, {'domain': '.menthol24.de', 'expiry': 1645731639, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'menthol24.de', 'expiry': 1676058043, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _ruid
+[After] Cookie-Name 2: _shopify_sa_p
+[After] Cookie-Name 3: _shopify_sa_t
+[After] Cookie-Name 4: _gat
+[After] Cookie-Name 5: _shopify_y
+[After] Cookie-Name 6: _ga
+[After] Cookie-Name 7: _rsession
+[After] Cookie-Name 8: _gid
+[After] Cookie-Name 9: _shopify_s
+[After] Cookie-Name 10: _gcl_au
+[After] Cookie-Name 11: _landing_page
+[After] Cookie-Name 12: _y
+[After] Cookie-Name 13: _s
+[After] Cookie-Name 14: _orig_referrer
+[After] Cookie-Name 15: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

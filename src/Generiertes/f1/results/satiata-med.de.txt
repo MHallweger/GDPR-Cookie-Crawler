@@ -1,0 +1,97 @@
+Website 355: http://www.satiata-med.de/ | Created: 08.02.2022 23:27:26 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 8
+[Before] Website-Cookies: [{'domain': 'satiata-med.de', 'expiry': 1645568837, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644359237'}, {'domain': '.satiata-med.de', 'expiry': 1645568835, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'satiata-med.de', 'expiry': 1645568837, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': 'satiata-med.de', 'expiry': 1645568837, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '337f1201aac6541b18306de03e61a0fc'}, {'domain': 'satiata-med.de', 'expiry': 1675895245, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'satiata-med.de', 'expiry': 1645568837, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '479d480038ba591e5466ab1905dd69d3'}, {'domain': '.satiata-med.de', 'expiry': 1645568835, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'satiata-med.de', 'expiry': 1645568845, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}]
+[Before] Cookie-Name 1: cart_ts
+[Before] Cookie-Name 2: _landing_page
+[Before] Cookie-Name 3: cart_ver
+[Before] Cookie-Name 4: cart_sig
+[Before] Cookie-Name 5: secure_customer_sig
+[Before] Cookie-Name 6: cart
+[Before] Cookie-Name 7: _orig_referrer
+[Before] Cookie-Name 8: cart_currency
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 35
+[After] Website-Cookies: [{'domain': '.satiata-med.de', 'expiry': 1644359312, 'httpOnly': False, 'name': '_gat_gtag_UA_166085346_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.satiata-med.de', 'expiry': 1652135252, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644359252092.1479314338'}, {'domain': '.satiata-med.de', 'expiry': 1644359311, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.satiata-med.de', 'expiry': 1644445652, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.475225520.1644359252'}, {'domain': 'satiata-med.de', 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1.1.622663893.1644359235'}, {'domain': 'satiata-med.de', 'httpOnly': False, 'name': '_hjSessionUser_1923466', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImQ2MzFhNzJjLWY4YzctNTA1My1hMmNiLTUxZGNmOTE3NTMzYiIsImNyZWF0ZWQiOjE2NDQzNTkyMzU1NTIsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': 'satiata-med.de', 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'satiata-med.de', 'httpOnly': False, 'name': '_hjSession_1923466', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImQ5MTQ3MDgwLWFlYzAtNGM0OC05ZjBhLWE3ZjM1OTQwZDYxMCIsImNyZWF0ZWQiOjE2NDQzNTkyMzU2MDMsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': 'satiata-med.de', 'expiry': 1644445652, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': '44b870e0892e11ec9fd609a338bfebb5'}, {'domain': 'satiata-med.de', 'httpOnly': False, 'name': 'cto_bundle', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '_tM8DF9BNWl1SGNucWxjUUhSOGs2akt4cTh2dlV3TmRCM25RMSUyQmtSbnpxYlJlSjklMkZTNSUyRm1XSWtxR0xwdGpPSkdjcG9mV0FiOEx5c0EwZVBmM3FJRXB2eWlIMmo0RjhpN3Y4eGVFMWE2RHBhMHVJRG5JaHRmYjd5bVpQT0VDbHRSZW11YnhTOEE2JTJGUzJEV2Z3MVhCJTJGJTJCdXllYWclM0QlM0Q'}, {'domain': 'satiata-med.de', 'httpOnly': False, 'name': 'outbrain_cid_fetch', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'true'}, {'domain': 'satiata-med.de', 'expiry': 1644361051, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '48b8f699-97e3-4f57-ad35-a0c460531ed2'}, {'domain': 'satiata-med.de', 'expiry': 1646951251, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0MzU5MjUxODk0LCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjowfX0='}, {'domain': 'satiata-med.de', 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQzNTkyMzcsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vc2F0aWF0YS1tZWQuZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0MzU5MjM3LCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL3NhdGlhdGEtbWVkLmRlLyJ9fQ=='}, {'domain': 'satiata-med.de', 'expiry': 1644361051, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T22%3A27%3A16.772Z'}, {'domain': '.satiata-med.de', 'expiry': 1707431252, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1639957857.1644359252'}, {'domain': 'satiata-med.de', 'expiry': 1645568845, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'satiata-med.de', 'expiry': 1644361051, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '48b8f699-97e3-4f57-ad35-a0c460531ed2'}, {'domain': 'satiata-med.de', 'httpOnly': False, 'name': 'bc_tgm_aw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'satiata-med.de', 'expiry': 1675895251, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd8248e22-2fe2-4515-b619-f1566723d9a5'}, {'domain': 'satiata-med.de', 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'satiata-med.de', 'expiry': 1675895251, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd8248e22-2fe2-4515-b619-f1566723d9a5'}, {'domain': 'satiata-med.de', 'expiry': 1645568837, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644359237'}, {'domain': '.satiata-med.de', 'expiry': 1645568835, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'satiata-med.de', 'httpOnly': False, 'name': 'bc_tgm_ua', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'satiata-med.de', 'httpOnly': False, 'name': 'bc_tgm_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'satiata-med.de', 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'satiata-med.de', 'httpOnly': False, 'name': '_clsk', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bv1a5a|1644359236942|1|1|b.clarity.ms/collect'}, {'domain': 'satiata-med.de', 'expiry': 1645568837, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '479d480038ba591e5466ab1905dd69d3'}, {'domain': 'satiata-med.de', 'expiry': 1678055252, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '44b895d0892e11ec9db3372c451e0578'}, {'domain': 'satiata-med.de', 'expiry': 1645568837, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': 'satiata-med.de', 'expiry': 1645568837, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '337f1201aac6541b18306de03e61a0fc'}, {'domain': 'satiata-med.de', 'httpOnly': False, 'name': '_clck', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '16vlsfa|1|eyt|0'}, {'domain': 'satiata-med.de', 'expiry': 1675895245, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.satiata-med.de', 'expiry': 1645568835, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: _gat_gtag_UA_166085346_1
+[After] Cookie-Name 2: _fbp
+[After] Cookie-Name 3: _gat
+[After] Cookie-Name 4: _gid
+[After] Cookie-Name 5: _gcl_au
+[After] Cookie-Name 6: _hjSessionUser_1923466
+[After] Cookie-Name 7: _hjFirstSeen
+[After] Cookie-Name 8: _hjSession_1923466
+[After] Cookie-Name 9: _uetsid
+[After] Cookie-Name 10: cto_bundle
+[After] Cookie-Name 11: outbrain_cid_fetch
+[After] Cookie-Name 12: _shopify_s
+[After] Cookie-Name 13: _bc_c_set
+[After] Cookie-Name 14: __kla_id
+[After] Cookie-Name 15: _shopify_sa_t
+[After] Cookie-Name 16: _ga
+[After] Cookie-Name 17: cart_currency
+[After] Cookie-Name 18: _s
+[After] Cookie-Name 19: bc_tgm_aw
+[After] Cookie-Name 20: _y
+[After] Cookie-Name 21: localization
+[After] Cookie-Name 22: _shopify_y
+[After] Cookie-Name 23: cart_ts
+[After] Cookie-Name 24: _landing_page
+[After] Cookie-Name 25: bc_tgm_ua
+[After] Cookie-Name 26: bc_tgm_fbp
+[After] Cookie-Name 27: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 28: _clsk
+[After] Cookie-Name 29: cart
+[After] Cookie-Name 30: _uetvid
+[After] Cookie-Name 31: cart_ver
+[After] Cookie-Name 32: cart_sig
+[After] Cookie-Name 33: _clck
+[After] Cookie-Name 34: secure_customer_sig
+[After] Cookie-Name 35: _orig_referrer
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 27
+[Difference] Cookie-Name: 1: _gat_gtag_UA_166085346_1
+[Difference] Cookie-Name: 2: _shopify_y
+[Difference] Cookie-Name: 3: _gid
+[Difference] Cookie-Name: 4: _y
+[Difference] Cookie-Name: 5: cto_bundle
+[Difference] Cookie-Name: 6: __kla_id
+[Difference] Cookie-Name: 7: _hjFirstSeen
+[Difference] Cookie-Name: 8: _fbp
+[Difference] Cookie-Name: 9: bc_tgm_aw
+[Difference] Cookie-Name: 10: _hjSession_1923466
+[Difference] Cookie-Name: 11: _shopify_sa_t
+[Difference] Cookie-Name: 12: _clsk
+[Difference] Cookie-Name: 13: _gcl_au
+[Difference] Cookie-Name: 14: _shopify_s
+[Difference] Cookie-Name: 15: _uetvid
+[Difference] Cookie-Name: 16: _bc_c_set
+[Difference] Cookie-Name: 17: _hjSessionUser_1923466
+[Difference] Cookie-Name: 18: _ga
+[Difference] Cookie-Name: 19: bc_tgm_ua
+[Difference] Cookie-Name: 20: _uetsid
+[Difference] Cookie-Name: 21: _clck
+[Difference] Cookie-Name: 22: _s
+[Difference] Cookie-Name: 23: outbrain_cid_fetch
+[Difference] Cookie-Name: 24: localization
+[Difference] Cookie-Name: 25: _hjAbsoluteSessionInProgress
+[Difference] Cookie-Name: 26: bc_tgm_fbp
+[Difference] Cookie-Name: 27: _gat
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

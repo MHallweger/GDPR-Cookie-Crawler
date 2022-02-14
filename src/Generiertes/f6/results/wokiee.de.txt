@@ -1,0 +1,96 @@
+Website 174: http://www.wokiee.de/ | Created: 10.02.2022 13:03:56 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 30
+[Before] Website-Cookies: [{'domain': 'www.wokiee.de', 'expiry': 1645704227, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644494626'}, {'domain': 'www.wokiee.de', 'expiry': 1645704227, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '885b9001a0626dd362a858f6818dbca3'}, {'domain': 'www.wokiee.de', 'httpOnly': False, 'name': 'receiptful-session', 'path': '/', 'secure': False, 'value': 'f07f685a-0e3b-41cb-9204-ae5047897ebe'}, {'domain': '.wokiee.de', 'expiry': 1652270627, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1602590697.1644494627'}, {'domain': 'www.wokiee.de', 'expiry': 1644498226, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'www.wokiee.de', 'expiry': 1645704227, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f5b4f70c09e0e43b880121747eb9699e'}, {'domain': '.wokiee.de', 'expiry': 1707566626, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1034384824.1644494627'}, {'domain': '.wokiee.de', 'expiry': 1644494686, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.wokiee.de', 'expiry': 1644496426, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T12%3A03%3A46.469Z'}, {'domain': '.wokiee.de', 'expiry': 1644496426, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.wokiee.de', 'expiry': 1644496437, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '605f9b58-011f-4ca9-bd7a-5bc18e1057ff'}, {'domain': 'www.wokiee.de', 'expiry': 1644496426, 'httpOnly': False, 'name': 'dynamic_checkout_shown_on_cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.wokiee.de', 'expiry': 1647086627, 'httpOnly': False, 'name': 'pinoculars_pageview_count', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.wokiee.de', 'expiry': 1645704226, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.wokiee.de', 'expiry': 1644581027, 'httpOnly': False, 'name': 'pinoculars_options', 'path': '/', 'secure': False, 'value': '{"pinId":"2612617929467","trackAddToCart":true,"trackCheckout":true,"trackSearch":true,"trackPageVisit":true,"trackScroll":true,"trackTime":true,"trackPageFrequency":true,"trackAll":true,"enhancedMatch":true}'}, {'domain': '.wokiee.de', 'expiry': 1676030637, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '804dd6fc-6f8b-41fd-9a25-7a880d55df0b'}, {'domain': 'www.wokiee.de', 'httpOnly': False, 'name': 'fsb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.wokiee.de', 'expiry': 1644581026, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1723765861.1644494627'}, {'domain': '.wokiee.de', 'expiry': 1676030637, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '804dd6fc-6f8b-41fd-9a25-7a880d55df0b'}, {'domain': '.wokiee.de', 'expiry': 1645704226, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.wokiee.de', 'expiry': 1678681325, 'httpOnly': False, 'name': '_scid', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'f2f3d1b7-ad76-434f-85af-4105d4492697'}, {'domain': 'www.wokiee.de', 'expiry': 1645704237, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.wokiee.de', 'expiry': 1644496437, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '605f9b58-011f-4ca9-bd7a-5bc18e1057ff'}, {'domain': 'www.wokiee.de', 'httpOnly': False, 'name': 'rmc_logged_in_at', 'path': '/', 'secure': False, 'value': 'null'}, {'domain': '.wokiee.de', 'expiry': 1676030626, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVpqUXdaRGd3Wm1RdFpqUTJOQzAwWmpkaUxXRXhaakF0Wmpkak5EZGtPVEEwWkRVdw'}, {'domain': 'www.wokiee.de', 'expiry': 1645704237, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.wokiee.de', 'expiry': 1645704227, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': 'www.wokiee.de', 'expiry': 1645790627, 'httpOnly': False, 'name': 'receiptful-token', 'path': '/', 'secure': False, 'value': 'e5ce06d9-c10b-4705-9257-2ec7c8725283'}, {'domain': '.wokiee.de', 'expiry': 1652270627, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644494626881.1327535420'}, {'domain': 'www.wokiee.de', 'expiry': 1676030637, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: cart_ts
+[Before] Cookie-Name 2: cart
+[Before] Cookie-Name 3: receiptful-session
+[Before] Cookie-Name 4: _gcl_au
+[Before] Cookie-Name 5: shopify_pay_redirect
+[Before] Cookie-Name 6: cart_sig
+[Before] Cookie-Name 7: _ga
+[Before] Cookie-Name 8: _gat
+[Before] Cookie-Name 9: _shopify_sa_t
+[Before] Cookie-Name 10: _shopify_sa_p
+[Before] Cookie-Name 11: _shopify_s
+[Before] Cookie-Name 12: dynamic_checkout_shown_on_cart
+[Before] Cookie-Name 13: pinoculars_pageview_count
+[Before] Cookie-Name 14: _orig_referrer
+[Before] Cookie-Name 15: pinoculars_options
+[Before] Cookie-Name 16: _shopify_y
+[Before] Cookie-Name 17: fsb_previous_pathname
+[Before] Cookie-Name 18: _gid
+[Before] Cookie-Name 19: _y
+[Before] Cookie-Name 20: _landing_page
+[Before] Cookie-Name 21: _scid
+[Before] Cookie-Name 22: cart_currency
+[Before] Cookie-Name 23: _s
+[Before] Cookie-Name 24: rmc_logged_in_at
+[Before] Cookie-Name 25: _pin_unauth
+[Before] Cookie-Name 26: localization
+[Before] Cookie-Name 27: cart_ver
+[Before] Cookie-Name 28: receiptful-token
+[Before] Cookie-Name 29: _fbp
+[Before] Cookie-Name 30: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 30
+[After] Website-Cookies: [{'domain': 'www.wokiee.de', 'expiry': 1645704227, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644494626'}, {'domain': 'www.wokiee.de', 'expiry': 1645704227, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '885b9001a0626dd362a858f6818dbca3'}, {'domain': 'www.wokiee.de', 'httpOnly': False, 'name': 'receiptful-session', 'path': '/', 'secure': False, 'value': 'f07f685a-0e3b-41cb-9204-ae5047897ebe'}, {'domain': '.wokiee.de', 'expiry': 1652270627, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1602590697.1644494627'}, {'domain': 'www.wokiee.de', 'expiry': 1644498226, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'www.wokiee.de', 'expiry': 1645704227, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f5b4f70c09e0e43b880121747eb9699e'}, {'domain': '.wokiee.de', 'expiry': 1707566626, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1034384824.1644494627'}, {'domain': '.wokiee.de', 'expiry': 1644494686, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.wokiee.de', 'expiry': 1644496426, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T12%3A03%3A46.469Z'}, {'domain': '.wokiee.de', 'expiry': 1644496426, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.wokiee.de', 'expiry': 1644496442, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '605f9b58-011f-4ca9-bd7a-5bc18e1057ff'}, {'domain': 'www.wokiee.de', 'expiry': 1644496426, 'httpOnly': False, 'name': 'dynamic_checkout_shown_on_cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.wokiee.de', 'expiry': 1647086627, 'httpOnly': False, 'name': 'pinoculars_pageview_count', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.wokiee.de', 'expiry': 1645704226, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.wokiee.de', 'expiry': 1644581027, 'httpOnly': False, 'name': 'pinoculars_options', 'path': '/', 'secure': False, 'value': '{"pinId":"2612617929467","trackAddToCart":true,"trackCheckout":true,"trackSearch":true,"trackPageVisit":true,"trackScroll":true,"trackTime":true,"trackPageFrequency":true,"trackAll":true,"enhancedMatch":true}'}, {'domain': '.wokiee.de', 'expiry': 1676030642, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '804dd6fc-6f8b-41fd-9a25-7a880d55df0b'}, {'domain': 'www.wokiee.de', 'httpOnly': False, 'name': 'fsb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.wokiee.de', 'expiry': 1644581026, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1723765861.1644494627'}, {'domain': '.wokiee.de', 'expiry': 1676030642, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '804dd6fc-6f8b-41fd-9a25-7a880d55df0b'}, {'domain': '.wokiee.de', 'expiry': 1645704226, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.wokiee.de', 'expiry': 1678681325, 'httpOnly': False, 'name': '_scid', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'f2f3d1b7-ad76-434f-85af-4105d4492697'}, {'domain': 'www.wokiee.de', 'expiry': 1645704242, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.wokiee.de', 'expiry': 1644496442, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '605f9b58-011f-4ca9-bd7a-5bc18e1057ff'}, {'domain': 'www.wokiee.de', 'httpOnly': False, 'name': 'rmc_logged_in_at', 'path': '/', 'secure': False, 'value': 'null'}, {'domain': '.wokiee.de', 'expiry': 1676030626, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVpqUXdaRGd3Wm1RdFpqUTJOQzAwWmpkaUxXRXhaakF0Wmpkak5EZGtPVEEwWkRVdw'}, {'domain': 'www.wokiee.de', 'expiry': 1645704242, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.wokiee.de', 'expiry': 1645704227, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': 'www.wokiee.de', 'expiry': 1645790627, 'httpOnly': False, 'name': 'receiptful-token', 'path': '/', 'secure': False, 'value': 'e5ce06d9-c10b-4705-9257-2ec7c8725283'}, {'domain': '.wokiee.de', 'expiry': 1652270627, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644494626881.1327535420'}, {'domain': 'www.wokiee.de', 'expiry': 1676030642, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: cart_ts
+[After] Cookie-Name 2: cart
+[After] Cookie-Name 3: receiptful-session
+[After] Cookie-Name 4: _gcl_au
+[After] Cookie-Name 5: shopify_pay_redirect
+[After] Cookie-Name 6: cart_sig
+[After] Cookie-Name 7: _ga
+[After] Cookie-Name 8: _gat
+[After] Cookie-Name 9: _shopify_sa_t
+[After] Cookie-Name 10: _shopify_sa_p
+[After] Cookie-Name 11: _shopify_s
+[After] Cookie-Name 12: dynamic_checkout_shown_on_cart
+[After] Cookie-Name 13: pinoculars_pageview_count
+[After] Cookie-Name 14: _orig_referrer
+[After] Cookie-Name 15: pinoculars_options
+[After] Cookie-Name 16: _shopify_y
+[After] Cookie-Name 17: fsb_previous_pathname
+[After] Cookie-Name 18: _gid
+[After] Cookie-Name 19: _y
+[After] Cookie-Name 20: _landing_page
+[After] Cookie-Name 21: _scid
+[After] Cookie-Name 22: cart_currency
+[After] Cookie-Name 23: _s
+[After] Cookie-Name 24: rmc_logged_in_at
+[After] Cookie-Name 25: _pin_unauth
+[After] Cookie-Name 26: localization
+[After] Cookie-Name 27: cart_ver
+[After] Cookie-Name 28: receiptful-token
+[After] Cookie-Name 29: _fbp
+[After] Cookie-Name 30: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

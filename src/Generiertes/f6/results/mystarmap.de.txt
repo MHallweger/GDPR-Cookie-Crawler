@@ -1,0 +1,89 @@
+Website 330: http://www.mystarmap.de/ | Created: 10.02.2022 13:50:11 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 26
+[Before] Website-Cookies: [{'domain': 'www.mystarmap.de', 'expiry': 1645707003, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A3'}, {'domain': 'www.mystarmap.de', 'expiry': 1645707003, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b95fe956c76dc6e775d880b0b1752ef7'}, {'domain': '.mystarmap.de', 'expiry': 1644499202, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.mystarmap.de', 'expiry': 1676033402, 'httpOnly': False, 'name': '_hjSessionUser_957339', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImNjOGQ4MjAyLWViN2QtNTY5MC1hNDkwLWUxMTU1ZGQxNWVlZiIsImNyZWF0ZWQiOjE2NDQ0OTc0MDI1NDAsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.mystarmap.de', 'expiry': 1644499202, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.mystarmap.de', 'expiry': 1644497522, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.mystarmap.de', 'expiry': 1644497522, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.mystarmap.de', 'expiry': 1707569402, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.430401191.1644497402'}, {'domain': '.mystarmap.de', 'expiry': 1644499202, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.mystarmap.de', 'expiry': 1644497462, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.mystarmap.de', 'expiry': 1645707003, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644497403'}, {'domain': 'www.mystarmap.de', 'expiry': 1644501002, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.mystarmap.de', 'expiry': 1645707001, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.mystarmap.de', 'expiry': 1652273403, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644497402829.1363767566'}, {'domain': '.mystarmap.de', 'expiry': 1676033403, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4bac5b38-54ff-43dd-85ee-200a1a0ad88b'}, {'domain': '.mystarmap.de', 'expiry': 1644499203, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ffc61554-1492-40c4-81d1-ad3465cbb07e'}, {'domain': '.mystarmap.de', 'expiry': 1644583802, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.853381255.1644497402'}, {'domain': 'www.mystarmap.de', 'expiry': 1645707003, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5ddab28bcec696b820836feb0979f3ee'}, {'domain': 'www.mystarmap.de', 'expiry': 1676033403, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.mystarmap.de', 'expiry': 1644499202, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T12%3A50%3A02.477Z'}, {'domain': '.mystarmap.de', 'expiry': 1676033403, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4bac5b38-54ff-43dd-85ee-200a1a0ad88b'}, {'domain': '.mystarmap.de', 'expiry': 1644499202, 'httpOnly': False, 'name': '_hjSession_957339', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImE0MGQ3ZjQ0LTJkNjctNDJlYy04MjU3LTYxODExOGM3ODNkYyIsImNyZWF0ZWQiOjE2NDQ0OTc0MDI1NzcsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': 'www.mystarmap.de', 'expiry': 1645707003, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'www.mystarmap.de', 'expiry': 1645707003, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.mystarmap.de', 'expiry': 1644499203, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ffc61554-1492-40c4-81d1-ad3465cbb07e'}, {'domain': '.mystarmap.de', 'expiry': 1645707001, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}]
+[Before] Cookie-Name 1: cart_ver
+[Before] Cookie-Name 2: cart_sig
+[Before] Cookie-Name 3: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 4: _hjSessionUser_957339
+[Before] Cookie-Name 5: _hjFirstSeen
+[Before] Cookie-Name 6: _hjIncludedInSessionSample
+[Before] Cookie-Name 7: _hjIncludedInPageviewSample
+[Before] Cookie-Name 8: _ga
+[Before] Cookie-Name 9: _shopify_sa_p
+[Before] Cookie-Name 10: _gat
+[Before] Cookie-Name 11: cart_ts
+[Before] Cookie-Name 12: shopify_pay_redirect
+[Before] Cookie-Name 13: _orig_referrer
+[Before] Cookie-Name 14: _fbp
+[Before] Cookie-Name 15: _shopify_y
+[Before] Cookie-Name 16: _s
+[Before] Cookie-Name 17: _gid
+[Before] Cookie-Name 18: cart
+[Before] Cookie-Name 19: secure_customer_sig
+[Before] Cookie-Name 20: _shopify_sa_t
+[Before] Cookie-Name 21: _y
+[Before] Cookie-Name 22: _hjSession_957339
+[Before] Cookie-Name 23: localization
+[Before] Cookie-Name 24: cart_currency
+[Before] Cookie-Name 25: _shopify_s
+[Before] Cookie-Name 26: _landing_page
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 26
+[After] Website-Cookies: [{'domain': 'www.mystarmap.de', 'expiry': 1645707003, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A3'}, {'domain': 'www.mystarmap.de', 'expiry': 1645707003, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b95fe956c76dc6e775d880b0b1752ef7'}, {'domain': '.mystarmap.de', 'expiry': 1644499202, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.mystarmap.de', 'expiry': 1676033402, 'httpOnly': False, 'name': '_hjSessionUser_957339', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImNjOGQ4MjAyLWViN2QtNTY5MC1hNDkwLWUxMTU1ZGQxNWVlZiIsImNyZWF0ZWQiOjE2NDQ0OTc0MDI1NDAsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.mystarmap.de', 'expiry': 1644499202, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.mystarmap.de', 'expiry': 1644497522, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.mystarmap.de', 'expiry': 1644497522, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.mystarmap.de', 'expiry': 1707569402, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.430401191.1644497402'}, {'domain': '.mystarmap.de', 'expiry': 1644499202, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.mystarmap.de', 'expiry': 1644497462, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.mystarmap.de', 'expiry': 1645707003, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644497403'}, {'domain': 'www.mystarmap.de', 'expiry': 1644501002, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.mystarmap.de', 'expiry': 1645707001, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.mystarmap.de', 'expiry': 1652273403, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644497402829.1363767566'}, {'domain': '.mystarmap.de', 'expiry': 1676033403, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4bac5b38-54ff-43dd-85ee-200a1a0ad88b'}, {'domain': '.mystarmap.de', 'expiry': 1644499203, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ffc61554-1492-40c4-81d1-ad3465cbb07e'}, {'domain': '.mystarmap.de', 'expiry': 1644583802, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.853381255.1644497402'}, {'domain': 'www.mystarmap.de', 'expiry': 1645707003, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5ddab28bcec696b820836feb0979f3ee'}, {'domain': 'www.mystarmap.de', 'expiry': 1676033403, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.mystarmap.de', 'expiry': 1644499202, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T12%3A50%3A02.477Z'}, {'domain': '.mystarmap.de', 'expiry': 1676033403, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4bac5b38-54ff-43dd-85ee-200a1a0ad88b'}, {'domain': '.mystarmap.de', 'expiry': 1644499202, 'httpOnly': False, 'name': '_hjSession_957339', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImE0MGQ3ZjQ0LTJkNjctNDJlYy04MjU3LTYxODExOGM3ODNkYyIsImNyZWF0ZWQiOjE2NDQ0OTc0MDI1NzcsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': 'www.mystarmap.de', 'expiry': 1645707003, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'www.mystarmap.de', 'expiry': 1645707003, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.mystarmap.de', 'expiry': 1644499203, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ffc61554-1492-40c4-81d1-ad3465cbb07e'}, {'domain': '.mystarmap.de', 'expiry': 1645707001, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}]
+[After] Cookie-Name 1: cart_ver
+[After] Cookie-Name 2: cart_sig
+[After] Cookie-Name 3: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 4: _hjSessionUser_957339
+[After] Cookie-Name 5: _hjFirstSeen
+[After] Cookie-Name 6: _hjIncludedInSessionSample
+[After] Cookie-Name 7: _hjIncludedInPageviewSample
+[After] Cookie-Name 8: _ga
+[After] Cookie-Name 9: _shopify_sa_p
+[After] Cookie-Name 10: _gat
+[After] Cookie-Name 11: cart_ts
+[After] Cookie-Name 12: shopify_pay_redirect
+[After] Cookie-Name 13: _orig_referrer
+[After] Cookie-Name 14: _fbp
+[After] Cookie-Name 15: _shopify_y
+[After] Cookie-Name 16: _s
+[After] Cookie-Name 17: _gid
+[After] Cookie-Name 18: cart
+[After] Cookie-Name 19: secure_customer_sig
+[After] Cookie-Name 20: _shopify_sa_t
+[After] Cookie-Name 21: _y
+[After] Cookie-Name 22: _hjSession_957339
+[After] Cookie-Name 23: localization
+[After] Cookie-Name 24: cart_currency
+[After] Cookie-Name 25: _shopify_s
+[After] Cookie-Name 26: _landing_page
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjIncludedInSessionSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjIncludedInPageviewSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gid (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

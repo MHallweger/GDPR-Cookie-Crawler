@@ -1,0 +1,73 @@
+Website 22: http://www.catmountain.de/ | Created: 10.02.2022 20:03:56 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 19
+[Before] Website-Cookies: [{'domain': '.catmountain.de', 'expiry': 1644969600, 'httpOnly': False, 'name': 'ps5ee8884612a4c161fb909615', 'path': '/', 'secure': False, 'value': 'false|1642291200000'}, {'domain': '.catmountain.de', 'expiry': 1652295827, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644519827121.1860873432'}, {'domain': '.catmountain.de', 'expiry': 1644519887, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.catmountain.de', 'expiry': 1644606227, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.2051367111.1644519827'}, {'domain': '.catmountain.de', 'expiry': 1644521626, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.catmountain.de', 'expiry': 1644519887, 'httpOnly': False, 'name': '_gat_UA-122318196-2', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.catmountain.de', 'expiry': 1707591827, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.231501367.1644519827'}, {'domain': '.catmountain.de', 'expiry': 1676055828, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c180243f-e227-43ce-a567-96c477d8d819'}, {'domain': '.catmountain.de', 'expiry': 1644521626, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T19%3A03%3A46.927Z'}, {'domain': '.catmountain.de', 'expiry': 1644521628, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4a8a4d25-d8ee-4a2a-886d-4c8cec6d1fd6'}, {'domain': '.catmountain.de', 'expiry': 1645729426, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.catmountain.de', 'expiry': 1645729425, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.catmountain.de', 'expiry': 1644521628, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4a8a4d25-d8ee-4a2a-886d-4c8cec6d1fd6'}, {'domain': '.catmountain.de', 'expiry': 1893456000, 'httpOnly': False, 'name': 'psuid', 'path': '/', 'secure': False, 'value': 'be3372ec-c8d7-4234-8d4a-7536a22d5f22'}, {'domain': '.catmountain.de', 'expiry': 1645729426, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.catmountain.de', 'expiry': 1645729428, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.catmountain.de', 'expiry': 1652295827, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1958182519.1644519827'}, {'domain': '.catmountain.de', 'expiry': 1676055828, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c180243f-e227-43ce-a567-96c477d8d819'}, {'domain': 'www.catmountain.de', 'expiry': 1676055828, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: ps5ee8884612a4c161fb909615
+[Before] Cookie-Name 2: _fbp
+[Before] Cookie-Name 3: _gat
+[Before] Cookie-Name 4: _gid
+[Before] Cookie-Name 5: _shopify_sa_p
+[Before] Cookie-Name 6: _gat_UA-122318196-2
+[Before] Cookie-Name 7: _ga
+[Before] Cookie-Name 8: _y
+[Before] Cookie-Name 9: _shopify_sa_t
+[Before] Cookie-Name 10: _shopify_s
+[Before] Cookie-Name 11: _landing_page
+[Before] Cookie-Name 12: cart_currency
+[Before] Cookie-Name 13: _s
+[Before] Cookie-Name 14: psuid
+[Before] Cookie-Name 15: _orig_referrer
+[Before] Cookie-Name 16: localization
+[Before] Cookie-Name 17: _gcl_au
+[Before] Cookie-Name 18: _shopify_y
+[Before] Cookie-Name 19: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 21
+[After] Website-Cookies: [{'domain': '.catmountain.de', 'expiry': 1644519902, 'httpOnly': False, 'name': '_gat_%5Bobject%20Object%5D', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.catmountain.de', 'expiry': 1644969600, 'httpOnly': False, 'name': 'ps5ee8884612a4c161fb909615', 'path': '/', 'secure': False, 'value': 'false|1642291200000'}, {'domain': '.catmountain.de', 'expiry': 1652295842, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644519827121.1860873432'}, {'domain': '.catmountain.de', 'expiry': 1644519887, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.catmountain.de', 'expiry': 1644606242, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.2051367111.1644519827'}, {'domain': 'www.catmountain.de', 'expiry': 1676055842, 'httpOnly': False, 'name': 'cookieconsent_status', 'path': '/', 'secure': False, 'value': 'dismiss'}, {'domain': '.catmountain.de', 'expiry': 1644521626, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.catmountain.de', 'expiry': 1644519887, 'httpOnly': False, 'name': '_gat_UA-122318196-2', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.catmountain.de', 'expiry': 1707591842, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.231501367.1644519827'}, {'domain': '.catmountain.de', 'expiry': 1676055828, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c180243f-e227-43ce-a567-96c477d8d819'}, {'domain': '.catmountain.de', 'expiry': 1644521626, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T19%3A03%3A46.927Z'}, {'domain': '.catmountain.de', 'expiry': 1644521628, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4a8a4d25-d8ee-4a2a-886d-4c8cec6d1fd6'}, {'domain': '.catmountain.de', 'expiry': 1645729426, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.catmountain.de', 'expiry': 1645729425, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.catmountain.de', 'expiry': 1644521628, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4a8a4d25-d8ee-4a2a-886d-4c8cec6d1fd6'}, {'domain': '.catmountain.de', 'expiry': 1893456000, 'httpOnly': False, 'name': 'psuid', 'path': '/', 'secure': False, 'value': 'be3372ec-c8d7-4234-8d4a-7536a22d5f22'}, {'domain': '.catmountain.de', 'expiry': 1645729426, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.catmountain.de', 'expiry': 1645729428, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.catmountain.de', 'expiry': 1652295827, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1958182519.1644519827'}, {'domain': '.catmountain.de', 'expiry': 1676055828, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c180243f-e227-43ce-a567-96c477d8d819'}, {'domain': 'www.catmountain.de', 'expiry': 1676055828, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _gat_%5Bobject%20Object%5D
+[After] Cookie-Name 2: ps5ee8884612a4c161fb909615
+[After] Cookie-Name 3: _fbp
+[After] Cookie-Name 4: _gat
+[After] Cookie-Name 5: _gid
+[After] Cookie-Name 6: cookieconsent_status
+[After] Cookie-Name 7: _shopify_sa_p
+[After] Cookie-Name 8: _gat_UA-122318196-2
+[After] Cookie-Name 9: _ga
+[After] Cookie-Name 10: _y
+[After] Cookie-Name 11: _shopify_sa_t
+[After] Cookie-Name 12: _shopify_s
+[After] Cookie-Name 13: _landing_page
+[After] Cookie-Name 14: cart_currency
+[After] Cookie-Name 15: _s
+[After] Cookie-Name 16: psuid
+[After] Cookie-Name 17: _orig_referrer
+[After] Cookie-Name 18: localization
+[After] Cookie-Name 19: _gcl_au
+[After] Cookie-Name 20: _shopify_y
+[After] Cookie-Name 21: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 2
+[Difference] Cookie-Name: 1: _gat_%5Bobject%20Object%5D
+[Difference] Cookie-Name: 2: cookieconsent_status
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

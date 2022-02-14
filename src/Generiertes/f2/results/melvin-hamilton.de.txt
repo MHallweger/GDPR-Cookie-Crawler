@@ -1,0 +1,104 @@
+Website 12: http://www.melvin-hamilton.de/ | Created: 09.02.2022 10:49:27 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 35
+[Before] Website-Cookies: [{'domain': 'www.melvin-hamilton.de', 'expiry': 1645609759, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.melvin-hamilton.de', 'expiry': 1645609759, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'www.melvin-hamilton.de', 'expiry': 1645609759, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644400159'}, {'domain': 'www.melvin-hamilton.de', 'expiry': 1645609759, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '31c657103fac2261898767ac1a576479'}, {'domain': '.melvin-hamilton.de', 'expiry': 1675936159, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%221%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': '.melvin-hamilton.de', 'expiry': 1644401958, 'httpOnly': False, 'name': 'ABTastySession', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'mrasn=&sen=0&lp=https%253A%252F%252Fwww.melvin-hamilton.de%252F'}, {'domain': '.melvin-hamilton.de', 'expiry': 1677923358, 'httpOnly': False, 'name': 'ABTasty', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'uid=t93wp1gfz59qqck7&fst=1644400158849&pst=-1&cst=1644400158849&ns=1&pvt=1&pvis=1&th='}, {'domain': 'www.melvin-hamilton.de', 'expiry': 1707472158, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MDAxNTksInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3Lm1lbHZpbi1oYW1pbHRvbi5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQ0MDAxNTksInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3Lm1lbHZpbi1oYW1pbHRvbi5kZS8ifX0='}, {'domain': '.melvin-hamilton.de', 'expiry': 1644400218, 'httpOnly': False, 'name': '_gat_UA-34185117-1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.melvin-hamilton.de', 'expiry': 1645609759, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': '.melvin-hamilton.de', 'expiry': 1644401959, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'da8f20b9-49e8-45ee-a66c-ebdc1d2a71c4'}, {'domain': '.melvin-hamilton.de', 'expiry': 1707472158, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1670683611.1644400158'}, {'domain': 'www.melvin-hamilton.de', 'expiry': 1707472158, 'httpOnly': False, 'name': 'minubo_cookie', 'path': '/', 'secure': False, 'value': 'cl6nuz8zf.1644400158555'}, {'domain': '.melvin-hamilton.de', 'expiry': 1652176160, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644400159532.462500314'}, {'domain': '.melvin-hamilton.de', 'expiry': 1645609758, 'httpOnly': False, 'name': '__cmpcpcu7969', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '__51__'}, {'domain': '.melvin-hamilton.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T09%3A49%3A18.262Z'}, {'domain': '.melvin-hamilton.de', 'expiry': 1645609758, 'httpOnly': False, 'name': '__cmpcvcu7969', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '__s68_s1052_s23_s26_s135_s1409_s905_s24_s1458_s2491_c5111_s1097_s971_s1432_s902__'}, {'domain': 'www.melvin-hamilton.de', 'expiry': 1707472158, 'httpOnly': False, 'name': 'mvc', 'path': '/', 'secure': False, 'value': '8cq217ihm.1644400158099'}, {'domain': '.melvin-hamilton.de', 'expiry': 1644401959, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.melvin-hamilton.de', 'expiry': 1645609758, 'httpOnly': False, 'name': '__cmpconsent7969', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'CPUHZtgPUHZtgAfMQCDECBCgAAAAAAAAAAigAAAQpgAgQpAA'}, {'domain': 'www.melvin-hamilton.de', 'expiry': 1645609759, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '13ebf4827fd4bbbceeb7e2d6eeca259b'}, {'domain': '.melvin-hamilton.de', 'expiry': 1644401959, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.melvin-hamilton.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.melvin-hamilton.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.melvin-hamilton.de', 'expiry': 1644486558, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.83347272.1644400159'}, {'domain': '.melvin-hamilton.de', 'expiry': 1707472158, 'httpOnly': False, 'name': '_ga_9398YRM1EG', 'path': '/', 'secure': False, 'value': 'GS1.1.1644400158.1.0.1644400158.0'}, {'domain': '.melvin-hamilton.de', 'expiry': 1675936159, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': '.melvin-hamilton.de', 'expiry': 1645609759, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.melvin-hamilton.de', 'expiry': 1644401959, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T09%3A49%3A18.289Z'}, {'domain': '.melvin-hamilton.de', 'expiry': 1645609758, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.melvin-hamilton.de', 'expiry': 1644401959, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'da8f20b9-49e8-45ee-a66c-ebdc1d2a71c4'}, {'domain': '.melvin-hamilton.de', 'expiry': 1675936159, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3739f098-8407-4c72-95df-e2703a174b38'}, {'domain': 'www.melvin-hamilton.de', 'expiry': 1675936159, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.melvin-hamilton.de', 'expiry': 1675936159, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3739f098-8407-4c72-95df-e2703a174b38'}, {'domain': '.melvin-hamilton.de', 'expiry': 1645609759, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[Before] Cookie-Name 1: cart_currency
+[Before] Cookie-Name 2: localization
+[Before] Cookie-Name 3: cart_ts
+[Before] Cookie-Name 4: cart
+[Before] Cookie-Name 5: _tracking_consent
+[Before] Cookie-Name 6: ABTastySession
+[Before] Cookie-Name 7: ABTasty
+[Before] Cookie-Name 8: __kla_id
+[Before] Cookie-Name 9: _gat_UA-34185117-1
+[Before] Cookie-Name 10: cart_ver
+[Before] Cookie-Name 11: _shopify_s
+[Before] Cookie-Name 12: _ga
+[Before] Cookie-Name 13: minubo_cookie
+[Before] Cookie-Name 14: _fbp
+[Before] Cookie-Name 15: __cmpcpcu7969
+[Before] Cookie-Name 16: _shopify_d
+[Before] Cookie-Name 17: __cmpcvcu7969
+[Before] Cookie-Name 18: mvc
+[Before] Cookie-Name 19: _shopify_tm
+[Before] Cookie-Name 20: __cmpconsent7969
+[Before] Cookie-Name 21: cart_sig
+[Before] Cookie-Name 22: _shopify_sa_p
+[Before] Cookie-Name 23: _shopify_evids
+[Before] Cookie-Name 24: _shopify_evids
+[Before] Cookie-Name 25: _gid
+[Before] Cookie-Name 26: _ga_9398YRM1EG
+[Before] Cookie-Name 27: _shopify_m
+[Before] Cookie-Name 28: _landing_page
+[Before] Cookie-Name 29: _shopify_sa_t
+[Before] Cookie-Name 30: _shopify_tw
+[Before] Cookie-Name 31: _s
+[Before] Cookie-Name 32: _shopify_y
+[Before] Cookie-Name 33: secure_customer_sig
+[Before] Cookie-Name 34: _y
+[Before] Cookie-Name 35: _orig_referrer
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 35
+[After] Website-Cookies: [{'domain': 'www.melvin-hamilton.de', 'expiry': 1645609759, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.melvin-hamilton.de', 'expiry': 1645609759, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'www.melvin-hamilton.de', 'expiry': 1645609759, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644400159'}, {'domain': 'www.melvin-hamilton.de', 'expiry': 1645609759, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '31c657103fac2261898767ac1a576479'}, {'domain': '.melvin-hamilton.de', 'expiry': 1675936159, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%221%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': '.melvin-hamilton.de', 'expiry': 1644401958, 'httpOnly': False, 'name': 'ABTastySession', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'mrasn=&sen=0&lp=https%253A%252F%252Fwww.melvin-hamilton.de%252F'}, {'domain': '.melvin-hamilton.de', 'expiry': 1677923358, 'httpOnly': False, 'name': 'ABTasty', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'uid=t93wp1gfz59qqck7&fst=1644400158849&pst=-1&cst=1644400158849&ns=1&pvt=1&pvis=1&th='}, {'domain': 'www.melvin-hamilton.de', 'expiry': 1707472158, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MDAxNTksInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3Lm1lbHZpbi1oYW1pbHRvbi5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQ0MDAxNTksInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3Lm1lbHZpbi1oYW1pbHRvbi5kZS8ifX0='}, {'domain': '.melvin-hamilton.de', 'expiry': 1644400218, 'httpOnly': False, 'name': '_gat_UA-34185117-1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.melvin-hamilton.de', 'expiry': 1645609759, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': '.melvin-hamilton.de', 'expiry': 1644401959, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'da8f20b9-49e8-45ee-a66c-ebdc1d2a71c4'}, {'domain': '.melvin-hamilton.de', 'expiry': 1707472158, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1670683611.1644400158'}, {'domain': 'www.melvin-hamilton.de', 'expiry': 1707472158, 'httpOnly': False, 'name': 'minubo_cookie', 'path': '/', 'secure': False, 'value': 'cl6nuz8zf.1644400158555'}, {'domain': '.melvin-hamilton.de', 'expiry': 1652176160, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644400159532.462500314'}, {'domain': '.melvin-hamilton.de', 'expiry': 1645609758, 'httpOnly': False, 'name': '__cmpcpcu7969', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '__51__'}, {'domain': '.melvin-hamilton.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T09%3A49%3A18.262Z'}, {'domain': '.melvin-hamilton.de', 'expiry': 1645609758, 'httpOnly': False, 'name': '__cmpcvcu7969', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '__s68_s1052_s23_s26_s135_s1409_s905_s24_s1458_s2491_c5111_s1097_s971_s1432_s902__'}, {'domain': 'www.melvin-hamilton.de', 'expiry': 1707472158, 'httpOnly': False, 'name': 'mvc', 'path': '/', 'secure': False, 'value': '8cq217ihm.1644400158099'}, {'domain': '.melvin-hamilton.de', 'expiry': 1644401959, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.melvin-hamilton.de', 'expiry': 1645609758, 'httpOnly': False, 'name': '__cmpconsent7969', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'CPUHZtgPUHZtgAfMQCDECBCgAAAAAAAAAAigAAAQpgAgQpAA'}, {'domain': 'www.melvin-hamilton.de', 'expiry': 1645609759, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '13ebf4827fd4bbbceeb7e2d6eeca259b'}, {'domain': '.melvin-hamilton.de', 'expiry': 1644401959, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.melvin-hamilton.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.melvin-hamilton.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.melvin-hamilton.de', 'expiry': 1644486558, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.83347272.1644400159'}, {'domain': '.melvin-hamilton.de', 'expiry': 1707472158, 'httpOnly': False, 'name': '_ga_9398YRM1EG', 'path': '/', 'secure': False, 'value': 'GS1.1.1644400158.1.0.1644400158.0'}, {'domain': '.melvin-hamilton.de', 'expiry': 1675936159, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': '.melvin-hamilton.de', 'expiry': 1645609759, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.melvin-hamilton.de', 'expiry': 1644401959, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T09%3A49%3A18.289Z'}, {'domain': '.melvin-hamilton.de', 'expiry': 1645609758, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.melvin-hamilton.de', 'expiry': 1644401959, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'da8f20b9-49e8-45ee-a66c-ebdc1d2a71c4'}, {'domain': '.melvin-hamilton.de', 'expiry': 1675936159, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3739f098-8407-4c72-95df-e2703a174b38'}, {'domain': 'www.melvin-hamilton.de', 'expiry': 1675936159, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.melvin-hamilton.de', 'expiry': 1675936159, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3739f098-8407-4c72-95df-e2703a174b38'}, {'domain': '.melvin-hamilton.de', 'expiry': 1645609759, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: cart_currency
+[After] Cookie-Name 2: localization
+[After] Cookie-Name 3: cart_ts
+[After] Cookie-Name 4: cart
+[After] Cookie-Name 5: _tracking_consent
+[After] Cookie-Name 6: ABTastySession
+[After] Cookie-Name 7: ABTasty
+[After] Cookie-Name 8: __kla_id
+[After] Cookie-Name 9: _gat_UA-34185117-1
+[After] Cookie-Name 10: cart_ver
+[After] Cookie-Name 11: _shopify_s
+[After] Cookie-Name 12: _ga
+[After] Cookie-Name 13: minubo_cookie
+[After] Cookie-Name 14: _fbp
+[After] Cookie-Name 15: __cmpcpcu7969
+[After] Cookie-Name 16: _shopify_d
+[After] Cookie-Name 17: __cmpcvcu7969
+[After] Cookie-Name 18: mvc
+[After] Cookie-Name 19: _shopify_tm
+[After] Cookie-Name 20: __cmpconsent7969
+[After] Cookie-Name 21: cart_sig
+[After] Cookie-Name 22: _shopify_sa_p
+[After] Cookie-Name 23: _shopify_evids
+[After] Cookie-Name 24: _shopify_evids
+[After] Cookie-Name 25: _gid
+[After] Cookie-Name 26: _ga_9398YRM1EG
+[After] Cookie-Name 27: _shopify_m
+[After] Cookie-Name 28: _landing_page
+[After] Cookie-Name 29: _shopify_sa_t
+[After] Cookie-Name 30: _shopify_tw
+[After] Cookie-Name 31: _s
+[After] Cookie-Name 32: _shopify_y
+[After] Cookie-Name 33: secure_customer_sig
+[After] Cookie-Name 34: _y
+[After] Cookie-Name 35: _orig_referrer
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gid (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

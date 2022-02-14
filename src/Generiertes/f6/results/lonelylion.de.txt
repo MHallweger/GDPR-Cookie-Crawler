@@ -1,0 +1,53 @@
+Website 5: http://www.lonelylion.de/ | Created: 10.02.2022 12:14:04 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 12
+[Before] Website-Cookies: [{'domain': '.lonelylion.de', 'expiry': 1644493435, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T11%3A13%3A55.254Z'}, {'domain': '.lonelylion.de', 'expiry': 1644493435, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4765c6f6-3599-4b9b-a300-e76c74df14e1'}, {'domain': '.lonelylion.de', 'expiry': 1645701235, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.lonelylion.de', 'expiry': 1644493435, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4765c6f6-3599-4b9b-a300-e76c74df14e1'}, {'domain': '.lonelylion.de', 'expiry': 1676027635, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1625377f-c97a-4de8-a017-321d51c78df8'}, {'domain': '.lonelylion.de', 'expiry': 1644493435, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.lonelylion.de', 'expiry': 1645701235, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.lonelylion.de', 'expiry': 1645701235, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.lonelylion.de', 'expiry': 1645701235, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': '.lonelylion.de', 'expiry': 1676027635, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1625377f-c97a-4de8-a017-321d51c78df8'}, {'domain': '.www.lonelylion.de', 'expiry': 1676027635, 'httpOnly': False, 'name': 'scm_product_label_count', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.lonelylion.de', 'expiry': 1676027635, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _shopify_sa_t
+[Before] Cookie-Name 2: _shopify_s
+[Before] Cookie-Name 3: _landing_page
+[Before] Cookie-Name 4: _s
+[Before] Cookie-Name 5: _y
+[Before] Cookie-Name 6: _shopify_sa_p
+[Before] Cookie-Name 7: cart_currency
+[Before] Cookie-Name 8: _orig_referrer
+[Before] Cookie-Name 9: localization
+[Before] Cookie-Name 10: _shopify_y
+[Before] Cookie-Name 11: scm_product_label_count
+[Before] Cookie-Name 12: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 13
+[After] Website-Cookies: [{'domain': 'www.lonelylion.de', 'expiry': 1644578049, 'httpOnly': False, 'name': 'DisableBanner', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'info_allow_cookie_btn'}, {'domain': '.lonelylion.de', 'expiry': 1644493435, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T11%3A13%3A55.254Z'}, {'domain': '.lonelylion.de', 'expiry': 1644493435, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4765c6f6-3599-4b9b-a300-e76c74df14e1'}, {'domain': '.lonelylion.de', 'expiry': 1645701235, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.lonelylion.de', 'expiry': 1644493435, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4765c6f6-3599-4b9b-a300-e76c74df14e1'}, {'domain': '.lonelylion.de', 'expiry': 1676027635, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1625377f-c97a-4de8-a017-321d51c78df8'}, {'domain': '.lonelylion.de', 'expiry': 1644493435, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.lonelylion.de', 'expiry': 1645701235, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.lonelylion.de', 'expiry': 1645701235, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.lonelylion.de', 'expiry': 1645701235, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': '.lonelylion.de', 'expiry': 1676027635, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1625377f-c97a-4de8-a017-321d51c78df8'}, {'domain': '.www.lonelylion.de', 'expiry': 1676027635, 'httpOnly': False, 'name': 'scm_product_label_count', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.lonelylion.de', 'expiry': 1676027635, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: DisableBanner
+[After] Cookie-Name 2: _shopify_sa_t
+[After] Cookie-Name 3: _shopify_s
+[After] Cookie-Name 4: _landing_page
+[After] Cookie-Name 5: _s
+[After] Cookie-Name 6: _y
+[After] Cookie-Name 7: _shopify_sa_p
+[After] Cookie-Name 8: cart_currency
+[After] Cookie-Name 9: _orig_referrer
+[After] Cookie-Name 10: localization
+[After] Cookie-Name 11: _shopify_y
+[After] Cookie-Name 12: scm_product_label_count
+[After] Cookie-Name 13: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: DisableBanner
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

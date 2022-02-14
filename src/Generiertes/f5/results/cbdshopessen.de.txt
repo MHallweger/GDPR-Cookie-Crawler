@@ -1,0 +1,57 @@
+Website 221: http://www.cbdshopessen.de/ | Created: 09.02.2022 20:43:37 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 13
+[Before] Website-Cookies: [{'domain': '.cbdshopessen.de', 'expiry': 1675971809, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'c8VQ0gJlJTkPvB-20220209194329'}, {'domain': '.cbdshopessen.de', 'expiry': 1644437608, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A43%3A28.202Z'}, {'domain': '.cbdshopessen.de', 'expiry': 1652211808, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644435808416.999530388'}, {'domain': '.cbdshopessen.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220209194329-MdzOtU6bywpl1E4XlS8Ttrg1RTClzxZy4pD1ldYOmHTBIuPL8'}, {'domain': '.cbdshopessen.de', 'expiry': 1645645407, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.cbdshopessen.de', 'expiry': 1644437608, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f8fa3b5f-6dc2-487e-951b-a0c98c2fd1fb'}, {'domain': '.cbdshopessen.de', 'expiry': 1644437609, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': '4OJsAdBq4wLV8w-20220209194329'}, {'domain': '.cbdshopessen.de', 'expiry': 1675971807, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8fe9f5b8-b490-4dea-9f20-1ab9c063bd5c'}, {'domain': '.cbdshopessen.de', 'expiry': 1644437608, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.cbdshopessen.de', 'expiry': 1645645407, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.cbdshopessen.de', 'expiry': 1644437608, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f8fa3b5f-6dc2-487e-951b-a0c98c2fd1fb'}, {'domain': '.cbdshopessen.de', 'expiry': 1675971807, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8fe9f5b8-b490-4dea-9f20-1ab9c063bd5c'}, {'domain': 'cbdshopessen.de', 'expiry': 1675971807, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: omnisendAnonymousID
+[Before] Cookie-Name 2: _shopify_sa_t
+[Before] Cookie-Name 3: _fbp
+[Before] Cookie-Name 4: soundestID
+[Before] Cookie-Name 5: _landing_page
+[Before] Cookie-Name 6: _shopify_s
+[Before] Cookie-Name 7: omnisendSessionID
+[Before] Cookie-Name 8: _shopify_y
+[Before] Cookie-Name 9: _shopify_sa_p
+[Before] Cookie-Name 10: _orig_referrer
+[Before] Cookie-Name 11: _s
+[Before] Cookie-Name 12: _y
+[Before] Cookie-Name 13: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 13
+[After] Website-Cookies: [{'domain': '.cbdshopessen.de', 'expiry': 1675971809, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'c8VQ0gJlJTkPvB-20220209194329'}, {'domain': '.cbdshopessen.de', 'expiry': 1644437608, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A43%3A28.202Z'}, {'domain': '.cbdshopessen.de', 'expiry': 1652211808, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644435808416.999530388'}, {'domain': '.cbdshopessen.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220209194329-MdzOtU6bywpl1E4XlS8Ttrg1RTClzxZy4pD1ldYOmHTBIuPL8'}, {'domain': '.cbdshopessen.de', 'expiry': 1645645407, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.cbdshopessen.de', 'expiry': 1644437608, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f8fa3b5f-6dc2-487e-951b-a0c98c2fd1fb'}, {'domain': '.cbdshopessen.de', 'expiry': 1644437609, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': '4OJsAdBq4wLV8w-20220209194329'}, {'domain': '.cbdshopessen.de', 'expiry': 1675971807, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8fe9f5b8-b490-4dea-9f20-1ab9c063bd5c'}, {'domain': '.cbdshopessen.de', 'expiry': 1644437608, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.cbdshopessen.de', 'expiry': 1645645407, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.cbdshopessen.de', 'expiry': 1644437608, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f8fa3b5f-6dc2-487e-951b-a0c98c2fd1fb'}, {'domain': '.cbdshopessen.de', 'expiry': 1675971807, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8fe9f5b8-b490-4dea-9f20-1ab9c063bd5c'}, {'domain': 'cbdshopessen.de', 'expiry': 1675971807, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: omnisendAnonymousID
+[After] Cookie-Name 2: _shopify_sa_t
+[After] Cookie-Name 3: _fbp
+[After] Cookie-Name 4: soundestID
+[After] Cookie-Name 5: _landing_page
+[After] Cookie-Name 6: _shopify_s
+[After] Cookie-Name 7: omnisendSessionID
+[After] Cookie-Name 8: _shopify_y
+[After] Cookie-Name 9: _shopify_sa_p
+[After] Cookie-Name 10: _orig_referrer
+[After] Cookie-Name 11: _s
+[After] Cookie-Name 12: _y
+[After] Cookie-Name 13: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

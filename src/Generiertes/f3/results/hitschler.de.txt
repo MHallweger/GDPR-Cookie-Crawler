@@ -1,0 +1,87 @@
+Website 132: http://www.hitschler.de/ | Created: 09.02.2022 14:22:10 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 8
+[Before] Website-Cookies: [{'domain': '.hitschies.de', 'expiry': 1675948918, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.hitschies.de', 'expiry': 1644414718, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.hitschies.de', 'expiry': 1675948918, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.hitschies.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.hitschies.de', 'expiry': 1675948918, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%7D'}, {'domain': '.hitschies.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.hitschies.de', 'expiry': 1645622518, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.hitschies.de', 'expiry': 1645622518, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}]
+[Before] Cookie-Name 1: _shopify_m
+[Before] Cookie-Name 2: _shopify_tm
+[Before] Cookie-Name 3: secure_customer_sig
+[Before] Cookie-Name 4: _landing_page
+[Before] Cookie-Name 5: _tracking_consent
+[Before] Cookie-Name 6: _orig_referrer
+[Before] Cookie-Name 7: _shopify_tw
+[Before] Cookie-Name 8: cart_currency
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 33
+[After] Website-Cookies: [{'domain': '.hitschies.de', 'expiry': 1652188937, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644412936665.850730123'}, {'domain': '.hitschies.de', 'expiry': 1644499336, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1158605909.1644412936'}, {'domain': '.hitschies.de', 'expiry': 1707484936, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1547384722.1644412936'}, {'domain': '.hitschies.de', 'expiry': 1675948936, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%2C%22CCPA%22%3A%221%22%7D%7D'}, {'domain': '.hitschies.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cc8f4b89-3b1a-43f4-bc54-3e9516cfdde8'}, {'domain': '.hitschies.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cc8f4b89-3b1a-43f4-bc54-3e9516cfdde8'}, {'domain': '.hitschies.de', 'expiry': 1644412996, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.hitschies.de', 'expiry': 1645622536, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': 'www.hitschies.de', 'expiry': 1645622536, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8161bb485f0d510148decde3dc6a7b44'}, {'domain': 'www.hitschies.de', 'expiry': 1647004935, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0NDEyOTM1ODc1LCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjowfX0='}, {'domain': '.hitschies.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A21%3A59.248Z'}, {'domain': '.hitschies.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '82ef614a-28a8-4645-8799-1ddcfb2f18a4'}, {'domain': 'www.hitschies.de', 'expiry': 1645622536, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644412936'}, {'domain': 'www.hitschies.de', 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'pending'}, {'domain': '.hitschies.de', 'expiry': 1645622536, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.hitschies.de', 'expiry': 1675948935, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '82ef614a-28a8-4645-8799-1ddcfb2f18a4'}, {'domain': '.hitschies.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '82ef614a-28a8-4645-8799-1ddcfb2f18a4'}, {'domain': 'www.hitschies.de', 'expiry': 1675948935, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '82ef614a-28a8-4645-8799-1ddcfb2f18a4'}, {'domain': 'www.hitschies.de', 'expiry': 1645622536, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '60bf8247069a81db51e04aea76689814'}, {'domain': 'www.hitschies.de', 'expiry': 1644414735, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cc8f4b89-3b1a-43f4-bc54-3e9516cfdde8'}, {'domain': 'www.hitschies.de', 'expiry': 1644414735, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A21%3A59.248Z'}, {'domain': 'www.hitschies.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.hitschies.de', 'expiry': 1644414735, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cc8f4b89-3b1a-43f4-bc54-3e9516cfdde8'}, {'domain': '.hitschies.de', 'expiry': 1644414736, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.hitschies.de', 'expiry': 1645622536, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.hitschies.de', 'expiry': 1645622518, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.hitschies.de', 'expiry': 1675948936, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'www.hitschies.de', 'expiry': 1645622535, 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A21%3A59.237Z'}, {'domain': '.hitschies.de', 'expiry': 1675948936, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVptTTFOVEprWVRRdE1qSXdaQzAwTXpNNUxUbGxNemd0TVRNME9UZzRaalk0TkRRMA'}, {'domain': '.hitschies.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.hitschies.de', 'expiry': 1645622536, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.hitschies.de', 'expiry': 1675948936, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': 'www.hitschies.de', 'expiry': 1645622536, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}]
+[After] Cookie-Name 1: _fbp
+[After] Cookie-Name 2: _gid
+[After] Cookie-Name 3: _ga
+[After] Cookie-Name 4: _tracking_consent
+[After] Cookie-Name 5: _shopify_s
+[After] Cookie-Name 6: _s
+[After] Cookie-Name 7: _gat
+[After] Cookie-Name 8: cart_ver
+[After] Cookie-Name 9: cart_sig
+[After] Cookie-Name 10: _bc_c_set
+[After] Cookie-Name 11: _shopify_sa_t
+[After] Cookie-Name 12: _shopify_y
+[After] Cookie-Name 13: cart_ts
+[After] Cookie-Name 14: shopify_pay_redirect
+[After] Cookie-Name 15: _landing_page
+[After] Cookie-Name 16: _y
+[After] Cookie-Name 17: _y
+[After] Cookie-Name 18: _shopify_y
+[After] Cookie-Name 19: cart
+[After] Cookie-Name 20: _shopify_s
+[After] Cookie-Name 21: _shopify_sa_t
+[After] Cookie-Name 22: _shopify_evids
+[After] Cookie-Name 23: _s
+[After] Cookie-Name 24: _shopify_tm
+[After] Cookie-Name 25: localization
+[After] Cookie-Name 26: _shopify_tw
+[After] Cookie-Name 27: secure_customer_sig
+[After] Cookie-Name 28: _shopify_d
+[After] Cookie-Name 29: _pin_unauth
+[After] Cookie-Name 30: _shopify_evids
+[After] Cookie-Name 31: _orig_referrer
+[After] Cookie-Name 32: _shopify_m
+[After] Cookie-Name 33: cart_currency
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 19
+[Difference] Cookie-Name: 1: _bc_c_set
+[Difference] Cookie-Name: 2: _y
+[Difference] Cookie-Name: 3: _shopify_d
+[Difference] Cookie-Name: 4: _pin_unauth
+[Difference] Cookie-Name: 5: shopify_pay_redirect
+[Difference] Cookie-Name: 6: _shopify_s
+[Difference] Cookie-Name: 7: cart_ver
+[Difference] Cookie-Name: 8: localization
+[Difference] Cookie-Name: 9: _shopify_sa_t
+[Difference] Cookie-Name: 10: cart_sig
+[Difference] Cookie-Name: 11: _gid
+[Difference] Cookie-Name: 12: _s
+[Difference] Cookie-Name: 13: cart
+[Difference] Cookie-Name: 14: _shopify_y
+[Difference] Cookie-Name: 15: _gat
+[Difference] Cookie-Name: 16: _fbp
+[Difference] Cookie-Name: 17: _shopify_evids
+[Difference] Cookie-Name: 18: _ga
+[Difference] Cookie-Name: 19: cart_ts
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

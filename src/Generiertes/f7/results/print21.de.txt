@@ -1,0 +1,66 @@
+Website 257: http://www.print21.de/ | Created: 10.02.2022 18:36:44 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 16
+[Before] Website-Cookies: [{'domain': 'print21.de', 'expiry': 1644518195, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.print21.de', 'expiry': 1644600995, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.106339474.1644514595'}, {'domain': '.print21.de', 'expiry': 1707586595, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1478162820.1644514595'}, {'domain': '.print21.de', 'expiry': 1644516395, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.print21.de', 'expiry': 1644516397, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '85bf0182-bcc4-45e6-8111-faa5477a31a7'}, {'domain': '.print21.de', 'expiry': 1652290594, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.537313710.1644514595'}, {'domain': '.print21.de', 'expiry': 1644516397, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '85bf0182-bcc4-45e6-8111-faa5477a31a7'}, {'domain': '.print21.de', 'expiry': 1676050597, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '835cc74a-a0ce-4366-a688-4131400fe283'}, {'domain': '.print21.de', 'expiry': 1676050597, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '835cc74a-a0ce-4366-a688-4131400fe283'}, {'domain': '.print21.de', 'expiry': 1645724194, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'print21.de', 'expiry': 1645724197, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.print21.de', 'expiry': 1644516395, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A36%3A35.147Z'}, {'domain': 'print21.de', 'expiry': 1645724197, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.print21.de', 'expiry': 1644514655, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.print21.de', 'expiry': 1645724194, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'print21.de', 'expiry': 1676050597, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: shopify_pay_redirect
+[Before] Cookie-Name 2: _gid
+[Before] Cookie-Name 3: _ga
+[Before] Cookie-Name 4: _shopify_sa_p
+[Before] Cookie-Name 5: _shopify_s
+[Before] Cookie-Name 6: _gcl_au
+[Before] Cookie-Name 7: _s
+[Before] Cookie-Name 8: _shopify_y
+[Before] Cookie-Name 9: _y
+[Before] Cookie-Name 10: _landing_page
+[Before] Cookie-Name 11: cart_currency
+[Before] Cookie-Name 12: _shopify_sa_t
+[Before] Cookie-Name 13: localization
+[Before] Cookie-Name 14: _gat
+[Before] Cookie-Name 15: _orig_referrer
+[Before] Cookie-Name 16: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 16
+[After] Website-Cookies: [{'domain': 'print21.de', 'expiry': 1644518195, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.print21.de', 'expiry': 1644600995, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.106339474.1644514595'}, {'domain': '.print21.de', 'expiry': 1707586595, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1478162820.1644514595'}, {'domain': '.print21.de', 'expiry': 1644516395, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.print21.de', 'expiry': 1644516397, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '85bf0182-bcc4-45e6-8111-faa5477a31a7'}, {'domain': '.print21.de', 'expiry': 1652290594, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.537313710.1644514595'}, {'domain': '.print21.de', 'expiry': 1644516397, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '85bf0182-bcc4-45e6-8111-faa5477a31a7'}, {'domain': '.print21.de', 'expiry': 1676050597, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '835cc74a-a0ce-4366-a688-4131400fe283'}, {'domain': '.print21.de', 'expiry': 1676050597, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '835cc74a-a0ce-4366-a688-4131400fe283'}, {'domain': '.print21.de', 'expiry': 1645724194, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'print21.de', 'expiry': 1645724197, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.print21.de', 'expiry': 1644516395, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A36%3A35.147Z'}, {'domain': 'print21.de', 'expiry': 1645724197, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.print21.de', 'expiry': 1644514655, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.print21.de', 'expiry': 1645724194, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'print21.de', 'expiry': 1676050597, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: shopify_pay_redirect
+[After] Cookie-Name 2: _gid
+[After] Cookie-Name 3: _ga
+[After] Cookie-Name 4: _shopify_sa_p
+[After] Cookie-Name 5: _shopify_s
+[After] Cookie-Name 6: _gcl_au
+[After] Cookie-Name 7: _s
+[After] Cookie-Name 8: _shopify_y
+[After] Cookie-Name 9: _y
+[After] Cookie-Name 10: _landing_page
+[After] Cookie-Name 11: cart_currency
+[After] Cookie-Name 12: _shopify_sa_t
+[After] Cookie-Name 13: localization
+[After] Cookie-Name 14: _gat
+[After] Cookie-Name 15: _orig_referrer
+[After] Cookie-Name 16: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _gat (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

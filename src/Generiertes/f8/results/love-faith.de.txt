@@ -1,0 +1,86 @@
+Website 64: http://www.love-faith.de/ | Created: 10.02.2022 20:17:19 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 21
+[Before] Website-Cookies: [{'domain': 'www.love-faith.de', 'expiry': 1644607030, 'httpOnly': False, 'name': '_ks_scriptVersionChecked', 'path': '/', 'secure': True, 'value': 'true'}, {'domain': 'www.love-faith.de', 'expiry': 1676056630, 'httpOnly': False, 'name': '_ks_scriptVersion', 'path': '/', 'secure': True, 'value': '308'}, {'domain': 'www.love-faith.de', 'expiry': 1707592629, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ1MjA2MzAsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LmxvdmUtZmFpdGguZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NTIwNjMwLCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL3d3dy5sb3ZlLWZhaXRoLmRlLyJ9fQ=='}, {'domain': '.love-faith.de', 'expiry': 1644522429, 'httpOnly': False, 'name': '_hjSession_2332780', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjgzOTZiZDg5LWRlZjItNDM1NC1hYjVhLTU4MTMyYWFmNmQ5ZCIsImNyZWF0ZWQiOjE2NDQ1MjA2Mjk3OTIsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': 'www.love-faith.de', 'expiry': 1644520749, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.love-faith.de', 'expiry': 1676056629, 'httpOnly': False, 'name': '_hjSessionUser_2332780', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImM4ZjI3ZDNjLTU2NjQtNWViOC04NWUxLTc5ZjdlOGE4OTEzYiIsImNyZWF0ZWQiOjE2NDQ1MjA2MjkzMTUsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.love-faith.de', 'expiry': 1644522429, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.love-faith.de', 'expiry': 1644522429, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.love-faith.de', 'expiry': 1676056629, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU56YzFZbVU0WW1VdFpUazFaUzAwTUdSakxXSmtaVEF0WlRJNU9UQmpaRFF4TkdRMg'}, {'domain': '.love-faith.de', 'expiry': 1644522429, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.love-faith.de', 'expiry': 1644522430, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'dfc586e0-8c8f-4585-9b90-f891b79a2301'}, {'domain': '.love-faith.de', 'expiry': 1676056630, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9a155e9e-bf19-416d-a347-f908c09e8896'}, {'domain': '.love-faith.de', 'expiry': 1676056630, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9a155e9e-bf19-416d-a347-f908c09e8896'}, {'domain': 'www.love-faith.de', 'expiry': 1676056630, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.love-faith.de', 'expiry': 1645730228, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.love-faith.de', 'expiry': 1644522430, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'dfc586e0-8c8f-4585-9b90-f891b79a2301'}, {'domain': '.love-faith.de', 'expiry': 1644522429, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T19%3A17%3A09.295Z'}, {'domain': '.love-faith.de', 'expiry': 1645730228, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.love-faith.de', 'expiry': 1645730230, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'www.love-faith.de', 'expiry': 1644524229, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'www.love-faith.de', 'expiry': 1645730230, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}]
+[Before] Cookie-Name 1: _ks_scriptVersionChecked
+[Before] Cookie-Name 2: _ks_scriptVersion
+[Before] Cookie-Name 3: __kla_id
+[Before] Cookie-Name 4: _hjSession_2332780
+[Before] Cookie-Name 5: _hjIncludedInSessionSample
+[Before] Cookie-Name 6: _hjSessionUser_2332780
+[Before] Cookie-Name 7: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 8: _hjFirstSeen
+[Before] Cookie-Name 9: _pin_unauth
+[Before] Cookie-Name 10: _shopify_sa_p
+[Before] Cookie-Name 11: _shopify_s
+[Before] Cookie-Name 12: _shopify_y
+[Before] Cookie-Name 13: _y
+[Before] Cookie-Name 14: secure_customer_sig
+[Before] Cookie-Name 15: _landing_page
+[Before] Cookie-Name 16: _s
+[Before] Cookie-Name 17: _shopify_sa_t
+[Before] Cookie-Name 18: _orig_referrer
+[Before] Cookie-Name 19: localization
+[Before] Cookie-Name 20: shopify_pay_redirect
+[Before] Cookie-Name 21: cart_currency
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 27
+[After] Website-Cookies: [{'domain': '.love-faith.de', 'expiry': 1652296645, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644520644996.2008975511'}, {'domain': '.love-faith.de', 'expiry': 1644520704, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.love-faith.de', 'expiry': 1644607044, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.343531904.1644520645'}, {'domain': 'www.love-faith.de', 'expiry': 1647112644, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0NTIwNjQ0NzY4LCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjowfX0='}, {'domain': 'www.love-faith.de', 'expiry': 1644607030, 'httpOnly': False, 'name': '_ks_scriptVersionChecked', 'path': '/', 'secure': True, 'value': 'true'}, {'domain': 'www.love-faith.de', 'expiry': 1676056630, 'httpOnly': False, 'name': '_ks_scriptVersion', 'path': '/', 'secure': True, 'value': '308'}, {'domain': '.love-faith.de', 'expiry': 1644522430, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'dfc586e0-8c8f-4585-9b90-f891b79a2301'}, {'domain': 'www.love-faith.de', 'expiry': 1707592629, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ1MjA2MzAsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LmxvdmUtZmFpdGguZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NTIwNjMwLCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL3d3dy5sb3ZlLWZhaXRoLmRlLyJ9fQ=='}, {'domain': '.love-faith.de', 'expiry': 1644522429, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.love-faith.de', 'expiry': 1644522429, 'httpOnly': False, 'name': '_hjSession_2332780', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjgzOTZiZDg5LWRlZjItNDM1NC1hYjVhLTU4MTMyYWFmNmQ5ZCIsImNyZWF0ZWQiOjE2NDQ1MjA2Mjk3OTIsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': 'www.love-faith.de', 'expiry': 1644520749, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.love-faith.de', 'expiry': 1676056629, 'httpOnly': False, 'name': '_hjSessionUser_2332780', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImM4ZjI3ZDNjLTU2NjQtNWViOC04NWUxLTc5ZjdlOGE4OTEzYiIsImNyZWF0ZWQiOjE2NDQ1MjA2MjkzMTUsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.love-faith.de', 'expiry': 1644522429, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.love-faith.de', 'expiry': 1676056629, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU56YzFZbVU0WW1VdFpUazFaUzAwTUdSakxXSmtaVEF0WlRJNU9UQmpaRFF4TkdRMg'}, {'domain': '.love-faith.de', 'expiry': 1644522429, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.love-faith.de', 'expiry': 1676056630, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9a155e9e-bf19-416d-a347-f908c09e8896'}, {'domain': '.love-faith.de', 'expiry': 1676056630, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9a155e9e-bf19-416d-a347-f908c09e8896'}, {'domain': 'www.love-faith.de', 'expiry': 1676056630, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.love-faith.de', 'expiry': 1645730228, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.love-faith.de', 'expiry': 1644522430, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'dfc586e0-8c8f-4585-9b90-f891b79a2301'}, {'domain': '.love-faith.de', 'expiry': 1644522429, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T19%3A17%3A09.295Z'}, {'domain': '.love-faith.de', 'expiry': 1707592644, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1068326244.1644520645'}, {'domain': '.love-faith.de', 'expiry': 1652296644, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.722119833.1644520645'}, {'domain': '.love-faith.de', 'expiry': 1645730228, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.love-faith.de', 'expiry': 1645730230, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'www.love-faith.de', 'expiry': 1644524229, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'www.love-faith.de', 'expiry': 1645730230, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}]
+[After] Cookie-Name 1: _fbp
+[After] Cookie-Name 2: _gat
+[After] Cookie-Name 3: _gid
+[After] Cookie-Name 4: _bc_c_set
+[After] Cookie-Name 5: _ks_scriptVersionChecked
+[After] Cookie-Name 6: _ks_scriptVersion
+[After] Cookie-Name 7: _shopify_s
+[After] Cookie-Name 8: __kla_id
+[After] Cookie-Name 9: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 10: _hjSession_2332780
+[After] Cookie-Name 11: _hjIncludedInSessionSample
+[After] Cookie-Name 12: _hjSessionUser_2332780
+[After] Cookie-Name 13: _hjFirstSeen
+[After] Cookie-Name 14: _pin_unauth
+[After] Cookie-Name 15: _shopify_sa_p
+[After] Cookie-Name 16: _shopify_y
+[After] Cookie-Name 17: _y
+[After] Cookie-Name 18: secure_customer_sig
+[After] Cookie-Name 19: _landing_page
+[After] Cookie-Name 20: _s
+[After] Cookie-Name 21: _shopify_sa_t
+[After] Cookie-Name 22: _ga
+[After] Cookie-Name 23: _gcl_au
+[After] Cookie-Name 24: _orig_referrer
+[After] Cookie-Name 25: localization
+[After] Cookie-Name 26: shopify_pay_redirect
+[After] Cookie-Name 27: cart_currency
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _hjIncludedInSessionSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 6
+[Difference] Cookie-Name: 1: _fbp
+[Difference] Cookie-Name: 2: _ga
+[Difference] Cookie-Name: 3: _gid
+[Difference] Cookie-Name: 4: _gat
+[Difference] Cookie-Name: 5: _gcl_au
+[Difference] Cookie-Name: 6: _bc_c_set
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

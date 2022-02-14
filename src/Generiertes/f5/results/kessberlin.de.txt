@@ -1,0 +1,78 @@
+Website 157: http://www.kessberlin.de/ | Created: 09.02.2022 20:22:51 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 22
+[Before] Website-Cookies: [{'domain': '.kessberlin.de', 'expiry': 1644434616, 'httpOnly': False, 'name': '_gat_kess', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.kessberlin.de', 'expiry': 1644520956, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.888651166.1644434556'}, {'domain': '.kessberlin.de', 'expiry': 1707506556, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.240670056.1644434556'}, {'domain': 'www.kessberlin.de', 'expiry': 1802114556, 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'secure': True, 'value': '2ef5fc1e-765b-4350-b818-c853eb0a953a'}, {'domain': '.kessberlin.de', 'expiry': 1675970556, 'httpOnly': False, 'name': 'OptanonConsent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'isIABGlobal=false&datestamp=Wed+Feb+09+2022+20%3A22%3A36+GMT%2B0100+(Mitteleurop%C3%A4ische+Normalzeit)&version=6.10.0&landingPath=https%3A%2F%2Fwww.kessberlin.de%2F&groups=1%3A1%2C55%3A0%2C2%3A0%2C56%3A0%2C3%3A0%2C57%3A0%2C58%3A0%2C59%3A0%2C64%3A0%2C66%3A0%2C95%3A0%2C77%3A0%2C96%3A0%2C48%3A0%2C47%3A0%2C46%3A1%2C99%3A0%2C98%3A0%2C49%3A0'}, {'domain': '.kessberlin.de', 'expiry': 1707506554, 'httpOnly': False, 'name': 'lo-visits', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': '1'}, {'domain': '.kessberlin.de', 'httpOnly': False, 'name': '_vis_opt_test_cookie', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.kessberlin.de', 'expiry': 1653074554, 'httpOnly': False, 'name': '_vis_opt_s', 'path': '/', 'secure': False, 'value': '1%7C'}, {'domain': '.kessberlin.de', 'expiry': 1644436354, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A22%3A34.051Z'}, {'domain': '.kessberlin.de', 'expiry': 1644436354, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kessberlin.de', 'expiry': 1676056954, 'httpOnly': False, 'name': '_vwo_uuid_v2', 'path': '/', 'secure': False, 'value': 'DFB2708801C5229F49E6E3AEF03BCB089|9608bcccadee915fc1a442f98a96a62d'}, {'domain': 'www.kessberlin.de', 'expiry': 1644436356, 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'secure': True, 'value': '344d6bad-5502-434e-9ef7-7284ca4ade0c'}, {'domain': '.kessberlin.de', 'expiry': 1707506554, 'httpOnly': False, 'name': 'lo-uid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': 'cf4be1fc-1644434554625-c88e4eaff41d4afb'}, {'domain': '.kessberlin.de', 'expiry': 1675970556, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '43152e06-0314-411d-9819-88d7dddaceef'}, {'domain': '.kessberlin.de', 'expiry': 1644436356, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '329da7b7-2c26-49ec-bad4-c85c5cc41bc7'}, {'domain': '.kessberlin.de', 'expiry': 1644436356, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '329da7b7-2c26-49ec-bad4-c85c5cc41bc7'}, {'domain': '.kessberlin.de', 'expiry': 1645644153, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kessberlin.de', 'expiry': 1675970556, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '43152e06-0314-411d-9819-88d7dddaceef'}, {'domain': 'www.kessberlin.de', 'expiry': 1707506556, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MzQ1NTYsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3Lmtlc3NiZXJsaW4uZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NDM0NTU2LCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL3d3dy5rZXNzYmVybGluLmRlLyJ9fQ=='}, {'domain': '.kessberlin.de', 'expiry': 1675970554, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU1XVmpNamN3WXpBdE1HRm1ZUzAwTkdVMUxXRTNaVGd0T1dKak9UaGpaamswT0RaaA'}, {'domain': '.kessberlin.de', 'expiry': 1645644153, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.kessberlin.de', 'expiry': 1675970556, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _gat_kess
+[Before] Cookie-Name 2: _gid
+[Before] Cookie-Name 3: _ga
+[Before] Cookie-Name 4: _shg_user_id
+[Before] Cookie-Name 5: OptanonConsent
+[Before] Cookie-Name 6: lo-visits
+[Before] Cookie-Name 7: _vis_opt_test_cookie
+[Before] Cookie-Name 8: _vis_opt_s
+[Before] Cookie-Name 9: _shopify_sa_t
+[Before] Cookie-Name 10: _shopify_sa_p
+[Before] Cookie-Name 11: _vwo_uuid_v2
+[Before] Cookie-Name 12: _shg_session_id
+[Before] Cookie-Name 13: lo-uid
+[Before] Cookie-Name 14: _shopify_y
+[Before] Cookie-Name 15: _shopify_s
+[Before] Cookie-Name 16: _s
+[Before] Cookie-Name 17: _orig_referrer
+[Before] Cookie-Name 18: _y
+[Before] Cookie-Name 19: __kla_id
+[Before] Cookie-Name 20: _pin_unauth
+[Before] Cookie-Name 21: _landing_page
+[Before] Cookie-Name 22: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 22
+[After] Website-Cookies: [{'domain': '.kessberlin.de', 'expiry': 1644434616, 'httpOnly': False, 'name': '_gat_kess', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.kessberlin.de', 'expiry': 1644520956, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.888651166.1644434556'}, {'domain': '.kessberlin.de', 'expiry': 1707506556, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.240670056.1644434556'}, {'domain': 'www.kessberlin.de', 'expiry': 1802114556, 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'secure': True, 'value': '2ef5fc1e-765b-4350-b818-c853eb0a953a'}, {'domain': '.kessberlin.de', 'expiry': 1675970556, 'httpOnly': False, 'name': 'OptanonConsent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'isIABGlobal=false&datestamp=Wed+Feb+09+2022+20%3A22%3A36+GMT%2B0100+(Mitteleurop%C3%A4ische+Normalzeit)&version=6.10.0&landingPath=https%3A%2F%2Fwww.kessberlin.de%2F&groups=1%3A1%2C55%3A0%2C2%3A0%2C56%3A0%2C3%3A0%2C57%3A0%2C58%3A0%2C59%3A0%2C64%3A0%2C66%3A0%2C95%3A0%2C77%3A0%2C96%3A0%2C48%3A0%2C47%3A0%2C46%3A1%2C99%3A0%2C98%3A0%2C49%3A0'}, {'domain': '.kessberlin.de', 'expiry': 1707506554, 'httpOnly': False, 'name': 'lo-visits', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': '1'}, {'domain': '.kessberlin.de', 'httpOnly': False, 'name': '_vis_opt_test_cookie', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.kessberlin.de', 'expiry': 1653074554, 'httpOnly': False, 'name': '_vis_opt_s', 'path': '/', 'secure': False, 'value': '1%7C'}, {'domain': '.kessberlin.de', 'expiry': 1644436354, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A22%3A34.051Z'}, {'domain': '.kessberlin.de', 'expiry': 1644436354, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kessberlin.de', 'expiry': 1676056954, 'httpOnly': False, 'name': '_vwo_uuid_v2', 'path': '/', 'secure': False, 'value': 'DFB2708801C5229F49E6E3AEF03BCB089|9608bcccadee915fc1a442f98a96a62d'}, {'domain': 'www.kessberlin.de', 'expiry': 1644436356, 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'secure': True, 'value': '344d6bad-5502-434e-9ef7-7284ca4ade0c'}, {'domain': '.kessberlin.de', 'expiry': 1707506554, 'httpOnly': False, 'name': 'lo-uid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': 'cf4be1fc-1644434554625-c88e4eaff41d4afb'}, {'domain': '.kessberlin.de', 'expiry': 1675970556, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '43152e06-0314-411d-9819-88d7dddaceef'}, {'domain': '.kessberlin.de', 'expiry': 1644436356, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '329da7b7-2c26-49ec-bad4-c85c5cc41bc7'}, {'domain': '.kessberlin.de', 'expiry': 1644436356, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '329da7b7-2c26-49ec-bad4-c85c5cc41bc7'}, {'domain': '.kessberlin.de', 'expiry': 1645644153, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kessberlin.de', 'expiry': 1675970556, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '43152e06-0314-411d-9819-88d7dddaceef'}, {'domain': 'www.kessberlin.de', 'expiry': 1707506556, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MzQ1NTYsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3Lmtlc3NiZXJsaW4uZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NDM0NTU2LCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL3d3dy5rZXNzYmVybGluLmRlLyJ9fQ=='}, {'domain': '.kessberlin.de', 'expiry': 1675970554, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU1XVmpNamN3WXpBdE1HRm1ZUzAwTkdVMUxXRTNaVGd0T1dKak9UaGpaamswT0RaaA'}, {'domain': '.kessberlin.de', 'expiry': 1645644153, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.kessberlin.de', 'expiry': 1675970556, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _gat_kess
+[After] Cookie-Name 2: _gid
+[After] Cookie-Name 3: _ga
+[After] Cookie-Name 4: _shg_user_id
+[After] Cookie-Name 5: OptanonConsent
+[After] Cookie-Name 6: lo-visits
+[After] Cookie-Name 7: _vis_opt_test_cookie
+[After] Cookie-Name 8: _vis_opt_s
+[After] Cookie-Name 9: _shopify_sa_t
+[After] Cookie-Name 10: _shopify_sa_p
+[After] Cookie-Name 11: _vwo_uuid_v2
+[After] Cookie-Name 12: _shg_session_id
+[After] Cookie-Name 13: lo-uid
+[After] Cookie-Name 14: _shopify_y
+[After] Cookie-Name 15: _shopify_s
+[After] Cookie-Name 16: _s
+[After] Cookie-Name 17: _orig_referrer
+[After] Cookie-Name 18: _y
+[After] Cookie-Name 19: __kla_id
+[After] Cookie-Name 20: _pin_unauth
+[After] Cookie-Name 21: _landing_page
+[After] Cookie-Name 22: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

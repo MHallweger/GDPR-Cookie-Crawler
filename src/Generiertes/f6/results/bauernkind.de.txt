@@ -1,0 +1,70 @@
+Website 75: http://www.bauernkind.de/ | Created: 10.02.2022 12:34:51 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 18
+[Before] Website-Cookies: [{'domain': '.bauernkind.de', 'expiry': 1652268883, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644492882968.190900707'}, {'domain': '.bauernkind.de', 'expiry': 1645702482, 'httpOnly': False, 'name': '__cmpcvcu8072', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '__s23_s24__'}, {'domain': '.bauernkind.de', 'expiry': 1644494682, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T11%3A34%3A42.566Z'}, {'domain': '.bauernkind.de', 'expiry': 1644492942, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.bauernkind.de', 'expiry': 1644579282, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.596062183.1644492883'}, {'domain': '.bauernkind.de', 'expiry': 1676028882, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0135d2d2-0950-4a0f-8262-1178e1ed90fe'}, {'domain': '.bauernkind.de', 'expiry': 1644494682, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '27f49c2c-3e43-44e4-9fcf-0bddcf987c9c'}, {'domain': '.bauernkind.de', 'expiry': 1652268882, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1888516164.1644492883'}, {'domain': '.bauernkind.de', 'expiry': 1676028882, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0135d2d2-0950-4a0f-8262-1178e1ed90fe'}, {'domain': '.bauernkind.de', 'expiry': 1645702482, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.bauernkind.de', 'expiry': 1645702482, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.bauernkind.de', 'expiry': 1644494682, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.bauernkind.de', 'expiry': 1707564882, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1756090609.1644492883'}, {'domain': 'www.bauernkind.de', 'expiry': 1645702482, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.bauernkind.de', 'expiry': 1645702482, 'httpOnly': False, 'name': '__cmpcpcu8072', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '____'}, {'domain': '.bauernkind.de', 'expiry': 1644494682, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '27f49c2c-3e43-44e4-9fcf-0bddcf987c9c'}, {'domain': 'www.bauernkind.de', 'expiry': 1645702482, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': 'www.bauernkind.de', 'expiry': 1676028882, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _fbp
+[Before] Cookie-Name 2: __cmpcvcu8072
+[Before] Cookie-Name 3: _shopify_sa_t
+[Before] Cookie-Name 4: _gat
+[Before] Cookie-Name 5: _gid
+[Before] Cookie-Name 6: _shopify_y
+[Before] Cookie-Name 7: _s
+[Before] Cookie-Name 8: _gcl_au
+[Before] Cookie-Name 9: _y
+[Before] Cookie-Name 10: _orig_referrer
+[Before] Cookie-Name 11: _landing_page
+[Before] Cookie-Name 12: _shopify_sa_p
+[Before] Cookie-Name 13: _ga
+[Before] Cookie-Name 14: cart_currency
+[Before] Cookie-Name 15: __cmpcpcu8072
+[Before] Cookie-Name 16: _shopify_s
+[Before] Cookie-Name 17: localization
+[Before] Cookie-Name 18: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 19
+[After] Website-Cookies: [{'domain': '.bauernkind.de', 'expiry': 1676028897, 'httpOnly': False, 'name': '__cmpcvcu8072', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '__s94_s1494_s65_s323_s23_s7_s1_s26_s135_s905_s24_s971_s77_U__'}, {'domain': '.bauernkind.de', 'expiry': 1676028897, 'httpOnly': False, 'name': '__cmpconsent8072', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'BPUMbPNPUMbPNAfEmCDEDXAAAAAAAA'}, {'domain': '.bauernkind.de', 'expiry': 1652268897, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644492882968.190900707'}, {'domain': '.bauernkind.de', 'expiry': 1644494682, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T11%3A34%3A42.566Z'}, {'domain': '.bauernkind.de', 'expiry': 1644492942, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.bauernkind.de', 'expiry': 1644579282, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.596062183.1644492883'}, {'domain': '.bauernkind.de', 'expiry': 1676028882, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0135d2d2-0950-4a0f-8262-1178e1ed90fe'}, {'domain': '.bauernkind.de', 'expiry': 1644494682, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '27f49c2c-3e43-44e4-9fcf-0bddcf987c9c'}, {'domain': '.bauernkind.de', 'expiry': 1652268882, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1888516164.1644492883'}, {'domain': '.bauernkind.de', 'expiry': 1676028882, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0135d2d2-0950-4a0f-8262-1178e1ed90fe'}, {'domain': '.bauernkind.de', 'expiry': 1645702482, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.bauernkind.de', 'expiry': 1645702482, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.bauernkind.de', 'expiry': 1644494682, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.bauernkind.de', 'expiry': 1707564882, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1756090609.1644492883'}, {'domain': 'www.bauernkind.de', 'expiry': 1645702482, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.bauernkind.de', 'expiry': 1676028897, 'httpOnly': False, 'name': '__cmpcpcu8072', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '__51_52_54__'}, {'domain': '.bauernkind.de', 'expiry': 1644494682, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '27f49c2c-3e43-44e4-9fcf-0bddcf987c9c'}, {'domain': 'www.bauernkind.de', 'expiry': 1645702482, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': 'www.bauernkind.de', 'expiry': 1676028882, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: __cmpcvcu8072
+[After] Cookie-Name 2: __cmpconsent8072
+[After] Cookie-Name 3: _fbp
+[After] Cookie-Name 4: _shopify_sa_t
+[After] Cookie-Name 5: _gat
+[After] Cookie-Name 6: _gid
+[After] Cookie-Name 7: _shopify_y
+[After] Cookie-Name 8: _s
+[After] Cookie-Name 9: _gcl_au
+[After] Cookie-Name 10: _y
+[After] Cookie-Name 11: _orig_referrer
+[After] Cookie-Name 12: _landing_page
+[After] Cookie-Name 13: _shopify_sa_p
+[After] Cookie-Name 14: _ga
+[After] Cookie-Name 15: cart_currency
+[After] Cookie-Name 16: __cmpcpcu8072
+[After] Cookie-Name 17: _shopify_s
+[After] Cookie-Name 18: localization
+[After] Cookie-Name 19: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: __cmpconsent8072
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

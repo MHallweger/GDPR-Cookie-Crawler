@@ -1,0 +1,86 @@
+Website 247: http://www.software-eule.de/ | Created: 09.02.2022 18:21:32 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 26
+[Before] Website-Cookies: [{'domain': '.software-eule.de', 'expiry': 1675963285, 'httpOnly': False, 'name': '__zlcmid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '18Skh6bCUOBi2Vb'}, {'domain': 'www.software-eule.de', 'httpOnly': False, 'name': 'optiMonkSession', 'path': '/', 'secure': False, 'value': '1644427283'}, {'domain': 'www.software-eule.de', 'expiry': 1675963283, 'httpOnly': False, 'name': 'optiMonkClient', 'path': '/', 'secure': False, 'value': 'N4IgbADAnALDIC5QGMCGjQEYMlcgLohADS4AOZRpyAToiAKzICmAJgEzIMDM7mqzdgHYIETJgBmmIZAghSAOwD2rKiADO9AJYKthAL77SEgG6JMYODGHsAHN1IAbMwgtWb9xUrIvMhoA'}, {'domain': '.software-eule.de', 'expiry': 1675963282, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': 'n1l0|1|eyu|0'}, {'domain': '.software-eule.de', 'expiry': 1652203282, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644427282100.405830361'}, {'domain': '.software-eule.de', 'expiry': 1678591282, 'httpOnly': False, 'name': 'cto_bundle', 'path': '/', 'secure': False, 'value': '_Lccc19LYSUyQlBKaTZLVVFYSnRPUHJ5UHFhdW5TYzhrOGpOakJ0bXNnZGwyUmVOMTBEcjY5JTJGNktZRVZ2M3ZnbEVaRUQlMkZkRGNoTUFvVzJ5TXBtYVF1b3pnQ1pUQnZKajFKTzAwM3ViUElYSG5BTXNiSzRjOTlaa3ExVFklMkYwcjZFNWN5dlRRNUMzTHRNSEIyR3laeUUyV3JpVUFvUSUzRCUzRA'}, {'domain': '.software-eule.de', 'expiry': 1707499281, 'httpOnly': False, 'name': '_ga_SJ943ZMGGT', 'path': '/', 'secure': False, 'value': 'GS1.1.1644427281.1.0.1644427281.0'}, {'domain': '.software-eule.de', 'expiry': 1678123282, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': 'b3b3aeb089cc11ec9ee235fbcab121ac'}, {'domain': '.software-eule.de', 'expiry': 1644429081, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.software-eule.de', 'expiry': 1652203281, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.904748512.1644427281'}, {'domain': '.software-eule.de', 'expiry': 1644427341, 'httpOnly': False, 'name': '_gat_UA-137904174-1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.software-eule.de', 'expiry': 1644427341, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.software-eule.de', 'expiry': 1644513682, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': 'b3b3908089cc11ecbd948d1da9e0e6d7'}, {'domain': '.software-eule.de', 'expiry': 1644427341, 'httpOnly': False, 'name': '_gat_gtag_UA_137904174_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.software-eule.de', 'expiry': 1645636879, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.software-eule.de', 'expiry': 1675963283, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '00f89d95-4880-4f4b-aa44-0cf6a8a1562e'}, {'domain': 'www.software-eule.de', 'expiry': 1675963283, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.software-eule.de', 'expiry': 1644429083, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '23891129-eefe-4d2b-9f64-e08c440b2d80'}, {'domain': '.software-eule.de', 'expiry': 1707499281, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.1.1423379969.1644427282'}, {'domain': '.software-eule.de', 'expiry': 1675963283, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '00f89d95-4880-4f4b-aa44-0cf6a8a1562e'}, {'domain': 'www.software-eule.de', 'expiry': 1675963283, 'httpOnly': False, 'name': 'optiMonkClientId', 'path': '/', 'secure': False, 'value': '23cb258e-648c-491a-eb97-e126fb6bfe85'}, {'domain': '.software-eule.de', 'expiry': 1644429081, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A21%3A21.704Z'}, {'domain': '.software-eule.de', 'expiry': 1644429083, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '23891129-eefe-4d2b-9f64-e08c440b2d80'}, {'domain': '.software-eule.de', 'expiry': 1644513681, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.407087354.1644427282'}, {'domain': '.software-eule.de', 'expiry': 1644513683, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': '16an2s6|1644427283071|1|1|i.clarity.ms/collect'}, {'domain': '.software-eule.de', 'expiry': 1645636879, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[Before] Cookie-Name 1: __zlcmid
+[Before] Cookie-Name 2: optiMonkSession
+[Before] Cookie-Name 3: optiMonkClient
+[Before] Cookie-Name 4: _clck
+[Before] Cookie-Name 5: _fbp
+[Before] Cookie-Name 6: cto_bundle
+[Before] Cookie-Name 7: _ga_SJ943ZMGGT
+[Before] Cookie-Name 8: _uetvid
+[Before] Cookie-Name 9: _shopify_sa_p
+[Before] Cookie-Name 10: _gcl_au
+[Before] Cookie-Name 11: _gat_UA-137904174-1
+[Before] Cookie-Name 12: _gat
+[Before] Cookie-Name 13: _uetsid
+[Before] Cookie-Name 14: _gat_gtag_UA_137904174_1
+[Before] Cookie-Name 15: _landing_page
+[Before] Cookie-Name 16: _shopify_y
+[Before] Cookie-Name 17: secure_customer_sig
+[Before] Cookie-Name 18: _s
+[Before] Cookie-Name 19: _ga
+[Before] Cookie-Name 20: _y
+[Before] Cookie-Name 21: optiMonkClientId
+[Before] Cookie-Name 22: _shopify_sa_t
+[Before] Cookie-Name 23: _shopify_s
+[Before] Cookie-Name 24: _gid
+[Before] Cookie-Name 25: _clsk
+[Before] Cookie-Name 26: _orig_referrer
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 26
+[After] Website-Cookies: [{'domain': '.software-eule.de', 'expiry': 1707499297, 'httpOnly': False, 'name': '_ga_SJ943ZMGGT', 'path': '/', 'secure': False, 'value': 'GS1.1.1644427281.1.1.1644427297.0'}, {'domain': '.software-eule.de', 'expiry': 1675963285, 'httpOnly': False, 'name': '__zlcmid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '18Skh6bCUOBi2Vb'}, {'domain': 'www.software-eule.de', 'httpOnly': False, 'name': 'optiMonkSession', 'path': '/', 'secure': False, 'value': '1644427283'}, {'domain': 'www.software-eule.de', 'expiry': 1675963283, 'httpOnly': False, 'name': 'optiMonkClient', 'path': '/', 'secure': False, 'value': 'N4IgbADAnALDIC5QGMCGjQEYMlcgLohADS4AOZRpyAToiAKzICmAJgEzIMDM7mqzdgHYIETJgBmmIZAghSAOwD2rKiADO9AJYKthAL77SEgG6JMYODGHsAHN1IAbMwgtWb9xUrIvMhoA'}, {'domain': '.software-eule.de', 'expiry': 1675963282, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': 'n1l0|1|eyu|0'}, {'domain': '.software-eule.de', 'expiry': 1652203297, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644427282100.405830361'}, {'domain': '.software-eule.de', 'expiry': 1678591282, 'httpOnly': False, 'name': 'cto_bundle', 'path': '/', 'secure': False, 'value': '_Lccc19LYSUyQlBKaTZLVVFYSnRPUHJ5UHFhdW5TYzhrOGpOakJ0bXNnZGwyUmVOMTBEcjY5JTJGNktZRVZ2M3ZnbEVaRUQlMkZkRGNoTUFvVzJ5TXBtYVF1b3pnQ1pUQnZKajFKTzAwM3ViUElYSG5BTXNiSzRjOTlaa3ExVFklMkYwcjZFNWN5dlRRNUMzTHRNSEIyR3laeUUyV3JpVUFvUSUzRCUzRA'}, {'domain': '.software-eule.de', 'expiry': 1678123282, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': 'b3b3aeb089cc11ec9ee235fbcab121ac'}, {'domain': '.software-eule.de', 'expiry': 1644429081, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.software-eule.de', 'expiry': 1652203281, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.904748512.1644427281'}, {'domain': '.software-eule.de', 'expiry': 1644427341, 'httpOnly': False, 'name': '_gat_UA-137904174-1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.software-eule.de', 'expiry': 1644427341, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.software-eule.de', 'expiry': 1644513682, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': 'b3b3908089cc11ecbd948d1da9e0e6d7'}, {'domain': '.software-eule.de', 'expiry': 1644427341, 'httpOnly': False, 'name': '_gat_gtag_UA_137904174_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.software-eule.de', 'expiry': 1645636879, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.software-eule.de', 'expiry': 1675963283, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '00f89d95-4880-4f4b-aa44-0cf6a8a1562e'}, {'domain': 'www.software-eule.de', 'expiry': 1675963283, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.software-eule.de', 'expiry': 1644429083, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '23891129-eefe-4d2b-9f64-e08c440b2d80'}, {'domain': '.software-eule.de', 'expiry': 1707499281, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.1.1423379969.1644427282'}, {'domain': '.software-eule.de', 'expiry': 1675963283, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '00f89d95-4880-4f4b-aa44-0cf6a8a1562e'}, {'domain': 'www.software-eule.de', 'expiry': 1675963283, 'httpOnly': False, 'name': 'optiMonkClientId', 'path': '/', 'secure': False, 'value': '23cb258e-648c-491a-eb97-e126fb6bfe85'}, {'domain': '.software-eule.de', 'expiry': 1644429081, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A21%3A21.704Z'}, {'domain': '.software-eule.de', 'expiry': 1644429083, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '23891129-eefe-4d2b-9f64-e08c440b2d80'}, {'domain': '.software-eule.de', 'expiry': 1644513681, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.407087354.1644427282'}, {'domain': '.software-eule.de', 'expiry': 1644513683, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': '16an2s6|1644427283071|1|1|i.clarity.ms/collect'}, {'domain': '.software-eule.de', 'expiry': 1645636879, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: _ga_SJ943ZMGGT
+[After] Cookie-Name 2: __zlcmid
+[After] Cookie-Name 3: optiMonkSession
+[After] Cookie-Name 4: optiMonkClient
+[After] Cookie-Name 5: _clck
+[After] Cookie-Name 6: _fbp
+[After] Cookie-Name 7: cto_bundle
+[After] Cookie-Name 8: _uetvid
+[After] Cookie-Name 9: _shopify_sa_p
+[After] Cookie-Name 10: _gcl_au
+[After] Cookie-Name 11: _gat_UA-137904174-1
+[After] Cookie-Name 12: _gat
+[After] Cookie-Name 13: _uetsid
+[After] Cookie-Name 14: _gat_gtag_UA_137904174_1
+[After] Cookie-Name 15: _landing_page
+[After] Cookie-Name 16: _shopify_y
+[After] Cookie-Name 17: secure_customer_sig
+[After] Cookie-Name 18: _s
+[After] Cookie-Name 19: _ga
+[After] Cookie-Name 20: _y
+[After] Cookie-Name 21: optiMonkClientId
+[After] Cookie-Name 22: _shopify_sa_t
+[After] Cookie-Name 23: _shopify_s
+[After] Cookie-Name 24: _gid
+[After] Cookie-Name 25: _clsk
+[After] Cookie-Name 26: _orig_referrer
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _clck (Microsoft Clarity (User experience tool))
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _clsk (Microsoft Clarity (User experience tool))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

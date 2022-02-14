@@ -1,0 +1,60 @@
+Website 151: http://www.draussen.de/ | Created: 09.02.2022 17:51:55 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 15
+[Before] Website-Cookies: [{'domain': 'draussen.de', 'expiry': 1645635107, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': 'draussen.de', 'expiry': 1645635107, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'draussen.de', 'expiry': 1645635107, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644425507'}, {'domain': '.draussen.de', 'expiry': 1644427307, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6992e207-68cb-4fde-abde-b800482580a5'}, {'domain': '.draussen.de', 'expiry': 1675961507, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '662feebe-1cf6-4f5e-bc54-c05bc55596fd'}, {'domain': '.draussen.de', 'expiry': 1675961507, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '662feebe-1cf6-4f5e-bc54-c05bc55596fd'}, {'domain': '.draussen.de', 'expiry': 1644427306, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T16%3A51%3A46.042Z'}, {'domain': '.draussen.de', 'expiry': 1645635105, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2Fpassword'}, {'domain': 'draussen.de', 'expiry': 1645635107, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ec08048745394c39b52a8dd551932eea'}, {'domain': '.draussen.de', 'expiry': 1652201506, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1939819842.1644425506'}, {'domain': '.draussen.de', 'expiry': 1652201506, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644425506437.1634896316'}, {'domain': '.draussen.de', 'expiry': 1644427306, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.draussen.de', 'expiry': 1644427307, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6992e207-68cb-4fde-abde-b800482580a5'}, {'domain': '.draussen.de', 'expiry': 1645635105, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'draussen.de', 'expiry': 1675961507, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: cart_ver
+[Before] Cookie-Name 2: localization
+[Before] Cookie-Name 3: cart_ts
+[Before] Cookie-Name 4: _shopify_s
+[Before] Cookie-Name 5: _shopify_y
+[Before] Cookie-Name 6: _y
+[Before] Cookie-Name 7: _shopify_sa_t
+[Before] Cookie-Name 8: _landing_page
+[Before] Cookie-Name 9: cart
+[Before] Cookie-Name 10: _gcl_au
+[Before] Cookie-Name 11: _fbp
+[Before] Cookie-Name 12: _shopify_sa_p
+[Before] Cookie-Name 13: _s
+[Before] Cookie-Name 14: _orig_referrer
+[Before] Cookie-Name 15: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 16
+[After] Website-Cookies: [{'domain': 'draussen.de', 'expiry': 1645635107, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': 'draussen.de', 'expiry': 1645635107, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'draussen.de', 'expiry': 1645635107, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644425507'}, {'domain': '.draussen.de', 'expiry': 1644427307, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6992e207-68cb-4fde-abde-b800482580a5'}, {'domain': '.draussen.de', 'expiry': 1675961507, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '662feebe-1cf6-4f5e-bc54-c05bc55596fd'}, {'domain': 'draussen.de', 'expiry': 1675961520, 'httpOnly': False, 'name': 'cookieconsent_status', 'path': '/', 'secure': False, 'value': 'dismiss'}, {'domain': '.draussen.de', 'expiry': 1675961507, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '662feebe-1cf6-4f5e-bc54-c05bc55596fd'}, {'domain': '.draussen.de', 'expiry': 1644427306, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T16%3A51%3A46.042Z'}, {'domain': '.draussen.de', 'expiry': 1645635105, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2Fpassword'}, {'domain': 'draussen.de', 'expiry': 1645635107, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ec08048745394c39b52a8dd551932eea'}, {'domain': '.draussen.de', 'expiry': 1652201506, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1939819842.1644425506'}, {'domain': '.draussen.de', 'expiry': 1652201520, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644425506437.1634896316'}, {'domain': '.draussen.de', 'expiry': 1644427306, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.draussen.de', 'expiry': 1644427307, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6992e207-68cb-4fde-abde-b800482580a5'}, {'domain': '.draussen.de', 'expiry': 1645635105, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'draussen.de', 'expiry': 1675961507, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: cart_ver
+[After] Cookie-Name 2: localization
+[After] Cookie-Name 3: cart_ts
+[After] Cookie-Name 4: _shopify_s
+[After] Cookie-Name 5: _shopify_y
+[After] Cookie-Name 6: cookieconsent_status
+[After] Cookie-Name 7: _y
+[After] Cookie-Name 8: _shopify_sa_t
+[After] Cookie-Name 9: _landing_page
+[After] Cookie-Name 10: cart
+[After] Cookie-Name 11: _gcl_au
+[After] Cookie-Name 12: _fbp
+[After] Cookie-Name 13: _shopify_sa_p
+[After] Cookie-Name 14: _s
+[After] Cookie-Name 15: _orig_referrer
+[After] Cookie-Name 16: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: cookieconsent_status
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

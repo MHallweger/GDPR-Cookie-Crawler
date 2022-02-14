@@ -1,0 +1,61 @@
+Website 62: http://www.nahwebshop.de/ | Created: 10.02.2022 20:16:40 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 15
+[Before] Website-Cookies: [{'domain': 'www.nahwebshop.de', 'expiry': 1707592591, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ1MjA1OTIsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3Lm5haHdlYnNob3AuZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NTIwNTkyLCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL3d3dy5uYWh3ZWJzaG9wLmRlLyJ9fQ=='}, {'domain': '.nahwebshop.de', 'expiry': 1652296588, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644520588443.59168670'}, {'domain': '.nahwebshop.de', 'expiry': 1644522388, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.nahwebshop.de', 'expiry': 1644522388, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a1cddd10-09fb-43dc-bea7-6f2cf7c5dfae'}, {'domain': '.nahwebshop.de', 'expiry': 1676056587, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6494f67c-7ec8-41f0-9fd1-fe7aac2bb513'}, {'domain': '.nahwebshop.de', 'expiry': 1644522388, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a1cddd10-09fb-43dc-bea7-6f2cf7c5dfae'}, {'domain': 'www.nahwebshop.de', 'expiry': 1644522387, 'httpOnly': False, 'name': 'baMet_visit', 'path': '/', 'secure': False, 'value': '7bac7e9743c44482ae693f5c97f9ed141644520587961'}, {'domain': '.nahwebshop.de', 'expiry': 1645730187, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.nahwebshop.de', 'expiry': 1645730187, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.nahwebshop.de', 'expiry': 1644522388, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T19%3A16%3A28.094Z'}, {'domain': 'www.nahwebshop.de', 'expiry': 1676056587, 'httpOnly': False, 'name': 'ba-pr-id', 'path': '/', 'secure': False, 'value': ''}, {'domain': 'www.nahwebshop.de', 'httpOnly': False, 'name': 'usb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.nahwebshop.de', 'expiry': 1676056587, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6494f67c-7ec8-41f0-9fd1-fe7aac2bb513'}, {'domain': 'www.nahwebshop.de', 'expiry': 1676056592, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': ''}, {'domain': 'www.nahwebshop.de', 'expiry': 1676056587, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: __kla_id
+[Before] Cookie-Name 2: _fbp
+[Before] Cookie-Name 3: _shopify_sa_p
+[Before] Cookie-Name 4: _shopify_s
+[Before] Cookie-Name 5: _shopify_y
+[Before] Cookie-Name 6: _s
+[Before] Cookie-Name 7: baMet_visit
+[Before] Cookie-Name 8: _orig_referrer
+[Before] Cookie-Name 9: _landing_page
+[Before] Cookie-Name 10: _shopify_sa_t
+[Before] Cookie-Name 11: ba-pr-id
+[Before] Cookie-Name 12: usb_previous_pathname
+[Before] Cookie-Name 13: _y
+[Before] Cookie-Name 14: cookieconsent_preferences_disabled
+[Before] Cookie-Name 15: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 16
+[After] Website-Cookies: [{'domain': 'www.nahwebshop.de', 'expiry': 1676056605, 'httpOnly': False, 'name': 'cookieconsent_status', 'path': '/', 'secure': False, 'value': 'allow'}, {'domain': 'www.nahwebshop.de', 'expiry': 1707592591, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ1MjA1OTIsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3Lm5haHdlYnNob3AuZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NTIwNTkyLCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL3d3dy5uYWh3ZWJzaG9wLmRlLyJ9fQ=='}, {'domain': '.nahwebshop.de', 'expiry': 1652296605, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644520588443.59168670'}, {'domain': '.nahwebshop.de', 'expiry': 1644522388, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.nahwebshop.de', 'expiry': 1644522388, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a1cddd10-09fb-43dc-bea7-6f2cf7c5dfae'}, {'domain': '.nahwebshop.de', 'expiry': 1676056587, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6494f67c-7ec8-41f0-9fd1-fe7aac2bb513'}, {'domain': '.nahwebshop.de', 'expiry': 1644522388, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a1cddd10-09fb-43dc-bea7-6f2cf7c5dfae'}, {'domain': 'www.nahwebshop.de', 'expiry': 1644522387, 'httpOnly': False, 'name': 'baMet_visit', 'path': '/', 'secure': False, 'value': '7bac7e9743c44482ae693f5c97f9ed141644520587961'}, {'domain': '.nahwebshop.de', 'expiry': 1645730187, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.nahwebshop.de', 'expiry': 1645730187, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.nahwebshop.de', 'expiry': 1644522388, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T19%3A16%3A28.094Z'}, {'domain': 'www.nahwebshop.de', 'expiry': 1676056587, 'httpOnly': False, 'name': 'ba-pr-id', 'path': '/', 'secure': False, 'value': ''}, {'domain': 'www.nahwebshop.de', 'httpOnly': False, 'name': 'usb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.nahwebshop.de', 'expiry': 1676056587, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6494f67c-7ec8-41f0-9fd1-fe7aac2bb513'}, {'domain': 'www.nahwebshop.de', 'expiry': 1676056605, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': ''}, {'domain': 'www.nahwebshop.de', 'expiry': 1676056587, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: cookieconsent_status
+[After] Cookie-Name 2: __kla_id
+[After] Cookie-Name 3: _fbp
+[After] Cookie-Name 4: _shopify_sa_p
+[After] Cookie-Name 5: _shopify_s
+[After] Cookie-Name 6: _shopify_y
+[After] Cookie-Name 7: _s
+[After] Cookie-Name 8: baMet_visit
+[After] Cookie-Name 9: _orig_referrer
+[After] Cookie-Name 10: _landing_page
+[After] Cookie-Name 11: _shopify_sa_t
+[After] Cookie-Name 12: ba-pr-id
+[After] Cookie-Name 13: usb_previous_pathname
+[After] Cookie-Name 14: _y
+[After] Cookie-Name 15: cookieconsent_preferences_disabled
+[After] Cookie-Name 16: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: cookieconsent_status
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

@@ -1,0 +1,72 @@
+Website 251: http://www.fotofranz-online.de/ | Created: 10.02.2022 18:35:08 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 22
+[Before] Website-Cookies: [{'domain': 'www.fotofranz-online.de', 'httpOnly': False, 'name': 'fsb_total_price_381433', 'path': '/', 'secure': False, 'value': '0'}, {'domain': 'www.fotofranz-online.de', 'httpOnly': False, 'name': 'fsb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': 'www.fotofranz-online.de', 'httpOnly': False, 'name': 'usb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': 'www.fotofranz-online.de', 'expiry': 1644518098, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.fotofranz-online.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.fotofranz-online.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A34%3A57.717Z'}, {'domain': 'www.fotofranz-online.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.fotofranz-online.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.fotofranz-online.de', 'expiry': 1676050497, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.fotofranz-online.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A34%3A57.710Z'}, {'domain': '.fotofranz-online.de', 'expiry': 1676050497, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': '.fotofranz-online.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '37c909f1-3510-40ef-828e-4fec70761283'}, {'domain': '.fotofranz-online.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8cd8453a-d8eb-46ec-83ce-33f664f2da05'}, {'domain': '.fotofranz-online.de', 'expiry': 1645724097, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.fotofranz-online.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '37c909f1-3510-40ef-828e-4fec70761283'}, {'domain': 'www.fotofranz-online.de', 'expiry': 1645724109, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.fotofranz-online.de', 'expiry': 1644516309, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.fotofranz-online.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.fotofranz-online.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8cd8453a-d8eb-46ec-83ce-33f664f2da05'}, {'domain': '.fotofranz-online.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.fotofranz-online.de', 'expiry': 1645724109, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.fotofranz-online.de', 'expiry': 1676050509, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: fsb_total_price_381433
+[Before] Cookie-Name 2: fsb_previous_pathname
+[Before] Cookie-Name 3: usb_previous_pathname
+[Before] Cookie-Name 4: shopify_pay_redirect
+[Before] Cookie-Name 5: _shopify_sa_p
+[Before] Cookie-Name 6: _shopify_sa_t
+[Before] Cookie-Name 7: _shopify_evids
+[Before] Cookie-Name 8: _shopify_evids
+[Before] Cookie-Name 9: _shopify_m
+[Before] Cookie-Name 10: _shopify_d
+[Before] Cookie-Name 11: _tracking_consent
+[Before] Cookie-Name 12: _shopify_y
+[Before] Cookie-Name 13: _s
+[Before] Cookie-Name 14: _shopify_tw
+[Before] Cookie-Name 15: _y
+[Before] Cookie-Name 16: cart_currency
+[Before] Cookie-Name 17: _shopify_tm
+[Before] Cookie-Name 18: _orig_referrer
+[Before] Cookie-Name 19: _shopify_s
+[Before] Cookie-Name 20: _landing_page
+[Before] Cookie-Name 21: localization
+[Before] Cookie-Name 22: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 23
+[After] Website-Cookies: [{'domain': '.fotofranz-online.de', 'expiry': 1676050514, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': 'www.fotofranz-online.de', 'expiry': 1645724114, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '54fbae159f767cee33bf04cf34e92154'}, {'domain': 'www.fotofranz-online.de', 'httpOnly': False, 'name': 'fsb_total_price_381433', 'path': '/', 'secure': False, 'value': '0'}, {'domain': 'www.fotofranz-online.de', 'httpOnly': False, 'name': 'fsb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': 'www.fotofranz-online.de', 'httpOnly': False, 'name': 'usb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': 'www.fotofranz-online.de', 'expiry': 1644518098, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.fotofranz-online.de', 'expiry': 1644516314, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.fotofranz-online.de', 'expiry': 1644516314, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A34%3A57.717Z'}, {'domain': 'www.fotofranz-online.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.fotofranz-online.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.fotofranz-online.de', 'expiry': 1676050514, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%221%22%7D%7D'}, {'domain': '.fotofranz-online.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A34%3A57.710Z'}, {'domain': '.fotofranz-online.de', 'expiry': 1676050515, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '37c909f1-3510-40ef-828e-4fec70761283'}, {'domain': '.fotofranz-online.de', 'expiry': 1645724097, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.fotofranz-online.de', 'expiry': 1676050515, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '37c909f1-3510-40ef-828e-4fec70761283'}, {'domain': '.fotofranz-online.de', 'expiry': 1644516315, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8cd8453a-d8eb-46ec-83ce-33f664f2da05'}, {'domain': 'www.fotofranz-online.de', 'expiry': 1645724115, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.fotofranz-online.de', 'expiry': 1644516315, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.fotofranz-online.de', 'expiry': 1645724114, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.fotofranz-online.de', 'expiry': 1644516315, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8cd8453a-d8eb-46ec-83ce-33f664f2da05'}, {'domain': '.fotofranz-online.de', 'expiry': 1645724114, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.fotofranz-online.de', 'expiry': 1645724115, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.fotofranz-online.de', 'expiry': 1676050515, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _shopify_m
+[After] Cookie-Name 2: cart_sig
+[After] Cookie-Name 3: fsb_total_price_381433
+[After] Cookie-Name 4: fsb_previous_pathname
+[After] Cookie-Name 5: usb_previous_pathname
+[After] Cookie-Name 6: shopify_pay_redirect
+[After] Cookie-Name 7: _shopify_sa_p
+[After] Cookie-Name 8: _shopify_sa_t
+[After] Cookie-Name 9: _shopify_evids
+[After] Cookie-Name 10: _shopify_evids
+[After] Cookie-Name 11: _tracking_consent
+[After] Cookie-Name 12: _shopify_d
+[After] Cookie-Name 13: _y
+[After] Cookie-Name 14: _shopify_tw
+[After] Cookie-Name 15: _shopify_y
+[After] Cookie-Name 16: _s
+[After] Cookie-Name 17: cart_currency
+[After] Cookie-Name 18: _shopify_tm
+[After] Cookie-Name 19: _orig_referrer
+[After] Cookie-Name 20: _shopify_s
+[After] Cookie-Name 21: _landing_page
+[After] Cookie-Name 22: localization
+[After] Cookie-Name 23: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: cart_sig
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is NOT GDPR compliant!

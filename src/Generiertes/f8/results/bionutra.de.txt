@@ -1,0 +1,101 @@
+Website 15: http://www.bionutra.de/ | Created: 10.02.2022 20:01:59 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 9
+[Before] Website-Cookies: [{'domain': '.bionutra.de', 'expiry': 1645729308, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.bionutra.de', 'expiry': 1644521509, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.bionutra.de', 'expiry': 1645729309, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.bionutra.de', 'expiry': 1676055708, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.bionutra.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.bionutra.de', 'expiry': 1676055708, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': '.bionutra.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.bionutra.de', 'expiry': 1676055709, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'www.bionutra.de', 'expiry': 1645729308, 'httpOnly': True, 'name': 'keep_alive', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f023a9c1-2e3a-4249-9e97-f9e279ebe197'}]
+[Before] Cookie-Name 1: _shopify_tw
+[Before] Cookie-Name 2: _shopify_tm
+[Before] Cookie-Name 3: cart_currency
+[Before] Cookie-Name 4: _shopify_m
+[Before] Cookie-Name 5: _landing_page
+[Before] Cookie-Name 6: _tracking_consent
+[Before] Cookie-Name 7: _orig_referrer
+[Before] Cookie-Name 8: secure_customer_sig
+[Before] Cookie-Name 9: keep_alive
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 40
+[After] Website-Cookies: [{'domain': '.bionutra.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.bionutra.de', 'expiry': 1676055725, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22con%22%3A%7B%22CCPA%22%3A%221%22%2C%22GDPR%22%3A%22%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%7D'}, {'domain': '.bionutra.de', 'expiry': 1652295725, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644519725203.806200151'}, {'domain': 'www.bionutra.de', 'expiry': 1645729325, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f4580cf29de842d118f320743472a97d'}, {'domain': '.bionutra.de', 'expiry': 1644519785, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.bionutra.de', 'expiry': 1644606125, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.898841503.1644519725'}, {'domain': '.bionutra.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a2c5dd61-aef8-47b1-9926-e4d07542f438'}, {'domain': '.bionutra.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f023a9c1-2e3a-4249-9e97-f9e279ebe197'}, {'domain': '.bionutra.de', 'expiry': 1676055724, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': '.bionutra.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T19%3A01%3A48.857Z'}, {'domain': '.bionutra.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a2c5dd61-aef8-47b1-9926-e4d07542f438'}, {'domain': 'www.bionutra.de', 'expiry': 1645729325, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': '.bionutra.de', 'expiry': 1645729324, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.bionutra.de', 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0tYb8avzWLYfMq-20220210190150'}, {'domain': '.bionutra.de', 'expiry': 1645729324, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.bionutra.de', 'httpOnly': False, 'name': '_clsk', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1yzgvh2|1644519710151|1|1|d.clarity.ms/collect'}, {'domain': 'www.bionutra.de', 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b6NPWSOsWLNl18-20220210190150'}, {'domain': 'www.bionutra.de', 'expiry': 1645729308, 'httpOnly': True, 'name': 'keep_alive', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f023a9c1-2e3a-4249-9e97-f9e279ebe197'}, {'domain': 'www.bionutra.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.bionutra.de', 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1.1.938102308.1644519708'}, {'domain': 'www.bionutra.de', 'expiry': 1645729325, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cfc3bff0bc77b02d9f0c445f65486ddd'}, {'domain': 'www.bionutra.de', 'expiry': 1645729325, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.bionutra.de', 'expiry': 1645729308, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.bionutra.de', 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e6480e708aa311ec93656f98af243f1f'}, {'domain': 'www.bionutra.de', 'expiry': 1645729324, 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T19%3A01%3A48.762Z'}, {'domain': 'www.bionutra.de', 'expiry': 1676055724, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a2c5dd61-aef8-47b1-9926-e4d07542f438'}, {'domain': 'www.bionutra.de', 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e64824b08aa311ecaf77ef445303a5a9'}, {'domain': '.bionutra.de', 'expiry': 1707591725, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1909749521.1644519725'}, {'domain': 'www.bionutra.de', 'httpOnly': False, 'name': '_clck', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5zznyb|1|eyv|0'}, {'domain': 'www.bionutra.de', 'expiry': 1647111724, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0NTE5NzI0Mzg2LCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjoxfX0='}, {'domain': 'www.bionutra.de', 'expiry': 1644521524, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T19%3A01%3A48.857Z'}, {'domain': 'www.bionutra.de', 'expiry': 1645729325, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644519724'}, {'domain': 'www.bionutra.de', 'expiry': 1676055724, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a2c5dd61-aef8-47b1-9926-e4d07542f438'}, {'domain': 'www.bionutra.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '20220210190150-Vs8Fp2xKM7agSWsisMAQ7cZt8NdBtsw6lLHbU9MUEEQF1Gy9O'}, {'domain': 'www.bionutra.de', 'expiry': 1644521524, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f023a9c1-2e3a-4249-9e97-f9e279ebe197'}, {'domain': '.bionutra.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f023a9c1-2e3a-4249-9e97-f9e279ebe197'}, {'domain': 'www.bionutra.de', 'expiry': 1644521524, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f023a9c1-2e3a-4249-9e97-f9e279ebe197'}, {'domain': '.bionutra.de', 'expiry': 1644521525, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.bionutra.de', 'expiry': 1676055725, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'www.bionutra.de', 'expiry': 1645729325, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}]
+[After] Cookie-Name 1: _shopify_evids
+[After] Cookie-Name 2: _tracking_consent
+[After] Cookie-Name 3: _fbp
+[After] Cookie-Name 4: cart
+[After] Cookie-Name 5: _gat
+[After] Cookie-Name 6: _gid
+[After] Cookie-Name 7: _shopify_y
+[After] Cookie-Name 8: _s
+[After] Cookie-Name 9: _shopify_m
+[After] Cookie-Name 10: _shopify_sa_t
+[After] Cookie-Name 11: _y
+[After] Cookie-Name 12: cart_ver
+[After] Cookie-Name 13: _landing_page
+[After] Cookie-Name 14: omnisendAnonymousID
+[After] Cookie-Name 15: _orig_referrer
+[After] Cookie-Name 16: _clsk
+[After] Cookie-Name 17: omnisendSessionID
+[After] Cookie-Name 18: keep_alive
+[After] Cookie-Name 19: _shopify_evids
+[After] Cookie-Name 20: _gcl_au
+[After] Cookie-Name 21: cart_sig
+[After] Cookie-Name 22: localization
+[After] Cookie-Name 23: _shopify_tw
+[After] Cookie-Name 24: _uetsid
+[After] Cookie-Name 25: _shopify_d
+[After] Cookie-Name 26: _shopify_y
+[After] Cookie-Name 27: _uetvid
+[After] Cookie-Name 28: _ga
+[After] Cookie-Name 29: _clck
+[After] Cookie-Name 30: _bc_c_set
+[After] Cookie-Name 31: _shopify_sa_t
+[After] Cookie-Name 32: cart_ts
+[After] Cookie-Name 33: _y
+[After] Cookie-Name 34: soundestID
+[After] Cookie-Name 35: _shopify_s
+[After] Cookie-Name 36: _shopify_s
+[After] Cookie-Name 37: _s
+[After] Cookie-Name 38: _shopify_tm
+[After] Cookie-Name 39: secure_customer_sig
+[After] Cookie-Name 40: cart_currency
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 25
+[Difference] Cookie-Name: 1: _fbp
+[Difference] Cookie-Name: 2: cart_sig
+[Difference] Cookie-Name: 3: _uetvid
+[Difference] Cookie-Name: 4: _shopify_evids
+[Difference] Cookie-Name: 5: _gat
+[Difference] Cookie-Name: 6: _ga
+[Difference] Cookie-Name: 7: cart_ts
+[Difference] Cookie-Name: 8: _clsk
+[Difference] Cookie-Name: 9: _gcl_au
+[Difference] Cookie-Name: 10: _shopify_sa_t
+[Difference] Cookie-Name: 11: omnisendAnonymousID
+[Difference] Cookie-Name: 12: _y
+[Difference] Cookie-Name: 13: _uetsid
+[Difference] Cookie-Name: 14: _bc_c_set
+[Difference] Cookie-Name: 15: _clck
+[Difference] Cookie-Name: 16: cart
+[Difference] Cookie-Name: 17: soundestID
+[Difference] Cookie-Name: 18: _shopify_y
+[Difference] Cookie-Name: 19: _shopify_s
+[Difference] Cookie-Name: 20: _s
+[Difference] Cookie-Name: 21: _gid
+[Difference] Cookie-Name: 22: localization
+[Difference] Cookie-Name: 23: cart_ver
+[Difference] Cookie-Name: 24: _shopify_d
+[Difference] Cookie-Name: 25: omnisendSessionID
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

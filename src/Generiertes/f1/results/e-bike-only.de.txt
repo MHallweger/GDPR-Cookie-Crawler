@@ -1,0 +1,86 @@
+Website 388: http://www.e-bike-only.de/ | Created: 08.02.2022 23:37:49 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 24
+[Before] Website-Cookies: [{'domain': 'e-bike-only.de', 'expiry': 1707431860, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQzNTk4NjEsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vZS1iaWtlLW9ubHkuZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0MzU5ODYxLCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL2UtYmlrZS1vbmx5LmRlLyJ9fQ=='}, {'domain': 'e-bike-only.de', 'expiry': 1675895860, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.e-bike-only.de', 'expiry': 1644361199, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.e-bike-only.de', 'expiry': 1652135861, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644359860826.1226137143'}, {'domain': '.e-bike-only.de', 'expiry': 1675895860, 'httpOnly': False, 'name': 'ajs_anonymous_id', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%227bdce07d-cc18-4a8f-9318-9c26ce14cd03%22'}, {'domain': 'e-bike-only.de', 'expiry': 1644361660, 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'secure': True, 'value': 'e90342a6-4957-4ce5-bc83-a2d370ae9962'}, {'domain': '.e-bike-only.de', 'expiry': 1644361660, 'httpOnly': False, 'name': '_hjSession_2433182', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjVkNTU1ZGNlLThkNTQtNDY0NS1iNDJmLTFkMWNhODkyNzc3ZCIsImNyZWF0ZWQiOjE2NDQzNTk4NjA2MjIsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': 'e-bike-only.de', 'expiry': 1802039860, 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'secure': True, 'value': '6c678ac5-39a5-4e9b-b8ba-81b5396ed37f'}, {'domain': '.e-bike-only.de', 'expiry': 1644361660, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f9406f1a-de9a-455e-8449-40db6e3e915b'}, {'domain': '.e-bike-only.de', 'expiry': 1644361660, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.e-bike-only.de', 'expiry': 1675895860, 'httpOnly': False, 'name': '_hjSessionUser_2433182', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImNmZDE3ZTY0LTg4MmUtNWNlNy05ZTI2LTFkOTliNTllNGUyNiIsImNyZWF0ZWQiOjE2NDQzNTk4NjA1OTcsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.e-bike-only.de', 'expiry': 1644361660, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T22%3A37%3A40.465Z'}, {'domain': '.e-bike-only.de', 'expiry': 1644359920, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.e-bike-only.de', 'expiry': 1644361660, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f9406f1a-de9a-455e-8449-40db6e3e915b'}, {'domain': '.e-bike-only.de', 'expiry': 1675895860, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1879fed6-2d26-433d-946d-f550a7fe64aa'}, {'domain': '.e-bike-only.de', 'expiry': 1644361660, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'e-bike-only.de', 'expiry': 1644359980, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.e-bike-only.de', 'expiry': 1675895860, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1879fed6-2d26-433d-946d-f550a7fe64aa'}, {'domain': 'e-bike-only.de', 'expiry': 1645569460, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.e-bike-only.de', 'expiry': 1645569460, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.e-bike-only.de', 'expiry': 1644446260, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.867218128.1644359861'}, {'domain': '.e-bike-only.de', 'expiry': 1645569460, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.e-bike-only.de', 'expiry': 1707431860, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1678043502.1644359861'}, {'domain': 'e-bike-only.de', 'expiry': 1645569460, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}]
+[Before] Cookie-Name 1: __kla_id
+[Before] Cookie-Name 2: secure_customer_sig
+[Before] Cookie-Name 3: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 4: _fbp
+[Before] Cookie-Name 5: ajs_anonymous_id
+[Before] Cookie-Name 6: _shg_session_id
+[Before] Cookie-Name 7: _hjSession_2433182
+[Before] Cookie-Name 8: _shg_user_id
+[Before] Cookie-Name 9: _shopify_s
+[Before] Cookie-Name 10: _hjFirstSeen
+[Before] Cookie-Name 11: _hjSessionUser_2433182
+[Before] Cookie-Name 12: _shopify_sa_t
+[Before] Cookie-Name 13: _gat
+[Before] Cookie-Name 14: _s
+[Before] Cookie-Name 15: _y
+[Before] Cookie-Name 16: _shopify_sa_p
+[Before] Cookie-Name 17: _hjIncludedInPageviewSample
+[Before] Cookie-Name 18: _shopify_y
+[Before] Cookie-Name 19: localization
+[Before] Cookie-Name 20: _orig_referrer
+[Before] Cookie-Name 21: _gid
+[Before] Cookie-Name 22: _landing_page
+[Before] Cookie-Name 23: _ga
+[Before] Cookie-Name 24: cart_currency
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 24
+[After] Website-Cookies: [{'domain': 'e-bike-only.de', 'expiry': 1707431860, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQzNTk4NjEsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vZS1iaWtlLW9ubHkuZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0MzU5ODYxLCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL2UtYmlrZS1vbmx5LmRlLyJ9fQ=='}, {'domain': 'e-bike-only.de', 'expiry': 1675895860, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.e-bike-only.de', 'expiry': 1644361199, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.e-bike-only.de', 'expiry': 1652135861, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644359860826.1226137143'}, {'domain': '.e-bike-only.de', 'expiry': 1675895860, 'httpOnly': False, 'name': 'ajs_anonymous_id', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%227bdce07d-cc18-4a8f-9318-9c26ce14cd03%22'}, {'domain': 'e-bike-only.de', 'expiry': 1644361660, 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'secure': True, 'value': 'e90342a6-4957-4ce5-bc83-a2d370ae9962'}, {'domain': '.e-bike-only.de', 'expiry': 1644361660, 'httpOnly': False, 'name': '_hjSession_2433182', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjVkNTU1ZGNlLThkNTQtNDY0NS1iNDJmLTFkMWNhODkyNzc3ZCIsImNyZWF0ZWQiOjE2NDQzNTk4NjA2MjIsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': 'e-bike-only.de', 'expiry': 1802039860, 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'secure': True, 'value': '6c678ac5-39a5-4e9b-b8ba-81b5396ed37f'}, {'domain': '.e-bike-only.de', 'expiry': 1644361660, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f9406f1a-de9a-455e-8449-40db6e3e915b'}, {'domain': '.e-bike-only.de', 'expiry': 1644361660, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.e-bike-only.de', 'expiry': 1675895860, 'httpOnly': False, 'name': '_hjSessionUser_2433182', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImNmZDE3ZTY0LTg4MmUtNWNlNy05ZTI2LTFkOTliNTllNGUyNiIsImNyZWF0ZWQiOjE2NDQzNTk4NjA1OTcsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.e-bike-only.de', 'expiry': 1644361660, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T22%3A37%3A40.465Z'}, {'domain': '.e-bike-only.de', 'expiry': 1644359920, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.e-bike-only.de', 'expiry': 1644361660, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f9406f1a-de9a-455e-8449-40db6e3e915b'}, {'domain': '.e-bike-only.de', 'expiry': 1675895860, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1879fed6-2d26-433d-946d-f550a7fe64aa'}, {'domain': '.e-bike-only.de', 'expiry': 1644361660, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'e-bike-only.de', 'expiry': 1644359980, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.e-bike-only.de', 'expiry': 1675895860, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1879fed6-2d26-433d-946d-f550a7fe64aa'}, {'domain': 'e-bike-only.de', 'expiry': 1645569460, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.e-bike-only.de', 'expiry': 1645569460, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.e-bike-only.de', 'expiry': 1644446260, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.867218128.1644359861'}, {'domain': '.e-bike-only.de', 'expiry': 1645569460, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.e-bike-only.de', 'expiry': 1707431860, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1678043502.1644359861'}, {'domain': 'e-bike-only.de', 'expiry': 1645569460, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}]
+[After] Cookie-Name 1: __kla_id
+[After] Cookie-Name 2: secure_customer_sig
+[After] Cookie-Name 3: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 4: _fbp
+[After] Cookie-Name 5: ajs_anonymous_id
+[After] Cookie-Name 6: _shg_session_id
+[After] Cookie-Name 7: _hjSession_2433182
+[After] Cookie-Name 8: _shg_user_id
+[After] Cookie-Name 9: _shopify_s
+[After] Cookie-Name 10: _hjFirstSeen
+[After] Cookie-Name 11: _hjSessionUser_2433182
+[After] Cookie-Name 12: _shopify_sa_t
+[After] Cookie-Name 13: _gat
+[After] Cookie-Name 14: _s
+[After] Cookie-Name 15: _y
+[After] Cookie-Name 16: _shopify_sa_p
+[After] Cookie-Name 17: _hjIncludedInPageviewSample
+[After] Cookie-Name 18: _shopify_y
+[After] Cookie-Name 19: localization
+[After] Cookie-Name 20: _orig_referrer
+[After] Cookie-Name 21: _gid
+[After] Cookie-Name 22: _landing_page
+[After] Cookie-Name 23: _ga
+[After] Cookie-Name 24: cart_currency
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _hjIncludedInPageviewSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

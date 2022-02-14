@@ -1,0 +1,102 @@
+Website 243: http://www.saricurls.de/ | Created: 10.02.2022 13:25:03 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 33
+[Before] Website-Cookies: [{'domain': '.saricurls.de', 'expiry': 1676031894, 'httpOnly': False, 'name': 'swym-cu_ct', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'undefined'}, {'domain': '.saricurls.de', 'expiry': 1676031893, 'httpOnly': False, 'name': 'swym-email', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'null'}, {'domain': '.saricurls.de', 'expiry': 1676031893, 'httpOnly': False, 'name': 'swym-swymRegid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"xJjNZpUcteaWO6Cu7sDVUqghLLz6V7yZMgU79fqfVyFs5CUmeF64hR06YJC61d7zLGLHEjvpY5CMv0UvbegZqjZicajiD_hIOZffZGPUStc0vdXPiyOyrcHZE5Fp8Q4sAYm6NRg0Yme4SDwWBxVPemvT-sMg23yR5oeqVE2UOgs"'}, {'domain': '.saricurls.de', 'expiry': 1644497693, 'httpOnly': False, 'name': 'swym-o_s', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'true'}, {'domain': 'saricurls.de', 'expiry': 1645705492, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A2'}, {'domain': 'saricurls.de', 'expiry': 1645705492, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1b4e7656cb7326c469b451d3cc63ba0d'}, {'domain': 'saricurls.de', 'expiry': 1645705492, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3409c75ac43778736b263baa67a4504c'}, {'domain': 'saricurls.de', 'expiry': 1707567893, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0OTU4OTMsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vc2FyaWN1cmxzLmRlLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDQ5NTg5MywidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly9zYXJpY3VybHMuZGUvIn19'}, {'domain': '.saricurls.de', 'expiry': 1644497705, 'httpOnly': False, 'name': 'swym-session-id', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"ifc54vkwlgks6xh9tppfqdt6cpmb9ia15qrarrgxpanaim1lxtbjh0dzqc4xmho3"'}, {'domain': 'saricurls.de', 'expiry': 1644496012, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.saricurls.de', 'expiry': 1676031894, 'httpOnly': False, 'name': '__zlcmid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '18TkhE5VuQyaXKS'}, {'domain': '.saricurls.de', 'expiry': 1644497691, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.saricurls.de', 'expiry': 1644497692, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.saricurls.de', 'expiry': 1676031892, 'httpOnly': False, 'name': '_hjSessionUser_2691054', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjdhMjg0NTk2LTY2OWEtNTVmNi05MTA5LTg1MTBmODUwNjU4NCIsImNyZWF0ZWQiOjE2NDQ0OTU4OTIxNDIsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.saricurls.de', 'expiry': 1652271892, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644495892402.1256660429'}, {'domain': 'saricurls.de', 'expiry': 1644496012, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'saricurls.de', 'expiry': 1645705492, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.saricurls.de', 'expiry': 1644497691, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T12%3A24%3A51.957Z'}, {'domain': '.saricurls.de', 'expiry': 1644497692, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.saricurls.de', 'expiry': 1644582292, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1641444151.1644495892'}, {'domain': '.saricurls.de', 'expiry': 1644497693, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bcd8508b-2f36-42a8-ba82-b12ccb7742d1'}, {'domain': 'saricurls.de', 'expiry': 1676031893, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.saricurls.de', 'expiry': 1676031893, 'httpOnly': False, 'name': 'swym-pid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"Ku+VtEUhgxBOw1vvfhE3Nuwq/hW/YGZF+gNDENH8E2Q="'}, {'domain': 'saricurls.de', 'expiry': 1645705492, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.saricurls.de', 'expiry': 1707567892, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1178354443.1644495892'}, {'domain': '.saricurls.de', 'expiry': 1645705491, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.saricurls.de', 'expiry': 1644495952, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.saricurls.de', 'expiry': 1676031893, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'afd2e82c-b312-42f7-8f68-f3a492dcf810'}, {'domain': '.saricurls.de', 'expiry': 1645705491, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.saricurls.de', 'expiry': 1644497692, 'httpOnly': False, 'name': '_hjSession_2691054', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImUzMjMwZTliLTliZTEtNDM5Zi05MmY1LTJkN2VhMGI3YzQyNiIsImNyZWF0ZWQiOjE2NDQ0OTU4OTI5NjUsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': 'saricurls.de', 'expiry': 1645705492, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644495893'}, {'domain': '.saricurls.de', 'expiry': 1644497693, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bcd8508b-2f36-42a8-ba82-b12ccb7742d1'}, {'domain': '.saricurls.de', 'expiry': 1676031893, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'afd2e82c-b312-42f7-8f68-f3a492dcf810'}]
+[Before] Cookie-Name 1: swym-cu_ct
+[Before] Cookie-Name 2: swym-email
+[Before] Cookie-Name 3: swym-swymRegid
+[Before] Cookie-Name 4: swym-o_s
+[Before] Cookie-Name 5: cart_ver
+[Before] Cookie-Name 6: cart_sig
+[Before] Cookie-Name 7: cart
+[Before] Cookie-Name 8: __kla_id
+[Before] Cookie-Name 9: swym-session-id
+[Before] Cookie-Name 10: _hjIncludedInPageviewSample
+[Before] Cookie-Name 11: __zlcmid
+[Before] Cookie-Name 12: _shopify_sa_p
+[Before] Cookie-Name 13: _hjFirstSeen
+[Before] Cookie-Name 14: _hjSessionUser_2691054
+[Before] Cookie-Name 15: _fbp
+[Before] Cookie-Name 16: _hjIncludedInSessionSample
+[Before] Cookie-Name 17: localization
+[Before] Cookie-Name 18: _shopify_sa_t
+[Before] Cookie-Name 19: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 20: _gid
+[Before] Cookie-Name 21: _s
+[Before] Cookie-Name 22: secure_customer_sig
+[Before] Cookie-Name 23: swym-pid
+[Before] Cookie-Name 24: cart_currency
+[Before] Cookie-Name 25: _ga
+[Before] Cookie-Name 26: _landing_page
+[Before] Cookie-Name 27: _gat
+[Before] Cookie-Name 28: _y
+[Before] Cookie-Name 29: _orig_referrer
+[Before] Cookie-Name 30: _hjSession_2691054
+[Before] Cookie-Name 31: cart_ts
+[Before] Cookie-Name 32: _shopify_s
+[Before] Cookie-Name 33: _shopify_y
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 33
+[After] Website-Cookies: [{'domain': '.saricurls.de', 'expiry': 1676031894, 'httpOnly': False, 'name': 'swym-cu_ct', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'undefined'}, {'domain': '.saricurls.de', 'expiry': 1676031893, 'httpOnly': False, 'name': 'swym-email', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'null'}, {'domain': '.saricurls.de', 'expiry': 1676031893, 'httpOnly': False, 'name': 'swym-swymRegid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"xJjNZpUcteaWO6Cu7sDVUqghLLz6V7yZMgU79fqfVyFs5CUmeF64hR06YJC61d7zLGLHEjvpY5CMv0UvbegZqjZicajiD_hIOZffZGPUStc0vdXPiyOyrcHZE5Fp8Q4sAYm6NRg0Yme4SDwWBxVPemvT-sMg23yR5oeqVE2UOgs"'}, {'domain': '.saricurls.de', 'expiry': 1644497693, 'httpOnly': False, 'name': 'swym-o_s', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'true'}, {'domain': 'saricurls.de', 'expiry': 1645705492, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A2'}, {'domain': 'saricurls.de', 'expiry': 1645705492, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1b4e7656cb7326c469b451d3cc63ba0d'}, {'domain': 'saricurls.de', 'expiry': 1645705492, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3409c75ac43778736b263baa67a4504c'}, {'domain': 'saricurls.de', 'expiry': 1707567893, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0OTU4OTMsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vc2FyaWN1cmxzLmRlLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDQ5NTg5MywidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly9zYXJpY3VybHMuZGUvIn19'}, {'domain': '.saricurls.de', 'expiry': 1644497709, 'httpOnly': False, 'name': 'swym-session-id', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"ifc54vkwlgks6xh9tppfqdt6cpmb9ia15qrarrgxpanaim1lxtbjh0dzqc4xmho3"'}, {'domain': 'saricurls.de', 'expiry': 1644496012, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.saricurls.de', 'expiry': 1676031894, 'httpOnly': False, 'name': '__zlcmid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '18TkhE5VuQyaXKS'}, {'domain': '.saricurls.de', 'expiry': 1644497691, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.saricurls.de', 'expiry': 1644497692, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.saricurls.de', 'expiry': 1676031892, 'httpOnly': False, 'name': '_hjSessionUser_2691054', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjdhMjg0NTk2LTY2OWEtNTVmNi05MTA5LTg1MTBmODUwNjU4NCIsImNyZWF0ZWQiOjE2NDQ0OTU4OTIxNDIsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.saricurls.de', 'expiry': 1652271908, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644495892402.1256660429'}, {'domain': 'saricurls.de', 'expiry': 1644496012, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'saricurls.de', 'expiry': 1645705492, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.saricurls.de', 'expiry': 1644497691, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T12%3A24%3A51.957Z'}, {'domain': '.saricurls.de', 'expiry': 1644497692, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.saricurls.de', 'expiry': 1644582292, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1641444151.1644495892'}, {'domain': '.saricurls.de', 'expiry': 1644497693, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bcd8508b-2f36-42a8-ba82-b12ccb7742d1'}, {'domain': 'saricurls.de', 'expiry': 1676031893, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.saricurls.de', 'expiry': 1676031893, 'httpOnly': False, 'name': 'swym-pid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"Ku+VtEUhgxBOw1vvfhE3Nuwq/hW/YGZF+gNDENH8E2Q="'}, {'domain': 'saricurls.de', 'expiry': 1645705492, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.saricurls.de', 'expiry': 1707567892, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1178354443.1644495892'}, {'domain': '.saricurls.de', 'expiry': 1645705491, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.saricurls.de', 'expiry': 1644495952, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.saricurls.de', 'expiry': 1676031893, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'afd2e82c-b312-42f7-8f68-f3a492dcf810'}, {'domain': '.saricurls.de', 'expiry': 1645705491, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.saricurls.de', 'expiry': 1644497692, 'httpOnly': False, 'name': '_hjSession_2691054', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImUzMjMwZTliLTliZTEtNDM5Zi05MmY1LTJkN2VhMGI3YzQyNiIsImNyZWF0ZWQiOjE2NDQ0OTU4OTI5NjUsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': 'saricurls.de', 'expiry': 1645705492, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644495893'}, {'domain': '.saricurls.de', 'expiry': 1644497693, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bcd8508b-2f36-42a8-ba82-b12ccb7742d1'}, {'domain': '.saricurls.de', 'expiry': 1676031893, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'afd2e82c-b312-42f7-8f68-f3a492dcf810'}]
+[After] Cookie-Name 1: swym-cu_ct
+[After] Cookie-Name 2: swym-email
+[After] Cookie-Name 3: swym-swymRegid
+[After] Cookie-Name 4: swym-o_s
+[After] Cookie-Name 5: cart_ver
+[After] Cookie-Name 6: cart_sig
+[After] Cookie-Name 7: cart
+[After] Cookie-Name 8: __kla_id
+[After] Cookie-Name 9: swym-session-id
+[After] Cookie-Name 10: _hjIncludedInPageviewSample
+[After] Cookie-Name 11: __zlcmid
+[After] Cookie-Name 12: _shopify_sa_p
+[After] Cookie-Name 13: _hjFirstSeen
+[After] Cookie-Name 14: _hjSessionUser_2691054
+[After] Cookie-Name 15: _fbp
+[After] Cookie-Name 16: _hjIncludedInSessionSample
+[After] Cookie-Name 17: localization
+[After] Cookie-Name 18: _shopify_sa_t
+[After] Cookie-Name 19: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 20: _gid
+[After] Cookie-Name 21: _s
+[After] Cookie-Name 22: secure_customer_sig
+[After] Cookie-Name 23: swym-pid
+[After] Cookie-Name 24: cart_currency
+[After] Cookie-Name 25: _ga
+[After] Cookie-Name 26: _landing_page
+[After] Cookie-Name 27: _gat
+[After] Cookie-Name 28: _y
+[After] Cookie-Name 29: _orig_referrer
+[After] Cookie-Name 30: _hjSession_2691054
+[After] Cookie-Name 31: cart_ts
+[After] Cookie-Name 32: _shopify_s
+[After] Cookie-Name 33: _shopify_y
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _hjIncludedInPageviewSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _hjIncludedInSessionSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gat (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

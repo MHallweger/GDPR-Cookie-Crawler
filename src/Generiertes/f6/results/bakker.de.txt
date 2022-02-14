@@ -1,0 +1,80 @@
+Website 235: http://www.bakker.de/ | Created: 10.02.2022 13:22:33 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 23
+[Before] Website-Cookies: [{'domain': '.bakker.com', 'expiry': 1690629745, 'httpOnly': False, 'name': 'ku1-vid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': 'dcb1b3a5-8fb4-c6dc-39e7-5ee90be5fd04'}, {'domain': 'de-de.bakker.com', 'httpOnly': False, 'name': 'qab_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.bakker.com', 'expiry': 1707567744, 'httpOnly': False, 'name': '_flowbox', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9def7db1-1f09-2a28-e3af-b2fcf53cdec4'}, {'domain': 'de-de.bakker.com', 'expiry': 1644495803, 'httpOnly': False, 'name': 'country_popup-country_code', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': '.bakker.com', 'expiry': 1652271744, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644495743904.2022310070'}, {'domain': '.bakker.com', 'expiry': 1644582143, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1946744845.1644495744'}, {'domain': 'de-de.bakker.com', 'expiry': 1676031744, 'httpOnly': False, 'name': 'sec-banner', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': 'de-de.bakker.com', 'expiry': 1802175744, 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'secure': True, 'value': '70a3c623-d41b-4169-80b3-c36ae2101773'}, {'domain': '.bakker.com', 'expiry': 1644495803, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.bakker.com', 'expiry': 1644497543, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.bakker.com', 'expiry': 1644497543, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T12%3A22%3A23.817Z'}, {'domain': '.bakker.com', 'expiry': 1707567743, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1872037921.1644495744'}, {'domain': '.bakker.com', 'expiry': 1676031745, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '555b3395-da2e-4b00-bac0-8d0dc596df80'}, {'domain': '.bakker.com', 'expiry': 1644497545, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '140e11a6-320e-4249-976a-8cedb1092f4e'}, {'domain': '.bakker.com', 'expiry': 1707567743, 'httpOnly': False, 'name': '_ga_FH1KKBGQVX', 'path': '/', 'secure': False, 'value': 'GS1.1.1644495743.1.0.1644495743.0'}, {'domain': '.bakker.com', 'httpOnly': False, 'name': 'ku1-sid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': 'fqOPdai1GI_XmFcGCPKXJ'}, {'domain': '.bakker.com', 'expiry': 1676031745, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '555b3395-da2e-4b00-bac0-8d0dc596df80'}, {'domain': 'de-de.bakker.com', 'httpOnly': False, 'name': 'snize-recommendation', 'path': '/', 'secure': False, 'value': '602cdzouzyj'}, {'domain': '.bakker.com', 'expiry': 1645705343, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.bakker.com', 'expiry': 1644497545, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '140e11a6-320e-4249-976a-8cedb1092f4e'}, {'domain': 'de-de.bakker.com', 'expiry': 1644497544, 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'secure': True, 'value': '0a71bef2-6d0a-4724-abbc-d56666517f63'}, {'domain': '.bakker.com', 'expiry': 1645705343, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'de-de.bakker.com', 'expiry': 1676031745, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: ku1-vid
+[Before] Cookie-Name 2: qab_previous_pathname
+[Before] Cookie-Name 3: _flowbox
+[Before] Cookie-Name 4: country_popup-country_code
+[Before] Cookie-Name 5: _fbp
+[Before] Cookie-Name 6: _gid
+[Before] Cookie-Name 7: sec-banner
+[Before] Cookie-Name 8: _shg_user_id
+[Before] Cookie-Name 9: _gat
+[Before] Cookie-Name 10: _shopify_sa_p
+[Before] Cookie-Name 11: _shopify_sa_t
+[Before] Cookie-Name 12: _ga
+[Before] Cookie-Name 13: _y
+[Before] Cookie-Name 14: _shopify_s
+[Before] Cookie-Name 15: _ga_FH1KKBGQVX
+[Before] Cookie-Name 16: ku1-sid
+[Before] Cookie-Name 17: _shopify_y
+[Before] Cookie-Name 18: snize-recommendation
+[Before] Cookie-Name 19: _orig_referrer
+[Before] Cookie-Name 20: _s
+[Before] Cookie-Name 21: _shg_session_id
+[Before] Cookie-Name 22: _landing_page
+[Before] Cookie-Name 23: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 23
+[After] Website-Cookies: [{'domain': '.bakker.com', 'expiry': 1690629745, 'httpOnly': False, 'name': 'ku1-vid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': 'dcb1b3a5-8fb4-c6dc-39e7-5ee90be5fd04'}, {'domain': 'de-de.bakker.com', 'httpOnly': False, 'name': 'qab_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.bakker.com', 'expiry': 1707567744, 'httpOnly': False, 'name': '_flowbox', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9def7db1-1f09-2a28-e3af-b2fcf53cdec4'}, {'domain': 'de-de.bakker.com', 'expiry': 1644495803, 'httpOnly': False, 'name': 'country_popup-country_code', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': '.bakker.com', 'expiry': 1652271744, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644495743904.2022310070'}, {'domain': '.bakker.com', 'expiry': 1644582143, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1946744845.1644495744'}, {'domain': 'de-de.bakker.com', 'expiry': 1676031744, 'httpOnly': False, 'name': 'sec-banner', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': 'de-de.bakker.com', 'expiry': 1802175744, 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'secure': True, 'value': '70a3c623-d41b-4169-80b3-c36ae2101773'}, {'domain': '.bakker.com', 'expiry': 1644495803, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.bakker.com', 'expiry': 1644497543, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.bakker.com', 'expiry': 1644497543, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T12%3A22%3A23.817Z'}, {'domain': '.bakker.com', 'expiry': 1707567743, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1872037921.1644495744'}, {'domain': '.bakker.com', 'expiry': 1676031745, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '555b3395-da2e-4b00-bac0-8d0dc596df80'}, {'domain': '.bakker.com', 'expiry': 1644497545, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '140e11a6-320e-4249-976a-8cedb1092f4e'}, {'domain': '.bakker.com', 'expiry': 1707567743, 'httpOnly': False, 'name': '_ga_FH1KKBGQVX', 'path': '/', 'secure': False, 'value': 'GS1.1.1644495743.1.0.1644495743.0'}, {'domain': '.bakker.com', 'httpOnly': False, 'name': 'ku1-sid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': 'fqOPdai1GI_XmFcGCPKXJ'}, {'domain': '.bakker.com', 'expiry': 1676031745, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '555b3395-da2e-4b00-bac0-8d0dc596df80'}, {'domain': 'de-de.bakker.com', 'httpOnly': False, 'name': 'snize-recommendation', 'path': '/', 'secure': False, 'value': '602cdzouzyj'}, {'domain': '.bakker.com', 'expiry': 1645705343, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.bakker.com', 'expiry': 1644497545, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '140e11a6-320e-4249-976a-8cedb1092f4e'}, {'domain': 'de-de.bakker.com', 'expiry': 1644497544, 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'secure': True, 'value': '0a71bef2-6d0a-4724-abbc-d56666517f63'}, {'domain': '.bakker.com', 'expiry': 1645705343, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'de-de.bakker.com', 'expiry': 1676031745, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: ku1-vid
+[After] Cookie-Name 2: qab_previous_pathname
+[After] Cookie-Name 3: _flowbox
+[After] Cookie-Name 4: country_popup-country_code
+[After] Cookie-Name 5: _fbp
+[After] Cookie-Name 6: _gid
+[After] Cookie-Name 7: sec-banner
+[After] Cookie-Name 8: _shg_user_id
+[After] Cookie-Name 9: _gat
+[After] Cookie-Name 10: _shopify_sa_p
+[After] Cookie-Name 11: _shopify_sa_t
+[After] Cookie-Name 12: _ga
+[After] Cookie-Name 13: _y
+[After] Cookie-Name 14: _shopify_s
+[After] Cookie-Name 15: _ga_FH1KKBGQVX
+[After] Cookie-Name 16: ku1-sid
+[After] Cookie-Name 17: _shopify_y
+[After] Cookie-Name 18: snize-recommendation
+[After] Cookie-Name 19: _orig_referrer
+[After] Cookie-Name 20: _s
+[After] Cookie-Name 21: _shg_session_id
+[After] Cookie-Name 22: _landing_page
+[After] Cookie-Name 23: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

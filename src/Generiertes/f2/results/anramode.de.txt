@@ -1,0 +1,103 @@
+Website 109: http://www.anramode.de/ | Created: 09.02.2022 11:19:28 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 29
+[Before] Website-Cookies: [{'domain': '.anramode.de', 'expiry': 1675937960, 'httpOnly': False, 'name': 'swym-cu_ct', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'undefined'}, {'domain': '.anramode.de', 'expiry': 1675937959, 'httpOnly': False, 'name': 'swym-email', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'null'}, {'domain': '.anramode.de', 'expiry': 1645611558, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'anramode.de', 'expiry': 1644405559, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.anramode.de', 'expiry': 1644403759, 'httpOnly': False, 'name': 'swym-o_s', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'true'}, {'domain': '.anramode.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A19%3A19.016Z'}, {'domain': 'anramode.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.anramode.de', 'expiry': 1675937958, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%7D'}, {'domain': 'anramode.de', 'httpOnly': False, 'name': 'optiMonkSession', 'path': '/', 'secure': False, 'value': '1644401959'}, {'domain': '.anramode.de', 'expiry': 1675937959, 'httpOnly': False, 'name': 'swym-pid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"sZKxVjitOMuYqEXmr6T+TuINoMyQXFGzNGxXJLUftXY="'}, {'domain': 'anramode.de', 'expiry': 1675937959, 'httpOnly': False, 'name': 'optiMonkClientId', 'path': '/', 'secure': False, 'value': 'd157d566-ac1c-490d-a30c-ea78dacf8611'}, {'domain': 'anramode.de', 'expiry': 1675937959, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.anramode.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4c3b17df-5ea2-4299-9869-58e424608ec0'}, {'domain': '.anramode.de', 'expiry': 1644403761, 'httpOnly': False, 'name': 'swym-session-id', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"011toa2pau58b7npau8gp2y68m0vs3otpahfihu1pns9bnbndk0kp2u7vfyuucem"'}, {'domain': '.anramode.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4c3b17df-5ea2-4299-9869-58e424608ec0'}, {'domain': '.anramode.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.anramode.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '76fac75c-900e-4548-ad0e-cbb2f404c3a7'}, {'domain': '.anramode.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.anramode.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '76fac75c-900e-4548-ad0e-cbb2f404c3a7'}, {'domain': '.anramode.de', 'expiry': 1644403759, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.anramode.de', 'expiry': 1675937958, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.anramode.de', 'expiry': 1675937959, 'httpOnly': False, 'name': 'swym-swymRegid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"5fuPs5W4zX1BR6gUb3RqQ5Gff4cIihkdHsc1xVyx0wgr3wxu3pdBm1wOvFZaqChykjmlGXkxzxOJiwJkTsqNtXEPMBbCjiZIEKPzafO6VjK0iWrO2zFxKFxpCuDPJ4MipjtGSacObS1qGOl7KM67nbEVNE13mk0PAwu2AkVSY5E"'}, {'domain': '.anramode.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.anramode.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A19%3A18.947Z'}, {'domain': '.anramode.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'anramode.de', 'expiry': 1707473959, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MDE5NTksInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vYW5yYW1vZGUuZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NDAxOTU5LCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL2FucmFtb2RlLmRlLyJ9fQ=='}, {'domain': 'anramode.de', 'expiry': 1675937966, 'httpOnly': False, 'name': 'optiMonkClient', 'path': '/', 'secure': False, 'value': 'N4Ig7GBsAMCcIC5QGMCGjQEYMlcgLotADS4AOZRpyAToiAKwAmsyAzABwBMH0kARiwAs0aJkxN2XMADMQpAHYB7JlRABnegEsFWwgF9SbHHkIIS5SgkyQhdsbEiRqdBCBhM2kLmwCmkGSZMGVExZH5kMBsOeRBlVXNSTTcdPVj8ZI0ACyUAd19VQxB4JFwCNVQKNVp6SEwOflhYGS4ZNF9UTFEJVFQONkbY+LVM1IMimQA3RBs7EUxYBlhSABtp61t7BaXFJTJ1zH19IA==='}, {'domain': 'anramode.de', 'expiry': 1645611559, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'anramode.de', 'expiry': 1645611559, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[Before] Cookie-Name 1: swym-cu_ct
+[Before] Cookie-Name 2: swym-email
+[Before] Cookie-Name 3: _shopify_tw
+[Before] Cookie-Name 4: shopify_pay_redirect
+[Before] Cookie-Name 5: swym-o_s
+[Before] Cookie-Name 6: _shopify_sa_t
+[Before] Cookie-Name 7: _shopify_evids
+[Before] Cookie-Name 8: _tracking_consent
+[Before] Cookie-Name 9: optiMonkSession
+[Before] Cookie-Name 10: swym-pid
+[Before] Cookie-Name 11: optiMonkClientId
+[Before] Cookie-Name 12: secure_customer_sig
+[Before] Cookie-Name 13: _shopify_s
+[Before] Cookie-Name 14: swym-session-id
+[Before] Cookie-Name 15: _s
+[Before] Cookie-Name 16: _shopify_evids
+[Before] Cookie-Name 17: _shopify_y
+[Before] Cookie-Name 18: _landing_page
+[Before] Cookie-Name 19: _y
+[Before] Cookie-Name 20: _shopify_tm
+[Before] Cookie-Name 21: _shopify_m
+[Before] Cookie-Name 22: swym-swymRegid
+[Before] Cookie-Name 23: _shopify_sa_p
+[Before] Cookie-Name 24: _shopify_d
+[Before] Cookie-Name 25: _orig_referrer
+[Before] Cookie-Name 26: __kla_id
+[Before] Cookie-Name 27: optiMonkClient
+[Before] Cookie-Name 28: cart_currency
+[Before] Cookie-Name 29: localization
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 38
+[After] Website-Cookies: [{'domain': '.anramode.de', 'expiry': 1652177975, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'secure': False, 'value': 'fb.1.1644401974844.1994655046'}, {'domain': '.anramode.de', 'expiry': 1652177974, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.875736405.1644401975'}, {'domain': '.anramode.de', 'expiry': 1644402034, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.anramode.de', 'expiry': 1644488374, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1977079592.1644401975'}, {'domain': 'anramode.de', 'expiry': 1645611574, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': '.anramode.de', 'expiry': 1707473974, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1427411183.1644401975'}, {'domain': 'anramode.de', 'expiry': 1645611574, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4adaeb6b288abcd3606902ec2a84c7ac'}, {'domain': 'anramode.de', 'expiry': 1645611574, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644401974'}, {'domain': '.anramode.de', 'expiry': 1675937960, 'httpOnly': False, 'name': 'swym-cu_ct', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'undefined'}, {'domain': '.anramode.de', 'expiry': 1675937959, 'httpOnly': False, 'name': 'swym-email', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'null'}, {'domain': '.anramode.de', 'expiry': 1644403774, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A19%3A19.016Z'}, {'domain': '.anramode.de', 'expiry': 1644403759, 'httpOnly': False, 'name': 'swym-o_s', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'true'}, {'domain': '.anramode.de', 'expiry': 1645611558, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'anramode.de', 'expiry': 1644405559, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.anramode.de', 'expiry': 1675937974, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22con%22%3A%7B%22GDPR%22%3A%221%22%7D%7D'}, {'domain': 'anramode.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'anramode.de', 'httpOnly': False, 'name': 'optiMonkSession', 'path': '/', 'secure': False, 'value': '1644401959'}, {'domain': '.anramode.de', 'expiry': 1675937959, 'httpOnly': False, 'name': 'swym-pid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"sZKxVjitOMuYqEXmr6T+TuINoMyQXFGzNGxXJLUftXY="'}, {'domain': 'anramode.de', 'expiry': 1675937959, 'httpOnly': False, 'name': 'optiMonkClientId', 'path': '/', 'secure': False, 'value': 'd157d566-ac1c-490d-a30c-ea78dacf8611'}, {'domain': 'anramode.de', 'expiry': 1675937974, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.anramode.de', 'expiry': 1644403774, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4c3b17df-5ea2-4299-9869-58e424608ec0'}, {'domain': '.anramode.de', 'expiry': 1644403774, 'httpOnly': False, 'name': 'swym-session-id', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"011toa2pau58b7npau8gp2y68m0vs3otpahfihu1pns9bnbndk0kp2u7vfyuucem"'}, {'domain': '.anramode.de', 'expiry': 1644403774, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4c3b17df-5ea2-4299-9869-58e424608ec0'}, {'domain': '.anramode.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.anramode.de', 'expiry': 1675937974, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '76fac75c-900e-4548-ad0e-cbb2f404c3a7'}, {'domain': '.anramode.de', 'expiry': 1675937974, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '76fac75c-900e-4548-ad0e-cbb2f404c3a7'}, {'domain': '.anramode.de', 'expiry': 1645611574, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.anramode.de', 'expiry': 1675937959, 'httpOnly': False, 'name': 'swym-swymRegid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"5fuPs5W4zX1BR6gUb3RqQ5Gff4cIihkdHsc1xVyx0wgr3wxu3pdBm1wOvFZaqChykjmlGXkxzxOJiwJkTsqNtXEPMBbCjiZIEKPzafO6VjK0iWrO2zFxKFxpCuDPJ4MipjtGSacObS1qGOl7KM67nbEVNE13mk0PAwu2AkVSY5E"'}, {'domain': '.anramode.de', 'expiry': 1644403774, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.anramode.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A19%3A18.947Z'}, {'domain': '.anramode.de', 'expiry': 1675937974, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': '.anramode.de', 'expiry': 1644403774, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.anramode.de', 'expiry': 1645611574, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'anramode.de', 'expiry': 1707473959, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MDE5NTksInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vYW5yYW1vZGUuZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NDAxOTU5LCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL2FucmFtb2RlLmRlLyJ9fQ=='}, {'domain': 'anramode.de', 'expiry': 1675937966, 'httpOnly': False, 'name': 'optiMonkClient', 'path': '/', 'secure': False, 'value': 'N4Ig7GBsAMCcIC5QGMCGjQEYMlcgLotADS4AOZRpyAToiAKwAmsyAzABwBMH0kARiwAs0aJkxN2XMADMQpAHYB7JlRABnegEsFWwgF9SbHHkIIS5SgkyQhdsbEiRqdBCBhM2kLmwCmkGSZMGVExZH5kMBsOeRBlVXNSTTcdPVj8ZI0ACyUAd19VQxB4JFwCNVQKNVp6SEwOflhYGS4ZNF9UTFEJVFQONkbY+LVM1IMimQA3RBs7EUxYBlhSABtp61t7BaXFJTJ1zH19IA==='}, {'domain': 'anramode.de', 'expiry': 1645611574, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'anramode.de', 'expiry': 1645611574, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9d794013b458e37a5bee70d8a5bb008c'}, {'domain': 'anramode.de', 'expiry': 1645611574, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[After] Cookie-Name 1: _fbp
+[After] Cookie-Name 2: _gcl_au
+[After] Cookie-Name 3: _gat
+[After] Cookie-Name 4: _gid
+[After] Cookie-Name 5: cart_ver
+[After] Cookie-Name 6: _ga
+[After] Cookie-Name 7: cart_sig
+[After] Cookie-Name 8: cart_ts
+[After] Cookie-Name 9: swym-cu_ct
+[After] Cookie-Name 10: swym-email
+[After] Cookie-Name 11: _shopify_sa_t
+[After] Cookie-Name 12: swym-o_s
+[After] Cookie-Name 13: _shopify_tw
+[After] Cookie-Name 14: shopify_pay_redirect
+[After] Cookie-Name 15: _tracking_consent
+[After] Cookie-Name 16: _shopify_evids
+[After] Cookie-Name 17: optiMonkSession
+[After] Cookie-Name 18: swym-pid
+[After] Cookie-Name 19: optiMonkClientId
+[After] Cookie-Name 20: secure_customer_sig
+[After] Cookie-Name 21: _shopify_s
+[After] Cookie-Name 22: swym-session-id
+[After] Cookie-Name 23: _s
+[After] Cookie-Name 24: _shopify_evids
+[After] Cookie-Name 25: _shopify_y
+[After] Cookie-Name 26: _y
+[After] Cookie-Name 27: _landing_page
+[After] Cookie-Name 28: swym-swymRegid
+[After] Cookie-Name 29: _shopify_sa_p
+[After] Cookie-Name 30: _shopify_d
+[After] Cookie-Name 31: _shopify_m
+[After] Cookie-Name 32: _shopify_tm
+[After] Cookie-Name 33: _orig_referrer
+[After] Cookie-Name 34: __kla_id
+[After] Cookie-Name 35: optiMonkClient
+[After] Cookie-Name 36: cart_currency
+[After] Cookie-Name 37: cart
+[After] Cookie-Name 38: localization
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 9
+[Difference] Cookie-Name: 1: _ga
+[Difference] Cookie-Name: 2: cart_ts
+[Difference] Cookie-Name: 3: cart_ver
+[Difference] Cookie-Name: 4: _gcl_au
+[Difference] Cookie-Name: 5: _fbp
+[Difference] Cookie-Name: 6: _gid
+[Difference] Cookie-Name: 7: cart
+[Difference] Cookie-Name: 8: _gat
+[Difference] Cookie-Name: 9: cart_sig
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

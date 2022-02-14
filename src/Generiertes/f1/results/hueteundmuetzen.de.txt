@@ -1,0 +1,95 @@
+Website 164: http://www.hueteundmuetzen.de/ | Created: 08.02.2022 22:29:26 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 23
+[Before] Website-Cookies: [{'domain': '.hueteundmuetzen.de', 'expiry': 1644442157, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': '1cnu6dy|1644355757372|1|1|d.clarity.ms/collect'}, {'domain': '.hueteundmuetzen.de', 'expiry': 1678051756, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '2b044e90892611ec935b17538e6d4ffe'}, {'domain': '.hueteundmuetzen.de', 'expiry': 1707427756, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.1.303186010.1644355756'}, {'domain': '.hueteundmuetzen.de', 'expiry': 1707427756, 'httpOnly': False, 'name': '_ga_0W3S0F47FK', 'path': '/', 'secure': False, 'value': 'GS1.1.1644355756.1.0.1644355756.60'}, {'domain': '.hueteundmuetzen.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.hueteundmuetzen.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A29%3A16.306Z'}, {'domain': '.hueteundmuetzen.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.hueteundmuetzen.de', 'expiry': 1644442156, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': '2b043050892611ec9a5cb358554c6bf4'}, {'domain': 'www.hueteundmuetzen.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.hueteundmuetzen.de', 'expiry': 1675891755, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.hueteundmuetzen.de', 'expiry': 1645565355, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.hueteundmuetzen.de', 'expiry': 1675891757, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': 'ay51em|1|eyt|0'}, {'domain': '.hueteundmuetzen.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.hueteundmuetzen.de', 'expiry': 1675891755, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': '.hueteundmuetzen.de', 'expiry': 1644357555, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.hueteundmuetzen.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '83e71f9f-e189-4d25-bf52-208c970ea431'}, {'domain': '.hueteundmuetzen.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A29%3A16.213Z'}, {'domain': '.hueteundmuetzen.de', 'expiry': 1652131756, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.2078316044.1644355756'}, {'domain': '.hueteundmuetzen.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0ef80c1b-318e-40d6-bda5-ad62aee1277d'}, {'domain': '.hueteundmuetzen.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.hueteundmuetzen.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '83e71f9f-e189-4d25-bf52-208c970ea431'}, {'domain': '.hueteundmuetzen.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0ef80c1b-318e-40d6-bda5-ad62aee1277d'}, {'domain': 'www.hueteundmuetzen.de', 'expiry': 1675891755, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _clsk
+[Before] Cookie-Name 2: _uetvid
+[Before] Cookie-Name 3: _ga
+[Before] Cookie-Name 4: _ga_0W3S0F47FK
+[Before] Cookie-Name 5: _shopify_sa_p
+[Before] Cookie-Name 6: _shopify_sa_t
+[Before] Cookie-Name 7: _shopify_evids
+[Before] Cookie-Name 8: _uetsid
+[Before] Cookie-Name 9: _shopify_evids
+[Before] Cookie-Name 10: _shopify_m
+[Before] Cookie-Name 11: _shopify_tw
+[Before] Cookie-Name 12: _clck
+[Before] Cookie-Name 13: _orig_referrer
+[Before] Cookie-Name 14: _tracking_consent
+[Before] Cookie-Name 15: _shopify_tm
+[Before] Cookie-Name 16: _shopify_s
+[Before] Cookie-Name 17: _shopify_d
+[Before] Cookie-Name 18: _gcl_au
+[Before] Cookie-Name 19: _shopify_y
+[Before] Cookie-Name 20: _landing_page
+[Before] Cookie-Name 21: _s
+[Before] Cookie-Name 22: _y
+[Before] Cookie-Name 23: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 32
+[After] Website-Cookies: [{'domain': '.hueteundmuetzen.de', 'expiry': 1644355834, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.hueteundmuetzen.de', 'expiry': 1707427774, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.303186010.1644355756'}, {'domain': '.hueteundmuetzen.de', 'expiry': 1675891774, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': '.hueteundmuetzen.de', 'expiry': 1644442174, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1959508315.1644355775'}, {'domain': 'www.hueteundmuetzen.de', 'expiry': 1645565374, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': 'www.hueteundmuetzen.de', 'expiry': 1645565374, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'www.hueteundmuetzen.de', 'expiry': 1645565374, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7b28c3c624d24b315d872c45b9f11506'}, {'domain': 'www.hueteundmuetzen.de', 'expiry': 1645565374, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8b8f4f897ea57f1dcf9d9ddb714b0a5e'}, {'domain': 'www.hueteundmuetzen.de', 'httpOnly': False, 'name': '_shopify_country', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'Germany'}, {'domain': '.hueteundmuetzen.de', 'expiry': 1644442157, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': '1cnu6dy|1644355757372|1|1|d.clarity.ms/collect'}, {'domain': '.hueteundmuetzen.de', 'expiry': 1675891774, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22con%22%3A%7B%22GDPR%22%3A%221%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%7D'}, {'domain': 'www.hueteundmuetzen.de', 'expiry': 1645565374, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644355774'}, {'domain': '.hueteundmuetzen.de', 'expiry': 1678051756, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '2b044e90892611ec935b17538e6d4ffe'}, {'domain': '.hueteundmuetzen.de', 'expiry': 1707427756, 'httpOnly': False, 'name': '_ga_0W3S0F47FK', 'path': '/', 'secure': False, 'value': 'GS1.1.1644355756.1.0.1644355756.60'}, {'domain': 'www.hueteundmuetzen.de', 'expiry': 1675891774, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.hueteundmuetzen.de', 'expiry': 1644357574, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.hueteundmuetzen.de', 'expiry': 1675891757, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': 'ay51em|1|eyt|0'}, {'domain': '.hueteundmuetzen.de', 'expiry': 1675891774, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0ef80c1b-318e-40d6-bda5-ad62aee1277d'}, {'domain': '.hueteundmuetzen.de', 'expiry': 1644357574, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A29%3A16.306Z'}, {'domain': 'www.hueteundmuetzen.de', 'expiry': 1645565374, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.hueteundmuetzen.de', 'expiry': 1644442156, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': '2b043050892611ec9a5cb358554c6bf4'}, {'domain': 'www.hueteundmuetzen.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.hueteundmuetzen.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A29%3A16.213Z'}, {'domain': '.hueteundmuetzen.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.hueteundmuetzen.de', 'expiry': 1645565374, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.hueteundmuetzen.de', 'expiry': 1675891774, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0ef80c1b-318e-40d6-bda5-ad62aee1277d'}, {'domain': '.hueteundmuetzen.de', 'expiry': 1652131756, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.2078316044.1644355756'}, {'domain': '.hueteundmuetzen.de', 'expiry': 1645565355, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.hueteundmuetzen.de', 'expiry': 1644357574, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.hueteundmuetzen.de', 'expiry': 1644357574, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '83e71f9f-e189-4d25-bf52-208c970ea431'}, {'domain': '.hueteundmuetzen.de', 'expiry': 1645565374, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.hueteundmuetzen.de', 'expiry': 1644357574, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '83e71f9f-e189-4d25-bf52-208c970ea431'}]
+[After] Cookie-Name 1: _gat
+[After] Cookie-Name 2: _ga
+[After] Cookie-Name 3: _shopify_m
+[After] Cookie-Name 4: _gid
+[After] Cookie-Name 5: cart_ver
+[After] Cookie-Name 6: localization
+[After] Cookie-Name 7: cart_sig
+[After] Cookie-Name 8: cart
+[After] Cookie-Name 9: _shopify_country
+[After] Cookie-Name 10: _clsk
+[After] Cookie-Name 11: _tracking_consent
+[After] Cookie-Name 12: cart_ts
+[After] Cookie-Name 13: _uetvid
+[After] Cookie-Name 14: _ga_0W3S0F47FK
+[After] Cookie-Name 15: secure_customer_sig
+[After] Cookie-Name 16: _shopify_sa_p
+[After] Cookie-Name 17: _clck
+[After] Cookie-Name 18: _y
+[After] Cookie-Name 19: _shopify_sa_t
+[After] Cookie-Name 20: cart_currency
+[After] Cookie-Name 21: _uetsid
+[After] Cookie-Name 22: _shopify_evids
+[After] Cookie-Name 23: _shopify_d
+[After] Cookie-Name 24: _shopify_evids
+[After] Cookie-Name 25: _orig_referrer
+[After] Cookie-Name 26: _shopify_y
+[After] Cookie-Name 27: _gcl_au
+[After] Cookie-Name 28: _shopify_tw
+[After] Cookie-Name 29: _shopify_tm
+[After] Cookie-Name 30: _shopify_s
+[After] Cookie-Name 31: _landing_page
+[After] Cookie-Name 32: _s
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _clsk (Microsoft Clarity (User experience tool))
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _clck (Microsoft Clarity (User experience tool))
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 9
+[Difference] Cookie-Name: 1: cart_currency
+[Difference] Cookie-Name: 2: _gid
+[Difference] Cookie-Name: 3: _shopify_country
+[Difference] Cookie-Name: 4: cart_ver
+[Difference] Cookie-Name: 5: localization
+[Difference] Cookie-Name: 6: cart_ts
+[Difference] Cookie-Name: 7: cart
+[Difference] Cookie-Name: 8: _gat
+[Difference] Cookie-Name: 9: cart_sig
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

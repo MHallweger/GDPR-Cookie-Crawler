@@ -1,0 +1,71 @@
+Website 31: http://www.chessbazaar.de/ | Created: 08.02.2022 21:48:54 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 19
+[Before] Website-Cookies: [{'domain': 'chessbazaar.de', 'expiry': 1644353625, 'httpOnly': False, 'name': 'trustedsite_tm_float_seen', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'chessbazaar.de', 'expiry': 1644439725, 'httpOnly': False, 'name': 'trustedsite_visit', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'chessbazaar.de', 'expiry': 1707425325, 'httpOnly': False, 'name': '_ama', 'path': '/', 'secure': False, 'value': '1163801915.1644353325'}, {'domain': 'chessbazaar.de', 'httpOnly': False, 'name': 'snize-recommendation', 'path': '/', 'secure': False, 'value': 'pxq2rf772wj'}, {'domain': 'chessbazaar.de', 'expiry': 1645562923, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'chessbazaar.de', 'httpOnly': False, 'name': 'qab_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.chessbazaar.de', 'expiry': 1675889325, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b9e3adf7-0851-4923-89f9-a5835c811684'}, {'domain': '.chessbazaar.de', 'expiry': 1707425324, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1163801915.1644353325'}, {'domain': '.chessbazaar.de', 'expiry': 1644355124, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.chessbazaar.de', 'expiry': 1675889325, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b9e3adf7-0851-4923-89f9-a5835c811684'}, {'domain': '.chessbazaar.de', 'expiry': 1644355125, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ec5484e9-c46a-4973-b8cc-9e544e11a041'}, {'domain': '.chessbazaar.de', 'expiry': 1644353384, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.chessbazaar.de', 'expiry': 1644355125, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ec5484e9-c46a-4973-b8cc-9e544e11a041'}, {'domain': '.chessbazaar.de', 'expiry': 1644439724, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1143666198.1644353325'}, {'domain': '.chessbazaar.de', 'expiry': 1644355124, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T20%3A48%3A44.464Z'}, {'domain': '.chessbazaar.de', 'expiry': 1645562921, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'chessbazaar.de', 'expiry': 1645562923, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.chessbazaar.de', 'expiry': 1645562921, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'chessbazaar.de', 'expiry': 1675889325, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: trustedsite_tm_float_seen
+[Before] Cookie-Name 2: trustedsite_visit
+[Before] Cookie-Name 3: _ama
+[Before] Cookie-Name 4: snize-recommendation
+[Before] Cookie-Name 5: cart_sig
+[Before] Cookie-Name 6: qab_previous_pathname
+[Before] Cookie-Name 7: _y
+[Before] Cookie-Name 8: _ga
+[Before] Cookie-Name 9: _shopify_sa_p
+[Before] Cookie-Name 10: _shopify_y
+[Before] Cookie-Name 11: _s
+[Before] Cookie-Name 12: _gat
+[Before] Cookie-Name 13: _shopify_s
+[Before] Cookie-Name 14: _gid
+[Before] Cookie-Name 15: _shopify_sa_t
+[Before] Cookie-Name 16: _landing_page
+[Before] Cookie-Name 17: localization
+[Before] Cookie-Name 18: _orig_referrer
+[Before] Cookie-Name 19: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 19
+[After] Website-Cookies: [{'domain': 'chessbazaar.de', 'expiry': 1644353625, 'httpOnly': False, 'name': 'trustedsite_tm_float_seen', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'chessbazaar.de', 'expiry': 1644439725, 'httpOnly': False, 'name': 'trustedsite_visit', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'chessbazaar.de', 'expiry': 1707425325, 'httpOnly': False, 'name': '_ama', 'path': '/', 'secure': False, 'value': '1163801915.1644353325'}, {'domain': 'chessbazaar.de', 'httpOnly': False, 'name': 'snize-recommendation', 'path': '/', 'secure': False, 'value': 'pxq2rf772wj'}, {'domain': 'chessbazaar.de', 'expiry': 1645562923, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'chessbazaar.de', 'httpOnly': False, 'name': 'qab_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.chessbazaar.de', 'expiry': 1675889325, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b9e3adf7-0851-4923-89f9-a5835c811684'}, {'domain': '.chessbazaar.de', 'expiry': 1707425324, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1163801915.1644353325'}, {'domain': '.chessbazaar.de', 'expiry': 1644355124, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.chessbazaar.de', 'expiry': 1675889325, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b9e3adf7-0851-4923-89f9-a5835c811684'}, {'domain': '.chessbazaar.de', 'expiry': 1644355125, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ec5484e9-c46a-4973-b8cc-9e544e11a041'}, {'domain': '.chessbazaar.de', 'expiry': 1644353384, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.chessbazaar.de', 'expiry': 1644355125, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ec5484e9-c46a-4973-b8cc-9e544e11a041'}, {'domain': '.chessbazaar.de', 'expiry': 1644439724, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1143666198.1644353325'}, {'domain': '.chessbazaar.de', 'expiry': 1644355124, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T20%3A48%3A44.464Z'}, {'domain': '.chessbazaar.de', 'expiry': 1645562921, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'chessbazaar.de', 'expiry': 1645562923, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.chessbazaar.de', 'expiry': 1645562921, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'chessbazaar.de', 'expiry': 1675889325, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: trustedsite_tm_float_seen
+[After] Cookie-Name 2: trustedsite_visit
+[After] Cookie-Name 3: _ama
+[After] Cookie-Name 4: snize-recommendation
+[After] Cookie-Name 5: cart_sig
+[After] Cookie-Name 6: qab_previous_pathname
+[After] Cookie-Name 7: _y
+[After] Cookie-Name 8: _ga
+[After] Cookie-Name 9: _shopify_sa_p
+[After] Cookie-Name 10: _shopify_y
+[After] Cookie-Name 11: _s
+[After] Cookie-Name 12: _gat
+[After] Cookie-Name 13: _shopify_s
+[After] Cookie-Name 14: _gid
+[After] Cookie-Name 15: _shopify_sa_t
+[After] Cookie-Name 16: _landing_page
+[After] Cookie-Name 17: localization
+[After] Cookie-Name 18: _orig_referrer
+[After] Cookie-Name 19: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

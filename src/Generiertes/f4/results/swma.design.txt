@@ -1,0 +1,67 @@
+Website 107: http://www.swma.design/ | Created: 09.02.2022 17:38:13 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 18
+[Before] Website-Cookies: [{'domain': 'www.swma.design', 'expiry': 1645634285, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.swma.design', 'expiry': 1645634285, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A2'}, {'domain': 'www.swma.design', 'expiry': 1645634285, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'www.swma.design', 'expiry': 1645634285, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644424685'}, {'domain': '.swma.design', 'expiry': 1644426484, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T16%3A38%3A04.634Z'}, {'domain': '.swma.design', 'expiry': 1644424744, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.swma.design', 'expiry': 1644511084, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1112777262.1644424685'}, {'domain': '.swma.design', 'expiry': 1644426485, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ca7fdb34-8937-450a-a7eb-b2b321f8ef4d'}, {'domain': 'www.swma.design', 'expiry': 1645634285, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ad2f7ae4c1ad50ac70a00a1a17b84678'}, {'domain': 'www.swma.design', 'expiry': 1675960685, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.swma.design', 'expiry': 1675960685, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c9493428-d3df-47e2-bce7-67f61bfa5a46'}, {'domain': '.swma.design', 'expiry': 1645634284, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.swma.design', 'expiry': 1644426485, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ca7fdb34-8937-450a-a7eb-b2b321f8ef4d'}, {'domain': '.swma.design', 'expiry': 1645634284, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.swma.design', 'expiry': 1707496684, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.2085909802.1644424685'}, {'domain': 'www.swma.design', 'expiry': 1645634285, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '37933ec60e41427d4d4e37a573341b61'}, {'domain': '.swma.design', 'expiry': 1644426484, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.swma.design', 'expiry': 1675960685, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c9493428-d3df-47e2-bce7-67f61bfa5a46'}]
+[Before] Cookie-Name 1: cart_currency
+[Before] Cookie-Name 2: cart_ver
+[Before] Cookie-Name 3: localization
+[Before] Cookie-Name 4: cart_ts
+[Before] Cookie-Name 5: _shopify_sa_t
+[Before] Cookie-Name 6: _gat
+[Before] Cookie-Name 7: _gid
+[Before] Cookie-Name 8: _shopify_s
+[Before] Cookie-Name 9: cart_sig
+[Before] Cookie-Name 10: secure_customer_sig
+[Before] Cookie-Name 11: _y
+[Before] Cookie-Name 12: _landing_page
+[Before] Cookie-Name 13: _s
+[Before] Cookie-Name 14: _orig_referrer
+[Before] Cookie-Name 15: _ga
+[Before] Cookie-Name 16: cart
+[Before] Cookie-Name 17: _shopify_sa_p
+[Before] Cookie-Name 18: _shopify_y
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 19
+[After] Website-Cookies: [{'domain': 'www.swma.design', 'expiry': 1645634285, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.swma.design', 'expiry': 1645634285, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A2'}, {'domain': 'www.swma.design', 'expiry': 1645634285, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'www.swma.design', 'expiry': 1645634285, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644424685'}, {'domain': '.swma.design', 'expiry': 1644426484, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T16%3A38%3A04.634Z'}, {'domain': '.swma.design', 'expiry': 1644424744, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.swma.design', 'expiry': 1675960699, 'httpOnly': False, 'name': 'cookieconsent_dismissed', 'path': '/', 'secure': False, 'value': 'yes'}, {'domain': '.swma.design', 'expiry': 1644511084, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1112777262.1644424685'}, {'domain': '.swma.design', 'expiry': 1644426485, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ca7fdb34-8937-450a-a7eb-b2b321f8ef4d'}, {'domain': 'www.swma.design', 'expiry': 1645634285, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ad2f7ae4c1ad50ac70a00a1a17b84678'}, {'domain': 'www.swma.design', 'expiry': 1675960685, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.swma.design', 'expiry': 1675960685, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c9493428-d3df-47e2-bce7-67f61bfa5a46'}, {'domain': '.swma.design', 'expiry': 1645634284, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.swma.design', 'expiry': 1644426485, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ca7fdb34-8937-450a-a7eb-b2b321f8ef4d'}, {'domain': '.swma.design', 'expiry': 1645634284, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.swma.design', 'expiry': 1707496684, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.2085909802.1644424685'}, {'domain': 'www.swma.design', 'expiry': 1645634285, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '37933ec60e41427d4d4e37a573341b61'}, {'domain': '.swma.design', 'expiry': 1644426484, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.swma.design', 'expiry': 1675960685, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c9493428-d3df-47e2-bce7-67f61bfa5a46'}]
+[After] Cookie-Name 1: cart_currency
+[After] Cookie-Name 2: cart_ver
+[After] Cookie-Name 3: localization
+[After] Cookie-Name 4: cart_ts
+[After] Cookie-Name 5: _shopify_sa_t
+[After] Cookie-Name 6: _gat
+[After] Cookie-Name 7: cookieconsent_dismissed
+[After] Cookie-Name 8: _gid
+[After] Cookie-Name 9: _shopify_s
+[After] Cookie-Name 10: cart_sig
+[After] Cookie-Name 11: secure_customer_sig
+[After] Cookie-Name 12: _y
+[After] Cookie-Name 13: _landing_page
+[After] Cookie-Name 14: _s
+[After] Cookie-Name 15: _orig_referrer
+[After] Cookie-Name 16: _ga
+[After] Cookie-Name 17: cart
+[After] Cookie-Name 18: _shopify_sa_p
+[After] Cookie-Name 19: _shopify_y
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: cookieconsent_dismissed
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

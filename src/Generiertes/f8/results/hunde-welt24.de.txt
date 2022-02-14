@@ -1,0 +1,64 @@
+Website 179: http://www.hunde-welt24.de/ | Created: 10.02.2022 20:51:26 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 16
+[Before] Website-Cookies: [{'domain': 'hunde-welt24.de', 'expiry': 1645732277, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'hunde-welt24.de', 'expiry': 1676058678, 'httpOnly': False, 'name': 'optiMonkClientId', 'path': '/', 'secure': False, 'value': '3da99fa9-8ccb-f93b-2cbc-5c9a604ea57e'}, {'domain': '.hunde-welt24.de', 'expiry': 1652298677, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.358155230.1644522677'}, {'domain': '.hunde-welt24.de', 'expiry': 1676058687, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2eae9bf1-022c-4440-87df-23e5ea1b5ce1'}, {'domain': '.hunde-welt24.de', 'expiry': 1644524477, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.hunde-welt24.de', 'expiry': 1644524477, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T19%3A51%3A17.006Z'}, {'domain': '.hunde-welt24.de', 'expiry': 1644524487, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7bc4dc8a-577e-468e-9472-d4317e2d7f13'}, {'domain': '.hunde-welt24.de', 'expiry': 1676058687, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2eae9bf1-022c-4440-87df-23e5ea1b5ce1'}, {'domain': 'hunde-welt24.de', 'expiry': 1676058678, 'httpOnly': False, 'name': 'optiMonkClient', 'path': '/', 'secure': False, 'value': 'N4IgjATGCcAcBsIBcoDGBDZowBYsnVQBdkAGAGgIAcqzLUAnZEeUgUx1PgHYATP7jgCsAZlKkwvaKl7DYISgDsA9rzogAzswCWi7SQC+BygDMAbsjDwcwiBB6xKAGwtIrNoXYdLlVV2CMgA='}, {'domain': '.hunde-welt24.de', 'expiry': 1645732276, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.hunde-welt24.de', 'expiry': 1644524487, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7bc4dc8a-577e-468e-9472-d4317e2d7f13'}, {'domain': 'hunde-welt24.de', 'httpOnly': False, 'name': 'optiMonkSession', 'path': '/', 'secure': False, 'value': '1644522678'}, {'domain': '.hunde-welt24.de', 'expiry': 1645732276, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.hunde-welt24.de', 'expiry': 1652298677, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644522677299.1842781331'}, {'domain': 'hunde-welt24.de', 'expiry': 1645732277, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'hunde-welt24.de', 'expiry': 1676058687, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: cart_sig
+[Before] Cookie-Name 2: optiMonkClientId
+[Before] Cookie-Name 3: _gcl_au
+[Before] Cookie-Name 4: _shopify_y
+[Before] Cookie-Name 5: _shopify_sa_p
+[Before] Cookie-Name 6: _shopify_sa_t
+[Before] Cookie-Name 7: _shopify_s
+[Before] Cookie-Name 8: _y
+[Before] Cookie-Name 9: optiMonkClient
+[Before] Cookie-Name 10: _orig_referrer
+[Before] Cookie-Name 11: _s
+[Before] Cookie-Name 12: optiMonkSession
+[Before] Cookie-Name 13: _landing_page
+[Before] Cookie-Name 14: _fbp
+[Before] Cookie-Name 15: localization
+[Before] Cookie-Name 16: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 16
+[After] Website-Cookies: [{'domain': 'hunde-welt24.de', 'expiry': 1645732277, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'hunde-welt24.de', 'expiry': 1676058678, 'httpOnly': False, 'name': 'optiMonkClientId', 'path': '/', 'secure': False, 'value': '3da99fa9-8ccb-f93b-2cbc-5c9a604ea57e'}, {'domain': '.hunde-welt24.de', 'expiry': 1652298677, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.358155230.1644522677'}, {'domain': '.hunde-welt24.de', 'expiry': 1676058687, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2eae9bf1-022c-4440-87df-23e5ea1b5ce1'}, {'domain': '.hunde-welt24.de', 'expiry': 1644524477, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.hunde-welt24.de', 'expiry': 1644524477, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T19%3A51%3A17.006Z'}, {'domain': '.hunde-welt24.de', 'expiry': 1644524487, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7bc4dc8a-577e-468e-9472-d4317e2d7f13'}, {'domain': '.hunde-welt24.de', 'expiry': 1676058687, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2eae9bf1-022c-4440-87df-23e5ea1b5ce1'}, {'domain': 'hunde-welt24.de', 'expiry': 1676058678, 'httpOnly': False, 'name': 'optiMonkClient', 'path': '/', 'secure': False, 'value': 'N4IgjATGCcAcBsIBcoDGBDZowBYsnVQBdkAGAGgIAcqzLUAnZEeUgUx1PgHYATP7jgCsAZlKkwvaKl7DYISgDsA9rzogAzswCWi7SQC+BygDMAbsjDwcwiBB6xKAGwtIrNoXYdLlVV2CMgA='}, {'domain': '.hunde-welt24.de', 'expiry': 1645732276, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.hunde-welt24.de', 'expiry': 1644524487, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7bc4dc8a-577e-468e-9472-d4317e2d7f13'}, {'domain': 'hunde-welt24.de', 'httpOnly': False, 'name': 'optiMonkSession', 'path': '/', 'secure': False, 'value': '1644522678'}, {'domain': '.hunde-welt24.de', 'expiry': 1645732276, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.hunde-welt24.de', 'expiry': 1652298677, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644522677299.1842781331'}, {'domain': 'hunde-welt24.de', 'expiry': 1645732277, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'hunde-welt24.de', 'expiry': 1676058687, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: cart_sig
+[After] Cookie-Name 2: optiMonkClientId
+[After] Cookie-Name 3: _gcl_au
+[After] Cookie-Name 4: _shopify_y
+[After] Cookie-Name 5: _shopify_sa_p
+[After] Cookie-Name 6: _shopify_sa_t
+[After] Cookie-Name 7: _shopify_s
+[After] Cookie-Name 8: _y
+[After] Cookie-Name 9: optiMonkClient
+[After] Cookie-Name 10: _orig_referrer
+[After] Cookie-Name 11: _s
+[After] Cookie-Name 12: optiMonkSession
+[After] Cookie-Name 13: _landing_page
+[After] Cookie-Name 14: _fbp
+[After] Cookie-Name 15: localization
+[After] Cookie-Name 16: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

@@ -1,0 +1,87 @@
+Website 342: http://www.blossombalance.de/ | Created: 09.02.2022 12:29:26 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 27
+[Before] Website-Cookies: [{'domain': 'blossombalance.de', 'expiry': 1645615759, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': 'blossombalance.de', 'expiry': 1645615759, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644406159'}, {'domain': 'blossombalance.de', 'expiry': 1645615759, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '08585b5a441f8556dda487c0d24b5391'}, {'domain': 'blossombalance.de', 'expiry': 1707478158, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MDYxNTgsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vYmxvc3NvbWJhbGFuY2UuZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NDA2MTU4LCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL2Jsb3Nzb21iYWxhbmNlLmRlLyJ9fQ=='}, {'domain': '.blossombalance.de', 'expiry': 1652182153, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644406153453.1773605432'}, {'domain': 'blossombalance.de', 'expiry': 1645615759, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1730bf5c3fc3e6ad10ae2771b410124f'}, {'domain': '.blossombalance.de', 'expiry': 1645615752, 'httpOnly': False, 'name': '__cmpcvcu4326', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '__s23_s24__'}, {'domain': 'blossombalance.de', 'httpOnly': False, 'name': 'usb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.blossombalance.de', 'expiry': 1645615752, 'httpOnly': False, 'name': '__cmpconsent4326', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'CPUHZtgPUHZtgAfWBBDECBCgAAAAAAAAAAigAAAAAAAA'}, {'domain': '.blossombalance.de', 'expiry': 1644406212, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.blossombalance.de', 'expiry': 1644492552, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1668811315.1644406153'}, {'domain': '.blossombalance.de', 'expiry': 1675942159, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cebdf453-c50b-496f-832b-e8138f4be1d4'}, {'domain': '.blossombalance.de', 'expiry': 1707478152, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1316089847.1644406152'}, {'domain': '.blossombalance.de', 'expiry': 1644407952, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.blossombalance.de', 'expiry': 1675942159, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cebdf453-c50b-496f-832b-e8138f4be1d4'}, {'domain': '.blossombalance.de', 'expiry': 1678102152, 'httpOnly': False, 'name': '__gads', 'path': '/', 'secure': False, 'value': 'ID=8702f99d63fe1f31-2211f04539cd0046:T=1644406152:RT=1644406152:S=ALNI_MZMUt5tXzkIO8ctnBTzs2z1xhe_1w'}, {'domain': '.blossombalance.de', 'expiry': 1675942152, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU9HWTFPRFJqWTJFdE5EQTRNQzAwWW1ZeExUZzJNV1V0TmpRNVl6azJNVEV4TWpCaA'}, {'domain': '.blossombalance.de', 'expiry': 1645615752, 'httpOnly': False, 'name': '__cmpcpcu4326', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '____'}, {'domain': '.blossombalance.de', 'expiry': 1644407959, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '89f3bd77-9b79-4b32-bc2a-a82358748525'}, {'domain': '.blossombalance.de', 'expiry': 1644407959, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '89f3bd77-9b79-4b32-bc2a-a82358748525'}, {'domain': '.blossombalance.de', 'expiry': 1645615751, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'blossombalance.de', 'httpOnly': False, 'name': 'qab_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.blossombalance.de', 'expiry': 1645615751, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'blossombalance.de', 'expiry': 1645615759, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.blossombalance.de', 'expiry': 1644407952, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T11%3A29%3A12.835Z'}, {'domain': 'blossombalance.de', 'expiry': 1645615759, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'blossombalance.de', 'expiry': 1675942159, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: cart_ver
+[Before] Cookie-Name 2: cart_ts
+[Before] Cookie-Name 3: cart
+[Before] Cookie-Name 4: __kla_id
+[Before] Cookie-Name 5: _fbp
+[Before] Cookie-Name 6: cart_sig
+[Before] Cookie-Name 7: __cmpcvcu4326
+[Before] Cookie-Name 8: usb_previous_pathname
+[Before] Cookie-Name 9: __cmpconsent4326
+[Before] Cookie-Name 10: _gat
+[Before] Cookie-Name 11: _gid
+[Before] Cookie-Name 12: _shopify_y
+[Before] Cookie-Name 13: _ga
+[Before] Cookie-Name 14: _shopify_sa_p
+[Before] Cookie-Name 15: _y
+[Before] Cookie-Name 16: __gads
+[Before] Cookie-Name 17: _pin_unauth
+[Before] Cookie-Name 18: __cmpcpcu4326
+[Before] Cookie-Name 19: _shopify_s
+[Before] Cookie-Name 20: _s
+[Before] Cookie-Name 21: _landing_page
+[Before] Cookie-Name 22: qab_previous_pathname
+[Before] Cookie-Name 23: _orig_referrer
+[Before] Cookie-Name 24: cart_currency
+[Before] Cookie-Name 25: _shopify_sa_t
+[Before] Cookie-Name 26: localization
+[Before] Cookie-Name 27: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 27
+[After] Website-Cookies: [{'domain': '.blossombalance.de', 'expiry': 1675942173, 'httpOnly': False, 'name': '__cmpconsent4326', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'CPUHZtgPUHZtgAfWBBDECBCgAPgAAHgAAAigGMwBQAAgAGABCAh8BjIGMwBQAAgAGABCAh8BjIAA'}, {'domain': 'blossombalance.de', 'expiry': 1645615759, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': '.blossombalance.de', 'expiry': 1675942173, 'httpOnly': False, 'name': '__cmpcvcu4326', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '__s914_s94_s40_s1052_s1494_s65_s23_s1473_s1472_s7_s1433_s1_s26_s135_s1409_s417_s1492_s24_s1475_s1442_s2491_s38_s1097_s49_s1410_s1079_s971_s77_s30_U__'}, {'domain': 'blossombalance.de', 'expiry': 1645615759, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1730bf5c3fc3e6ad10ae2771b410124f'}, {'domain': 'blossombalance.de', 'expiry': 1707478158, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MDYxNTgsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vYmxvc3NvbWJhbGFuY2UuZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NDA2MTU4LCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL2Jsb3Nzb21iYWxhbmNlLmRlLyJ9fQ=='}, {'domain': 'blossombalance.de', 'httpOnly': False, 'name': 'usb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.blossombalance.de', 'expiry': 1652182173, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644406153453.1773605432'}, {'domain': '.blossombalance.de', 'expiry': 1644406212, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.blossombalance.de', 'expiry': 1644492552, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1668811315.1644406153'}, {'domain': 'blossombalance.de', 'expiry': 1645615759, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '08585b5a441f8556dda487c0d24b5391'}, {'domain': '.blossombalance.de', 'expiry': 1675942159, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cebdf453-c50b-496f-832b-e8138f4be1d4'}, {'domain': '.blossombalance.de', 'expiry': 1707478152, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1316089847.1644406152'}, {'domain': '.blossombalance.de', 'expiry': 1644407952, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.blossombalance.de', 'expiry': 1675942159, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cebdf453-c50b-496f-832b-e8138f4be1d4'}, {'domain': '.blossombalance.de', 'expiry': 1678102152, 'httpOnly': False, 'name': '__gads', 'path': '/', 'secure': False, 'value': 'ID=8702f99d63fe1f31-2211f04539cd0046:T=1644406152:RT=1644406152:S=ALNI_MZMUt5tXzkIO8ctnBTzs2z1xhe_1w'}, {'domain': '.blossombalance.de', 'expiry': 1675942152, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU9HWTFPRFJqWTJFdE5EQTRNQzAwWW1ZeExUZzJNV1V0TmpRNVl6azJNVEV4TWpCaA'}, {'domain': '.blossombalance.de', 'expiry': 1675942173, 'httpOnly': False, 'name': '__cmpcpcu4326', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '____'}, {'domain': '.blossombalance.de', 'expiry': 1644407959, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '89f3bd77-9b79-4b32-bc2a-a82358748525'}, {'domain': '.blossombalance.de', 'expiry': 1644407959, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '89f3bd77-9b79-4b32-bc2a-a82358748525'}, {'domain': '.blossombalance.de', 'expiry': 1645615751, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'blossombalance.de', 'httpOnly': False, 'name': 'qab_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.blossombalance.de', 'expiry': 1645615751, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'blossombalance.de', 'expiry': 1645615759, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'blossombalance.de', 'expiry': 1645615759, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644406159'}, {'domain': '.blossombalance.de', 'expiry': 1644407952, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T11%3A29%3A12.835Z'}, {'domain': 'blossombalance.de', 'expiry': 1645615759, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'blossombalance.de', 'expiry': 1675942159, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: __cmpconsent4326
+[After] Cookie-Name 2: cart_ver
+[After] Cookie-Name 3: __cmpcvcu4326
+[After] Cookie-Name 4: cart_sig
+[After] Cookie-Name 5: __kla_id
+[After] Cookie-Name 6: usb_previous_pathname
+[After] Cookie-Name 7: _fbp
+[After] Cookie-Name 8: _gat
+[After] Cookie-Name 9: _gid
+[After] Cookie-Name 10: cart
+[After] Cookie-Name 11: _shopify_y
+[After] Cookie-Name 12: _ga
+[After] Cookie-Name 13: _shopify_sa_p
+[After] Cookie-Name 14: _y
+[After] Cookie-Name 15: __gads
+[After] Cookie-Name 16: _pin_unauth
+[After] Cookie-Name 17: __cmpcpcu4326
+[After] Cookie-Name 18: _shopify_s
+[After] Cookie-Name 19: _s
+[After] Cookie-Name 20: _landing_page
+[After] Cookie-Name 21: qab_previous_pathname
+[After] Cookie-Name 22: _orig_referrer
+[After] Cookie-Name 23: cart_currency
+[After] Cookie-Name 24: cart_ts
+[After] Cookie-Name 25: _shopify_sa_t
+[After] Cookie-Name 26: localization
+[After] Cookie-Name 27: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

@@ -1,0 +1,76 @@
+Website 54: http://www.happy-shopy.de/ | Created: 10.02.2022 20:14:08 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 20
+[Before] Website-Cookies: [{'domain': '.happy-shopy.de', 'expiry': 1644606843, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': '9a0ed2908aa511ec8594cff915e473e4'}, {'domain': 'happy-shopy.de', 'expiry': 1676056440, 'httpOnly': False, 'name': 'azameo_appnexusid', 'path': '/', 'secure': False, 'value': '1644520440'}, {'domain': '.happy-shopy.de', 'expiry': 1652296439, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.597566467.1644520440'}, {'domain': 'happy-shopy.de', 'expiry': 1676056439, 'httpOnly': False, 'name': 'cookie_azameo_id', 'path': '/', 'secure': False, 'value': 'JQ0HURFEWZZFGPK5'}, {'domain': 'happy-shopy.de', 'expiry': 1707592439, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ1MjA0NDAsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vaGFwcHktc2hvcHkuZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NTIwNDQwLCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL2hhcHB5LXNob3B5LmRlLyJ9fQ=='}, {'domain': 'happy-shopy.de', 'expiry': 1644520738, 'httpOnly': False, 'name': 'outbrain_cid_fetch', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': '.happy-shopy.de', 'expiry': 1678216443, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '9a0f05608aa511ec9b3edd3a80fa7638'}, {'domain': '.happy-shopy.de', 'expiry': 1644522239, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1d51b0e5-3259-4591-a980-908d6e21f9e2'}, {'domain': '.happy-shopy.de', 'expiry': 1644606838, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.809899877.1644520438'}, {'domain': '.happy-shopy.de', 'expiry': 1644522237, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.happy-shopy.de', 'expiry': 1644522237, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T19%3A13%3A57.868Z'}, {'domain': '.happy-shopy.de', 'expiry': 1644520498, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.happy-shopy.de', 'expiry': 1676056439, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd1e7f517-a322-4914-ab2f-331b5c872def'}, {'domain': '.happy-shopy.de', 'expiry': 1645730037, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.happy-shopy.de', 'expiry': 1707592438, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.306022284.1644520438'}, {'domain': '.happy-shopy.de', 'expiry': 1644522239, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1d51b0e5-3259-4591-a980-908d6e21f9e2'}, {'domain': '.happy-shopy.de', 'expiry': 1645730037, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.happy-shopy.de', 'expiry': 1676056438, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU56YzFZbVU0WW1VdFpUazFaUzAwTUdSakxXSmtaVEF0WlRJNU9UQmpaRFF4TkdRMg'}, {'domain': '.happy-shopy.de', 'expiry': 1676056439, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd1e7f517-a322-4914-ab2f-331b5c872def'}, {'domain': 'happy-shopy.de', 'expiry': 1676056439, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _uetsid
+[Before] Cookie-Name 2: azameo_appnexusid
+[Before] Cookie-Name 3: _gcl_au
+[Before] Cookie-Name 4: cookie_azameo_id
+[Before] Cookie-Name 5: __kla_id
+[Before] Cookie-Name 6: outbrain_cid_fetch
+[Before] Cookie-Name 7: _uetvid
+[Before] Cookie-Name 8: _s
+[Before] Cookie-Name 9: _gid
+[Before] Cookie-Name 10: _shopify_sa_p
+[Before] Cookie-Name 11: _shopify_sa_t
+[Before] Cookie-Name 12: _gat
+[Before] Cookie-Name 13: _shopify_y
+[Before] Cookie-Name 14: _landing_page
+[Before] Cookie-Name 15: _ga
+[Before] Cookie-Name 16: _shopify_s
+[Before] Cookie-Name 17: _orig_referrer
+[Before] Cookie-Name 18: _pin_unauth
+[Before] Cookie-Name 19: _y
+[Before] Cookie-Name 20: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 20
+[After] Website-Cookies: [{'domain': '.happy-shopy.de', 'expiry': 1644606843, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': '9a0ed2908aa511ec8594cff915e473e4'}, {'domain': 'happy-shopy.de', 'expiry': 1676056440, 'httpOnly': False, 'name': 'azameo_appnexusid', 'path': '/', 'secure': False, 'value': '1644520440'}, {'domain': '.happy-shopy.de', 'expiry': 1652296439, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.597566467.1644520440'}, {'domain': 'happy-shopy.de', 'expiry': 1676056439, 'httpOnly': False, 'name': 'cookie_azameo_id', 'path': '/', 'secure': False, 'value': 'JQ0HURFEWZZFGPK5'}, {'domain': 'happy-shopy.de', 'expiry': 1707592439, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ1MjA0NDAsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vaGFwcHktc2hvcHkuZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NTIwNDQwLCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL2hhcHB5LXNob3B5LmRlLyJ9fQ=='}, {'domain': 'happy-shopy.de', 'expiry': 1644520738, 'httpOnly': False, 'name': 'outbrain_cid_fetch', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': '.happy-shopy.de', 'expiry': 1678216443, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '9a0f05608aa511ec9b3edd3a80fa7638'}, {'domain': '.happy-shopy.de', 'expiry': 1644522239, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1d51b0e5-3259-4591-a980-908d6e21f9e2'}, {'domain': '.happy-shopy.de', 'expiry': 1644606838, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.809899877.1644520438'}, {'domain': '.happy-shopy.de', 'expiry': 1644522237, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.happy-shopy.de', 'expiry': 1644522237, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T19%3A13%3A57.868Z'}, {'domain': '.happy-shopy.de', 'expiry': 1644520498, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.happy-shopy.de', 'expiry': 1676056439, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd1e7f517-a322-4914-ab2f-331b5c872def'}, {'domain': '.happy-shopy.de', 'expiry': 1645730037, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.happy-shopy.de', 'expiry': 1707592438, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.306022284.1644520438'}, {'domain': '.happy-shopy.de', 'expiry': 1644522239, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1d51b0e5-3259-4591-a980-908d6e21f9e2'}, {'domain': '.happy-shopy.de', 'expiry': 1645730037, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.happy-shopy.de', 'expiry': 1676056438, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU56YzFZbVU0WW1VdFpUazFaUzAwTUdSakxXSmtaVEF0WlRJNU9UQmpaRFF4TkdRMg'}, {'domain': '.happy-shopy.de', 'expiry': 1676056439, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd1e7f517-a322-4914-ab2f-331b5c872def'}, {'domain': 'happy-shopy.de', 'expiry': 1676056439, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _uetsid
+[After] Cookie-Name 2: azameo_appnexusid
+[After] Cookie-Name 3: _gcl_au
+[After] Cookie-Name 4: cookie_azameo_id
+[After] Cookie-Name 5: __kla_id
+[After] Cookie-Name 6: outbrain_cid_fetch
+[After] Cookie-Name 7: _uetvid
+[After] Cookie-Name 8: _s
+[After] Cookie-Name 9: _gid
+[After] Cookie-Name 10: _shopify_sa_p
+[After] Cookie-Name 11: _shopify_sa_t
+[After] Cookie-Name 12: _gat
+[After] Cookie-Name 13: _shopify_y
+[After] Cookie-Name 14: _landing_page
+[After] Cookie-Name 15: _ga
+[After] Cookie-Name 16: _shopify_s
+[After] Cookie-Name 17: _orig_referrer
+[After] Cookie-Name 18: _pin_unauth
+[After] Cookie-Name 19: _y
+[After] Cookie-Name 20: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

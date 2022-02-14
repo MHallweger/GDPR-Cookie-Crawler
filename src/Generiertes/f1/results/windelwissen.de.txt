@@ -1,0 +1,78 @@
+Website 272: http://www.windelwissen.de/ | Created: 08.02.2022 23:02:32 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 20
+[Before] Website-Cookies: [{'domain': '.windelwissen.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'windelwissen.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'windelwissen.de', 'expiry': 1644361341, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.windelwissen.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.windelwissen.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T22%3A02%3A20.481Z'}, {'domain': '.windelwissen.de', 'expiry': 1675893740, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': 'windelwissen.de', 'expiry': 1707429741, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQzNTc3NDEsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd2luZGVsd2lzc2VuLmRlLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDM1Nzc0MSwidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly93aW5kZWx3aXNzZW4uZGUvIn19'}, {'domain': '.windelwissen.de', 'expiry': 1675893740, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22CCPA%22%3A%22%22%2C%22GDPR%22%3A%22%22%7D%2C%22lim%22%3A%5B%22CCPA%22%2C%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%7D'}, {'domain': '.windelwissen.de', 'expiry': 1645567340, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.windelwissen.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '14542256-91fe-4b48-a343-a8008487573e'}, {'domain': '.windelwissen.de', 'expiry': 1644359544, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.windelwissen.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '14542256-91fe-4b48-a343-a8008487573e'}, {'domain': '.windelwissen.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T22%3A02%3A20.487Z'}, {'domain': '.windelwissen.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7e8b477f-d18e-4b8e-82cd-132bf6a5361f'}, {'domain': 'windelwissen.de', 'expiry': 1645567344, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'windelwissen.de', 'expiry': 1645567344, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.windelwissen.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.windelwissen.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7e8b477f-d18e-4b8e-82cd-132bf6a5361f'}, {'domain': '.windelwissen.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'windelwissen.de', 'expiry': 1675893744, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _shopify_sa_p
+[Before] Cookie-Name 2: _shopify_evids
+[Before] Cookie-Name 3: shopify_pay_redirect
+[Before] Cookie-Name 4: _shopify_evids
+[Before] Cookie-Name 5: _shopify_d
+[Before] Cookie-Name 6: _shopify_m
+[Before] Cookie-Name 7: __kla_id
+[Before] Cookie-Name 8: _tracking_consent
+[Before] Cookie-Name 9: _shopify_tw
+[Before] Cookie-Name 10: _shopify_y
+[Before] Cookie-Name 11: _shopify_tm
+[Before] Cookie-Name 12: _y
+[Before] Cookie-Name 13: _shopify_sa_t
+[Before] Cookie-Name 14: _s
+[Before] Cookie-Name 15: localization
+[Before] Cookie-Name 16: cart_currency
+[Before] Cookie-Name 17: _landing_page
+[Before] Cookie-Name 18: _shopify_s
+[Before] Cookie-Name 19: _orig_referrer
+[Before] Cookie-Name 20: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 25
+[After] Website-Cookies: [{'domain': '.windelwissen.de', 'expiry': 1652133760, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644357759775.1991126418'}, {'domain': '.windelwissen.de', 'expiry': 1644357819, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.windelwissen.de', 'expiry': 1644359559, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.windelwissen.de', 'expiry': 1675893759, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': '.windelwissen.de', 'expiry': 1675893759, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%221%22%2C%22CCPA%22%3A%22%22%7D%2C%22lim%22%3A%5B%22CCPA%22%2C%22GDPR%22%5D%7D'}, {'domain': 'windelwissen.de', 'expiry': 1707429741, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQzNTc3NDEsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd2luZGVsd2lzc2VuLmRlLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDM1Nzc0MSwidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly93aW5kZWx3aXNzZW4uZGUvIn19'}, {'domain': 'windelwissen.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'windelwissen.de', 'expiry': 1644361341, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.windelwissen.de', 'expiry': 1645567340, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.windelwissen.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'windelwissen.de', 'expiry': 1645567359, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '908a9ae58eafeec387eaa2f3a76b02e3'}, {'domain': '.windelwissen.de', 'expiry': 1644359559, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.windelwissen.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T22%3A02%3A20.481Z'}, {'domain': '.windelwissen.de', 'expiry': 1707429759, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.131636528.1644357760'}, {'domain': '.windelwissen.de', 'expiry': 1675893759, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '14542256-91fe-4b48-a343-a8008487573e'}, {'domain': '.windelwissen.de', 'expiry': 1644359559, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7e8b477f-d18e-4b8e-82cd-132bf6a5361f'}, {'domain': '.windelwissen.de', 'expiry': 1675893759, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '14542256-91fe-4b48-a343-a8008487573e'}, {'domain': '.windelwissen.de', 'expiry': 1644359559, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T22%3A02%3A20.487Z'}, {'domain': '.windelwissen.de', 'expiry': 1644359559, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7e8b477f-d18e-4b8e-82cd-132bf6a5361f'}, {'domain': 'windelwissen.de', 'expiry': 1645567359, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'windelwissen.de', 'expiry': 1645567359, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.windelwissen.de', 'expiry': 1645567359, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.windelwissen.de', 'expiry': 1644444159, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.118905993.1644357760'}, {'domain': '.windelwissen.de', 'expiry': 1645567359, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'windelwissen.de', 'expiry': 1675893759, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _fbp
+[After] Cookie-Name 2: _gat
+[After] Cookie-Name 3: _shopify_sa_p
+[After] Cookie-Name 4: _shopify_m
+[After] Cookie-Name 5: _tracking_consent
+[After] Cookie-Name 6: __kla_id
+[After] Cookie-Name 7: _shopify_evids
+[After] Cookie-Name 8: shopify_pay_redirect
+[After] Cookie-Name 9: _shopify_tw
+[After] Cookie-Name 10: _shopify_evids
+[After] Cookie-Name 11: cart_sig
+[After] Cookie-Name 12: _shopify_tm
+[After] Cookie-Name 13: _shopify_d
+[After] Cookie-Name 14: _ga
+[After] Cookie-Name 15: _shopify_y
+[After] Cookie-Name 16: _shopify_s
+[After] Cookie-Name 17: _y
+[After] Cookie-Name 18: _shopify_sa_t
+[After] Cookie-Name 19: _s
+[After] Cookie-Name 20: localization
+[After] Cookie-Name 21: cart_currency
+[After] Cookie-Name 22: _landing_page
+[After] Cookie-Name 23: _gid
+[After] Cookie-Name 24: _orig_referrer
+[After] Cookie-Name 25: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 5
+[Difference] Cookie-Name: 1: _gid
+[Difference] Cookie-Name: 2: _fbp
+[Difference] Cookie-Name: 3: _ga
+[Difference] Cookie-Name: 4: cart_sig
+[Difference] Cookie-Name: 5: _gat
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

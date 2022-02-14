@@ -1,0 +1,94 @@
+Website 149: http://www.junglueck.de/ | Created: 09.02.2022 11:31:33 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 29
+[Before] Website-Cookies: [{'domain': '.junglueck.de', 'expiry': 1675938685, 'httpOnly': False, 'name': '__zlcmid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '18Skh3uijjkY1kJ'}, {'domain': 'junglueck.de', 'expiry': 1644404484, 'httpOnly': False, 'name': '_sp_ses.bff7', 'path': '/', 'secure': False, 'value': '*'}, {'domain': 'junglueck.de', 'expiry': 1645612284, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644402684'}, {'domain': '.junglueck.de', 'expiry': 1644404494, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2badef56-c31e-41a1-9f6f-ba89d7213105'}, {'domain': 'junglueck.de', 'expiry': 1645612284, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '02c16b139d270d8aeaed74b2b0e1166c'}, {'domain': 'junglueck.de', 'expiry': 1707474684, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MDI2ODUsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vanVuZ2x1ZWNrLmRlLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDQwMjY4NSwidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly9qdW5nbHVlY2suZGUvIn19'}, {'domain': '.junglueck.de', 'expiry': 1644489083, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1276963471.1644402684'}, {'domain': '.junglueck.de', 'expiry': 1678589382, 'httpOnly': False, 'name': '_scid', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'faa94f02-4067-4d7d-a0b6-b1ccb05ea666'}, {'domain': '.junglueck.de', 'expiry': 1652178684, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644402684482.760943347'}, {'domain': 'junglueck.de', 'expiry': 1645612284, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A2'}, {'domain': '.junglueck.de', 'expiry': 1675938684, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU9HWTFPRFJqWTJFdE5EQTRNQzAwWW1ZeExUZzJNV1V0TmpRNVl6azJNVEV4TWpCaA'}, {'domain': '.junglueck.de', 'expiry': 1644404484, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A31%3A24.191Z'}, {'domain': 'junglueck.de', 'expiry': 1644402984, 'httpOnly': False, 'name': 'outbrain_cid_fetch', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': '.junglueck.de', 'expiry': 1707474683, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.2039110325.1644402684'}, {'domain': 'junglueck.de', 'expiry': 1645612284, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f63ebaf7bdc33764335c6585aafb914d'}, {'domain': '.junglueck.de', 'expiry': 1677925884, 'httpOnly': False, 'name': 'ABTasty', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'uid=2mndf0p2akftkvrf&fst=1644402683449&pst=-1&cst=1644402683449&ns=1&pvt=1&pvis=1&th=808054.1003738.1.1.1.1.1644402684072.1644402684072.1'}, {'domain': '.junglueck.de', 'expiry': 1652178683, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1563776911.1644402684'}, {'domain': '.junglueck.de', 'expiry': 1644402743, 'httpOnly': False, 'name': '_gat_UA-116047130-1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.junglueck.de', 'expiry': 1645612283, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.junglueck.de', 'expiry': 1644404494, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2badef56-c31e-41a1-9f6f-ba89d7213105'}, {'domain': '.junglueck.de', 'expiry': 1675938694, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '213ad309-b9ff-44ca-955a-38e200016745'}, {'domain': '.junglueck.de', 'expiry': 1644404484, 'httpOnly': False, 'name': 'ABTastySession', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'mrasn=&sen=1&lp=https%253A%252F%252Fjunglueck.de%252F'}, {'domain': '.junglueck.de', 'expiry': 1675938694, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '213ad309-b9ff-44ca-955a-38e200016745'}, {'domain': '.junglueck.de', 'expiry': 1645612283, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'junglueck.de', 'expiry': 1675938694, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'junglueck.de', 'expiry': 1645612294, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.junglueck.de', 'expiry': 1644404484, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'junglueck.de', 'expiry': 1707474684, 'httpOnly': False, 'name': '_sp_id.bff7', 'path': '/', 'secure': False, 'value': 'fd88103d75f43879.1644402685.1.1644402685.1644402685'}, {'domain': 'junglueck.de', 'expiry': 1645612294, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[Before] Cookie-Name 1: __zlcmid
+[Before] Cookie-Name 2: _sp_ses.bff7
+[Before] Cookie-Name 3: cart_ts
+[Before] Cookie-Name 4: _s
+[Before] Cookie-Name 5: cart
+[Before] Cookie-Name 6: __kla_id
+[Before] Cookie-Name 7: _gid
+[Before] Cookie-Name 8: _scid
+[Before] Cookie-Name 9: _fbp
+[Before] Cookie-Name 10: cart_ver
+[Before] Cookie-Name 11: _pin_unauth
+[Before] Cookie-Name 12: _shopify_sa_t
+[Before] Cookie-Name 13: outbrain_cid_fetch
+[Before] Cookie-Name 14: _ga
+[Before] Cookie-Name 15: cart_sig
+[Before] Cookie-Name 16: ABTasty
+[Before] Cookie-Name 17: _gcl_au
+[Before] Cookie-Name 18: _gat_UA-116047130-1
+[Before] Cookie-Name 19: _landing_page
+[Before] Cookie-Name 20: _shopify_s
+[Before] Cookie-Name 21: _y
+[Before] Cookie-Name 22: ABTastySession
+[Before] Cookie-Name 23: _shopify_y
+[Before] Cookie-Name 24: _orig_referrer
+[Before] Cookie-Name 25: secure_customer_sig
+[Before] Cookie-Name 26: cart_currency
+[Before] Cookie-Name 27: _shopify_sa_p
+[Before] Cookie-Name 28: _sp_id.bff7
+[Before] Cookie-Name 29: localization
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 29
+[After] Website-Cookies: [{'domain': '.junglueck.de', 'expiry': 1675938685, 'httpOnly': False, 'name': '__zlcmid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '18Skh3uijjkY1kJ'}, {'domain': 'junglueck.de', 'expiry': 1644404484, 'httpOnly': False, 'name': '_sp_ses.bff7', 'path': '/', 'secure': False, 'value': '*'}, {'domain': 'junglueck.de', 'expiry': 1645612284, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644402684'}, {'domain': '.junglueck.de', 'expiry': 1644404499, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2badef56-c31e-41a1-9f6f-ba89d7213105'}, {'domain': 'junglueck.de', 'expiry': 1645612284, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '02c16b139d270d8aeaed74b2b0e1166c'}, {'domain': 'junglueck.de', 'expiry': 1707474684, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MDI2ODUsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vanVuZ2x1ZWNrLmRlLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDQwMjY4NSwidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly9qdW5nbHVlY2suZGUvIn19'}, {'domain': '.junglueck.de', 'expiry': 1644489083, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1276963471.1644402684'}, {'domain': '.junglueck.de', 'expiry': 1678589382, 'httpOnly': False, 'name': '_scid', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'faa94f02-4067-4d7d-a0b6-b1ccb05ea666'}, {'domain': '.junglueck.de', 'expiry': 1652178684, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644402684482.760943347'}, {'domain': 'junglueck.de', 'expiry': 1645612284, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A2'}, {'domain': '.junglueck.de', 'expiry': 1675938684, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU9HWTFPRFJqWTJFdE5EQTRNQzAwWW1ZeExUZzJNV1V0TmpRNVl6azJNVEV4TWpCaA'}, {'domain': '.junglueck.de', 'expiry': 1644404484, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A31%3A24.191Z'}, {'domain': 'junglueck.de', 'expiry': 1644402984, 'httpOnly': False, 'name': 'outbrain_cid_fetch', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': '.junglueck.de', 'expiry': 1707474683, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.2039110325.1644402684'}, {'domain': 'junglueck.de', 'expiry': 1645612284, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f63ebaf7bdc33764335c6585aafb914d'}, {'domain': '.junglueck.de', 'expiry': 1677925884, 'httpOnly': False, 'name': 'ABTasty', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'uid=2mndf0p2akftkvrf&fst=1644402683449&pst=-1&cst=1644402683449&ns=1&pvt=1&pvis=1&th=808054.1003738.1.1.1.1.1644402684072.1644402684072.1'}, {'domain': '.junglueck.de', 'expiry': 1652178683, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1563776911.1644402684'}, {'domain': '.junglueck.de', 'expiry': 1644402743, 'httpOnly': False, 'name': '_gat_UA-116047130-1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.junglueck.de', 'expiry': 1645612283, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.junglueck.de', 'expiry': 1644404499, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2badef56-c31e-41a1-9f6f-ba89d7213105'}, {'domain': '.junglueck.de', 'expiry': 1675938699, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '213ad309-b9ff-44ca-955a-38e200016745'}, {'domain': '.junglueck.de', 'expiry': 1644404484, 'httpOnly': False, 'name': 'ABTastySession', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'mrasn=&sen=1&lp=https%253A%252F%252Fjunglueck.de%252F'}, {'domain': '.junglueck.de', 'expiry': 1675938699, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '213ad309-b9ff-44ca-955a-38e200016745'}, {'domain': '.junglueck.de', 'expiry': 1645612283, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'junglueck.de', 'expiry': 1675938699, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'junglueck.de', 'expiry': 1645612299, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.junglueck.de', 'expiry': 1644404484, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'junglueck.de', 'expiry': 1707474684, 'httpOnly': False, 'name': '_sp_id.bff7', 'path': '/', 'secure': False, 'value': 'fd88103d75f43879.1644402685.1.1644402685.1644402685'}, {'domain': 'junglueck.de', 'expiry': 1645612299, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[After] Cookie-Name 1: __zlcmid
+[After] Cookie-Name 2: _sp_ses.bff7
+[After] Cookie-Name 3: cart_ts
+[After] Cookie-Name 4: _s
+[After] Cookie-Name 5: cart
+[After] Cookie-Name 6: __kla_id
+[After] Cookie-Name 7: _gid
+[After] Cookie-Name 8: _scid
+[After] Cookie-Name 9: _fbp
+[After] Cookie-Name 10: cart_ver
+[After] Cookie-Name 11: _pin_unauth
+[After] Cookie-Name 12: _shopify_sa_t
+[After] Cookie-Name 13: outbrain_cid_fetch
+[After] Cookie-Name 14: _ga
+[After] Cookie-Name 15: cart_sig
+[After] Cookie-Name 16: ABTasty
+[After] Cookie-Name 17: _gcl_au
+[After] Cookie-Name 18: _gat_UA-116047130-1
+[After] Cookie-Name 19: _landing_page
+[After] Cookie-Name 20: _shopify_s
+[After] Cookie-Name 21: _y
+[After] Cookie-Name 22: ABTastySession
+[After] Cookie-Name 23: _shopify_y
+[After] Cookie-Name 24: _orig_referrer
+[After] Cookie-Name 25: secure_customer_sig
+[After] Cookie-Name 26: cart_currency
+[After] Cookie-Name 27: _shopify_sa_p
+[After] Cookie-Name 28: _sp_id.bff7
+[After] Cookie-Name 29: localization
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

@@ -1,0 +1,84 @@
+Website 340: http://www.omega-electronic.de/ | Created: 09.02.2022 18:54:24 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 22
+[Before] Website-Cookies: [{'domain': '.omega-electronic.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A54%3A14.432Z'}, {'domain': '.omega-electronic.de', 'expiry': 1644429314, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.omega-electronic.de', 'expiry': 1644515654, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.943843762.1644429254'}, {'domain': '.omega-electronic.de', 'expiry': 1707501254, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.587554802.1644429254'}, {'domain': 'www.omega-electronic.de', 'expiry': 1730829255, 'httpOnly': False, 'name': 'rk_uid', 'path': '/', 'secure': False, 'value': '67eddd11-e3da-4216-b648-5a1d71530218'}, {'domain': 'www.omega-electronic.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.omega-electronic.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.omega-electronic.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A54%3A14.344Z'}, {'domain': '.omega-electronic.de', 'expiry': 1675965254, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.omega-electronic.de', 'expiry': 1645638854, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.omega-electronic.de', 'expiry': 1644431054, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.omega-electronic.de', 'expiry': 1675965254, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': '.omega-electronic.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c20af2e4-df96-4c63-881a-1921f1d59bf6'}, {'domain': '.omega-electronic.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.omega-electronic.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5986370e-459d-4944-a5e3-14050d7a71e2'}, {'domain': '.omega-electronic.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5986370e-459d-4944-a5e3-14050d7a71e2'}, {'domain': '.omega-electronic.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.omega-electronic.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c20af2e4-df96-4c63-881a-1921f1d59bf6'}, {'domain': '.omega-electronic.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.omega-electronic.de', 'expiry': 1645638854, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': 'www.omega-electronic.de', 'expiry': 1645638854, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': 'www.omega-electronic.de', 'expiry': 1675965254, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _shopify_sa_t
+[Before] Cookie-Name 2: _gat
+[Before] Cookie-Name 3: _gid
+[Before] Cookie-Name 4: _ga
+[Before] Cookie-Name 5: rk_uid
+[Before] Cookie-Name 6: _shopify_evids
+[Before] Cookie-Name 7: _shopify_evids
+[Before] Cookie-Name 8: _shopify_d
+[Before] Cookie-Name 9: _shopify_m
+[Before] Cookie-Name 10: _shopify_tw
+[Before] Cookie-Name 11: _shopify_tm
+[Before] Cookie-Name 12: _tracking_consent
+[Before] Cookie-Name 13: _shopify_s
+[Before] Cookie-Name 14: _shopify_sa_p
+[Before] Cookie-Name 15: _shopify_y
+[Before] Cookie-Name 16: _y
+[Before] Cookie-Name 17: _orig_referrer
+[Before] Cookie-Name 18: _s
+[Before] Cookie-Name 19: _landing_page
+[Before] Cookie-Name 20: cart_currency
+[Before] Cookie-Name 21: localization
+[Before] Cookie-Name 22: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 27
+[After] Website-Cookies: [{'domain': 'www.omega-electronic.de', 'expiry': 1645638870, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644429271'}, {'domain': '.omega-electronic.de', 'expiry': 1644431070, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A54%3A14.432Z'}, {'domain': '.omega-electronic.de', 'expiry': 1644429314, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.omega-electronic.de', 'expiry': 1645638870, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': 'www.omega-electronic.de', 'expiry': 1675965270, 'httpOnly': False, 'name': 'cookieconsent_status', 'path': '/', 'secure': False, 'value': 'dismiss'}, {'domain': '.omega-electronic.de', 'expiry': 1644515654, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.943843762.1644429254'}, {'domain': '.omega-electronic.de', 'expiry': 1644431070, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c20af2e4-df96-4c63-881a-1921f1d59bf6'}, {'domain': '.omega-electronic.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.omega-electronic.de', 'expiry': 1707501254, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.587554802.1644429254'}, {'domain': 'www.omega-electronic.de', 'expiry': 1730829255, 'httpOnly': False, 'name': 'rk_uid', 'path': '/', 'secure': False, 'value': '67eddd11-e3da-4216-b648-5a1d71530218'}, {'domain': 'www.omega-electronic.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.omega-electronic.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A54%3A14.344Z'}, {'domain': 'www.omega-electronic.de', 'expiry': 1675965270, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.omega-electronic.de', 'expiry': 1644431070, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.omega-electronic.de', 'expiry': 1644431070, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c20af2e4-df96-4c63-881a-1921f1d59bf6'}, {'domain': '.omega-electronic.de', 'expiry': 1675965270, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%221%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%7D'}, {'domain': '.omega-electronic.de', 'expiry': 1644431070, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.omega-electronic.de', 'expiry': 1675965270, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5986370e-459d-4944-a5e3-14050d7a71e2'}, {'domain': '.omega-electronic.de', 'expiry': 1675965270, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5986370e-459d-4944-a5e3-14050d7a71e2'}, {'domain': '.omega-electronic.de', 'expiry': 1645638870, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.omega-electronic.de', 'expiry': 1645638870, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1da2927b4bfc3baff5e85eac3b8e8b10'}, {'domain': '.omega-electronic.de', 'expiry': 1645638854, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.omega-electronic.de', 'expiry': 1645638870, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.omega-electronic.de', 'expiry': 1645638870, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e9d25e697b6bb4565462914157e70e4a'}, {'domain': '.omega-electronic.de', 'expiry': 1675965270, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': 'www.omega-electronic.de', 'expiry': 1645638870, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.omega-electronic.de', 'expiry': 1645638870, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[After] Cookie-Name 1: cart_ts
+[After] Cookie-Name 2: _shopify_sa_t
+[After] Cookie-Name 3: _gat
+[After] Cookie-Name 4: cart_ver
+[After] Cookie-Name 5: cookieconsent_status
+[After] Cookie-Name 6: _gid
+[After] Cookie-Name 7: _s
+[After] Cookie-Name 8: _shopify_evids
+[After] Cookie-Name 9: _ga
+[After] Cookie-Name 10: rk_uid
+[After] Cookie-Name 11: _shopify_evids
+[After] Cookie-Name 12: _shopify_d
+[After] Cookie-Name 13: secure_customer_sig
+[After] Cookie-Name 14: _shopify_tm
+[After] Cookie-Name 15: _shopify_s
+[After] Cookie-Name 16: _tracking_consent
+[After] Cookie-Name 17: _shopify_sa_p
+[After] Cookie-Name 18: _shopify_y
+[After] Cookie-Name 19: _y
+[After] Cookie-Name 20: _orig_referrer
+[After] Cookie-Name 21: cart_sig
+[After] Cookie-Name 22: _shopify_tw
+[After] Cookie-Name 23: _landing_page
+[After] Cookie-Name 24: cart
+[After] Cookie-Name 25: _shopify_m
+[After] Cookie-Name 26: cart_currency
+[After] Cookie-Name 27: localization
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 5
+[Difference] Cookie-Name: 1: cart_sig
+[Difference] Cookie-Name: 2: cart_ts
+[Difference] Cookie-Name: 3: cart_ver
+[Difference] Cookie-Name: 4: cookieconsent_status
+[Difference] Cookie-Name: 5: cart
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

@@ -1,0 +1,79 @@
+Website 340: http://www.amorlights.de/ | Created: 10.02.2022 13:53:17 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 22
+[Before] Website-Cookies: [{'domain': 'amorlights.de', 'httpOnly': False, 'name': 'locale_bar_accepted', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'amorlights.de', 'httpOnly': False, 'name': 'TawkConnectionTime', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.amorlights.de', 'expiry': 1652273586, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644497586100.1057162632'}, {'domain': 'amorlights.de', 'httpOnly': False, 'name': 'usb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.amorlights.de', 'expiry': 1707569585, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.184866417.1644497586'}, {'domain': '.amorlights.de', 'expiry': 1676033586, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVpqUXdaRGd3Wm1RdFpqUTJOQzAwWmpkaUxXRXhaakF0Wmpkak5EZGtPVEEwWkRVdw'}, {'domain': '.amorlights.de', 'expiry': 1644583985, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.3800880.1644497586'}, {'domain': '.amorlights.de', 'expiry': 1644499385, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.amorlights.de', 'expiry': 1644499385, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T12%3A53%3A05.809Z'}, {'domain': '.amorlights.de', 'expiry': 1644499389, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e8b4911b-29a4-4332-aff0-85e612f4bcc1'}, {'domain': '.amorlights.de', 'expiry': 1645707185, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.amorlights.de', 'expiry': 1676033589, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5257200b-5361-411f-aa5e-809a6bff601c'}, {'domain': '.amorlights.de', 'expiry': 1660049589, 'httpOnly': False, 'name': '__tawkuuid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e::amorlights.de::U5j5xicAGwdktDlJEgZHf5Cp2i0Ii+Zo9uWf3PJ3N/A/PqCDBHBzddl1HMDbCZxz::2'}, {'domain': '.amorlights.de', 'expiry': 1644499389, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e8b4911b-29a4-4332-aff0-85e612f4bcc1'}, {'domain': '.amorlights.de', 'expiry': 1644497645, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.amorlights.de', 'expiry': 1645707185, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'amorlights.de', 'expiry': 1707569588, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0OTc1ODgsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vYW1vcmxpZ2h0cy5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQ0OTc1ODgsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vYW1vcmxpZ2h0cy5kZS8ifX0='}, {'domain': '.amorlights.de', 'expiry': 1676033589, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5257200b-5361-411f-aa5e-809a6bff601c'}, {'domain': 'amorlights.de', 'expiry': 1676033589, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'amorlights.de', 'expiry': 1645707189, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.amorlights.de', 'expiry': 1652273585, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.703538052.1644497585'}, {'domain': 'amorlights.de', 'expiry': 1645707189, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[Before] Cookie-Name 1: locale_bar_accepted
+[Before] Cookie-Name 2: TawkConnectionTime
+[Before] Cookie-Name 3: _fbp
+[Before] Cookie-Name 4: usb_previous_pathname
+[Before] Cookie-Name 5: _ga
+[Before] Cookie-Name 6: _pin_unauth
+[Before] Cookie-Name 7: _gid
+[Before] Cookie-Name 8: _shopify_sa_p
+[Before] Cookie-Name 9: _shopify_sa_t
+[Before] Cookie-Name 10: _shopify_s
+[Before] Cookie-Name 11: _orig_referrer
+[Before] Cookie-Name 12: _shopify_y
+[Before] Cookie-Name 13: __tawkuuid
+[Before] Cookie-Name 14: _s
+[Before] Cookie-Name 15: _gat
+[Before] Cookie-Name 16: _landing_page
+[Before] Cookie-Name 17: __kla_id
+[Before] Cookie-Name 18: _y
+[Before] Cookie-Name 19: secure_customer_sig
+[Before] Cookie-Name 20: cart_currency
+[Before] Cookie-Name 21: _gcl_au
+[Before] Cookie-Name 22: localization
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 23
+[After] Website-Cookies: [{'domain': 'amorlights.de', 'expiry': 1676033602, 'httpOnly': False, 'name': 'cookieconsent_status', 'path': '/', 'secure': False, 'value': 'dismiss'}, {'domain': 'amorlights.de', 'httpOnly': False, 'name': 'locale_bar_accepted', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'amorlights.de', 'httpOnly': False, 'name': 'TawkConnectionTime', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.amorlights.de', 'expiry': 1652273602, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644497586100.1057162632'}, {'domain': 'amorlights.de', 'httpOnly': False, 'name': 'usb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.amorlights.de', 'expiry': 1707569585, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.184866417.1644497586'}, {'domain': '.amorlights.de', 'expiry': 1676033586, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVpqUXdaRGd3Wm1RdFpqUTJOQzAwWmpkaUxXRXhaakF0Wmpkak5EZGtPVEEwWkRVdw'}, {'domain': '.amorlights.de', 'expiry': 1644583985, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.3800880.1644497586'}, {'domain': '.amorlights.de', 'expiry': 1644499385, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.amorlights.de', 'expiry': 1644499385, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T12%3A53%3A05.809Z'}, {'domain': '.amorlights.de', 'expiry': 1644499389, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e8b4911b-29a4-4332-aff0-85e612f4bcc1'}, {'domain': '.amorlights.de', 'expiry': 1645707185, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.amorlights.de', 'expiry': 1676033589, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5257200b-5361-411f-aa5e-809a6bff601c'}, {'domain': '.amorlights.de', 'expiry': 1660049589, 'httpOnly': False, 'name': '__tawkuuid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e::amorlights.de::U5j5xicAGwdktDlJEgZHf5Cp2i0Ii+Zo9uWf3PJ3N/A/PqCDBHBzddl1HMDbCZxz::2'}, {'domain': '.amorlights.de', 'expiry': 1644499389, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e8b4911b-29a4-4332-aff0-85e612f4bcc1'}, {'domain': '.amorlights.de', 'expiry': 1644497645, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.amorlights.de', 'expiry': 1645707185, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'amorlights.de', 'expiry': 1707569588, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0OTc1ODgsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vYW1vcmxpZ2h0cy5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQ0OTc1ODgsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vYW1vcmxpZ2h0cy5kZS8ifX0='}, {'domain': '.amorlights.de', 'expiry': 1676033589, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5257200b-5361-411f-aa5e-809a6bff601c'}, {'domain': 'amorlights.de', 'expiry': 1676033589, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'amorlights.de', 'expiry': 1645707189, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.amorlights.de', 'expiry': 1652273585, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.703538052.1644497585'}, {'domain': 'amorlights.de', 'expiry': 1645707189, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[After] Cookie-Name 1: cookieconsent_status
+[After] Cookie-Name 2: locale_bar_accepted
+[After] Cookie-Name 3: TawkConnectionTime
+[After] Cookie-Name 4: _fbp
+[After] Cookie-Name 5: usb_previous_pathname
+[After] Cookie-Name 6: _ga
+[After] Cookie-Name 7: _pin_unauth
+[After] Cookie-Name 8: _gid
+[After] Cookie-Name 9: _shopify_sa_p
+[After] Cookie-Name 10: _shopify_sa_t
+[After] Cookie-Name 11: _shopify_s
+[After] Cookie-Name 12: _orig_referrer
+[After] Cookie-Name 13: _shopify_y
+[After] Cookie-Name 14: __tawkuuid
+[After] Cookie-Name 15: _s
+[After] Cookie-Name 16: _gat
+[After] Cookie-Name 17: _landing_page
+[After] Cookie-Name 18: __kla_id
+[After] Cookie-Name 19: _y
+[After] Cookie-Name 20: secure_customer_sig
+[After] Cookie-Name 21: cart_currency
+[After] Cookie-Name 22: _gcl_au
+[After] Cookie-Name 23: localization
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: cookieconsent_status
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

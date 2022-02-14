@@ -1,0 +1,74 @@
+Website 175: http://www.creality3dshop.de/ | Created: 08.02.2022 22:33:02 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 21
+[Before] Website-Cookies: [{'domain': '.creality3dshop.de', 'expiry': 1644357774, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'fUlptxdEEOATrh-20220208213254'}, {'domain': '.creality3dshop.de', 'expiry': 1644356034, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.creality3dshop.de', 'expiry': 1707427974, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1690286505.1644355974'}, {'domain': '.creality3dshop.de', 'expiry': 1644357774, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A32%3A54.114Z'}, {'domain': '.creality3dshop.de', 'expiry': 1644357774, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.creality3dshop.de', 'expiry': 1678051974, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': 'acb26a50892611ec938b537dce6492c4'}, {'domain': '.creality3dshop.de', 'httpOnly': False, 'name': 'soundest-views', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.creality3dshop.de', 'expiry': 1652131973, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.171275935.1644355973'}, {'domain': '.creality3dshop.de', 'expiry': 1644357784, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c7c12eb7-2604-4135-afa0-f4a703cf77dc'}, {'domain': '.creality3dshop.de', 'expiry': 1644357784, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c7c12eb7-2604-4135-afa0-f4a703cf77dc'}, {'domain': '.creality3dshop.de', 'expiry': 1675891984, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c8ee3421-b5af-4d76-92a5-3366a5af74f2'}, {'domain': '.creality3dshop.de', 'expiry': 1675891984, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c8ee3421-b5af-4d76-92a5-3366a5af74f2'}, {'domain': '.creality3dshop.de', 'expiry': 1645565573, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.creality3dshop.de', 'expiry': 1644442374, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.581943659.1644355974'}, {'domain': '.creality3dshop.de', 'expiry': 1645565573, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.creality3dshop.de', 'expiry': 1678483974, 'httpOnly': False, 'name': 'cjConsent', 'path': '/', 'secure': True, 'value': 'MHxZfDB8Tnww'}, {'domain': '.www.creality3dshop.de', 'httpOnly': False, 'name': '_g1550296523', 'path': '/', 'secure': False, 'value': 'RVVS'}, {'domain': '.creality3dshop.de', 'expiry': 1644442374, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': 'acb22b50892611ecbd43b1348ab2df23'}, {'domain': '.creality3dshop.de', 'expiry': 1675891974, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'JHbryWBHHJRm6b-20220208213254'}, {'domain': '.creality3dshop.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220208213254-h2WVm8ooLE53oCDUbd44KPbwYArx3NDypbP7IuLef8p17xeQx'}, {'domain': 'www.creality3dshop.de', 'expiry': 1675891984, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: omnisendSessionID
+[Before] Cookie-Name 2: _gat
+[Before] Cookie-Name 3: _ga
+[Before] Cookie-Name 4: _shopify_sa_t
+[Before] Cookie-Name 5: _shopify_sa_p
+[Before] Cookie-Name 6: _uetvid
+[Before] Cookie-Name 7: soundest-views
+[Before] Cookie-Name 8: _gcl_au
+[Before] Cookie-Name 9: _shopify_s
+[Before] Cookie-Name 10: _s
+[Before] Cookie-Name 11: _y
+[Before] Cookie-Name 12: _shopify_y
+[Before] Cookie-Name 13: _landing_page
+[Before] Cookie-Name 14: _gid
+[Before] Cookie-Name 15: _orig_referrer
+[Before] Cookie-Name 16: cjConsent
+[Before] Cookie-Name 17: _g1550296523
+[Before] Cookie-Name 18: _uetsid
+[Before] Cookie-Name 19: omnisendAnonymousID
+[Before] Cookie-Name 20: soundestID
+[Before] Cookie-Name 21: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 22
+[After] Website-Cookies: [{'domain': '.creality3dshop.de', 'expiry': 1644357774, 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'secure': False, 'value': 'fUlptxdEEOATrh-20220208213254'}, {'domain': '.creality3dshop.de', 'expiry': 1644356034, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.creality3dshop.de', 'expiry': 1707427974, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1690286505.1644355974'}, {'domain': 'www.creality3dshop.de', 'expiry': 1675891988, 'httpOnly': False, 'name': 'eg_cookieconsent_status', 'path': '/', 'secure': False, 'value': 'dismiss'}, {'domain': '.creality3dshop.de', 'expiry': 1644357774, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A32%3A54.114Z'}, {'domain': '.creality3dshop.de', 'expiry': 1644357774, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.creality3dshop.de', 'expiry': 1678051974, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': 'acb26a50892611ec938b537dce6492c4'}, {'domain': '.creality3dshop.de', 'httpOnly': False, 'name': 'soundest-views', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.creality3dshop.de', 'expiry': 1652131973, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.171275935.1644355973'}, {'domain': '.creality3dshop.de', 'expiry': 1644357784, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c7c12eb7-2604-4135-afa0-f4a703cf77dc'}, {'domain': '.creality3dshop.de', 'expiry': 1644357784, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c7c12eb7-2604-4135-afa0-f4a703cf77dc'}, {'domain': '.creality3dshop.de', 'expiry': 1675891984, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c8ee3421-b5af-4d76-92a5-3366a5af74f2'}, {'domain': '.creality3dshop.de', 'expiry': 1675891984, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c8ee3421-b5af-4d76-92a5-3366a5af74f2'}, {'domain': '.creality3dshop.de', 'expiry': 1645565573, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.creality3dshop.de', 'expiry': 1644442374, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.581943659.1644355974'}, {'domain': '.creality3dshop.de', 'expiry': 1645565573, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.creality3dshop.de', 'expiry': 1678483974, 'httpOnly': False, 'name': 'cjConsent', 'path': '/', 'secure': True, 'value': 'MHxZfDB8Tnww'}, {'domain': '.www.creality3dshop.de', 'httpOnly': False, 'name': '_g1550296523', 'path': '/', 'secure': False, 'value': 'RVVS'}, {'domain': '.creality3dshop.de', 'expiry': 1644442374, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': 'acb22b50892611ecbd43b1348ab2df23'}, {'domain': '.creality3dshop.de', 'expiry': 1675891974, 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'secure': False, 'value': 'JHbryWBHHJRm6b-20220208213254'}, {'domain': '.creality3dshop.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'secure': False, 'value': '20220208213254-h2WVm8ooLE53oCDUbd44KPbwYArx3NDypbP7IuLef8p17xeQx'}, {'domain': 'www.creality3dshop.de', 'expiry': 1675891984, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: omnisendSessionID
+[After] Cookie-Name 2: _gat
+[After] Cookie-Name 3: _ga
+[After] Cookie-Name 4: eg_cookieconsent_status
+[After] Cookie-Name 5: _shopify_sa_t
+[After] Cookie-Name 6: _shopify_sa_p
+[After] Cookie-Name 7: _uetvid
+[After] Cookie-Name 8: soundest-views
+[After] Cookie-Name 9: _gcl_au
+[After] Cookie-Name 10: _shopify_s
+[After] Cookie-Name 11: _s
+[After] Cookie-Name 12: _y
+[After] Cookie-Name 13: _shopify_y
+[After] Cookie-Name 14: _landing_page
+[After] Cookie-Name 15: _gid
+[After] Cookie-Name 16: _orig_referrer
+[After] Cookie-Name 17: cjConsent
+[After] Cookie-Name 18: _g1550296523
+[After] Cookie-Name 19: _uetsid
+[After] Cookie-Name 20: omnisendAnonymousID
+[After] Cookie-Name 21: soundestID
+[After] Cookie-Name 22: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _gid (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: eg_cookieconsent_status
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

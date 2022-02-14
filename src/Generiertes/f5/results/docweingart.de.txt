@@ -1,0 +1,76 @@
+Website 284: http://www.docweingart.de/ | Created: 09.02.2022 21:03:19 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 21
+[Before] Website-Cookies: [{'domain': 'www.docweingart.de', 'expiry': 1644438791, 'httpOnly': False, 'name': 'ellipsis.sessionts', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1644436991138'}, {'domain': 'www.docweingart.de', 'expiry': 1802116990, 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'secure': True, 'value': '60f9e7ca-16f1-4e38-9956-27ece9d9b568'}, {'domain': '.docweingart.de', 'expiry': 1652212991, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644436990660.794725568'}, {'domain': '.docweingart.de', 'expiry': 1644437050, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.www.docweingart.de', 'expiry': 1707508991, 'httpOnly': False, 'name': 'pf_vid', 'path': '/', 'secure': False, 'value': 'a51d7998-f90b-417e-a8a6-6488f1448420'}, {'domain': '.docweingart.de', 'expiry': 1644523390, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.872722347.1644436990'}, {'domain': '.www.docweingart.de', 'expiry': 1644437291, 'httpOnly': False, 'name': 'pf_stc', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.docweingart.de', 'expiry': 1707508990, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1099156790.1644436990'}, {'domain': '.docweingart.de', 'expiry': 1675972991, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c70087a3-6875-4216-80e0-18e6e317f5d4'}, {'domain': 'www.docweingart.de', 'expiry': 1644438791, 'httpOnly': False, 'name': 'ellipsis.sessionid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '4ea09111-89e3-11ec-8d33-d3273f69e727'}, {'domain': '.docweingart.de', 'expiry': 1644438790, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.docweingart.de', 'expiry': 1644438790, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T20%3A03%3A10.413Z'}, {'domain': '.docweingart.de', 'expiry': 1644438791, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a106bc5f-d888-45c8-a2d8-f0bb4c8e378d'}, {'domain': '.www.docweingart.de', 'expiry': 1707508991, 'httpOnly': False, 'name': 'proof-factor-user-ea8441dd-1fca-417a-a940-d78b3b893039-all-time-data', 'path': '/', 'secure': False, 'value': '{"referring_url":"","initial_url":"https://www.docweingart.de/","sessions_count":1,"pages_viewed":1}'}, {'domain': '.docweingart.de', 'expiry': 1644438791, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a106bc5f-d888-45c8-a2d8-f0bb4c8e378d'}, {'domain': 'www.docweingart.de', 'expiry': 1644438790, 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'secure': True, 'value': 'b2a6f3dd-b9f3-46a7-a338-a6a057d94fbc'}, {'domain': '.docweingart.de', 'expiry': 1675972991, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c70087a3-6875-4216-80e0-18e6e317f5d4'}, {'domain': '.docweingart.de', 'expiry': 1652212990, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1810233579.1644436991'}, {'domain': '.docweingart.de', 'expiry': 1645646585, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.docweingart.de', 'expiry': 1645646585, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.docweingart.de', 'expiry': 1675972991, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: ellipsis.sessionts
+[Before] Cookie-Name 2: _shg_user_id
+[Before] Cookie-Name 3: _fbp
+[Before] Cookie-Name 4: _gat
+[Before] Cookie-Name 5: pf_vid
+[Before] Cookie-Name 6: _gid
+[Before] Cookie-Name 7: pf_stc
+[Before] Cookie-Name 8: _ga
+[Before] Cookie-Name 9: _shopify_y
+[Before] Cookie-Name 10: ellipsis.sessionid
+[Before] Cookie-Name 11: _shopify_sa_p
+[Before] Cookie-Name 12: _shopify_sa_t
+[Before] Cookie-Name 13: _s
+[Before] Cookie-Name 14: proof-factor-user-ea8441dd-1fca-417a-a940-d78b3b893039-all-time-data
+[Before] Cookie-Name 15: _shopify_s
+[Before] Cookie-Name 16: _shg_session_id
+[Before] Cookie-Name 17: _y
+[Before] Cookie-Name 18: _gcl_au
+[Before] Cookie-Name 19: _orig_referrer
+[Before] Cookie-Name 20: _landing_page
+[Before] Cookie-Name 21: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 22
+[After] Website-Cookies: [{'domain': 'www.docweingart.de', 'expiry': 1675973006, 'httpOnly': False, 'name': 'cookieconsent_status', 'path': '/', 'secure': False, 'value': 'dismiss'}, {'domain': 'www.docweingart.de', 'expiry': 1644438791, 'httpOnly': False, 'name': 'ellipsis.sessionts', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1644436991138'}, {'domain': 'www.docweingart.de', 'expiry': 1802116990, 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'secure': True, 'value': '60f9e7ca-16f1-4e38-9956-27ece9d9b568'}, {'domain': '.docweingart.de', 'expiry': 1652213006, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644436990660.794725568'}, {'domain': '.docweingart.de', 'expiry': 1644437050, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.www.docweingart.de', 'expiry': 1707508991, 'httpOnly': False, 'name': 'pf_vid', 'path': '/', 'secure': False, 'value': 'a51d7998-f90b-417e-a8a6-6488f1448420'}, {'domain': '.docweingart.de', 'expiry': 1644523390, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.872722347.1644436990'}, {'domain': '.www.docweingart.de', 'expiry': 1644437291, 'httpOnly': False, 'name': 'pf_stc', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.docweingart.de', 'expiry': 1707508990, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1099156790.1644436990'}, {'domain': '.docweingart.de', 'expiry': 1675972991, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c70087a3-6875-4216-80e0-18e6e317f5d4'}, {'domain': 'www.docweingart.de', 'expiry': 1644438791, 'httpOnly': False, 'name': 'ellipsis.sessionid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '4ea09111-89e3-11ec-8d33-d3273f69e727'}, {'domain': '.docweingart.de', 'expiry': 1644438790, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.docweingart.de', 'expiry': 1644438790, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T20%3A03%3A10.413Z'}, {'domain': '.docweingart.de', 'expiry': 1644438791, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a106bc5f-d888-45c8-a2d8-f0bb4c8e378d'}, {'domain': '.www.docweingart.de', 'expiry': 1707508991, 'httpOnly': False, 'name': 'proof-factor-user-ea8441dd-1fca-417a-a940-d78b3b893039-all-time-data', 'path': '/', 'secure': False, 'value': '{"referring_url":"","initial_url":"https://www.docweingart.de/","sessions_count":1,"pages_viewed":1}'}, {'domain': '.docweingart.de', 'expiry': 1644438791, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a106bc5f-d888-45c8-a2d8-f0bb4c8e378d'}, {'domain': 'www.docweingart.de', 'expiry': 1644438790, 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'secure': True, 'value': 'b2a6f3dd-b9f3-46a7-a338-a6a057d94fbc'}, {'domain': '.docweingart.de', 'expiry': 1675972991, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c70087a3-6875-4216-80e0-18e6e317f5d4'}, {'domain': '.docweingart.de', 'expiry': 1652212990, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1810233579.1644436991'}, {'domain': '.docweingart.de', 'expiry': 1645646585, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.docweingart.de', 'expiry': 1645646585, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.docweingart.de', 'expiry': 1675972991, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: cookieconsent_status
+[After] Cookie-Name 2: ellipsis.sessionts
+[After] Cookie-Name 3: _shg_user_id
+[After] Cookie-Name 4: _fbp
+[After] Cookie-Name 5: _gat
+[After] Cookie-Name 6: pf_vid
+[After] Cookie-Name 7: _gid
+[After] Cookie-Name 8: pf_stc
+[After] Cookie-Name 9: _ga
+[After] Cookie-Name 10: _shopify_y
+[After] Cookie-Name 11: ellipsis.sessionid
+[After] Cookie-Name 12: _shopify_sa_p
+[After] Cookie-Name 13: _shopify_sa_t
+[After] Cookie-Name 14: _s
+[After] Cookie-Name 15: proof-factor-user-ea8441dd-1fca-417a-a940-d78b3b893039-all-time-data
+[After] Cookie-Name 16: _shopify_s
+[After] Cookie-Name 17: _shg_session_id
+[After] Cookie-Name 18: _y
+[After] Cookie-Name 19: _gcl_au
+[After] Cookie-Name 20: _orig_referrer
+[After] Cookie-Name 21: _landing_page
+[After] Cookie-Name 22: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: cookieconsent_status
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

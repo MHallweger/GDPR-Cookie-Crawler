@@ -1,0 +1,101 @@
+Website 172: http://www.lilibell.de/ | Created: 10.02.2022 13:03:17 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 31
+[Before] Website-Cookies: [{'domain': 'www.lilibell.de', 'expiry': 1802174588, 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'secure': True, 'value': '2afdf317-37a3-4991-b392-3a890c27763b'}, {'domain': 'www.lilibell.de', 'httpOnly': False, 'name': 'qab_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.lilibell.de', 'expiry': 1676030587, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVpqUXdaRGd3Wm1RdFpqUTJOQzAwWmpkaUxXRXhaakF0Wmpkak5EZGtPVEEwWkRVdw'}, {'domain': 'www.lilibell.de', 'expiry': 1645704187, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A2'}, {'domain': 'www.lilibell.de', 'expiry': 1645704187, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644494586'}, {'domain': '.lilibell.de', 'expiry': 1644496387, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': 'www.lilibell.de', 'expiry': 1645704187, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.lilibell.de', 'expiry': 1644496387, 'httpOnly': False, 'name': '_hjSession_2154175', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImRhYWUwNDlkLTg1ZmMtNGE0Yi1hOGVhLTRjNjBhMzgyNWMyOCIsImNyZWF0ZWQiOjE2NDQ0OTQ1ODczOTQsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': '.lilibell.de', 'expiry': 1644580987, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1984114585.1644494587'}, {'domain': '.lilibell.de', 'expiry': 1652270587, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.479457336.1644494587'}, {'domain': '.lilibell.de', 'expiry': 1644496387, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.lilibell.de', 'expiry': 1645704187, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b23d068b772b9e2fafe038ea543e87db'}, {'domain': '.lilibell.de', 'expiry': 1644494647, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.lilibell.de', 'expiry': 1707566587, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1986929106.1644494587'}, {'domain': '.lilibell.de', 'expiry': 1644496387, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.lilibell.de', 'expiry': 1645704187, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ac006fe4ce46d7c0ee81de1a60ae294d'}, {'domain': '.lilibell.de', 'expiry': 1644496387, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T12%3A03%3A07.300Z'}, {'domain': '.lilibell.de', 'expiry': 1644496387, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd083411d-9953-4c25-8e5e-f56f1b1561d1'}, {'domain': 'www.lilibell.de', 'expiry': 1645704187, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.lilibell.de', 'expiry': 1644496387, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd083411d-9953-4c25-8e5e-f56f1b1561d1'}, {'domain': '.lilibell.de', 'expiry': 1676030587, 'httpOnly': False, 'name': '_hjSessionUser_2154175', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6Ijg0ZTZjNjE5LWU0ZGItNTZlZi1hMDAxLTRlZDViNjcxYzg5OCIsImNyZWF0ZWQiOjE2NDQ0OTQ1ODczNTcsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': 'www.lilibell.de', 'expiry': 1644496388, 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'secure': True, 'value': '46fc7095-e83e-424f-b120-ee0fdfc5caef'}, {'domain': '.lilibell.de', 'expiry': 1676030587, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b214376d-546a-4a8d-a6e5-008ca3f99de7'}, {'domain': 'www.lilibell.de', 'expiry': 1644494707, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.lilibell.de', 'expiry': 1644494707, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.lilibell.de', 'expiry': 1676030587, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b214376d-546a-4a8d-a6e5-008ca3f99de7'}, {'domain': '.lilibell.de', 'expiry': 1645704185, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.lilibell.de', 'expiry': 1644498187, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.lilibell.de', 'expiry': 1652270588, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644494587500.74168438'}, {'domain': '.lilibell.de', 'expiry': 1645704185, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.lilibell.de', 'expiry': 1676030587, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _shg_user_id
+[Before] Cookie-Name 2: qab_previous_pathname
+[Before] Cookie-Name 3: _pin_unauth
+[Before] Cookie-Name 4: cart_ver
+[Before] Cookie-Name 5: cart_ts
+[Before] Cookie-Name 6: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 7: localization
+[Before] Cookie-Name 8: _hjSession_2154175
+[Before] Cookie-Name 9: _gid
+[Before] Cookie-Name 10: _gcl_au
+[Before] Cookie-Name 11: _hjFirstSeen
+[Before] Cookie-Name 12: cart_sig
+[Before] Cookie-Name 13: _gat
+[Before] Cookie-Name 14: _ga
+[Before] Cookie-Name 15: _shopify_sa_p
+[Before] Cookie-Name 16: cart
+[Before] Cookie-Name 17: _shopify_sa_t
+[Before] Cookie-Name 18: _shopify_s
+[Before] Cookie-Name 19: cart_currency
+[Before] Cookie-Name 20: _s
+[Before] Cookie-Name 21: _hjSessionUser_2154175
+[Before] Cookie-Name 22: _shg_session_id
+[Before] Cookie-Name 23: _y
+[Before] Cookie-Name 24: _hjIncludedInPageviewSample
+[Before] Cookie-Name 25: _hjIncludedInSessionSample
+[Before] Cookie-Name 26: _shopify_y
+[Before] Cookie-Name 27: _landing_page
+[Before] Cookie-Name 28: shopify_pay_redirect
+[Before] Cookie-Name 29: _fbp
+[Before] Cookie-Name 30: _orig_referrer
+[Before] Cookie-Name 31: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 31
+[After] Website-Cookies: [{'domain': 'www.lilibell.de', 'expiry': 1802174588, 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'secure': True, 'value': '2afdf317-37a3-4991-b392-3a890c27763b'}, {'domain': 'www.lilibell.de', 'httpOnly': False, 'name': 'qab_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.lilibell.de', 'expiry': 1676030587, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVpqUXdaRGd3Wm1RdFpqUTJOQzAwWmpkaUxXRXhaakF0Wmpkak5EZGtPVEEwWkRVdw'}, {'domain': 'www.lilibell.de', 'expiry': 1645704187, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A2'}, {'domain': 'www.lilibell.de', 'expiry': 1645704187, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644494586'}, {'domain': '.lilibell.de', 'expiry': 1644496387, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': 'www.lilibell.de', 'expiry': 1645704187, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.lilibell.de', 'expiry': 1644496387, 'httpOnly': False, 'name': '_hjSession_2154175', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImRhYWUwNDlkLTg1ZmMtNGE0Yi1hOGVhLTRjNjBhMzgyNWMyOCIsImNyZWF0ZWQiOjE2NDQ0OTQ1ODczOTQsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': '.lilibell.de', 'expiry': 1644580987, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1984114585.1644494587'}, {'domain': '.lilibell.de', 'expiry': 1652270587, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.479457336.1644494587'}, {'domain': '.lilibell.de', 'expiry': 1644496387, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.lilibell.de', 'expiry': 1645704187, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b23d068b772b9e2fafe038ea543e87db'}, {'domain': '.lilibell.de', 'expiry': 1644494647, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.lilibell.de', 'expiry': 1707566587, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1986929106.1644494587'}, {'domain': '.lilibell.de', 'expiry': 1644496387, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.lilibell.de', 'expiry': 1645704187, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ac006fe4ce46d7c0ee81de1a60ae294d'}, {'domain': '.lilibell.de', 'expiry': 1644496387, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T12%3A03%3A07.300Z'}, {'domain': '.lilibell.de', 'expiry': 1644496387, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd083411d-9953-4c25-8e5e-f56f1b1561d1'}, {'domain': 'www.lilibell.de', 'expiry': 1645704187, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.lilibell.de', 'expiry': 1644496387, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd083411d-9953-4c25-8e5e-f56f1b1561d1'}, {'domain': '.lilibell.de', 'expiry': 1676030587, 'httpOnly': False, 'name': '_hjSessionUser_2154175', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6Ijg0ZTZjNjE5LWU0ZGItNTZlZi1hMDAxLTRlZDViNjcxYzg5OCIsImNyZWF0ZWQiOjE2NDQ0OTQ1ODczNTcsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': 'www.lilibell.de', 'expiry': 1644496388, 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'secure': True, 'value': '46fc7095-e83e-424f-b120-ee0fdfc5caef'}, {'domain': '.lilibell.de', 'expiry': 1676030587, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b214376d-546a-4a8d-a6e5-008ca3f99de7'}, {'domain': 'www.lilibell.de', 'expiry': 1644494707, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.lilibell.de', 'expiry': 1644494707, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.lilibell.de', 'expiry': 1676030587, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b214376d-546a-4a8d-a6e5-008ca3f99de7'}, {'domain': '.lilibell.de', 'expiry': 1645704185, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.lilibell.de', 'expiry': 1644498187, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.lilibell.de', 'expiry': 1652270588, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644494587500.74168438'}, {'domain': '.lilibell.de', 'expiry': 1645704185, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.lilibell.de', 'expiry': 1676030587, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _shg_user_id
+[After] Cookie-Name 2: qab_previous_pathname
+[After] Cookie-Name 3: _pin_unauth
+[After] Cookie-Name 4: cart_ver
+[After] Cookie-Name 5: cart_ts
+[After] Cookie-Name 6: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 7: localization
+[After] Cookie-Name 8: _hjSession_2154175
+[After] Cookie-Name 9: _gid
+[After] Cookie-Name 10: _gcl_au
+[After] Cookie-Name 11: _hjFirstSeen
+[After] Cookie-Name 12: cart_sig
+[After] Cookie-Name 13: _gat
+[After] Cookie-Name 14: _ga
+[After] Cookie-Name 15: _shopify_sa_p
+[After] Cookie-Name 16: cart
+[After] Cookie-Name 17: _shopify_sa_t
+[After] Cookie-Name 18: _shopify_s
+[After] Cookie-Name 19: cart_currency
+[After] Cookie-Name 20: _s
+[After] Cookie-Name 21: _hjSessionUser_2154175
+[After] Cookie-Name 22: _shg_session_id
+[After] Cookie-Name 23: _y
+[After] Cookie-Name 24: _hjIncludedInPageviewSample
+[After] Cookie-Name 25: _hjIncludedInSessionSample
+[After] Cookie-Name 26: _shopify_y
+[After] Cookie-Name 27: _landing_page
+[After] Cookie-Name 28: shopify_pay_redirect
+[After] Cookie-Name 29: _fbp
+[After] Cookie-Name 30: _orig_referrer
+[After] Cookie-Name 31: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _hjIncludedInPageviewSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjIncludedInSessionSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

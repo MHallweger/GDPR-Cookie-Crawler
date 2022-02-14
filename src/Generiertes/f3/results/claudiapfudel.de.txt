@@ -1,0 +1,69 @@
+Website 157: http://www.claudiapfudel.de/ | Created: 09.02.2022 14:29:48 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 19
+[Before] Website-Cookies: [{'domain': '.claudiapfudel.de', 'expiry': 1675949381, 'httpOnly': False, 'name': '_privy_FC0148BA6338541F1DDDAA77', 'path': '/', 'secure': False, 'value': '%7B%22uuid%22%3A%22439e825f-27f2-47e6-aada-a7cce54107c9%22%2C%22variations%22%3A%7B%7D%2C%22country_code%22%3A%22DE%22%2C%22region_code%22%3A%22DE_%22%2C%22postal_code%22%3A%22%22%7D'}, {'domain': 'claudiapfudel.de', 'expiry': 1645622980, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '02e2293d46e2f6b0bdff4501834fe476'}, {'domain': 'claudiapfudel.de', 'expiry': 1645622980, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644413380'}, {'domain': 'claudiapfudel.de', 'expiry': 1645622980, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8b2e5d26d262d6ea50a7551782afe4e1'}, {'domain': '.claudiapfudel.de', 'expiry': 1652189379, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644413379446.835337838'}, {'domain': 'claudiapfudel.de', 'expiry': 1644416979, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.claudiapfudel.de', 'expiry': 1645622978, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.claudiapfudel.de', 'expiry': 1644415180, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7d35f3a9-d44a-44ba-995a-cee04b2996a3'}, {'domain': '.claudiapfudel.de', 'expiry': 1644415179, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.claudiapfudel.de', 'expiry': 1675949380, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fdb93b9d-8925-4309-bc86-52f42f717b98'}, {'domain': '.claudiapfudel.de', 'expiry': 1644415179, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A29%3A39.147Z'}, {'domain': '.claudiapfudel.de', 'expiry': 1675949380, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fdb93b9d-8925-4309-bc86-52f42f717b98'}, {'domain': 'claudiapfudel.de', 'expiry': 1645622980, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': '.claudiapfudel.de', 'expiry': 1645622978, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.claudiapfudel.de', 'httpOnly': False, 'name': 'promo', 'path': '/', 'secure': False, 'value': 'promo'}, {'domain': 'claudiapfudel.de', 'expiry': 1675949380, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'claudiapfudel.de', 'expiry': 1645622980, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'claudiapfudel.de', 'expiry': 1645622980, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.claudiapfudel.de', 'expiry': 1644415180, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7d35f3a9-d44a-44ba-995a-cee04b2996a3'}]
+[Before] Cookie-Name 1: _privy_FC0148BA6338541F1DDDAA77
+[Before] Cookie-Name 2: cart_sig
+[Before] Cookie-Name 3: cart_ts
+[Before] Cookie-Name 4: cart
+[Before] Cookie-Name 5: _fbp
+[Before] Cookie-Name 6: shopify_pay_redirect
+[Before] Cookie-Name 7: _landing_page
+[Before] Cookie-Name 8: _shopify_s
+[Before] Cookie-Name 9: _shopify_sa_p
+[Before] Cookie-Name 10: _y
+[Before] Cookie-Name 11: _shopify_sa_t
+[Before] Cookie-Name 12: _shopify_y
+[Before] Cookie-Name 13: cart_ver
+[Before] Cookie-Name 14: _orig_referrer
+[Before] Cookie-Name 15: promo
+[Before] Cookie-Name 16: secure_customer_sig
+[Before] Cookie-Name 17: cart_currency
+[Before] Cookie-Name 18: localization
+[Before] Cookie-Name 19: _s
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 19
+[After] Website-Cookies: [{'domain': '.claudiapfudel.de', 'expiry': 1675949381, 'httpOnly': False, 'name': '_privy_FC0148BA6338541F1DDDAA77', 'path': '/', 'secure': False, 'value': '%7B%22uuid%22%3A%22439e825f-27f2-47e6-aada-a7cce54107c9%22%2C%22variations%22%3A%7B%7D%2C%22country_code%22%3A%22DE%22%2C%22region_code%22%3A%22DE_%22%2C%22postal_code%22%3A%22%22%7D'}, {'domain': 'claudiapfudel.de', 'expiry': 1645622980, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '02e2293d46e2f6b0bdff4501834fe476'}, {'domain': 'claudiapfudel.de', 'expiry': 1645622980, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644413380'}, {'domain': 'claudiapfudel.de', 'expiry': 1645622980, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8b2e5d26d262d6ea50a7551782afe4e1'}, {'domain': '.claudiapfudel.de', 'expiry': 1652189379, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644413379446.835337838'}, {'domain': 'claudiapfudel.de', 'expiry': 1644416979, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.claudiapfudel.de', 'expiry': 1645622978, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.claudiapfudel.de', 'expiry': 1644415180, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7d35f3a9-d44a-44ba-995a-cee04b2996a3'}, {'domain': '.claudiapfudel.de', 'expiry': 1644415179, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.claudiapfudel.de', 'expiry': 1675949380, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fdb93b9d-8925-4309-bc86-52f42f717b98'}, {'domain': '.claudiapfudel.de', 'expiry': 1644415179, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A29%3A39.147Z'}, {'domain': '.claudiapfudel.de', 'expiry': 1675949380, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fdb93b9d-8925-4309-bc86-52f42f717b98'}, {'domain': 'claudiapfudel.de', 'expiry': 1645622980, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': '.claudiapfudel.de', 'expiry': 1645622978, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.claudiapfudel.de', 'httpOnly': False, 'name': 'promo', 'path': '/', 'secure': False, 'value': 'promo'}, {'domain': 'claudiapfudel.de', 'expiry': 1675949380, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'claudiapfudel.de', 'expiry': 1645622980, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'claudiapfudel.de', 'expiry': 1645622980, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.claudiapfudel.de', 'expiry': 1644415180, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7d35f3a9-d44a-44ba-995a-cee04b2996a3'}]
+[After] Cookie-Name 1: _privy_FC0148BA6338541F1DDDAA77
+[After] Cookie-Name 2: cart_sig
+[After] Cookie-Name 3: cart_ts
+[After] Cookie-Name 4: cart
+[After] Cookie-Name 5: _fbp
+[After] Cookie-Name 6: shopify_pay_redirect
+[After] Cookie-Name 7: _landing_page
+[After] Cookie-Name 8: _shopify_s
+[After] Cookie-Name 9: _shopify_sa_p
+[After] Cookie-Name 10: _y
+[After] Cookie-Name 11: _shopify_sa_t
+[After] Cookie-Name 12: _shopify_y
+[After] Cookie-Name 13: cart_ver
+[After] Cookie-Name 14: _orig_referrer
+[After] Cookie-Name 15: promo
+[After] Cookie-Name 16: secure_customer_sig
+[After] Cookie-Name 17: cart_currency
+[After] Cookie-Name 18: localization
+[After] Cookie-Name 19: _s
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

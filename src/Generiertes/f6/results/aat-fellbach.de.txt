@@ -1,0 +1,50 @@
+Website 189: http://www.aat-fellbach.de/ | Created: 10.02.2022 13:08:07 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 10
+[Before] Website-Cookies: [{'domain': 'www.aat-fellbach.de', 'expiry': 1645704480, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8f8e4bcffa5efbd3dd1ba48f07194f4b'}, {'domain': '.aat-fellbach.de', 'expiry': 1644496680, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '37d92bfc-7139-4a23-9495-784fea9a3879'}, {'domain': '.aat-fellbach.de', 'expiry': 1644496679, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T12%3A07%3A59.233Z'}, {'domain': '.aat-fellbach.de', 'expiry': 1676030880, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '59d476fa-0c61-45eb-b58c-6a1429ff6e14'}, {'domain': '.aat-fellbach.de', 'expiry': 1644496680, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '37d92bfc-7139-4a23-9495-784fea9a3879'}, {'domain': '.aat-fellbach.de', 'expiry': 1644496679, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.aat-fellbach.de', 'expiry': 1645704479, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.aat-fellbach.de', 'expiry': 1676030880, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '59d476fa-0c61-45eb-b58c-6a1429ff6e14'}, {'domain': '.aat-fellbach.de', 'expiry': 1645704479, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.aat-fellbach.de', 'expiry': 1676030880, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: cart_sig
+[Before] Cookie-Name 2: _shopify_s
+[Before] Cookie-Name 3: _shopify_sa_t
+[Before] Cookie-Name 4: _shopify_y
+[Before] Cookie-Name 5: _s
+[Before] Cookie-Name 6: _shopify_sa_p
+[Before] Cookie-Name 7: _orig_referrer
+[Before] Cookie-Name 8: _y
+[Before] Cookie-Name 9: _landing_page
+[Before] Cookie-Name 10: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 10
+[After] Website-Cookies: [{'domain': 'www.aat-fellbach.de', 'expiry': 1645704480, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8f8e4bcffa5efbd3dd1ba48f07194f4b'}, {'domain': '.aat-fellbach.de', 'expiry': 1644496680, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '37d92bfc-7139-4a23-9495-784fea9a3879'}, {'domain': '.aat-fellbach.de', 'expiry': 1644496679, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T12%3A07%3A59.233Z'}, {'domain': '.aat-fellbach.de', 'expiry': 1676030880, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '59d476fa-0c61-45eb-b58c-6a1429ff6e14'}, {'domain': '.aat-fellbach.de', 'expiry': 1644496680, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '37d92bfc-7139-4a23-9495-784fea9a3879'}, {'domain': '.aat-fellbach.de', 'expiry': 1644496679, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.aat-fellbach.de', 'expiry': 1645704479, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.aat-fellbach.de', 'expiry': 1676030880, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '59d476fa-0c61-45eb-b58c-6a1429ff6e14'}, {'domain': '.aat-fellbach.de', 'expiry': 1645704479, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.aat-fellbach.de', 'expiry': 1676030880, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: cart_sig
+[After] Cookie-Name 2: _shopify_s
+[After] Cookie-Name 3: _shopify_sa_t
+[After] Cookie-Name 4: _shopify_y
+[After] Cookie-Name 5: _s
+[After] Cookie-Name 6: _shopify_sa_p
+[After] Cookie-Name 7: _orig_referrer
+[After] Cookie-Name 8: _y
+[After] Cookie-Name 9: _landing_page
+[After] Cookie-Name 10: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

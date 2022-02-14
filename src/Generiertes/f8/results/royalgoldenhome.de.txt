@@ -1,0 +1,78 @@
+Website 242: http://www.royalgoldenhome.de/ | Created: 10.02.2022 21:09:51 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 23
+[Before] Website-Cookies: [{'domain': '.royalgoldenhome.de', 'expiry': 1690657783, 'httpOnly': False, 'name': 'ku1-vid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': 'b37bc8a2-f43d-4990-ddfd-14fed9cc150b'}, {'domain': '.royalgoldenhome.de', 'httpOnly': False, 'name': 'ku1-sid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': 'qcpZVJ1RDq_BXCWy_EMuu'}, {'domain': 'www.royalgoldenhome.de', 'expiry': 1644527382, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.royalgoldenhome.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.royalgoldenhome.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.royalgoldenhome.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T20%3A09%3A41.021Z'}, {'domain': 'www.royalgoldenhome.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.royalgoldenhome.de', 'expiry': 1676059780, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.royalgoldenhome.de', 'expiry': 1645733380, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.royalgoldenhome.de', 'expiry': 1644525580, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.royalgoldenhome.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.royalgoldenhome.de', 'expiry': 1676059780, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': '.royalgoldenhome.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9220c3b8-94cc-4655-b200-a60e055ba948'}, {'domain': '.royalgoldenhome.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8e178638-31c3-4e16-ba42-ea76c063170e'}, {'domain': '.royalgoldenhome.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9220c3b8-94cc-4655-b200-a60e055ba948'}, {'domain': '.royalgoldenhome.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.royalgoldenhome.de', 'expiry': 1676059780, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'www.royalgoldenhome.de', 'expiry': 1645733380, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.royalgoldenhome.de', 'expiry': 1652299781, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644523781144.43628346'}, {'domain': '.royalgoldenhome.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T20%3A09%3A41.035Z'}, {'domain': '.royalgoldenhome.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8e178638-31c3-4e16-ba42-ea76c063170e'}, {'domain': 'www.royalgoldenhome.de', 'expiry': 1707595782, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ1MjM3ODMsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LnJveWFsZ29sZGVuaG9tZS5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQ1MjM3ODMsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LnJveWFsZ29sZGVuaG9tZS5kZS8ifX0='}, {'domain': 'www.royalgoldenhome.de', 'expiry': 1645733380, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[Before] Cookie-Name 1: ku1-vid
+[Before] Cookie-Name 2: ku1-sid
+[Before] Cookie-Name 3: shopify_pay_redirect
+[Before] Cookie-Name 4: _shopify_sa_p
+[Before] Cookie-Name 5: _shopify_evids
+[Before] Cookie-Name 6: _shopify_d
+[Before] Cookie-Name 7: _shopify_evids
+[Before] Cookie-Name 8: _shopify_m
+[Before] Cookie-Name 9: _shopify_tw
+[Before] Cookie-Name 10: _shopify_tm
+[Before] Cookie-Name 11: _orig_referrer
+[Before] Cookie-Name 12: _tracking_consent
+[Before] Cookie-Name 13: _shopify_s
+[Before] Cookie-Name 14: _shopify_y
+[Before] Cookie-Name 15: _s
+[Before] Cookie-Name 16: _landing_page
+[Before] Cookie-Name 17: secure_customer_sig
+[Before] Cookie-Name 18: cart_currency
+[Before] Cookie-Name 19: _fbp
+[Before] Cookie-Name 20: _shopify_sa_t
+[Before] Cookie-Name 21: _y
+[Before] Cookie-Name 22: __kla_id
+[Before] Cookie-Name 23: localization
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 23
+[After] Website-Cookies: [{'domain': '.royalgoldenhome.de', 'expiry': 1690657783, 'httpOnly': False, 'name': 'ku1-vid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': 'b37bc8a2-f43d-4990-ddfd-14fed9cc150b'}, {'domain': '.royalgoldenhome.de', 'httpOnly': False, 'name': 'ku1-sid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': 'qcpZVJ1RDq_BXCWy_EMuu'}, {'domain': 'www.royalgoldenhome.de', 'expiry': 1644527382, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.royalgoldenhome.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.royalgoldenhome.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.royalgoldenhome.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T20%3A09%3A41.021Z'}, {'domain': 'www.royalgoldenhome.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.royalgoldenhome.de', 'expiry': 1676059780, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.royalgoldenhome.de', 'expiry': 1645733380, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.royalgoldenhome.de', 'expiry': 1644525580, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.royalgoldenhome.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.royalgoldenhome.de', 'expiry': 1676059780, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': '.royalgoldenhome.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9220c3b8-94cc-4655-b200-a60e055ba948'}, {'domain': '.royalgoldenhome.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8e178638-31c3-4e16-ba42-ea76c063170e'}, {'domain': '.royalgoldenhome.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9220c3b8-94cc-4655-b200-a60e055ba948'}, {'domain': '.royalgoldenhome.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.royalgoldenhome.de', 'expiry': 1676059780, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'www.royalgoldenhome.de', 'expiry': 1645733380, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.royalgoldenhome.de', 'expiry': 1652299781, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644523781144.43628346'}, {'domain': '.royalgoldenhome.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T20%3A09%3A41.035Z'}, {'domain': '.royalgoldenhome.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8e178638-31c3-4e16-ba42-ea76c063170e'}, {'domain': 'www.royalgoldenhome.de', 'expiry': 1707595782, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ1MjM3ODMsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LnJveWFsZ29sZGVuaG9tZS5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQ1MjM3ODMsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LnJveWFsZ29sZGVuaG9tZS5kZS8ifX0='}, {'domain': 'www.royalgoldenhome.de', 'expiry': 1645733380, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[After] Cookie-Name 1: ku1-vid
+[After] Cookie-Name 2: ku1-sid
+[After] Cookie-Name 3: shopify_pay_redirect
+[After] Cookie-Name 4: _shopify_sa_p
+[After] Cookie-Name 5: _shopify_evids
+[After] Cookie-Name 6: _shopify_d
+[After] Cookie-Name 7: _shopify_evids
+[After] Cookie-Name 8: _shopify_m
+[After] Cookie-Name 9: _shopify_tw
+[After] Cookie-Name 10: _shopify_tm
+[After] Cookie-Name 11: _orig_referrer
+[After] Cookie-Name 12: _tracking_consent
+[After] Cookie-Name 13: _shopify_s
+[After] Cookie-Name 14: _shopify_y
+[After] Cookie-Name 15: _s
+[After] Cookie-Name 16: _landing_page
+[After] Cookie-Name 17: secure_customer_sig
+[After] Cookie-Name 18: cart_currency
+[After] Cookie-Name 19: _fbp
+[After] Cookie-Name 20: _shopify_sa_t
+[After] Cookie-Name 21: _y
+[After] Cookie-Name 22: __kla_id
+[After] Cookie-Name 23: localization
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

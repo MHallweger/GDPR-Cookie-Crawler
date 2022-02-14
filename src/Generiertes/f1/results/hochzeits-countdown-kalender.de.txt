@@ -1,0 +1,82 @@
+Website 93: http://www.hochzeits-countdown-kalender.de/ | Created: 08.02.2022 22:08:01 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 24
+[Before] Website-Cookies: [{'domain': 'hochzeits-countdown-kalender.de', 'expiry': 1675890474, 'httpOnly': False, 'name': 'apay-session-set', 'path': '/', 'secure': True, 'value': 'JbeTMaKBu%2F5SG0pWpGGa%2Fhiz%2BAmczBCTQxqGeucFY1dlPGsCU6pIBMD1eXnlpHg%3D'}, {'domain': 'hochzeits-countdown-kalender.de', 'expiry': 1644358074, 'httpOnly': False, 'name': 'language', 'path': '/', 'secure': False, 'value': 'de_DE'}, {'domain': 'hochzeits-countdown-kalender.de', 'expiry': 1644361673, 'httpOnly': False, 'name': 'XSRF-TOKEN', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'eyJpdiI6IkwyMi9kbzgzVE5SWHNpazVOUUhMTHc9PSIsInZhbHVlIjoidU5XaHQrZVo3TysyRGtkdTkzVVR6TWRjdUcxd1hlMHdqQS9DeTQ4dnE3d1l6THhNWEplaFdhMmRGYmNleFlwaDY0cjg4TDFyRTZMT2dGSkNnc2Qvd09oRlhBeUUwOG9DMDNuWEVpdUxJbWY3K3ViUEluY0hIU1MrbXV1dE11UWMiLCJtYWMiOiI5ZmI5ZTQzMDg3NGJkN2NhZWQ0NTY4ZjlkY2FmMTMyYTRmMDkyODJmNmM3OGU0ZWNhN2NiOTdiMTYxYjIyODg3In0%3D'}, {'domain': 'hochzeits-countdown-kalender.de', 'expiry': 1644358074, 'httpOnly': False, 'name': 'amazon-pay-connectedAuth', 'path': '/', 'secure': False, 'value': 'connectedAuth_general'}, {'domain': '.hochzeits-countdown-kalender.de', 'expiry': 1645564071, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.hochzeits-countdown-kalender.de', 'expiry': 1644354532, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.hochzeits-countdown-kalender.de', 'expiry': 1644440872, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1059917826.1644354472'}, {'domain': '.hochzeits-countdown-kalender.de', 'expiry': 1707426472, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.94283291.1644354472'}, {'domain': '.hochzeits-countdown-kalender.de', 'expiry': 1644356272, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A07%3A52.144Z'}, {'domain': 'hochzeits-countdown-kalender.de', 'expiry': 1645564073, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.hochzeits-countdown-kalender.de', 'expiry': 1652130471, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1914035598.1644354472'}, {'domain': '.hochzeits-countdown-kalender.de', 'expiry': 1652130472, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644354472369.1845965547'}, {'domain': '.hochzeits-countdown-kalender.de', 'expiry': 1644356272, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.hochzeits-countdown-kalender.de', 'expiry': 1644356273, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6c9f3f91-c393-4875-9f69-ae3044131a6c'}, {'domain': '.hochzeits-countdown-kalender.de', 'expiry': 1675890473, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eb9d9c00-5380-4523-a3f5-c5a1f57537b9'}, {'domain': 'hochzeits-countdown-kalender.de', 'expiry': 1675890473, 'httpOnly': False, 'name': 'optiMonkClientId', 'path': '/', 'secure': False, 'value': '0749dfa7-f841-bcd7-f2c6-2ceb5c1b65d1'}, {'domain': '.hochzeits-countdown-kalender.de', 'expiry': 1675890472, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVptUTJZekkwTlRFdFpEZ3dOaTAwWkRrd0xXSTVObVl0TTJNMFptSTJPRGRtTkRCbQ'}, {'domain': '.hochzeits-countdown-kalender.de', 'expiry': 1644356273, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6c9f3f91-c393-4875-9f69-ae3044131a6c'}, {'domain': 'hochzeits-countdown-kalender.de', 'expiry': 1644358072, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.hochzeits-countdown-kalender.de', 'expiry': 1675890473, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eb9d9c00-5380-4523-a3f5-c5a1f57537b9'}, {'domain': 'hochzeits-countdown-kalender.de', 'expiry': 1645564073, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'hochzeits-countdown-kalender.de', 'httpOnly': True, 'name': 'wrapin_session', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'eyJpdiI6Ik1Qb2tCTDZ5T0JwS3ZwYWNCMTVuSUE9PSIsInZhbHVlIjoiSWNQNUdDMW5ueENZbDJSUDgzYzhURE43K2xRWSthWEdtS1dCbEY1TWw0NDJlbkxxOHYxZmo2Z0trd2R5SUFoV0JCYW5UeVpmMTVoQVlqTzNMU2J3cmx1WFJMWEpqdlFPMTlCbmdObHNwSUtDemRwWGdqQi8wbWpJTndBdmdzL1YiLCJtYWMiOiI1YzNhNWI0ZDU2MTdlNmI5MjAxYmJjMDYwY2JiYmFkZWU5OGNlMDdmOTk5NTUyNWIyOWQwNzg1ZjgzNmIxNTJjIn0%3D'}, {'domain': '.hochzeits-countdown-kalender.de', 'expiry': 1645564071, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'hochzeits-countdown-kalender.de', 'expiry': 1675890473, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: apay-session-set
+[Before] Cookie-Name 2: language
+[Before] Cookie-Name 3: XSRF-TOKEN
+[Before] Cookie-Name 4: amazon-pay-connectedAuth
+[Before] Cookie-Name 5: _landing_page
+[Before] Cookie-Name 6: _gat
+[Before] Cookie-Name 7: _gid
+[Before] Cookie-Name 8: _ga
+[Before] Cookie-Name 9: _shopify_sa_t
+[Before] Cookie-Name 10: cart_currency
+[Before] Cookie-Name 11: _gcl_au
+[Before] Cookie-Name 12: _fbp
+[Before] Cookie-Name 13: _shopify_sa_p
+[Before] Cookie-Name 14: _shopify_s
+[Before] Cookie-Name 15: _shopify_y
+[Before] Cookie-Name 16: optiMonkClientId
+[Before] Cookie-Name 17: _pin_unauth
+[Before] Cookie-Name 18: _s
+[Before] Cookie-Name 19: shopify_pay_redirect
+[Before] Cookie-Name 20: _y
+[Before] Cookie-Name 21: localization
+[Before] Cookie-Name 22: wrapin_session
+[Before] Cookie-Name 23: _orig_referrer
+[Before] Cookie-Name 24: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 25
+[After] Website-Cookies: [{'domain': 'hochzeits-countdown-kalender.de', 'expiry': 1646946487, 'httpOnly': False, 'name': 'DisableBanner', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'info_allow_cookie_btn'}, {'domain': 'hochzeits-countdown-kalender.de', 'expiry': 1675890474, 'httpOnly': False, 'name': 'apay-session-set', 'path': '/', 'secure': True, 'value': 'JbeTMaKBu%2F5SG0pWpGGa%2Fhiz%2BAmczBCTQxqGeucFY1dlPGsCU6pIBMD1eXnlpHg%3D'}, {'domain': 'hochzeits-countdown-kalender.de', 'expiry': 1644358074, 'httpOnly': False, 'name': 'language', 'path': '/', 'secure': False, 'value': 'de_DE'}, {'domain': 'hochzeits-countdown-kalender.de', 'expiry': 1644361673, 'httpOnly': False, 'name': 'XSRF-TOKEN', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'eyJpdiI6IkwyMi9kbzgzVE5SWHNpazVOUUhMTHc9PSIsInZhbHVlIjoidU5XaHQrZVo3TysyRGtkdTkzVVR6TWRjdUcxd1hlMHdqQS9DeTQ4dnE3d1l6THhNWEplaFdhMmRGYmNleFlwaDY0cjg4TDFyRTZMT2dGSkNnc2Qvd09oRlhBeUUwOG9DMDNuWEVpdUxJbWY3K3ViUEluY0hIU1MrbXV1dE11UWMiLCJtYWMiOiI5ZmI5ZTQzMDg3NGJkN2NhZWQ0NTY4ZjlkY2FmMTMyYTRmMDkyODJmNmM3OGU0ZWNhN2NiOTdiMTYxYjIyODg3In0%3D'}, {'domain': 'hochzeits-countdown-kalender.de', 'expiry': 1644358074, 'httpOnly': False, 'name': 'amazon-pay-connectedAuth', 'path': '/', 'secure': False, 'value': 'connectedAuth_general'}, {'domain': '.hochzeits-countdown-kalender.de', 'expiry': 1645564071, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.hochzeits-countdown-kalender.de', 'expiry': 1644354532, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.hochzeits-countdown-kalender.de', 'expiry': 1644440872, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1059917826.1644354472'}, {'domain': '.hochzeits-countdown-kalender.de', 'expiry': 1707426472, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.94283291.1644354472'}, {'domain': '.hochzeits-countdown-kalender.de', 'expiry': 1644356272, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A07%3A52.144Z'}, {'domain': 'hochzeits-countdown-kalender.de', 'expiry': 1645564073, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.hochzeits-countdown-kalender.de', 'expiry': 1652130471, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1914035598.1644354472'}, {'domain': '.hochzeits-countdown-kalender.de', 'expiry': 1652130487, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644354472369.1845965547'}, {'domain': '.hochzeits-countdown-kalender.de', 'expiry': 1644356272, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.hochzeits-countdown-kalender.de', 'expiry': 1644356273, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6c9f3f91-c393-4875-9f69-ae3044131a6c'}, {'domain': '.hochzeits-countdown-kalender.de', 'expiry': 1675890473, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eb9d9c00-5380-4523-a3f5-c5a1f57537b9'}, {'domain': 'hochzeits-countdown-kalender.de', 'expiry': 1675890473, 'httpOnly': False, 'name': 'optiMonkClientId', 'path': '/', 'secure': False, 'value': '0749dfa7-f841-bcd7-f2c6-2ceb5c1b65d1'}, {'domain': '.hochzeits-countdown-kalender.de', 'expiry': 1675890472, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVptUTJZekkwTlRFdFpEZ3dOaTAwWkRrd0xXSTVObVl0TTJNMFptSTJPRGRtTkRCbQ'}, {'domain': '.hochzeits-countdown-kalender.de', 'expiry': 1644356273, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6c9f3f91-c393-4875-9f69-ae3044131a6c'}, {'domain': 'hochzeits-countdown-kalender.de', 'expiry': 1644358072, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.hochzeits-countdown-kalender.de', 'expiry': 1675890473, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eb9d9c00-5380-4523-a3f5-c5a1f57537b9'}, {'domain': 'hochzeits-countdown-kalender.de', 'expiry': 1645564073, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'hochzeits-countdown-kalender.de', 'httpOnly': True, 'name': 'wrapin_session', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'eyJpdiI6Ik1Qb2tCTDZ5T0JwS3ZwYWNCMTVuSUE9PSIsInZhbHVlIjoiSWNQNUdDMW5ueENZbDJSUDgzYzhURE43K2xRWSthWEdtS1dCbEY1TWw0NDJlbkxxOHYxZmo2Z0trd2R5SUFoV0JCYW5UeVpmMTVoQVlqTzNMU2J3cmx1WFJMWEpqdlFPMTlCbmdObHNwSUtDemRwWGdqQi8wbWpJTndBdmdzL1YiLCJtYWMiOiI1YzNhNWI0ZDU2MTdlNmI5MjAxYmJjMDYwY2JiYmFkZWU5OGNlMDdmOTk5NTUyNWIyOWQwNzg1ZjgzNmIxNTJjIn0%3D'}, {'domain': '.hochzeits-countdown-kalender.de', 'expiry': 1645564071, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'hochzeits-countdown-kalender.de', 'expiry': 1675890473, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: DisableBanner
+[After] Cookie-Name 2: apay-session-set
+[After] Cookie-Name 3: language
+[After] Cookie-Name 4: XSRF-TOKEN
+[After] Cookie-Name 5: amazon-pay-connectedAuth
+[After] Cookie-Name 6: _landing_page
+[After] Cookie-Name 7: _gat
+[After] Cookie-Name 8: _gid
+[After] Cookie-Name 9: _ga
+[After] Cookie-Name 10: _shopify_sa_t
+[After] Cookie-Name 11: cart_currency
+[After] Cookie-Name 12: _gcl_au
+[After] Cookie-Name 13: _fbp
+[After] Cookie-Name 14: _shopify_sa_p
+[After] Cookie-Name 15: _shopify_s
+[After] Cookie-Name 16: _shopify_y
+[After] Cookie-Name 17: optiMonkClientId
+[After] Cookie-Name 18: _pin_unauth
+[After] Cookie-Name 19: _s
+[After] Cookie-Name 20: shopify_pay_redirect
+[After] Cookie-Name 21: _y
+[After] Cookie-Name 22: localization
+[After] Cookie-Name 23: wrapin_session
+[After] Cookie-Name 24: _orig_referrer
+[After] Cookie-Name 25: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: DisableBanner
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

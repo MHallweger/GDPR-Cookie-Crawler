@@ -1,0 +1,76 @@
+Website 169: http://www.enaissance.de/ | Created: 10.02.2022 13:02:21 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 21
+[Before] Website-Cookies: [{'domain': 'de.naissance.com', 'httpOnly': False, 'name': 'fsb_total_price_291932', 'path': '/', 'secure': False, 'value': '0'}, {'domain': 'de.naissance.com', 'httpOnly': False, 'name': 'fsb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': 'de.naissance.com', 'expiry': 1644494592, 'httpOnly': False, 'name': '_goo_Fg3ld', 'path': '/', 'secure': False, 'value': 'edd4cHidhs34fd4sd5546sdfnslkj'}, {'domain': '.naissance.com', 'expiry': 1644580932, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1826311466.1644494532'}, {'domain': '.naissance.com', 'expiry': 1644496332, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.naissance.com', 'expiry': 1644494592, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.naissance.com', 'expiry': 1676030533, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e05ddaa2-68ba-49e9-b2c9-08168b8eea2b'}, {'domain': '.naissance.com', 'expiry': 1644496332, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T12%3A02%3A12.343Z'}, {'domain': '.naissance.com', 'expiry': 1707566532, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.930090285.1644494532'}, {'domain': '.naissance.com', 'expiry': 1645704131, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.naissance.com', 'expiry': 1644496333, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eaa0dbb5-3703-4e8b-9481-7edce2723638'}, {'domain': 'de.naissance.com', 'expiry': 1644498132, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.naissance.com', 'expiry': 1644496333, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eaa0dbb5-3703-4e8b-9481-7edce2723638'}, {'domain': '.naissance.com', 'expiry': 1644494592, 'httpOnly': False, 'name': '_gat_gtag_UA_49097184_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'de.naissance.com', 'expiry': 1645704133, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.naissance.com', 'expiry': 1652270532, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.770591031.1644494533'}, {'domain': '.naissance.com', 'expiry': 1676030533, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e05ddaa2-68ba-49e9-b2c9-08168b8eea2b'}, {'domain': '.naissance.com', 'expiry': 1652270533, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644494532506.961431526'}, {'domain': 'de.naissance.com', 'expiry': 1645704133, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.naissance.com', 'expiry': 1645704131, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'de.naissance.com', 'expiry': 1676030533, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: fsb_total_price_291932
+[Before] Cookie-Name 2: fsb_previous_pathname
+[Before] Cookie-Name 3: _goo_Fg3ld
+[Before] Cookie-Name 4: _gid
+[Before] Cookie-Name 5: _shopify_sa_p
+[Before] Cookie-Name 6: _gat
+[Before] Cookie-Name 7: _shopify_y
+[Before] Cookie-Name 8: _shopify_sa_t
+[Before] Cookie-Name 9: _ga
+[Before] Cookie-Name 10: _orig_referrer
+[Before] Cookie-Name 11: _s
+[Before] Cookie-Name 12: shopify_pay_redirect
+[Before] Cookie-Name 13: _shopify_s
+[Before] Cookie-Name 14: _gat_gtag_UA_49097184_1
+[Before] Cookie-Name 15: localization
+[Before] Cookie-Name 16: _gcl_au
+[Before] Cookie-Name 17: _y
+[Before] Cookie-Name 18: _fbp
+[Before] Cookie-Name 19: cart_currency
+[Before] Cookie-Name 20: _landing_page
+[Before] Cookie-Name 21: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 21
+[After] Website-Cookies: [{'domain': 'de.naissance.com', 'httpOnly': False, 'name': 'fsb_total_price_291932', 'path': '/', 'secure': False, 'value': '0'}, {'domain': 'de.naissance.com', 'httpOnly': False, 'name': 'fsb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': 'de.naissance.com', 'expiry': 1644494592, 'httpOnly': False, 'name': '_goo_Fg3ld', 'path': '/', 'secure': False, 'value': 'edd4cHidhs34fd4sd5546sdfnslkj'}, {'domain': '.naissance.com', 'expiry': 1644580932, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1826311466.1644494532'}, {'domain': '.naissance.com', 'expiry': 1644496332, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.naissance.com', 'expiry': 1644494592, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.naissance.com', 'expiry': 1676030533, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e05ddaa2-68ba-49e9-b2c9-08168b8eea2b'}, {'domain': '.naissance.com', 'expiry': 1644496332, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T12%3A02%3A12.343Z'}, {'domain': '.naissance.com', 'expiry': 1707566532, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.930090285.1644494532'}, {'domain': '.naissance.com', 'expiry': 1645704131, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.naissance.com', 'expiry': 1644496333, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eaa0dbb5-3703-4e8b-9481-7edce2723638'}, {'domain': 'de.naissance.com', 'expiry': 1644498132, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.naissance.com', 'expiry': 1644496333, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eaa0dbb5-3703-4e8b-9481-7edce2723638'}, {'domain': '.naissance.com', 'expiry': 1644494592, 'httpOnly': False, 'name': '_gat_gtag_UA_49097184_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'de.naissance.com', 'expiry': 1645704133, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.naissance.com', 'expiry': 1652270532, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.770591031.1644494533'}, {'domain': '.naissance.com', 'expiry': 1676030533, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e05ddaa2-68ba-49e9-b2c9-08168b8eea2b'}, {'domain': '.naissance.com', 'expiry': 1652270533, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644494532506.961431526'}, {'domain': 'de.naissance.com', 'expiry': 1645704133, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.naissance.com', 'expiry': 1645704131, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'de.naissance.com', 'expiry': 1676030533, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: fsb_total_price_291932
+[After] Cookie-Name 2: fsb_previous_pathname
+[After] Cookie-Name 3: _goo_Fg3ld
+[After] Cookie-Name 4: _gid
+[After] Cookie-Name 5: _shopify_sa_p
+[After] Cookie-Name 6: _gat
+[After] Cookie-Name 7: _shopify_y
+[After] Cookie-Name 8: _shopify_sa_t
+[After] Cookie-Name 9: _ga
+[After] Cookie-Name 10: _orig_referrer
+[After] Cookie-Name 11: _s
+[After] Cookie-Name 12: shopify_pay_redirect
+[After] Cookie-Name 13: _shopify_s
+[After] Cookie-Name 14: _gat_gtag_UA_49097184_1
+[After] Cookie-Name 15: localization
+[After] Cookie-Name 16: _gcl_au
+[After] Cookie-Name 17: _y
+[After] Cookie-Name 18: _fbp
+[After] Cookie-Name 19: cart_currency
+[After] Cookie-Name 20: _landing_page
+[After] Cookie-Name 21: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

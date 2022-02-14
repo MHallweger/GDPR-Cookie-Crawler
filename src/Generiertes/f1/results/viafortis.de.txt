@@ -1,0 +1,79 @@
+Website 263: http://www.viafortis.de/ | Created: 08.02.2022 23:00:00 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: True
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 23
+[Before] Website-Cookies: [{'domain': '.viafortis.de', 'expiry': 1675893593, 'httpOnly': False, 'name': '__zlcmid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '18RkgyzYlYojSaM'}, {'domain': 'www.viafortis.de', 'expiry': 1675893593, 'httpOnly': False, 'name': '_pandectes_gdpr', 'path': '/', 'secure': True, 'value': 'eyJjb3VudHJ5Ijp7ImNvZGUiOiJERSIsInN0YXRlIjoiTlciLCJkZXRlY3RlZCI6MTY0NDM1NzU5M30sInN0YXR1cyI6IiIsInRpbWVzdGFtcCI6bnVsbCwicHJlZmVyZW5jZXMiOm51bGx9'}, {'domain': 'www.viafortis.de', 'expiry': 1675893591, 'httpOnly': False, 'name': '_ply_first_visit', 'path': '/', 'secure': False, 'value': '1644357591000'}, {'domain': 'www.viafortis.de', 'expiry': 1644361191, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.viafortis.de', 'expiry': 1644359391, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.viafortis.de', 'expiry': 1644359391, 'httpOnly': False, 'name': '_hjSession_2392852', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjExZmZlYTMwLTc2YzgtNDdlMi1iM2IwLThjNjJlMzFhMjQ5MyIsImNyZWF0ZWQiOjE2NDQzNTc1OTE2ODgsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': '.www.viafortis.de', 'expiry': 1644359393, 'httpOnly': False, 'name': 'swym-session-id', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"gbrdbomlmwjimwxkblyxnfleauninmvpowpjoj9360l6klhn9uzqzdp7tvmw24xe"'}, {'domain': 'www.viafortis.de', 'expiry': 1644357711, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': 'www.viafortis.de', 'expiry': 1675893591, 'httpOnly': False, 'name': '_ply_last_visit', 'path': '/', 'secure': False, 'value': '1644357591000'}, {'domain': '.viafortis.de', 'expiry': 1675893591, 'httpOnly': False, 'name': '_hjSessionUser_2392852', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjQ0M2Q1NDc0LTU2MjAtNWI1ZS1iMTQzLWFlZWQxMDZlMGFhNiIsImNyZWF0ZWQiOjE2NDQzNTc1OTE0MjcsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': 'www.viafortis.de', 'expiry': 1644357711, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.viafortis.de', 'expiry': 1707429591, 'httpOnly': False, 'name': '_ga_9K82QCFDLR', 'path': '/', 'secure': False, 'value': 'GS1.1.1644357591.1.0.1644357591.60'}, {'domain': '.viafortis.de', 'expiry': 1644359391, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.viafortis.de', 'expiry': 1652133591, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.283151179.1644357591'}, {'domain': '.www.viafortis.de', 'expiry': 1675893593, 'httpOnly': False, 'name': 'swym-email', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'null'}, {'domain': 'www.viafortis.de', 'expiry': 1645567191, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.viafortis.de', 'expiry': 1644359391, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.viafortis.de', 'expiry': 1675893591, 'httpOnly': False, 'name': '_ply_first_visit_page', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.viafortis.de', 'expiry': 1645567190, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.viafortis.de', 'expiry': 1675893591, 'httpOnly': False, 'name': '_ply', 'path': '/', 'secure': False, 'value': 'c67989387391479e539929cef1b710f6'}, {'domain': '.viafortis.de', 'expiry': 1645567190, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.viafortis.de', 'expiry': 1645567191, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'www.viafortis.de', 'expiry': 1675893591, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: __zlcmid
+[Before] Cookie-Name 2: _pandectes_gdpr
+[Before] Cookie-Name 3: _ply_first_visit
+[Before] Cookie-Name 4: shopify_pay_redirect
+[Before] Cookie-Name 5: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 6: _hjSession_2392852
+[Before] Cookie-Name 7: swym-session-id
+[Before] Cookie-Name 8: _hjIncludedInSessionSample
+[Before] Cookie-Name 9: _ply_last_visit
+[Before] Cookie-Name 10: _hjSessionUser_2392852
+[Before] Cookie-Name 11: _hjIncludedInPageviewSample
+[Before] Cookie-Name 12: _ga_9K82QCFDLR
+[Before] Cookie-Name 13: _shopify_sa_p
+[Before] Cookie-Name 14: _gcl_au
+[Before] Cookie-Name 15: swym-email
+[Before] Cookie-Name 16: cart_currency
+[Before] Cookie-Name 17: _hjFirstSeen
+[Before] Cookie-Name 18: _ply_first_visit_page
+[Before] Cookie-Name 19: _landing_page
+[Before] Cookie-Name 20: _ply
+[Before] Cookie-Name 21: _orig_referrer
+[Before] Cookie-Name 22: localization
+[Before] Cookie-Name 23: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 24
+[After] Website-Cookies: [{'domain': 'www.viafortis.de', 'expiry': 1675893606, 'httpOnly': False, 'name': '_pandectes_gdpr', 'path': '/', 'secure': True, 'value': 'eyJjb3VudHJ5Ijp7ImNvZGUiOiJERSIsInN0YXRlIjoiTlciLCJkZXRlY3RlZCI6MTY0NDM1NzU5M30sInN0YXR1cyI6ImFsbG93IiwidGltZXN0YW1wIjoxNjQ0MzU3NjA2LCJwcmVmZXJlbmNlcyI6MH0='}, {'domain': '.viafortis.de', 'expiry': 1652133606, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644357606178.1108212114'}, {'domain': '.viafortis.de', 'expiry': 1675893593, 'httpOnly': False, 'name': '__zlcmid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '18RkgyzYlYojSaM'}, {'domain': 'www.viafortis.de', 'expiry': 1675893591, 'httpOnly': False, 'name': '_ply_first_visit', 'path': '/', 'secure': False, 'value': '1644357591000'}, {'domain': 'www.viafortis.de', 'expiry': 1644361191, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.viafortis.de', 'expiry': 1644359391, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.viafortis.de', 'expiry': 1644359391, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.viafortis.de', 'expiry': 1644357711, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.viafortis.de', 'expiry': 1644359391, 'httpOnly': False, 'name': '_hjSession_2392852', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjExZmZlYTMwLTc2YzgtNDdlMi1iM2IwLThjNjJlMzFhMjQ5MyIsImNyZWF0ZWQiOjE2NDQzNTc1OTE2ODgsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': '.www.viafortis.de', 'expiry': 1644359406, 'httpOnly': False, 'name': 'swym-session-id', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"gbrdbomlmwjimwxkblyxnfleauninmvpowpjoj9360l6klhn9uzqzdp7tvmw24xe"'}, {'domain': 'www.viafortis.de', 'expiry': 1675893591, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'www.viafortis.de', 'expiry': 1675893591, 'httpOnly': False, 'name': '_ply_last_visit', 'path': '/', 'secure': False, 'value': '1644357591000'}, {'domain': '.viafortis.de', 'expiry': 1652133591, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.283151179.1644357591'}, {'domain': '.viafortis.de', 'expiry': 1675893591, 'httpOnly': False, 'name': '_hjSessionUser_2392852', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjQ0M2Q1NDc0LTU2MjAtNWI1ZS1iMTQzLWFlZWQxMDZlMGFhNiIsImNyZWF0ZWQiOjE2NDQzNTc1OTE0MjcsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': 'www.viafortis.de', 'expiry': 1675893591, 'httpOnly': False, 'name': '_ply_first_visit_page', 'path': '/', 'secure': False, 'value': '/'}, {'domain': 'www.viafortis.de', 'expiry': 1644357711, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.viafortis.de', 'expiry': 1707429591, 'httpOnly': False, 'name': '_ga_9K82QCFDLR', 'path': '/', 'secure': False, 'value': 'GS1.1.1644357591.1.0.1644357591.60'}, {'domain': '.www.viafortis.de', 'expiry': 1675893593, 'httpOnly': False, 'name': 'swym-email', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'null'}, {'domain': 'www.viafortis.de', 'expiry': 1645567191, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'www.viafortis.de', 'expiry': 1645567191, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.viafortis.de', 'expiry': 1644359391, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.viafortis.de', 'expiry': 1645567190, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.viafortis.de', 'expiry': 1675893591, 'httpOnly': False, 'name': '_ply', 'path': '/', 'secure': False, 'value': 'c67989387391479e539929cef1b710f6'}, {'domain': '.viafortis.de', 'expiry': 1645567190, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: _pandectes_gdpr
+[After] Cookie-Name 2: _fbp
+[After] Cookie-Name 3: __zlcmid
+[After] Cookie-Name 4: _ply_first_visit
+[After] Cookie-Name 5: shopify_pay_redirect
+[After] Cookie-Name 6: _shopify_sa_p
+[After] Cookie-Name 7: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 8: _hjIncludedInSessionSample
+[After] Cookie-Name 9: _hjSession_2392852
+[After] Cookie-Name 10: swym-session-id
+[After] Cookie-Name 11: secure_customer_sig
+[After] Cookie-Name 12: _ply_last_visit
+[After] Cookie-Name 13: _gcl_au
+[After] Cookie-Name 14: _hjSessionUser_2392852
+[After] Cookie-Name 15: _ply_first_visit_page
+[After] Cookie-Name 16: _hjIncludedInPageviewSample
+[After] Cookie-Name 17: _ga_9K82QCFDLR
+[After] Cookie-Name 18: swym-email
+[After] Cookie-Name 19: localization
+[After] Cookie-Name 20: cart_currency
+[After] Cookie-Name 21: _hjFirstSeen
+[After] Cookie-Name 22: _landing_page
+[After] Cookie-Name 23: _ply
+[After] Cookie-Name 24: _orig_referrer
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjIncludedInSessionSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjIncludedInPageviewSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: _fbp
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

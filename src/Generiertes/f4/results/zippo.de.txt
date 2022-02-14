@@ -1,0 +1,75 @@
+Website 110: http://www.zippo.de/ | Created: 09.02.2022 17:39:08 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 22
+[Before] Website-Cookies: [{'domain': 'www.zippo.de', 'expiry': 1802104739, 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'secure': True, 'value': '16242fa4-5070-4d4a-adfd-7209a65ce043'}, {'domain': 'www.zippo.de', 'expiry': 1645634339, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A2'}, {'domain': 'www.zippo.de', 'expiry': 1645634339, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644424739'}, {'domain': 'www.zippo.de', 'expiry': 1644426539, 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'secure': True, 'value': 'f339cbb8-bd71-4581-a1b2-8af05da88015'}, {'domain': '.zippo.de', 'expiry': 1652200739, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644424739033.280479170'}, {'domain': '.zippo.de', 'expiry': 1644426538, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.zippo.de', 'expiry': 1644426538, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T16%3A38%3A58.748Z'}, {'domain': '.zippo.de', 'expiry': 1644424798, 'httpOnly': False, 'name': '_gat_gtag_UA_55328632_5', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.zippo.de', 'expiry': 1645634339, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e9e31f1c3dce3337ab2499bc3c9256f0'}, {'domain': '.zippo.de', 'expiry': 1644426539, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '874088ee-4405-41d9-b04e-29551178182b'}, {'domain': 'www.zippo.de', 'expiry': 1675960739, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.zippo.de', 'expiry': 1675960739, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'afd823db-d870-498d-b153-58175eaa6515'}, {'domain': '.zippo.de', 'expiry': 1675960739, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'afd823db-d870-498d-b153-58175eaa6515'}, {'domain': '.zippo.de', 'expiry': 1644511138, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.749566610.1644424739'}, {'domain': 'www.zippo.de', 'expiry': 1645634339, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ec689066d1248035f2948b611652d775'}, {'domain': 'www.zippo.de', 'expiry': 1645634339, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': '.zippo.de', 'expiry': 1644426539, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '874088ee-4405-41d9-b04e-29551178182b'}, {'domain': '.zippo.de', 'expiry': 1644424798, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.zippo.de', 'expiry': 1645634338, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.zippo.de', 'expiry': 1707496738, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1600569576.1644424739'}, {'domain': '.zippo.de', 'expiry': 1645634338, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.zippo.de', 'expiry': 1645634339, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}]
+[Before] Cookie-Name 1: _shg_user_id
+[Before] Cookie-Name 2: cart_ver
+[Before] Cookie-Name 3: cart_ts
+[Before] Cookie-Name 4: _shg_session_id
+[Before] Cookie-Name 5: _fbp
+[Before] Cookie-Name 6: _shopify_sa_p
+[Before] Cookie-Name 7: _shopify_sa_t
+[Before] Cookie-Name 8: _gat_gtag_UA_55328632_5
+[Before] Cookie-Name 9: cart_sig
+[Before] Cookie-Name 10: _shopify_s
+[Before] Cookie-Name 11: secure_customer_sig
+[Before] Cookie-Name 12: _shopify_y
+[Before] Cookie-Name 13: _y
+[Before] Cookie-Name 14: _gid
+[Before] Cookie-Name 15: cart
+[Before] Cookie-Name 16: localization
+[Before] Cookie-Name 17: _s
+[Before] Cookie-Name 18: _gat
+[Before] Cookie-Name 19: _landing_page
+[Before] Cookie-Name 20: _ga
+[Before] Cookie-Name 21: _orig_referrer
+[Before] Cookie-Name 22: cart_currency
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 22
+[After] Website-Cookies: [{'domain': 'www.zippo.de', 'expiry': 1802104739, 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'secure': True, 'value': '16242fa4-5070-4d4a-adfd-7209a65ce043'}, {'domain': 'www.zippo.de', 'expiry': 1645634339, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A2'}, {'domain': 'www.zippo.de', 'expiry': 1645634339, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644424739'}, {'domain': 'www.zippo.de', 'expiry': 1644426539, 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'secure': True, 'value': 'f339cbb8-bd71-4581-a1b2-8af05da88015'}, {'domain': '.zippo.de', 'expiry': 1652200754, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644424739033.280479170'}, {'domain': '.zippo.de', 'expiry': 1644426538, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.zippo.de', 'expiry': 1644426538, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T16%3A38%3A58.748Z'}, {'domain': '.zippo.de', 'expiry': 1644424798, 'httpOnly': False, 'name': '_gat_gtag_UA_55328632_5', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.zippo.de', 'expiry': 1645634339, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e9e31f1c3dce3337ab2499bc3c9256f0'}, {'domain': '.zippo.de', 'expiry': 1644426539, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '874088ee-4405-41d9-b04e-29551178182b'}, {'domain': 'www.zippo.de', 'expiry': 1675960739, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.zippo.de', 'expiry': 1675960739, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'afd823db-d870-498d-b153-58175eaa6515'}, {'domain': '.zippo.de', 'expiry': 1675960739, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'afd823db-d870-498d-b153-58175eaa6515'}, {'domain': '.zippo.de', 'expiry': 1644511138, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.749566610.1644424739'}, {'domain': 'www.zippo.de', 'expiry': 1645634339, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ec689066d1248035f2948b611652d775'}, {'domain': 'www.zippo.de', 'expiry': 1645634339, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': '.zippo.de', 'expiry': 1644426539, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '874088ee-4405-41d9-b04e-29551178182b'}, {'domain': '.zippo.de', 'expiry': 1644424798, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.zippo.de', 'expiry': 1645634338, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.zippo.de', 'expiry': 1707496738, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1600569576.1644424739'}, {'domain': '.zippo.de', 'expiry': 1645634338, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.zippo.de', 'expiry': 1645634339, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}]
+[After] Cookie-Name 1: _shg_user_id
+[After] Cookie-Name 2: cart_ver
+[After] Cookie-Name 3: cart_ts
+[After] Cookie-Name 4: _shg_session_id
+[After] Cookie-Name 5: _fbp
+[After] Cookie-Name 6: _shopify_sa_p
+[After] Cookie-Name 7: _shopify_sa_t
+[After] Cookie-Name 8: _gat_gtag_UA_55328632_5
+[After] Cookie-Name 9: cart_sig
+[After] Cookie-Name 10: _shopify_s
+[After] Cookie-Name 11: secure_customer_sig
+[After] Cookie-Name 12: _shopify_y
+[After] Cookie-Name 13: _y
+[After] Cookie-Name 14: _gid
+[After] Cookie-Name 15: cart
+[After] Cookie-Name 16: localization
+[After] Cookie-Name 17: _s
+[After] Cookie-Name 18: _gat
+[After] Cookie-Name 19: _landing_page
+[After] Cookie-Name 20: _ga
+[After] Cookie-Name 21: _orig_referrer
+[After] Cookie-Name 22: cart_currency
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

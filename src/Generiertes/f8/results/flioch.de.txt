@@ -1,0 +1,63 @@
+Website 49: http://www.flioch.de/ | Created: 10.02.2022 20:12:31 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 14
+[Before] Website-Cookies: [{'domain': '.flioch.de', 'expiry': 1644606742, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.270630232.1644520342'}, {'domain': '.flioch.de', 'expiry': 1707592342, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1119077225.1644520342'}, {'domain': '.flioch.de', 'expiry': 1676056343, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ad95333f-46dc-45e2-9d76-b18160ee1274'}, {'domain': '.flioch.de', 'expiry': 1644522142, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T19%3A12%3A22.263Z'}, {'domain': '.flioch.de', 'expiry': 1652296342, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1269307796.1644520342'}, {'domain': '.flioch.de', 'expiry': 1644522142, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.flioch.de', 'expiry': 1644522143, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6c2327da-a77f-4fa0-b0cf-d165bd157bb5'}, {'domain': '.flioch.de', 'expiry': 1676056343, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ad95333f-46dc-45e2-9d76-b18160ee1274'}, {'domain': '.flioch.de', 'expiry': 1652296343, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644520342579.1074965976'}, {'domain': 'www.flioch.de', 'expiry': 1676056343, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.flioch.de', 'expiry': 1644522143, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6c2327da-a77f-4fa0-b0cf-d165bd157bb5'}, {'domain': '.flioch.de', 'expiry': 1645729941, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.flioch.de', 'expiry': 1644520402, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.flioch.de', 'expiry': 1645729941, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[Before] Cookie-Name 1: _gid
+[Before] Cookie-Name 2: _ga
+[Before] Cookie-Name 3: _y
+[Before] Cookie-Name 4: _shopify_sa_t
+[Before] Cookie-Name 5: _gcl_au
+[Before] Cookie-Name 6: _shopify_sa_p
+[Before] Cookie-Name 7: _s
+[Before] Cookie-Name 8: _shopify_y
+[Before] Cookie-Name 9: _fbp
+[Before] Cookie-Name 10: secure_customer_sig
+[Before] Cookie-Name 11: _shopify_s
+[Before] Cookie-Name 12: _landing_page
+[Before] Cookie-Name 13: _gat
+[Before] Cookie-Name 14: _orig_referrer
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 14
+[After] Website-Cookies: [{'domain': '.flioch.de', 'expiry': 1644606742, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.270630232.1644520342'}, {'domain': '.flioch.de', 'expiry': 1707592342, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1119077225.1644520342'}, {'domain': '.flioch.de', 'expiry': 1676056343, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ad95333f-46dc-45e2-9d76-b18160ee1274'}, {'domain': '.flioch.de', 'expiry': 1644522142, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T19%3A12%3A22.263Z'}, {'domain': '.flioch.de', 'expiry': 1652296342, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1269307796.1644520342'}, {'domain': '.flioch.de', 'expiry': 1644522142, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.flioch.de', 'expiry': 1644522143, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6c2327da-a77f-4fa0-b0cf-d165bd157bb5'}, {'domain': '.flioch.de', 'expiry': 1676056343, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ad95333f-46dc-45e2-9d76-b18160ee1274'}, {'domain': '.flioch.de', 'expiry': 1652296343, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644520342579.1074965976'}, {'domain': 'www.flioch.de', 'expiry': 1676056343, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.flioch.de', 'expiry': 1644522143, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6c2327da-a77f-4fa0-b0cf-d165bd157bb5'}, {'domain': '.flioch.de', 'expiry': 1645729941, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.flioch.de', 'expiry': 1644520402, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.flioch.de', 'expiry': 1645729941, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: _gid
+[After] Cookie-Name 2: _ga
+[After] Cookie-Name 3: _y
+[After] Cookie-Name 4: _shopify_sa_t
+[After] Cookie-Name 5: _gcl_au
+[After] Cookie-Name 6: _shopify_sa_p
+[After] Cookie-Name 7: _s
+[After] Cookie-Name 8: _shopify_y
+[After] Cookie-Name 9: _fbp
+[After] Cookie-Name 10: secure_customer_sig
+[After] Cookie-Name 11: _shopify_s
+[After] Cookie-Name 12: _landing_page
+[After] Cookie-Name 13: _gat
+[After] Cookie-Name 14: _orig_referrer
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gat (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

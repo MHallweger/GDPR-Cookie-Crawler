@@ -1,0 +1,74 @@
+Website 123: http://www.naturecan.de/ | Created: 08.02.2022 22:16:53 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 3
+[Before] Website-Cookies: [{'domain': '.naturecan.de', 'expiry': 1645564601, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.naturecan.de', 'expiry': 1645564601, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.naturecan.de', 'expiry': 1675891013, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _orig_referrer
+[Before] Cookie-Name 2: _landing_page
+[Before] Cookie-Name 3: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 25
+[After] Website-Cookies: [{'domain': '.naturecan.de', 'expiry': 1644356819, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A16%3A59.963Z'}, {'domain': '.naturecan.de', 'expiry': 1645564601, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.naturecan.de', 'expiry': 1644356819, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '25c7068c-0539-4be8-bcae-c9351e07582e'}, {'domain': 'www.naturecan.de', 'expiry': 1646947019, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0MzU1MDE5NzI3LCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjowfX0='}, {'domain': 'www.naturecan.de', 'httpOnly': False, 'name': '__mmapiwsid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4b676143-cedf-4406-aace-07b7a87d1202:77cb7362f3e6635708ba92eb1762e98ed039f7ef'}, {'domain': 'www.naturecan.de', 'httpOnly': False, 'name': 'po_visitor', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '_nBwrp_wQVZQ'}, {'domain': 'www.naturecan.de', 'httpOnly': False, 'name': '_rsession', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '821b47944385b576'}, {'domain': 'www.naturecan.de', 'httpOnly': False, 'name': '_ruid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJ1dWlkIjoiYTgwM2E3MmItZjRkMC00N2MzLWJiM2YtYzE5OGRjMGQwNGMxIn0%3D'}, {'domain': 'www.naturecan.de', 'expiry': 1644356819, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '25c7068c-0539-4be8-bcae-c9351e07582e'}, {'domain': 'www.naturecan.de', 'httpOnly': False, 'name': 'lux_uid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '164435500348600542'}, {'domain': '.naturecan.de', 'expiry': 1644356819, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '25c7068c-0539-4be8-bcae-c9351e07582e'}, {'domain': 'www.naturecan.de', 'expiry': 1707427019, 'httpOnly': False, 'name': '_ga', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'GA1.2.1085023096.1644355003'}, {'domain': 'www.naturecan.de', 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1.1.1184370778.1644355004'}, {'domain': 'www.naturecan.de', 'expiry': 1644441419, 'httpOnly': False, 'name': '_gid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'GA1.2.1066223757.1644355003'}, {'domain': 'www.naturecan.de', 'expiry': 1644441419, 'httpOnly': False, 'name': '_gat', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.naturecan.de', 'expiry': 1675891019, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a8850375-bd96-4c33-919f-e86635172bb1'}, {'domain': 'www.naturecan.de', 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQzNTUwMDUsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3Lm5hdHVyZWNhbi5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQzNTUwMDUsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3Lm5hdHVyZWNhbi5kZS8ifX0='}, {'domain': 'www.naturecan.de', 'expiry': 1644356819, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '25c7068c-0539-4be8-bcae-c9351e07582e'}, {'domain': '.naturecan.de', 'expiry': 1644356819, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.naturecan.de', 'expiry': 1644356819, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A16%3A43.052Z'}, {'domain': 'www.naturecan.de', 'expiry': 1675891019, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'a8850375-bd96-4c33-919f-e86635172bb1'}, {'domain': 'www.naturecan.de', 'httpOnly': False, 'name': 'theme_scientist', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2%2F8%2F2022%2C%209%3A16%3A43%20PM'}, {'domain': 'www.naturecan.de', 'httpOnly': False, 'name': 'shoppingfeeder', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2156644463d575f0'}, {'domain': '.naturecan.de', 'expiry': 1645564601, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.naturecan.de', 'expiry': 1675891013, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _shopify_sa_t
+[After] Cookie-Name 2: _landing_page
+[After] Cookie-Name 3: _shopify_s
+[After] Cookie-Name 4: _bc_c_set
+[After] Cookie-Name 5: __mmapiwsid
+[After] Cookie-Name 6: po_visitor
+[After] Cookie-Name 7: _rsession
+[After] Cookie-Name 8: _ruid
+[After] Cookie-Name 9: _s
+[After] Cookie-Name 10: lux_uid
+[After] Cookie-Name 11: _s
+[After] Cookie-Name 12: _ga
+[After] Cookie-Name 13: _gcl_au
+[After] Cookie-Name 14: _gid
+[After] Cookie-Name 15: _gat
+[After] Cookie-Name 16: _y
+[After] Cookie-Name 17: __kla_id
+[After] Cookie-Name 18: _shopify_s
+[After] Cookie-Name 19: _shopify_sa_p
+[After] Cookie-Name 20: _shopify_sa_t
+[After] Cookie-Name 21: _shopify_y
+[After] Cookie-Name 22: theme_scientist
+[After] Cookie-Name 23: shoppingfeeder
+[After] Cookie-Name 24: _orig_referrer
+[After] Cookie-Name 25: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 19
+[Difference] Cookie-Name: 1: po_visitor
+[Difference] Cookie-Name: 2: _ruid
+[Difference] Cookie-Name: 3: _shopify_y
+[Difference] Cookie-Name: 4: _bc_c_set
+[Difference] Cookie-Name: 5: _gid
+[Difference] Cookie-Name: 6: _y
+[Difference] Cookie-Name: 7: _shopify_sa_p
+[Difference] Cookie-Name: 8: __kla_id
+[Difference] Cookie-Name: 9: _ga
+[Difference] Cookie-Name: 10: _shopify_sa_t
+[Difference] Cookie-Name: 11: _s
+[Difference] Cookie-Name: 12: __mmapiwsid
+[Difference] Cookie-Name: 13: _shopify_s
+[Difference] Cookie-Name: 14: _gcl_au
+[Difference] Cookie-Name: 15: theme_scientist
+[Difference] Cookie-Name: 16: shoppingfeeder
+[Difference] Cookie-Name: 17: _rsession
+[Difference] Cookie-Name: 18: _gat
+[Difference] Cookie-Name: 19: lux_uid
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

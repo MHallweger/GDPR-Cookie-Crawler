@@ -1,0 +1,85 @@
+Website 56: http://www.chic-net.de/ | Created: 09.02.2022 13:59:25 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 26
+[Before] Website-Cookies: [{'domain': '.chic-net.de', 'expiry': 1675947557, 'httpOnly': False, 'name': '_privy_AA271D7B68283C2B2A8B5508', 'path': '/', 'secure': False, 'value': '%7B%22uuid%22%3A%2254ae9ebe-82b9-4e5e-9e1c-4bc8921ec748%22%2C%22variations%22%3A%7B%7D%2C%22country_code%22%3A%22DE%22%2C%22region_code%22%3A%22DE_%22%2C%22postal_code%22%3A%22%22%7D'}, {'domain': 'www.chic-net.de', 'expiry': 1644584356, 'httpOnly': False, 'name': 'ba_cart_token', 'path': '/', 'secure': False, 'value': '8390f88febe8b26e9f8cbab5ef05288b'}, {'domain': 'www.chic-net.de', 'expiry': 1645621155, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8390f88febe8b26e9f8cbab5ef05288b'}, {'domain': '.chic-net.de', 'expiry': 1675947555, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVptTTFOVEprWVRRdE1qSXdaQzAwTXpNNUxUbGxNemd0TVRNME9UZzRaalk0TkRRMA'}, {'domain': 'www.chic-net.de', 'expiry': 1675947565, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'www.chic-net.de', 'expiry': 1644415155, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.chic-net.de', 'expiry': 1644413365, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f2528ca4-3e15-4886-adb3-82608ea7c97b'}, {'domain': 'www.chic-net.de', 'expiry': 1644413355, 'httpOnly': False, 'name': 'baMet_visit', 'path': '/', 'secure': False, 'value': '8bcc90171ed147d8818787c5db9afb021644411555025'}, {'domain': 'www.chic-net.de', 'expiry': 1644411617, 'httpOnly': False, 'name': 'baMet_baEvs', 'path': '/', 'secure': False, 'value': '%5B%5D'}, {'domain': '.chic-net.de', 'expiry': 1678598252, 'httpOnly': False, 'name': '_scid', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '226c2fc3-1642-4614-8e93-c0cf00980944'}, {'domain': '.chic-net.de', 'expiry': 1675947565, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '46e5467c-7acd-4a5b-b8ca-b91fc87423ae'}, {'domain': '.chic-net.de', 'expiry': 1644413354, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.chic-net.de', 'httpOnly': False, 'name': 'usb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': 'www.chic-net.de', 'expiry': 1645621152, 'httpOnly': True, 'name': 'keep_alive', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f2528ca4-3e15-4886-adb3-82608ea7c97b'}, {'domain': '.chic-net.de', 'expiry': 1644413365, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f2528ca4-3e15-4886-adb3-82608ea7c97b'}, {'domain': 'www.chic-net.de', 'expiry': 1645621155, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A2'}, {'domain': '.chic-net.de', 'expiry': 1644413354, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T12%3A59%3A14.826Z'}, {'domain': '.chic-net.de', 'expiry': 1645621153, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.chic-net.de', 'expiry': 1675947565, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '46e5467c-7acd-4a5b-b8ca-b91fc87423ae'}, {'domain': '.chic-net.de', 'expiry': 1645621153, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.chic-net.de', 'expiry': 1645621165, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.chic-net.de', 'expiry': 1652187555, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644411555202.596738592'}, {'domain': 'www.chic-net.de', 'expiry': 1645621165, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.chic-net.de', 'expiry': 1645621155, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7e9b8ed113b595f239655290da15db3a'}, {'domain': 'www.chic-net.de', 'expiry': 1645621155, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644411555'}, {'domain': '.chic-net.de', 'expiry': 1652187554, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1146408127.1644411555'}]
+[Before] Cookie-Name 1: _privy_AA271D7B68283C2B2A8B5508
+[Before] Cookie-Name 2: ba_cart_token
+[Before] Cookie-Name 3: cart
+[Before] Cookie-Name 4: _pin_unauth
+[Before] Cookie-Name 5: secure_customer_sig
+[Before] Cookie-Name 6: shopify_pay_redirect
+[Before] Cookie-Name 7: _s
+[Before] Cookie-Name 8: baMet_visit
+[Before] Cookie-Name 9: baMet_baEvs
+[Before] Cookie-Name 10: _scid
+[Before] Cookie-Name 11: _shopify_y
+[Before] Cookie-Name 12: _shopify_sa_p
+[Before] Cookie-Name 13: usb_previous_pathname
+[Before] Cookie-Name 14: keep_alive
+[Before] Cookie-Name 15: _shopify_s
+[Before] Cookie-Name 16: cart_ver
+[Before] Cookie-Name 17: _shopify_sa_t
+[Before] Cookie-Name 18: _orig_referrer
+[Before] Cookie-Name 19: _y
+[Before] Cookie-Name 20: _landing_page
+[Before] Cookie-Name 21: localization
+[Before] Cookie-Name 22: _fbp
+[Before] Cookie-Name 23: cart_currency
+[Before] Cookie-Name 24: cart_sig
+[Before] Cookie-Name 25: cart_ts
+[Before] Cookie-Name 26: _gcl_au
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 26
+[After] Website-Cookies: [{'domain': '.chic-net.de', 'expiry': 1675947557, 'httpOnly': False, 'name': '_privy_AA271D7B68283C2B2A8B5508', 'path': '/', 'secure': False, 'value': '%7B%22uuid%22%3A%2254ae9ebe-82b9-4e5e-9e1c-4bc8921ec748%22%2C%22variations%22%3A%7B%7D%2C%22country_code%22%3A%22DE%22%2C%22region_code%22%3A%22DE_%22%2C%22postal_code%22%3A%22%22%7D'}, {'domain': 'www.chic-net.de', 'expiry': 1644584356, 'httpOnly': False, 'name': 'ba_cart_token', 'path': '/', 'secure': False, 'value': '8390f88febe8b26e9f8cbab5ef05288b'}, {'domain': 'www.chic-net.de', 'expiry': 1645621155, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8390f88febe8b26e9f8cbab5ef05288b'}, {'domain': '.chic-net.de', 'expiry': 1675947555, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVptTTFOVEprWVRRdE1qSXdaQzAwTXpNNUxUbGxNemd0TVRNME9UZzRaalk0TkRRMA'}, {'domain': 'www.chic-net.de', 'expiry': 1675947565, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'www.chic-net.de', 'expiry': 1644415155, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.chic-net.de', 'expiry': 1644413365, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f2528ca4-3e15-4886-adb3-82608ea7c97b'}, {'domain': 'www.chic-net.de', 'expiry': 1644413355, 'httpOnly': False, 'name': 'baMet_visit', 'path': '/', 'secure': False, 'value': '8bcc90171ed147d8818787c5db9afb021644411555025'}, {'domain': 'www.chic-net.de', 'expiry': 1644411617, 'httpOnly': False, 'name': 'baMet_baEvs', 'path': '/', 'secure': False, 'value': '%5B%5D'}, {'domain': '.chic-net.de', 'expiry': 1678598252, 'httpOnly': False, 'name': '_scid', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '226c2fc3-1642-4614-8e93-c0cf00980944'}, {'domain': '.chic-net.de', 'expiry': 1675947565, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '46e5467c-7acd-4a5b-b8ca-b91fc87423ae'}, {'domain': '.chic-net.de', 'expiry': 1644413354, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.chic-net.de', 'httpOnly': False, 'name': 'usb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': 'www.chic-net.de', 'expiry': 1645621152, 'httpOnly': True, 'name': 'keep_alive', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f2528ca4-3e15-4886-adb3-82608ea7c97b'}, {'domain': '.chic-net.de', 'expiry': 1644413365, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f2528ca4-3e15-4886-adb3-82608ea7c97b'}, {'domain': 'www.chic-net.de', 'expiry': 1645621155, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A2'}, {'domain': '.chic-net.de', 'expiry': 1644413354, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T12%3A59%3A14.826Z'}, {'domain': '.chic-net.de', 'expiry': 1645621153, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.chic-net.de', 'expiry': 1675947565, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '46e5467c-7acd-4a5b-b8ca-b91fc87423ae'}, {'domain': '.chic-net.de', 'expiry': 1645621153, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.chic-net.de', 'expiry': 1645621165, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.chic-net.de', 'expiry': 1652187555, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644411555202.596738592'}, {'domain': 'www.chic-net.de', 'expiry': 1645621165, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.chic-net.de', 'expiry': 1645621155, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7e9b8ed113b595f239655290da15db3a'}, {'domain': 'www.chic-net.de', 'expiry': 1645621155, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644411555'}, {'domain': '.chic-net.de', 'expiry': 1652187554, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1146408127.1644411555'}]
+[After] Cookie-Name 1: _privy_AA271D7B68283C2B2A8B5508
+[After] Cookie-Name 2: ba_cart_token
+[After] Cookie-Name 3: cart
+[After] Cookie-Name 4: _pin_unauth
+[After] Cookie-Name 5: secure_customer_sig
+[After] Cookie-Name 6: shopify_pay_redirect
+[After] Cookie-Name 7: _s
+[After] Cookie-Name 8: baMet_visit
+[After] Cookie-Name 9: baMet_baEvs
+[After] Cookie-Name 10: _scid
+[After] Cookie-Name 11: _shopify_y
+[After] Cookie-Name 12: _shopify_sa_p
+[After] Cookie-Name 13: usb_previous_pathname
+[After] Cookie-Name 14: keep_alive
+[After] Cookie-Name 15: _shopify_s
+[After] Cookie-Name 16: cart_ver
+[After] Cookie-Name 17: _shopify_sa_t
+[After] Cookie-Name 18: _orig_referrer
+[After] Cookie-Name 19: _y
+[After] Cookie-Name 20: _landing_page
+[After] Cookie-Name 21: localization
+[After] Cookie-Name 22: _fbp
+[After] Cookie-Name 23: cart_currency
+[After] Cookie-Name 24: cart_sig
+[After] Cookie-Name 25: cart_ts
+[After] Cookie-Name 26: _gcl_au
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

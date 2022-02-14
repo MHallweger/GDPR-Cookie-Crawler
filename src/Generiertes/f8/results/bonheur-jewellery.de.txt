@@ -1,0 +1,77 @@
+Website 145: http://www.bonheur-jewellery.de/ | Created: 10.02.2022 20:41:15 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 8
+[Before] Website-Cookies: [{'domain': 'bonheur-jewellery.de', 'expiry': 1645731664, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5d47fe4cae50967a41d60afbbd124240'}, {'domain': 'bonheur-jewellery.de', 'expiry': 1645731664, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': 'bonheur-jewellery.de', 'expiry': 1645731664, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '891c7b27d65c7ad01dbe439266c6d065'}, {'domain': 'bonheur-jewellery.de', 'expiry': 1676058065, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.bonheur-jewellery.de', 'expiry': 1645731664, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.bonheur-jewellery.de', 'expiry': 1645731664, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'bonheur-jewellery.de', 'expiry': 1645731664, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644522064'}, {'domain': 'bonheur-jewellery.de', 'expiry': 1645731665, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}]
+[Before] Cookie-Name 1: cart
+[Before] Cookie-Name 2: cart_ver
+[Before] Cookie-Name 3: cart_sig
+[Before] Cookie-Name 4: secure_customer_sig
+[Before] Cookie-Name 5: _landing_page
+[Before] Cookie-Name 6: _orig_referrer
+[Before] Cookie-Name 7: cart_ts
+[Before] Cookie-Name 8: cart_currency
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 25
+[After] Website-Cookies: [{'domain': '.bonheur-jewellery.de', 'expiry': 1652298082, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644522081532.1475304042'}, {'domain': 'bonheur-jewellery.de', 'expiry': 1647114081, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0NTIyMDgxMjEyLCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjowfX0='}, {'domain': 'bonheur-jewellery.de', 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'bonheur-jewellery.de', 'expiry': 1644523881, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e2399413-68b0-42ce-abfa-e5a354e31561'}, {'domain': '.bonheur-jewellery.de', 'expiry': 1644522141, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'bonheur-jewellery.de', 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1.1.1369345423.1644522065'}, {'domain': 'bonheur-jewellery.de', 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ1MjIwNjUsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vYm9uaGV1ci1qZXdlbGxlcnkuZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NTIyMDY1LCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL2JvbmhldXItamV3ZWxsZXJ5LmRlLyJ9fQ=='}, {'domain': 'bonheur-jewellery.de', 'expiry': 1644523881, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e2399413-68b0-42ce-abfa-e5a354e31561'}, {'domain': 'bonheur-jewellery.de', 'httpOnly': False, 'name': 'usb_previous_pathname', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '/'}, {'domain': 'bonheur-jewellery.de', 'expiry': 1644523881, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T19%3A41%3A05.223Z'}, {'domain': 'bonheur-jewellery.de', 'expiry': 1676058081, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '93c0b506-f150-4b1e-8f33-b4b1f21b2c21'}, {'domain': 'bonheur-jewellery.de', 'expiry': 1676058081, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '93c0b506-f150-4b1e-8f33-b4b1f21b2c21'}, {'domain': 'bonheur-jewellery.de', 'expiry': 1645731664, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': '.bonheur-jewellery.de', 'expiry': 1707594081, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.2051049620.1644522081'}, {'domain': 'bonheur-jewellery.de', 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'dWlkPU56YzFZbVU0WW1VdFpUazFaUzAwTUdSakxXSmtaVEF0WlRJNU9UQmpaRFF4TkdRMg'}, {'domain': 'bonheur-jewellery.de', 'expiry': 1645731665, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'bonheur-jewellery.de', 'httpOnly': False, 'name': 'tms_previous_pathname', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '/'}, {'domain': '.bonheur-jewellery.de', 'expiry': 1644522141, 'httpOnly': False, 'name': '_gat_UA-180819373-2', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'bonheur-jewellery.de', 'expiry': 1645731664, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5d47fe4cae50967a41d60afbbd124240'}, {'domain': 'bonheur-jewellery.de', 'expiry': 1676058065, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'bonheur-jewellery.de', 'expiry': 1645731664, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '891c7b27d65c7ad01dbe439266c6d065'}, {'domain': '.bonheur-jewellery.de', 'expiry': 1644608481, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.703835372.1644522081'}, {'domain': '.bonheur-jewellery.de', 'expiry': 1645731664, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.bonheur-jewellery.de', 'expiry': 1645731664, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'bonheur-jewellery.de', 'expiry': 1645731664, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644522064'}]
+[After] Cookie-Name 1: _fbp
+[After] Cookie-Name 2: _bc_c_set
+[After] Cookie-Name 3: localization
+[After] Cookie-Name 4: _shopify_s
+[After] Cookie-Name 5: _gat
+[After] Cookie-Name 6: _gcl_au
+[After] Cookie-Name 7: __kla_id
+[After] Cookie-Name 8: _s
+[After] Cookie-Name 9: usb_previous_pathname
+[After] Cookie-Name 10: _shopify_sa_t
+[After] Cookie-Name 11: _shopify_y
+[After] Cookie-Name 12: _y
+[After] Cookie-Name 13: cart_ver
+[After] Cookie-Name 14: _ga
+[After] Cookie-Name 15: _pin_unauth
+[After] Cookie-Name 16: cart_currency
+[After] Cookie-Name 17: tms_previous_pathname
+[After] Cookie-Name 18: _gat_UA-180819373-2
+[After] Cookie-Name 19: cart
+[After] Cookie-Name 20: secure_customer_sig
+[After] Cookie-Name 21: cart_sig
+[After] Cookie-Name 22: _gid
+[After] Cookie-Name 23: _landing_page
+[After] Cookie-Name 24: _orig_referrer
+[After] Cookie-Name 25: cart_ts
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 17
+[Difference] Cookie-Name: 1: _fbp
+[Difference] Cookie-Name: 2: usb_previous_pathname
+[Difference] Cookie-Name: 3: _shopify_y
+[Difference] Cookie-Name: 4: _shopify_s
+[Difference] Cookie-Name: 5: _s
+[Difference] Cookie-Name: 6: _pin_unauth
+[Difference] Cookie-Name: 7: _ga
+[Difference] Cookie-Name: 8: _gid
+[Difference] Cookie-Name: 9: _gat
+[Difference] Cookie-Name: 10: localization
+[Difference] Cookie-Name: 11: _gat_UA-180819373-2
+[Difference] Cookie-Name: 12: _gcl_au
+[Difference] Cookie-Name: 13: _shopify_sa_t
+[Difference] Cookie-Name: 14: _y
+[Difference] Cookie-Name: 15: __kla_id
+[Difference] Cookie-Name: 16: _bc_c_set
+[Difference] Cookie-Name: 17: tms_previous_pathname
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

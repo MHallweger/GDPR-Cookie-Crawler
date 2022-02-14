@@ -1,0 +1,86 @@
+Website 199: http://www.hlh-biopharma.de/ | Created: 09.02.2022 14:42:23 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 27
+[Before] Website-Cookies: [{'domain': 'www.hlh-biopharma.de', 'httpOnly': False, 'name': 'locale_bar_accepted', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.hlh-biopharma.de', 'expiry': 1644414193, 'httpOnly': False, 'name': 'baMet_baEvs', 'path': '/', 'secure': False, 'value': '%5B%5D'}, {'domain': 'www.hlh-biopharma.de', 'expiry': 1644417732, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'www.hlh-biopharma.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.hlh-biopharma.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A42%3A11.861Z'}, {'domain': 'www.hlh-biopharma.de', 'expiry': 1644415931, 'httpOnly': False, 'name': 'baMet_visit', 'path': '/', 'secure': False, 'value': '32a040e3e6c945fab6c0f296fc7c80de1644414131844'}, {'domain': '.hlh-biopharma.de', 'expiry': 1644414191, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.hlh-biopharma.de', 'expiry': 1644500531, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1406623519.1644414132'}, {'domain': '.hlh-biopharma.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.hlh-biopharma.de', 'expiry': 1707486131, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1710047116.1644414132'}, {'domain': '.hlh-biopharma.de', 'expiry': 1645623730, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.hlh-biopharma.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9f5f778e-df0b-45d9-94d9-29747fd9363b'}, {'domain': 'www.hlh-biopharma.de', 'expiry': 1645623734, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.hlh-biopharma.de', 'expiry': 1644415934, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.hlh-biopharma.de', 'expiry': 1675950130, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': 'www.hlh-biopharma.de', 'expiry': 1802094133, 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'secure': True, 'value': '23302afd-9cf6-4d05-af53-57494dad3cc9'}, {'domain': '.hlh-biopharma.de', 'expiry': 1675950130, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%7D'}, {'domain': '.hlh-biopharma.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A42%3A12.115Z'}, {'domain': '.hlh-biopharma.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '75f18892-a4a4-4a6e-b1a5-5eaac1c62a53'}, {'domain': '.hlh-biopharma.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.hlh-biopharma.de', 'expiry': 1645623734, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'www.hlh-biopharma.de', 'expiry': 1644415933, 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'secure': True, 'value': '354f4e9c-07f1-4828-b8d2-54a139cc2a88'}, {'domain': '.hlh-biopharma.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.hlh-biopharma.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.hlh-biopharma.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '75f18892-a4a4-4a6e-b1a5-5eaac1c62a53'}, {'domain': 'www.hlh-biopharma.de', 'expiry': 1675950134, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.hlh-biopharma.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9f5f778e-df0b-45d9-94d9-29747fd9363b'}]
+[Before] Cookie-Name 1: locale_bar_accepted
+[Before] Cookie-Name 2: baMet_baEvs
+[Before] Cookie-Name 3: shopify_pay_redirect
+[Before] Cookie-Name 4: _shopify_evids
+[Before] Cookie-Name 5: _shopify_d
+[Before] Cookie-Name 6: baMet_visit
+[Before] Cookie-Name 7: _gat
+[Before] Cookie-Name 8: _gid
+[Before] Cookie-Name 9: _landing_page
+[Before] Cookie-Name 10: _ga
+[Before] Cookie-Name 11: _shopify_tw
+[Before] Cookie-Name 12: _y
+[Before] Cookie-Name 13: cart_currency
+[Before] Cookie-Name 14: _shopify_tm
+[Before] Cookie-Name 15: _shopify_m
+[Before] Cookie-Name 16: _shg_user_id
+[Before] Cookie-Name 17: _tracking_consent
+[Before] Cookie-Name 18: _shopify_sa_t
+[Before] Cookie-Name 19: _s
+[Before] Cookie-Name 20: _shopify_sa_p
+[Before] Cookie-Name 21: localization
+[Before] Cookie-Name 22: _shg_session_id
+[Before] Cookie-Name 23: _orig_referrer
+[Before] Cookie-Name 24: _shopify_evids
+[Before] Cookie-Name 25: _shopify_s
+[Before] Cookie-Name 26: secure_customer_sig
+[Before] Cookie-Name 27: _shopify_y
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 27
+[After] Website-Cookies: [{'domain': 'www.hlh-biopharma.de', 'httpOnly': False, 'name': 'locale_bar_accepted', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.hlh-biopharma.de', 'expiry': 1644414193, 'httpOnly': False, 'name': 'baMet_baEvs', 'path': '/', 'secure': False, 'value': '%5B%5D'}, {'domain': 'www.hlh-biopharma.de', 'expiry': 1644417732, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'www.hlh-biopharma.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.hlh-biopharma.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A42%3A11.861Z'}, {'domain': 'www.hlh-biopharma.de', 'expiry': 1644415931, 'httpOnly': False, 'name': 'baMet_visit', 'path': '/', 'secure': False, 'value': '32a040e3e6c945fab6c0f296fc7c80de1644414131844'}, {'domain': '.hlh-biopharma.de', 'expiry': 1644414191, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.hlh-biopharma.de', 'expiry': 1644500531, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1406623519.1644414132'}, {'domain': '.hlh-biopharma.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.hlh-biopharma.de', 'expiry': 1707486131, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1710047116.1644414132'}, {'domain': '.hlh-biopharma.de', 'expiry': 1645623730, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.hlh-biopharma.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9f5f778e-df0b-45d9-94d9-29747fd9363b'}, {'domain': 'www.hlh-biopharma.de', 'expiry': 1645623734, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.hlh-biopharma.de', 'expiry': 1644415934, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.hlh-biopharma.de', 'expiry': 1675950130, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': 'www.hlh-biopharma.de', 'expiry': 1802094133, 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'secure': True, 'value': '23302afd-9cf6-4d05-af53-57494dad3cc9'}, {'domain': '.hlh-biopharma.de', 'expiry': 1675950130, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%7D'}, {'domain': '.hlh-biopharma.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A42%3A12.115Z'}, {'domain': '.hlh-biopharma.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '75f18892-a4a4-4a6e-b1a5-5eaac1c62a53'}, {'domain': '.hlh-biopharma.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.hlh-biopharma.de', 'expiry': 1645623734, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'www.hlh-biopharma.de', 'expiry': 1644415933, 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'secure': True, 'value': '354f4e9c-07f1-4828-b8d2-54a139cc2a88'}, {'domain': '.hlh-biopharma.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.hlh-biopharma.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.hlh-biopharma.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '75f18892-a4a4-4a6e-b1a5-5eaac1c62a53'}, {'domain': 'www.hlh-biopharma.de', 'expiry': 1675950134, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.hlh-biopharma.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9f5f778e-df0b-45d9-94d9-29747fd9363b'}]
+[After] Cookie-Name 1: locale_bar_accepted
+[After] Cookie-Name 2: baMet_baEvs
+[After] Cookie-Name 3: shopify_pay_redirect
+[After] Cookie-Name 4: _shopify_evids
+[After] Cookie-Name 5: _shopify_d
+[After] Cookie-Name 6: baMet_visit
+[After] Cookie-Name 7: _gat
+[After] Cookie-Name 8: _gid
+[After] Cookie-Name 9: _landing_page
+[After] Cookie-Name 10: _ga
+[After] Cookie-Name 11: _shopify_tw
+[After] Cookie-Name 12: _y
+[After] Cookie-Name 13: cart_currency
+[After] Cookie-Name 14: _shopify_tm
+[After] Cookie-Name 15: _shopify_m
+[After] Cookie-Name 16: _shg_user_id
+[After] Cookie-Name 17: _tracking_consent
+[After] Cookie-Name 18: _shopify_sa_t
+[After] Cookie-Name 19: _s
+[After] Cookie-Name 20: _shopify_sa_p
+[After] Cookie-Name 21: localization
+[After] Cookie-Name 22: _shg_session_id
+[After] Cookie-Name 23: _orig_referrer
+[After] Cookie-Name 24: _shopify_evids
+[After] Cookie-Name 25: _shopify_s
+[After] Cookie-Name 26: secure_customer_sig
+[After] Cookie-Name 27: _shopify_y
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

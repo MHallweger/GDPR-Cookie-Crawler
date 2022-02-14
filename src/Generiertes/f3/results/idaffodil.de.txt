@@ -1,0 +1,76 @@
+Website 298: http://www.idaffodil.de/ | Created: 09.02.2022 15:11:39 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 17
+[Before] Website-Cookies: [{'domain': 'idaffodil.de', 'expiry': 1645625488, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': 'idaffodil.de', 'expiry': 1645625488, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '03c75eca215113c10dfd5e9c27b9afbd'}, {'domain': '.idaffodil.de', 'expiry': 1652191887, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.763927607.1644415888'}, {'domain': '.idaffodil.de', 'expiry': 1644417687, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T14%3A11%3A27.703Z'}, {'domain': '.idaffodil.de', 'expiry': 1644417687, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.idaffodil.de', 'expiry': 1644417688, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7c0f95de-2174-4f3e-8f37-99849c2d5b0e'}, {'domain': '.idaffodil.de', 'expiry': 1675951888, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd8a9ced3-6a90-42f9-93a3-277f15c22978'}, {'domain': '.idaffodil.de', 'expiry': 1644417688, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7c0f95de-2174-4f3e-8f37-99849c2d5b0e'}, {'domain': '.idaffodil.de', 'expiry': 1675951888, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd8a9ced3-6a90-42f9-93a3-277f15c22978'}, {'domain': 'idaffodil.de', 'expiry': 1645625488, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8488d1849133a51608843d46a8de30f5'}, {'domain': 'idaffodil.de', 'expiry': 1675951888, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'idaffodil.de', 'expiry': 1645625488, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'idaffodil.de', 'expiry': 1645625488, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'idaffodil.de', 'expiry': 1645625488, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644415888'}, {'domain': '.idaffodil.de', 'expiry': 1645625487, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.idaffodil.de', 'expiry': 1645625488, 'httpOnly': False, 'name': '__cmpcccu21841', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'aBPUJfOhAAAAwAXABgAA'}, {'domain': '.idaffodil.de', 'expiry': 1645625487, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[Before] Cookie-Name 1: cart_ver
+[Before] Cookie-Name 2: cart_sig
+[Before] Cookie-Name 3: _gcl_au
+[Before] Cookie-Name 4: _shopify_sa_t
+[Before] Cookie-Name 5: _shopify_sa_p
+[Before] Cookie-Name 6: _shopify_s
+[Before] Cookie-Name 7: _shopify_y
+[Before] Cookie-Name 8: _s
+[Before] Cookie-Name 9: _y
+[Before] Cookie-Name 10: cart
+[Before] Cookie-Name 11: secure_customer_sig
+[Before] Cookie-Name 12: localization
+[Before] Cookie-Name 13: cart_currency
+[Before] Cookie-Name 14: cart_ts
+[Before] Cookie-Name 15: _landing_page
+[Before] Cookie-Name 16: __cmpcccu21841
+[Before] Cookie-Name 17: _orig_referrer
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 24
+[After] Website-Cookies: [{'domain': 'idaffodil.de', 'expiry': 1707487905, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MTU5MDYsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vaWRhZmZvZGlsLmRlLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDQxNTkwNiwidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly9pZGFmZm9kaWwuZGUvIn19'}, {'domain': '.idaffodil.de', 'expiry': 1644502305, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1713657704.1644415906'}, {'domain': '.idaffodil.de', 'expiry': 1707487905, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.41140122.1644415906'}, {'domain': 'idaffodil.de', 'expiry': 1675951906, 'httpOnly': False, 'name': 'cookieconsent_status', 'path': '/', 'secure': False, 'value': 'dismiss'}, {'domain': 'idaffodil.de', 'expiry': 1645625488, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': 'idaffodil.de', 'expiry': 1645625488, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '03c75eca215113c10dfd5e9c27b9afbd'}, {'domain': '.idaffodil.de', 'expiry': 1652191887, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.763927607.1644415888'}, {'domain': '.idaffodil.de', 'expiry': 1644415965, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.idaffodil.de', 'expiry': 1644417687, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T14%3A11%3A27.703Z'}, {'domain': '.idaffodil.de', 'expiry': 1644417687, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.idaffodil.de', 'expiry': 1644417705, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7c0f95de-2174-4f3e-8f37-99849c2d5b0e'}, {'domain': '.idaffodil.de', 'expiry': 1675951905, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd8a9ced3-6a90-42f9-93a3-277f15c22978'}, {'domain': '.idaffodil.de', 'expiry': 1675951905, 'httpOnly': False, 'name': '__cmpconsent21841', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'BPUJfROPUJfROAfY9BDEDXAAAAAAFA'}, {'domain': '.idaffodil.de', 'expiry': 1644417705, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7c0f95de-2174-4f3e-8f37-99849c2d5b0e'}, {'domain': '.idaffodil.de', 'expiry': 1675951905, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd8a9ced3-6a90-42f9-93a3-277f15c22978'}, {'domain': '.idaffodil.de', 'expiry': 1652191906, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644415905978.1184007214'}, {'domain': 'idaffodil.de', 'expiry': 1645625488, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8488d1849133a51608843d46a8de30f5'}, {'domain': 'idaffodil.de', 'expiry': 1675951905, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'idaffodil.de', 'expiry': 1645625505, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'idaffodil.de', 'expiry': 1645625505, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'idaffodil.de', 'expiry': 1645625488, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644415888'}, {'domain': '.idaffodil.de', 'expiry': 1645625487, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.idaffodil.de', 'expiry': 1675951905, 'httpOnly': False, 'name': '__cmpcccu21841', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'aBPUJfROgAwAzADgA8AAIAB4ALgAwABoADwAKAAfABBAEPA4kDigHlgQZAg4BaIE3YAA'}, {'domain': '.idaffodil.de', 'expiry': 1645625487, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: __kla_id
+[After] Cookie-Name 2: _gid
+[After] Cookie-Name 3: _ga
+[After] Cookie-Name 4: cookieconsent_status
+[After] Cookie-Name 5: cart_ver
+[After] Cookie-Name 6: cart_sig
+[After] Cookie-Name 7: _gcl_au
+[After] Cookie-Name 8: _gat
+[After] Cookie-Name 9: _shopify_sa_t
+[After] Cookie-Name 10: _shopify_sa_p
+[After] Cookie-Name 11: _shopify_s
+[After] Cookie-Name 12: _shopify_y
+[After] Cookie-Name 13: __cmpconsent21841
+[After] Cookie-Name 14: _s
+[After] Cookie-Name 15: _y
+[After] Cookie-Name 16: _fbp
+[After] Cookie-Name 17: cart
+[After] Cookie-Name 18: secure_customer_sig
+[After] Cookie-Name 19: localization
+[After] Cookie-Name 20: cart_currency
+[After] Cookie-Name 21: cart_ts
+[After] Cookie-Name 22: _landing_page
+[After] Cookie-Name 23: __cmpcccu21841
+[After] Cookie-Name 24: _orig_referrer
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 7
+[Difference] Cookie-Name: 1: __cmpconsent21841
+[Difference] Cookie-Name: 2: _gid
+[Difference] Cookie-Name: 3: cookieconsent_status
+[Difference] Cookie-Name: 4: __kla_id
+[Difference] Cookie-Name: 5: _gat
+[Difference] Cookie-Name: 6: _fbp
+[Difference] Cookie-Name: 7: _ga
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

@@ -1,0 +1,82 @@
+Website 97: http://www.edamama.de/ | Created: 09.02.2022 14:11:32 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 19
+[Before] Website-Cookies: [{'domain': 'edamama.de', 'expiry': 1644413483, 'httpOnly': False, 'name': '_omappvs', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '1644412283951'}, {'domain': '.edamama.de', 'expiry': 1652188283, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644412283374.2059907054'}, {'domain': '.edamama.de', 'expiry': 1644498683, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1184174888.1644412283'}, {'domain': '.edamama.de', 'expiry': 1707484283, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1453606857.1644412283'}, {'domain': '.edamama.de', 'expiry': 1644414083, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'edamama.de', 'httpOnly': False, 'name': 'qab_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.edamama.de', 'expiry': 1644414083, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A11%3A23.206Z'}, {'domain': 'edamama.de', 'expiry': 1989925883, 'httpOnly': False, 'name': '_omappvp', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'XPeP0W9FzozR9WqN4V7sX5ErL05JdMDS8EGTYIax9sq24g8g4K8ehxiYmADI9mxyUCHTICOls2iqWrti2WivWHAvG6Mi18Rt'}, {'domain': '.edamama.de', 'expiry': 1644414084, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '43f7bbd0-4de7-4920-85de-83c8f6a3ebbf'}, {'domain': '.edamama.de', 'expiry': 1644414084, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '43f7bbd0-4de7-4920-85de-83c8f6a3ebbf'}, {'domain': '.edamama.de', 'expiry': 1675948284, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f5ee9c2c-529f-475e-9721-c651dc4a68a8'}, {'domain': '.edamama.de', 'expiry': 1644412343, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.edamama.de', 'expiry': 1675948284, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f5ee9c2c-529f-475e-9721-c651dc4a68a8'}, {'domain': 'edamama.de', 'expiry': 1645621884, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.edamama.de', 'expiry': 1645621882, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'edamama.de', 'expiry': 1645621884, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'edamama.de', 'expiry': 1675948284, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'edamama.de', 'expiry': 1644414082, 'httpOnly': False, 'name': '_shopify_country', 'path': '/', 'secure': False, 'value': 'Germany'}, {'domain': '.edamama.de', 'expiry': 1645621882, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}]
+[Before] Cookie-Name 1: _omappvs
+[Before] Cookie-Name 2: _fbp
+[Before] Cookie-Name 3: _gid
+[Before] Cookie-Name 4: _ga
+[Before] Cookie-Name 5: _shopify_sa_p
+[Before] Cookie-Name 6: qab_previous_pathname
+[Before] Cookie-Name 7: _shopify_sa_t
+[Before] Cookie-Name 8: _omappvp
+[Before] Cookie-Name 9: _shopify_s
+[Before] Cookie-Name 10: _s
+[Before] Cookie-Name 11: _y
+[Before] Cookie-Name 12: _gat
+[Before] Cookie-Name 13: _shopify_y
+[Before] Cookie-Name 14: localization
+[Before] Cookie-Name 15: _orig_referrer
+[Before] Cookie-Name 16: cart_currency
+[Before] Cookie-Name 17: secure_customer_sig
+[Before] Cookie-Name 18: _shopify_country
+[Before] Cookie-Name 19: _landing_page
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 24
+[After] Website-Cookies: [{'domain': '.edamama.de', 'expiry': 1675948284, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f5ee9c2c-529f-475e-9721-c651dc4a68a8'}, {'domain': 'edamama.de', 'expiry': 1644413483, 'httpOnly': False, 'name': '_omappvs', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '1644412283951'}, {'domain': '.edamama.de', 'expiry': 1644414095, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.edamama.de', 'expiry': 1644414095, 'httpOnly': False, 'name': '_hjSession_1129604', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjkzMTIyMWE0LWRiM2EtNDcyNC1iNTdlLTY2ZTM0YjMwMTc3YSIsImNyZWF0ZWQiOjE2NDQ0MTIyOTU3OTAsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': '.edamama.de', 'expiry': 1652188283, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644412283374.2059907054'}, {'domain': '.edamama.de', 'expiry': 1675948295, 'httpOnly': False, 'name': '_hjSessionUser_1129604', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImRhMTQxMzVmLTA1ZGQtNTI0ZC05ODQxLTlkZWE5YTUxY2Y2MyIsImNyZWF0ZWQiOjE2NDQ0MTIyOTU3NzQsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.edamama.de', 'expiry': 1644498683, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1184174888.1644412283'}, {'domain': '.edamama.de', 'expiry': 1644414095, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.edamama.de', 'expiry': 1707484283, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1453606857.1644412283'}, {'domain': '.edamama.de', 'expiry': 1644414083, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'edamama.de', 'httpOnly': False, 'name': 'qab_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.edamama.de', 'expiry': 1644414083, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A11%3A23.206Z'}, {'domain': 'edamama.de', 'expiry': 1989925883, 'httpOnly': False, 'name': '_omappvp', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'XPeP0W9FzozR9WqN4V7sX5ErL05JdMDS8EGTYIax9sq24g8g4K8ehxiYmADI9mxyUCHTICOls2iqWrti2WivWHAvG6Mi18Rt'}, {'domain': 'edamama.de', 'expiry': 1675948284, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'edamama.de', 'expiry': 1644412415, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.edamama.de', 'expiry': 1644414084, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '43f7bbd0-4de7-4920-85de-83c8f6a3ebbf'}, {'domain': '.edamama.de', 'expiry': 1644414084, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '43f7bbd0-4de7-4920-85de-83c8f6a3ebbf'}, {'domain': '.edamama.de', 'expiry': 1675948284, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f5ee9c2c-529f-475e-9721-c651dc4a68a8'}, {'domain': '.edamama.de', 'expiry': 1644412343, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'edamama.de', 'expiry': 1645621884, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.edamama.de', 'expiry': 1645621882, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'edamama.de', 'expiry': 1645621884, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'edamama.de', 'expiry': 1644414082, 'httpOnly': False, 'name': '_shopify_country', 'path': '/', 'secure': False, 'value': 'Germany'}, {'domain': '.edamama.de', 'expiry': 1645621882, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}]
+[After] Cookie-Name 1: _shopify_y
+[After] Cookie-Name 2: _omappvs
+[After] Cookie-Name 3: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 4: _hjSession_1129604
+[After] Cookie-Name 5: _fbp
+[After] Cookie-Name 6: _hjSessionUser_1129604
+[After] Cookie-Name 7: _gid
+[After] Cookie-Name 8: _hjFirstSeen
+[After] Cookie-Name 9: _ga
+[After] Cookie-Name 10: _shopify_sa_p
+[After] Cookie-Name 11: qab_previous_pathname
+[After] Cookie-Name 12: _shopify_sa_t
+[After] Cookie-Name 13: _omappvp
+[After] Cookie-Name 14: secure_customer_sig
+[After] Cookie-Name 15: _hjIncludedInPageviewSample
+[After] Cookie-Name 16: _shopify_s
+[After] Cookie-Name 17: _s
+[After] Cookie-Name 18: _y
+[After] Cookie-Name 19: _gat
+[After] Cookie-Name 20: localization
+[After] Cookie-Name 21: _orig_referrer
+[After] Cookie-Name 22: cart_currency
+[After] Cookie-Name 23: _shopify_country
+[After] Cookie-Name 24: _landing_page
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gat (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 5
+[Difference] Cookie-Name: 1: _hjAbsoluteSessionInProgress
+[Difference] Cookie-Name: 2: _hjIncludedInPageviewSample
+[Difference] Cookie-Name: 3: _hjFirstSeen
+[Difference] Cookie-Name: 4: _hjSessionUser_1129604
+[Difference] Cookie-Name: 5: _hjSession_1129604
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

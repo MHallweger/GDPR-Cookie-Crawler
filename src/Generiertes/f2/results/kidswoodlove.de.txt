@@ -1,0 +1,114 @@
+Website 166: http://www.kidswoodlove.de/ | Created: 09.02.2022 11:36:30 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 40
+[Before] Website-Cookies: [{'domain': '.kidswoodlove.de', 'httpOnly': False, 'name': 'wisepops_session', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22arrivalOnSite%22%3A%222022-02-09T10%3A36%3A20.809Z%22%2C%22mtime%22%3A1644402980811%2C%22pageviews%22%3A1%2C%22popups%22%3A%7B%7D%2C%22bars%22%3A%7B%7D%2C%22countdowns%22%3A%7B%7D%2C%22src%22%3Anull%2C%22utm%22%3A%7B%7D%2C%22testIp%22%3Anull%7D'}, {'domain': 'www.kidswoodlove.de', 'expiry': 1644489383, 'httpOnly': False, 'name': '_ssw_cart_data', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'eyJjYXJ0IjoiNmM1ZWM3Mjg3MzZmZTQxNzZkZTFmMmNjZDAwMWJjNzciLCJjYXJ0X3Rva2VuIjoiNmM1ZWM3Mjg3MzZmZTQxNzZkZTFmMmNjZDAwMWJjNzcifQ%3D%3D'}, {'domain': '.kidswoodlove.de', 'expiry': 1707474980, 'httpOnly': False, 'name': 'wisepops_props', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22cart%22%3A%7B%22item_count%22%3A0%2C%22total_price%22%3A0%7D%2C%22customer%22%3A%7B%22is_logged_in%22%3Afalse%2C%22total_spent%22%3A0%7D%7D'}, {'domain': 'www.kidswoodlove.de', 'expiry': 1646994983, 'httpOnly': False, 'name': 'hash_key', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '6203992737e7d109e64d4277'}, {'domain': 'www.kidswoodlove.de', 'expiry': 1645612580, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bd374a734f6164077c341749e9d490b5'}, {'domain': 'www.kidswoodlove.de', 'expiry': 1707474980, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MDI5ODEsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LmtpZHN3b29kbG92ZS5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQ0MDI5ODEsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LmtpZHN3b29kbG92ZS5kZS8ifX0='}, {'domain': 'www.kidswoodlove.de', 'expiry': 1645612580, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644402980'}, {'domain': 'www.kidswoodlove.de', 'expiry': 1645612580, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6c5ec728736fe4176de1f2ccd001bc77'}, {'domain': 'www.kidswoodlove.de', 'httpOnly': False, 'name': 'lsSema-Main JS Defer 26.8', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': ''}, {'domain': 'www.kidswoodlove.de', 'httpOnly': False, 'name': 'snize-recommendation', 'path': '/', 'secure': False, 'value': 'mkl3cnf08jo'}, {'domain': 'www.kidswoodlove.de', 'httpOnly': False, 'name': 'lsContextID', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'yBjiRFTXjUSelnU2KWwTzQ'}, {'domain': '.kidswoodlove.de', 'expiry': 1645612579, 'httpOnly': False, 'name': '__cmpcccu25760', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'aBPUI_tnAAgAzAGAAuACgBxIDywIOARJAILQQWhgtEJaJi0UlorLRcWjAA'}, {'domain': '.kidswoodlove.de', 'expiry': 1678098979, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '1e527be0899411ec9e9ebfc637ffeb6a'}, {'domain': '.kidswoodlove.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.kidswoodlove.de', 'expiry': 1675938990, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.kidswoodlove.de', 'expiry': 1644489379, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': '1e529e60899411eca2218d68dd5cfe48'}, {'domain': '.kidswoodlove.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A36%3A19.583Z'}, {'domain': '.kidswoodlove.de', 'expiry': 1675938980, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': '1x1hg50|1|eyu|0'}, {'domain': 'www.kidswoodlove.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kidswoodlove.de', 'expiry': 1652178978, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1258848878.1644402979'}, {'domain': 'www.kidswoodlove.de', 'expiry': 1645612590, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.kidswoodlove.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.kidswoodlove.de', 'expiry': 1645612580, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A2'}, {'domain': '.kidswoodlove.de', 'expiry': 1675938978, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': 'www.kidswoodlove.de', 'httpOnly': False, 'name': 'hesid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'e783da15-0115-0858-1b94-9629c5e3a5c7'}, {'domain': 'www.kidswoodlove.de', 'expiry': 1645612590, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.kidswoodlove.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A36%3A19.816Z'}, {'domain': '.kidswoodlove.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bc8af8cd-f584-4ba3-96ae-54237dda2cb1'}, {'domain': '.kidswoodlove.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2850651b-49c1-45d1-b313-14830bba68ef'}, {'domain': '.kidswoodlove.de', 'expiry': 1645612578, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kidswoodlove.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2850651b-49c1-45d1-b313-14830bba68ef'}, {'domain': '.kidswoodlove.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kidswoodlove.de', 'expiry': 1644489380, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': '132unl3|1644402980805|1|1|e.clarity.ms/collect'}, {'domain': '.kidswoodlove.de', 'expiry': 1675938978, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.kidswoodlove.de', 'expiry': 1707474980, 'httpOnly': False, 'name': 'wisepops_visits', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%5B%222022-02-09T10%3A36%3A20.809Z%22%5D'}, {'domain': '.kidswoodlove.de', 'expiry': 1644404790, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kidswoodlove.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.kidswoodlove.de', 'expiry': 1644405082, 'httpOnly': False, 'name': 'ssw_visitor', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'ssw_visitor1644402982937'}, {'domain': '.kidswoodlove.de', 'expiry': 1707474980, 'httpOnly': False, 'name': 'wisepops', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22csd%22%3A1%2C%22popups%22%3A%7B%7D%2C%22sub%22%3A0%2C%22ucrn%22%3A51%2C%22cid%22%3A%2242577%22%2C%22v%22%3A4%2C%22bandit%22%3A%7B%22recos%22%3A%7B%7D%7D%7D'}, {'domain': '.kidswoodlove.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bc8af8cd-f584-4ba3-96ae-54237dda2cb1'}]
+[Before] Cookie-Name 1: wisepops_session
+[Before] Cookie-Name 2: _ssw_cart_data
+[Before] Cookie-Name 3: wisepops_props
+[Before] Cookie-Name 4: hash_key
+[Before] Cookie-Name 5: cart_sig
+[Before] Cookie-Name 6: __kla_id
+[Before] Cookie-Name 7: cart_ts
+[Before] Cookie-Name 8: cart
+[Before] Cookie-Name 9: lsSema-Main JS Defer 26.8
+[Before] Cookie-Name 10: snize-recommendation
+[Before] Cookie-Name 11: lsContextID
+[Before] Cookie-Name 12: __cmpcccu25760
+[Before] Cookie-Name 13: _uetvid
+[Before] Cookie-Name 14: _shopify_sa_p
+[Before] Cookie-Name 15: secure_customer_sig
+[Before] Cookie-Name 16: _uetsid
+[Before] Cookie-Name 17: _shopify_d
+[Before] Cookie-Name 18: _clck
+[Before] Cookie-Name 19: _shopify_evids
+[Before] Cookie-Name 20: _gcl_au
+[Before] Cookie-Name 21: cart_currency
+[Before] Cookie-Name 22: _landing_page
+[Before] Cookie-Name 23: cart_ver
+[Before] Cookie-Name 24: _tracking_consent
+[Before] Cookie-Name 25: hesid
+[Before] Cookie-Name 26: localization
+[Before] Cookie-Name 27: _shopify_sa_t
+[Before] Cookie-Name 28: _s
+[Before] Cookie-Name 29: _shopify_y
+[Before] Cookie-Name 30: _shopify_tw
+[Before] Cookie-Name 31: _y
+[Before] Cookie-Name 32: _shopify_evids
+[Before] Cookie-Name 33: _clsk
+[Before] Cookie-Name 34: _shopify_m
+[Before] Cookie-Name 35: wisepops_visits
+[Before] Cookie-Name 36: _shopify_tm
+[Before] Cookie-Name 37: _orig_referrer
+[Before] Cookie-Name 38: ssw_visitor
+[Before] Cookie-Name 39: wisepops
+[Before] Cookie-Name 40: _shopify_s
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 40
+[After] Website-Cookies: [{'domain': '.kidswoodlove.de', 'httpOnly': False, 'name': 'wisepops_session', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22arrivalOnSite%22%3A%222022-02-09T10%3A36%3A20.809Z%22%2C%22mtime%22%3A1644402980811%2C%22pageviews%22%3A1%2C%22popups%22%3A%7B%7D%2C%22bars%22%3A%7B%7D%2C%22countdowns%22%3A%7B%7D%2C%22src%22%3Anull%2C%22utm%22%3A%7B%7D%2C%22testIp%22%3Anull%7D'}, {'domain': 'www.kidswoodlove.de', 'expiry': 1644489383, 'httpOnly': False, 'name': '_ssw_cart_data', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'eyJjYXJ0IjoiNmM1ZWM3Mjg3MzZmZTQxNzZkZTFmMmNjZDAwMWJjNzciLCJjYXJ0X3Rva2VuIjoiNmM1ZWM3Mjg3MzZmZTQxNzZkZTFmMmNjZDAwMWJjNzcifQ%3D%3D'}, {'domain': '.kidswoodlove.de', 'expiry': 1707474980, 'httpOnly': False, 'name': 'wisepops_props', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22cart%22%3A%7B%22item_count%22%3A0%2C%22total_price%22%3A0%7D%2C%22customer%22%3A%7B%22is_logged_in%22%3Afalse%2C%22total_spent%22%3A0%7D%7D'}, {'domain': 'www.kidswoodlove.de', 'expiry': 1646994983, 'httpOnly': False, 'name': 'hash_key', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '6203992737e7d109e64d4277'}, {'domain': 'www.kidswoodlove.de', 'expiry': 1645612580, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bd374a734f6164077c341749e9d490b5'}, {'domain': 'www.kidswoodlove.de', 'expiry': 1707474980, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MDI5ODEsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LmtpZHN3b29kbG92ZS5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQ0MDI5ODEsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LmtpZHN3b29kbG92ZS5kZS8ifX0='}, {'domain': 'www.kidswoodlove.de', 'expiry': 1645612580, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644402980'}, {'domain': 'www.kidswoodlove.de', 'expiry': 1645612580, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6c5ec728736fe4176de1f2ccd001bc77'}, {'domain': 'www.kidswoodlove.de', 'httpOnly': False, 'name': 'lsSema-Main JS Defer 26.8', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': ''}, {'domain': 'www.kidswoodlove.de', 'httpOnly': False, 'name': 'snize-recommendation', 'path': '/', 'secure': False, 'value': 'mkl3cnf08jo'}, {'domain': 'www.kidswoodlove.de', 'httpOnly': False, 'name': 'lsContextID', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'yBjiRFTXjUSelnU2KWwTzQ'}, {'domain': '.kidswoodlove.de', 'expiry': 1645612579, 'httpOnly': False, 'name': '__cmpcccu25760', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'aBPUI_tnAAgAzAGAAuACgBxIDywIOARJAILQQWhgtEJaJi0UlorLRcWjAA'}, {'domain': '.kidswoodlove.de', 'expiry': 1678098979, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '1e527be0899411ec9e9ebfc637ffeb6a'}, {'domain': '.kidswoodlove.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.kidswoodlove.de', 'expiry': 1675938990, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.kidswoodlove.de', 'expiry': 1644489379, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': '1e529e60899411eca2218d68dd5cfe48'}, {'domain': '.kidswoodlove.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A36%3A19.583Z'}, {'domain': '.kidswoodlove.de', 'expiry': 1675938980, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': '1x1hg50|1|eyu|0'}, {'domain': 'www.kidswoodlove.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kidswoodlove.de', 'expiry': 1652178978, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1258848878.1644402979'}, {'domain': 'www.kidswoodlove.de', 'expiry': 1645612590, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.kidswoodlove.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.kidswoodlove.de', 'expiry': 1645612580, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A2'}, {'domain': '.kidswoodlove.de', 'expiry': 1675938978, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': 'www.kidswoodlove.de', 'httpOnly': False, 'name': 'hesid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'e783da15-0115-0858-1b94-9629c5e3a5c7'}, {'domain': 'www.kidswoodlove.de', 'expiry': 1645612590, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.kidswoodlove.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A36%3A19.816Z'}, {'domain': '.kidswoodlove.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bc8af8cd-f584-4ba3-96ae-54237dda2cb1'}, {'domain': '.kidswoodlove.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2850651b-49c1-45d1-b313-14830bba68ef'}, {'domain': '.kidswoodlove.de', 'expiry': 1645612578, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kidswoodlove.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2850651b-49c1-45d1-b313-14830bba68ef'}, {'domain': '.kidswoodlove.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kidswoodlove.de', 'expiry': 1644489380, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': '132unl3|1644402980805|1|1|e.clarity.ms/collect'}, {'domain': '.kidswoodlove.de', 'expiry': 1675938978, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.kidswoodlove.de', 'expiry': 1707474980, 'httpOnly': False, 'name': 'wisepops_visits', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%5B%222022-02-09T10%3A36%3A20.809Z%22%5D'}, {'domain': '.kidswoodlove.de', 'expiry': 1644404790, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.kidswoodlove.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.kidswoodlove.de', 'expiry': 1644405082, 'httpOnly': False, 'name': 'ssw_visitor', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'ssw_visitor1644402982937'}, {'domain': '.kidswoodlove.de', 'expiry': 1707474980, 'httpOnly': False, 'name': 'wisepops', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22csd%22%3A1%2C%22popups%22%3A%7B%7D%2C%22sub%22%3A0%2C%22ucrn%22%3A51%2C%22cid%22%3A%2242577%22%2C%22v%22%3A4%2C%22bandit%22%3A%7B%22recos%22%3A%7B%7D%7D%7D'}, {'domain': '.kidswoodlove.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bc8af8cd-f584-4ba3-96ae-54237dda2cb1'}]
+[After] Cookie-Name 1: wisepops_session
+[After] Cookie-Name 2: _ssw_cart_data
+[After] Cookie-Name 3: wisepops_props
+[After] Cookie-Name 4: hash_key
+[After] Cookie-Name 5: cart_sig
+[After] Cookie-Name 6: __kla_id
+[After] Cookie-Name 7: cart_ts
+[After] Cookie-Name 8: cart
+[After] Cookie-Name 9: lsSema-Main JS Defer 26.8
+[After] Cookie-Name 10: snize-recommendation
+[After] Cookie-Name 11: lsContextID
+[After] Cookie-Name 12: __cmpcccu25760
+[After] Cookie-Name 13: _uetvid
+[After] Cookie-Name 14: _shopify_sa_p
+[After] Cookie-Name 15: secure_customer_sig
+[After] Cookie-Name 16: _uetsid
+[After] Cookie-Name 17: _shopify_d
+[After] Cookie-Name 18: _clck
+[After] Cookie-Name 19: _shopify_evids
+[After] Cookie-Name 20: _gcl_au
+[After] Cookie-Name 21: cart_currency
+[After] Cookie-Name 22: _landing_page
+[After] Cookie-Name 23: cart_ver
+[After] Cookie-Name 24: _tracking_consent
+[After] Cookie-Name 25: hesid
+[After] Cookie-Name 26: localization
+[After] Cookie-Name 27: _shopify_sa_t
+[After] Cookie-Name 28: _s
+[After] Cookie-Name 29: _shopify_y
+[After] Cookie-Name 30: _shopify_tw
+[After] Cookie-Name 31: _y
+[After] Cookie-Name 32: _shopify_evids
+[After] Cookie-Name 33: _clsk
+[After] Cookie-Name 34: _shopify_m
+[After] Cookie-Name 35: wisepops_visits
+[After] Cookie-Name 36: _shopify_tm
+[After] Cookie-Name 37: _orig_referrer
+[After] Cookie-Name 38: ssw_visitor
+[After] Cookie-Name 39: wisepops
+[After] Cookie-Name 40: _shopify_s
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _clck (Microsoft Clarity (User experience tool))
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _clsk (Microsoft Clarity (User experience tool))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

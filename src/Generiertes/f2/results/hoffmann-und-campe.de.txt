@@ -1,0 +1,88 @@
+Website 84: http://www.hoffmann-und-campe.de/ | Created: 09.02.2022 11:11:45 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 27
+[Before] Website-Cookies: [{'domain': 'hoffmann-und-campe.de', 'httpOnly': False, 'name': '__hssrc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'hoffmann-und-campe.de', 'expiry': 1678097496, 'httpOnly': False, 'name': '__hstc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '107012381.d5c7a521a76a5523ee4abb00ae4dfe55.1644401496760.1644401496760.1644401496760.1'}, {'domain': '.hoffmann-und-campe.de', 'expiry': 1644401555, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.hoffmann-und-campe.de', 'expiry': 1644401555, 'httpOnly': False, 'name': '_gat_gtag_UA_43976098_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.hoffmann-und-campe.de', 'expiry': 1644487895, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.412827755.1644401495'}, {'domain': 'hoffmann-und-campe.de', 'expiry': 1644403296, 'httpOnly': False, 'name': '__hssc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '107012381.1.1644401496761'}, {'domain': '.hoffmann-und-campe.de', 'expiry': 1707473495, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1554381013.1644401495'}, {'domain': 'hoffmann-und-campe.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.hoffmann-und-campe.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A11%3A35.373Z'}, {'domain': '.hoffmann-und-campe.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ef24f6d1-ec5d-4952-8eb3-3f789144a499'}, {'domain': '.hoffmann-und-campe.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ef24f6d1-ec5d-4952-8eb3-3f789144a499'}, {'domain': '.hoffmann-und-campe.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.hoffmann-und-campe.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.hoffmann-und-campe.de', 'expiry': 1645611094, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.hoffmann-und-campe.de', 'expiry': 1675937494, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': 'hoffmann-und-campe.de', 'expiry': 1675937494, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.hoffmann-und-campe.de', 'expiry': 1644403294, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.hoffmann-und-campe.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.hoffmann-und-campe.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '08cf3089-dab3-43f5-883a-00b814a8bb64'}, {'domain': '.hoffmann-und-campe.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '08cf3089-dab3-43f5-883a-00b814a8bb64'}, {'domain': '.hoffmann-und-campe.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A11%3A35.292Z'}, {'domain': 'hoffmann-und-campe.de', 'expiry': 1645611094, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': 'hoffmann-und-campe.de', 'expiry': 1645611094, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': 'hoffmann-und-campe.de', 'expiry': 1678097496, 'httpOnly': False, 'name': 'hubspotutk', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd5c7a521a76a5523ee4abb00ae4dfe55'}, {'domain': '.hoffmann-und-campe.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'hoffmann-und-campe.de', 'expiry': 1644405095, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.hoffmann-und-campe.de', 'expiry': 1675937494, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}]
+[Before] Cookie-Name 1: __hssrc
+[Before] Cookie-Name 2: __hstc
+[Before] Cookie-Name 3: _gat
+[Before] Cookie-Name 4: _gat_gtag_UA_43976098_1
+[Before] Cookie-Name 5: _gid
+[Before] Cookie-Name 6: __hssc
+[Before] Cookie-Name 7: _ga
+[Before] Cookie-Name 8: _shopify_evids
+[Before] Cookie-Name 9: _shopify_sa_t
+[Before] Cookie-Name 10: _shopify_y
+[Before] Cookie-Name 11: _y
+[Before] Cookie-Name 12: _shopify_evids
+[Before] Cookie-Name 13: _shopify_sa_p
+[Before] Cookie-Name 14: _shopify_tw
+[Before] Cookie-Name 15: _shopify_m
+[Before] Cookie-Name 16: secure_customer_sig
+[Before] Cookie-Name 17: _shopify_tm
+[Before] Cookie-Name 18: _landing_page
+[Before] Cookie-Name 19: _shopify_s
+[Before] Cookie-Name 20: _s
+[Before] Cookie-Name 21: _shopify_d
+[Before] Cookie-Name 22: localization
+[Before] Cookie-Name 23: cart_currency
+[Before] Cookie-Name 24: hubspotutk
+[Before] Cookie-Name 25: _orig_referrer
+[Before] Cookie-Name 26: shopify_pay_redirect
+[Before] Cookie-Name 27: _tracking_consent
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 28
+[After] Website-Cookies: [{'domain': 'hoffmann-und-campe.de', 'httpOnly': False, 'name': '__hssrc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'hoffmann-und-campe.de', 'expiry': 1678097496, 'httpOnly': False, 'name': '__hstc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '107012381.d5c7a521a76a5523ee4abb00ae4dfe55.1644401496760.1644401496760.1644401496760.1'}, {'domain': '.hoffmann-und-campe.de', 'expiry': 1644401555, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.hoffmann-und-campe.de', 'expiry': 1644401555, 'httpOnly': False, 'name': '_gat_gtag_UA_43976098_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.hoffmann-und-campe.de', 'expiry': 1644487911, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.412827755.1644401495'}, {'domain': 'hoffmann-und-campe.de', 'expiry': 1644403296, 'httpOnly': False, 'name': '__hssc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '107012381.1.1644401496761'}, {'domain': '.hoffmann-und-campe.de', 'expiry': 1707473511, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1554381013.1644401495'}, {'domain': 'hoffmann-und-campe.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.hoffmann-und-campe.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A11%3A35.373Z'}, {'domain': '.hoffmann-und-campe.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ef24f6d1-ec5d-4952-8eb3-3f789144a499'}, {'domain': '.hoffmann-und-campe.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ef24f6d1-ec5d-4952-8eb3-3f789144a499'}, {'domain': '.hoffmann-und-campe.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.hoffmann-und-campe.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.hoffmann-und-campe.de', 'expiry': 1645611094, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.hoffmann-und-campe.de', 'expiry': 1675937494, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': 'hoffmann-und-campe.de', 'expiry': 1675937494, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.hoffmann-und-campe.de', 'expiry': 1644403294, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.hoffmann-und-campe.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.hoffmann-und-campe.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '08cf3089-dab3-43f5-883a-00b814a8bb64'}, {'domain': '.hoffmann-und-campe.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '08cf3089-dab3-43f5-883a-00b814a8bb64'}, {'domain': '.hoffmann-und-campe.de', 'expiry': 1644401571, 'httpOnly': False, 'name': '_gat_UA-43976098-1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.hoffmann-und-campe.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A11%3A35.292Z'}, {'domain': 'hoffmann-und-campe.de', 'expiry': 1645611094, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': 'hoffmann-und-campe.de', 'expiry': 1645611094, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': 'hoffmann-und-campe.de', 'expiry': 1678097496, 'httpOnly': False, 'name': 'hubspotutk', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd5c7a521a76a5523ee4abb00ae4dfe55'}, {'domain': '.hoffmann-und-campe.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'hoffmann-und-campe.de', 'expiry': 1644405095, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.hoffmann-und-campe.de', 'expiry': 1675937494, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}]
+[After] Cookie-Name 1: __hssrc
+[After] Cookie-Name 2: __hstc
+[After] Cookie-Name 3: _gat
+[After] Cookie-Name 4: _gat_gtag_UA_43976098_1
+[After] Cookie-Name 5: _gid
+[After] Cookie-Name 6: __hssc
+[After] Cookie-Name 7: _ga
+[After] Cookie-Name 8: _shopify_evids
+[After] Cookie-Name 9: _shopify_sa_t
+[After] Cookie-Name 10: _shopify_y
+[After] Cookie-Name 11: _y
+[After] Cookie-Name 12: _shopify_evids
+[After] Cookie-Name 13: _shopify_sa_p
+[After] Cookie-Name 14: _shopify_tw
+[After] Cookie-Name 15: _shopify_m
+[After] Cookie-Name 16: secure_customer_sig
+[After] Cookie-Name 17: _shopify_tm
+[After] Cookie-Name 18: _landing_page
+[After] Cookie-Name 19: _shopify_s
+[After] Cookie-Name 20: _s
+[After] Cookie-Name 21: _gat_UA-43976098-1
+[After] Cookie-Name 22: _shopify_d
+[After] Cookie-Name 23: localization
+[After] Cookie-Name 24: cart_currency
+[After] Cookie-Name 25: hubspotutk
+[After] Cookie-Name 26: _orig_referrer
+[After] Cookie-Name 27: shopify_pay_redirect
+[After] Cookie-Name 28: _tracking_consent
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: __hssc (HubSpot (CRM-System))
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: hubspotutk (HubSpot (CRM-System))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: _gat_UA-43976098-1
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

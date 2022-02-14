@@ -1,0 +1,46 @@
+Website 51: http://www.eoxx-serum.de/ | Created: 10.02.2022 17:34:43 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 8
+[Before] Website-Cookies: [{'domain': 'www.eoxx-serum.de', 'expiry': 1644511006, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.eoxx-serum.de', 'expiry': 1644597286, 'httpOnly': False, 'name': '_shopify_shop_data', 'path': '/', 'secure': False, 'value': 'www.eoxx-serum.de'}, {'domain': '.eoxx-serum.de', 'expiry': 1644512686, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.eoxx-serum.de', 'expiry': 1644512686, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.eoxx-serum.de', 'expiry': 1676046886, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU56Vm1OR1JqWWprdE1ESTBPQzAwTkRVekxUbGlaVEF0TVdZellUWm1ZelV6TXpGbQ'}, {'domain': '.eoxx-serum.de', 'expiry': 1645720461, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.eoxx-serum.de', 'expiry': 1645720461, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.eoxx-serum.de', 'expiry': 1676046886, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _hjIncludedInPageviewSample
+[Before] Cookie-Name 2: _shopify_shop_data
+[Before] Cookie-Name 3: _hjFirstSeen
+[Before] Cookie-Name 4: _shopify_sa_p
+[Before] Cookie-Name 5: _pin_unauth
+[Before] Cookie-Name 6: _landing_page
+[Before] Cookie-Name 7: _orig_referrer
+[Before] Cookie-Name 8: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 3
+[After] Website-Cookies: [{'domain': '.eoxx-serum.de', 'expiry': 1645720461, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.eoxx-serum.de', 'expiry': 1645720461, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.eoxx-serum.de', 'expiry': 1676046889, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _landing_page
+[After] Cookie-Name 2: _orig_referrer
+[After] Cookie-Name 3: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _hjIncludedInPageviewSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 5
+[Difference] Cookie-Name: 1: _pin_unauth
+[Difference] Cookie-Name: 2: _shopify_shop_data
+[Difference] Cookie-Name: 3: _hjIncludedInPageviewSample
+[Difference] Cookie-Name: 4: _hjFirstSeen
+[Difference] Cookie-Name: 5: _shopify_sa_p
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

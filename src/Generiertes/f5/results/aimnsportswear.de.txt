@@ -1,0 +1,125 @@
+Website 328: http://www.aimnsportswear.de/ | Created: 09.02.2022 21:17:12 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 43
+[Before] Website-Cookies: [{'domain': '.www.aimnsportswear.de', 'expiry': 1675973824, 'httpOnly': False, 'name': 'swym-instrumentMap', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '{"ggjdnctURfC9LpN8YRgb4QXrPvV9pqoiFxzJWY0pk8FFSKtuNLfzZdh64XZVwZU3POP-8t_XtIDJsWZneNccsR0Tygyq3D4fxrMLn3zds4cR-3hrAWs_FJgsnUeLfEed6mCLa8GCMl_yBSTPbvvMh5RlCAsi2xAkkoBpw3fz9tw":{"rwgpqgbco3iovh9cz8rajr6gxk6u6wn6d6rhq5erl5k018yzl21fjxhf03vb1ipv":{"https://www.aimnsportswear.de/":{"1161":[{"ts":1644437824019}]}}}}'}, {'domain': '.aimnsportswear.de', 'httpOnly': False, 'name': 'ku1-sid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': 'lY-ZtLjBGqAWG0w3TtZep'}, {'domain': '.aimnsportswear.de', 'expiry': 1644439623, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': 'www.aimnsportswear.de', 'expiry': 1644437943, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.aimnsportswear.de', 'expiry': 1644439623, 'httpOnly': False, 'name': '_hjSession_2812150', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjFkNzA1YzYwLTcxMzUtNGY4MC05ZDllLWYxZTc3NjI1ZDAxMyIsImNyZWF0ZWQiOjE2NDQ0Mzc4MjMzMDIsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': 'www.aimnsportswear.de', 'expiry': 1644437943, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.aimnsportswear.de', 'expiry': 1675973823, 'httpOnly': False, 'name': '_hjSessionUser_2812150', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjIyM2EyN2QxLTk1ZmMtNWM2Ni04YWJmLTJiNTY4NDBhYzViZCIsImNyZWF0ZWQiOjE2NDQ0Mzc4MjMxODAsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.aimnsportswear.de', 'expiry': 1675973823, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU1XVmpNamN3WXpBdE1HRm1ZUzAwTkdVMUxXRTNaVGd0T1dKak9UaGpaamswT0RaaA'}, {'domain': '.aimnsportswear.de', 'expiry': 1644437883, 'httpOnly': False, 'name': '_gat_UA-71677502-1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.aimnsportswear.de', 'expiry': 1707509823, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1517444217.1644437823'}, {'domain': '.www.aimnsportswear.de', 'expiry': 1644439623, 'httpOnly': False, 'name': 'swym-o_s', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'true'}, {'domain': '.aimnsportswear.de', 'expiry': 1644439623, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.aimnsportswear.de', 'expiry': 1678624521, 'httpOnly': False, 'name': '_scid', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '509f29ed-9fd8-408b-b107-d58d04fa65fd'}, {'domain': '.aimnsportswear.de', 'expiry': 1644524223, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1967857659.1644437823'}, {'domain': '.www.aimnsportswear.de', 'expiry': 1644439625, 'httpOnly': False, 'name': 'swym-session-id', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"rwgpqgbco3iovh9cz8rajr6gxk6u6wn6d6rhq5erl5k018yzl21fjxhf03vb1ipv"'}, {'domain': 'www.aimnsportswear.de', 'expiry': 1645647422, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A2'}, {'domain': '.aimnsportswear.de', 'expiry': 1652213824, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644437823611.52093181'}, {'domain': 'www.aimnsportswear.de', 'expiry': 1645647422, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b4dae7ce632c00d360ac4c70ab5bd3a2'}, {'domain': '.aimnsportswear.de', 'expiry': 1652213822, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.286448148.1644437823'}, {'domain': '.www.aimnsportswear.de', 'expiry': 1675973823, 'httpOnly': False, 'name': 'swym-swymRegid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"ggjdnctURfC9LpN8YRgb4QXrPvV9pqoiFxzJWY0pk8FFSKtuNLfzZdh64XZVwZU3POP-8t_XtIDJsWZneNccsR0Tygyq3D4fxrMLn3zds4cR-3hrAWs_FJgsnUeLfEed6mCLa8GCMl_yBSTPbvvMh5RlCAsi2xAkkoBpw3fz9tw"'}, {'domain': 'www.aimnsportswear.de', 'expiry': 1645647422, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fa96dc00c29418e0c7f4a7075d36aed8'}, {'domain': '.www.aimnsportswear.de', 'httpOnly': False, 'name': 'PageCount', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.aimnsportswear.de', 'expiry': 1707509822, 'httpOnly': False, 'name': '_sp_id.7dc7', 'path': '/', 'secure': False, 'value': '3da71dcf72a0a386.1644437822.1.1644437823.1644437822'}, {'domain': '.www.aimnsportswear.de', 'expiry': 1675973824, 'httpOnly': False, 'name': 'swym-cu_ct', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'undefined'}, {'domain': 'www.aimnsportswear.de', 'expiry': 1644441422, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.aimnsportswear.de', 'expiry': 1645647421, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.aimnsportswear.de', 'expiry': 1644439622, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T20%3A17%3A02.189Z'}, {'domain': '.aimnsportswear.de', 'expiry': 1644439622, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.aimnsportswear.de', 'expiry': 1690571823, 'httpOnly': False, 'name': 'ku1-vid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': '84432da3-a191-abe1-20b3-d62ef23869d6'}, {'domain': '.aimnsportswear.de', 'expiry': 1644439624, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '63e96db7-2bb3-4c8f-8fd5-062b9bcf1cff'}, {'domain': '.www.aimnsportswear.de', 'expiry': 1675973823, 'httpOnly': False, 'name': 'swym-pid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"F+B3+xr8Ig0BnqN0+9kc3/BJWRsIut5hpl//k+4nxmo="'}, {'domain': '.aimnsportswear.de', 'expiry': 1675973824, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e0778dfe-0953-4abb-90a2-c92b54aed859'}, {'domain': '.aimnsportswear.de', 'expiry': 1707509823, 'httpOnly': False, 'name': '_ga_VZWPZ98Z09', 'path': '/', 'secure': False, 'value': 'GS1.1.1644437822.1.0.1644437822.0'}, {'domain': 'www.aimnsportswear.de', 'expiry': 1645647422, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644437823'}, {'domain': '.www.aimnsportswear.de', 'expiry': 1675973823, 'httpOnly': False, 'name': 'swym-email', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'null'}, {'domain': 'www.aimnsportswear.de', 'expiry': 1644439622, 'httpOnly': False, 'name': '_sp_ses.7dc7', 'path': '/', 'secure': False, 'value': '*'}, {'domain': 'www.aimnsportswear.de', 'expiry': 1675973824, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'www.aimnsportswear.de', 'expiry': 1645647422, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.aimnsportswear.de', 'expiry': 1645647421, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.aimnsportswear.de', 'expiry': 1675973824, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e0778dfe-0953-4abb-90a2-c92b54aed859'}, {'domain': 'www.aimnsportswear.de', 'expiry': 1645647424, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'www.aimnsportswear.de', 'expiry': 1707509823, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0Mzc4MjMsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LmFpbW5zcG9ydHN3ZWFyLmRlLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDQzNzgyMywidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly93d3cuYWltbnNwb3J0c3dlYXIuZGUvIn19'}, {'domain': '.aimnsportswear.de', 'expiry': 1644439624, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '63e96db7-2bb3-4c8f-8fd5-062b9bcf1cff'}]
+[Before] Cookie-Name 1: swym-instrumentMap
+[Before] Cookie-Name 2: ku1-sid
+[Before] Cookie-Name 3: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 4: _hjIncludedInPageviewSample
+[Before] Cookie-Name 5: _hjSession_2812150
+[Before] Cookie-Name 6: _hjIncludedInSessionSample
+[Before] Cookie-Name 7: _hjSessionUser_2812150
+[Before] Cookie-Name 8: _pin_unauth
+[Before] Cookie-Name 9: _gat_UA-71677502-1
+[Before] Cookie-Name 10: _ga
+[Before] Cookie-Name 11: swym-o_s
+[Before] Cookie-Name 12: _hjFirstSeen
+[Before] Cookie-Name 13: _scid
+[Before] Cookie-Name 14: _gid
+[Before] Cookie-Name 15: swym-session-id
+[Before] Cookie-Name 16: cart_ver
+[Before] Cookie-Name 17: _fbp
+[Before] Cookie-Name 18: cart_sig
+[Before] Cookie-Name 19: _gcl_au
+[Before] Cookie-Name 20: swym-swymRegid
+[Before] Cookie-Name 21: cart
+[Before] Cookie-Name 22: PageCount
+[Before] Cookie-Name 23: _sp_id.7dc7
+[Before] Cookie-Name 24: swym-cu_ct
+[Before] Cookie-Name 25: shopify_pay_redirect
+[Before] Cookie-Name 26: _orig_referrer
+[Before] Cookie-Name 27: _shopify_sa_t
+[Before] Cookie-Name 28: _shopify_sa_p
+[Before] Cookie-Name 29: ku1-vid
+[Before] Cookie-Name 30: _shopify_s
+[Before] Cookie-Name 31: swym-pid
+[Before] Cookie-Name 32: _shopify_y
+[Before] Cookie-Name 33: _ga_VZWPZ98Z09
+[Before] Cookie-Name 34: cart_ts
+[Before] Cookie-Name 35: swym-email
+[Before] Cookie-Name 36: _sp_ses.7dc7
+[Before] Cookie-Name 37: secure_customer_sig
+[Before] Cookie-Name 38: cart_currency
+[Before] Cookie-Name 39: _landing_page
+[Before] Cookie-Name 40: _y
+[Before] Cookie-Name 41: localization
+[Before] Cookie-Name 42: __kla_id
+[Before] Cookie-Name 43: _s
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 43
+[After] Website-Cookies: [{'domain': '.www.aimnsportswear.de', 'expiry': 1675973824, 'httpOnly': False, 'name': 'swym-instrumentMap', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '{"ggjdnctURfC9LpN8YRgb4QXrPvV9pqoiFxzJWY0pk8FFSKtuNLfzZdh64XZVwZU3POP-8t_XtIDJsWZneNccsR0Tygyq3D4fxrMLn3zds4cR-3hrAWs_FJgsnUeLfEed6mCLa8GCMl_yBSTPbvvMh5RlCAsi2xAkkoBpw3fz9tw":{"rwgpqgbco3iovh9cz8rajr6gxk6u6wn6d6rhq5erl5k018yzl21fjxhf03vb1ipv":{"https://www.aimnsportswear.de/":{"1161":[{"ts":1644437824019}]}}}}'}, {'domain': '.aimnsportswear.de', 'httpOnly': False, 'name': 'ku1-sid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': 'lY-ZtLjBGqAWG0w3TtZep'}, {'domain': '.aimnsportswear.de', 'expiry': 1644439623, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': 'www.aimnsportswear.de', 'expiry': 1644437943, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.aimnsportswear.de', 'expiry': 1644439623, 'httpOnly': False, 'name': '_hjSession_2812150', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjFkNzA1YzYwLTcxMzUtNGY4MC05ZDllLWYxZTc3NjI1ZDAxMyIsImNyZWF0ZWQiOjE2NDQ0Mzc4MjMzMDIsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': 'www.aimnsportswear.de', 'expiry': 1644437943, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.aimnsportswear.de', 'expiry': 1675973823, 'httpOnly': False, 'name': '_hjSessionUser_2812150', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjIyM2EyN2QxLTk1ZmMtNWM2Ni04YWJmLTJiNTY4NDBhYzViZCIsImNyZWF0ZWQiOjE2NDQ0Mzc4MjMxODAsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.aimnsportswear.de', 'expiry': 1675973823, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU1XVmpNamN3WXpBdE1HRm1ZUzAwTkdVMUxXRTNaVGd0T1dKak9UaGpaamswT0RaaA'}, {'domain': '.aimnsportswear.de', 'expiry': 1644437883, 'httpOnly': False, 'name': '_gat_UA-71677502-1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.aimnsportswear.de', 'expiry': 1707509823, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1517444217.1644437823'}, {'domain': '.www.aimnsportswear.de', 'expiry': 1644439623, 'httpOnly': False, 'name': 'swym-o_s', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'true'}, {'domain': '.aimnsportswear.de', 'expiry': 1644439623, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.aimnsportswear.de', 'expiry': 1678624521, 'httpOnly': False, 'name': '_scid', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '509f29ed-9fd8-408b-b107-d58d04fa65fd'}, {'domain': '.aimnsportswear.de', 'expiry': 1644524223, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1967857659.1644437823'}, {'domain': '.www.aimnsportswear.de', 'expiry': 1644439638, 'httpOnly': False, 'name': 'swym-session-id', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"rwgpqgbco3iovh9cz8rajr6gxk6u6wn6d6rhq5erl5k018yzl21fjxhf03vb1ipv"'}, {'domain': 'www.aimnsportswear.de', 'expiry': 1645647422, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A2'}, {'domain': '.aimnsportswear.de', 'expiry': 1652213838, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644437823611.52093181'}, {'domain': 'www.aimnsportswear.de', 'expiry': 1645647422, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b4dae7ce632c00d360ac4c70ab5bd3a2'}, {'domain': '.aimnsportswear.de', 'expiry': 1652213822, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.286448148.1644437823'}, {'domain': '.www.aimnsportswear.de', 'expiry': 1675973823, 'httpOnly': False, 'name': 'swym-swymRegid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"ggjdnctURfC9LpN8YRgb4QXrPvV9pqoiFxzJWY0pk8FFSKtuNLfzZdh64XZVwZU3POP-8t_XtIDJsWZneNccsR0Tygyq3D4fxrMLn3zds4cR-3hrAWs_FJgsnUeLfEed6mCLa8GCMl_yBSTPbvvMh5RlCAsi2xAkkoBpw3fz9tw"'}, {'domain': 'www.aimnsportswear.de', 'expiry': 1645647422, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fa96dc00c29418e0c7f4a7075d36aed8'}, {'domain': '.www.aimnsportswear.de', 'httpOnly': False, 'name': 'PageCount', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.aimnsportswear.de', 'expiry': 1707509822, 'httpOnly': False, 'name': '_sp_id.7dc7', 'path': '/', 'secure': False, 'value': '3da71dcf72a0a386.1644437822.1.1644437823.1644437822'}, {'domain': '.www.aimnsportswear.de', 'expiry': 1675973824, 'httpOnly': False, 'name': 'swym-cu_ct', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'undefined'}, {'domain': 'www.aimnsportswear.de', 'expiry': 1644441422, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.aimnsportswear.de', 'expiry': 1645647421, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.aimnsportswear.de', 'expiry': 1644439622, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T20%3A17%3A02.189Z'}, {'domain': '.aimnsportswear.de', 'expiry': 1644439622, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.aimnsportswear.de', 'expiry': 1690571823, 'httpOnly': False, 'name': 'ku1-vid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': '84432da3-a191-abe1-20b3-d62ef23869d6'}, {'domain': '.aimnsportswear.de', 'expiry': 1644439624, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '63e96db7-2bb3-4c8f-8fd5-062b9bcf1cff'}, {'domain': '.www.aimnsportswear.de', 'expiry': 1675973823, 'httpOnly': False, 'name': 'swym-pid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"F+B3+xr8Ig0BnqN0+9kc3/BJWRsIut5hpl//k+4nxmo="'}, {'domain': '.aimnsportswear.de', 'expiry': 1675973824, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e0778dfe-0953-4abb-90a2-c92b54aed859'}, {'domain': '.aimnsportswear.de', 'expiry': 1707509823, 'httpOnly': False, 'name': '_ga_VZWPZ98Z09', 'path': '/', 'secure': False, 'value': 'GS1.1.1644437822.1.0.1644437822.0'}, {'domain': 'www.aimnsportswear.de', 'expiry': 1645647422, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644437823'}, {'domain': '.www.aimnsportswear.de', 'expiry': 1675973823, 'httpOnly': False, 'name': 'swym-email', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'null'}, {'domain': 'www.aimnsportswear.de', 'expiry': 1644439622, 'httpOnly': False, 'name': '_sp_ses.7dc7', 'path': '/', 'secure': False, 'value': '*'}, {'domain': 'www.aimnsportswear.de', 'expiry': 1675973824, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'www.aimnsportswear.de', 'expiry': 1645647422, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.aimnsportswear.de', 'expiry': 1645647421, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.aimnsportswear.de', 'expiry': 1675973824, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e0778dfe-0953-4abb-90a2-c92b54aed859'}, {'domain': 'www.aimnsportswear.de', 'expiry': 1645647424, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'www.aimnsportswear.de', 'expiry': 1707509823, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0Mzc4MjMsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LmFpbW5zcG9ydHN3ZWFyLmRlLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDQzNzgyMywidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly93d3cuYWltbnNwb3J0c3dlYXIuZGUvIn19'}, {'domain': '.aimnsportswear.de', 'expiry': 1644439624, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '63e96db7-2bb3-4c8f-8fd5-062b9bcf1cff'}]
+[After] Cookie-Name 1: swym-instrumentMap
+[After] Cookie-Name 2: ku1-sid
+[After] Cookie-Name 3: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 4: _hjIncludedInPageviewSample
+[After] Cookie-Name 5: _hjSession_2812150
+[After] Cookie-Name 6: _hjIncludedInSessionSample
+[After] Cookie-Name 7: _hjSessionUser_2812150
+[After] Cookie-Name 8: _pin_unauth
+[After] Cookie-Name 9: _gat_UA-71677502-1
+[After] Cookie-Name 10: _ga
+[After] Cookie-Name 11: swym-o_s
+[After] Cookie-Name 12: _hjFirstSeen
+[After] Cookie-Name 13: _scid
+[After] Cookie-Name 14: _gid
+[After] Cookie-Name 15: swym-session-id
+[After] Cookie-Name 16: cart_ver
+[After] Cookie-Name 17: _fbp
+[After] Cookie-Name 18: cart_sig
+[After] Cookie-Name 19: _gcl_au
+[After] Cookie-Name 20: swym-swymRegid
+[After] Cookie-Name 21: cart
+[After] Cookie-Name 22: PageCount
+[After] Cookie-Name 23: _sp_id.7dc7
+[After] Cookie-Name 24: swym-cu_ct
+[After] Cookie-Name 25: shopify_pay_redirect
+[After] Cookie-Name 26: _orig_referrer
+[After] Cookie-Name 27: _shopify_sa_t
+[After] Cookie-Name 28: _shopify_sa_p
+[After] Cookie-Name 29: ku1-vid
+[After] Cookie-Name 30: _shopify_s
+[After] Cookie-Name 31: swym-pid
+[After] Cookie-Name 32: _shopify_y
+[After] Cookie-Name 33: _ga_VZWPZ98Z09
+[After] Cookie-Name 34: cart_ts
+[After] Cookie-Name 35: swym-email
+[After] Cookie-Name 36: _sp_ses.7dc7
+[After] Cookie-Name 37: secure_customer_sig
+[After] Cookie-Name 38: cart_currency
+[After] Cookie-Name 39: _landing_page
+[After] Cookie-Name 40: _y
+[After] Cookie-Name 41: localization
+[After] Cookie-Name 42: __kla_id
+[After] Cookie-Name 43: _s
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjIncludedInPageviewSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjIncludedInSessionSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

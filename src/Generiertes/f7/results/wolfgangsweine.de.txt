@@ -1,0 +1,52 @@
+Website 94: http://www.wolfgangsweine.de/ | Created: 10.02.2022 17:47:00 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 5
+[Before] Website-Cookies: [{'domain': '.wolfgangsweine.de', 'expiry': 1707583610, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1111681578.1644511611'}, {'domain': '.wolfgangsweine.de', 'expiry': 1676047613, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e6f85f18-8586-482f-978d-4096ba5c84cd'}, {'domain': '.wolfgangsweine.de', 'expiry': 1645721210, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.wolfgangsweine.de', 'expiry': 1645721210, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'wolfgangsweine.de', 'expiry': 1676047613, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _ga
+[Before] Cookie-Name 2: _y
+[Before] Cookie-Name 3: _landing_page
+[Before] Cookie-Name 4: _orig_referrer
+[Before] Cookie-Name 5: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 12
+[After] Website-Cookies: [{'domain': 'wolfgangsweine.de', 'expiry': 1647103625, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0NTExNjI1NjQ4LCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfX0='}, {'domain': 'wolfgangsweine.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T16%3A46%3A50.719Z'}, {'domain': 'wolfgangsweine.de', 'expiry': 1644598025, 'httpOnly': False, 'name': '_gid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'GA1.2.1042615255.1644511611'}, {'domain': 'wolfgangsweine.de', 'expiry': 1676047625, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e6f85f18-8586-482f-978d-4096ba5c84cd'}, {'domain': 'wolfgangsweine.de', 'expiry': 1676047613, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.wolfgangsweine.de', 'expiry': 1645721210, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'wolfgangsweine.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e5273537-0f38-470b-9c84-25705adaedf2'}, {'domain': 'wolfgangsweine.de', 'expiry': 1644598025, 'httpOnly': False, 'name': '_gat', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.wolfgangsweine.de', 'expiry': 1707583610, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1111681578.1644511611'}, {'domain': '.wolfgangsweine.de', 'expiry': 1676047613, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e6f85f18-8586-482f-978d-4096ba5c84cd'}, {'domain': 'wolfgangsweine.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e5273537-0f38-470b-9c84-25705adaedf2'}, {'domain': '.wolfgangsweine.de', 'expiry': 1645721210, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}]
+[After] Cookie-Name 1: _bc_c_set
+[After] Cookie-Name 2: _shopify_sa_t
+[After] Cookie-Name 3: _gid
+[After] Cookie-Name 4: _shopify_y
+[After] Cookie-Name 5: secure_customer_sig
+[After] Cookie-Name 6: _orig_referrer
+[After] Cookie-Name 7: _shopify_s
+[After] Cookie-Name 8: _gat
+[After] Cookie-Name 9: _ga
+[After] Cookie-Name 10: _y
+[After] Cookie-Name 11: _s
+[After] Cookie-Name 12: _landing_page
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 7
+[Difference] Cookie-Name: 1: _bc_c_set
+[Difference] Cookie-Name: 2: _shopify_y
+[Difference] Cookie-Name: 3: _gat
+[Difference] Cookie-Name: 4: _shopify_s
+[Difference] Cookie-Name: 5: _shopify_sa_t
+[Difference] Cookie-Name: 6: _gid
+[Difference] Cookie-Name: 7: _s
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

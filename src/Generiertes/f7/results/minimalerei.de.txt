@@ -1,0 +1,99 @@
+Website 202: http://www.minimalerei.de/ | Created: 10.02.2022 18:20:21 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 8
+[Before] Website-Cookies: [{'domain': 'www.minimalerei.de', 'expiry': 1645723211, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A2'}, {'domain': 'www.minimalerei.de', 'expiry': 1645723211, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644513611'}, {'domain': 'www.minimalerei.de', 'expiry': 1645723211, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6d45f1ea5eadf7ea412a34d7cde57fbb'}, {'domain': 'www.minimalerei.de', 'expiry': 1645723211, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '73838325542fb8bfb5127c6bac4f8eca'}, {'domain': '.minimalerei.de', 'expiry': 1645723210, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.minimalerei.de', 'expiry': 1645723210, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.minimalerei.de', 'expiry': 1645723213, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.minimalerei.de', 'expiry': 1676049612, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: cart_ver
+[Before] Cookie-Name 2: cart_ts
+[Before] Cookie-Name 3: cart_sig
+[Before] Cookie-Name 4: cart
+[Before] Cookie-Name 5: _landing_page
+[Before] Cookie-Name 6: _orig_referrer
+[Before] Cookie-Name 7: cart_currency
+[Before] Cookie-Name 8: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 38
+[After] Website-Cookies: [{'domain': 'www.minimalerei.de', 'expiry': 1676049627, 'httpOnly': False, 'name': 'apay-session-set', 'path': '/', 'secure': True, 'value': 'mH8y5TvJEZBEF2ZQZ%2BZ47%2BK6HktT3VwZeSP1J%2FQ5XTpt37oyRayGfzMo3T7ZXuE%3D'}, {'domain': 'www.minimalerei.de', 'expiry': 1644517227, 'httpOnly': False, 'name': 'language', 'path': '/', 'secure': False, 'value': 'de_DE'}, {'domain': '.minimalerei.de', 'expiry': 1652289627, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644513627267.1195051394'}, {'domain': '.minimalerei.de', 'expiry': 1644600027, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.386649800.1644513611'}, {'domain': 'www.minimalerei.de', 'httpOnly': False, 'name': 'bc_tgm_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.minimalerei.de', 'expiry': 1707585627, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.81494037.1644513611'}, {'domain': 'www.minimalerei.de', 'httpOnly': False, 'name': 'bc_tgm_ua', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.minimalerei.de', 'expiry': 1644515427, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f79b35cc-aa4b-4350-b8c7-ab3cc06842a8'}, {'domain': '.minimalerei.de', 'expiry': 1644515427, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f79b35cc-aa4b-4350-b8c7-ab3cc06842a8'}, {'domain': 'www.minimalerei.de', 'expiry': 1676049626, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '013c1daf-92f2-4809-8134-bfd82dbba48b'}, {'domain': 'www.minimalerei.de', 'httpOnly': False, 'name': 'dynamic_checkout_shown_on_cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.minimalerei.de', 'expiry': 1652289627, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1902830320.1644513627'}, {'domain': 'www.minimalerei.de', 'expiry': 1645723211, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '6d45f1ea5eadf7ea412a34d7cde57fbb'}, {'domain': 'www.minimalerei.de', 'expiry': 1647105626, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0NTEzNjI2OTUxLCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjowfX0='}, {'domain': 'www.minimalerei.de', 'httpOnly': False, 'name': 'soundestID', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '20220210172013-Z6jFBvo9i0ti8w6fMilrYlSvO5uoNx0UBU1Sp3ArAdXCeQBQo'}, {'domain': 'www.minimalerei.de', 'httpOnly': False, 'name': 'bc_tgm_aw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.minimalerei.de', 'expiry': 1645723210, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.minimalerei.de', 'expiry': 1707585626, 'httpOnly': False, 'name': '_ga', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'GA1.2.81494037.1644513611'}, {'domain': 'www.minimalerei.de', 'expiry': 1644600026, 'httpOnly': False, 'name': '_gid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'GA1.2.386649800.1644513611'}, {'domain': 'www.minimalerei.de', 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'www.minimalerei.de', 'expiry': 1644517227, 'httpOnly': False, 'name': 'amazon-pay-connectedAuth', 'path': '/', 'secure': False, 'value': 'connectedAuth_general'}, {'domain': 'www.minimalerei.de', 'httpOnly': False, 'name': '_gat', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.minimalerei.de', 'expiry': 1645723213, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.minimalerei.de', 'httpOnly': False, 'name': 'soundest-views', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.minimalerei.de', 'expiry': 1676049626, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '013c1daf-92f2-4809-8134-bfd82dbba48b'}, {'domain': 'www.minimalerei.de', 'expiry': 1645723211, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A2'}, {'domain': 'www.minimalerei.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f79b35cc-aa4b-4350-b8c7-ab3cc06842a8'}, {'domain': 'www.minimalerei.de', 'httpOnly': False, 'name': 'omnisendAnonymousID', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f4Jrc3BW0XrMHy-20220210172013'}, {'domain': 'www.minimalerei.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f79b35cc-aa4b-4350-b8c7-ab3cc06842a8'}, {'domain': '.minimalerei.de', 'expiry': 1644513687, 'httpOnly': False, 'name': '_gat_gtag_UA_161941835_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.minimalerei.de', 'httpOnly': False, 'name': 'omnisendSessionID', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'QoY4N2y8qXzJQJ-20220210172013'}, {'domain': 'www.minimalerei.de', 'expiry': 1645723211, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644513611'}, {'domain': 'www.minimalerei.de', 'httpOnly': False, 'name': 'omnisendCartProducts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '[]'}, {'domain': '.minimalerei.de', 'expiry': 1644515427, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A20%3A27.015Z'}, {'domain': 'www.minimalerei.de', 'expiry': 1645723211, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '73838325542fb8bfb5127c6bac4f8eca'}, {'domain': '.minimalerei.de', 'expiry': 1645723210, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.minimalerei.de', 'expiry': 1644515427, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.minimalerei.de', 'expiry': 1676049612, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: apay-session-set
+[After] Cookie-Name 2: language
+[After] Cookie-Name 3: _fbp
+[After] Cookie-Name 4: _gid
+[After] Cookie-Name 5: bc_tgm_fbp
+[After] Cookie-Name 6: _ga
+[After] Cookie-Name 7: bc_tgm_ua
+[After] Cookie-Name 8: _shopify_s
+[After] Cookie-Name 9: _s
+[After] Cookie-Name 10: _y
+[After] Cookie-Name 11: dynamic_checkout_shown_on_cart
+[After] Cookie-Name 12: _gcl_au
+[After] Cookie-Name 13: cart_sig
+[After] Cookie-Name 14: _bc_c_set
+[After] Cookie-Name 15: soundestID
+[After] Cookie-Name 16: bc_tgm_aw
+[After] Cookie-Name 17: _orig_referrer
+[After] Cookie-Name 18: _ga
+[After] Cookie-Name 19: _gid
+[After] Cookie-Name 20: localization
+[After] Cookie-Name 21: amazon-pay-connectedAuth
+[After] Cookie-Name 22: _gat
+[After] Cookie-Name 23: cart_currency
+[After] Cookie-Name 24: soundest-views
+[After] Cookie-Name 25: _shopify_y
+[After] Cookie-Name 26: cart_ver
+[After] Cookie-Name 27: _shopify_s
+[After] Cookie-Name 28: omnisendAnonymousID
+[After] Cookie-Name 29: _s
+[After] Cookie-Name 30: _gat_gtag_UA_161941835_1
+[After] Cookie-Name 31: omnisendSessionID
+[After] Cookie-Name 32: cart_ts
+[After] Cookie-Name 33: omnisendCartProducts
+[After] Cookie-Name 34: _shopify_sa_t
+[After] Cookie-Name 35: cart
+[After] Cookie-Name 36: _landing_page
+[After] Cookie-Name 37: _shopify_sa_p
+[After] Cookie-Name 38: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 26
+[Difference] Cookie-Name: 1: dynamic_checkout_shown_on_cart
+[Difference] Cookie-Name: 2: _bc_c_set
+[Difference] Cookie-Name: 3: language
+[Difference] Cookie-Name: 4: _gat_gtag_UA_161941835_1
+[Difference] Cookie-Name: 5: bc_tgm_fbp
+[Difference] Cookie-Name: 6: bc_tgm_aw
+[Difference] Cookie-Name: 7: _shopify_y
+[Difference] Cookie-Name: 8: bc_tgm_ua
+[Difference] Cookie-Name: 9: _shopify_sa_p
+[Difference] Cookie-Name: 10: localization
+[Difference] Cookie-Name: 11: soundest-views
+[Difference] Cookie-Name: 12: _ga
+[Difference] Cookie-Name: 13: _gcl_au
+[Difference] Cookie-Name: 14: apay-session-set
+[Difference] Cookie-Name: 15: _shopify_s
+[Difference] Cookie-Name: 16: _gid
+[Difference] Cookie-Name: 17: omnisendSessionID
+[Difference] Cookie-Name: 18: _shopify_sa_t
+[Difference] Cookie-Name: 19: _s
+[Difference] Cookie-Name: 20: _y
+[Difference] Cookie-Name: 21: _gat
+[Difference] Cookie-Name: 22: _fbp
+[Difference] Cookie-Name: 23: amazon-pay-connectedAuth
+[Difference] Cookie-Name: 24: omnisendCartProducts
+[Difference] Cookie-Name: 25: soundestID
+[Difference] Cookie-Name: 26: omnisendAnonymousID
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

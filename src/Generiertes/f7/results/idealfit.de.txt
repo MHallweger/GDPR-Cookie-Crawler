@@ -1,0 +1,106 @@
+Website 16: http://www.idealfit.de/ | Created: 10.02.2022 17:22:55 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 34
+[Before] Website-Cookies: [{'domain': '.idealfit.de', 'expiry': 1644511965, 'httpOnly': False, 'name': '_hjSession_641122', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjBmOWI3MWQzLTQ2OWUtNDlkYi1hZGI4LTUyYTlhOWMzZWFhNyIsImNyZWF0ZWQiOjE2NDQ1MTAxNjU4NTAsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': 'idealfit.de', 'expiry': 1707582165, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ1MTAxNjUsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vaWRlYWxmaXQuZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NTEwMTY1LCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL2lkZWFsZml0LmRlLyJ9fQ=='}, {'domain': 'idealfit.de', 'httpOnly': False, 'name': 'usb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.idealfit.de', 'expiry': 1644596564, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': '1oh9the|1644510164622|1|1|h.clarity.ms/collect'}, {'domain': '.idealfit.de', 'expiry': 1676046163, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': '14gtqfn|1|eyv|0'}, {'domain': '.idealfit.de', 'expiry': 1678206162, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': 'abf7f6008a8d11ec8e4751a63020b90a'}, {'domain': 'idealfit.de', 'expiry': 1770654162, 'httpOnly': False, 'name': '2c.cId', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '62053bd21d38c333a96cfbe4'}, {'domain': '.idealfit.de', 'expiry': 1645719762, 'httpOnly': False, 'name': '__cmpcccu15359', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'aBPUNFY8AAAAwAXABgAA'}, {'domain': '.idealfit.de', 'expiry': 1644511965, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.idealfit.de', 'expiry': 1652286162, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1257614669.1644510162'}, {'domain': '.idealfit.de', 'expiry': 1644596562, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': 'abf7ce508a8d11ec8d1d450ff4a6b125'}, {'domain': 'idealfit.de', 'expiry': 1644510285, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'idealfit.de', 'expiry': 1770654162, 'httpOnly': False, 'name': 'nostojs', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'autoload'}, {'domain': '.idealfit.de', 'expiry': 1645719762, 'httpOnly': False, 'name': '__cmpconsent15359', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'CPUKspgPUKspgAfGxBDECBCgAAAAAAAAAAigAAAAAAAA'}, {'domain': '.idealfit.de', 'expiry': 1644511965, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.idealfit.de', 'expiry': 1690644162, 'httpOnly': False, 'name': 'ku1-vid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': 'bc3f631f-d2c8-080f-8edc-918e4a655dea'}, {'domain': 'idealfit.de', 'expiry': 1644513765, 'httpOnly': False, 'name': 'scapp_now', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.idealfit.de', 'expiry': 1644511962, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T16%3A22%3A42.127Z'}, {'domain': '.idealfit.de', 'expiry': 1644510222, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.idealfit.de', 'expiry': 1644596562, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1061729665.1644510162'}, {'domain': '.idealfit.de', 'expiry': 1707582162, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1521298967.1644510162'}, {'domain': '.idealfit.de', 'expiry': 1644511973, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8bb92d31-1cdb-4018-a8c4-b42a5f71eae6'}, {'domain': '.idealfit.de', 'expiry': 1644511973, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8bb92d31-1cdb-4018-a8c4-b42a5f71eae6'}, {'domain': '.idealfit.de', 'expiry': 1676046173, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fd7c9834-152e-490c-beff-1d121b44ba64'}, {'domain': '.idealfit.de', 'expiry': 1645719761, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.idealfit.de', 'expiry': 1644511962, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.idealfit.de', 'expiry': 1676046173, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fd7c9834-152e-490c-beff-1d121b44ba64'}, {'domain': 'idealfit.de', 'expiry': 1644513765, 'httpOnly': False, 'name': 'scapp_next', 'path': '/', 'secure': False, 'value': '2'}, {'domain': 'idealfit.de', 'expiry': 1770654163, 'httpOnly': False, 'name': '2c.dc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%225cee5b533754c589ab8acfc3%22%3A%7B%22state%22%3A%22shown%22%2C%22campaignId%22%3A%22Hei%C3%9Fen%20Sie%20neue%20Besucher%20willkommen%22%7D%7D'}, {'domain': '.idealfit.de', 'expiry': 1652286163, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644510162497.352748849'}, {'domain': 'idealfit.de', 'expiry': 1676046173, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.idealfit.de', 'expiry': 1645719761, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.idealfit.de', 'expiry': 1676046165, 'httpOnly': False, 'name': '_hjSessionUser_641122', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjA0YjE2YTIwLWFlNjYtNWZhYi1iMjJlLWMwZjI5ZjgwZGEyYiIsImNyZWF0ZWQiOjE2NDQ1MTAxNjU3NTIsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.idealfit.de', 'httpOnly': False, 'name': 'ku1-sid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': 'FmKUhgEavpcEZyDSLV16N'}]
+[Before] Cookie-Name 1: _hjSession_641122
+[Before] Cookie-Name 2: __kla_id
+[Before] Cookie-Name 3: usb_previous_pathname
+[Before] Cookie-Name 4: _clsk
+[Before] Cookie-Name 5: _clck
+[Before] Cookie-Name 6: _uetvid
+[Before] Cookie-Name 7: 2c.cId
+[Before] Cookie-Name 8: __cmpcccu15359
+[Before] Cookie-Name 9: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 10: _gcl_au
+[Before] Cookie-Name 11: _uetsid
+[Before] Cookie-Name 12: _hjIncludedInPageviewSample
+[Before] Cookie-Name 13: nostojs
+[Before] Cookie-Name 14: __cmpconsent15359
+[Before] Cookie-Name 15: _hjFirstSeen
+[Before] Cookie-Name 16: ku1-vid
+[Before] Cookie-Name 17: scapp_now
+[Before] Cookie-Name 18: _shopify_sa_t
+[Before] Cookie-Name 19: _gat
+[Before] Cookie-Name 20: _gid
+[Before] Cookie-Name 21: _ga
+[Before] Cookie-Name 22: _s
+[Before] Cookie-Name 23: _shopify_s
+[Before] Cookie-Name 24: _shopify_y
+[Before] Cookie-Name 25: _landing_page
+[Before] Cookie-Name 26: _shopify_sa_p
+[Before] Cookie-Name 27: _y
+[Before] Cookie-Name 28: scapp_next
+[Before] Cookie-Name 29: 2c.dc
+[Before] Cookie-Name 30: _fbp
+[Before] Cookie-Name 31: secure_customer_sig
+[Before] Cookie-Name 32: _orig_referrer
+[Before] Cookie-Name 33: _hjSessionUser_641122
+[Before] Cookie-Name 34: ku1-sid
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 34
+[After] Website-Cookies: [{'domain': '.idealfit.de', 'expiry': 1676046180, 'httpOnly': False, 'name': '__cmpconsent15359', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'CPUKspgPUKspgAfGxBDECBCgAMEAAEEAAAigAAAAAAAA'}, {'domain': '.idealfit.de', 'expiry': 1644511965, 'httpOnly': False, 'name': '_hjSession_641122', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjBmOWI3MWQzLTQ2OWUtNDlkYi1hZGI4LTUyYTlhOWMzZWFhNyIsImNyZWF0ZWQiOjE2NDQ1MTAxNjU4NTAsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': 'idealfit.de', 'expiry': 1707582165, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ1MTAxNjUsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vaWRlYWxmaXQuZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NTEwMTY1LCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL2lkZWFsZml0LmRlLyJ9fQ=='}, {'domain': 'idealfit.de', 'httpOnly': False, 'name': 'usb_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.idealfit.de', 'expiry': 1644596564, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': '1oh9the|1644510164622|1|1|h.clarity.ms/collect'}, {'domain': 'idealfit.de', 'expiry': 1644513765, 'httpOnly': False, 'name': 'scapp_next', 'path': '/', 'secure': False, 'value': '2'}, {'domain': '.idealfit.de', 'expiry': 1652286180, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644510162497.352748849'}, {'domain': 'idealfit.de', 'expiry': 1770654163, 'httpOnly': False, 'name': '2c.dc', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%225cee5b533754c589ab8acfc3%22%3A%7B%22state%22%3A%22shown%22%2C%22campaignId%22%3A%22Hei%C3%9Fen%20Sie%20neue%20Besucher%20willkommen%22%7D%7D'}, {'domain': '.idealfit.de', 'expiry': 1676046163, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': '14gtqfn|1|eyv|0'}, {'domain': '.idealfit.de', 'expiry': 1644511965, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.idealfit.de', 'expiry': 1652286162, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1257614669.1644510162'}, {'domain': '.idealfit.de', 'expiry': 1644596562, 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'secure': False, 'value': 'abf7ce508a8d11ec8d1d450ff4a6b125'}, {'domain': 'idealfit.de', 'expiry': 1644510285, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'idealfit.de', 'expiry': 1770654162, 'httpOnly': False, 'name': 'nostojs', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'autoload'}, {'domain': '.idealfit.de', 'expiry': 1644511965, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.idealfit.de', 'expiry': 1690644162, 'httpOnly': False, 'name': 'ku1-vid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': 'bc3f631f-d2c8-080f-8edc-918e4a655dea'}, {'domain': 'idealfit.de', 'expiry': 1644513765, 'httpOnly': False, 'name': 'scapp_now', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.idealfit.de', 'expiry': 1644511962, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T16%3A22%3A42.127Z'}, {'domain': '.idealfit.de', 'expiry': 1644510222, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.idealfit.de', 'expiry': 1676046180, 'httpOnly': False, 'name': '__cmpcccu15359', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'aBPUNFbugAAKgABAAOAAuAC4AMAAaAA8ACgAFwAQQAvACHAcSA8sCDIEHAIkgWBAtmBcIE3YJ9QARRAA'}, {'domain': '.idealfit.de', 'expiry': 1678206162, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': 'abf7f6008a8d11ec8e4751a63020b90a'}, {'domain': 'idealfit.de', 'expiry': 1770654162, 'httpOnly': False, 'name': '2c.cId', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '62053bd21d38c333a96cfbe4'}, {'domain': '.idealfit.de', 'expiry': 1644596562, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1061729665.1644510162'}, {'domain': '.idealfit.de', 'expiry': 1707582162, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1521298967.1644510162'}, {'domain': '.idealfit.de', 'expiry': 1644511980, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8bb92d31-1cdb-4018-a8c4-b42a5f71eae6'}, {'domain': '.idealfit.de', 'expiry': 1644511980, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8bb92d31-1cdb-4018-a8c4-b42a5f71eae6'}, {'domain': '.idealfit.de', 'expiry': 1676046180, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fd7c9834-152e-490c-beff-1d121b44ba64'}, {'domain': '.idealfit.de', 'expiry': 1645719761, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.idealfit.de', 'expiry': 1644511962, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.idealfit.de', 'expiry': 1676046180, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fd7c9834-152e-490c-beff-1d121b44ba64'}, {'domain': 'idealfit.de', 'expiry': 1676046180, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.idealfit.de', 'expiry': 1645719761, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.idealfit.de', 'expiry': 1676046165, 'httpOnly': False, 'name': '_hjSessionUser_641122', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjA0YjE2YTIwLWFlNjYtNWZhYi1iMjJlLWMwZjI5ZjgwZGEyYiIsImNyZWF0ZWQiOjE2NDQ1MTAxNjU3NTIsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.idealfit.de', 'httpOnly': False, 'name': 'ku1-sid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': 'FmKUhgEavpcEZyDSLV16N'}]
+[After] Cookie-Name 1: __cmpconsent15359
+[After] Cookie-Name 2: _hjSession_641122
+[After] Cookie-Name 3: __kla_id
+[After] Cookie-Name 4: usb_previous_pathname
+[After] Cookie-Name 5: _clsk
+[After] Cookie-Name 6: scapp_next
+[After] Cookie-Name 7: _fbp
+[After] Cookie-Name 8: 2c.dc
+[After] Cookie-Name 9: _clck
+[After] Cookie-Name 10: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 11: _gcl_au
+[After] Cookie-Name 12: _uetsid
+[After] Cookie-Name 13: _hjIncludedInPageviewSample
+[After] Cookie-Name 14: nostojs
+[After] Cookie-Name 15: _hjFirstSeen
+[After] Cookie-Name 16: ku1-vid
+[After] Cookie-Name 17: scapp_now
+[After] Cookie-Name 18: _shopify_sa_t
+[After] Cookie-Name 19: _gat
+[After] Cookie-Name 20: __cmpcccu15359
+[After] Cookie-Name 21: _uetvid
+[After] Cookie-Name 22: 2c.cId
+[After] Cookie-Name 23: _gid
+[After] Cookie-Name 24: _ga
+[After] Cookie-Name 25: _s
+[After] Cookie-Name 26: _shopify_s
+[After] Cookie-Name 27: _shopify_y
+[After] Cookie-Name 28: _landing_page
+[After] Cookie-Name 29: _shopify_sa_p
+[After] Cookie-Name 30: _y
+[After] Cookie-Name 31: secure_customer_sig
+[After] Cookie-Name 32: _orig_referrer
+[After] Cookie-Name 33: _hjSessionUser_641122
+[After] Cookie-Name 34: ku1-sid
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _clsk (Microsoft Clarity (User experience tool))
+[Used before] Cookie-Name: _clck (Microsoft Clarity (User experience tool))
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+[Used before] Cookie-Name: _hjIncludedInPageviewSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

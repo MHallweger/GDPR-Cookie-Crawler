@@ -1,0 +1,78 @@
+Website 92: http://www.hiro.design/ | Created: 09.02.2022 20:01:15 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 22
+[Before] Website-Cookies: [{'domain': '.hiro.design', 'expiry': 1652209267, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644433266624.1730312326'}, {'domain': '.hiro.design', 'expiry': 1707505266, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.1.1777004944.1644433266'}, {'domain': 'hiro.design', 'expiry': 1645642865, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '43744faa2021557c582e397faf4009e9'}, {'domain': '.hiro.design', 'expiry': 1707505266, 'httpOnly': False, 'name': '_ga_FX414GJP06', 'path': '/', 'secure': False, 'value': 'GS1.1.1644433266.1.0.1644433266.0'}, {'domain': '.hiro.design', 'expiry': 1644519666, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1435997082.1644433266'}, {'domain': 'hiro.design', 'expiry': 1645642865, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644433266'}, {'domain': 'hiro.design', 'expiry': 1645642865, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '28f8060949c4bd60c092993fba80ba6b'}, {'domain': '.hiro.design', 'expiry': 1675969266, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU1XVmpNamN3WXpBdE1HRm1ZUzAwTkdVMUxXRTNaVGd0T1dKak9UaGpaamswT0RaaA'}, {'domain': '.hiro.design', 'expiry': 1644435066, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A01%3A06.168Z'}, {'domain': '.hiro.design', 'expiry': 1644435066, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd9d77aa1-1f7a-490c-9ac1-4df3618959ef'}, {'domain': '.hiro.design', 'expiry': 1675969266, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b86cffc5-cd07-4d44-a755-ab83852397ea'}, {'domain': '.hiro.design', 'expiry': 1675969266, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b86cffc5-cd07-4d44-a755-ab83852397ea'}, {'domain': '.hiro.design', 'expiry': 1644435066, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'hiro.design', 'expiry': 1645642865, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A2'}, {'domain': '.hiro.design', 'expiry': 1644435066, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd9d77aa1-1f7a-490c-9ac1-4df3618959ef'}, {'domain': '.hiro.design', 'expiry': 1645642865, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.hiro.design', 'expiry': 1645642865, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'hiro.design', 'expiry': 1675969265, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.hiro.design', 'expiry': 1675969266, 'httpOnly': False, 'name': 'customerly_jwt', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2N1c3RvbWVybHkuaW8iLCJqdGkiOiJhMmZkNTQ5YS04OWRhLTExZWMtODYwNi0wMjQyMGEwMDA0ODQiLCJpYXQiOjE2NDQ0MzMyNjcuMjAzMDU1LCJuYmYiOjE2NDQ0MzMyNjcuMjAzMDYsImV4cCI6MjYyMjc0MDQ2Ny4yMDMwNjMsInR5cGUiOjEsImFwcCI6IjRjYTEzMmMzIiwiaWQiOm51bGx9.yWOECr_7U8op_1-AHd_mxSj4XH5UwWo7OJpMXlExlSY'}, {'domain': 'hiro.design', 'expiry': 1645642865, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.hiro.design', 'expiry': 1644433326, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'hiro.design', 'expiry': 1645642865, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'IT'}]
+[Before] Cookie-Name 1: _fbp
+[Before] Cookie-Name 2: _ga
+[Before] Cookie-Name 3: cart_sig
+[Before] Cookie-Name 4: _ga_FX414GJP06
+[Before] Cookie-Name 5: _gid
+[Before] Cookie-Name 6: cart_ts
+[Before] Cookie-Name 7: cart
+[Before] Cookie-Name 8: _pin_unauth
+[Before] Cookie-Name 9: _shopify_sa_t
+[Before] Cookie-Name 10: _shopify_s
+[Before] Cookie-Name 11: _y
+[Before] Cookie-Name 12: _shopify_y
+[Before] Cookie-Name 13: _shopify_sa_p
+[Before] Cookie-Name 14: cart_ver
+[Before] Cookie-Name 15: _s
+[Before] Cookie-Name 16: _landing_page
+[Before] Cookie-Name 17: _orig_referrer
+[Before] Cookie-Name 18: secure_customer_sig
+[Before] Cookie-Name 19: customerly_jwt
+[Before] Cookie-Name 20: cart_currency
+[Before] Cookie-Name 21: _gat
+[Before] Cookie-Name 22: localization
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 22
+[After] Website-Cookies: [{'domain': '.hiro.design', 'expiry': 1652209267, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644433266624.1730312326'}, {'domain': '.hiro.design', 'expiry': 1707505266, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.1.1777004944.1644433266'}, {'domain': 'hiro.design', 'expiry': 1645642865, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '43744faa2021557c582e397faf4009e9'}, {'domain': '.hiro.design', 'expiry': 1707505266, 'httpOnly': False, 'name': '_ga_FX414GJP06', 'path': '/', 'secure': False, 'value': 'GS1.1.1644433266.1.0.1644433266.0'}, {'domain': '.hiro.design', 'expiry': 1644519666, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1435997082.1644433266'}, {'domain': 'hiro.design', 'expiry': 1645642865, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644433266'}, {'domain': 'hiro.design', 'expiry': 1645642865, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '28f8060949c4bd60c092993fba80ba6b'}, {'domain': '.hiro.design', 'expiry': 1675969266, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU1XVmpNamN3WXpBdE1HRm1ZUzAwTkdVMUxXRTNaVGd0T1dKak9UaGpaamswT0RaaA'}, {'domain': '.hiro.design', 'expiry': 1644435066, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T19%3A01%3A06.168Z'}, {'domain': '.hiro.design', 'expiry': 1644435066, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd9d77aa1-1f7a-490c-9ac1-4df3618959ef'}, {'domain': '.hiro.design', 'expiry': 1675969266, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b86cffc5-cd07-4d44-a755-ab83852397ea'}, {'domain': '.hiro.design', 'expiry': 1675969266, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b86cffc5-cd07-4d44-a755-ab83852397ea'}, {'domain': '.hiro.design', 'expiry': 1644435066, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'hiro.design', 'expiry': 1645642865, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A2'}, {'domain': '.hiro.design', 'expiry': 1644435066, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd9d77aa1-1f7a-490c-9ac1-4df3618959ef'}, {'domain': '.hiro.design', 'expiry': 1645642865, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.hiro.design', 'expiry': 1645642865, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'hiro.design', 'expiry': 1675969265, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.hiro.design', 'expiry': 1675969266, 'httpOnly': False, 'name': 'customerly_jwt', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2N1c3RvbWVybHkuaW8iLCJqdGkiOiJhMmZkNTQ5YS04OWRhLTExZWMtODYwNi0wMjQyMGEwMDA0ODQiLCJpYXQiOjE2NDQ0MzMyNjcuMjAzMDU1LCJuYmYiOjE2NDQ0MzMyNjcuMjAzMDYsImV4cCI6MjYyMjc0MDQ2Ny4yMDMwNjMsInR5cGUiOjEsImFwcCI6IjRjYTEzMmMzIiwiaWQiOm51bGx9.yWOECr_7U8op_1-AHd_mxSj4XH5UwWo7OJpMXlExlSY'}, {'domain': 'hiro.design', 'expiry': 1645642865, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.hiro.design', 'expiry': 1644433326, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'hiro.design', 'expiry': 1645642865, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'IT'}]
+[After] Cookie-Name 1: _fbp
+[After] Cookie-Name 2: _ga
+[After] Cookie-Name 3: cart_sig
+[After] Cookie-Name 4: _ga_FX414GJP06
+[After] Cookie-Name 5: _gid
+[After] Cookie-Name 6: cart_ts
+[After] Cookie-Name 7: cart
+[After] Cookie-Name 8: _pin_unauth
+[After] Cookie-Name 9: _shopify_sa_t
+[After] Cookie-Name 10: _shopify_s
+[After] Cookie-Name 11: _y
+[After] Cookie-Name 12: _shopify_y
+[After] Cookie-Name 13: _shopify_sa_p
+[After] Cookie-Name 14: cart_ver
+[After] Cookie-Name 15: _s
+[After] Cookie-Name 16: _landing_page
+[After] Cookie-Name 17: _orig_referrer
+[After] Cookie-Name 18: secure_customer_sig
+[After] Cookie-Name 19: customerly_jwt
+[After] Cookie-Name 20: cart_currency
+[After] Cookie-Name 21: _gat
+[After] Cookie-Name 22: localization
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+[Used before] Cookie-Name: _gat (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

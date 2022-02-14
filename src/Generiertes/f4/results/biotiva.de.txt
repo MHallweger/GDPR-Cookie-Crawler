@@ -1,0 +1,71 @@
+Website 380: http://www.biotiva.de/ | Created: 09.02.2022 19:06:16 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 8
+[Before] Website-Cookies: [{'domain': 'www.biotiva.de', 'expiry': 1675965972, 'httpOnly': False, 'name': 'Lead_Collection_Popup_aivaController_shown', 'path': '/', 'secure': False, 'value': '{"created":"2022-02-09T18:06:12.871Z","sessionStarted":"2022-02-09T18:06:12.871Z","numberOfVisits":1,"numberOfDisplays":1}'}, {'domain': 'www.biotiva.de', 'expiry': 1645639566, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A2'}, {'domain': 'www.biotiva.de', 'expiry': 1645639566, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f5a22b2fc4b0734eaeeb2a8c4e686d65'}, {'domain': 'www.biotiva.de', 'expiry': 1645639566, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644429966'}, {'domain': '.biotiva.de', 'expiry': 1645639563, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.biotiva.de', 'expiry': 1645639566, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '18dd4003c6f35ce5345556e2a73af25f'}, {'domain': '.biotiva.de', 'expiry': 1645639563, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.biotiva.de', 'expiry': 1675965967, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: Lead_Collection_Popup_aivaController_shown
+[Before] Cookie-Name 2: cart_ver
+[Before] Cookie-Name 3: cart_sig
+[Before] Cookie-Name 4: cart_ts
+[Before] Cookie-Name 5: _landing_page
+[Before] Cookie-Name 6: cart
+[Before] Cookie-Name 7: _orig_referrer
+[Before] Cookie-Name 8: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 22
+[After] Website-Cookies: [{'domain': '.biotiva.de', 'expiry': 1644516382, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.2112065477.1644429983'}, {'domain': 'www.biotiva.de', 'httpOnly': False, 'name': 'snize-recommendation', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cs0vx9rs9m5'}, {'domain': '.biotiva.de', 'expiry': 1644430042, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.biotiva.de', 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.biotiva.de', 'expiry': 1652205983, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644429982970.1006051252'}, {'domain': 'www.biotiva.de', 'expiry': 1644431782, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T18%3A06%3A04.293Z'}, {'domain': 'www.biotiva.de', 'expiry': 1675965982, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e1a57763-c9c9-4c9b-9efc-87edbc569a26'}, {'domain': '.biotiva.de', 'expiry': 1707501982, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.712518796.1644429983'}, {'domain': 'www.biotiva.de', 'expiry': 1644431782, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1998b639-bbdc-483d-9d3b-063c5cbb1e7c'}, {'domain': 'www.biotiva.de', 'expiry': 1675965972, 'httpOnly': False, 'name': 'Lead_Collection_Popup_aivaController_shown', 'path': '/', 'secure': False, 'value': '{"created":"2022-02-09T18:06:12.871Z","sessionStarted":"2022-02-09T18:06:12.871Z","numberOfVisits":1,"numberOfDisplays":1}'}, {'domain': 'www.biotiva.de', 'expiry': 1645639566, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A2'}, {'domain': 'www.biotiva.de', 'expiry': 1644431782, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1998b639-bbdc-483d-9d3b-063c5cbb1e7c'}, {'domain': 'www.biotiva.de', 'expiry': 1647021982, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0NDI5OTgyNTY2LCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjowfX0='}, {'domain': 'www.biotiva.de', 'expiry': 1675965967, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'www.biotiva.de', 'expiry': 1645639566, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f5a22b2fc4b0734eaeeb2a8c4e686d65'}, {'domain': 'www.biotiva.de', 'expiry': 1645639566, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644429966'}, {'domain': 'www.biotiva.de', 'httpOnly': False, 'name': 'ba-pr-id', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.biotiva.de', 'expiry': 1645639563, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.biotiva.de', 'expiry': 1675965982, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e1a57763-c9c9-4c9b-9efc-87edbc569a26'}, {'domain': 'www.biotiva.de', 'expiry': 1645639566, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '18dd4003c6f35ce5345556e2a73af25f'}, {'domain': '.biotiva.de', 'expiry': 1652205982, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1248426272.1644429983'}, {'domain': '.biotiva.de', 'expiry': 1645639563, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: _gid
+[After] Cookie-Name 2: snize-recommendation
+[After] Cookie-Name 3: _gat
+[After] Cookie-Name 4: localization
+[After] Cookie-Name 5: _fbp
+[After] Cookie-Name 6: _shopify_sa_t
+[After] Cookie-Name 7: _y
+[After] Cookie-Name 8: _ga
+[After] Cookie-Name 9: _s
+[After] Cookie-Name 10: Lead_Collection_Popup_aivaController_shown
+[After] Cookie-Name 11: cart_ver
+[After] Cookie-Name 12: _shopify_s
+[After] Cookie-Name 13: _bc_c_set
+[After] Cookie-Name 14: secure_customer_sig
+[After] Cookie-Name 15: cart_sig
+[After] Cookie-Name 16: cart_ts
+[After] Cookie-Name 17: ba-pr-id
+[After] Cookie-Name 18: _landing_page
+[After] Cookie-Name 19: _shopify_y
+[After] Cookie-Name 20: cart
+[After] Cookie-Name 21: _gcl_au
+[After] Cookie-Name 22: _orig_referrer
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 14
+[Difference] Cookie-Name: 1: ba-pr-id
+[Difference] Cookie-Name: 2: localization
+[Difference] Cookie-Name: 3: _gid
+[Difference] Cookie-Name: 4: snize-recommendation
+[Difference] Cookie-Name: 5: _gcl_au
+[Difference] Cookie-Name: 6: _gat
+[Difference] Cookie-Name: 7: _shopify_y
+[Difference] Cookie-Name: 8: _fbp
+[Difference] Cookie-Name: 9: _s
+[Difference] Cookie-Name: 10: _shopify_s
+[Difference] Cookie-Name: 11: _ga
+[Difference] Cookie-Name: 12: _y
+[Difference] Cookie-Name: 13: _shopify_sa_t
+[Difference] Cookie-Name: 14: _bc_c_set
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

@@ -1,0 +1,71 @@
+Website 241: http://www.schulzundschulz.de/ | Created: 09.02.2022 11:58:55 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 19
+[Before] Website-Cookies: [{'domain': 'schulzundschulz.de', 'expiry': 1645613927, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9128f27d303d7f239e1781dba31bee24'}, {'domain': '.schulzundschulz.de', 'expiry': 1652180327, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644404327333.1170445347'}, {'domain': '.schulzundschulz.de', 'expiry': 1707476327, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.563124503.1644404327'}, {'domain': '.schulzundschulz.de', 'expiry': 1644406127, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.schulzundschulz.de', 'expiry': 1644406127, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '227db029-7b02-4ca2-bd9c-6794a8d76932'}, {'domain': 'schulzundschulz.de', 'expiry': 1645613927, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': '.schulzundschulz.de', 'expiry': 1644490727, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.730699268.1644404327'}, {'domain': '.schulzundschulz.de', 'expiry': 1644406127, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '227db029-7b02-4ca2-bd9c-6794a8d76932'}, {'domain': 'schulzundschulz.de', 'expiry': 1645613927, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '41b44cfdc1c07456b2e943cd57867173'}, {'domain': '.schulzundschulz.de', 'expiry': 1675940327, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fcf43367-8b27-4213-b30d-3873ddbb25ea'}, {'domain': '.schulzundschulz.de', 'expiry': 1675940327, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fcf43367-8b27-4213-b30d-3873ddbb25ea'}, {'domain': 'schulzundschulz.de', 'expiry': 1645613927, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.schulzundschulz.de', 'expiry': 1645613926, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.schulzundschulz.de', 'expiry': 1644404387, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'schulzundschulz.de', 'expiry': 1645613927, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': '.schulzundschulz.de', 'expiry': 1644406127, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A58%3A47.094Z'}, {'domain': '.schulzundschulz.de', 'expiry': 1645613926, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'schulzundschulz.de', 'expiry': 1645613927, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644404327'}, {'domain': 'schulzundschulz.de', 'expiry': 1675940327, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: cart
+[Before] Cookie-Name 2: _fbp
+[Before] Cookie-Name 3: _ga
+[Before] Cookie-Name 4: _shopify_sa_p
+[Before] Cookie-Name 5: _shopify_s
+[Before] Cookie-Name 6: cart_ver
+[Before] Cookie-Name 7: _gid
+[Before] Cookie-Name 8: _s
+[Before] Cookie-Name 9: cart_sig
+[Before] Cookie-Name 10: _y
+[Before] Cookie-Name 11: _shopify_y
+[Before] Cookie-Name 12: cart_currency
+[Before] Cookie-Name 13: _orig_referrer
+[Before] Cookie-Name 14: _gat
+[Before] Cookie-Name 15: localization
+[Before] Cookie-Name 16: _shopify_sa_t
+[Before] Cookie-Name 17: _landing_page
+[Before] Cookie-Name 18: cart_ts
+[Before] Cookie-Name 19: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 19
+[After] Website-Cookies: [{'domain': 'schulzundschulz.de', 'expiry': 1645613927, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9128f27d303d7f239e1781dba31bee24'}, {'domain': '.schulzundschulz.de', 'expiry': 1652180327, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644404327333.1170445347'}, {'domain': '.schulzundschulz.de', 'expiry': 1707476327, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.563124503.1644404327'}, {'domain': '.schulzundschulz.de', 'expiry': 1644406127, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.schulzundschulz.de', 'expiry': 1644406127, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '227db029-7b02-4ca2-bd9c-6794a8d76932'}, {'domain': 'schulzundschulz.de', 'expiry': 1645613927, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': '.schulzundschulz.de', 'expiry': 1644490727, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.730699268.1644404327'}, {'domain': '.schulzundschulz.de', 'expiry': 1644406127, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '227db029-7b02-4ca2-bd9c-6794a8d76932'}, {'domain': 'schulzundschulz.de', 'expiry': 1645613927, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '41b44cfdc1c07456b2e943cd57867173'}, {'domain': '.schulzundschulz.de', 'expiry': 1675940327, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fcf43367-8b27-4213-b30d-3873ddbb25ea'}, {'domain': '.schulzundschulz.de', 'expiry': 1675940327, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fcf43367-8b27-4213-b30d-3873ddbb25ea'}, {'domain': 'schulzundschulz.de', 'expiry': 1645613927, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.schulzundschulz.de', 'expiry': 1645613926, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.schulzundschulz.de', 'expiry': 1644404387, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'schulzundschulz.de', 'expiry': 1645613927, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': '.schulzundschulz.de', 'expiry': 1644406127, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A58%3A47.094Z'}, {'domain': '.schulzundschulz.de', 'expiry': 1645613926, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'schulzundschulz.de', 'expiry': 1645613927, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644404327'}, {'domain': 'schulzundschulz.de', 'expiry': 1675940327, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: cart
+[After] Cookie-Name 2: _fbp
+[After] Cookie-Name 3: _ga
+[After] Cookie-Name 4: _shopify_sa_p
+[After] Cookie-Name 5: _shopify_s
+[After] Cookie-Name 6: cart_ver
+[After] Cookie-Name 7: _gid
+[After] Cookie-Name 8: _s
+[After] Cookie-Name 9: cart_sig
+[After] Cookie-Name 10: _y
+[After] Cookie-Name 11: _shopify_y
+[After] Cookie-Name 12: cart_currency
+[After] Cookie-Name 13: _orig_referrer
+[After] Cookie-Name 14: _gat
+[After] Cookie-Name 15: localization
+[After] Cookie-Name 16: _shopify_sa_t
+[After] Cookie-Name 17: _landing_page
+[After] Cookie-Name 18: cart_ts
+[After] Cookie-Name 19: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _gat (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

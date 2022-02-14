@@ -1,0 +1,51 @@
+Website 286: http://www.jutoba.de/ | Created: 08.02.2022 23:07:11 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 11
+[Before] Website-Cookies: [{'domain': '.jutoba.de', 'expiry': 1644359822, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.jutoba.de', 'expiry': 1644359822, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8f4cac24-dff8-4345-82b7-150a52356001'}, {'domain': '.jutoba.de', 'expiry': 1675894022, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5b2ea633-4932-4834-905d-93480b51d7cb'}, {'domain': '.jutoba.de', 'expiry': 1645567622, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2Fpassword'}, {'domain': '.jutoba.de', 'expiry': 1644359822, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T22%3A07%3A02.982Z'}, {'domain': '.jutoba.de', 'expiry': 1645567622, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.jutoba.de', 'expiry': 1644359822, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8f4cac24-dff8-4345-82b7-150a52356001'}, {'domain': 'jutoba.de', 'expiry': 1645567622, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.jutoba.de', 'expiry': 1675894022, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5b2ea633-4932-4834-905d-93480b51d7cb'}, {'domain': 'jutoba.de', 'expiry': 1645567622, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'jutoba.de', 'expiry': 1675894022, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _shopify_sa_p
+[Before] Cookie-Name 2: _shopify_s
+[Before] Cookie-Name 3: _shopify_y
+[Before] Cookie-Name 4: _landing_page
+[Before] Cookie-Name 5: _shopify_sa_t
+[Before] Cookie-Name 6: _orig_referrer
+[Before] Cookie-Name 7: _s
+[Before] Cookie-Name 8: cart_currency
+[Before] Cookie-Name 9: _y
+[Before] Cookie-Name 10: localization
+[Before] Cookie-Name 11: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 11
+[After] Website-Cookies: [{'domain': '.jutoba.de', 'expiry': 1644359822, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.jutoba.de', 'expiry': 1644359822, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8f4cac24-dff8-4345-82b7-150a52356001'}, {'domain': '.jutoba.de', 'expiry': 1675894022, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5b2ea633-4932-4834-905d-93480b51d7cb'}, {'domain': '.jutoba.de', 'expiry': 1645567622, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2Fpassword'}, {'domain': '.jutoba.de', 'expiry': 1644359822, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T22%3A07%3A02.982Z'}, {'domain': '.jutoba.de', 'expiry': 1645567622, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.jutoba.de', 'expiry': 1644359822, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8f4cac24-dff8-4345-82b7-150a52356001'}, {'domain': 'jutoba.de', 'expiry': 1645567622, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.jutoba.de', 'expiry': 1675894022, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5b2ea633-4932-4834-905d-93480b51d7cb'}, {'domain': 'jutoba.de', 'expiry': 1645567622, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'jutoba.de', 'expiry': 1675894022, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _shopify_sa_p
+[After] Cookie-Name 2: _shopify_s
+[After] Cookie-Name 3: _shopify_y
+[After] Cookie-Name 4: _landing_page
+[After] Cookie-Name 5: _shopify_sa_t
+[After] Cookie-Name 6: _orig_referrer
+[After] Cookie-Name 7: _s
+[After] Cookie-Name 8: cart_currency
+[After] Cookie-Name 9: _y
+[After] Cookie-Name 10: localization
+[After] Cookie-Name 11: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is NOT GDPR compliant!

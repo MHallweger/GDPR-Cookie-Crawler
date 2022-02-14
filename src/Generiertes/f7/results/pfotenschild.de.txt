@@ -1,0 +1,59 @@
+Website 272: http://www.pfotenschild.de/ | Created: 10.02.2022 18:40:43 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 4
+[Before] Website-Cookies: [{'domain': '.pfotenschild.de', 'expiry': 1645724433, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'pfotenschild.de', 'expiry': 1645724434, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.pfotenschild.de', 'expiry': 1645724433, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'pfotenschild.de', 'expiry': 1676050834, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _orig_referrer
+[Before] Cookie-Name 2: cart_currency
+[Before] Cookie-Name 3: _landing_page
+[Before] Cookie-Name 4: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 16
+[After] Website-Cookies: [{'domain': '.pfotenschild.de', 'expiry': 1644601249, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.358427391.1644514849'}, {'domain': '.pfotenschild.de', 'expiry': 1707586849, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.45905935.1644514849'}, {'domain': 'pfotenschild.de', 'expiry': 1647106848, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0NTE0ODQ4OTE1LCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjowfX0='}, {'domain': 'pfotenschild.de', 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ1MTQ4MzQsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vcGZvdGVuc2NoaWxkLmRlLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTY0NDUxNDgzNCwidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly9wZm90ZW5zY2hpbGQuZGUvIn19'}, {'domain': 'pfotenschild.de', 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'pfotenschild.de', 'expiry': 1676050848, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '483d150e-fcde-461e-a9ba-31267ec43003'}, {'domain': 'pfotenschild.de', 'expiry': 1676050848, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '483d150e-fcde-461e-a9ba-31267ec43003'}, {'domain': '.pfotenschild.de', 'expiry': 1644514909, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'pfotenschild.de', 'expiry': 1644516648, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A40%3A33.631Z'}, {'domain': 'pfotenschild.de', 'expiry': 1644516648, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f86e03b7-1e18-4570-9b5a-8ef01cb6e975'}, {'domain': '.pfotenschild.de', 'expiry': 1645724433, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.pfotenschild.de', 'expiry': 1652290849, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644514849257.293450994'}, {'domain': '.pfotenschild.de', 'expiry': 1645724433, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'pfotenschild.de', 'expiry': 1645724434, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'pfotenschild.de', 'expiry': 1644516648, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f86e03b7-1e18-4570-9b5a-8ef01cb6e975'}, {'domain': 'pfotenschild.de', 'expiry': 1676050834, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _gid
+[After] Cookie-Name 2: _ga
+[After] Cookie-Name 3: _bc_c_set
+[After] Cookie-Name 4: __kla_id
+[After] Cookie-Name 5: localization
+[After] Cookie-Name 6: _y
+[After] Cookie-Name 7: _shopify_y
+[After] Cookie-Name 8: _gat
+[After] Cookie-Name 9: _shopify_sa_t
+[After] Cookie-Name 10: _shopify_s
+[After] Cookie-Name 11: _orig_referrer
+[After] Cookie-Name 12: _fbp
+[After] Cookie-Name 13: _landing_page
+[After] Cookie-Name 14: cart_currency
+[After] Cookie-Name 15: _s
+[After] Cookie-Name 16: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 12
+[Difference] Cookie-Name: 1: _ga
+[Difference] Cookie-Name: 2: _bc_c_set
+[Difference] Cookie-Name: 3: _shopify_s
+[Difference] Cookie-Name: 4: _gid
+[Difference] Cookie-Name: 5: _shopify_sa_t
+[Difference] Cookie-Name: 6: _s
+[Difference] Cookie-Name: 7: _y
+[Difference] Cookie-Name: 8: _shopify_y
+[Difference] Cookie-Name: 9: _gat
+[Difference] Cookie-Name: 10: _fbp
+[Difference] Cookie-Name: 11: __kla_id
+[Difference] Cookie-Name: 12: localization
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

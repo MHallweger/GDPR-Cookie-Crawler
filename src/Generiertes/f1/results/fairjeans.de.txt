@@ -1,0 +1,98 @@
+Website 348: http://www.fairjeans.de/ | Created: 08.02.2022 23:24:58 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 27
+[Before] Website-Cookies: [{'domain': 'fairjeans.de', 'expiry': 1707431098, 'httpOnly': False, 'name': '_sp_id.6260', 'path': '/', 'secure': False, 'value': 'dae5aa30ac832f8a.1644359090.1.1644359098.1644359090'}, {'domain': 'fairjeans.de', 'expiry': 1675895089, 'httpOnly': False, 'name': 'optiMonkClientId', 'path': '/', 'secure': False, 'value': '6a657986-c062-2798-e531-e84936d7d897'}, {'domain': '.fairjeans.de', 'expiry': 1675895090, 'httpOnly': False, 'name': 'swym-cu_ct', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'undefined'}, {'domain': '.fairjeans.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '297c80a4-565f-45a6-81de-b67ba9bf97d6'}, {'domain': '.fairjeans.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '95d182b6-6f48-4b52-957b-5a1e278dccde'}, {'domain': '.fairjeans.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '95d182b6-6f48-4b52-957b-5a1e278dccde'}, {'domain': '.fairjeans.de', 'expiry': 1675895088, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.fairjeans.de', 'expiry': 1644360890, 'httpOnly': False, 'name': 'swym-session-id', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"046fdz2lxfvky6ob7u4gyiqqu1nw1y0zp85c9jb7k4whovcq2deit1m8nemq1x3t"'}, {'domain': 'fairjeans.de', 'expiry': 1675895089, 'httpOnly': False, 'name': 'po_visitor', 'path': '/', 'secure': False, 'value': 'n0eSHWxe3EqK'}, {'domain': '.fairjeans.de', 'expiry': 1644360890, 'httpOnly': False, 'name': 'swym-o_s', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'true'}, {'domain': '.fairjeans.de', 'expiry': 1644359148, 'httpOnly': False, 'name': '_gat_gtag_UA_49552222_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.fairjeans.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.fairjeans.de', 'expiry': 1652135088, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1312500003.1644359089'}, {'domain': '.fairjeans.de', 'expiry': 1675895089, 'httpOnly': False, 'name': 'swym-pid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"vkeZ6AZ1Ld6KQaYUIlNz7VqAkBo7QwsVxI08sAHYnG4="'}, {'domain': '.fairjeans.de', 'expiry': 1645568688, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.fairjeans.de', 'expiry': 1644360889, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.fairjeans.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '297c80a4-565f-45a6-81de-b67ba9bf97d6'}, {'domain': '.fairjeans.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'fairjeans.de', 'expiry': 1645568689, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'fairjeans.de', 'expiry': 1675895089, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': 'analytics%2Cfunctionality%2Cmarketing'}, {'domain': '.fairjeans.de', 'expiry': 1675895090, 'httpOnly': False, 'name': 'swym-swymRegid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"tfGalnR6ojf3oxQvfHUAS1LjFwZPQyqJsvBdbzerNBuPBxa0loK5iUxKJjvBWNIbnuGYXR9o-SgG1fMEmi7oqdbApTk89ZPzu-YU9pgwb8gsL24qFJQoev20Z7aptQEXjvtqONvLhPPh0Zzy4JqxuSAOS0I_P7mKd3RGSAwi3Ho"'}, {'domain': 'fairjeans.de', 'expiry': 1644360888, 'httpOnly': False, 'name': 'dynamic_checkout_shown_on_cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'fairjeans.de', 'expiry': 1645568689, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.fairjeans.de', 'expiry': 1675895088, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': '.fairjeans.de', 'expiry': 1675895090, 'httpOnly': False, 'name': 'swym-email', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'null'}, {'domain': 'fairjeans.de', 'expiry': 1644360898, 'httpOnly': False, 'name': '_sp_ses.6260', 'path': '/', 'secure': False, 'value': '*'}, {'domain': 'fairjeans.de', 'expiry': 1675895089, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _sp_id.6260
+[Before] Cookie-Name 2: optiMonkClientId
+[Before] Cookie-Name 3: swym-cu_ct
+[Before] Cookie-Name 4: _shopify_s
+[Before] Cookie-Name 5: _shopify_y
+[Before] Cookie-Name 6: _y
+[Before] Cookie-Name 7: _shopify_m
+[Before] Cookie-Name 8: swym-session-id
+[Before] Cookie-Name 9: po_visitor
+[Before] Cookie-Name 10: swym-o_s
+[Before] Cookie-Name 11: _gat_gtag_UA_49552222_1
+[Before] Cookie-Name 12: _orig_referrer
+[Before] Cookie-Name 13: _gcl_au
+[Before] Cookie-Name 14: swym-pid
+[Before] Cookie-Name 15: _shopify_tw
+[Before] Cookie-Name 16: _shopify_tm
+[Before] Cookie-Name 17: _s
+[Before] Cookie-Name 18: _landing_page
+[Before] Cookie-Name 19: localization
+[Before] Cookie-Name 20: cookieconsent_preferences_disabled
+[Before] Cookie-Name 21: swym-swymRegid
+[Before] Cookie-Name 22: dynamic_checkout_shown_on_cart
+[Before] Cookie-Name 23: cart_currency
+[Before] Cookie-Name 24: _tracking_consent
+[Before] Cookie-Name 25: swym-email
+[Before] Cookie-Name 26: _sp_ses.6260
+[Before] Cookie-Name 27: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 35
+[After] Website-Cookies: [{'domain': '.fairjeans.de', 'expiry': 1644359165, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.fairjeans.de', 'expiry': 1644445505, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.320177017.1644359105'}, {'domain': '.fairjeans.de', 'expiry': 1675895105, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%221%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%7D'}, {'domain': 'fairjeans.de', 'expiry': 1645568705, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '89115186a857bd388c97d3d7c11cd71b'}, {'domain': 'fairjeans.de', 'expiry': 1645568705, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd5fa274c85fec7587c4ff2ac429d0618'}, {'domain': 'fairjeans.de', 'expiry': 1707431105, 'httpOnly': False, 'name': '_sp_id.6260', 'path': '/', 'secure': False, 'value': 'dae5aa30ac832f8a.1644359090.1.1644359105.1644359090'}, {'domain': 'fairjeans.de', 'expiry': 1645568705, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644359105'}, {'domain': 'fairjeans.de', 'expiry': 1675895104, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': 'analytics%2Cfunctionality%2Cmarketing'}, {'domain': 'fairjeans.de', 'expiry': 1644360888, 'httpOnly': False, 'name': 'dynamic_checkout_shown_on_cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.fairjeans.de', 'expiry': 1675895090, 'httpOnly': False, 'name': 'swym-swymRegid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"tfGalnR6ojf3oxQvfHUAS1LjFwZPQyqJsvBdbzerNBuPBxa0loK5iUxKJjvBWNIbnuGYXR9o-SgG1fMEmi7oqdbApTk89ZPzu-YU9pgwb8gsL24qFJQoev20Z7aptQEXjvtqONvLhPPh0Zzy4JqxuSAOS0I_P7mKd3RGSAwi3Ho"'}, {'domain': 'fairjeans.de', 'expiry': 1675895089, 'httpOnly': False, 'name': 'optiMonkClientId', 'path': '/', 'secure': False, 'value': '6a657986-c062-2798-e531-e84936d7d897'}, {'domain': '.fairjeans.de', 'expiry': 1675895090, 'httpOnly': False, 'name': 'swym-cu_ct', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'undefined'}, {'domain': '.fairjeans.de', 'expiry': 1644360905, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '297c80a4-565f-45a6-81de-b67ba9bf97d6'}, {'domain': 'fairjeans.de', 'expiry': 1645568705, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': '.fairjeans.de', 'expiry': 1675895105, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '95d182b6-6f48-4b52-957b-5a1e278dccde'}, {'domain': '.fairjeans.de', 'expiry': 1675895105, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '95d182b6-6f48-4b52-957b-5a1e278dccde'}, {'domain': '.fairjeans.de', 'expiry': 1707431105, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.162046742.1644359089'}, {'domain': '.fairjeans.de', 'expiry': 1675895105, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': '.fairjeans.de', 'expiry': 1644360905, 'httpOnly': False, 'name': 'swym-session-id', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"046fdz2lxfvky6ob7u4gyiqqu1nw1y0zp85c9jb7k4whovcq2deit1m8nemq1x3t"'}, {'domain': 'fairjeans.de', 'expiry': 1675895089, 'httpOnly': False, 'name': 'po_visitor', 'path': '/', 'secure': False, 'value': 'n0eSHWxe3EqK'}, {'domain': '.fairjeans.de', 'expiry': 1644360890, 'httpOnly': False, 'name': 'swym-o_s', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'true'}, {'domain': '.fairjeans.de', 'expiry': 1644359148, 'httpOnly': False, 'name': '_gat_gtag_UA_49552222_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.fairjeans.de', 'expiry': 1645568705, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.fairjeans.de', 'expiry': 1652135088, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1312500003.1644359089'}, {'domain': '.fairjeans.de', 'expiry': 1675895089, 'httpOnly': False, 'name': 'swym-pid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"vkeZ6AZ1Ld6KQaYUIlNz7VqAkBo7QwsVxI08sAHYnG4="'}, {'domain': '.fairjeans.de', 'expiry': 1645568688, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'fairjeans.de', 'expiry': 1675895104, 'httpOnly': False, 'name': 'cookieconsent_status', 'path': '/', 'secure': False, 'value': 'allow'}, {'domain': '.fairjeans.de', 'expiry': 1644360905, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.fairjeans.de', 'expiry': 1644360905, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '297c80a4-565f-45a6-81de-b67ba9bf97d6'}, {'domain': '.fairjeans.de', 'expiry': 1645568705, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'fairjeans.de', 'expiry': 1645568705, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'fairjeans.de', 'expiry': 1644360905, 'httpOnly': False, 'name': '_sp_ses.6260', 'path': '/', 'secure': False, 'value': '*'}, {'domain': '.fairjeans.de', 'expiry': 1675895090, 'httpOnly': False, 'name': 'swym-email', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'null'}, {'domain': 'fairjeans.de', 'expiry': 1645568705, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'fairjeans.de', 'expiry': 1675895105, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _gat
+[After] Cookie-Name 2: _gid
+[After] Cookie-Name 3: _tracking_consent
+[After] Cookie-Name 4: cart_sig
+[After] Cookie-Name 5: cart
+[After] Cookie-Name 6: _sp_id.6260
+[After] Cookie-Name 7: cart_ts
+[After] Cookie-Name 8: cookieconsent_preferences_disabled
+[After] Cookie-Name 9: dynamic_checkout_shown_on_cart
+[After] Cookie-Name 10: swym-swymRegid
+[After] Cookie-Name 11: optiMonkClientId
+[After] Cookie-Name 12: swym-cu_ct
+[After] Cookie-Name 13: _shopify_s
+[After] Cookie-Name 14: cart_ver
+[After] Cookie-Name 15: _shopify_y
+[After] Cookie-Name 16: _y
+[After] Cookie-Name 17: _ga
+[After] Cookie-Name 18: _shopify_m
+[After] Cookie-Name 19: swym-session-id
+[After] Cookie-Name 20: po_visitor
+[After] Cookie-Name 21: swym-o_s
+[After] Cookie-Name 22: _gat_gtag_UA_49552222_1
+[After] Cookie-Name 23: _orig_referrer
+[After] Cookie-Name 24: _gcl_au
+[After] Cookie-Name 25: swym-pid
+[After] Cookie-Name 26: _shopify_tw
+[After] Cookie-Name 27: cookieconsent_status
+[After] Cookie-Name 28: _shopify_tm
+[After] Cookie-Name 29: _s
+[After] Cookie-Name 30: _landing_page
+[After] Cookie-Name 31: localization
+[After] Cookie-Name 32: _sp_ses.6260
+[After] Cookie-Name 33: swym-email
+[After] Cookie-Name 34: cart_currency
+[After] Cookie-Name 35: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 8
+[Difference] Cookie-Name: 1: _gid
+[Difference] Cookie-Name: 2: cart_ver
+[Difference] Cookie-Name: 3: cart_ts
+[Difference] Cookie-Name: 4: cart
+[Difference] Cookie-Name: 5: _ga
+[Difference] Cookie-Name: 6: cookieconsent_status
+[Difference] Cookie-Name: 7: _gat
+[Difference] Cookie-Name: 8: cart_sig
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

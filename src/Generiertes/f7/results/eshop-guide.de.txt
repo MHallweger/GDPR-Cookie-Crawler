@@ -1,0 +1,75 @@
+Website 294: http://www.eshop-guide.de/ | Created: 10.02.2022 18:46:42 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 19
+[Before] Website-Cookies: [{'domain': 'www.eshop-guide.de', 'expiry': 1644515312, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.eshop-guide.de', 'expiry': 1644516992, 'httpOnly': False, 'name': '_hjSession_746967', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImNlZDhlZWJhLTU3Y2QtNGNjYS05ZTE1LWRhYzRjNTkyNDI0MCIsImNyZWF0ZWQiOjE2NDQ1MTUxOTI2MDYsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': '.eshop-guide.de', 'expiry': 1644516992, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.eshop-guide.de', 'expiry': 1652291193, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644515192595.321816259'}, {'domain': '.eshop-guide.de', 'expiry': 1644515252, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.eshop-guide.de', 'expiry': 1644516992, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.eshop-guide.de', 'expiry': 1644516992, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.eshop-guide.de', 'expiry': 1644601592, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.52909477.1644515192'}, {'domain': '.eshop-guide.de', 'expiry': 1707587192, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1915488850.1644515192'}, {'domain': '.eshop-guide.de', 'expiry': 1644516992, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '66926e2f-d28e-45f5-9d97-4c99c14c276f'}, {'domain': '.eshop-guide.de', 'expiry': 1676051191, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5e0e9c3b-fdbf-4934-8edd-4af691b86f13'}, {'domain': '.eshop-guide.de', 'expiry': 1676051192, 'httpOnly': False, 'name': '_hjSessionUser_746967', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImUxOWFkZWJjLTdlM2UtNWJjYy1hMGM5LWM3NjAzMmNkYzJjMiIsImNyZWF0ZWQiOjE2NDQ1MTUxOTI1MzAsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.eshop-guide.de', 'expiry': 1644516992, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T17%3A46%3A32.443Z'}, {'domain': '.eshop-guide.de', 'expiry': 1644516992, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '66926e2f-d28e-45f5-9d97-4c99c14c276f'}, {'domain': '.eshop-guide.de', 'expiry': 1676051191, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5e0e9c3b-fdbf-4934-8edd-4af691b86f13'}, {'domain': '.eshop-guide.de', 'expiry': 1645724791, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.eshop-guide.de', 'expiry': 1644515312, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.eshop-guide.de', 'expiry': 1645724791, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.eshop-guide.de', 'expiry': 1676051191, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _hjIncludedInPageviewSample
+[Before] Cookie-Name 2: _hjSession_746967
+[Before] Cookie-Name 3: _hjFirstSeen
+[Before] Cookie-Name 4: _fbp
+[Before] Cookie-Name 5: _gat
+[Before] Cookie-Name 6: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 7: _shopify_sa_p
+[Before] Cookie-Name 8: _gid
+[Before] Cookie-Name 9: _ga
+[Before] Cookie-Name 10: _shopify_s
+[Before] Cookie-Name 11: _shopify_y
+[Before] Cookie-Name 12: _hjSessionUser_746967
+[Before] Cookie-Name 13: _shopify_sa_t
+[Before] Cookie-Name 14: _s
+[Before] Cookie-Name 15: _y
+[Before] Cookie-Name 16: _orig_referrer
+[Before] Cookie-Name 17: _hjIncludedInSessionSample
+[Before] Cookie-Name 18: _landing_page
+[Before] Cookie-Name 19: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 13
+[After] Website-Cookies: [{'domain': '.eshop-guide.de', 'expiry': 1644516992, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.eshop-guide.de', 'expiry': 1644516992, 'httpOnly': False, 'name': '_hjSession_746967', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImNlZDhlZWJhLTU3Y2QtNGNjYS05ZTE1LWRhYzRjNTkyNDI0MCIsImNyZWF0ZWQiOjE2NDQ1MTUxOTI2MDYsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': '.eshop-guide.de', 'expiry': 1645724791, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.eshop-guide.de', 'expiry': 1644515312, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.eshop-guide.de', 'expiry': 1676051192, 'httpOnly': False, 'name': '_hjSessionUser_746967', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImUxOWFkZWJjLTdlM2UtNWJjYy1hMGM5LWM3NjAzMmNkYzJjMiIsImNyZWF0ZWQiOjE2NDQ1MTUxOTI1MzAsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.eshop-guide.de', 'expiry': 1645724791, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.eshop-guide.de', 'expiry': 1707587192, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1915488850.1644515192'}, {'domain': '.eshop-guide.de', 'expiry': 1644601592, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.52909477.1644515192'}, {'domain': 'www.eshop-guide.de', 'expiry': 1644515312, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.eshop-guide.de', 'expiry': 1644516992, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.eshop-guide.de', 'expiry': 1644515252, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': 'www.eshop-guide.de', 'expiry': 1676051208, 'httpOnly': False, 'name': 'CookieConsent', 'path': '/', 'secure': True, 'value': '{stamp:%27bA8A/j2A+WcIbGJKq2sOMivB0LZ0jfjryeY0qWmbexPsFvs1ZKcbiQ==%27%2Cnecessary:true%2Cpreferences:true%2Cstatistics:true%2Cmarketing:false%2Cver:1%2Cutc:1644515208336%2Cregion:%27de%27}'}, {'domain': 'www.eshop-guide.de', 'expiry': 1676051191, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 2: _hjSession_746967
+[After] Cookie-Name 3: _landing_page
+[After] Cookie-Name 4: _hjIncludedInSessionSample
+[After] Cookie-Name 5: _hjSessionUser_746967
+[After] Cookie-Name 6: _orig_referrer
+[After] Cookie-Name 7: _ga
+[After] Cookie-Name 8: _gid
+[After] Cookie-Name 9: _hjIncludedInPageviewSample
+[After] Cookie-Name 10: _hjFirstSeen
+[After] Cookie-Name 11: _gat
+[After] Cookie-Name 12: CookieConsent
+[After] Cookie-Name 13: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _hjIncludedInPageviewSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _hjIncludedInSessionSample (Hotjar (User experience tool))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 8
+[Difference] Cookie-Name: 1: _shopify_s
+[Difference] Cookie-Name: 2: CookieConsent
+[Difference] Cookie-Name: 3: _shopify_sa_t
+[Difference] Cookie-Name: 4: _s
+[Difference] Cookie-Name: 5: _y
+[Difference] Cookie-Name: 6: _shopify_y
+[Difference] Cookie-Name: 7: _fbp
+[Difference] Cookie-Name: 8: _shopify_sa_p
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

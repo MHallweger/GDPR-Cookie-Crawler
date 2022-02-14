@@ -1,0 +1,108 @@
+Website 36: http://www.bandwerk.de/ | Created: 10.02.2022 12:23:26 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 16
+[Before] Website-Cookies: [{'domain': '.bandwerk.de', 'expiry': 1676028197, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': 'bandwerk.de', 'expiry': 1645701797, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd5cdd352d504d9573c9b76d198987a8e'}, {'domain': '.bandwerk.de', 'expiry': 1707564197, 'httpOnly': False, 'name': 'wisepops_visits', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%5B%222022-02-10T11%3A23%3A17.181Z%22%5D'}, {'domain': '.bandwerk.de', 'httpOnly': False, 'name': 'wisepops_session', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22arrivalOnSite%22%3A%222022-02-10T11%3A23%3A17.181Z%22%2C%22mtime%22%3A1644492197182%2C%22pageviews%22%3A1%2C%22popups%22%3A%7B%7D%2C%22bars%22%3A%7B%7D%2C%22countdowns%22%3A%7B%7D%2C%22src%22%3Anull%2C%22utm%22%3A%7B%7D%2C%22testIp%22%3Anull%7D'}, {'domain': 'bandwerk.de', 'expiry': 1676028197, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.bandwerk.de', 'expiry': 1707564197, 'httpOnly': False, 'name': 'wisepops_props', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22cart%22%3A%7B%22item_count%22%3A0%2C%22total_price%22%3A0%7D%2C%22customer%22%3A%7B%22is_logged_in%22%3Afalse%2C%22total_spent%22%3A0%7D%7D'}, {'domain': '.bandwerk.de', 'expiry': 1645701797, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.bandwerk.de', 'expiry': 1645701794, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.bandwerk.de', 'expiry': 1644493997, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'bandwerk.de', 'expiry': 1644495796, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.bandwerk.de', 'expiry': 1645701797, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'bandwerk.de', 'expiry': 1644493994, 'httpOnly': False, 'name': '_shopify_country', 'path': '/', 'secure': False, 'value': 'Germany'}, {'domain': 'bandwerk.de', 'expiry': 1645701797, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.bandwerk.de', 'expiry': 1707564197, 'httpOnly': False, 'name': 'wisepops', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22csd%22%3A1%2C%22popups%22%3A%7B%7D%2C%22sub%22%3A0%2C%22ucrn%22%3A88%2C%22cid%22%3A%2254770%22%2C%22v%22%3A4%2C%22bandit%22%3A%7B%22recos%22%3A%7B%7D%7D%7D'}, {'domain': '.bandwerk.de', 'expiry': 1676028197, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%2C%22CCPA%22%3A%221%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%7D'}, {'domain': 'bandwerk.de', 'expiry': 1645096996, 'httpOnly': False, 'name': 'redirect_geolocation', 'path': '/', 'secure': False, 'value': '{%22continentCode%22:%22EU%22%2C%22continentName%22:%22Europe%22%2C%22countryCode%22:%22DE%22%2C%22countryName%22:%22Germany%22}'}]
+[Before] Cookie-Name 1: _shopify_m
+[Before] Cookie-Name 2: cart_sig
+[Before] Cookie-Name 3: wisepops_visits
+[Before] Cookie-Name 4: wisepops_session
+[Before] Cookie-Name 5: secure_customer_sig
+[Before] Cookie-Name 6: wisepops_props
+[Before] Cookie-Name 7: _orig_referrer
+[Before] Cookie-Name 8: _shopify_tw
+[Before] Cookie-Name 9: _shopify_tm
+[Before] Cookie-Name 10: shopify_pay_redirect
+[Before] Cookie-Name 11: _landing_page
+[Before] Cookie-Name 12: _shopify_country
+[Before] Cookie-Name 13: cart_currency
+[Before] Cookie-Name 14: wisepops
+[Before] Cookie-Name 15: _tracking_consent
+[Before] Cookie-Name 16: redirect_geolocation
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 43
+[After] Website-Cookies: [{'domain': 'bandwerk.de', 'expiry': 1645701813, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-east1%3A1'}, {'domain': 'bandwerk.de', 'expiry': 1645701813, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9a8b785bc0e3d1654670a2fb8efb37da'}, {'domain': 'bandwerk.de', 'expiry': 1645701813, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '69ef47173f5bc2d59d7eeb3f18ef80f9'}, {'domain': '.bandwerk.de', 'expiry': 1707564212, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1211144686.1644492212'}, {'domain': '.bandwerk.de', 'expiry': 1652268212, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1767735152.1644492212'}, {'domain': '.bandwerk.de', 'expiry': 1676028212, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.bandwerk.de', 'expiry': 1644492272, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.bandwerk.de', 'expiry': 1676028212, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%7D'}, {'domain': '.bandwerk.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3409133f-7461-49c6-8151-65b412023314'}, {'domain': '.bandwerk.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3409133f-7461-49c6-8151-65b412023314'}, {'domain': '.bandwerk.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.bandwerk.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.bandwerk.de', 'expiry': 1676028211, 'httpOnly': False, 'name': 'ajs_anonymous_id', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%22734bea48-6613-4711-be1e-b7a842c45b99%22'}, {'domain': '.bandwerk.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '227627d2-d5ef-4937-95fc-a19a37b53a88'}, {'domain': 'bandwerk.de', 'expiry': 1647084211, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0NDkyMjExNjY4LCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjowfX0='}, {'domain': 'bandwerk.de', 'expiry': 1676028211, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3409133f-7461-49c6-8151-65b412023314'}, {'domain': 'bandwerk.de', 'expiry': 1645096996, 'httpOnly': False, 'name': 'redirect_geolocation', 'path': '/', 'secure': False, 'value': '{%22continentCode%22:%22EU%22%2C%22continentName%22:%22Europe%22%2C%22countryCode%22:%22DE%22%2C%22countryName%22:%22Germany%22}'}, {'domain': 'bandwerk.de', 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ba9b7264-376b-4868-b098-af566ec670c7'}, {'domain': '.bandwerk.de', 'expiry': 1645701794, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.bandwerk.de', 'expiry': 1707564197, 'httpOnly': False, 'name': 'wisepops_visits', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%5B%222022-02-10T11%3A23%3A17.181Z%22%5D'}, {'domain': '.bandwerk.de', 'expiry': 1707564197, 'httpOnly': False, 'name': 'wisepops_props', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22cart%22%3A%7B%22item_count%22%3A0%2C%22total_price%22%3A0%7D%2C%22customer%22%3A%7B%22is_logged_in%22%3Afalse%2C%22total_spent%22%3A0%7D%7D'}, {'domain': '.bandwerk.de', 'httpOnly': False, 'name': 'wisepops_session', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22arrivalOnSite%22%3A%222022-02-10T11%3A23%3A17.181Z%22%2C%22mtime%22%3A1644492197182%2C%22pageviews%22%3A1%2C%22popups%22%3A%7B%7D%2C%22bars%22%3A%7B%7D%2C%22countdowns%22%3A%7B%7D%2C%22src%22%3Anull%2C%22utm%22%3A%7B%7D%2C%22testIp%22%3Anull%7D'}, {'domain': 'bandwerk.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'bandwerk.de', 'expiry': 1676028213, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'bandwerk.de', 'expiry': 1644495796, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.bandwerk.de', 'expiry': 1645701812, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.bandwerk.de', 'expiry': 1652268212, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644492212436.190423744'}, {'domain': '.bandwerk.de', 'expiry': 1707564197, 'httpOnly': False, 'name': 'wisepops', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22csd%22%3A1%2C%22popups%22%3A%7B%7D%2C%22sub%22%3A0%2C%22ucrn%22%3A88%2C%22cid%22%3A%2254770%22%2C%22v%22%3A4%2C%22bandit%22%3A%7B%22recos%22%3A%7B%7D%7D%7D'}, {'domain': '.bandwerk.de', 'expiry': 1644494013, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.bandwerk.de', 'expiry': 1645701812, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'bandwerk.de', 'expiry': 1645701813, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644492213'}, {'domain': 'bandwerk.de', 'expiry': 1644494011, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '227627d2-d5ef-4937-95fc-a19a37b53a88'}, {'domain': 'bandwerk.de', 'expiry': 1644493994, 'httpOnly': False, 'name': '_shopify_country', 'path': '/', 'secure': False, 'value': 'Germany'}, {'domain': 'bandwerk.de', 'expiry': 1645701813, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'bandwerk.de', 'expiry': 1645701813, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.bandwerk.de', 'expiry': 1644578612, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1014386319.1644492212'}, {'domain': 'bandwerk.de', 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5624e17a-9dd3-4c0e-9de5-196be4df24ba'}, {'domain': '.bandwerk.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T11%3A23%3A31.738Z'}, {'domain': 'bandwerk.de', 'expiry': 1676028211, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3409133f-7461-49c6-8151-65b412023314'}, {'domain': '.bandwerk.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T11%3A23%3A31.782Z'}, {'domain': 'bandwerk.de', 'expiry': 1644494011, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '227627d2-d5ef-4937-95fc-a19a37b53a88'}, {'domain': '.bandwerk.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '227627d2-d5ef-4937-95fc-a19a37b53a88'}, {'domain': 'bandwerk.de', 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0OTIxOTcsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vYmFuZHdlcmsuZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NDkyMTk3LCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL2JhbmR3ZXJrLmRlLyJ9fQ=='}]
+[After] Cookie-Name 1: cart_ver
+[After] Cookie-Name 2: cart_sig
+[After] Cookie-Name 3: cart
+[After] Cookie-Name 4: _ga
+[After] Cookie-Name 5: _gcl_au
+[After] Cookie-Name 6: _shopify_m
+[After] Cookie-Name 7: _gat
+[After] Cookie-Name 8: _tracking_consent
+[After] Cookie-Name 9: _shopify_y
+[After] Cookie-Name 10: _y
+[After] Cookie-Name 11: _shopify_sa_p
+[After] Cookie-Name 12: _shopify_evids
+[After] Cookie-Name 13: ajs_anonymous_id
+[After] Cookie-Name 14: _shopify_s
+[After] Cookie-Name 15: _bc_c_set
+[After] Cookie-Name 16: _y
+[After] Cookie-Name 17: redirect_geolocation
+[After] Cookie-Name 18: _shg_session_id
+[After] Cookie-Name 19: _shopify_tw
+[After] Cookie-Name 20: wisepops_visits
+[After] Cookie-Name 21: wisepops_props
+[After] Cookie-Name 22: wisepops_session
+[After] Cookie-Name 23: _shopify_evids
+[After] Cookie-Name 24: secure_customer_sig
+[After] Cookie-Name 25: shopify_pay_redirect
+[After] Cookie-Name 26: _orig_referrer
+[After] Cookie-Name 27: _fbp
+[After] Cookie-Name 28: wisepops
+[After] Cookie-Name 29: _shopify_tm
+[After] Cookie-Name 30: _landing_page
+[After] Cookie-Name 31: cart_ts
+[After] Cookie-Name 32: _s
+[After] Cookie-Name 33: _shopify_country
+[After] Cookie-Name 34: localization
+[After] Cookie-Name 35: cart_currency
+[After] Cookie-Name 36: _gid
+[After] Cookie-Name 37: _shg_user_id
+[After] Cookie-Name 38: _shopify_d
+[After] Cookie-Name 39: _shopify_y
+[After] Cookie-Name 40: _shopify_sa_t
+[After] Cookie-Name 41: _shopify_s
+[After] Cookie-Name 42: _s
+[After] Cookie-Name 43: __kla_id
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 22
+[Difference] Cookie-Name: 1: _shg_user_id
+[Difference] Cookie-Name: 2: _gid
+[Difference] Cookie-Name: 3: _bc_c_set
+[Difference] Cookie-Name: 4: _gcl_au
+[Difference] Cookie-Name: 5: cart
+[Difference] Cookie-Name: 6: __kla_id
+[Difference] Cookie-Name: 7: cart_ts
+[Difference] Cookie-Name: 8: _shopify_evids
+[Difference] Cookie-Name: 9: ajs_anonymous_id
+[Difference] Cookie-Name: 10: _fbp
+[Difference] Cookie-Name: 11: _shopify_s
+[Difference] Cookie-Name: 12: _gat
+[Difference] Cookie-Name: 13: _s
+[Difference] Cookie-Name: 14: _shg_session_id
+[Difference] Cookie-Name: 15: localization
+[Difference] Cookie-Name: 16: _y
+[Difference] Cookie-Name: 17: _shopify_sa_p
+[Difference] Cookie-Name: 18: _shopify_d
+[Difference] Cookie-Name: 19: cart_ver
+[Difference] Cookie-Name: 20: _ga
+[Difference] Cookie-Name: 21: _shopify_y
+[Difference] Cookie-Name: 22: _shopify_sa_t
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

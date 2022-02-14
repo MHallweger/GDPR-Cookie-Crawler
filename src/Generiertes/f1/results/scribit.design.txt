@@ -1,0 +1,93 @@
+Website 319: http://www.scribit.design/ | Created: 08.02.2022 23:16:40 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 28
+[Before] Website-Cookies: [{'domain': 'scribit.design', 'httpOnly': False, 'name': 'qab_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.scribit.design', 'expiry': 1644360389, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'scribit.design', 'expiry': 1644358709, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.scribit.design', 'expiry': 1644360389, 'httpOnly': False, 'name': '_hjSession_1035205', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImU2ZWQ0NzBmLWJkZjItNDQxZS1iMTJhLTE3NzM2NmYwYzliOSIsImNyZWF0ZWQiOjE2NDQzNTg1ODk2NjIsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': 'scribit.design', 'expiry': 1644358709, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.scribit.design', 'expiry': 1644360388, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T22%3A16%3A28.970Z'}, {'domain': '.scribit.design', 'expiry': 1644360389, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.scribit.design', 'expiry': 1675894589, 'httpOnly': False, 'name': '_hjSessionUser_1035205', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImFlYjg3NjUzLTIyNDktNTg2YS1hOTAyLTNjYWRkMjdlNDI2ZSIsImNyZWF0ZWQiOjE2NDQzNTg1ODk0MTMsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': 'scribit.design', 'expiry': 1644362189, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.scribit.design', 'expiry': 1652134589, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644358589376.620172690'}, {'domain': 'scribit.design', 'expiry': 1645568189, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7861d6c291f492c96fd3756558fa36dd'}, {'domain': '.scribit.design', 'expiry': 1644358649, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.scribit.design', 'expiry': 1644444989, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1398419889.1644358589'}, {'domain': 'scribit.design', 'expiry': 1645568189, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.scribit.design', 'expiry': 1707430589, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.14271286.1644358589'}, {'domain': 'scribit.design', 'expiry': 1645568189, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'IT'}, {'domain': '.scribit.design', 'expiry': 1675894589, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVptUTJZekkwTlRFdFpEZ3dOaTAwWkRrd0xXSTVObVl0TTJNMFptSTJPRGRtTkRCbQ'}, {'domain': 'scribit.design', 'expiry': 1645568189, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': '.scribit.design', 'expiry': 1645568187, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'scribit.design', 'expiry': 1645568189, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b42008bd69fa0896956576d49cf6518e'}, {'domain': '.scribit.design', 'expiry': 1675894589, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b3b3ee89-d276-4aca-9cc9-cc05cb2a3dfc'}, {'domain': '.scribit.design', 'expiry': 1644360389, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ed5140df-9db6-4bb5-9341-d244f6b219f6'}, {'domain': '.scribit.design', 'expiry': 1644360389, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ed5140df-9db6-4bb5-9341-d244f6b219f6'}, {'domain': '.scribit.design', 'expiry': 1644360388, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'scribit.design', 'expiry': 1645568189, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644358589'}, {'domain': '.scribit.design', 'expiry': 1675894589, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b3b3ee89-d276-4aca-9cc9-cc05cb2a3dfc'}, {'domain': '.scribit.design', 'expiry': 1645568187, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'scribit.design', 'expiry': 1675894589, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: qab_previous_pathname
+[Before] Cookie-Name 2: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 3: _hjIncludedInPageviewSample
+[Before] Cookie-Name 4: _hjSession_1035205
+[Before] Cookie-Name 5: _hjIncludedInSessionSample
+[Before] Cookie-Name 6: _shopify_sa_t
+[Before] Cookie-Name 7: _hjFirstSeen
+[Before] Cookie-Name 8: _hjSessionUser_1035205
+[Before] Cookie-Name 9: shopify_pay_redirect
+[Before] Cookie-Name 10: _fbp
+[Before] Cookie-Name 11: cart_sig
+[Before] Cookie-Name 12: _gat
+[Before] Cookie-Name 13: _gid
+[Before] Cookie-Name 14: cart_currency
+[Before] Cookie-Name 15: _ga
+[Before] Cookie-Name 16: localization
+[Before] Cookie-Name 17: _pin_unauth
+[Before] Cookie-Name 18: cart_ver
+[Before] Cookie-Name 19: _landing_page
+[Before] Cookie-Name 20: cart
+[Before] Cookie-Name 21: _shopify_y
+[Before] Cookie-Name 22: _s
+[Before] Cookie-Name 23: _shopify_s
+[Before] Cookie-Name 24: _shopify_sa_p
+[Before] Cookie-Name 25: cart_ts
+[Before] Cookie-Name 26: _y
+[Before] Cookie-Name 27: _orig_referrer
+[Before] Cookie-Name 28: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 29
+[After] Website-Cookies: [{'domain': 'scribit.design', 'expiry': 1675894605, 'httpOnly': False, 'name': 'scribit_privacy', 'path': '/', 'secure': False, 'value': 'scribit_privacy_accepted'}, {'domain': 'scribit.design', 'httpOnly': False, 'name': 'qab_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.scribit.design', 'expiry': 1644360389, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'scribit.design', 'expiry': 1644358709, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.scribit.design', 'expiry': 1644360389, 'httpOnly': False, 'name': '_hjSession_1035205', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImU2ZWQ0NzBmLWJkZjItNDQxZS1iMTJhLTE3NzM2NmYwYzliOSIsImNyZWF0ZWQiOjE2NDQzNTg1ODk2NjIsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': 'scribit.design', 'expiry': 1644358709, 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.scribit.design', 'expiry': 1644360388, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T22%3A16%3A28.970Z'}, {'domain': '.scribit.design', 'expiry': 1644360389, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.scribit.design', 'expiry': 1675894589, 'httpOnly': False, 'name': '_hjSessionUser_1035205', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImFlYjg3NjUzLTIyNDktNTg2YS1hOTAyLTNjYWRkMjdlNDI2ZSIsImNyZWF0ZWQiOjE2NDQzNTg1ODk0MTMsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': 'scribit.design', 'expiry': 1644362189, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.scribit.design', 'expiry': 1652134605, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644358589376.620172690'}, {'domain': 'scribit.design', 'expiry': 1645568189, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7861d6c291f492c96fd3756558fa36dd'}, {'domain': '.scribit.design', 'expiry': 1644358649, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.scribit.design', 'expiry': 1644444989, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1398419889.1644358589'}, {'domain': 'scribit.design', 'expiry': 1645568189, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.scribit.design', 'expiry': 1707430589, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.14271286.1644358589'}, {'domain': 'scribit.design', 'expiry': 1645568189, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'IT'}, {'domain': '.scribit.design', 'expiry': 1675894589, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPVptUTJZekkwTlRFdFpEZ3dOaTAwWkRrd0xXSTVObVl0TTJNMFptSTJPRGRtTkRCbQ'}, {'domain': 'scribit.design', 'expiry': 1645568189, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': '.scribit.design', 'expiry': 1645568187, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'scribit.design', 'expiry': 1645568189, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b42008bd69fa0896956576d49cf6518e'}, {'domain': '.scribit.design', 'expiry': 1675894589, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b3b3ee89-d276-4aca-9cc9-cc05cb2a3dfc'}, {'domain': '.scribit.design', 'expiry': 1644360389, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ed5140df-9db6-4bb5-9341-d244f6b219f6'}, {'domain': '.scribit.design', 'expiry': 1644360389, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ed5140df-9db6-4bb5-9341-d244f6b219f6'}, {'domain': '.scribit.design', 'expiry': 1644360388, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'scribit.design', 'expiry': 1645568189, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644358589'}, {'domain': '.scribit.design', 'expiry': 1675894589, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b3b3ee89-d276-4aca-9cc9-cc05cb2a3dfc'}, {'domain': '.scribit.design', 'expiry': 1645568187, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'scribit.design', 'expiry': 1675894589, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: scribit_privacy
+[After] Cookie-Name 2: qab_previous_pathname
+[After] Cookie-Name 3: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 4: _hjIncludedInPageviewSample
+[After] Cookie-Name 5: _hjSession_1035205
+[After] Cookie-Name 6: _hjIncludedInSessionSample
+[After] Cookie-Name 7: _shopify_sa_t
+[After] Cookie-Name 8: _hjFirstSeen
+[After] Cookie-Name 9: _hjSessionUser_1035205
+[After] Cookie-Name 10: shopify_pay_redirect
+[After] Cookie-Name 11: _fbp
+[After] Cookie-Name 12: cart_sig
+[After] Cookie-Name 13: _gat
+[After] Cookie-Name 14: _gid
+[After] Cookie-Name 15: cart_currency
+[After] Cookie-Name 16: _ga
+[After] Cookie-Name 17: localization
+[After] Cookie-Name 18: _pin_unauth
+[After] Cookie-Name 19: cart_ver
+[After] Cookie-Name 20: _landing_page
+[After] Cookie-Name 21: cart
+[After] Cookie-Name 22: _shopify_y
+[After] Cookie-Name 23: _s
+[After] Cookie-Name 24: _shopify_s
+[After] Cookie-Name 25: _shopify_sa_p
+[After] Cookie-Name 26: cart_ts
+[After] Cookie-Name 27: _y
+[After] Cookie-Name 28: _orig_referrer
+[After] Cookie-Name 29: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjIncludedInPageviewSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjIncludedInSessionSample (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _pin_unauth (Pinterest Tag)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: scribit_privacy
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

@@ -1,0 +1,89 @@
+Website 169: http://www.estarta-computer.de/ | Created: 08.02.2022 22:31:13 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 24
+[Before] Website-Cookies: [{'domain': '.estarta-computer.de', 'expiry': 1652131864, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644355863862.1924632547'}, {'domain': 'estarta-computer.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.estarta-computer.de', 'expiry': 1644355923, 'httpOnly': False, 'name': '_gat_UA-121246992-1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.estarta-computer.de', 'expiry': 1707427863, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.991828431.1644355864'}, {'domain': 'estarta-computer.de', 'expiry': 1644359463, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.estarta-computer.de', 'expiry': 1675891863, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.estarta-computer.de', 'expiry': 1644442263, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.780008013.1644355864'}, {'domain': 'estarta-computer.de', 'expiry': 1675891863, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.estarta-computer.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.estarta-computer.de', 'expiry': 1645565463, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.estarta-computer.de', 'expiry': 1675891863, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%7D'}, {'domain': '.estarta-computer.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f8a5ecd8-05dc-4b44-8ecc-46399c5ebf37'}, {'domain': '.estarta-computer.de', 'expiry': 1644357664, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.estarta-computer.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eb90541d-5229-4f23-a98a-2ed61ab214ba'}, {'domain': '.estarta-computer.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A31%3A03.768Z'}, {'domain': '.estarta-computer.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eb90541d-5229-4f23-a98a-2ed61ab214ba'}, {'domain': '.estarta-computer.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.estarta-computer.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.estarta-computer.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.estarta-computer.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A31%3A03.726Z'}, {'domain': '.estarta-computer.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f8a5ecd8-05dc-4b44-8ecc-46399c5ebf37'}, {'domain': '.estarta-computer.de', 'expiry': 1652131863, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.219056502.1644355863'}, {'domain': 'estarta-computer.de', 'expiry': 1645565463, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': 'estarta-computer.de', 'expiry': 1645565463, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}]
+[Before] Cookie-Name 1: _fbp
+[Before] Cookie-Name 2: _shopify_evids
+[Before] Cookie-Name 3: _gat_UA-121246992-1
+[Before] Cookie-Name 4: _ga
+[Before] Cookie-Name 5: shopify_pay_redirect
+[Before] Cookie-Name 6: _shopify_m
+[Before] Cookie-Name 7: _gid
+[Before] Cookie-Name 8: secure_customer_sig
+[Before] Cookie-Name 9: _orig_referrer
+[Before] Cookie-Name 10: _shopify_tw
+[Before] Cookie-Name 11: _tracking_consent
+[Before] Cookie-Name 12: _shopify_y
+[Before] Cookie-Name 13: _shopify_tm
+[Before] Cookie-Name 14: _shopify_s
+[Before] Cookie-Name 15: _shopify_sa_t
+[Before] Cookie-Name 16: _s
+[Before] Cookie-Name 17: _shopify_sa_p
+[Before] Cookie-Name 18: _shopify_evids
+[Before] Cookie-Name 19: _landing_page
+[Before] Cookie-Name 20: _shopify_d
+[Before] Cookie-Name 21: _y
+[Before] Cookie-Name 22: _gcl_au
+[Before] Cookie-Name 23: cart_currency
+[Before] Cookie-Name 24: localization
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 29
+[After] Website-Cookies: [{'domain': '.estarta-computer.de', 'expiry': 1644355939, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.estarta-computer.de', 'expiry': 1675891879, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': 'estarta-computer.de', 'expiry': 1645565479, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': 'estarta-computer.de', 'expiry': 1645565479, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'bc644370746195da790a1c174dcc77bc'}, {'domain': 'estarta-computer.de', 'expiry': 1645565479, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2730d976e045e93f58120722085a8114'}, {'domain': 'estarta-computer.de', 'expiry': 1645565479, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644355879'}, {'domain': 'estarta-computer.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.estarta-computer.de', 'expiry': 1644355923, 'httpOnly': False, 'name': '_gat_UA-121246992-1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.estarta-computer.de', 'expiry': 1707427879, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.991828431.1644355864'}, {'domain': 'estarta-computer.de', 'expiry': 1644359463, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.estarta-computer.de', 'expiry': 1652131878, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644355863862.1924632547'}, {'domain': '.estarta-computer.de', 'expiry': 1644442279, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.780008013.1644355864'}, {'domain': '.estarta-computer.de', 'expiry': 1675891879, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%221%22%7D%7D'}, {'domain': 'estarta-computer.de', 'expiry': 1675891879, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.estarta-computer.de', 'expiry': 1645565479, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.estarta-computer.de', 'expiry': 1645565463, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.estarta-computer.de', 'expiry': 1675891879, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f8a5ecd8-05dc-4b44-8ecc-46399c5ebf37'}, {'domain': '.estarta-computer.de', 'expiry': 1644357679, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.estarta-computer.de', 'expiry': 1644357679, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eb90541d-5229-4f23-a98a-2ed61ab214ba'}, {'domain': '.estarta-computer.de', 'expiry': 1644357679, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A31%3A03.768Z'}, {'domain': '.estarta-computer.de', 'expiry': 1644357679, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eb90541d-5229-4f23-a98a-2ed61ab214ba'}, {'domain': '.estarta-computer.de', 'expiry': 1644357679, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.estarta-computer.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.estarta-computer.de', 'expiry': 1645565479, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.estarta-computer.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T21%3A31%3A03.726Z'}, {'domain': '.estarta-computer.de', 'expiry': 1675891879, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f8a5ecd8-05dc-4b44-8ecc-46399c5ebf37'}, {'domain': '.estarta-computer.de', 'expiry': 1652131863, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.219056502.1644355863'}, {'domain': 'estarta-computer.de', 'expiry': 1645565479, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'estarta-computer.de', 'expiry': 1645565479, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[After] Cookie-Name 1: _gat
+[After] Cookie-Name 2: _shopify_m
+[After] Cookie-Name 3: cart_ver
+[After] Cookie-Name 4: cart_sig
+[After] Cookie-Name 5: cart
+[After] Cookie-Name 6: cart_ts
+[After] Cookie-Name 7: _shopify_evids
+[After] Cookie-Name 8: _gat_UA-121246992-1
+[After] Cookie-Name 9: _ga
+[After] Cookie-Name 10: shopify_pay_redirect
+[After] Cookie-Name 11: _fbp
+[After] Cookie-Name 12: _gid
+[After] Cookie-Name 13: _tracking_consent
+[After] Cookie-Name 14: secure_customer_sig
+[After] Cookie-Name 15: _orig_referrer
+[After] Cookie-Name 16: _shopify_tw
+[After] Cookie-Name 17: _shopify_y
+[After] Cookie-Name 18: _shopify_tm
+[After] Cookie-Name 19: _shopify_s
+[After] Cookie-Name 20: _shopify_sa_t
+[After] Cookie-Name 21: _s
+[After] Cookie-Name 22: _shopify_sa_p
+[After] Cookie-Name 23: _shopify_evids
+[After] Cookie-Name 24: _landing_page
+[After] Cookie-Name 25: _shopify_d
+[After] Cookie-Name 26: _y
+[After] Cookie-Name 27: _gcl_au
+[After] Cookie-Name 28: cart_currency
+[After] Cookie-Name 29: localization
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _gcl_au (Google Adsense)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 5
+[Difference] Cookie-Name: 1: cart_ver
+[Difference] Cookie-Name: 2: cart_ts
+[Difference] Cookie-Name: 3: cart_sig
+[Difference] Cookie-Name: 4: cart
+[Difference] Cookie-Name: 5: _gat
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

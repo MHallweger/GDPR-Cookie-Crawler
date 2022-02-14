@@ -1,0 +1,84 @@
+Website 23: http://www.jesango.de/ | Created: 08.02.2022 21:45:59 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 26
+[Before] Website-Cookies: [{'domain': '.jesango.de', 'expiry': 1644439550, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': '1gehgfx|1644353150173|1|1|b.clarity.ms/collect'}, {'domain': 'www.jesango.de', 'expiry': 1645562748, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.jesango.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T20%3A45%3A48.774Z'}, {'domain': '.jesango.de', 'expiry': 1644353208, 'httpOnly': False, 'name': '_gat_UA-151605491-1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.jesango.de', 'expiry': 1678049148, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '18aace00892011ecb7fa6922583a7aad'}, {'domain': '.jesango.de', 'expiry': 1644354948, 'httpOnly': False, 'name': '_hjSession_1612994', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjVhODFiMDhlLWIxZTMtNDYzMy1hODgzLTYxZmI0NDZjYTY5OSIsImNyZWF0ZWQiOjE2NDQzNTMxNDg4NjksImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': '.jesango.de', 'expiry': 1675889148, 'httpOnly': False, 'name': '_hjSessionUser_1612994', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjdiYjgxZGE1LWFkODItNTZhMy05NDE2LTA2NDZkODQ1MWNlOSIsImNyZWF0ZWQiOjE2NDQzNTMxNDg4MTMsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.jesango.de', 'expiry': 1644354948, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.jesango.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.jesango.de', 'expiry': 1675889148, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': 'www.jesango.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.jesango.de', 'expiry': 1645562748, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.jesango.de', 'expiry': 1646945151, 'httpOnly': False, 'name': '_pandectes_gdpr', 'path': '/', 'secure': True, 'value': 'eyJzdGF0dXMiOiIiLCJ0aW1lc3RhbXAiOm51bGwsInByZWZlcmVuY2VzIjpudWxsfQ=='}, {'domain': '.jesango.de', 'expiry': 1644353208, 'httpOnly': False, 'name': '_gat_gtag_UA_151605491_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.jesango.de', 'expiry': 1644354948, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.jesango.de', 'expiry': 1675889149, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': '5cp2o|1|eyt|0'}, {'domain': '.jesango.de', 'expiry': 1644354948, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.jesango.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.jesango.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.jesango.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.jesango.de', 'expiry': 1707425148, 'httpOnly': False, 'name': '_ga_CRKYSRDN53', 'path': '/', 'secure': False, 'value': 'GS1.1.1644353148.1.0.1644353148.0'}, {'domain': 'www.jesango.de', 'expiry': 1645562748, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': '.jesango.de', 'expiry': 1675889148, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': 'www.jesango.de', 'expiry': 1644356748, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'www.jesango.de', 'expiry': 1644353268, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.jesango.de', 'expiry': 1675889148, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _clsk
+[Before] Cookie-Name 2: cart_currency
+[Before] Cookie-Name 3: _shopify_d
+[Before] Cookie-Name 4: _gat_UA-151605491-1
+[Before] Cookie-Name 5: _uetvid
+[Before] Cookie-Name 6: _hjSession_1612994
+[Before] Cookie-Name 7: _hjSessionUser_1612994
+[Before] Cookie-Name 8: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 9: _shopify_sa_p
+[Before] Cookie-Name 10: _shopify_m
+[Before] Cookie-Name 11: _shopify_evids
+[Before] Cookie-Name 12: _shopify_tw
+[Before] Cookie-Name 13: _pandectes_gdpr
+[Before] Cookie-Name 14: _gat_gtag_UA_151605491_1
+[Before] Cookie-Name 15: _hjFirstSeen
+[Before] Cookie-Name 16: _clck
+[Before] Cookie-Name 17: _shopify_tm
+[Before] Cookie-Name 18: _landing_page
+[Before] Cookie-Name 19: _shopify_evids
+[Before] Cookie-Name 20: _orig_referrer
+[Before] Cookie-Name 21: _ga_CRKYSRDN53
+[Before] Cookie-Name 22: localization
+[Before] Cookie-Name 23: _tracking_consent
+[Before] Cookie-Name 24: shopify_pay_redirect
+[Before] Cookie-Name 25: _hjIncludedInPageviewSample
+[Before] Cookie-Name 26: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 26
+[After] Website-Cookies: [{'domain': '.jesango.de', 'expiry': 1644439550, 'httpOnly': False, 'name': '_clsk', 'path': '/', 'secure': False, 'value': '1gehgfx|1644353150173|1|1|b.clarity.ms/collect'}, {'domain': 'www.jesango.de', 'expiry': 1645562748, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.jesango.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-08T20%3A45%3A48.774Z'}, {'domain': '.jesango.de', 'expiry': 1644353208, 'httpOnly': False, 'name': '_gat_UA-151605491-1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.jesango.de', 'expiry': 1678049148, 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'secure': False, 'value': '18aace00892011ecb7fa6922583a7aad'}, {'domain': '.jesango.de', 'expiry': 1644354948, 'httpOnly': False, 'name': '_hjSession_1612994', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjVhODFiMDhlLWIxZTMtNDYzMy1hODgzLTYxZmI0NDZjYTY5OSIsImNyZWF0ZWQiOjE2NDQzNTMxNDg4NjksImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': '.jesango.de', 'expiry': 1675889148, 'httpOnly': False, 'name': '_hjSessionUser_1612994', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjdiYjgxZGE1LWFkODItNTZhMy05NDE2LTA2NDZkODQ1MWNlOSIsImNyZWF0ZWQiOjE2NDQzNTMxNDg4MTMsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.jesango.de', 'expiry': 1644354948, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.jesango.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.jesango.de', 'expiry': 1675889148, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': 'www.jesango.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.jesango.de', 'expiry': 1645562748, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.jesango.de', 'expiry': 1646945164, 'httpOnly': False, 'name': '_pandectes_gdpr', 'path': '/', 'secure': True, 'value': 'eyJzdGF0dXMiOiJkZW55IiwidGltZXN0YW1wIjoxNjQ0MzUzMTY0LCJwcmVmZXJlbmNlcyI6MTV9'}, {'domain': '.jesango.de', 'expiry': 1644353208, 'httpOnly': False, 'name': '_gat_gtag_UA_151605491_1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.jesango.de', 'expiry': 1644354948, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.jesango.de', 'expiry': 1675889149, 'httpOnly': False, 'name': '_clck', 'path': '/', 'secure': False, 'value': '5cp2o|1|eyt|0'}, {'domain': '.jesango.de', 'expiry': 1644354948, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.jesango.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.jesango.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.jesango.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.jesango.de', 'expiry': 1707425148, 'httpOnly': False, 'name': '_ga_CRKYSRDN53', 'path': '/', 'secure': False, 'value': 'GS1.1.1644353148.1.0.1644353148.0'}, {'domain': 'www.jesango.de', 'expiry': 1645562748, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': '.jesango.de', 'expiry': 1675889148, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': 'www.jesango.de', 'expiry': 1644356748, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': 'www.jesango.de', 'expiry': 1644353268, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.jesango.de', 'expiry': 1675889148, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _clsk
+[After] Cookie-Name 2: cart_currency
+[After] Cookie-Name 3: _shopify_d
+[After] Cookie-Name 4: _gat_UA-151605491-1
+[After] Cookie-Name 5: _uetvid
+[After] Cookie-Name 6: _hjSession_1612994
+[After] Cookie-Name 7: _hjSessionUser_1612994
+[After] Cookie-Name 8: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 9: _shopify_sa_p
+[After] Cookie-Name 10: _shopify_m
+[After] Cookie-Name 11: _shopify_evids
+[After] Cookie-Name 12: _shopify_tw
+[After] Cookie-Name 13: _pandectes_gdpr
+[After] Cookie-Name 14: _gat_gtag_UA_151605491_1
+[After] Cookie-Name 15: _hjFirstSeen
+[After] Cookie-Name 16: _clck
+[After] Cookie-Name 17: _shopify_tm
+[After] Cookie-Name 18: _landing_page
+[After] Cookie-Name 19: _shopify_evids
+[After] Cookie-Name 20: _orig_referrer
+[After] Cookie-Name 21: _ga_CRKYSRDN53
+[After] Cookie-Name 22: localization
+[After] Cookie-Name 23: _tracking_consent
+[After] Cookie-Name 24: shopify_pay_redirect
+[After] Cookie-Name 25: _hjIncludedInPageviewSample
+[After] Cookie-Name 26: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _clsk (Microsoft Clarity (User experience tool))
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+[Used before] Cookie-Name: _clck (Microsoft Clarity (User experience tool))
+[Used before] Cookie-Name: _hjIncludedInPageviewSample (Hotjar (User experience tool))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

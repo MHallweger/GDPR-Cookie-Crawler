@@ -1,0 +1,84 @@
+Website 177: http://www.tassenbrennerei.de/ | Created: 09.02.2022 18:00:12 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 19
+[Before] Website-Cookies: [{'domain': '.tassenbrennerei.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A00%3A03.096Z'}, {'domain': 'www.tassenbrennerei.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.tassenbrennerei.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A00%3A03.050Z'}, {'domain': '.tassenbrennerei.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '298b8507-7dc3-4790-9aec-ff5b6c6d27e3'}, {'domain': '.tassenbrennerei.de', 'expiry': 1644427813, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.tassenbrennerei.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.tassenbrennerei.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '33c130b9-4e00-4429-825d-fb16180c46cd'}, {'domain': '.tassenbrennerei.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.tassenbrennerei.de', 'expiry': 1675962002, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': '.tassenbrennerei.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '298b8507-7dc3-4790-9aec-ff5b6c6d27e3'}, {'domain': '.tassenbrennerei.de', 'expiry': 1645635602, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.tassenbrennerei.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.tassenbrennerei.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.tassenbrennerei.de', 'expiry': 1678590004, 'httpOnly': False, 'name': 'cto_bundle', 'path': '/', 'secure': False, 'value': 'xjL6219PNkE1Y3BWRUQxV04lMkY2bXJ2azltRFZBUFZUWENNb24wakx3NktXaWxJNk0yMTQ5TkhLNW0wdyUyQkl5S1dCMklqbHNiJTJCcSUyRnNNUjBZREZBbEdpNGh6Y0tlZVljcXRCak0zNzZpczdNeVAlMkIlMkIyNUJ2Z3NldG9YZDlFeGttMTlDeTBzZ0xhUUJobkZnaDBwOWxKN3cybmpzNCUyRjRmWVQxRGhPb1p1bzdueGpDeWlHZyUzRA'}, {'domain': '.tassenbrennerei.de', 'expiry': 1675962002, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': 'www.tassenbrennerei.de', 'expiry': 1645635613, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.tassenbrennerei.de', 'expiry': 1645635613, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.tassenbrennerei.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '33c130b9-4e00-4429-825d-fb16180c46cd'}, {'domain': 'www.tassenbrennerei.de', 'expiry': 1675962013, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _shopify_sa_t
+[Before] Cookie-Name 2: _shopify_evids
+[Before] Cookie-Name 3: _shopify_d
+[Before] Cookie-Name 4: _shopify_s
+[Before] Cookie-Name 5: _shopify_tm
+[Before] Cookie-Name 6: _shopify_sa_p
+[Before] Cookie-Name 7: _shopify_y
+[Before] Cookie-Name 8: _shopify_evids
+[Before] Cookie-Name 9: _tracking_consent
+[Before] Cookie-Name 10: _s
+[Before] Cookie-Name 11: _shopify_tw
+[Before] Cookie-Name 12: _landing_page
+[Before] Cookie-Name 13: _orig_referrer
+[Before] Cookie-Name 14: cto_bundle
+[Before] Cookie-Name 15: _shopify_m
+[Before] Cookie-Name 16: cart_currency
+[Before] Cookie-Name 17: localization
+[Before] Cookie-Name 18: _y
+[Before] Cookie-Name 19: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 29
+[After] Website-Cookies: [{'domain': '.tassenbrennerei.de', 'expiry': 1675962019, 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'secure': False, 'value': 'dWlkPU1EVXlOalExWmpndE9EWXhZeTAwTTJNM0xXSXpPR010WkdGbE1URTVNelF3WXpBdw'}, {'domain': '.tassenbrennerei.de', 'expiry': 1652202019, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'secure': False, 'value': '1.1.1229523341.1644426019'}, {'domain': '.tassenbrennerei.de', 'expiry': 1644426079, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.tassenbrennerei.de', 'expiry': 1707498019, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1230757018.1644426019'}, {'domain': 'www.tassenbrennerei.de', 'expiry': 1645635619, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0e8d3d51e23efab6561c4cc40e2e6b13'}, {'domain': '.tassenbrennerei.de', 'expiry': 1644427819, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A00%3A03.096Z'}, {'domain': 'www.tassenbrennerei.de', 'expiry': 1645635619, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': 'www.tassenbrennerei.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.tassenbrennerei.de', 'expiry': 1644427819, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.tassenbrennerei.de', 'expiry': 1675962019, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22con%22%3A%7B%22GDPR%22%3A%221%22%7D%7D'}, {'domain': '.tassenbrennerei.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.tassenbrennerei.de', 'expiry': 1645635619, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644426019'}, {'domain': '.tassenbrennerei.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A00%3A03.050Z'}, {'domain': '.tassenbrennerei.de', 'expiry': 1652202019, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644426019409.1156314710'}, {'domain': '.tassenbrennerei.de', 'expiry': 1644427819, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '298b8507-7dc3-4790-9aec-ff5b6c6d27e3'}, {'domain': '.tassenbrennerei.de', 'expiry': 1645635619, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.tassenbrennerei.de', 'expiry': 1644427819, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.tassenbrennerei.de', 'expiry': 1675962019, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '33c130b9-4e00-4429-825d-fb16180c46cd'}, {'domain': '.tassenbrennerei.de', 'expiry': 1645635619, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.tassenbrennerei.de', 'expiry': 1645635602, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.tassenbrennerei.de', 'expiry': 1644427819, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '298b8507-7dc3-4790-9aec-ff5b6c6d27e3'}, {'domain': '.tassenbrennerei.de', 'expiry': 1644512419, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1244016868.1644426019'}, {'domain': 'www.tassenbrennerei.de', 'expiry': 1645635619, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '4176294b2a20f7f9a9cd36cae357f8d5'}, {'domain': '.tassenbrennerei.de', 'expiry': 1675962019, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'persistent'}, {'domain': '.tassenbrennerei.de', 'expiry': 1678590004, 'httpOnly': False, 'name': 'cto_bundle', 'path': '/', 'secure': False, 'value': 'xjL6219PNkE1Y3BWRUQxV04lMkY2bXJ2azltRFZBUFZUWENNb24wakx3NktXaWxJNk0yMTQ5TkhLNW0wdyUyQkl5S1dCMklqbHNiJTJCcSUyRnNNUjBZREZBbEdpNGh6Y0tlZVljcXRCak0zNzZpczdNeVAlMkIlMkIyNUJ2Z3NldG9YZDlFeGttMTlDeTBzZ0xhUUJobkZnaDBwOWxKN3cybmpzNCUyRjRmWVQxRGhPb1p1bzdueGpDeWlHZyUzRA'}, {'domain': 'www.tassenbrennerei.de', 'expiry': 1645635619, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': 'www.tassenbrennerei.de', 'expiry': 1645635619, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': '.tassenbrennerei.de', 'expiry': 1675962019, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '33c130b9-4e00-4429-825d-fb16180c46cd'}, {'domain': 'www.tassenbrennerei.de', 'expiry': 1675962019, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: _pin_unauth
+[After] Cookie-Name 2: _gcl_au
+[After] Cookie-Name 3: _gat
+[After] Cookie-Name 4: _ga
+[After] Cookie-Name 5: cart
+[After] Cookie-Name 6: _shopify_sa_t
+[After] Cookie-Name 7: localization
+[After] Cookie-Name 8: _shopify_evids
+[After] Cookie-Name 9: _shopify_tm
+[After] Cookie-Name 10: _tracking_consent
+[After] Cookie-Name 11: _shopify_evids
+[After] Cookie-Name 12: cart_ts
+[After] Cookie-Name 13: _shopify_d
+[After] Cookie-Name 14: _fbp
+[After] Cookie-Name 15: _shopify_s
+[After] Cookie-Name 16: _orig_referrer
+[After] Cookie-Name 17: _shopify_sa_p
+[After] Cookie-Name 18: _shopify_y
+[After] Cookie-Name 19: _landing_page
+[After] Cookie-Name 20: _shopify_tw
+[After] Cookie-Name 21: _s
+[After] Cookie-Name 22: _gid
+[After] Cookie-Name 23: cart_sig
+[After] Cookie-Name 24: _shopify_m
+[After] Cookie-Name 25: cto_bundle
+[After] Cookie-Name 26: cart_currency
+[After] Cookie-Name 27: cart_ver
+[After] Cookie-Name 28: _y
+[After] Cookie-Name 29: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 10
+[Difference] Cookie-Name: 1: cart_sig
+[Difference] Cookie-Name: 2: _gid
+[Difference] Cookie-Name: 3: _gcl_au
+[Difference] Cookie-Name: 4: _gat
+[Difference] Cookie-Name: 5: _fbp
+[Difference] Cookie-Name: 6: cart_ts
+[Difference] Cookie-Name: 7: _ga
+[Difference] Cookie-Name: 8: cart_ver
+[Difference] Cookie-Name: 9: cart
+[Difference] Cookie-Name: 10: _pin_unauth
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is NOT GDPR compliant!

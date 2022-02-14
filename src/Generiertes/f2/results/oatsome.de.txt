@@ -1,0 +1,103 @@
+Website 47: http://www.oatsome.de/ | Created: 09.02.2022 11:00:10 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): True
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 4
+[Before] Website-Cookies: [{'domain': '.oatsome.de', 'expiry': 1645610399, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.oatsome.de', 'expiry': 1645610399, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'oatsome.de', 'expiry': 1645610398, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': 'oatsome.de', 'expiry': 1675936798, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: _landing_page
+[Before] Cookie-Name 2: _orig_referrer
+[Before] Cookie-Name 3: cart_currency
+[Before] Cookie-Name 4: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 41
+[After] Website-Cookies: [{'domain': '.oatsome.de', 'expiry': 1675936816, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1c08e954-a292-4a27-836c-090f03be0927'}, {'domain': '.oatsome.de', 'expiry': 1644400876, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.oatsome.de', 'expiry': 1644487216, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.19898187.1644400816'}, {'domain': '.oatsome.de', 'expiry': 1707472816, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.66463836.1644400800'}, {'domain': '.oatsome.de', 'expiry': 1707472815, 'httpOnly': False, 'name': '_ga_ZMDDBSK4Q3', 'path': '/', 'secure': False, 'value': 'GS1.1.1644400799.1.1.1644400815.0'}, {'domain': '.oatsome.de', 'expiry': 1644402615, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T10%3A00%3A15.916Z'}, {'domain': '.oatsome.de', 'expiry': 1644402616, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f8c9b7cd-24b0-41fd-ab3d-8f242b1d4303'}, {'domain': 'oatsome.de', 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f6000fa8-15aa-4456-bedd-aab4bad353db'}, {'domain': 'oatsome.de', 'expiry': 1645610416, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': 'DE'}, {'domain': '.oatsome.de', 'expiry': 1644400876, 'httpOnly': False, 'name': '_gat_UA-74816342-1', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.oatsome.de', 'expiry': 1644402616, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f8c9b7cd-24b0-41fd-ab3d-8f242b1d4303'}, {'domain': 'oatsome.de', 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'oatsome.de', 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9d862e93-64ee-424c-8c20-b2920065707b'}, {'domain': '.oatsome.de', 'expiry': 1645610399, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'oatsome.de', 'httpOnly': False, 'name': '_hjIncludedInSessionSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': 'oatsome.de', 'httpOnly': False, 'name': '_uetsid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0b221740898f11ec9ac37b90e2434526'}, {'domain': 'oatsome.de', 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': 'oatsome.de', 'httpOnly': False, 'name': '_pin_unauth', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'dWlkPU9HWTFPRFJqWTJFdE5EQTRNQzAwWW1ZeExUZzJNV1V0TmpRNVl6azJNVEV4TWpCaA'}, {'domain': 'oatsome.de', 'httpOnly': False, 'name': '_hjSession_2678970', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjViMTFhZDVlLTA3MTAtNDgyOC1iNTllLTFjOWNkNmU3YjA4MCIsImNyZWF0ZWQiOjE2NDQ0MDA4MDAxNjMsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': 'oatsome.de', 'httpOnly': False, 'name': '_uetvid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0b222f40898f11ecba3dc7122878a590'}, {'domain': 'oatsome.de', 'httpOnly': False, 'name': 'cto_bundle', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'o8EKuF9SRzJQaHRXSktIRHlWdzVIY0lNN1BJZ3lkRlY5T1VHRiUyRk1GMWc5NFJjdXMlMkZOSDVLanlzUUZUUG5FeTcweElyTjh4Q0gzRVJpdDdndllFM3dySkxWVWFVSUdYZlFEemwlMkJlWWxUSiUyRlVScWhXVk5SMEtGQWlUMnM3JTJCNFVBb3hKMUFIeTFJVDJrcUJ5M2gzeUcxcmJweFBRJTNEJTNE'}, {'domain': 'oatsome.de', 'httpOnly': False, 'name': '_ga_ZMDDBSK4Q3', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'GS1.1.1644400799.1.1.1644400799.0'}, {'domain': 'oatsome.de', 'expiry': 1675936816, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'oatsome.de', 'httpOnly': False, 'name': '_hjSessionUser_2678970', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImZhZjgyOGU4LTM0MmItNTQxYy1hNTY5LTYxYTk1YzU2Yzc0OSIsImNyZWF0ZWQiOjE2NDQ0MDA4MDAwODcsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.oatsome.de', 'expiry': 1645610399, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': '.oatsome.de', 'expiry': 1652176816, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644400815988.1332837573'}, {'domain': 'oatsome.de', 'expiry': 1646992815, 'httpOnly': False, 'name': '_bc_c_set', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJkYXRlIjoxNjQ0NDAwODE1ODEwLCJ2ZXJzaW9uIjoyMDIwMTIxNjIyNTEwNywidHlwZV8wIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8xIjp7InRydWUiOjEsImZhbHNlIjowfSwidHlwZV8yIjp7InRydWUiOjEsImZhbHNlIjowfX0='}, {'domain': 'oatsome.de', 'httpOnly': False, 'name': 'prism_252928739', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '705afd00-0a57-4a48-881a-2fcf52bfae55'}, {'domain': 'oatsome.de', 'expiry': 1675936815, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1c08e954-a292-4a27-836c-090f03be0927'}, {'domain': 'oatsome.de', 'httpOnly': False, 'name': '_pk_id.935.e1d1', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1c87a3b14487ec0c.1644400800.1.1644400800.1644400800.'}, {'domain': 'oatsome.de', 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0MDA4MDAsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vb2F0c29tZS5kZS8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE2NDQ0MDA4MDAsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vb2F0c29tZS5kZS8ifX0='}, {'domain': 'oatsome.de', 'expiry': 1707472815, 'httpOnly': False, 'name': '_ga', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'GA1.1.66463836.1644400800'}, {'domain': 'oatsome.de', 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1.1.1912072861.1644400800'}, {'domain': 'oatsome.de', 'expiry': 1675936815, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1c08e954-a292-4a27-836c-090f03be0927'}, {'domain': '.oatsome.de', 'expiry': 1675936816, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1c08e954-a292-4a27-836c-090f03be0927'}, {'domain': '.oatsome.de', 'expiry': 1644402615, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'oatsome.de', 'expiry': 1644402615, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f8c9b7cd-24b0-41fd-ab3d-8f242b1d4303'}, {'domain': 'oatsome.de', 'httpOnly': False, 'name': '__zlcmid', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '18Skh3hxxo2vH83'}, {'domain': 'oatsome.de', 'expiry': 1644402615, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f8c9b7cd-24b0-41fd-ab3d-8f242b1d4303'}, {'domain': 'oatsome.de', 'expiry': 1645610416, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': 'oatsome.de', 'httpOnly': False, 'name': '_pk_ses.935.e1d1', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}]
+[After] Cookie-Name 1: _shopify_y
+[After] Cookie-Name 2: _gat
+[After] Cookie-Name 3: _gid
+[After] Cookie-Name 4: _ga
+[After] Cookie-Name 5: _ga_ZMDDBSK4Q3
+[After] Cookie-Name 6: _shopify_sa_t
+[After] Cookie-Name 7: _shopify_s
+[After] Cookie-Name 8: _shg_session_id
+[After] Cookie-Name 9: localization
+[After] Cookie-Name 10: _gat_UA-74816342-1
+[After] Cookie-Name 11: _s
+[After] Cookie-Name 12: _hjFirstSeen
+[After] Cookie-Name 13: _shg_user_id
+[After] Cookie-Name 14: _orig_referrer
+[After] Cookie-Name 15: _hjIncludedInSessionSample
+[After] Cookie-Name 16: _uetsid
+[After] Cookie-Name 17: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 18: _pin_unauth
+[After] Cookie-Name 19: _hjSession_2678970
+[After] Cookie-Name 20: _uetvid
+[After] Cookie-Name 21: cto_bundle
+[After] Cookie-Name 22: _ga_ZMDDBSK4Q3
+[After] Cookie-Name 23: secure_customer_sig
+[After] Cookie-Name 24: _hjSessionUser_2678970
+[After] Cookie-Name 25: _landing_page
+[After] Cookie-Name 26: _fbp
+[After] Cookie-Name 27: _bc_c_set
+[After] Cookie-Name 28: prism_252928739
+[After] Cookie-Name 29: _y
+[After] Cookie-Name 30: _pk_id.935.e1d1
+[After] Cookie-Name 31: __kla_id
+[After] Cookie-Name 32: _ga
+[After] Cookie-Name 33: _gcl_au
+[After] Cookie-Name 34: _shopify_y
+[After] Cookie-Name 35: _y
+[After] Cookie-Name 36: _shopify_sa_p
+[After] Cookie-Name 37: _shopify_s
+[After] Cookie-Name 38: __zlcmid
+[After] Cookie-Name 39: _s
+[After] Cookie-Name 40: cart_currency
+[After] Cookie-Name 41: _pk_ses.935.e1d1
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 31
+[Difference] Cookie-Name: 1: localization
+[Difference] Cookie-Name: 2: _hjFirstSeen
+[Difference] Cookie-Name: 3: _ga
+[Difference] Cookie-Name: 4: _shg_session_id
+[Difference] Cookie-Name: 5: prism_252928739
+[Difference] Cookie-Name: 6: _shopify_sa_t
+[Difference] Cookie-Name: 7: _gcl_au
+[Difference] Cookie-Name: 8: cto_bundle
+[Difference] Cookie-Name: 9: _fbp
+[Difference] Cookie-Name: 10: _hjSessionUser_2678970
+[Difference] Cookie-Name: 11: _uetsid
+[Difference] Cookie-Name: 12: _s
+[Difference] Cookie-Name: 13: _gid
+[Difference] Cookie-Name: 14: _y
+[Difference] Cookie-Name: 15: _gat_UA-74816342-1
+[Difference] Cookie-Name: 16: _shg_user_id
+[Difference] Cookie-Name: 17: _shopify_y
+[Difference] Cookie-Name: 18: _hjSession_2678970
+[Difference] Cookie-Name: 19: _pin_unauth
+[Difference] Cookie-Name: 20: _ga_ZMDDBSK4Q3
+[Difference] Cookie-Name: 21: _hjIncludedInSessionSample
+[Difference] Cookie-Name: 22: __kla_id
+[Difference] Cookie-Name: 23: _shopify_s
+[Difference] Cookie-Name: 24: __zlcmid
+[Difference] Cookie-Name: 25: _pk_ses.935.e1d1
+[Difference] Cookie-Name: 26: _bc_c_set
+[Difference] Cookie-Name: 27: _gat
+[Difference] Cookie-Name: 28: _uetvid
+[Difference] Cookie-Name: 29: _hjAbsoluteSessionInProgress
+[Difference] Cookie-Name: 30: _shopify_sa_p
+[Difference] Cookie-Name: 31: _pk_id.935.e1d1
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: True
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

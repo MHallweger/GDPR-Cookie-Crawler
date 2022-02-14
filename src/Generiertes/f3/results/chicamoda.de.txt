@@ -1,0 +1,60 @@
+Website 239: http://www.chicamoda.de/ | Created: 09.02.2022 14:53:46 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 14
+[Before] Website-Cookies: [{'domain': '.chicamoda.de', 'expiry': 1644501217, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1228381531.1644414817'}, {'domain': '.chicamoda.de', 'expiry': 1707486817, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.157455154.1644414817'}, {'domain': '.chicamoda.de', 'expiry': 1644416617, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.chicamoda.de', 'expiry': 1644416617, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A53%3A37.304Z'}, {'domain': '.chicamoda.de', 'expiry': 1644414877, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.chicamoda.de', 'expiry': 1644416618, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8b522b3a-7e28-4bda-97e5-580e1a954ac0'}, {'domain': '.chicamoda.de', 'expiry': 1675950818, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c772f772-7d6f-472a-984d-f37980ed1b68'}, {'domain': 'www.chicamoda.de', 'expiry': 1645624418, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': ''}, {'domain': '.chicamoda.de', 'expiry': 1644416618, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8b522b3a-7e28-4bda-97e5-580e1a954ac0'}, {'domain': '.chicamoda.de', 'expiry': 1675950818, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c772f772-7d6f-472a-984d-f37980ed1b68'}, {'domain': '.chicamoda.de', 'expiry': 1645624414, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.chicamoda.de', 'expiry': 1675950818, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'www.chicamoda.de', 'expiry': 1645624418, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.chicamoda.de', 'expiry': 1645624414, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2Fpassword'}]
+[Before] Cookie-Name 1: _gid
+[Before] Cookie-Name 2: _ga
+[Before] Cookie-Name 3: _shopify_sa_p
+[Before] Cookie-Name 4: _shopify_sa_t
+[Before] Cookie-Name 5: _gat
+[Before] Cookie-Name 6: _shopify_s
+[Before] Cookie-Name 7: _shopify_y
+[Before] Cookie-Name 8: localization
+[Before] Cookie-Name 9: _s
+[Before] Cookie-Name 10: _y
+[Before] Cookie-Name 11: _orig_referrer
+[Before] Cookie-Name 12: secure_customer_sig
+[Before] Cookie-Name 13: cart_currency
+[Before] Cookie-Name 14: _landing_page
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 14
+[After] Website-Cookies: [{'domain': '.chicamoda.de', 'expiry': 1644501217, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1228381531.1644414817'}, {'domain': '.chicamoda.de', 'expiry': 1707486817, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.157455154.1644414817'}, {'domain': '.chicamoda.de', 'expiry': 1644416617, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.chicamoda.de', 'expiry': 1644416617, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T13%3A53%3A37.304Z'}, {'domain': '.chicamoda.de', 'expiry': 1644414877, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.chicamoda.de', 'expiry': 1644416618, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8b522b3a-7e28-4bda-97e5-580e1a954ac0'}, {'domain': '.chicamoda.de', 'expiry': 1675950818, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c772f772-7d6f-472a-984d-f37980ed1b68'}, {'domain': 'www.chicamoda.de', 'expiry': 1645624418, 'httpOnly': False, 'name': 'localization', 'path': '/', 'secure': False, 'value': ''}, {'domain': '.chicamoda.de', 'expiry': 1644416618, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8b522b3a-7e28-4bda-97e5-580e1a954ac0'}, {'domain': '.chicamoda.de', 'expiry': 1675950818, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'c772f772-7d6f-472a-984d-f37980ed1b68'}, {'domain': '.chicamoda.de', 'expiry': 1645624414, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.chicamoda.de', 'expiry': 1675950818, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': 'www.chicamoda.de', 'expiry': 1645624418, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'secure': False, 'value': 'EUR'}, {'domain': '.chicamoda.de', 'expiry': 1645624414, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2Fpassword'}]
+[After] Cookie-Name 1: _gid
+[After] Cookie-Name 2: _ga
+[After] Cookie-Name 3: _shopify_sa_p
+[After] Cookie-Name 4: _shopify_sa_t
+[After] Cookie-Name 5: _gat
+[After] Cookie-Name 6: _shopify_s
+[After] Cookie-Name 7: _shopify_y
+[After] Cookie-Name 8: localization
+[After] Cookie-Name 9: _s
+[After] Cookie-Name 10: _y
+[After] Cookie-Name 11: _orig_referrer
+[After] Cookie-Name 12: secure_customer_sig
+[After] Cookie-Name 13: cart_currency
+[After] Cookie-Name 14: _landing_page
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _gat (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

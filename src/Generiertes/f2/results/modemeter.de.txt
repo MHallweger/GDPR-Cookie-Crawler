@@ -1,0 +1,89 @@
+Website 351: http://www.modemeter.de/ | Created: 09.02.2022 12:32:36 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: True
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button (GDPR-Banner): False
+[Initial] -> GDPR-Banner often use settings buttons. 
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 26
+[Before] Website-Cookies: [{'domain': 'modemeter.de', 'expiry': 1644492747, 'httpOnly': False, 'name': 'uwl_wishlist_temp_user', 'path': '/', 'secure': False, 'value': 'f5fa28d093f74aadb60f4f5537a7baff'}, {'domain': 'modemeter.de', 'expiry': 1644409976, 'httpOnly': False, 'name': 'uwl_user_on_db_f5fa28d093f74aadb60f4f5537a7baff', 'path': '/', 'secure': False, 'value': '0'}, {'domain': '.modemeter.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T11%3A32%3A21.268Z'}, {'domain': 'modemeter.de', 'expiry': 1644409976, 'httpOnly': False, 'name': 'uwl_active_status_modemeter-online.myshopify.com', 'path': '/', 'secure': False, 'value': 'active'}, {'domain': '.modemeter.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5fcd6980-5660-4206-84f0-8a53ad386d4f'}, {'domain': '.modemeter.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5fcd6980-5660-4206-84f0-8a53ad386d4f'}, {'domain': 'modemeter.de', 'expiry': 1644409976, 'httpOnly': False, 'name': 'uwl_settings_text_status_modemeter-online.myshopify.com', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': '.modemeter.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f5fa28d0-93f7-4aad-b60f-4f5537a7baff'}, {'domain': '.modemeter.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T11%3A32%3A21.263Z'}, {'domain': 'modemeter.de', 'expiry': 1644409976, 'httpOnly': False, 'name': 'uwl_login_status_modemeter-online.myshopify.com', 'path': '/', 'secure': False, 'value': 'inactive'}, {'domain': '.modemeter.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'modemeter.de', 'expiry': 1675942347, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': 'analytics%2Cfunctionality%2Cmarketing'}, {'domain': 'modemeter.de', 'expiry': 1644408145, 'httpOnly': False, 'name': '_sp_ses.c25f', 'path': '/', 'secure': False, 'value': '*'}, {'domain': 'modemeter.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'modemeter.de', 'expiry': 1645615956, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.modemeter.de', 'expiry': 1644408157, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.modemeter.de', 'expiry': 1675942340, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.modemeter.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f5fa28d0-93f7-4aad-b60f-4f5537a7baff'}, {'domain': 'modemeter.de', 'expiry': 1707478345, 'httpOnly': False, 'name': '_sp_id.c25f', 'path': '/', 'secure': False, 'value': '262a137e6363701e.1644406346.1.1644406346.1644406346'}, {'domain': '.modemeter.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'modemeter.de', 'expiry': 1675942356, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.modemeter.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.modemeter.de', 'expiry': 1645615940, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.modemeter.de', 'expiry': 1675942340, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%7D'}, {'domain': '.modemeter.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'modemeter.de', 'expiry': 1645615956, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}]
+[Before] Cookie-Name 1: uwl_wishlist_temp_user
+[Before] Cookie-Name 2: uwl_user_on_db_f5fa28d093f74aadb60f4f5537a7baff
+[Before] Cookie-Name 3: _shopify_sa_t
+[Before] Cookie-Name 4: uwl_active_status_modemeter-online.myshopify.com
+[Before] Cookie-Name 5: _shopify_s
+[Before] Cookie-Name 6: _s
+[Before] Cookie-Name 7: uwl_settings_text_status_modemeter-online.myshopify.com
+[Before] Cookie-Name 8: _y
+[Before] Cookie-Name 9: _shopify_d
+[Before] Cookie-Name 10: uwl_login_status_modemeter-online.myshopify.com
+[Before] Cookie-Name 11: _landing_page
+[Before] Cookie-Name 12: cookieconsent_preferences_disabled
+[Before] Cookie-Name 13: _sp_ses.c25f
+[Before] Cookie-Name 14: _shopify_evids
+[Before] Cookie-Name 15: cart_currency
+[Before] Cookie-Name 16: _shopify_tm
+[Before] Cookie-Name 17: _shopify_m
+[Before] Cookie-Name 18: _shopify_y
+[Before] Cookie-Name 19: _sp_id.c25f
+[Before] Cookie-Name 20: _shopify_sa_p
+[Before] Cookie-Name 21: secure_customer_sig
+[Before] Cookie-Name 22: _shopify_evids
+[Before] Cookie-Name 23: _shopify_tw
+[Before] Cookie-Name 24: _tracking_consent
+[Before] Cookie-Name 25: _orig_referrer
+[Before] Cookie-Name 26: localization
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 31
+[After] Website-Cookies: [{'domain': '.modemeter.de', 'expiry': 1675942362, 'httpOnly': False, 'name': '_tracking_consent', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%7B%22con%22%3A%7B%22GDPR%22%3A%220%22%7D%2C%22v%22%3A%222.0%22%2C%22reg%22%3A%22GDPR%22%2C%22lim%22%3A%5B%22GDPR%22%5D%7D'}, {'domain': 'modemeter.de', 'expiry': 1645615961, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2e020007dd0f833be76371d40c022045'}, {'domain': 'modemeter.de', 'expiry': 1645615961, 'httpOnly': True, 'name': 'cart_ts', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1644406361'}, {'domain': 'modemeter.de', 'expiry': 1675942361, 'httpOnly': False, 'name': 'cookieconsent_status', 'path': '/', 'secure': False, 'value': 'allow'}, {'domain': 'modemeter.de', 'expiry': 1644492747, 'httpOnly': False, 'name': 'uwl_wishlist_temp_user', 'path': '/', 'secure': False, 'value': 'f5fa28d093f74aadb60f4f5537a7baff'}, {'domain': 'modemeter.de', 'expiry': 1645615961, 'httpOnly': True, 'name': 'cart_ver', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'gcp-us-central1%3A1'}, {'domain': '.modemeter.de', 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T11%3A32%3A21.268Z'}, {'domain': 'modemeter.de', 'expiry': 1644409976, 'httpOnly': False, 'name': 'uwl_active_status_modemeter-online.myshopify.com', 'path': '/', 'secure': False, 'value': 'active'}, {'domain': '.modemeter.de', 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5fcd6980-5660-4206-84f0-8a53ad386d4f'}, {'domain': '.modemeter.de', 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '5fcd6980-5660-4206-84f0-8a53ad386d4f'}, {'domain': 'modemeter.de', 'expiry': 1644409976, 'httpOnly': False, 'name': 'uwl_settings_text_status_modemeter-online.myshopify.com', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': '.modemeter.de', 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f5fa28d0-93f7-4aad-b60f-4f5537a7baff'}, {'domain': '.modemeter.de', 'httpOnly': False, 'name': '_shopify_d', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T11%3A32%3A21.263Z'}, {'domain': 'modemeter.de', 'expiry': 1644409976, 'httpOnly': False, 'name': 'uwl_login_status_modemeter-online.myshopify.com', 'path': '/', 'secure': False, 'value': 'inactive'}, {'domain': '.modemeter.de', 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'modemeter.de', 'expiry': 1675942361, 'httpOnly': False, 'name': 'cookieconsent_preferences_disabled', 'path': '/', 'secure': False, 'value': 'analytics%2Cfunctionality%2Cmarketing'}, {'domain': 'modemeter.de', 'expiry': 1644408145, 'httpOnly': False, 'name': '_sp_ses.c25f', 'path': '/', 'secure': False, 'value': '*'}, {'domain': 'modemeter.de', 'expiry': 1644409976, 'httpOnly': False, 'name': 'uwl_user_on_db_f5fa28d093f74aadb60f4f5537a7baff', 'path': '/', 'secure': False, 'value': '0'}, {'domain': 'modemeter.de', 'expiry': 1645615961, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.modemeter.de', 'expiry': 1644408162, 'httpOnly': True, 'name': '_shopify_tm', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'modemeter.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'modemeter.de', 'expiry': 1645615961, 'httpOnly': False, 'name': 'cart', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd51c2a2714c840c89421f5e71ac35ec1'}, {'domain': '.modemeter.de', 'expiry': 1675942362, 'httpOnly': False, 'name': '_shopify_m', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'session'}, {'domain': '.modemeter.de', 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'f5fa28d0-93f7-4aad-b60f-4f5537a7baff'}, {'domain': 'modemeter.de', 'expiry': 1707478345, 'httpOnly': False, 'name': '_sp_id.c25f', 'path': '/', 'secure': False, 'value': '262a137e6363701e.1644406346.1.1644406346.1644406346'}, {'domain': '.modemeter.de', 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'modemeter.de', 'expiry': 1675942361, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.modemeter.de', 'httpOnly': False, 'name': '_shopify_evids', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.modemeter.de', 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'modemeter.de', 'expiry': 1645615961, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'DE'}, {'domain': '.modemeter.de', 'expiry': 1645615940, 'httpOnly': True, 'name': '_shopify_tw', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}]
+[After] Cookie-Name 1: _tracking_consent
+[After] Cookie-Name 2: cart_sig
+[After] Cookie-Name 3: cart_ts
+[After] Cookie-Name 4: cookieconsent_status
+[After] Cookie-Name 5: uwl_wishlist_temp_user
+[After] Cookie-Name 6: cart_ver
+[After] Cookie-Name 7: _shopify_sa_t
+[After] Cookie-Name 8: uwl_active_status_modemeter-online.myshopify.com
+[After] Cookie-Name 9: _shopify_s
+[After] Cookie-Name 10: _s
+[After] Cookie-Name 11: uwl_settings_text_status_modemeter-online.myshopify.com
+[After] Cookie-Name 12: _y
+[After] Cookie-Name 13: _shopify_d
+[After] Cookie-Name 14: uwl_login_status_modemeter-online.myshopify.com
+[After] Cookie-Name 15: _landing_page
+[After] Cookie-Name 16: cookieconsent_preferences_disabled
+[After] Cookie-Name 17: _sp_ses.c25f
+[After] Cookie-Name 18: uwl_user_on_db_f5fa28d093f74aadb60f4f5537a7baff
+[After] Cookie-Name 19: cart_currency
+[After] Cookie-Name 20: _shopify_tm
+[After] Cookie-Name 21: _shopify_evids
+[After] Cookie-Name 22: cart
+[After] Cookie-Name 23: _shopify_m
+[After] Cookie-Name 24: _shopify_y
+[After] Cookie-Name 25: _sp_id.c25f
+[After] Cookie-Name 26: _shopify_sa_p
+[After] Cookie-Name 27: secure_customer_sig
+[After] Cookie-Name 28: _shopify_evids
+[After] Cookie-Name 29: _orig_referrer
+[After] Cookie-Name 30: localization
+[After] Cookie-Name 31: _shopify_tw
+
+############################## Third party cookies used before acceptance ##############################
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 5
+[Difference] Cookie-Name: 1: cart
+[Difference] Cookie-Name: 2: cart_ts
+[Difference] Cookie-Name: 3: cart_ver
+[Difference] Cookie-Name: 4: cookieconsent_status
+[Difference] Cookie-Name: 5: cart_sig
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it (GDPR): False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: False
+[Analysis] Website uses unauthorized third-party cookies at the beginning: False
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: True
+
+[Analysis] Website is GDPR compliant!

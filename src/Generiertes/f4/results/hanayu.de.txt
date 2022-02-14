@@ -1,0 +1,81 @@
+Website 262: http://www.hanayu.de/ | Created: 09.02.2022 18:26:28 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 23
+[Before] Website-Cookies: [{'domain': 'hanayu.de', 'expiry': 1647019578, 'httpOnly': False, 'name': 'sa_session', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '{"r":"","l":"https://hanayu.de/"}'}, {'domain': 'hanayu.de', 'expiry': 1707499578, 'httpOnly': False, 'name': '__pf_user', 'path': '/', 'secure': False, 'value': '15e09a50-6e2b-49e7-b947-7b4215759dc5'}, {'domain': 'hanayu.de', 'expiry': 1644427875, 'httpOnly': False, 'name': 'outbrain_cid_fetch', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': '.hanayu.de', 'expiry': 1652203578, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644427575293.419066226'}, {'domain': '.hanayu.de', 'expiry': 1644513975, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1024667574.1644427575'}, {'domain': '.hanayu.de', 'expiry': 1644427635, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.hanayu.de', 'expiry': 1707499575, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1588331143.1644427575'}, {'domain': '.hanayu.de', 'expiry': 1644429374, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.hanayu.de', 'expiry': 1644429374, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A26%3A14.972Z'}, {'domain': '.hanayu.de', 'expiry': 1644429374, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.hanayu.de', 'expiry': 1644429374, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'hanayu.de', 'expiry': 1644428478, 'httpOnly': False, 'name': '__pf_session', 'path': '/', 'secure': False, 'value': 'f315e09a-506e-4be9-a7b9-477b4215759d'}, {'domain': '.hanayu.de', 'expiry': 1675963574, 'httpOnly': False, 'name': '_hjSessionUser_2471853', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImMyZDUzNDFmLTVlZTQtNTliOS1hMmE0LTRlMTBiYjQ0NWU5ZiIsImNyZWF0ZWQiOjE2NDQ0Mjc1NzM4NDcsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.hanayu.de', 'expiry': 1675963581, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0498cc5a-eec5-4210-acce-eae038bd26e7'}, {'domain': '.hanayu.de', 'expiry': 1644429381, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '655fe1ac-09f2-4fca-817b-e3e9c0c6a9b2'}, {'domain': '.hanayu.de', 'expiry': 1644429374, 'httpOnly': False, 'name': '_hjSession_2471853', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjJkMjIwOGE4LWM0NjItNGY1OC1hNjU5LWM3YTIwNGJmZTZlMCIsImNyZWF0ZWQiOjE2NDQ0Mjc1NzQ3NzcsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': '.hanayu.de', 'expiry': 1675963581, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0498cc5a-eec5-4210-acce-eae038bd26e7'}, {'domain': 'hanayu.de', 'httpOnly': False, 'name': 'qab_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.hanayu.de', 'expiry': 1645637173, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.hanayu.de', 'expiry': 1644429381, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '655fe1ac-09f2-4fca-817b-e3e9c0c6a9b2'}, {'domain': 'hanayu.de', 'expiry': 1644427694, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.hanayu.de', 'expiry': 1645637173, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'hanayu.de', 'expiry': 1675963581, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: sa_session
+[Before] Cookie-Name 2: __pf_user
+[Before] Cookie-Name 3: outbrain_cid_fetch
+[Before] Cookie-Name 4: _fbp
+[Before] Cookie-Name 5: _gid
+[Before] Cookie-Name 6: _gat
+[Before] Cookie-Name 7: _ga
+[Before] Cookie-Name 8: _shopify_sa_p
+[Before] Cookie-Name 9: _shopify_sa_t
+[Before] Cookie-Name 10: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 11: _hjFirstSeen
+[Before] Cookie-Name 12: __pf_session
+[Before] Cookie-Name 13: _hjSessionUser_2471853
+[Before] Cookie-Name 14: _shopify_y
+[Before] Cookie-Name 15: _s
+[Before] Cookie-Name 16: _hjSession_2471853
+[Before] Cookie-Name 17: _y
+[Before] Cookie-Name 18: qab_previous_pathname
+[Before] Cookie-Name 19: _orig_referrer
+[Before] Cookie-Name 20: _shopify_s
+[Before] Cookie-Name 21: _hjIncludedInPageviewSample
+[Before] Cookie-Name 22: _landing_page
+[Before] Cookie-Name 23: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 24
+[After] Website-Cookies: [{'domain': 'hanayu.de', 'expiry': 1675963593, 'httpOnly': False, 'name': 'eg_cookieconsent_status', 'path': '/', 'secure': False, 'value': 'dismiss'}, {'domain': 'hanayu.de', 'expiry': 1647019578, 'httpOnly': False, 'name': 'sa_session', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '{"r":"","l":"https://hanayu.de/"}'}, {'domain': 'hanayu.de', 'expiry': 1707499578, 'httpOnly': False, 'name': '__pf_user', 'path': '/', 'secure': False, 'value': '15e09a50-6e2b-49e7-b947-7b4215759dc5'}, {'domain': 'hanayu.de', 'expiry': 1644427875, 'httpOnly': False, 'name': 'outbrain_cid_fetch', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': '.hanayu.de', 'expiry': 1652203593, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644427575293.419066226'}, {'domain': 'hanayu.de', 'expiry': 1675963581, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}, {'domain': '.hanayu.de', 'expiry': 1644513975, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.1024667574.1644427575'}, {'domain': '.hanayu.de', 'expiry': 1675963581, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0498cc5a-eec5-4210-acce-eae038bd26e7'}, {'domain': '.hanayu.de', 'expiry': 1644427635, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.hanayu.de', 'expiry': 1707499575, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.1588331143.1644427575'}, {'domain': '.hanayu.de', 'expiry': 1644429374, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.hanayu.de', 'expiry': 1644429374, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-09T17%3A26%3A14.972Z'}, {'domain': '.hanayu.de', 'expiry': 1675963581, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0498cc5a-eec5-4210-acce-eae038bd26e7'}, {'domain': '.hanayu.de', 'expiry': 1644429374, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '0'}, {'domain': '.hanayu.de', 'expiry': 1644429374, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'hanayu.de', 'expiry': 1644427694, 'httpOnly': False, 'name': '_hjIncludedInPageviewSample', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'hanayu.de', 'expiry': 1644428478, 'httpOnly': False, 'name': '__pf_session', 'path': '/', 'secure': False, 'value': 'f315e09a-506e-4be9-a7b9-477b4215759d'}, {'domain': '.hanayu.de', 'expiry': 1675963574, 'httpOnly': False, 'name': '_hjSessionUser_2471853', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6ImMyZDUzNDFmLTVlZTQtNTliOS1hMmE0LTRlMTBiYjQ0NWU5ZiIsImNyZWF0ZWQiOjE2NDQ0Mjc1NzM4NDcsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.hanayu.de', 'expiry': 1644429381, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '655fe1ac-09f2-4fca-817b-e3e9c0c6a9b2'}, {'domain': '.hanayu.de', 'expiry': 1644429374, 'httpOnly': False, 'name': '_hjSession_2471853', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjJkMjIwOGE4LWM0NjItNGY1OC1hNjU5LWM3YTIwNGJmZTZlMCIsImNyZWF0ZWQiOjE2NDQ0Mjc1NzQ3NzcsImluU2FtcGxlIjp0cnVlfQ=='}, {'domain': 'hanayu.de', 'httpOnly': False, 'name': 'qab_previous_pathname', 'path': '/', 'secure': False, 'value': '/'}, {'domain': '.hanayu.de', 'expiry': 1645637173, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.hanayu.de', 'expiry': 1644429381, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '655fe1ac-09f2-4fca-817b-e3e9c0c6a9b2'}, {'domain': '.hanayu.de', 'expiry': 1645637173, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}]
+[After] Cookie-Name 1: eg_cookieconsent_status
+[After] Cookie-Name 2: sa_session
+[After] Cookie-Name 3: __pf_user
+[After] Cookie-Name 4: outbrain_cid_fetch
+[After] Cookie-Name 5: _fbp
+[After] Cookie-Name 6: secure_customer_sig
+[After] Cookie-Name 7: _gid
+[After] Cookie-Name 8: _y
+[After] Cookie-Name 9: _gat
+[After] Cookie-Name 10: _ga
+[After] Cookie-Name 11: _shopify_sa_p
+[After] Cookie-Name 12: _shopify_sa_t
+[After] Cookie-Name 13: _shopify_y
+[After] Cookie-Name 14: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 15: _hjFirstSeen
+[After] Cookie-Name 16: _hjIncludedInPageviewSample
+[After] Cookie-Name 17: __pf_session
+[After] Cookie-Name 18: _hjSessionUser_2471853
+[After] Cookie-Name 19: _s
+[After] Cookie-Name 20: _hjSession_2471853
+[After] Cookie-Name 21: qab_previous_pathname
+[After] Cookie-Name 22: _orig_referrer
+[After] Cookie-Name 23: _shopify_s
+[After] Cookie-Name 24: _landing_page
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjIncludedInPageviewSample (Hotjar (User experience tool))
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 1
+[Difference] Cookie-Name: 1: eg_cookieconsent_status
+
+############################## Analysis ##############################
+[Analysis] Website offers the user, in addition to accepting the cookie-banner, the possibility to reject it: False
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!

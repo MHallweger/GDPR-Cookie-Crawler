@@ -1,0 +1,104 @@
+Website 296: http://www.cloudninehair.de/ | Created: 10.02.2022 13:40:01 | HEADLESS-MODE: OFF
+[Initial] Website uses a cookie banner: True
+[Initial] Website uses a GDPR compliant cookie banner: False
+[Initial] Website uses a "Accept"-Button: True
+[Initial] Website uses a "Decline"-Button: False
+
+############################## Before accepting the Cookie-Banner ##############################
+[Before] Website-Cookie-Amount: 34
+[Before] Website-Cookies: [{'domain': '.www.cloudninehair.de', 'expiry': 1676032792, 'httpOnly': False, 'name': 'swym-cu_ct', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'undefined'}, {'domain': '.cloudninehair.de', 'httpOnly': False, 'name': 'ku1-sid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': 'wR_JueU6TPBP58xMf-R_Z'}, {'domain': '.www.cloudninehair.de', 'expiry': 1644498592, 'httpOnly': False, 'name': 'swym-o_s', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'true'}, {'domain': 'www.cloudninehair.de', 'expiry': 1707568791, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0OTY3OTIsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LmNsb3VkbmluZWhhaXIuZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NDk2NzkyLCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL3d3dy5jbG91ZG5pbmVoYWlyLmRlLyJ9fQ=='}, {'domain': '.www.cloudninehair.de', 'expiry': 1644498592, 'httpOnly': False, 'name': 'swym-session-id', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"aqzc1r2sy2brpyro3bplonwjc3v0okmm7vfmiqny0cfiarce4aadzgjvkb05r4xu"'}, {'domain': '.www.cloudninehair.de', 'expiry': 1676032792, 'httpOnly': False, 'name': 'swym-swymRegid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"K4Dc_1otQM0sUFyivfJGetlP9YNJHULHK3NM3eXs-yYAQG3ZSh-URqSSsAnsLtcUIlzFz0oE1xfOYINu9LzzMW93pgZv8M6cHxFIZ0uXi9zonzsBauZyNT6fqNwsOr1lFvcuz2NBL8NmXEq0rDWt_UbYaYnG8jiEg06Tx96BBwo"'}, {'domain': '.cloudninehair.de', 'expiry': 1645706390, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.cloudninehair.de', 'expiry': 1644498591, 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'secure': True, 'value': '0a35159e-aa24-4ecc-84f0-f553bb1f42f7'}, {'domain': '.cloudninehair.de', 'expiry': 1676032793, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '92bfe8b4-d2f7-4d53-bad2-5c239a0de693'}, {'domain': '.cloudninehair.de', 'expiry': 1652272792, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644496791633.742582236'}, {'domain': 'www.cloudninehair.de', 'expiry': 1644498590, 'httpOnly': False, 'name': '_shopify_country', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'Germany'}, {'domain': '.cloudninehair.de', 'expiry': 1644498591, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.cloudninehair.de', 'expiry': 1644498591, 'httpOnly': False, 'name': '_hjSession_2373457', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjZiOTFmMjhmLTY4ZDctNGUwZi1iMmY0LWRiYmZiM2ZmMDgwZSIsImNyZWF0ZWQiOjE2NDQ0OTY3OTE0OTAsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': '.cloudninehair.de', 'expiry': 1676032791, 'httpOnly': False, 'name': '_hjSessionUser_2373457', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjQwNDMzNTJkLWU2NTgtNTBiMS1hODdlLWU2YTFjNTlmODkwNSIsImNyZWF0ZWQiOjE2NDQ0OTY3OTE0NjgsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.cloudninehair.de', 'expiry': 1676032793, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '92bfe8b4-d2f7-4d53-bad2-5c239a0de693'}, {'domain': 'www.cloudninehair.de', 'expiry': 1802176791, 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'secure': True, 'value': 'd0c24556-1767-47c3-9388-3d9b6c90aa78'}, {'domain': '.cloudninehair.de', 'expiry': 1644498591, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.cloudninehair.de', 'expiry': 1676032791, 'httpOnly': False, 'name': 'sec-banner', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': 'www.cloudninehair.de', 'expiry': 1645706393, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.cloudninehair.de', 'expiry': 1644498593, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3da8ea4a-2ad4-494e-bb2b-78f0750e2bae'}, {'domain': '.cloudninehair.de', 'expiry': 1644498593, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3da8ea4a-2ad4-494e-bb2b-78f0750e2bae'}, {'domain': 'www.cloudninehair.de', 'expiry': 1644500391, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.cloudninehair.de', 'expiry': 1644583191, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.2121692236.1644496791'}, {'domain': '.cloudninehair.de', 'expiry': 1645706390, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.cloudninehair.de', 'expiry': 1644496851, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.cloudninehair.de', 'expiry': 1690630792, 'httpOnly': False, 'name': 'ku1-vid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': '4ac0156a-d139-9829-4c63-b6783dfd0d3a'}, {'domain': '.cloudninehair.de', 'expiry': 1707568791, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.758594936.1644496791'}, {'domain': '.www.cloudninehair.de', 'expiry': 1676032791, 'httpOnly': False, 'name': 'swym-pid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"zkIM3/bAhlBu8XT0iQZBkoB4zEfKPlfwSz+VNGdsLPQ="'}, {'domain': '.cloudninehair.de', 'expiry': 1644498591, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.cloudninehair.de', 'expiry': 1645706393, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.www.cloudninehair.de', 'expiry': 1676032792, 'httpOnly': False, 'name': 'swym-email', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'null'}, {'domain': '.cloudninehair.de', 'expiry': 1644498591, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T12%3A39%3A51.360Z'}, {'domain': 'www.cloudninehair.de', 'expiry': 1645706392, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ebc9a406279b1fdcaf4c12c961a6544f'}, {'domain': 'www.cloudninehair.de', 'expiry': 1676032793, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[Before] Cookie-Name 1: swym-cu_ct
+[Before] Cookie-Name 2: ku1-sid
+[Before] Cookie-Name 3: swym-o_s
+[Before] Cookie-Name 4: __kla_id
+[Before] Cookie-Name 5: swym-session-id
+[Before] Cookie-Name 6: swym-swymRegid
+[Before] Cookie-Name 7: _landing_page
+[Before] Cookie-Name 8: _shg_session_id
+[Before] Cookie-Name 9: _shopify_y
+[Before] Cookie-Name 10: _fbp
+[Before] Cookie-Name 11: _shopify_country
+[Before] Cookie-Name 12: _hjAbsoluteSessionInProgress
+[Before] Cookie-Name 13: _hjSession_2373457
+[Before] Cookie-Name 14: _hjSessionUser_2373457
+[Before] Cookie-Name 15: _y
+[Before] Cookie-Name 16: _shg_user_id
+[Before] Cookie-Name 17: _hjFirstSeen
+[Before] Cookie-Name 18: sec-banner
+[Before] Cookie-Name 19: localization
+[Before] Cookie-Name 20: _shopify_s
+[Before] Cookie-Name 21: _s
+[Before] Cookie-Name 22: shopify_pay_redirect
+[Before] Cookie-Name 23: _gid
+[Before] Cookie-Name 24: _orig_referrer
+[Before] Cookie-Name 25: _gat
+[Before] Cookie-Name 26: ku1-vid
+[Before] Cookie-Name 27: _ga
+[Before] Cookie-Name 28: swym-pid
+[Before] Cookie-Name 29: _shopify_sa_p
+[Before] Cookie-Name 30: cart_currency
+[Before] Cookie-Name 31: swym-email
+[Before] Cookie-Name 32: _shopify_sa_t
+[Before] Cookie-Name 33: cart_sig
+[Before] Cookie-Name 34: secure_customer_sig
+
+############################## After accepting the Cookie-Banner (or not) ##############################
+[After] Website-Cookie-Amount: 34
+[After] Website-Cookies: [{'domain': '.www.cloudninehair.de', 'expiry': 1676032792, 'httpOnly': False, 'name': 'swym-cu_ct', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'undefined'}, {'domain': '.cloudninehair.de', 'httpOnly': False, 'name': 'ku1-sid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': 'wR_JueU6TPBP58xMf-R_Z'}, {'domain': '.www.cloudninehair.de', 'expiry': 1644498592, 'httpOnly': False, 'name': 'swym-o_s', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'true'}, {'domain': 'www.cloudninehair.de', 'expiry': 1707568791, 'httpOnly': False, 'name': '__kla_id', 'path': '/', 'secure': False, 'value': 'eyIkcmVmZXJyZXIiOnsidHMiOjE2NDQ0OTY3OTIsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LmNsb3VkbmluZWhhaXIuZGUvIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNjQ0NDk2NzkyLCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL3d3dy5jbG91ZG5pbmVoYWlyLmRlLyJ9fQ=='}, {'domain': '.www.cloudninehair.de', 'expiry': 1644498592, 'httpOnly': False, 'name': 'swym-session-id', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"aqzc1r2sy2brpyro3bplonwjc3v0okmm7vfmiqny0cfiarce4aadzgjvkb05r4xu"'}, {'domain': '.www.cloudninehair.de', 'expiry': 1676032792, 'httpOnly': False, 'name': 'swym-swymRegid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"K4Dc_1otQM0sUFyivfJGetlP9YNJHULHK3NM3eXs-yYAQG3ZSh-URqSSsAnsLtcUIlzFz0oE1xfOYINu9LzzMW93pgZv8M6cHxFIZ0uXi9zonzsBauZyNT6fqNwsOr1lFvcuz2NBL8NmXEq0rDWt_UbYaYnG8jiEg06Tx96BBwo"'}, {'domain': '.cloudninehair.de', 'expiry': 1645706390, 'httpOnly': True, 'name': '_landing_page', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '%2F'}, {'domain': 'www.cloudninehair.de', 'expiry': 1644498591, 'httpOnly': False, 'name': '_shg_session_id', 'path': '/', 'secure': True, 'value': '0a35159e-aa24-4ecc-84f0-f553bb1f42f7'}, {'domain': '.cloudninehair.de', 'expiry': 1676032793, 'httpOnly': False, 'name': '_shopify_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '92bfe8b4-d2f7-4d53-bad2-5c239a0de693'}, {'domain': '.cloudninehair.de', 'expiry': 1652272792, 'httpOnly': False, 'name': '_fbp', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fb.1.1644496791633.742582236'}, {'domain': 'www.cloudninehair.de', 'expiry': 1644498590, 'httpOnly': False, 'name': '_shopify_country', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'Germany'}, {'domain': '.cloudninehair.de', 'expiry': 1644498591, 'httpOnly': False, 'name': '_hjAbsoluteSessionInProgress', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.cloudninehair.de', 'expiry': 1644498591, 'httpOnly': False, 'name': '_hjSession_2373457', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjZiOTFmMjhmLTY4ZDctNGUwZi1iMmY0LWRiYmZiM2ZmMDgwZSIsImNyZWF0ZWQiOjE2NDQ0OTY3OTE0OTAsImluU2FtcGxlIjpmYWxzZX0='}, {'domain': '.cloudninehair.de', 'expiry': 1676032791, 'httpOnly': False, 'name': '_hjSessionUser_2373457', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'eyJpZCI6IjQwNDMzNTJkLWU2NTgtNTBiMS1hODdlLWU2YTFjNTlmODkwNSIsImNyZWF0ZWQiOjE2NDQ0OTY3OTE0NjgsImV4aXN0aW5nIjpmYWxzZX0='}, {'domain': '.cloudninehair.de', 'expiry': 1676032793, 'httpOnly': False, 'name': '_y', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '92bfe8b4-d2f7-4d53-bad2-5c239a0de693'}, {'domain': 'www.cloudninehair.de', 'expiry': 1802176791, 'httpOnly': False, 'name': '_shg_user_id', 'path': '/', 'secure': True, 'value': 'd0c24556-1767-47c3-9388-3d9b6c90aa78'}, {'domain': '.cloudninehair.de', 'expiry': 1644498591, 'httpOnly': False, 'name': '_hjFirstSeen', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'www.cloudninehair.de', 'expiry': 1676032791, 'httpOnly': False, 'name': 'sec-banner', 'path': '/', 'secure': False, 'value': 'true'}, {'domain': 'www.cloudninehair.de', 'expiry': 1645706393, 'httpOnly': False, 'name': 'localization', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.cloudninehair.de', 'expiry': 1644498593, 'httpOnly': False, 'name': '_shopify_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3da8ea4a-2ad4-494e-bb2b-78f0750e2bae'}, {'domain': '.cloudninehair.de', 'expiry': 1644498593, 'httpOnly': False, 'name': '_s', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '3da8ea4a-2ad4-494e-bb2b-78f0750e2bae'}, {'domain': 'www.cloudninehair.de', 'expiry': 1644500391, 'httpOnly': False, 'name': 'shopify_pay_redirect', 'path': '/', 'secure': False, 'value': 'pending'}, {'domain': '.cloudninehair.de', 'expiry': 1644583191, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False, 'value': 'GA1.2.2121692236.1644496791'}, {'domain': '.cloudninehair.de', 'expiry': 1645706390, 'httpOnly': True, 'name': '_orig_referrer', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': '.cloudninehair.de', 'expiry': 1644496851, 'httpOnly': False, 'name': '_gat', 'path': '/', 'secure': False, 'value': '1'}, {'domain': '.cloudninehair.de', 'expiry': 1690630792, 'httpOnly': False, 'name': 'ku1-vid', 'path': '/', 'sameSite': 'Strict', 'secure': True, 'value': '4ac0156a-d139-9829-4c63-b6783dfd0d3a'}, {'domain': '.cloudninehair.de', 'expiry': 1707568791, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False, 'value': 'GA1.2.758594936.1644496791'}, {'domain': '.www.cloudninehair.de', 'expiry': 1676032791, 'httpOnly': False, 'name': 'swym-pid', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '"zkIM3/bAhlBu8XT0iQZBkoB4zEfKPlfwSz+VNGdsLPQ="'}, {'domain': '.cloudninehair.de', 'expiry': 1644498591, 'httpOnly': False, 'name': '_shopify_sa_p', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': ''}, {'domain': 'www.cloudninehair.de', 'expiry': 1645706393, 'httpOnly': False, 'name': 'cart_currency', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'EUR'}, {'domain': '.www.cloudninehair.de', 'expiry': 1676032792, 'httpOnly': False, 'name': 'swym-email', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'null'}, {'domain': '.cloudninehair.de', 'expiry': 1644498591, 'httpOnly': False, 'name': '_shopify_sa_t', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2022-02-10T12%3A39%3A51.360Z'}, {'domain': 'www.cloudninehair.de', 'expiry': 1645706392, 'httpOnly': True, 'name': 'cart_sig', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ebc9a406279b1fdcaf4c12c961a6544f'}, {'domain': 'www.cloudninehair.de', 'expiry': 1676032793, 'httpOnly': True, 'name': 'secure_customer_sig', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': ''}]
+[After] Cookie-Name 1: swym-cu_ct
+[After] Cookie-Name 2: ku1-sid
+[After] Cookie-Name 3: swym-o_s
+[After] Cookie-Name 4: __kla_id
+[After] Cookie-Name 5: swym-session-id
+[After] Cookie-Name 6: swym-swymRegid
+[After] Cookie-Name 7: _landing_page
+[After] Cookie-Name 8: _shg_session_id
+[After] Cookie-Name 9: _shopify_y
+[After] Cookie-Name 10: _fbp
+[After] Cookie-Name 11: _shopify_country
+[After] Cookie-Name 12: _hjAbsoluteSessionInProgress
+[After] Cookie-Name 13: _hjSession_2373457
+[After] Cookie-Name 14: _hjSessionUser_2373457
+[After] Cookie-Name 15: _y
+[After] Cookie-Name 16: _shg_user_id
+[After] Cookie-Name 17: _hjFirstSeen
+[After] Cookie-Name 18: sec-banner
+[After] Cookie-Name 19: localization
+[After] Cookie-Name 20: _shopify_s
+[After] Cookie-Name 21: _s
+[After] Cookie-Name 22: shopify_pay_redirect
+[After] Cookie-Name 23: _gid
+[After] Cookie-Name 24: _orig_referrer
+[After] Cookie-Name 25: _gat
+[After] Cookie-Name 26: ku1-vid
+[After] Cookie-Name 27: _ga
+[After] Cookie-Name 28: swym-pid
+[After] Cookie-Name 29: _shopify_sa_p
+[After] Cookie-Name 30: cart_currency
+[After] Cookie-Name 31: swym-email
+[After] Cookie-Name 32: _shopify_sa_t
+[After] Cookie-Name 33: cart_sig
+[After] Cookie-Name 34: secure_customer_sig
+
+############################## Third party cookies used before acceptance ##############################
+[Used before] Cookie-Name: __kla_id (Klaviyo (E-Mail-Marketing))
+[Used before] Cookie-Name: _fbp (Facebook Pixel)
+[Used before] Cookie-Name: _hjAbsoluteSessionInProgress (Hotjar (User experience tool))
+[Used before] Cookie-Name: _hjFirstSeen (Hotjar (User experience tool))
+[Used before] Cookie-Name: _gid (Google Analytics)
+[Used before] Cookie-Name: _gat (Google Analytics)
+[Used before] Cookie-Name: _ga (Google Analytics)
+
+############################## Difference (Before/After) ##############################
+[Difference] Cookies added: 0
+
+############################## Special Characteristics ##############################
+[Special] Website has characteristics for a cookie banner, but it is not displayed to the user
+
+############################## Analysis ##############################
+[Analysis] No corresponding buttons available, because cookie banner is not displayed
+[Analysis] Website generally uses cookies at the beginning (non-essential), although they are not authorized by the user: True
+[Analysis] Website uses unauthorized third-party cookies at the beginning: True
+[Analysis] Website respects the user's decision and loads THIRD-PARTY-COOKIES only after approval: False
+
+[Analysis] Website is NOT GDPR compliant!
