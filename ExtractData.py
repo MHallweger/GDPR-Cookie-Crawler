@@ -1,6 +1,5 @@
 import time
 import glob
-import os
 
 # Counter
 # Cookie-Use/Button-Use
@@ -68,22 +67,22 @@ text_files = []
 c_amount_before = 0
 c_amount_after = 0
 c_amount_difference = 0
-german_language_output = True  # Choose language output: german = True, english = False
+german_language_output = False  # Choose language output: german = True, english = False
 
 
 def calculate_other_values(base_value):
     global german_language_output
 
     if german_language_output:
-        return " => [Prozentsatz: " + str(int((base_value / text_files.__len__()) * 100)) + "%]" + ", [" + str(text_files.__len__() - base_value) + \
-               " Webseite(n) nicht" + "]"
+        return " => [Prozentsatz: " + str(round((base_value / text_files.__len__() * 100), 2)) + "%]" + ", [" + \
+               str(text_files.__len__() - base_value) + " Webseite(n) nicht" + "]"
     else:
-        return " => [Percentage: " + str(int((base_value / text_files.__len__()) * 100)) + "%]" + ", [" + str(text_files.__len__() - base_value) + \
-               " website(s) not" + "]"
+        return " => [Percentage: " + str(round((base_value / text_files.__len__() * 100), 2)) + "%]" + ", [" + \
+               str(text_files.__len__() - base_value) + " website(s) not" + "]"
 
 
 def calculate_percentage_value(base_value):
-    return " [" + str(int(base_value / text_files.__len__() * 100)) + "%" + "]"
+    return " [" + str(round(base_value / text_files.__len__() * 100, 2)) + "%" + "]"
 
 
 def analyze_generated_files():
@@ -247,7 +246,7 @@ def analyze_generated_files():
         found_lucky_orange = False
 
     time.sleep(3)
-    print("Analysis finished!")
+    print("\nAnalysis finished!")
     time.sleep(1)
     print("Results:")
     time.sleep(1)
@@ -338,6 +337,93 @@ def analyze_generated_files():
         print("Anzahl der Webseiten, welche die Entscheidung des Nutzers respektieren und third-party-cookies nur dann laden, wenn dies ausdrücklich "
               "gewünscht ist: " + str(websites_respects_users_decision) + calculate_other_values(websites_respects_users_decision))
         print("\nAnzahl der Webseiten, welche GDPR-konform sind: " +
+              str(websites_that_are_gdpr_compliant) + calculate_other_values(websites_that_are_gdpr_compliant))
+    else:
+        print("\n#################### Basic results ####################")
+        print("Number of websites that use a cookie banner (have characteristics): " +
+              str(websites_use_cookie_banner) + calculate_other_values(websites_use_cookie_banner))
+        print("Number of websites that use a GDPR compliant cookie banner: " +
+              str(websites_use_gdpr_cookie_banner) + calculate_other_values(websites_use_gdpr_cookie_banner))
+        print("Number of websites that use an "'"Accept"'" button (characteristics of it): " +
+              str(websites_use_accept_button) + calculate_other_values(websites_use_accept_button))
+        print("Number of websites that use an "'"Decline"'" button (characteristics of it): " +
+              str(websites_use_decline_button) + calculate_other_values(websites_use_decline_button))
+        print("Number of websites that offer GDPR-compliant selection mechanisms: " +
+              str(websites_use_gdpr_decline_button) + calculate_other_values(websites_use_gdpr_decline_button))
+
+        print("\n#################### Cookie-Amount-Results ####################")
+        print("---Before:")
+        print("Number of websites that have used less than 10 cookies before acceptance: " +
+              str(websites_use_less_than_10_c_before) + calculate_percentage_value(websites_use_less_than_10_c_before))
+        print("Number of websites that have used between 10 and 20 cookies before acceptance: " +
+              str(websites_use_less_than_20_c_before) + calculate_percentage_value(websites_use_less_than_20_c_before))
+        print("Number of websites that have used between 20 and 30 cookies before acceptance: " +
+              str(websites_use_less_than_30_c_before) + calculate_percentage_value(websites_use_less_than_30_c_before))
+        print("Number of websites that have used between 30 and 40 cookies before acceptance: " +
+              str(websites_use_less_than_40_c_before) + calculate_percentage_value(websites_use_less_than_40_c_before))
+        print("Number of websites that have used between 40 and 50 cookies before acceptance: " +
+              str(websites_use_less_than_50_c_before) + calculate_percentage_value(websites_use_less_than_50_c_before))
+        print("Number of websites that have used more than 50 cookies before acceptance: " +
+              str(websites_use_more_than_50_c_before) + calculate_percentage_value(websites_use_more_than_50_c_before))
+
+        print("---After:")
+        print("Number of websites that have used less than 10 cookies after acceptance: " +
+              str(websites_use_less_than_10_c_after) + calculate_percentage_value(websites_use_less_than_10_c_after))
+        print("Number of websites that have used between 10 and 20 cookies after acceptance: " +
+              str(websites_use_less_than_20_c_after) + calculate_percentage_value(websites_use_less_than_20_c_after))
+        print("Number of websites that have used between 20 and 30 cookies after acceptance: " +
+              str(websites_use_less_than_30_c_after) + calculate_percentage_value(websites_use_less_than_30_c_after))
+        print("Number of websites that have used between 30 and 40 cookies after acceptance: " +
+              str(websites_use_less_than_40_c_after) + calculate_percentage_value(websites_use_less_than_40_c_after))
+        print("Number of websites that have used between 40 and 50 cookies after acceptance: " +
+              str(websites_use_less_than_50_c_after) + calculate_percentage_value(websites_use_less_than_50_c_after))
+        print("Number of websites that have used more than 50 cookies after acceptance: " +
+              str(websites_use_more_than_50_c_after) + calculate_percentage_value(websites_use_more_than_50_c_after))
+
+        print("---Difference:")
+        print("Difference cookie count (before/after), less than 10 cookies added: " +
+              str(websites_use_less_than_10_c_difference) + calculate_percentage_value(websites_use_less_than_10_c_difference))
+        print("Difference cookie count (before/after), between 10 and 20 cookies added: " +
+              str(websites_use_less_than_20_c_difference) + calculate_percentage_value(websites_use_less_than_20_c_difference))
+        print("Difference cookie count (before/after), between 20 and 30 cookies added: " +
+              str(websites_use_less_than_30_c_difference) + calculate_percentage_value(websites_use_less_than_30_c_difference))
+        print("Difference cookie count (before/after), between 30 and 40 cookies added: " +
+              str(websites_use_less_than_40_c_difference) + calculate_percentage_value(websites_use_less_than_40_c_difference))
+        print("Difference cookie count (before/after), between 40 and 50 cookies added: " +
+              str(websites_use_less_than_50_c_difference) + calculate_percentage_value(websites_use_less_than_50_c_difference))
+        print("Difference cookie count (before/after), more than 50 cookies added: " +
+              str(websites_use_more_than_50_c_difference) + calculate_percentage_value(websites_use_more_than_50_c_difference))
+
+        print("\n#################### Third-party-cookie-results ####################")
+        print("Number of websites that have used the facebook pixel as a third-party cookie without permission: " +
+              str(websites_use_facebook_pixel) + calculate_other_values(websites_use_facebook_pixel))
+        print("Number of websites that have used the pinterest tag as a third-party cookie without permission: " +
+              str(websites_use_pinterest_tag) + calculate_other_values(websites_use_pinterest_tag))
+        print("Number of websites that have used a google service as a third-party cookie without permission: " +
+              str(websites_use_google_service) + calculate_other_values(websites_use_google_service))
+        print("Number of websites that have used hotjar as a third-party cookie without permission: " +
+              str(websites_use_hotjar_tool) + calculate_other_values(websites_use_hotjar_tool))
+        print("Number of websites that have used hubspot as a third-party cookie without permission: " +
+              str(websites_use_hubspot_system) + calculate_other_values(websites_use_hubspot_system))
+        print("Number of websites that have used klaviyo as a third-party cookie without permission: " +
+              str(websites_use_klaviyo_tool) + calculate_other_values(websites_use_klaviyo_tool))
+        print("Number of websites that have used leadfeeder as a third-party cookie without permission: " +
+              str(websites_use_leadfeeder_b2b_spytool) + calculate_other_values(websites_use_leadfeeder_b2b_spytool))
+        print("Number of websites that have used microsoft clarity as a third-party cookie without permission: " +
+              str(websites_use_microsoft_clarity_tool) + calculate_other_values(websites_use_microsoft_clarity_tool))
+        print("Number of websites that have used lucky orange as a third-party cookie without permission: " +
+              str(websites_use_luckyorange_tool) + calculate_other_values(websites_use_luckyorange_tool))
+
+        print("\n#################### Final analysis ####################")
+        print("Number of websites that have cookie characteristics but do not display a cookie banner to the user (special characteristic): " +
+              str(websites_special_characteristic) + calculate_other_values(websites_special_characteristic))
+        print("Number of websites that offer the user a "'"Decline"'" option: " +
+              str(websites_use_of_decline_option) + calculate_other_values(websites_use_of_decline_option))
+        print("Number of websites that use third-party cookies without permission at the beginning: " +
+              str(websites_use_unauthorized_third_party_c_at_beginning) + calculate_other_values(websites_use_unauthorized_third_party_c_at_beginning))
+        print("Number of websites that respect the user's decision and only load third-party cookies if this is explicitly permitted: " +
+              str(websites_respects_users_decision) + calculate_other_values(websites_respects_users_decision))
+        print("\nNumber of websites which are GDPR compliant: " +
               str(websites_that_are_gdpr_compliant) + calculate_other_values(websites_that_are_gdpr_compliant))
 
 
