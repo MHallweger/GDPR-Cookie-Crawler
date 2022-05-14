@@ -1,6 +1,22 @@
 # GDPR-Cookie-Crawler
 A python-selenium crawler which checks the GDPR compliance regarding cookies in Shopify stores. The tool also analyzes the existing cookies (before and after cookie-banner-decision). I developed this tool for my master-thesis.
 
+## System und Resultate (System and results)
+### Main.py (german)
+![](Master/Bilder/Funktionsdiagramme/Masterarbeit-main.py.drawio.png)
+### ExtractData.py (german)
+![](Master/Bilder/Funktionsdiagramme/Masterarbeit-ExtractData.py.drawio.png)
+### DSGVO-Konformität (GDPR-compliance)
+![](Master/Bilder/Diagramme/dsgvo-konformität/dsgvo_konformitaet.png)
+### Nutzung von DSGVO-konformen Cookie-Bannern (Use of GDPR-compliant cookie banners)
+![](Master/Bilder/Diagramme/Nutzung_von_GDPR-konformen_Cookie-Bannern/Nutzung_gdpr_konformen_cookie_bannern.png)
+### Unerlaubte Third-Party-Cookie Nutzung (Unauthorized third party cookie use)
+![](Master/Bilder/Diagramme/Third-Party-Cookie-Nutzung_unerlaubt/third-party-cookie-nutzung_unerlaubt.png)
+### Unerlaubte Third-Party-Cookies (Unauthorized third party cookies)
+![](Master/Bilder/Diagramme/unerlaubte_third-party_cookies/unerlaubte_third-party_cookies.png)
+### Respektierung der Nutzerentscheidungen (Respect for user decisions)
+![](Master/Bilder/Diagramme/Nutzerentscheidungen/Nutzerentscheidungen.png)
+
 ## Results (Console-log)
 #################### Basic results ####################<br>
 Number of websites that use a cookie banner (have characteristics): 2399 => [Percentage: 99.05%], [23 website(s) not]<br>
@@ -50,19 +66,3 @@ Number of websites that use third-party cookies without permission at the beginn
 Number of websites that respect the user's decision and only load third-party cookies if this is explicitly permitted: 973 => [Percentage: 40.17%], [1449 website(s) not]<br>
 
 Number of websites which are GDPR compliant: 743 => [Percentage: 30.68%], [1679 website(s) not]
-
-## System und Resultate (System and results)
-### Main.py (german)
-![](Master/Bilder/Funktionsdiagramme/Masterarbeit-main.py.drawio.png)
-### ExtractData.py (german)
-![](Master/Bilder/Funktionsdiagramme/Masterarbeit-ExtractData.py.drawio.png)
-### DSGVO-Konformität (GDPR-compliance)
-![](Master/Bilder/Diagramme/dsgvo-konformität/dsgvo_konformitaet.png)
-### Nutzung von DSGVO-konformen Cookie-Bannern (Use of GDPR-compliant cookie banners)
-![](Master/Bilder/Diagramme/Nutzung_von_GDPR-konformen_Cookie-Bannern/Nutzung_gdpr_konformen_cookie_bannern.png)
-### Unerlaubte Third-Party-Cookie Nutzung (Unauthorized third party cookie use)
-![](Master/Bilder/Diagramme/Third-Party-Cookie-Nutzung_unerlaubt/third-party-cookie-nutzung_unerlaubt.png)
-### Unerlaubte Third-Party-Cookies (Unauthorized third party cookies)
-![](Master/Bilder/Diagramme/unerlaubte_third-party_cookies/unerlaubte_third-party_cookies.png)
-### Respektierung der Nutzerentscheidungen (Respect for user decisions)
-![](Master/Bilder/Diagramme/Nutzerentscheidungen/Nutzerentscheidungen.png)
