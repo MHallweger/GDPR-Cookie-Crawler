@@ -67,7 +67,7 @@ text_files = []
 c_amount_before = 0
 c_amount_after = 0
 c_amount_difference = 0
-german_language_output = False  # Choose language output: german = True, english = False
+german_language_output = True  # Choose language output: german = True, english = False
 
 
 def calculate_other_values(base_value):
@@ -197,45 +197,45 @@ def analyze_generated_files():
                 elif "[Before] Website-Cookie-Amount:" in line:
                     c_amount_before = line.split(": ")[1]
 
-                    if int(c_amount_before) < 10:
+                    if int(c_amount_before) <= 10:
                         websites_use_less_than_10_c_before += 1
-                    elif int(c_amount_before) < 20:
+                    elif int(c_amount_before) <= 20:
                         websites_use_less_than_20_c_before += 1
-                    elif int(c_amount_before) < 30:
+                    elif int(c_amount_before) <= 30:
                         websites_use_less_than_30_c_before += 1
-                    elif int(c_amount_before) < 40:
+                    elif int(c_amount_before) <= 40:
                         websites_use_less_than_40_c_before += 1
-                    elif int(c_amount_before) < 50:
+                    elif int(c_amount_before) <= 50:
                         websites_use_less_than_50_c_before += 1
                     else:
                         websites_use_more_than_50_c_before += 1
                 elif "[After] Website-Cookie-Amount:" in line:
                     c_amount_after = line.split(": ")[1]
 
-                    if int(c_amount_after) < 10:
+                    if int(c_amount_after) <= 10:
                         websites_use_less_than_10_c_after += 1
-                    elif int(c_amount_after) < 20:
+                    elif int(c_amount_after) <= 20:
                         websites_use_less_than_20_c_after += 1
-                    elif int(c_amount_after) < 30:
+                    elif int(c_amount_after) <= 30:
                         websites_use_less_than_30_c_after += 1
-                    elif int(c_amount_after) < 40:
+                    elif int(c_amount_after) <= 40:
                         websites_use_less_than_40_c_after += 1
-                    elif int(c_amount_after) < 50:
+                    elif int(c_amount_after) <= 50:
                         websites_use_less_than_50_c_after += 1
                     else:
                         websites_use_more_than_50_c_after += 1
                 elif "[Difference] Cookies added:" in line:
                     c_amount_difference = line.split(": ")[1]
 
-                    if int(c_amount_difference) < 10:
+                    if int(c_amount_difference) <= 10:
                         websites_use_less_than_10_c_difference += 1
-                    elif int(c_amount_difference) < 20:
+                    elif int(c_amount_difference) <= 20:
                         websites_use_less_than_20_c_difference += 1
-                    elif int(c_amount_difference) < 30:
+                    elif int(c_amount_difference) <= 30:
                         websites_use_less_than_30_c_difference += 1
-                    elif int(c_amount_difference) < 40:
+                    elif int(c_amount_difference) <= 40:
                         websites_use_less_than_40_c_difference += 1
-                    elif int(c_amount_difference) < 50:
+                    elif int(c_amount_difference) <= 50:
                         websites_use_less_than_50_c_difference += 1
                     else:
                         websites_use_more_than_50_c_difference += 1

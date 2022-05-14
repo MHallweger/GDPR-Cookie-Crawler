@@ -19,6 +19,7 @@ if use_headless_mode:
     driver = webdriver.Chrome(executable_path=r"chromedriver.exe", options=options)
 else:
     options = Options()
+    options.add_argument("--window-size=1920,1200")
     options.add_argument('--disable-blink-features=AutomationControlled')
     driver = webdriver.Chrome(executable_path=r"chromedriver.exe", options=options)
 
@@ -64,6 +65,7 @@ all_websites_f8 = "src/websites_8.txt"  # 278 websites
 
 # Debug (For test purposes, use custom websites)
 single_website = ["http://www.google.de/"]
+
 websites = ["http://www.google.de/", "http://www.youtube.de/", "http://www.facebook.de/"]
 
 # Warnings (Captured in a German browser)
